@@ -11,7 +11,6 @@ import { ApiTags, ApiOperation, ApiResponse } from '@nestjs/swagger';
 import { OfferTypeService } from './offer-type.service';
 import { CreateOfferTypeDto } from './dto/create-offer-type.dto';
 import { UpdateOfferTypeDto } from './dto/update-offer-type.dto';
-import { BulkCreateOfferTypeDto } from './dto/bulk-create-offer-type.dto';
 import { OfferType } from './entities/offer-type.entity';
 
 @ApiTags('Offer Types')
