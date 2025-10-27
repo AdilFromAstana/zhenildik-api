@@ -13,17 +13,19 @@ import {
 import { OffersService } from './offers.service';
 import { CreateOfferDto } from './dto/create-offer.dto';
 import { JwtAuthGuard } from '../auth/guards/jwt-auth.guard';
-import { ApiTags, ApiOperation } from '@nestjs/swagger';
+import { ApiTags, ApiOperation, ApiQuery, ApiBearerAuth } from '@nestjs/swagger';
 import { FilesInterceptor } from '@nestjs/platform-express';
 import { diskStorage } from 'multer';
 import { extname } from 'path';
+import { QueryOffersDto } from './dto/query-offers.dto';
 
 @ApiTags('Offers')
 @Controller('offers')
 export class OffersController {
-  constructor(private readonly offers: OffersService) {}
+  constructor(private readonly offers: OffersService) { }
 
   @UseGuards(JwtAuthGuard)
+  @ApiBearerAuth('access-token')
   @Post()
   @UseInterceptors(
     FilesInterceptor('posters', 10, {
@@ -44,8 +46,6 @@ export class OffersController {
     @Body() dto: CreateOfferDto,
     @Req() req: any,
   ) {
-    console.log('dto: ', dto);
-    console.log('req: ', req);
     const baseUrl = `${req.protocol}://${req.get('host')}`;
     const fileUrls = files.map((f) => `${baseUrl}/uploads/${f.filename}`);
 
@@ -56,17 +56,17 @@ export class OffersController {
     });
   }
 
-  @ApiOperation({ summary: 'Получить все предложения или по категории' })
+  @ApiOperation({ summary: 'Получить все предложения с фильтрацией и пагинацией' })
   @Get()
-  async findAll(@Query('categoryId') categoryId?: string) {
-    if (categoryId) return this.offers.findByCategory(Number(categoryId));
-    return this.offers.findAll();
+  async findAll(@Query() query: QueryOffersDto) {
+    return this.offers.findAll(query);
   }
 
   @ApiOperation({ summary: 'Получить предложения текущего пользователя' })
   @UseGuards(JwtAuthGuard)
+  @ApiBearerAuth('access-token')
   @Get('my')
-  async findMy(@Req() req: any) {
-    return this.offers.findByUser(Number(req.user.sub));
+  async findMy(@Req() req: any, @Query() query: QueryOffersDto) {
+    return this.offers.findByUser(Number(req.user.sub), query);
   }
 }

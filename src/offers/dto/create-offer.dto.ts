@@ -8,6 +8,7 @@ import {
   IsDateString,
   IsArray,
   IsBoolean,
+  ValidateIf,
 } from 'class-validator';
 import { Type } from 'class-transformer';
 
@@ -36,65 +37,42 @@ export class CreateOfferDto {
   @Type(() => Number)
   categoryId: number;
 
-  // --- Цена ---
-  @ApiProperty({
-    example: true,
-    description: 'Есть ли минимальная сумма/стоимость? (e.g. "от 10 000 тг")',
-  })
+  @ApiProperty({ example: true })
   @IsBoolean()
   @Type(() => Boolean)
   hasMinPrice: boolean;
 
-  @ApiProperty({ example: 10000, required: false })
-  @IsOptional()
+  @ApiProperty({ example: 10000 })
+  @ValidateIf((o: CreateOfferDto) => o.hasMinPrice === true)
   @IsNumber()
   @Type(() => Number)
-  minPrice?: number;
+  minPrice: number; // ← убрали ? и @IsOptional()
 
-  // --- Условия ---
-  @ApiProperty({
-    example: true,
-    description:
-      'Есть ли обязательные условия (типа "только при оплате картой")',
-  })
+  @ApiProperty({ example: true })
   @IsBoolean()
   @Type(() => Boolean)
   hasConditions: boolean;
 
-  @ApiProperty({
-    example: 'Только при оплате картой',
-    required: false,
-  })
-  @IsOptional()
+  @ApiProperty({ example: 'Только при оплате картой' })
+  @ValidateIf((o: CreateOfferDto) => o.hasConditions === true)
   @IsString()
-  conditions?: string;
+  @IsNotEmpty()
+  conditions: string; // ← убрали ? и @IsOptional()
 
-  // --- Даты ---
-  @ApiProperty({
-    example: true,
-    description: 'Акция ограничена по времени?',
-  })
+  @ApiProperty({ example: true })
   @IsBoolean()
   @Type(() => Boolean)
   hasEndDate: boolean;
 
-  @ApiProperty({
-    example: '2025-01-01',
-    required: false,
-    description: 'Дата начала действия акции (YYYY-MM-DD)',
-  })
-  @IsOptional()
+  @ApiProperty({ example: '2025-01-01' })
+  @ValidateIf((o: CreateOfferDto) => o.hasEndDate === true)
   @IsDateString()
-  startDate?: string;
+  startDate: string; // ← обязателен, если hasEndDate = true
 
-  @ApiProperty({
-    example: '2025-01-31',
-    required: false,
-    description: 'Дата окончания действия акции (YYYY-MM-DD)',
-  })
-  @IsOptional()
+  @ApiProperty({ example: '2025-01-31' })
+  @ValidateIf((o: CreateOfferDto) => o.hasEndDate === true)
   @IsDateString()
-  endDate?: string;
+  endDate: string; // ← обязателен, если hasEndDate = true
 
   // --- Постеры ---
   @ApiProperty({

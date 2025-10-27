@@ -13,6 +13,17 @@ async function bootstrap() {
     .setDescription('API для каталога акций и категорий')
     .setVersion('1.0')
     .addTag('categories')
+    .addBearerAuth(
+      {
+        type: 'http',
+        scheme: 'bearer',
+        bearerFormat: 'JWT',
+        name: 'Authorization',
+        description: 'Введите JWT токен (без "Bearer " — только сам токен)',
+        in: 'header',
+      },
+      'access-token', // имя схемы — должно совпадать с @ApiBearerAuth()
+    )
     .build();
 
   app.enableCors({ origin: '*' });
@@ -26,7 +37,7 @@ async function bootstrap() {
   );
 
   app.useStaticAssets(join(__dirname, '..', 'uploads'), {
-    prefix: '/uploads/', 
+    prefix: '/uploads/',
   });
 
   const document = SwaggerModule.createDocument(app, config);

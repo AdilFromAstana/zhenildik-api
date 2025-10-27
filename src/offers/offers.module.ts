@@ -1,12 +1,17 @@
 // src/offers/offers.module.ts
 import { Module } from '@nestjs/common';
-import { OffersController } from './offers.controller';
+import { TypeOrmModule } from '@nestjs/typeorm';
 import { OffersService } from './offers.service';
-import { AuthModule } from '../auth/auth.module'; // 👈 добавляем
+import { OffersController } from './offers.controller';
+import { Offer } from './entities/offer.entity';
+import { AuthModule } from '../auth/auth.module'; // ← добавьте этот импорт
 
 @Module({
-  imports: [AuthModule], // 👈 теперь OffersModule видит JwtService и JwtAuthGuard
-  controllers: [OffersController],
+  imports: [
+    TypeOrmModule.forFeature([Offer]),
+    AuthModule, // ← добавьте эту строку
+  ],
   providers: [OffersService],
+  controllers: [OffersController],
 })
-export class OffersModule {}
+export class OffersModule { }
