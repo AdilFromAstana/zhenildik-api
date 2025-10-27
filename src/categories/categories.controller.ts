@@ -9,7 +9,7 @@ import {
 } from '@nestjs/common';
 import { CategoriesService } from './categories.service';
 import { CreateCategoryDto } from './dto/create-category.dto';
-import { categories as seedData } from '../seed/categories.seed';
+import { categories as seedData } from './seed/categories.seed';
 import { ApiTags, ApiOperation, ApiResponse, ApiQuery } from '@nestjs/swagger';
 
 @ApiTags('categories')
