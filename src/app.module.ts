@@ -3,10 +3,10 @@ import { TypeOrmModule } from '@nestjs/typeorm';
 import { CategoriesModule } from './categories/categories.module';
 import { CitiesModule } from './cities/cities.module';
 import { DistrictsModule } from './districts/districts.module';
-import { DealsModule } from './deals/deals.module';
 import { UsersModule } from './users/users.module';
 import { AuthModule } from './auth/auth.module';
 import { OfferTypeModule } from './offer-type/offer-type.module';
+import { OffersModule } from './offers/offers.module';
 
 @Module({
   imports: [
@@ -24,9 +24,9 @@ import { OfferTypeModule } from './offer-type/offer-type.module';
     CitiesModule,
     DistrictsModule,
     AuthModule,
-    DealsModule,
     UsersModule,
     OfferTypeModule,
+    OffersModule,
   ],
 })
 export class AppModule {}
