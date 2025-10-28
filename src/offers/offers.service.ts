@@ -1,51 +1,63 @@
 // src/offers/offers.service.ts
-import { BadRequestException, Injectable } from '@nestjs/common';
+import { BadRequestException, Injectable, NotFoundException } from '@nestjs/common';
 import { InjectRepository } from '@nestjs/typeorm';
 import { Repository } from 'typeorm';
 import { Offer } from './entities/offer.entity';
 import { CreateOfferDto } from './dto/create-offer.dto';
 import { QueryOffersDto, SortBy } from './dto/query-offers.dto';
+import { UpdateOfferDto } from './dto/update-offer.dto';
 
 @Injectable()
 export class OffersService {
   constructor(
     @InjectRepository(Offer)
     private offerRepository: Repository<Offer>,
-  ) { }
+  ) {}
 
   async create(
     dto: CreateOfferDto & { createdByUserId: number },
   ): Promise<Offer> {
     const now = new Date();
-    console.log("dto: ", dto)
+    console.log('dto: ', dto);
 
     // 🔒 Условная валидация
     if (dto.hasMinPrice) {
+      console.log('dto.hasMinPrice: ', dto.hasMinPrice);
       if (dto.minPrice == null || dto.minPrice < 0) {
-        throw new BadRequestException('minPrice must be provided and >= 0 when hasMinPrice is true');
+        throw new BadRequestException(
+          'minPrice must be provided and >= 0 when hasMinPrice is true',
+        );
       }
     }
 
     if (dto.hasConditions) {
       if (!dto.conditions || dto.conditions.trim() === '') {
-        throw new BadRequestException('conditions must be provided and non-empty when hasConditions is true');
+        throw new BadRequestException(
+          'conditions must be provided and non-empty when hasConditions is true',
+        );
       }
     }
 
     if (dto.hasEndDate) {
       if (!dto.startDate || !dto.endDate) {
-        throw new BadRequestException('startDate and endDate must be provided when hasEndDate is true');
+        throw new BadRequestException(
+          'startDate and endDate must be provided when hasEndDate is true',
+        );
       }
 
       const start = new Date(dto.startDate);
       const end = new Date(dto.endDate);
 
       if (isNaN(start.getTime()) || isNaN(end.getTime())) {
-        throw new BadRequestException('startDate and endDate must be valid ISO dates (YYYY-MM-DD)');
+        throw new BadRequestException(
+          'startDate and endDate must be valid ISO dates (YYYY-MM-DD)',
+        );
       }
 
       if (end < start) {
-        throw new BadRequestException('endDate cannot be earlier than startDate');
+        throw new BadRequestException(
+          'endDate cannot be earlier than startDate',
+        );
       }
     }
 
@@ -59,8 +71,8 @@ export class OffersService {
       hasConditions: dto.hasConditions,
       conditions: dto.conditions,
       hasEndDate: dto.hasEndDate,
-      startDate: dto.hasEndDate,
-      endDate: dto.hasEndDate,
+      startDate: dto.startDate,
+      endDate: dto.endDate,
       posters: dto.posters ?? [],
       createdByUserId: dto.createdByUserId,
       createdAt: now,
@@ -133,6 +145,8 @@ export class OffersService {
   ): Promise<{ data: Offer[]; total: number }> {
     const queryBuilder = this.offerRepository
       .createQueryBuilder('offer')
+      .leftJoinAndSelect('offer.category', 'category')
+      .leftJoinAndSelect('offer.offerType', 'offerType')
       .where('offer.createdByUserId = :userId', { userId });
 
     // Повторяем те же фильтры, что и в findAll
@@ -177,5 +191,44 @@ export class OffersService {
       .getMany();
 
     return { data, total };
+  }
+
+  async findOneByUser(id: number, userId: number) {
+    return this.offerRepository.findOne({
+      where: { id, createdByUserId: userId },
+      relations: ['offerType', 'category'],
+    });
+  }
+
+  async updateOffer(
+    id: number,
+    userId: number,
+    dto: UpdateOfferDto,
+  ): Promise<Offer> {
+    const offer = await this.findOneByUser(id, userId);
+    if (!offer) throw new NotFoundException('Предложение не найдено');
+
+    if (dto.hasEndDate !== undefined) offer.hasEndDate = dto.hasEndDate;
+    if (dto.hasEndDate) {
+      offer.startDate = dto.startDate ? new Date(dto.startDate) : null;
+      offer.endDate = dto.endDate ? new Date(dto.endDate) : null;
+    } else {
+      offer.startDate = null;
+      offer.endDate = null;
+    }
+
+    if (dto.archived !== undefined) {
+      // “Архивация” — просто выставляем дату окончания в прошлом
+      if (dto.archived) {
+        offer.hasEndDate = true;
+        offer.endDate = new Date(Date.now() - 24 * 60 * 60 * 1000);
+      } else {
+        // активация: убираем архивность
+        offer.endDate = null;
+        offer.hasEndDate = false;
+      }
+    }
+
+    return this.offerRepository.save(offer);
   }
 }

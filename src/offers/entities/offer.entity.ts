@@ -1,6 +1,16 @@
 // src/offers/entities/offer.entity.ts
 
-import { Entity, Column, PrimaryGeneratedColumn, CreateDateColumn, UpdateDateColumn } from 'typeorm';
+import { Category } from 'src/categories/category.entity';
+import { OfferType } from 'src/offer-type/entities/offer-type.entity';
+import {
+  Entity,
+  Column,
+  PrimaryGeneratedColumn,
+  CreateDateColumn,
+  UpdateDateColumn,
+  ManyToOne,
+  JoinColumn,
+} from 'typeorm';
 
 @Entity('offers')
 export class Offer {
@@ -19,11 +29,19 @@ export class Offer {
   @Column({ nullable: true })
   categoryId: number;
 
+  @ManyToOne(() => OfferType, { eager: true })
+  @JoinColumn({ name: 'offerTypeCode', referencedColumnName: 'code' })
+  offerType: OfferType;
+
+  @ManyToOne(() => Category, { eager: true })
+  @JoinColumn({ name: 'categoryId' })
+  category: Category;
+
   @Column()
   hasMinPrice: boolean;
 
   @Column({ type: 'decimal', precision: 10, scale: 2, nullable: true })
-  minPrice: number | null;
+  minPrice?: number;
 
   @Column()
   hasConditions: boolean;
@@ -36,10 +54,10 @@ export class Offer {
   hasEndDate: boolean;
 
   @Column({ type: 'timestamp', nullable: true })
-  startDate?: Date;
+  startDate?: Date | null;
 
   @Column({ type: 'timestamp', nullable: true })
-  endDate?: Date;
+  endDate?: Date | null;
 
   @Column('simple-array') // или @Column({ type: 'text', array: true }) если массив
   posters: string[];
