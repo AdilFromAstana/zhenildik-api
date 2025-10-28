@@ -6,13 +6,14 @@ import { Offer } from './entities/offer.entity';
 import { CreateOfferDto } from './dto/create-offer.dto';
 import { QueryOffersDto, SortBy } from './dto/query-offers.dto';
 import { UpdateOfferDto } from './dto/update-offer.dto';
+import { UpdateOfferStatusDto } from './dto/update-offer-status.dto';
 
 @Injectable()
 export class OffersService {
   constructor(
     @InjectRepository(Offer)
     private offerRepository: Repository<Offer>,
-  ) {}
+  ) { }
 
   async create(
     dto: CreateOfferDto & { createdByUserId: number },
@@ -96,6 +97,10 @@ export class OffersService {
       );
     }
 
+    if (filters.status) {
+      queryBuilder.andWhere('offer.status = :status', { status: filters.status });
+    }
+
     // Фильтр по категории
     if (filters.categoryId) {
       queryBuilder.andWhere('offer.categoryId = :categoryId', {
@@ -161,6 +166,9 @@ export class OffersService {
       queryBuilder.andWhere('offer.categoryId = :categoryId', {
         categoryId: filters.categoryId,
       });
+    }
+    if (filters.status) {
+      queryBuilder.andWhere('offer.status = :status', { status: filters.status });
     }
     if (filters.offerTypeCode) {
       queryBuilder.andWhere('offer.offerTypeCode = :offerTypeCode', {
@@ -230,5 +238,38 @@ export class OffersService {
     }
 
     return this.offerRepository.save(offer);
+  }
+
+  async updateStatus(id: number, userId: number, dto: UpdateOfferStatusDto) {
+    const offer = await this.findOneByUser(id, userId);
+    if (!offer) throw new NotFoundException('Предложение не найдено');
+
+    offer.status = dto.status;
+    return this.offerRepository.save(offer);
+  }
+
+  async getUserOfferStats(userId: number) {
+    const result = await this.offerRepository
+      .createQueryBuilder('offer')
+      .select('offer.status', 'status')
+      .addSelect('COUNT(*)::int', 'count')
+      .where('offer.createdByUserId = :userId', { userId })
+      .groupBy('offer.status')
+      .getRawMany<{ status: string; count: number }>();
+
+    // Собираем динамически
+    const stats: Record<string, number> = { total: 0 };
+
+    for (const { status, count } of result) {
+      stats[status] = count;
+      stats.total += count;
+    }
+
+    // гарантируем, что фронт всегда получает все известные поля
+    for (const key of ['ACTIVE', 'ARCHIVE', 'DRAFT', 'REVIEW', 'DELETED']) {
+      if (!(key in stats)) stats[key] = 0;
+    }
+
+    return stats;
   }
 }

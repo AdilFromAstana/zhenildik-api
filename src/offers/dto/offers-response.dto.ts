@@ -1,6 +1,7 @@
 // src/offers/dto/offer-response.dto.ts
 import { ApiProperty } from '@nestjs/swagger';
 import { Exclude, Expose, Type } from 'class-transformer';
+import { OfferStatus } from '../entities/offer.entity';
 
 @Exclude()
 export class OfferTypeShortDto {
@@ -42,6 +43,7 @@ export class OffersResponseDto {
   @Expose() startDate?: Date;
   @Expose() endDate?: Date;
   @Expose() posters: string[];
+  @Expose() status: OfferStatus;
   @Expose() createdAt: Date;
 
   @Expose()

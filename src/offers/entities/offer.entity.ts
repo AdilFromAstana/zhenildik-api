@@ -12,6 +12,14 @@ import {
   JoinColumn,
 } from 'typeorm';
 
+export enum OfferStatus {
+  DRAFT = 'DRAFT',       // черновик
+  ACTIVE = 'ACTIVE',     // активный
+  ARCHIVE = 'ARCHIVE',   // архив
+  DELETED = 'DELETED',   // удалённый
+  PENDING = 'PENDING',   // на проверке
+}
+
 @Entity('offers')
 export class Offer {
   @PrimaryGeneratedColumn()
@@ -64,6 +72,9 @@ export class Offer {
 
   @Column()
   createdByUserId: number;
+
+  @Column({ type: 'enum', enum: OfferStatus, default: OfferStatus.DRAFT })
+  status: OfferStatus;
 
   @CreateDateColumn()
   createdAt: Date;

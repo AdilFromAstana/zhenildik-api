@@ -10,6 +10,7 @@ import {
     Min,
     Max,
 } from 'class-validator';
+import { OfferStatus } from '../entities/offer.entity';
 
 export enum SortBy {
     createdAt = 'createdAt',
@@ -57,6 +58,11 @@ export class QueryOffersDto {
     @IsOptional()
     @Type(() => Boolean)
     activeOnly?: boolean;
+
+    @ApiPropertyOptional({ enum: OfferStatus })
+    @IsOptional()
+    @IsEnum(OfferStatus)
+    status?: OfferStatus;
 
     @ApiPropertyOptional({ enum: SortBy, default: SortBy.createdAt })
     @IsOptional()

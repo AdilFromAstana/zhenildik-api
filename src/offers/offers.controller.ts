@@ -12,6 +12,7 @@ import {
   Param,
   Put,
   NotFoundException,
+  ParseIntPipe,
 } from '@nestjs/common';
 import { OffersService } from './offers.service';
 import { CreateOfferDto } from './dto/create-offer.dto';
@@ -30,11 +31,12 @@ import { QueryOffersDto } from './dto/query-offers.dto';
 import { plainToInstance } from 'class-transformer';
 import { OffersResponseDto } from './dto/offers-response.dto';
 import { UpdateOfferDto } from './dto/update-offer.dto';
+import { UpdateOfferStatusDto } from './dto/update-offer-status.dto';
 
 @ApiTags('Offers')
 @Controller('offers')
 export class OffersController {
-  constructor(private readonly offers: OffersService) {}
+  constructor(private readonly offers: OffersService) { }
 
   // ✅ Создание
   @UseGuards(JwtAuthGuard)
@@ -92,6 +94,14 @@ export class OffersController {
     };
   }
 
+  @Get('stats')
+  @UseGuards(JwtAuthGuard)
+  @ApiBearerAuth('access-token')
+  @ApiOperation({ summary: 'Получить статистику по статусам пользователя' })
+  async getUserStats(@Req() req: any) {
+    return this.offers.getUserOfferStats(req.user.sub);
+  }
+
   // ✅ Получить одно предложение
   @ApiOperation({ summary: 'Получить одно предложение по ID' })
   @UseGuards(JwtAuthGuard)
@@ -106,7 +116,16 @@ export class OffersController {
     });
   }
 
-  // ✅ Обновить предложение (даты, статус)
+  @Put(':id/status')
+  async updateStatus(
+    @Param('id', ParseIntPipe) id: number,
+    @Body() dto: UpdateOfferStatusDto,
+    @Req() req: any,
+  ) {
+    const updated = await this.offers.updateStatus(Number(id), req.user.sub, dto);
+    return plainToInstance(OffersResponseDto, updated, { excludeExtraneousValues: true });
+  }
+
   @ApiOperation({
     summary: 'Обновить предложение (даты, статус — архив/активация)',
   })
