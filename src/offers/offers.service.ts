@@ -6,12 +6,13 @@ import {
 } from '@nestjs/common';
 import { InjectRepository } from '@nestjs/typeorm';
 import { In, Repository } from 'typeorm';
-import { Offer } from './entities/offer.entity';
+import { Offer, OfferStatus } from './entities/offer.entity';
 import { CreateOfferDto } from './dto/create-offer.dto';
 import { QueryOffersDto, SortBy } from './dto/query-offers.dto';
 import { UpdateOfferDto } from './dto/update-offer.dto';
 import { UpdateOfferStatusDto } from './dto/update-offer-status.dto';
 import { Location } from 'src/locations/location.entity';
+import { ModerationService } from 'src/moderation/moderation.service';
 
 @Injectable()
 export class OffersService {
@@ -20,7 +21,8 @@ export class OffersService {
     private readonly offerRepository: Repository<Offer>,
     @InjectRepository(Location)
     private readonly locationRepository: Repository<Location>,
-  ) {}
+    private readonly moderationService: ModerationService,
+  ) { }
 
   async create(
     dto: CreateOfferDto & { createdByUserId: number },
@@ -69,11 +71,11 @@ export class OffersService {
 
     const locations = dto.locationIds?.length
       ? await this.locationRepository.find({
-          where: {
-            id: In(dto.locationIds),
-            createdByUserId: dto.createdByUserId,
-          },
-        })
+        where: {
+          id: In(dto.locationIds),
+          createdByUserId: dto.createdByUserId,
+        },
+      })
       : [];
 
     const offer = this.offerRepository.create({
@@ -93,9 +95,26 @@ export class OffersService {
       createdAt: now,
       updatedAt: now,
       locations,
+      status: OfferStatus.PENDING
     });
 
-    return this.offerRepository.save(offer);
+    const saved = await this.offerRepository.save(offer);
+
+    const text = `${dto.title}\n${dto.description ?? ''}`;
+    await this.moderationService
+      .validateText(text, 'offer')
+      .then(async (moderation) => {
+        console.log('Moderation result:', moderation);
+
+        const isFlagged = moderation.flagged === true
+
+        await this.offerRepository.update(saved.id, {
+          status: isFlagged ? OfferStatus.DRAFT : OfferStatus.ACTIVE,
+        });
+      })
+
+    return saved;
+
   }
 
   async findAll(

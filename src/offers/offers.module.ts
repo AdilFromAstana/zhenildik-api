@@ -6,10 +6,11 @@ import { OffersController } from './offers.controller';
 import { Offer } from './entities/offer.entity';
 import { AuthModule } from '../auth/auth.module';
 import { LocationsModule } from 'src/locations/locations.module';
+import { ModerationModule } from 'src/moderation/moderation.module';
 
 @Module({
-  imports: [TypeOrmModule.forFeature([Offer]), AuthModule, LocationsModule],
+  imports: [TypeOrmModule.forFeature([Offer]), AuthModule, LocationsModule, ModerationModule],
   providers: [OffersService],
   controllers: [OffersController],
 })
-export class OffersModule {}
+export class OffersModule { }
