@@ -36,9 +36,8 @@ import { UpdateOfferStatusDto } from './dto/update-offer-status.dto';
 @ApiTags('Offers')
 @Controller('offers')
 export class OffersController {
-  constructor(private readonly offers: OffersService) { }
+  constructor(private readonly offers: OffersService) {}
 
-  // ✅ Создание
   @UseGuards(JwtAuthGuard)
   @ApiBearerAuth('access-token')
   @Post()
@@ -70,16 +69,15 @@ export class OffersController {
     });
   }
 
-  // ✅ Получить все
   @ApiOperation({
     summary: 'Получить все предложения с фильтрацией и пагинацией',
   })
   @Get()
   async findAll(@Query() query: QueryOffersDto) {
+    console.log('query: ', query);
     return this.offers.findAll(query);
   }
 
-  // ✅ Мои предложения
   @ApiOperation({ summary: 'Получить предложения текущего пользователя' })
   @UseGuards(JwtAuthGuard)
   @ApiBearerAuth('access-token')
@@ -102,7 +100,6 @@ export class OffersController {
     return this.offers.getUserOfferStats(req.user.sub);
   }
 
-  // ✅ Получить одно предложение
   @ApiOperation({ summary: 'Получить одно предложение по ID' })
   @UseGuards(JwtAuthGuard)
   @ApiBearerAuth('access-token')
@@ -122,8 +119,14 @@ export class OffersController {
     @Body() dto: UpdateOfferStatusDto,
     @Req() req: any,
   ) {
-    const updated = await this.offers.updateStatus(Number(id), req.user.sub, dto);
-    return plainToInstance(OffersResponseDto, updated, { excludeExtraneousValues: true });
+    const updated = await this.offers.updateStatus(
+      Number(id),
+      req.user.sub,
+      dto,
+    );
+    return plainToInstance(OffersResponseDto, updated, {
+      excludeExtraneousValues: true,
+    });
   }
 
   @ApiOperation({

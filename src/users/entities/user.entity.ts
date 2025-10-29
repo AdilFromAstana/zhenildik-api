@@ -1,4 +1,6 @@
-import { Entity, Column, PrimaryGeneratedColumn } from 'typeorm';
+import { Entity, Column, PrimaryGeneratedColumn, OneToMany } from 'typeorm';
+import { Location } from 'src/locations/location.entity';
+import { Offer } from 'src/offers/entities/offer.entity';
 
 @Entity('users')
 export class User {
@@ -45,4 +47,12 @@ export class User {
     nullable: true,
   })
   pendingOtpExpiresAt: Date | null;
+
+  // 🔗 Связь: пользователь → локации
+  @OneToMany(() => Location, (location) => location.user)
+  locations: Location[];
+
+  // 🔗 Связь: пользователь → офферы
+  @OneToMany(() => Offer, (offer) => offer.user)
+  offers: Offer[];
 }

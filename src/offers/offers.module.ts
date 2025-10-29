@@ -4,14 +4,12 @@ import { TypeOrmModule } from '@nestjs/typeorm';
 import { OffersService } from './offers.service';
 import { OffersController } from './offers.controller';
 import { Offer } from './entities/offer.entity';
-import { AuthModule } from '../auth/auth.module'; // ← добавьте этот импорт
+import { AuthModule } from '../auth/auth.module';
+import { LocationsModule } from 'src/locations/locations.module';
 
 @Module({
-  imports: [
-    TypeOrmModule.forFeature([Offer]),
-    AuthModule, // ← добавьте эту строку
-  ],
+  imports: [TypeOrmModule.forFeature([Offer]), AuthModule, LocationsModule],
   providers: [OffersService],
   controllers: [OffersController],
 })
-export class OffersModule { }
+export class OffersModule {}

@@ -1,27 +1,32 @@
 // src/offers/offers.service.ts
-import { BadRequestException, Injectable, NotFoundException } from '@nestjs/common';
+import {
+  BadRequestException,
+  Injectable,
+  NotFoundException,
+} from '@nestjs/common';
 import { InjectRepository } from '@nestjs/typeorm';
-import { Repository } from 'typeorm';
+import { In, Repository } from 'typeorm';
 import { Offer } from './entities/offer.entity';
 import { CreateOfferDto } from './dto/create-offer.dto';
 import { QueryOffersDto, SortBy } from './dto/query-offers.dto';
 import { UpdateOfferDto } from './dto/update-offer.dto';
 import { UpdateOfferStatusDto } from './dto/update-offer-status.dto';
+import { Location } from 'src/locations/location.entity';
 
 @Injectable()
 export class OffersService {
   constructor(
     @InjectRepository(Offer)
-    private offerRepository: Repository<Offer>,
-  ) { }
+    private readonly offerRepository: Repository<Offer>,
+    @InjectRepository(Location)
+    private readonly locationRepository: Repository<Location>,
+  ) {}
 
   async create(
     dto: CreateOfferDto & { createdByUserId: number },
   ): Promise<Offer> {
     const now = new Date();
-    console.log('dto: ', dto);
 
-    // 🔒 Условная валидация
     if (dto.hasMinPrice) {
       console.log('dto.hasMinPrice: ', dto.hasMinPrice);
       if (dto.minPrice == null || dto.minPrice < 0) {
@@ -62,6 +67,15 @@ export class OffersService {
       }
     }
 
+    const locations = dto.locationIds?.length
+      ? await this.locationRepository.find({
+          where: {
+            id: In(dto.locationIds),
+            createdByUserId: dto.createdByUserId,
+          },
+        })
+      : [];
+
     const offer = this.offerRepository.create({
       title: dto.title,
       description: dto.description,
@@ -78,6 +92,7 @@ export class OffersService {
       createdByUserId: dto.createdByUserId,
       createdAt: now,
       updatedAt: now,
+      locations,
     });
 
     return this.offerRepository.save(offer);
@@ -86,9 +101,12 @@ export class OffersService {
   async findAll(
     filters: QueryOffersDto,
   ): Promise<{ data: Offer[]; total: number }> {
-    const queryBuilder = this.offerRepository.createQueryBuilder('offer');
+    const queryBuilder = this.offerRepository
+      .createQueryBuilder('offer')
+      .leftJoinAndSelect('offer.locations', 'locations')
+      .leftJoinAndSelect('offer.category', 'category')
+      .leftJoinAndSelect('offer.offerType', 'offerType');
 
-    // Поиск по title/description
     if (filters.search) {
       const term = `%${filters.search.toLowerCase()}%`;
       queryBuilder.andWhere(
@@ -98,33 +116,29 @@ export class OffersService {
     }
 
     if (filters.status) {
-      queryBuilder.andWhere('offer.status = :status', { status: filters.status });
+      queryBuilder.andWhere('offer.status = :status', {
+        status: filters.status,
+      });
     }
 
-    // Фильтр по категории
     if (filters.categoryId) {
       queryBuilder.andWhere('offer.categoryId = :categoryId', {
         categoryId: filters.categoryId,
       });
     }
 
-    // Фильтр по типу
     if (filters.offerTypeCode) {
       queryBuilder.andWhere('offer.offerTypeCode = :offerTypeCode', {
         offerTypeCode: filters.offerTypeCode,
       });
     }
 
-    // Только активные акции
-    if (filters.activeOnly) {
-      const now = new Date();
-      queryBuilder.andWhere(
-        '(offer.hasEndDate = false OR offer.endDate IS NULL OR offer.endDate >= :now)',
-        { now },
-      );
+    if (filters.cityCode) {
+      queryBuilder.andWhere('offer.cityCode = :cityCode', {
+        cityCode: filters.cityCode,
+      });
     }
 
-    // Сортировка
     const sortFieldMap: Record<SortBy, string> = {
       createdAt: 'offer.createdAt',
       title: 'offer.title',
@@ -133,7 +147,6 @@ export class OffersService {
     const sortField = sortFieldMap[filters.sortBy] || 'offer.createdAt';
     queryBuilder.orderBy(sortField, filters.sortOrder);
 
-    // Пагинация
     const total = await queryBuilder.getCount();
     const { page, limit } = filters;
     const data = await queryBuilder
@@ -168,19 +181,19 @@ export class OffersService {
       });
     }
     if (filters.status) {
-      queryBuilder.andWhere('offer.status = :status', { status: filters.status });
+      queryBuilder.andWhere('offer.status = :status', {
+        status: filters.status,
+      });
     }
     if (filters.offerTypeCode) {
       queryBuilder.andWhere('offer.offerTypeCode = :offerTypeCode', {
         offerTypeCode: filters.offerTypeCode,
       });
     }
-    if (filters.activeOnly) {
-      const now = new Date();
-      queryBuilder.andWhere(
-        '(offer.hasEndDate = false OR offer.endDate IS NULL OR offer.endDate >= :now)',
-        { now },
-      );
+    if (filters.cityCode) {
+      queryBuilder.andWhere('offer.cityCode = :cityCode', {
+        cityCode: filters.cityCode,
+      });
     }
 
     const sortFieldMap: Record<SortBy, string> = {

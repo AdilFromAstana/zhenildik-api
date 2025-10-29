@@ -10,14 +10,18 @@ import {
   UpdateDateColumn,
   ManyToOne,
   JoinColumn,
+  ManyToMany,
+  JoinTable,
 } from 'typeorm';
+import { Location } from '../../locations/location.entity';
+import { User } from 'src/users/entities/user.entity';
 
 export enum OfferStatus {
-  DRAFT = 'DRAFT',       // черновик
-  ACTIVE = 'ACTIVE',     // активный
-  ARCHIVE = 'ARCHIVE',   // архив
-  DELETED = 'DELETED',   // удалённый
-  PENDING = 'PENDING',   // на проверке
+  DRAFT = 'DRAFT', // черновик
+  ACTIVE = 'ACTIVE', // активный
+  ARCHIVE = 'ARCHIVE', // архив
+  DELETED = 'DELETED', // удалённый
+  PENDING = 'PENDING', // на проверке
 }
 
 @Entity('offers')
@@ -45,6 +49,9 @@ export class Offer {
   @JoinColumn({ name: 'categoryId' })
   category: Category;
 
+  @Column({ nullable: true })
+  cityCode: string;
+
   @Column()
   hasMinPrice: boolean;
 
@@ -54,7 +61,6 @@ export class Offer {
   @Column()
   hasConditions: boolean;
 
-  // ✅ Вот так правильно:
   @Column({ nullable: true })
   conditions?: string;
 
@@ -67,7 +73,7 @@ export class Offer {
   @Column({ type: 'timestamp', nullable: true })
   endDate?: Date | null;
 
-  @Column('simple-array') // или @Column({ type: 'text', array: true }) если массив
+  @Column('simple-array')
   posters: string[];
 
   @Column()
@@ -80,5 +86,16 @@ export class Offer {
   createdAt: Date;
 
   @UpdateDateColumn()
-  updatedAt: Date;
+  updatedAt: Date;  
+
+  @ManyToMany(() => Location, (location) => location.offers, { cascade: true })
+  @JoinTable({
+    name: 'offer_locations',
+    joinColumn: { name: 'offerId', referencedColumnName: 'id' },
+    inverseJoinColumn: { name: 'locationId', referencedColumnName: 'id' },
+  })
+  locations: Location[];
+
+  @ManyToOne(() => User, (user) => user.offers, { onDelete: 'CASCADE' })
+  user: User;
 }

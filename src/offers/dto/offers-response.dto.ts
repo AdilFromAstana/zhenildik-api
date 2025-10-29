@@ -34,6 +34,7 @@ export class OffersResponseDto {
   @Expose() id: number;
   @Expose() title: string;
   @Expose() description: string;
+  @Expose() cityCode: string;
   @Expose() offerTypeCode: string;
   @Expose() categoryId: number;
   @Expose() hasMinPrice: boolean;

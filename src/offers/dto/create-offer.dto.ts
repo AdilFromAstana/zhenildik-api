@@ -67,8 +67,19 @@ export class CreateOfferDto {
   @IsDateString()
   endDate?: string;
 
+  @ApiProperty()
+  @IsString()
+  @IsNotEmpty()
+  cityCode: string;
+
   @ApiProperty({ type: [String], required: false })
   @IsOptional()
   @IsArray()
   posters?: string[];
+
+  @ApiProperty({ type: [Number], required: false })
+  @IsOptional()
+  @IsArray()
+  @Type(() => Number)
+  locationIds?: number[];
 }
