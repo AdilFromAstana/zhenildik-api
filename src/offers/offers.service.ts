@@ -90,6 +90,7 @@ export class OffersService {
       hasEndDate: dto.hasEndDate,
       startDate: dto.startDate,
       endDate: dto.endDate,
+      cityCode: dto.cityCode,
       posters: dto.posters ?? [],
       createdByUserId: dto.createdByUserId,
       createdAt: now,
