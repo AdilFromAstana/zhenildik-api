@@ -23,6 +23,15 @@ const CONFIG = {
     },
 };
 
+// --- Параметры запуска ---
+const args = process.argv.slice(2);
+const LIMIT_RESTAURANTS = args[0] ? parseInt(args[0]) : null; // например node wolt.js 5
+if (LIMIT_RESTAURANTS) {
+    console.log(`⚙️ Будет найдено не более ${LIMIT_RESTAURANTS} ресторанов с акциями`);
+} else {
+    console.log("⚙️ Предел не задан — будут собраны все рестораны");
+}
+
 const delay = (ms) => new Promise((r) => setTimeout(r, ms));
 const log = (msg) => CONFIG.DEBUG && console.log(msg);
 const normalizeUrl = (url) => url.replace(/\/$/, "");
@@ -195,17 +204,60 @@ async function processRestaurant(restaurant, browser, visited, results, index, t
                 .map((card) => {
                     const badge = card.querySelector('[data-test-id="ItemDiscountBadge"]');
                     if (!badge) return null;
-                    const title = card.querySelector('[data-test-id="horizontal-item-card-header"]')?.innerText.trim() || "";
+
+                    const title =
+                        card.querySelector('[data-test-id="horizontal-item-card-header"]')?.innerText.trim() || "";
                     const description = card.querySelector("p")?.innerText.trim() || "";
                     const discountText = badge.innerText.trim();
-                    const newPrice = card.querySelector('[data-test-id="horizontal-item-card-discounted-price"]')?.innerText.trim() || "";
-                    const oldPrice = card.querySelector('[data-test-id="horizontal-item-card-original-price"]')?.innerText.trim() || "";
-                    return { title, description, discountText, newPrice, oldPrice };
+                    const newPrice =
+                        card.querySelector('[data-test-id="horizontal-item-card-discounted-price"]')?.innerText.trim() || "";
+                    const oldPrice =
+                        card.querySelector('[data-test-id="horizontal-item-card-original-price"]')?.innerText.trim() || "";
+
+                    // 📸 Новое: вытаскиваем изображение блюда
+                    const image =
+                        card.querySelector('img[data-test-id="horizontal-item-card-image"]')?.src ||
+                        card.querySelector("img")?.src ||
+                        null;
+
+                    return { title, description, discountText, newPrice, oldPrice, image };
                 })
                 .filter(Boolean)
         );
 
         const info = await extractRestaurantInfo(page);
+
+        const brandImages = await page.evaluate(() => {
+            const result = {};
+            const heroImg = document.querySelector('header img[loading="eager"], header img[fetchpriority="high"]');
+            if (heroImg) result.heroImage = heroImg.src;
+            const logoImg = document.querySelector('a[href*="/brand/"] img');
+            if (logoImg) result.logo = logoImg.src;
+            const brandLink = document.querySelector('a[href*="/brand/"]')?.href || null;
+            if (brandLink) {
+                result.brandLink = brandLink;
+                const slugMatch = brandLink.match(/brand\/([^/]+)/);
+                if (slugMatch) result.brandSlug = slugMatch[1];
+            }
+            const logoAlt = logoImg?.getAttribute("alt") || "";
+            if (logoAlt) result.brandName = logoAlt;
+            return result;
+        });
+
+        if (info) {
+            info.logo = brandImages.logo || null;
+            info.heroImage = brandImages.heroImage || null;
+            info.brandLink = brandImages.brandLink || null;
+            info.brandSlug = brandImages.brandSlug || null;
+            info.brandName = brandImages.brandName || null;
+        }
+
+        // Если нет акций, просто сохраняем без подсчёта
+        if (discountedItems.length === 0) {
+            console.log(`⚪ ${name}: без скидок, пропускаем`);
+        } else {
+            console.log(`✅ ${name}: ${discountedItems.length} скидок`);
+        }
 
         results.push({
             name,
@@ -235,7 +287,6 @@ async function runWoltScraper() {
             "--disable-setuid-sandbox",
             "--mute-audio",
             "--disable-infobars",
-            "--window-size=1280,800",
         ],
     });
 
@@ -278,19 +329,19 @@ async function runWoltScraper() {
         const uniqueRestaurants = Array.from(new Map(restaurants.map((r) => [r.path, r])).values());
         console.log(`✅ Найдено ${uniqueRestaurants.length} уникальных ресторанов`);
 
-        const { default: pLimitFn } = await import("p-limit");
-        const limit = pLimitFn(CONFIG.PARALLEL_PAGES);
         let processed = 0;
+        for (const r of uniqueRestaurants) {
+            const index = ++processed;
+            const total = uniqueRestaurants.length;
+            await processRestaurant(r, browser, visited, results, index, total);
 
-        await Promise.all(
-            uniqueRestaurants.map((r) =>
-                limit(async () => {
-                    const index = ++processed;
-                    const total = uniqueRestaurants.length;
-                    await processRestaurant(r, browser, visited, results, index, total);
-                })
-            )
-        );
+            // 🧮 Проверяем лимит ресторанов с акциями
+            const withDiscounts = results.filter((x) => x.discountCount > 0).length;
+            if (LIMIT_RESTAURANTS && withDiscounts >= LIMIT_RESTAURANTS) {
+                console.log(`🎯 Достигнут лимит: ${withDiscounts} ресторанов с акциями.`);
+                break;
+            }
+        }
 
         console.log(`\n✅ Обработано ${results.length} ресторанов`);
         saveData("wolt_deals_data", results, true);

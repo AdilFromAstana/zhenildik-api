@@ -9,6 +9,7 @@ import {
   IsBoolean,
 } from 'class-validator';
 import { Type, Transform } from 'class-transformer';
+import { OfferChannelCode } from '../entities/offer.entity';
 
 export class CreateOfferDto {
   @ApiProperty()
@@ -82,4 +83,18 @@ export class CreateOfferDto {
   @IsArray()
   @Type(() => Number)
   locationIds?: number[];
+
+  @ApiProperty({
+    enum: OfferChannelCode,
+    isArray: true,
+    required: false,
+    example: [
+      OfferChannelCode.IN_STORE,
+      OfferChannelCode.APP_WOLT,
+      OfferChannelCode.MESSENGER_WHATSAPP,
+    ],
+  })
+  @IsOptional()
+  @IsArray()
+  channels?: OfferChannelCode[];
 }
