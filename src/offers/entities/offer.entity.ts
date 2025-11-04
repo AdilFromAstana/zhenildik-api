@@ -15,6 +15,7 @@ import {
 } from 'typeorm';
 import { Location } from '../../locations/location.entity';
 import { User } from 'src/users/entities/user.entity';
+import { OfferChannel } from 'src/offer-channels/offer-channel.entity';
 
 export enum OfferStatus {
   DRAFT = 'DRAFT', // черновик
@@ -57,11 +58,13 @@ export class Offer {
   @Column({ nullable: true })
   categoryId: number;
 
-  @Column({
-    type: 'simple-array',
-    nullable: true,
+  @ManyToMany(() => OfferChannel, { eager: true })
+  @JoinTable({
+    name: 'offer_channel_links',
+    joinColumn: { name: 'offerId', referencedColumnName: 'id' },
+    inverseJoinColumn: { name: 'channelId', referencedColumnName: 'id' },
   })
-  channels: OfferChannelCode[];
+  channels: OfferChannel[];
 
   @ManyToOne(() => OfferType, { eager: true })
   @JoinColumn({ name: 'offerTypeCode', referencedColumnName: 'code' })
