@@ -10,6 +10,7 @@ import { OffersModule } from './offers/offers.module';
 import { LocationsModule } from './locations/locations.module';
 import { ModerationModule } from './moderation/moderation.module';
 import { OfferChannelsModule } from './offer-channels/offer-channels.module';
+import { ImportModule } from './import/import.module';
 
 @Module({
   imports: [
@@ -33,6 +34,7 @@ import { OfferChannelsModule } from './offer-channels/offer-channels.module';
     LocationsModule,
     ModerationModule,
     OfferChannelsModule,
+    ImportModule
   ],
 })
-export class AppModule {}
+export class AppModule { }

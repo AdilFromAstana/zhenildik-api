@@ -30,9 +30,10 @@ async function bootstrap() {
 
   app.useGlobalPipes(
     new ValidationPipe({
-      whitelist: true, // отсекает лишние поля
-      forbidNonWhitelisted: true, // кидает ошибку на неизвестные поля
-      transform: true, // автоматически преобразует типы
+      whitelist: true,
+      forbidNonWhitelisted: true,
+      transform: true, // ✅ ключевой параметр
+      transformOptions: { enableImplicitConversion: true }, // ✅ для вложенных DTO
     }),
   );
 

@@ -1,4 +1,4 @@
-import { Entity, Column, PrimaryGeneratedColumn, OneToMany } from 'typeorm';
+import { Entity, Column, PrimaryGeneratedColumn, OneToMany, CreateDateColumn, UpdateDateColumn } from 'typeorm';
 import { Location } from 'src/locations/location.entity';
 import { Offer } from 'src/offers/entities/offer.entity';
 
@@ -30,10 +30,45 @@ export class User {
   passwordHash: string;
 
   @Column({
+    type: 'varchar',
+    length: 255,
+    nullable: true,
+    unique: true,
+  })
+  slug: string | null;
+
+
+  // ✅ Название бизнеса (чтобы Wolt-импорт сразу имел человекочитаемое имя)
+  @Column({
+    type: 'varchar',
+    length: 255,
+    nullable: true,
+  })
+  name: string | null;
+
+  // ✅ Аватар / логотип бренда
+  @Column({
+    type: 'varchar',
+    length: 500,
+    nullable: true,
+  })
+  avatar: string | null;
+
+  // ✅ Флаг, чтобы отличать бизнес-пользователей от обычных
+  @Column({
+    type: 'boolean',
+    default: false,
+  })
+  isBusiness: boolean;
+
+  @Column({
     type: 'boolean',
     default: false,
   })
   isVerified: boolean;
+
+  @Column({ type: 'varchar', length: 500, nullable: true })
+  website: string | null; // 🌐 важно для Wolt-брендов
 
   @Column({
     type: 'varchar',
@@ -48,11 +83,15 @@ export class User {
   })
   pendingOtpExpiresAt: Date | null;
 
-  // 🔗 Связь: пользователь → локации
+  @CreateDateColumn()
+  createdAt: Date;
+
+  @UpdateDateColumn()
+  updatedAt: Date;
+
   @OneToMany(() => Location, (location) => location.user)
   locations: Location[];
 
-  // 🔗 Связь: пользователь → офферы
   @OneToMany(() => Offer, (offer) => offer.user)
   offers: Offer[];
 }
