@@ -25,22 +25,6 @@ export enum OfferStatus {
   PENDING = 'PENDING', // на проверке
 }
 
-export enum OfferChannelCode {
-  IN_STORE = 'IN_STORE', // В магазине, на месте
-  WEBSITE = 'WEBSITE', // На сайте магазина
-  APP_WOLT = 'APP_WOLT', // Приложение Wolt
-  APP_KASPI = 'APP_KASPI', // Приложение Kaspi
-  APP_YANDEX_EDA = 'APP_YANDEX_EDA', // Приложение Yandex.Eda
-  APP_OTHER = 'APP_OTHER', // Другое приложение
-  MESSENGER_WHATSAPP = 'MESSENGER_WHATSAPP', // Через WhatsApp
-  MESSENGER_TELEGRAM = 'MESSENGER_TELEGRAM', // Через Telegram
-  MARKETPLACE = 'MARKETPLACE', // На маркетплейсе (Lamoda, OLX и т.п.)
-  PHONE = 'PHONE', // По телефону
-  SOCIAL_INSTAGRAM = 'SOCIAL_INSTAGRAM', // Через Instagram
-  SOCIAL_TIKTOK = 'SOCIAL_TIKTOK', // Через TikTok
-  OTHER = 'OTHER', // Другое
-}
-
 @Entity('offers')
 export class Offer {
   @PrimaryGeneratedColumn()
