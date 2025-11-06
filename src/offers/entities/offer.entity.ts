@@ -1,7 +1,15 @@
 // src/offers/entities/offer.entity.ts
 import {
-  Entity, Column, PrimaryGeneratedColumn, CreateDateColumn, UpdateDateColumn,
-  ManyToOne, JoinColumn, ManyToMany, JoinTable, Index
+  Entity,
+  Column,
+  PrimaryGeneratedColumn,
+  CreateDateColumn,
+  UpdateDateColumn,
+  ManyToOne,
+  JoinColumn,
+  ManyToMany,
+  JoinTable,
+  Index,
 } from 'typeorm';
 import { User } from 'src/users/entities/user.entity';
 import { Category } from 'src/categories/category.entity';
@@ -17,7 +25,6 @@ export enum OfferStatus {
   DELETED = 'DELETED', // удалённый
   PENDING = 'PENDING', // на проверке
 }
-
 
 @Entity('offers')
 @Index(['status', 'cityCode'])
@@ -50,16 +57,16 @@ export class Offer {
 
   // Канонизированные ценовые поля
   @Column({ type: 'numeric', precision: 12, scale: 2, nullable: true })
-  oldPrice: string | null;              // хранить как string для точности
+  oldPrice: string | null; // хранить как string для точности
 
   @Column({ type: 'numeric', precision: 12, scale: 2, nullable: true })
   newPrice: string | null;
 
   @Column({ type: 'numeric', precision: 12, scale: 2, nullable: true })
-  discountAmount: string | null;        // абсолютная выгода
+  discountAmount: string | null; // абсолютная выгода
 
   @Column({ type: 'numeric', precision: 5, scale: 2, nullable: true })
-  discountPercent: string | null;       // 0..100
+  discountPercent: string | null; // 0..100
 
   // BUY_X_GET_Y
   @Column({ type: 'int', nullable: true })
@@ -103,6 +110,8 @@ export class Offer {
   user: User;
 
   @Column() createdByUserId: number;
+
+  @Column() locationId: number;
 
   // Статус
   @Column({ type: 'varchar', length: 16, default: 'PENDING' })

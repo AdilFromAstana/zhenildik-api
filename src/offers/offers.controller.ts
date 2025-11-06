@@ -74,7 +74,6 @@ export class OffersController {
   })
   @Get()
   async findAll(@Query() query: QueryOffersDto) {
-    console.log('query: ', query);
     return this.offers.findAll(query);
   }
 

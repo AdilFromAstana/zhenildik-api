@@ -15,7 +15,6 @@ export class LocationsService {
     private readonly locationRepository: Repository<Location>,
   ) {}
 
-  // ✅ Создание локации
   async create(dto: CreateLocationDto & { createdByUserId: number }) {
     const location = this.locationRepository.create({
       ...dto,

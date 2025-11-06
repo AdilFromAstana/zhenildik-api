@@ -1,6 +1,5 @@
 import { Module } from '@nestjs/common';
 import { TypeOrmModule } from '@nestjs/typeorm';
-import { WoltImportService } from './sources/wolt-import.service';
 import { ImportService } from './import.service';
 import { OffersService } from 'src/offers/offers.service';
 import { User } from 'src/users/entities/user.entity';
@@ -13,9 +12,22 @@ import { ModerationLog } from 'src/moderation/moderation-log.entity';
 import { ImportsController } from './import.controller';
 
 @Module({
-    imports: [TypeOrmModule.forFeature([Offer, Location, User, OfferChannel, ModerationLog])],
-    providers: [ImportService, WoltImportService, OffersService, LocationsService, ModerationService],
-    exports: [ImportService],
-    controllers: [ImportsController],
+  imports: [
+    TypeOrmModule.forFeature([
+      Offer,
+      Location,
+      User,
+      OfferChannel,
+      ModerationLog,
+    ]),
+  ],
+  providers: [
+    ImportService,
+    OffersService,
+    LocationsService,
+    ModerationService,
+  ],
+  exports: [ImportService],
+  controllers: [ImportsController],
 })
-export class ImportModule { }
+export class ImportModule {}

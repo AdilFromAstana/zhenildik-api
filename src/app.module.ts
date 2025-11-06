@@ -20,7 +20,7 @@ import { ImportModule } from './import/import.module';
       port: 5432,
       username: 'postgres',
       password: 'postgres',
-      database: 'zhenildik',
+      database: 'skidka-bar',
       autoLoadEntities: true,
       synchronize: true,
     }),

@@ -19,6 +19,20 @@ export class Location {
   @Column()
   district: string;
 
+  @Column({ nullable: true })
+  name: string;
+
+  @Column({
+    type: 'geography',
+    spatialFeatureType: 'Point',
+    srid: 4326,
+    nullable: true,
+  })
+  geom?: string;
+
+  @Column({ nullable: true })
+  fullAddress: string;
+
   @Column()
   street: string;
 
@@ -37,7 +51,6 @@ export class Location {
   @Column({ type: 'float' })
   longitude: number;
 
-  // ⏰ JSON-поле для хранения расписания
   @Column({ type: 'json', nullable: true })
   workingHours?: Record<string, { open: string; close: string } | null>;
 

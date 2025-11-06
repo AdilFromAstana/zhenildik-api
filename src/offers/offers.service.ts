@@ -17,55 +17,6 @@ import { OfferChannelCode } from 'src/offer-channels/offer-channel.enum';
 import { BenefitKind } from './enums/benefit-kind.enum';
 import { OfferScope } from './enums/offer-scope.enum';
 
-type Num = number | null | undefined;
-
-function toFixedStr(n: Num): string | null {
-  if (n === undefined || n === null || Number.isNaN(n)) return null;
-  return (Math.round(n * 100) / 100).toFixed(2);
-}
-
-function normalizePrices(dto: CreateOfferDto) {
-  const oldP = dto.oldPrice ?? null;
-  const newP = dto.newPrice ?? null;
-  const dAmt = dto.discountAmount ?? null;
-  const dPct = dto.discountPercent ?? null;
-
-  let oldPrice = oldP, newPrice = newP, discountAmount = dAmt, discountPercent = dPct;
-
-  // NEW_PRICE: если заданы old/new — вывести amount и %
-  if (dto.benefitKind === 'NEW_PRICE' && oldPrice != null && newPrice != null && oldPrice > 0 && newPrice >= 0) {
-    discountAmount = oldPrice - newPrice;
-    discountPercent = oldPrice > 0 ? (discountAmount / oldPrice) * 100 : null;
-  }
-
-  // PERCENT_OFF: если есть old + % — вывести new/amount
-  if (dto.benefitKind === 'PERCENT_OFF' && oldPrice != null && dPct != null) {
-    discountAmount = (oldPrice * dPct) / 100;
-    newPrice = oldPrice - discountAmount;
-  }
-
-  // AMOUNT_OFF: если есть old + amount — вывести new/%
-  if (dto.benefitKind === 'AMOUNT_OFF' && oldPrice != null && dAmt != null) {
-    newPrice = oldPrice - dAmt;
-    discountPercent = oldPrice > 0 ? (dAmt / oldPrice) * 100 : null;
-  }
-
-  // Валидация базовых инвариантов
-  if (oldPrice != null && newPrice != null && newPrice > oldPrice) {
-    throw new Error('newPrice не может быть больше oldPrice');
-  }
-  if (discountPercent != null && (discountPercent < 0 || discountPercent > 100)) {
-    throw new Error('discountPercent должен быть в диапазоне 0..100');
-  }
-
-  return {
-    oldPrice: toFixedStr(oldPrice),
-    newPrice: toFixedStr(newPrice),
-    discountAmount: toFixedStr(discountAmount),
-    discountPercent: discountPercent == null ? null : (Math.round(discountPercent * 100) / 100).toFixed(2),
-  };
-}
-
 @Injectable()
 export class OffersService {
   constructor(
@@ -74,11 +25,198 @@ export class OffersService {
     @InjectRepository(Location)
     private readonly locationRepository: Repository<Location>,
     private readonly moderationService: ModerationService,
-  ) { }
+  ) {}
+
+  private parseMoney(v: any): number | null {
+    if (v == null) return null;
+    const s = String(v)
+      .replace(/[\s\u00A0]/g, '')
+      .replace(/[^\d.,-]/g, '')
+      .replace(',', '.');
+    const n = Number(s);
+    return Number.isFinite(n) ? Math.round(n * 100) / 100 : null;
+  }
+
+  private toPgNumericOrNull(n: number | null): string | null {
+    return n == null ? null : n.toFixed(2); // хранить NUMERIC как строку с 2 знаками
+  }
+
+  private computeCanonical(dto: CreateOfferDto) {
+    const oldN = this.parseMoney(dto.oldPrice);
+    const newN = this.parseMoney(dto.newPrice);
+    const amtN = this.parseMoney(dto.discountAmount);
+    const pctN =
+      dto.discountPercent != null ? Number(dto.discountPercent) : null;
+
+    let oldPrice = oldN,
+      newPrice = newN,
+      discountAmount = amtN,
+      discountPercent = pctN;
+
+    if (oldPrice != null && newPrice != null) {
+      discountAmount = Math.round((oldPrice - newPrice) * 100) / 100;
+      discountPercent =
+        oldPrice > 0
+          ? Math.round(((oldPrice - newPrice) / oldPrice) * 10000) / 100
+          : null;
+    } else if (oldPrice != null && discountPercent != null) {
+      newPrice = Math.round(oldPrice * (1 - discountPercent / 100) * 100) / 100;
+      discountAmount = Math.round((oldPrice - newPrice) * 100) / 100;
+    } else if (oldPrice != null && discountAmount != null) {
+      newPrice = Math.round((oldPrice - discountAmount) * 100) / 100;
+      discountPercent =
+        oldPrice > 0
+          ? Math.round((discountAmount / oldPrice) * 10000) / 100
+          : null;
+    }
+
+    if (newPrice != null && oldPrice != null && newPrice > oldPrice) {
+      throw new BadRequestException('newPrice не может быть больше oldPrice');
+    }
+
+    return {
+      oldPrice: this.toPgNumericOrNull(oldPrice),
+      newPrice: this.toPgNumericOrNull(newPrice),
+      discountAmount: this.toPgNumericOrNull(discountAmount),
+      discountPercent:
+        discountPercent == null ? null : discountPercent.toFixed(2),
+    };
+  }
+
+  private validateByBenefitKind(
+    dto: CreateOfferDto,
+    canon: {
+      oldPrice: string | null;
+      newPrice: string | null;
+      discountAmount: string | null;
+      discountPercent: string | null;
+    },
+  ) {
+    switch (dto.benefitKind) {
+      case BenefitKind.PERCENT_OFF:
+        if (
+          canon.discountPercent == null &&
+          !(canon.oldPrice && canon.newPrice)
+        ) {
+          throw new BadRequestException(
+            'Для PERCENT_OFF задай discountPercent или (oldPrice и newPrice).',
+          );
+        }
+        break;
+      case BenefitKind.AMOUNT_OFF:
+        if (
+          canon.discountAmount == null &&
+          !(canon.oldPrice && canon.newPrice)
+        ) {
+          throw new BadRequestException(
+            'Для AMOUNT_OFF задай discountAmount или (oldPrice и newPrice).',
+          );
+        }
+        break;
+      case BenefitKind.NEW_PRICE:
+        if (
+          canon.newPrice == null &&
+          !(canon.oldPrice && canon.discountPercent)
+        ) {
+          throw new BadRequestException(
+            'Для NEW_PRICE задай newPrice или (oldPrice и discountPercent).',
+          );
+        }
+        break;
+      case BenefitKind.BUY_X_GET_Y:
+        if (!(dto.buyQty && dto.getQty)) {
+          throw new BadRequestException(
+            'Для BUY_X_GET_Y обязательно buyQty и getQty.',
+          );
+        }
+        break;
+      case BenefitKind.TRADE_IN:
+        if (!dto.tradeInRequired) {
+          throw new BadRequestException(
+            'Для TRADE_IN укажи tradeInRequired=true.',
+          );
+        }
+        break;
+      default:
+        // на будущее
+        break;
+    }
+  }
+
+  private validateChannels(dto: CreateOfferDto) {
+    const channels = Array.isArray(dto.channels) ? [...dto.channels] : [];
+    const primary = dto.primaryChannel ?? null;
+    const url = dto.ctaUrl ?? null;
+
+    if (!channels.length && !primary) {
+      throw new BadRequestException(
+        'Нужно указать хотя бы один канал (channels или primaryChannel).',
+      );
+    }
+    if (
+      primary &&
+      !Object.values(OfferChannelCode).includes(primary as OfferChannelCode)
+    ) {
+      throw new BadRequestException('primaryChannel: неизвестный код канала.');
+    }
+    if (primary && !channels.includes(primary)) {
+      channels.push(primary);
+    }
+
+    const needsUrlFor = new Set<OfferChannelCode>([
+      OfferChannelCode.WEBSITE,
+      OfferChannelCode.MARKETPLACE,
+      OfferChannelCode.APP_WOLT,
+      OfferChannelCode.APP_KASPI,
+      OfferChannelCode.SOCIAL_INSTAGRAM,
+      OfferChannelCode.SOCIAL_TIKTOK,
+    ]);
+    if (primary && needsUrlFor.has(primary as OfferChannelCode) && !url) {
+      throw new BadRequestException(
+        `ctaUrl обязателен для primaryChannel=${primary}`,
+      );
+    }
+
+    return { channels, primaryChannel: primary ?? null, ctaUrl: url ?? null };
+  }
+
+  private async resolveLocations(
+    dto: CreateOfferDto & { createdByUserId: number },
+  ) {
+    if (!dto.locationIds?.length) return [];
+    return this.locationRepository.find({
+      where: {
+        id: In(dto.locationIds),
+        createdByUserId: dto.createdByUserId,
+      },
+    });
+  }
+
+  private parseDates(start?: string, end?: string) {
+    const startDate = start ? new Date(start) : null;
+    const endDate = end ? new Date(end) : null;
+
+    if (start && isNaN(startDate!.getTime())) {
+      throw new BadRequestException(
+        'startDate должен быть валидной датой (ISO).',
+      );
+    }
+    if (end && isNaN(endDate!.getTime())) {
+      throw new BadRequestException(
+        'endDate должен быть валидной датой (ISO).',
+      );
+    }
+    if (startDate && endDate && endDate < startDate) {
+      throw new BadRequestException('endDate не может быть раньше startDate.');
+    }
+    return { startDate, endDate };
+  }
   // ==========================
   //       PUBLIC: CREATE
   // ==========================
-  async create(dto: CreateOfferDto & { createdByUserId: number }): Promise<Offer> {
+  async create(
+    dto: CreateOfferDto & { createdByUserId: number },
+  ): Promise<Offer> {
     // 0) Базовые проверки (даты)
     const { startDate, endDate } = this.parseDates(dto.startDate, dto.endDate);
 
@@ -99,8 +237,8 @@ export class OffersService {
       title: dto.title,
       description: dto.description,
 
-      categoryId: dto.categoryId ?? null,
-      cityCode: dto.cityCode ?? null,
+      categoryId: dto.categoryId ?? 1,
+      cityCode: dto.cityCode ?? 'astana',
 
       benefitKind: dto.benefitKind as BenefitKind,
       scope: dto.scope as OfferScope,
@@ -143,7 +281,10 @@ export class OffersService {
     // 7) Модерация (как у тебя)
     try {
       const text = `${dto.title}\n${dto.description ?? ''}`;
-      const moderation = await this.moderationService.validateText(text, 'offer');
+      const moderation = await this.moderationService.validateText(
+        text,
+        'offer',
+      );
       const isFlagged = moderation?.flagged === true;
 
       await this.offerRepository.update(saved.id, {
@@ -156,203 +297,115 @@ export class OffersService {
     return saved;
   }
 
-  // ==========================
-  //       PRIVATE HELPERS
-  // ==========================
-
-  private parseMoney(v: any): number | null {
-    if (v == null) return null;
-    const s = String(v)
-      .replace(/[\s\u00A0]/g, '')
-      .replace(/[^\d.,-]/g, '')
-      .replace(',', '.');
-    const n = Number(s);
-    return Number.isFinite(n) ? Math.round(n * 100) / 100 : null;
-  }
-
-  private toPgNumericOrNull(n: number | null): string | null {
-    return n == null ? null : n.toFixed(2); // хранить NUMERIC как строку с 2 знаками
-  }
-
-  private computeCanonical(dto: CreateOfferDto) {
-    // допускаем, что пришли любые комбинации old/new/%/amount
-    const oldN = this.parseMoney(dto.oldPrice);
-    const newN = this.parseMoney(dto.newPrice);
-    const amtN = this.parseMoney(dto.discountAmount);
-    const pctN = dto.discountPercent != null ? Number(dto.discountPercent) : null;
-
-    let oldPrice = oldN, newPrice = newN, discountAmount = amtN, discountPercent = pctN;
-
-    if (oldPrice != null && newPrice != null) {
-      discountAmount = Math.round((oldPrice - newPrice) * 100) / 100;
-      discountPercent = oldPrice > 0 ? Math.round(((oldPrice - newPrice) / oldPrice) * 10000) / 100 : null;
-    } else if (oldPrice != null && discountPercent != null) {
-      newPrice = Math.round((oldPrice * (1 - discountPercent / 100)) * 100) / 100;
-      discountAmount = Math.round((oldPrice - newPrice) * 100) / 100;
-    } else if (oldPrice != null && discountAmount != null) {
-      newPrice = Math.round((oldPrice - discountAmount) * 100) / 100;
-      discountPercent = oldPrice > 0 ? Math.round((discountAmount / oldPrice) * 10000) / 100 : null;
-    }
-
-    if (newPrice != null && oldPrice != null && newPrice > oldPrice) {
-      throw new BadRequestException('newPrice не может быть больше oldPrice');
-    }
-
-    return {
-      oldPrice: this.toPgNumericOrNull(oldPrice),
-      newPrice: this.toPgNumericOrNull(newPrice),
-      discountAmount: this.toPgNumericOrNull(discountAmount),
-      discountPercent: discountPercent == null ? null : discountPercent.toFixed(2),
-    };
-  }
-
-  private validateByBenefitKind(
-    dto: CreateOfferDto,
-    canon: { oldPrice: string | null; newPrice: string | null; discountAmount: string | null; discountPercent: string | null },
-  ) {
-    switch (dto.benefitKind) {
-      case BenefitKind.PERCENT_OFF:
-        if (canon.discountPercent == null && !(canon.oldPrice && canon.newPrice)) {
-          throw new BadRequestException('Для PERCENT_OFF задай discountPercent или (oldPrice и newPrice).');
-        }
-        break;
-      case BenefitKind.AMOUNT_OFF:
-        if (canon.discountAmount == null && !(canon.oldPrice && canon.newPrice)) {
-          throw new BadRequestException('Для AMOUNT_OFF задай discountAmount или (oldPrice и newPrice).');
-        }
-        break;
-      case BenefitKind.NEW_PRICE:
-        if (canon.newPrice == null && !(canon.oldPrice && canon.discountPercent)) {
-          throw new BadRequestException('Для NEW_PRICE задай newPrice или (oldPrice и discountPercent).');
-        }
-        break;
-      case BenefitKind.BUY_X_GET_Y:
-        if (!(dto.buyQty && dto.getQty)) {
-          throw new BadRequestException('Для BUY_X_GET_Y обязательно buyQty и getQty.');
-        }
-        break;
-      case BenefitKind.TRADE_IN:
-        if (!dto.tradeInRequired) {
-          throw new BadRequestException('Для TRADE_IN укажи tradeInRequired=true.');
-        }
-        break;
-      default:
-        // на будущее
-        break;
-    }
-  }
-
-  private validateChannels(dto: CreateOfferDto) {
-    const channels = Array.isArray(dto.channels) ? [...dto.channels] : [];
-    const primary = dto.primaryChannel ?? null;
-    const url = dto.ctaUrl ?? null;
-
-    if (!channels.length && !primary) {
-      throw new BadRequestException('Нужно указать хотя бы один канал (channels или primaryChannel).');
-    }
-    if (primary && !Object.values(OfferChannelCode).includes(primary as OfferChannelCode)) {
-      throw new BadRequestException('primaryChannel: неизвестный код канала.');
-    }
-    if (primary && !channels.includes(primary)) {
-      channels.push(primary);
-    }
-
-    const needsUrlFor = new Set<OfferChannelCode>([
-      OfferChannelCode.WEBSITE,
-      OfferChannelCode.MARKETPLACE,
-      OfferChannelCode.APP_WOLT,
-      OfferChannelCode.APP_KASPI,
-      OfferChannelCode.SOCIAL_INSTAGRAM,
-      OfferChannelCode.SOCIAL_TIKTOK,
-    ]);
-    if (primary && needsUrlFor.has(primary as OfferChannelCode) && !url) {
-      throw new BadRequestException(`ctaUrl обязателен для primaryChannel=${primary}`);
-    }
-
-    return { channels, primaryChannel: primary ?? null, ctaUrl: url ?? null };
-  }
-
-  private async resolveLocations(dto: CreateOfferDto & { createdByUserId: number }) {
-    if (!dto.locationIds?.length) return [];
-    return this.locationRepository.find({
-      where: {
-        id: In(dto.locationIds),
-        createdByUserId: dto.createdByUserId,
-      },
-    });
-  }
-
-  private parseDates(start?: string, end?: string) {
-    const startDate = start ? new Date(start) : null;
-    const endDate = end ? new Date(end) : null;
-
-    if (start && isNaN(startDate!.getTime())) {
-      throw new BadRequestException('startDate должен быть валидной датой (ISO).');
-    }
-    if (end && isNaN(endDate!.getTime())) {
-      throw new BadRequestException('endDate должен быть валидной датой (ISO).');
-    }
-    if (startDate && endDate && endDate < startDate) {
-      throw new BadRequestException('endDate не может быть раньше startDate.');
-    }
-    return { startDate, endDate };
-  }
-
   async findAll(
     filters: QueryOffersDto,
   ): Promise<{ data: Offer[]; total: number }> {
-    const queryBuilder = this.offerRepository
+    const baseQuery = this.offerRepository
       .createQueryBuilder('offer')
-      .leftJoinAndSelect('offer.locations', 'locations')
-      .leftJoinAndSelect('offer.category', 'category')
-      .leftJoinAndSelect('offer.offerType', 'offerType');
+      .leftJoinAndSelect('offer.locations', 'location')
+      .leftJoinAndSelect('offer.category', 'category');
 
+    // 🔍 Текстовый поиск
     if (filters.search) {
       const term = `%${filters.search.toLowerCase()}%`;
-      queryBuilder.andWhere(
-        '(LOWER(offer.title) LIKE :term OR LOWER(offer.description) LIKE :term)',
+      baseQuery.andWhere(
+        '(LOWER(offer.title) LIKE :term OR LOWER(offer.description) LIKE :term OR LOWER(offer.campaignName) LIKE :term OR LOWER(category.name) LIKE :term)',
         { term },
       );
     }
 
-    if (filters.status) {
-      queryBuilder.andWhere('offer.status = :status', {
-        status: filters.status,
-      });
-    }
-
-    if (filters.categoryId) {
-      queryBuilder.andWhere('offer.categoryId = :categoryId', {
-        categoryId: filters.categoryId,
-      });
-    }
-
-    if (filters.offerTypeCode) {
-      queryBuilder.andWhere('offer.offerTypeCode = :offerTypeCode', {
-        offerTypeCode: filters.offerTypeCode,
-      });
-    }
-
-    if (filters.cityCode) {
-      queryBuilder.andWhere('offer.cityCode = :cityCode', {
+    // 🔧 Прочие фильтры
+    if (filters.cityCode)
+      baseQuery.andWhere('offer.cityCode = :cityCode', {
         cityCode: filters.cityCode,
       });
+    if (filters.categoryId)
+      baseQuery.andWhere('offer.categoryId = :categoryId', {
+        categoryId: filters.categoryId,
+      });
+    if (filters.userId)
+      baseQuery.andWhere('offer.createdByUserId = :userId', {
+        userId: filters.userId,
+      });
+    if (filters.priceMin)
+      baseQuery.andWhere('offer.newPrice >= :priceMin', {
+        priceMin: filters.priceMin,
+      });
+    if (filters.priceMax)
+      baseQuery.andWhere('offer.newPrice <= :priceMax', {
+        priceMax: filters.priceMax,
+      });
+    if (filters.discountMin)
+      baseQuery.andWhere('offer.discountPercent >= :discountMin', {
+        discountMin: filters.discountMin,
+      });
+    if (filters.discountMax)
+      baseQuery.andWhere('offer.discountPercent <= :discountMax', {
+        discountMax: filters.discountMax,
+      });
+    if (filters.isActiveNow)
+      baseQuery.andWhere(
+        'offer.startDate <= NOW() AND (offer.endDate IS NULL OR offer.endDate >= NOW())',
+      );
+    if (filters.benefitKind)
+      baseQuery.andWhere('offer.benefitKind = :benefitKind', {
+        benefitKind: filters.benefitKind,
+      });
+    if (filters.scope)
+      baseQuery.andWhere('offer.scope = :scope', { scope: filters.scope });
+
+    // 🌍 Геопоиск
+    if (filters.userLat && filters.userLng) {
+      const radiusKm = filters.radiusKm ?? 5;
+      const radiusMeters = radiusKm * 1000;
+
+      baseQuery.addSelect(
+        `MIN(ST_Distance(location.geom, ST_MakePoint(:userLng, :userLat)::geography))`,
+        'distance',
+      );
+
+      baseQuery.andWhere(`
+      EXISTS (
+        SELECT 1
+        FROM offer_locations ol
+        JOIN locations loc ON loc.id = ol."locationId"
+        WHERE ol."offerId" = offer.id
+          AND ST_DWithin(
+            loc.geom,
+            ST_MakePoint(:userLng, :userLat)::geography,
+            :radiusMeters
+          )
+      )
+    `);
+
+      baseQuery.setParameters({
+        userLat: filters.userLat,
+        userLng: filters.userLng,
+        radiusMeters,
+      });
+
+      baseQuery.orderBy('distance', filters.sortOrder ?? 'ASC');
+    } else {
+      const sortFieldMap: Record<string, string> = {
+        createdAt: 'offer.createdAt',
+        discountPercent: 'offer.discountPercent',
+        newPrice: 'offer.newPrice',
+        title: 'offer.title',
+      };
+      const sortField = sortFieldMap[filters.sortBy] || 'offer.createdAt';
+      baseQuery.orderBy(sortField, filters.sortOrder ?? 'DESC');
     }
 
-    const sortFieldMap: Record<SortBy, string> = {
-      createdAt: 'offer.createdAt',
-      title: 'offer.title',
-      minPrice: 'offer.minPrice',
-    };
-    const sortField = sortFieldMap[filters.sortBy] || 'offer.createdAt';
-    queryBuilder.orderBy(sortField, filters.sortOrder);
+    const total = await baseQuery.getCount();
+    const { raw, entities } = await baseQuery
+      .skip(((filters.page ?? 1) - 1) * (filters.limit ?? 20))
+      .take(filters.limit ?? 20)
+      .getRawAndEntities();
 
-    const total = await queryBuilder.getCount();
-    const { page, limit } = filters;
-    const data = await queryBuilder
-      .skip((page - 1) * limit)
-      .take(limit)
-      .getMany();
+    const data = entities.map((e, i) => ({
+      ...e,
+      distance: raw[i]?.distance ? Number(raw[i].distance) : null,
+    }));
 
     return { data, total };
   }
@@ -380,26 +433,28 @@ export class OffersService {
         categoryId: filters.categoryId,
       });
     }
-    if (filters.status) {
-      queryBuilder.andWhere('offer.status = :status', {
-        status: filters.status,
-      });
-    }
-    if (filters.offerTypeCode) {
-      queryBuilder.andWhere('offer.offerTypeCode = :offerTypeCode', {
-        offerTypeCode: filters.offerTypeCode,
-      });
-    }
-    if (filters.cityCode) {
-      queryBuilder.andWhere('offer.cityCode = :cityCode', {
-        cityCode: filters.cityCode,
-      });
-    }
+    // if (filters.status) {
+    //   queryBuilder.andWhere('offer.status = :status', {
+    //     status: filters.status,
+    //   });
+    // }
+    // if (filters.offerTypeCode) {
+    //   queryBuilder.andWhere('offer.offerTypeCode = :offerTypeCode', {
+    //     offerTypeCode: filters.offerTypeCode,
+    //   });
+    // }
+    // if (filters.cityCode) {
+    //   queryBuilder.andWhere('offer.cityCode = :cityCode', {
+    //     cityCode: filters.cityCode,
+    //   });
+    // }
 
     const sortFieldMap: Record<SortBy, string> = {
       createdAt: 'offer.createdAt',
       title: 'offer.title',
-      minPrice: 'offer.minPrice',
+      discountPercent: 'offer.discountPercent',
+      distance: 'offer.distance',
+      newPrice: 'offer.newPrice',
     };
     const sortField = sortFieldMap[filters.sortBy] || 'offer.createdAt';
     queryBuilder.orderBy(sortField, filters.sortOrder);
@@ -436,7 +491,8 @@ export class OffersService {
     if (dto.cityCode !== undefined) offer.cityCode = dto.cityCode ?? null;
 
     // --- 2) Тип выгоды / охват
-    if (dto.benefitKind !== undefined) offer.benefitKind = dto.benefitKind as BenefitKind;
+    if (dto.benefitKind !== undefined)
+      offer.benefitKind = dto.benefitKind as BenefitKind;
     if (dto.scope !== undefined) offer.scope = dto.scope as OfferScope;
 
     // --- 3) Даты/период и "архивирование"
@@ -454,11 +510,16 @@ export class OffersService {
 
     // явное управление датами имеет приоритет над archived
     if (dto.startDate || dto.endDate) {
-      const { startDate, endDate } = this.parseDates(dto.startDate!, dto.endDate!);
+      const { startDate, endDate } = this.parseDates(
+        dto.startDate!,
+        dto.endDate!,
+      );
       offer.startDate = startDate ?? null;
       offer.endDate = endDate ?? null;
       if (offer.startDate && offer.endDate && offer.endDate < offer.startDate) {
-        throw new BadRequestException('endDate не может быть раньше startDate.');
+        throw new BadRequestException(
+          'endDate не может быть раньше startDate.',
+        );
       }
     }
 
@@ -477,22 +538,26 @@ export class OffersService {
       // Собираем временный dto из текущего оффера + патча
       const temp = {
         benefitKind: (dto.benefitKind ?? offer.benefitKind) as BenefitKind,
-        oldPrice: dto.oldPrice ?? (offer.oldPrice ? Number(offer.oldPrice) : undefined),
-        newPrice: dto.newPrice ?? (offer.newPrice ? Number(offer.newPrice) : undefined),
-        discountAmount: dto.discountAmount ?? (offer.discountAmount ? Number(offer.discountAmount) : undefined),
-        discountPercent: dto.discountPercent ?? (offer.discountPercent ? Number(offer.discountPercent) : undefined),
+        oldPrice:
+          dto.oldPrice ?? (offer.oldPrice ? Number(offer.oldPrice) : undefined),
+        newPrice:
+          dto.newPrice ?? (offer.newPrice ? Number(offer.newPrice) : undefined),
+        discountAmount:
+          dto.discountAmount ??
+          (offer.discountAmount ? Number(offer.discountAmount) : undefined),
+        discountPercent:
+          dto.discountPercent ??
+          (offer.discountPercent ? Number(offer.discountPercent) : undefined),
         buyQty: dto.buyQty ?? offer.buyQty ?? undefined,
         getQty: dto.getQty ?? offer.getQty ?? undefined,
-        tradeInRequired: dto.tradeInRequired ?? offer.tradeInRequired ?? undefined,
+        tradeInRequired:
+          dto.tradeInRequired ?? offer.tradeInRequired ?? undefined,
       };
 
       const canon = this.computeCanonical(temp as any);
 
       // Валидация под benefitKind
-      this.validateByBenefitKind(
-        { ...temp } as any,
-        canon,
-      );
+      this.validateByBenefitKind({ ...temp } as any, canon);
 
       offer.oldPrice = canon.oldPrice;
       offer.newPrice = canon.newPrice;
@@ -513,7 +578,8 @@ export class OffersService {
 
     // --- 6) Кампания (метка)
     if (dto.campaignId !== undefined) offer.campaignId = dto.campaignId ?? null;
-    if (dto.campaignName !== undefined) offer.campaignName = dto.campaignName ?? null;
+    if (dto.campaignName !== undefined)
+      offer.campaignName = dto.campaignName ?? null;
 
     // --- 7) Медиа
     if (dto.posters !== undefined) offer.posters = dto.posters ?? [];
@@ -550,7 +616,13 @@ export class OffersService {
     // --- 10) Статус (по желанию)
     if (dto.status !== undefined) {
       // Разреши только валидные статусы
-      const allowed = new Set(['DRAFT', 'ACTIVE', 'ARCHIVE', 'DELETED', 'PENDING']);
+      const allowed = new Set([
+        'DRAFT',
+        'ACTIVE',
+        'ARCHIVE',
+        'DELETED',
+        'PENDING',
+      ]);
       if (!allowed.has(dto.status)) {
         throw new BadRequestException('Недопустимый статус.');
       }

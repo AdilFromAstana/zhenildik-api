@@ -39,6 +39,16 @@ export class CreateLocationDto {
   @IsString()
   phone?: string;
 
+  @ApiProperty({ required: false })
+  @IsOptional()
+  @IsString()
+  name?: string;
+
+  @ApiProperty({ required: false })
+  @IsOptional()
+  @IsString()
+  fullAddress?: string;
+
   @ApiProperty()
   @Type(() => Number)
   @IsNumber()
@@ -62,5 +72,4 @@ export class CreateLocationDto {
   @IsOptional()
   @IsObject()
   workingHours?: Record<string, DayScheduleDto | null>;
-  
 }
