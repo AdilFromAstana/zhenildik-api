@@ -303,109 +303,104 @@ export class OffersService {
     const baseQuery = this.offerRepository
       .createQueryBuilder('offer')
       .leftJoinAndSelect('offer.locations', 'location')
-      .leftJoinAndSelect('offer.category', 'category');
+      .leftJoinAndSelect('offer.category', 'category')
+      .leftJoin('offer.user', 'user') // 👈 только join, без select всех полей
+      .addSelect(['user.id', 'user.name', 'user.avatar']); // 👈 только нужные
 
-    // 🔍 Текстовый поиск
+    // Поиск по строке
     if (filters.search) {
       const term = `%${filters.search.toLowerCase()}%`;
       baseQuery.andWhere(
-        '(LOWER(offer.title) LIKE :term OR LOWER(offer.description) LIKE :term OR LOWER(offer.campaignName) LIKE :term OR LOWER(category.name) LIKE :term)',
+        '(LOWER(offer.title) LIKE :term ' +
+          'OR LOWER(offer.description) LIKE :term ' +
+          'OR LOWER(offer.campaignName) LIKE :term ' +
+          'OR LOWER(category.name) LIKE :term)',
         { term },
       );
     }
 
-    // 🔧 Прочие фильтры
-    if (filters.cityCode)
+    // Город
+    if (filters.cityCode) {
       baseQuery.andWhere('offer.cityCode = :cityCode', {
         cityCode: filters.cityCode,
       });
-    if (filters.categoryId)
+    }
+
+    // Категория
+    if (filters.categoryId) {
       baseQuery.andWhere('offer.categoryId = :categoryId', {
         categoryId: filters.categoryId,
       });
-    if (filters.userId)
+    }
+
+    // Только офферы конкретного пользователя
+    if (filters.userId) {
       baseQuery.andWhere('offer.createdByUserId = :userId', {
         userId: filters.userId,
       });
-    if (filters.priceMin)
+    }
+
+    // Фильтр по цене
+    if (filters.priceMin) {
       baseQuery.andWhere('offer.newPrice >= :priceMin', {
         priceMin: filters.priceMin,
       });
-    if (filters.priceMax)
+    }
+
+    if (filters.priceMax) {
       baseQuery.andWhere('offer.newPrice <= :priceMax', {
         priceMax: filters.priceMax,
       });
-    if (filters.discountMin)
+    }
+
+    // Фильтр по скидке
+    if (filters.discountMin) {
       baseQuery.andWhere('offer.discountPercent >= :discountMin', {
         discountMin: filters.discountMin,
       });
-    if (filters.discountMax)
+    }
+
+    if (filters.discountMax) {
       baseQuery.andWhere('offer.discountPercent <= :discountMax', {
         discountMax: filters.discountMax,
       });
-    if (filters.isActiveNow)
+    }
+
+    // Активные сейчас
+    if (filters.isActiveNow) {
       baseQuery.andWhere(
         'offer.startDate <= NOW() AND (offer.endDate IS NULL OR offer.endDate >= NOW())',
       );
-    if (filters.benefitKind)
+    }
+
+    // Тип выгоды
+    if (filters.benefitKind) {
       baseQuery.andWhere('offer.benefitKind = :benefitKind', {
         benefitKind: filters.benefitKind,
       });
-    if (filters.scope)
-      baseQuery.andWhere('offer.scope = :scope', { scope: filters.scope });
-
-    // 🌍 Геопоиск
-    if (filters.userLat && filters.userLng) {
-      const radiusKm = filters.radiusKm ?? 5;
-      const radiusMeters = radiusKm * 1000;
-
-      baseQuery.addSelect(
-        `MIN(ST_Distance(location.geom, ST_MakePoint(:userLng, :userLat)::geography))`,
-        'distance',
-      );
-
-      baseQuery.andWhere(`
-      EXISTS (
-        SELECT 1
-        FROM offer_locations ol
-        JOIN locations loc ON loc.id = ol."locationId"
-        WHERE ol."offerId" = offer.id
-          AND ST_DWithin(
-            loc.geom,
-            ST_MakePoint(:userLng, :userLat)::geography,
-            :radiusMeters
-          )
-      )
-    `);
-
-      baseQuery.setParameters({
-        userLat: filters.userLat,
-        userLng: filters.userLng,
-        radiusMeters,
-      });
-
-      baseQuery.orderBy('distance', filters.sortOrder ?? 'ASC');
-    } else {
-      const sortFieldMap: Record<string, string> = {
-        createdAt: 'offer.createdAt',
-        discountPercent: 'offer.discountPercent',
-        newPrice: 'offer.newPrice',
-        title: 'offer.title',
-      };
-      const sortField = sortFieldMap[filters.sortBy] || 'offer.createdAt';
-      baseQuery.orderBy(sortField, filters.sortOrder ?? 'DESC');
     }
 
-    const total = await baseQuery.getCount();
-    const { raw, entities } = await baseQuery
-      .skip(((filters.page ?? 1) - 1) * (filters.limit ?? 20))
-      .take(filters.limit ?? 20)
-      .getRawAndEntities();
+    // Охват
+    if (filters.scope) {
+      baseQuery.andWhere('offer.scope = :scope', { scope: filters.scope });
+    }
 
-    const data = entities.map((e, i) => ({
-      ...e,
-      distance: raw[i]?.distance ? Number(raw[i].distance) : null,
-    }));
+    const sortFieldMap: Record<string, string> = {
+      createdAt: 'offer.createdAt',
+      discountPercent: 'offer.discountPercent',
+      newPrice: 'offer.newPrice',
+      title: 'offer.title',
+    };
+
+    const sortField = sortFieldMap[filters.sortBy] || 'offer.createdAt';
+    baseQuery.orderBy(sortField, filters.sortOrder ?? 'DESC');
+
+    const page = filters.page ?? 1;
+    const limit = filters.limit ?? 20;
+
+    baseQuery.skip((page - 1) * limit).take(limit);
+
+    const [data, total] = await baseQuery.getManyAndCount();
 
     return { data, total };
   }

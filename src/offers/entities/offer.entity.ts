@@ -68,36 +68,29 @@ export class Offer {
   @Column({ type: 'numeric', precision: 5, scale: 2, nullable: true })
   discountPercent: string | null; // 0..100
 
-  // BUY_X_GET_Y
   @Column({ type: 'int', nullable: true })
   buyQty: number | null;
 
   @Column({ type: 'int', nullable: true })
   getQty: number | null;
 
-  // TRADE_IN
   @Column({ type: 'boolean', nullable: true })
   tradeInRequired: boolean | null;
 
-  // Условия доступа (eligibility)
   @Column({ type: 'jsonb', nullable: true })
   eligibility: Record<string, any> | null;
 
-  // Кампания — как метка/контейнер (не «тип выгоды»)
   @Column({ type: 'varchar', length: 64, nullable: true })
   campaignId: string | null;
 
   @Column({ type: 'varchar', length: 255, nullable: true })
   campaignName: string | null;
 
-  // Сроки
   @Column({ type: 'timestamptz', nullable: true }) startDate: Date | null;
   @Column({ type: 'timestamptz', nullable: true }) endDate: Date | null;
 
-  // Медиa
   @Column('text', { array: true, default: '{}' }) posters: string[];
-
-  // Привязки
+ 
   @ManyToMany(() => Location, (location) => location.offers, { cascade: true })
   @JoinTable({
     name: 'offer_locations',
@@ -111,9 +104,6 @@ export class Offer {
 
   @Column() createdByUserId: number;
 
-  @Column() locationId: number;
-
-  // Статус
   @Column({ type: 'varchar', length: 16, default: 'PENDING' })
   status: 'DRAFT' | 'ACTIVE' | 'ARCHIVE' | 'DELETED' | 'PENDING';
 

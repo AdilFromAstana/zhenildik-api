@@ -27,7 +27,7 @@ export class Location {
     spatialFeatureType: 'Point',
     srid: 4326,
     nullable: true,
-  })
+  }) 
   geom?: string;
 
   @Column({ nullable: true })

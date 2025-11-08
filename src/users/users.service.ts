@@ -87,13 +87,18 @@ export class UsersService {
   async getProfile(id: number) {
     const user = await this.repo.findOne({
       where: { id },
-      select: ['id', 'email', 'phone'],
+      select: ['id', 'email', 'phone', 'name', 'avatar'],
     });
 
     if (!user) {
       throw new NotFoundException('Пользователь не найден');
     }
 
-    return user;
+    return {
+      id: user.id,
+      name: user.name ?? '',
+      identifier: user.email || user.phone || '',
+      avatar: user.avatar ?? '',
+    };
   }
 }

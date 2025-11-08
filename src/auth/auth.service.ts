@@ -16,26 +16,57 @@ export class AuthService {
     private jwt: JwtService,
   ) {}
 
-  // ---------- SIGNUP FLOW ----------
-
-  // Шаг 1: старт регистрации (создаём юзера и отправляем код)
   async signupStart(opts: { identifier: string; password: string }) {
-    // создать юзера (если вдруг уже есть - ошибка)
+    const existing = await this.users.findByIdentifier(opts.identifier);
+
+    if (existing) {
+      if (existing.isVerified) {
+        // уже полноценный юзер
+        throw new BadRequestException({
+          message: 'Пользователь уже зарегистрирован. Войдите в аккаунт.',
+          code: 'USER_ALREADY_VERIFIED',
+        });
+      }
+
+      // есть незавершённая регистрация
+      // опционально: проверить, совпадает ли пароль
+      const samePassword = await bcrypt.compare(
+        opts.password,
+        existing.passwordHash,
+      );
+
+      if (!samePassword) {
+        // здесь бизнес-решение:
+        // либо просто игнорить новый пароль,
+        // либо требовать "забыли пароль" / другой флоу
+        throw new BadRequestException({
+          message:
+            'Регистрация уже начата с другим паролем. Войдите и завершите подтверждение или сбросьте пароль.',
+          code: 'SIGNUP_ALREADY_STARTED_DIFFERENT_PASSWORD',
+        });
+      }
+
+      const code = this.generateCode6();
+      const expiresAt = new Date(Date.now() + 5 * 60 * 1000);
+
+      await this.users.setOtp(existing.id, code, expiresAt);
+
+      return {
+        status: 'CODE_RESENT',
+        userId: existing.id,
+      };
+    }
+
+    // если юзера нет – создаём
     const user = await this.users.createNewUnverifiedUser({
       identifier: opts.identifier,
       password: opts.password,
     });
 
-    // генерим OTP
     const code = this.generateCode6();
-    const expiresAt = new Date(Date.now() + 5 * 60 * 1000); // +5 минут
+    const expiresAt = new Date(Date.now() + 5 * 60 * 1000);
 
     await this.users.setOtp(user.id, code, expiresAt);
-
-    // тут отправляем код реальному юзеру:
-    // - если это email: sendEmail(user.email, code)
-    // - если телефон: sendSms(user.phone, code)
-    // сейчас просто считаем что отправили
 
     return {
       status: 'CODE_SENT',
@@ -43,7 +74,6 @@ export class AuthService {
     };
   }
 
-  // Шаг 2: подтверждаем код -> верифицируем -> логиним
   async signupConfirm(userId: number, code: string) {
     const user = await this.users.findById(userId);
     if (!user) throw new UnauthorizedException('Пользователь не найден');
@@ -68,8 +98,6 @@ export class AuthService {
     return this.buildToken(user.id, user.email || user.phone || '');
   }
 
-  // ---------- SIGNIN FLOW ----------
-
   async signin(opts: { identifier: string; password: string }) {
     const user = await this.users.findByIdentifier(opts.identifier);
     if (!user) {
@@ -82,17 +110,24 @@ export class AuthService {
     }
 
     if (!user.isVerified) {
-      // есть пользователь, но он ещё не подтвердил код (регу не закончил)
-      throw new ForbiddenException(
-        'Аккаунт не подтверждён. Завершите регистрацию.',
-      );
+      const code = this.generateCode6();
+      const expiresAt = new Date(Date.now() + 5 * 60 * 1000);
+
+      await this.users.setOtp(user.id, code, expiresAt);
+
+      throw new ForbiddenException({
+        message: 'Аккаунт не подтверждён. Мы отправили новый код.',
+        code: 'ACCOUNT_NOT_VERIFIED',
+        userId: user.id,
+        resend: true,
+      });
     }
 
-    // всё ок → выдаём токен
-    return this.buildToken(user.id, user.email || user.phone || '');
+    return this.buildToken(
+      user.id,
+      user.email || user.phone || opts.identifier,
+    );
   }
-
-  // ---------- HELPERS ----------
 
   private buildToken(userId: number, identifier: string) {
     const payload = { sub: userId, identifier };

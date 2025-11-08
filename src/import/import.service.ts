@@ -32,71 +32,91 @@ export class ImportService {
 
     for (const deal of deals) {
       await this.ds.transaction(async (trx) => {
+        const userRepo = trx.getRepository(User);
+        const locRepo = trx.getRepository(LocationEntity);
+        const offerRepo = trx.getRepository(Offer);
+
         // 1) Бизнес (User.isBusiness)
         const { user, createdBusiness } = await this.ensureBusiness(
-          trx.getRepository(User),
+          userRepo,
           deal,
         );
         if (createdBusiness) businessesCreated++;
 
         // 2) Филиал (Location)
         const { location, createdLocation } = await this.ensureLocation(
-          trx.getRepository(LocationEntity),
+          locRepo,
           user.id,
           deal,
         );
         if (createdLocation) locationsCreated++;
 
         // 3) Офферы (items)
-        const offerRepo = trx.getRepository(Offer);
-
         for (const item of deal.items) {
           const normalized = this.normalizeItem(item);
 
-          const offer = offerRepo.create({
-            title: item.title,
-            description: item.description ?? '',
-            categoryId: 1,
-            cityCode: 'astana',
-            benefitKind: normalized.benefitKind,
-            scope: OfferScope.ITEM,
-
-            oldPrice: normalized.oldPriceStr,
-            newPrice: normalized.newPriceStr,
-            discountAmount: normalized.discountAmountStr,
-            discountPercent: normalized.discountPercentStr,
-
-            buyQty: null,
-            getQty: null,
-            tradeInRequired: null,
-
-            eligibility: {
-              channel_codes: ['APP_WOLT'],
-              source_link: deal.link,
-              discount_text_raw: item.discountText,
+          const existing = await offerRepo.findOne({
+            where: {
+              title: item.title,
+              createdByUserId,
             },
-
-            campaignId: null,
-            campaignName: null,
-
-            startDate: null,
-            endDate: null,
-
-            posters: item.image ? [item.image] : [],
-
-            locationId: location.id,
-            createdByUserId,
-            status: 'ACTIVE',
-            user: user,
+            relations: ['locations'],
           });
 
-          await offerRepo.save(offer);
+          let offer: Offer;
 
-          // Привязка каналов (M2M)
-          offer.channels = [OfferChannelCode.APP_WOLT];
-          await offerRepo.save(offer);
+          if (!existing) {
+            offer = offerRepo.create({
+              title: item.title,
+              description: item.description ?? '',
+              categoryId: 1,
+              cityCode: 'astana',
+              benefitKind: normalized.benefitKind,
+              scope: OfferScope.ITEM,
 
-          offersCreated++;
+              oldPrice: normalized.oldPriceStr,
+              newPrice: normalized.newPriceStr,
+              discountAmount: normalized.discountAmountStr,
+              discountPercent: normalized.discountPercentStr,
+
+              buyQty: null,
+              getQty: null,
+              tradeInRequired: null,
+
+              eligibility: {
+                channel_codes: ['APP_WOLT'],
+                source_link: deal.link,
+                discount_text_raw: item.discountText,
+              },
+
+              campaignId: null,
+              campaignName: null,
+              startDate: null,
+              endDate: null,
+              posters: item.image ? [item.image] : [],
+
+              createdByUserId,
+              status: 'ACTIVE',
+              user,
+              channels: [OfferChannelCode.APP_WOLT],
+            });
+
+            // привязываем филиал (через M2M)
+            offer.locations = [location];
+
+            await offerRepo.save(offer);
+            offersCreated++;
+          } else {
+            // оффер есть, просто добавляем новую точку в связи, если её нет
+            const alreadyLinked = existing.locations.some(
+              (l) => l.id === location.id,
+            );
+            if (!alreadyLinked) {
+              existing.locations.push(location);
+              await offerRepo.save(existing);
+            }
+            offer = existing;
+          }
         }
       });
     }

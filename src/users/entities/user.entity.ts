@@ -38,7 +38,6 @@ export class User {
   slug: string | null;
 
 
-  // ✅ Название бизнеса (чтобы Wolt-импорт сразу имел человекочитаемое имя)
   @Column({
     type: 'varchar',
     length: 255,
@@ -46,7 +45,6 @@ export class User {
   })
   name: string | null;
 
-  // ✅ Аватар / логотип бренда
   @Column({
     type: 'varchar',
     length: 500,
@@ -54,7 +52,6 @@ export class User {
   })
   avatar: string | null;
 
-  // ✅ Флаг, чтобы отличать бизнес-пользователей от обычных
   @Column({
     type: 'boolean',
     default: false,
