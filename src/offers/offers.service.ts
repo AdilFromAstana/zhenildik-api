@@ -6,7 +6,7 @@ import {
 } from '@nestjs/common';
 import { InjectRepository } from '@nestjs/typeorm';
 import { In, Repository } from 'typeorm';
-import { Offer } from './entities/offer.entity';
+import { Offer, OfferStatus } from './entities/offer.entity';
 import { CreateOfferDto } from './dto/create-offer.dto';
 import { QueryOffersDto, SortBy } from './dto/query-offers.dto';
 import { UpdateOfferDto } from './dto/update-offer.dto';
@@ -300,6 +300,7 @@ export class OffersService {
   async findAll(
     filters: QueryOffersDto,
   ): Promise<{ data: Offer[]; total: number }> {
+    console.log('filters: ', filters);
     const baseQuery = this.offerRepository
       .createQueryBuilder('offer')
       .leftJoinAndSelect('offer.locations', 'location')
@@ -658,5 +659,34 @@ export class OffersService {
     }
 
     return stats;
+  }
+
+  async findOneById(
+    id: number,
+    options?: { includeDeleted?: boolean },
+  ): Promise<Offer> {
+    const includeDeleted = options?.includeDeleted ?? false;
+
+    const qb = this.offerRepository
+      .createQueryBuilder('offer')
+      .leftJoinAndSelect('offer.locations', 'location')
+      .leftJoin('offer.user', 'user')
+      .addSelect(['user.id', 'user.name', 'user.avatar']); // только нужные поля
+
+    qb.where('offer.id = :id', { id });
+
+    if (!includeDeleted) {
+      qb.andWhere('offer.status != :deletedStatus', {
+        deletedStatus: OfferStatus.DELETED,
+      });
+    }
+
+    const offer = await qb.getOne();
+
+    if (!offer) {
+      throw new NotFoundException(`Offer with id=${id} not found`);
+    }
+
+    return offer;
   }
 }

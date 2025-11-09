@@ -100,16 +100,12 @@ export class OffersController {
   }
 
   @ApiOperation({ summary: 'Получить одно предложение по ID' })
-  @UseGuards(JwtAuthGuard)
-  @ApiBearerAuth('access-token')
   @ApiParam({ name: 'id', type: Number, description: 'ID предложения' })
   @Get(':id')
-  async findOne(@Param('id') id: number, @Req() req: any) {
-    const offer = await this.offers.findOneByUser(Number(id), req.user.sub);
+  async findOne(@Param('id') id: number) {
+    const offer = await this.offers.findOneById(Number(id));
     if (!offer) throw new NotFoundException('Предложение не найдено');
-    return plainToInstance(OffersResponseDto, offer, {
-      excludeExtraneousValues: true,
-    });
+    return offer;
   }
 
   @Put(':id/status')
