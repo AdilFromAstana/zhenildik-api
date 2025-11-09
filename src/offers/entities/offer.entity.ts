@@ -55,6 +55,12 @@ export class Offer {
   @Column({ type: 'enum', enum: OfferScope })
   scope: OfferScope;
 
+  @Column('text', { array: true, default: '{}' })
+  tags: string[];
+
+  @Column({ type: 'jsonb', nullable: true })
+  meta: Record<string, any> | null;
+
   // Канонизированные ценовые поля
   @Column({ type: 'numeric', precision: 12, scale: 2, nullable: true })
   oldPrice: string | null; // хранить как string для точности
@@ -90,7 +96,7 @@ export class Offer {
   @Column({ type: 'timestamptz', nullable: true }) endDate: Date | null;
 
   @Column('text', { array: true, default: '{}' }) posters: string[];
- 
+
   @ManyToMany(() => Location, (location) => location.offers, { cascade: true })
   @JoinTable({
     name: 'offer_locations',

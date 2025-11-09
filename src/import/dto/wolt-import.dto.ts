@@ -7,6 +7,7 @@ import {
     Min,
     ValidateNested,
     IsString,
+    IsNumber,
 } from 'class-validator';
 
 // --- item внутри ресторана ---
@@ -17,6 +18,7 @@ export class WoltItemDto {
     @ApiProperty({ required: false }) @IsOptional() @IsString() newPrice?: string;
     @ApiProperty({ required: false }) @IsOptional() @IsString() oldPrice?: string;
     @ApiProperty({ required: false }) @IsOptional() @IsString() image?: string;
+    @ApiProperty({ required: false }) @IsOptional() @IsNumber() discountPercent?: number;
 }
 
 // --- информация о ресторане ---

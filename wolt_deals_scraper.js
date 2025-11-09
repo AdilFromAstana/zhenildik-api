@@ -8,7 +8,7 @@ const fs = require("fs");
 const path = require("path");
 
 const CONFIG = {
-    TARGET_PAGE_URL: "https://wolt.com/ru/discovery/kaz_rx_nov25_allvenues",
+    TARGET_PAGE_URL: "https://wolt.com/ru/discovery/restaurants",
     PAGE_VISIT_PAUSE_MS: 1000,
     MAX_SCROLL_IDLE_CYCLES: 10,
     SCROLL_AMOUNT: 400,
@@ -35,6 +35,45 @@ if (LIMIT_RESTAURANTS) {
 const delay = (ms) => new Promise((r) => setTimeout(r, ms));
 const log = (msg) => CONFIG.DEBUG && console.log(msg);
 const normalizeUrl = (url) => url.replace(/\/$/, "");
+
+// ----------------- HELPERS (должны быть выше runWoltScraper) -----------------
+function randomDelay(min = 800, max = 2000) {
+    return delay(min + Math.floor(Math.random() * (max - min)));
+}
+
+async function autosaveResults(results, filename = 'wolt_deals_latest.json') {
+    try {
+        const filePath = path.join(CONFIG.OUTPUT_DIR, filename);
+        await fs.promises.writeFile(filePath, JSON.stringify(results, null, 2), 'utf8');
+        console.log(`💾 Autosave: ${filePath}`);
+    } catch (err) {
+        console.warn('Autosave error:', err.message);
+    }
+}
+
+/** Round-robin разбиение на чанки для пула вкладок */
+function chunkRoundRobin(items, n) {
+    const chunks = Array.from({ length: n }, () => []);
+    items.forEach((it, i) => chunks[i % n].push(it));
+    return chunks;
+}
+
+/** Пул готовых страниц: blockResources + User-Agent + headers */
+async function createPagePool(browser, count) {
+    const pages = [];
+    for (let i = 0; i < count; i++) {
+        const p = await browser.newPage();
+        await blockResources(p);
+        await p.setUserAgent(
+            "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0 Safari/537.36"
+        );
+        await p.setExtraHTTPHeaders({
+            "accept-language": "ru-RU,ru;q=0.9,en;q=0.8",
+        });
+        pages.push(p);
+    }
+    return pages;
+}
 
 if (!fs.existsSync(CONFIG.OUTPUT_DIR))
     fs.mkdirSync(CONFIG.OUTPUT_DIR, { recursive: true });
@@ -180,8 +219,8 @@ async function extractRestaurantInfo(page) {
     });
 }
 
-// ==================== RESTAURANT PARSER ====================
-async function processRestaurant(restaurant, browser, visited, results, index, total) {
+// NOTE: теперь processRestaurant принимает готовую page из пула
+async function processRestaurant(restaurant, page, visited, results, index, total) {
     const { name, path: relPath } = restaurant;
     const fullLink = normalizeUrl(`https://wolt.com${relPath}`);
 
@@ -192,35 +231,53 @@ async function processRestaurant(restaurant, browser, visited, results, index, t
     visited.add(fullLink);
 
     console.log(`➡️ [${index + 1}/${total}] ${name}: ${fullLink}`);
-    const page = await browser.newPage();
-    await blockResources(page);
 
     try {
-        await page.goto(fullLink, { waitUntil: "domcontentloaded", timeout: 20000 });
-        await waitAndRetry(page, '[data-test-id="MenuSection"]', 6, "меню ресторана");
+        await page.goto(fullLink, { waitUntil: "domcontentloaded", timeout: 25000 });
+
+        // адаптивное ожидание: сначала быстро, затем увеличиваем таймаут
+        const ok = await waitAndRetry(page, '[data-test-id="MenuSection"]', 6, "меню ресторана");
+        if (!ok) {
+            console.warn(`⚠️ Меню не найдено у ${name}, пропускаем`);
+            return;
+        }
 
         const discountedItems = await page.$$eval('[data-test-id="horizontal-item-card"]', (cards) =>
             cards
                 .map((card) => {
-                    const badge = card.querySelector('[data-test-id="ItemDiscountBadge"]');
-                    if (!badge) return null;
+                    const newPriceEl = card.querySelector('[data-test-id="horizontal-item-card-discounted-price"]');
+                    const oldPriceEl = card.querySelector('[data-test-id="horizontal-item-card-original-price"]');
+                    if (!newPriceEl || !oldPriceEl) return null;
 
-                    const title =
-                        card.querySelector('[data-test-id="horizontal-item-card-header"]')?.innerText.trim() || "";
+                    const title = card.querySelector('[data-test-id="horizontal-item-card-header"]')?.innerText.trim() || "";
                     const description = card.querySelector("p")?.innerText.trim() || "";
-                    const discountText = badge.innerText.trim();
-                    const newPrice =
-                        card.querySelector('[data-test-id="horizontal-item-card-discounted-price"]')?.innerText.trim() || "";
-                    const oldPrice =
-                        card.querySelector('[data-test-id="horizontal-item-card-original-price"]')?.innerText.trim() || "";
-
-                    // 📸 Новое: вытаскиваем изображение блюда
+                    const newPrice = newPriceEl.innerText.trim();
+                    const oldPrice = oldPriceEl.innerText.trim();
+                    const discountText = card.querySelector('[data-test-id="ItemDiscountBadge"]')?.innerText.trim() || "";
                     const image =
                         card.querySelector('img[data-test-id="horizontal-item-card-image"]')?.src ||
                         card.querySelector("img")?.src ||
                         null;
 
-                    return { title, description, discountText, newPrice, oldPrice, image };
+                    // вычисляем процент скидки (если возможно)
+                    const toNumber = (s) => {
+                        if (!s) return null;
+                        const n = Number(s.replace(/[^\d]/g, ''));
+                        return Number.isFinite(n) ? n : null;
+                    };
+                    const newN = toNumber(newPrice);
+                    const oldN = toNumber(oldPrice);
+                    const discountPercent = newN && oldN ? Math.round(((oldN - newN) / oldN) * 100 * 10) / 10 : null;
+
+                    return {
+                        title,
+                        description,
+                        discountText,
+                        newPrice,
+                        oldPrice,
+                        discountPercent,
+                        image,
+                    };
                 })
                 .filter(Boolean)
         );
@@ -252,68 +309,74 @@ async function processRestaurant(restaurant, browser, visited, results, index, t
             info.brandName = brandImages.brandName || null;
         }
 
-        // Если нет акций, просто сохраняем без подсчёта
         if (discountedItems.length === 0) {
             console.log(`⚪ ${name}: без скидок, пропускаем`);
         } else {
             console.log(`✅ ${name}: ${discountedItems.length} скидок`);
+            results.push({
+                name,
+                link: fullLink,
+                discountCount: discountedItems.length,
+                items: discountedItems,
+                info,
+            });
         }
-
-        results.push({
-            name,
-            link: fullLink,
-            discountCount: discountedItems.length,
-            items: discountedItems,
-            info,
-        });
-
-        console.log(`✅ ${name}: ${discountedItems.length} скидок`);
     } catch (err) {
         console.warn(`❌ Ошибка ${name}: ${err.message}`);
     } finally {
-        await page.close().catch(() => { });
+        // не закрываем page — это страница пула
     }
 }
 
 // ==================== MAIN ====================
 async function runWoltScraper() {
-    console.log("🚀 Запуск Wolt Scraper...");
+    console.log("🚀 Запуск Wolt Scraper (оптимизированный режим)...");
 
     const browser = await puppeteer.launch({
-        headless: true,
+        headless: "new",
         defaultViewport: null,
         args: [
             "--no-sandbox",
             "--disable-setuid-sandbox",
             "--mute-audio",
             "--disable-infobars",
+            "--disable-dev-shm-usage",
+            "--disable-blink-features=AutomationControlled"
         ],
     });
-
-    const page = await browser.newPage();
-    await blockResources(page);
 
     const visited = new Set();
     const results = [];
 
     if (fs.existsSync(CONFIG.CACHE_FILE)) {
-        const cached = JSON.parse(fs.readFileSync(CONFIG.CACHE_FILE, "utf8"));
-        cached.forEach((url) => visited.add(url));
-        console.log(`🧠 Загружено из кеша: ${visited.size} ссылок`);
+        try {
+            const cached = JSON.parse(fs.readFileSync(CONFIG.CACHE_FILE, "utf8"));
+            cached.forEach((url) => visited.add(url));
+            console.log(`🧠 Загружено из кеша: ${visited.size} ссылок`);
+        } catch (e) {
+            console.warn('Не удалось загрузить кеш:', e.message);
+        }
     }
+
+    const controllerPage = await browser.newPage();
+    await blockResources(controllerPage);
+    await controllerPage.setUserAgent(
+        "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0 Safari/537.36"
+    );
+    await controllerPage.setExtraHTTPHeaders({ "accept-language": "ru-RU,ru;q=0.9,en;q=0.8" });
 
     try {
         console.log(`1️⃣ Открытие ${CONFIG.TARGET_PAGE_URL}`);
-        await page.goto(CONFIG.TARGET_PAGE_URL, { waitUntil: "domcontentloaded", timeout: 45000 });
+        await controllerPage.goto(CONFIG.TARGET_PAGE_URL, { waitUntil: "domcontentloaded", timeout: 45000 });
 
-        await waitAndRetry(page, CONFIG.SELECTORS.MAIN_LIST_CONTAINER, 5, "главный контейнер");
-        await waitAndRetry(page, CONFIG.SELECTORS.RESTAURANT_CARD, 5, "карточки ресторанов");
+        await waitAndRetry(controllerPage, CONFIG.SELECTORS.MAIN_LIST_CONTAINER, 5, "главный контейнер");
+        await waitAndRetry(controllerPage, CONFIG.SELECTORS.RESTAURANT_CARD, 5, "карточки ресторанов");
 
         console.log("2️⃣ Скроллинг...");
-        await scrollAll(page, CONFIG.SELECTORS.MAIN_LIST_CONTAINER);
+        await scrollAll(controllerPage, CONFIG.SELECTORS.MAIN_LIST_CONTAINER);
 
         console.log("3️⃣ Сбор ресторанов...");
-        const restaurants = await page.$$eval(CONFIG.SELECTORS.RESTAURANT_CARD, (links, selectors) => {
+        const restaurants = await controllerPage.$$eval(CONFIG.SELECTORS.RESTAURANT_CARD, (links, selectors) => {
             const result = [];
             for (const link of links) {
                 const li = link.closest("li");
@@ -329,28 +392,56 @@ async function runWoltScraper() {
         const uniqueRestaurants = Array.from(new Map(restaurants.map((r) => [r.path, r])).values());
         console.log(`✅ Найдено ${uniqueRestaurants.length} уникальных ресторанов`);
 
-        let processed = 0;
-        for (const r of uniqueRestaurants) {
-            const index = ++processed;
-            const total = uniqueRestaurants.length;
-            await processRestaurant(r, browser, visited, results, index, total);
+        const concurrency = Math.max(1, Math.min(CONFIG.PARALLEL_PAGES, 4));
+        const pagePool = await createPagePool(browser, concurrency);
 
-            // 🧮 Проверяем лимит ресторанов с акциями
-            const withDiscounts = results.filter((x) => x.discountCount > 0).length;
-            if (LIMIT_RESTAURANTS && withDiscounts >= LIMIT_RESTAURANTS) {
-                console.log(`🎯 Достигнут лимит: ${withDiscounts} ресторанов с акциями.`);
-                break;
+        const chunks = chunkRoundRobin(uniqueRestaurants, concurrency);
+
+        await Promise.all(chunks.map(async (chunk, idx) => {
+            const page = pagePool[idx];
+            for (let i = 0; i < chunk.length; i++) {
+                const r = chunk[i];
+                const index = i;
+                const total = chunk.length;
+                try {
+                    await processRestaurant(r, page, visited, results, index, total);
+                } catch (err) {
+                    console.warn(`Ошибка обработки ${r.name}: ${err.message}`);
+                }
+
+                if (results.length % 10 === 0) {
+                    await autosaveResults(results);
+                    // обновим cache file
+                    try {
+                        await fs.promises.writeFile(CONFIG.CACHE_FILE, JSON.stringify(Array.from(visited)), 'utf8');
+                    } catch (e) { /* ignore */ }
+                }
+
+                await randomDelay(900, 2200);
             }
-        }
+        }));
 
-        console.log(`\n✅ Обработано ${results.length} ресторанов`);
+        // закрываем страницы пула
+        await Promise.all(pagePool.map((p) => p.close()));
+
+        console.log(`\n✅ Обработано ${results.length} ресторанов (с акциями: ${results.filter(r => r.discountCount > 0).length})`);
         saveData("wolt_deals_data", results, true);
+        await autosaveResults(results, 'wolt_deals_latest.json');
+
+        // обновляем кеш visited
+        try {
+            await fs.promises.writeFile(CONFIG.CACHE_FILE, JSON.stringify(Array.from(visited)), 'utf8');
+        } catch (e) {
+            console.warn('Ошибка записи кеша:', e.message);
+        }
     } catch (err) {
-        console.error("❌ Ошибка:", err.message);
+        console.error("❌ Критическая ошибка:", err.message);
     } finally {
+        await controllerPage.close().catch(() => { });
         await browser.close();
         console.log("👋 Браузер закрыт корректно.");
     }
 }
+
 
 runWoltScraper();

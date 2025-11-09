@@ -22,14 +22,6 @@ export class Location {
   @Column({ nullable: true })
   name: string;
 
-  @Column({
-    type: 'geography',
-    spatialFeatureType: 'Point',
-    srid: 4326,
-    nullable: true,
-  }) 
-  geom?: string;
-
   @Column({ nullable: true })
   fullAddress: string;
 

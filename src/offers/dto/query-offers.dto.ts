@@ -182,4 +182,44 @@ export class QueryOffersDto {
   @IsOptional()
   @IsEnum(SortOrder)
   sortOrder: SortOrder = SortOrder.DESC;
+
+
+
+
+
+  // --- Метаданные (meta.*) ---
+  @ApiPropertyOptional({ example: 'донер', description: 'Тип блюда (dishType)' })
+  @IsOptional()
+  @IsString()
+  dishType?: string;
+
+  @ApiPropertyOptional({ example: 'итальянская', description: 'Тип кухни (cuisine)' })
+  @IsOptional()
+  @IsString()
+  cuisine?: string;
+
+  @ApiPropertyOptional({ example: 'комбо', description: 'Тип предложения (deal)' })
+  @IsOptional()
+  @IsString()
+  deal?: string;
+
+  @ApiPropertyOptional({ example: 'курица', description: 'Белок/ингредиент (protein)' })
+  @IsOptional()
+  @IsString()
+  protein?: string;
+
+  @ApiPropertyOptional({ example: 'завтрак', description: 'Тип приёма пищи (mealType)' })
+  @IsOptional()
+  @IsString()
+  mealType?: string;
+
+  @ApiPropertyOptional({ example: 'стоматология', description: 'Тип услуги (serviceType)' })
+  @IsOptional()
+  @IsString()
+  serviceType?: string;
+
+  @ApiPropertyOptional({ example: 'автотовары', description: 'Тип товара (productType)' })
+  @IsOptional()
+  @IsString()
+  productType?: string;
 }

@@ -36,7 +36,7 @@ import { UpdateOfferStatusDto } from './dto/update-offer-status.dto';
 @ApiTags('Offers')
 @Controller('offers')
 export class OffersController {
-  constructor(private readonly offers: OffersService) {}
+  constructor(private readonly offers: OffersService) { }
 
   @UseGuards(JwtAuthGuard)
   @ApiBearerAuth('access-token')
@@ -97,6 +97,11 @@ export class OffersController {
   @ApiOperation({ summary: 'Получить статистику по статусам пользователя' })
   async getUserStats(@Req() req: any) {
     return this.offers.getUserOfferStats(req.user.sub);
+  }
+
+  @Get('meta-stats')
+  async getMetaStats(@Query('cityCode') cityCode?: string) {
+    return this.offers.getMetaStats(cityCode);
   }
 
   @ApiOperation({ summary: 'Получить одно предложение по ID' })

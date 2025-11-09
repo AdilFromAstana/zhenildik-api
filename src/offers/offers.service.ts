@@ -25,7 +25,7 @@ export class OffersService {
     @InjectRepository(Location)
     private readonly locationRepository: Repository<Location>,
     private readonly moderationService: ModerationService,
-  ) {}
+  ) { }
 
   private parseMoney(v: any): number | null {
     if (v == null) return null;
@@ -313,9 +313,9 @@ export class OffersService {
       const term = `%${filters.search.toLowerCase()}%`;
       baseQuery.andWhere(
         '(LOWER(offer.title) LIKE :term ' +
-          'OR LOWER(offer.description) LIKE :term ' +
-          'OR LOWER(offer.campaignName) LIKE :term ' +
-          'OR LOWER(category.name) LIKE :term)',
+        'OR LOWER(offer.description) LIKE :term ' +
+        'OR LOWER(offer.campaignName) LIKE :term ' +
+        'OR LOWER(category.name) LIKE :term)',
         { term },
       );
     }
@@ -336,7 +336,7 @@ export class OffersService {
 
     // Только офферы конкретного пользователя
     if (filters.userId) {
-      baseQuery.andWhere('offer.createdByUserId = :userId', {
+      baseQuery.andWhere('offer.userId = :userId', {
         userId: filters.userId,
       });
     }
@@ -384,6 +384,30 @@ export class OffersService {
     // Охват
     if (filters.scope) {
       baseQuery.andWhere('offer.scope = :scope', { scope: filters.scope });
+    }
+
+
+    // 🍣 Фильтрация по метаданным
+    if (filters.dishType) {
+      baseQuery.andWhere(`offer.meta->>'dishType' = :dishType`, { dishType: filters.dishType });
+    }
+    if (filters.cuisine) {
+      baseQuery.andWhere(`offer.meta->>'cuisine' = :cuisine`, { cuisine: filters.cuisine });
+    }
+    if (filters.deal) {
+      baseQuery.andWhere(`offer.meta->'deal' ? :deal`, { deal: filters.deal });
+    }
+    if (filters.protein) {
+      baseQuery.andWhere(`offer.meta->'protein' ? :protein`, { protein: filters.protein });
+    }
+    if (filters.mealType) {
+      baseQuery.andWhere(`offer.meta->>'mealType' = :mealType`, { mealType: filters.mealType });
+    }
+    if (filters.serviceType) {
+      baseQuery.andWhere(`offer.meta->>'serviceType' = :serviceType`, { serviceType: filters.serviceType });
+    }
+    if (filters.productType) {
+      baseQuery.andWhere(`offer.meta->>'productType' = :productType`, { productType: filters.productType });
     }
 
     const sortFieldMap: Record<string, string> = {
@@ -688,5 +712,37 @@ export class OffersService {
     }
 
     return offer;
+  }
+
+  async getMetaStats(cityCode?: string) {
+    const qb = this.offerRepository
+      .createQueryBuilder('offer')
+      .select([
+        `offer.meta->>'dishType' AS "dishType"`,
+        `offer.meta->>'cuisine' AS "cuisine"`,
+        `jsonb_array_elements_text(offer.meta->'deal') AS "deal"`,
+      ])
+      .where('offer.status = :status', { status: OfferStatus.ACTIVE });
+
+    if (cityCode) qb.andWhere('offer.cityCode = :cityCode', { cityCode });
+
+    const rows = await qb.getRawMany();
+
+    const stats = {
+      dishType: {} as Record<string, number>,
+      cuisine: {} as Record<string, number>,
+      deal: {} as Record<string, number>,
+    };
+
+    for (const r of rows) {
+      if (r.dishType)
+        stats.dishType[r.dishType] = (stats.dishType[r.dishType] ?? 0) + 1;
+      if (r.cuisine)
+        stats.cuisine[r.cuisine] = (stats.cuisine[r.cuisine] ?? 0) + 1;
+      if (r.deal)
+        stats.deal[r.deal] = (stats.deal[r.deal] ?? 0) + 1;
+    }
+
+    return stats;
   }
 }

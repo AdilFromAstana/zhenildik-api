@@ -10,6 +10,8 @@ import { WoltDealDto, WoltItemDto } from './dto/wolt-import.dto';
 import { BenefitKind } from 'src/offers/enums/benefit-kind.enum';
 import { OfferScope } from 'src/offers/enums/offer-scope.enum';
 import { OfferChannelCode } from 'src/offer-channels/offer-channel.enum';
+import path from 'path';
+import fs from "fs";
 
 @Injectable()
 export class ImportService {
@@ -21,7 +23,7 @@ export class ImportService {
     @InjectRepository(Offer) private readonly offerRepo: Repository<Offer>,
     @InjectRepository(OfferChannel)
     private readonly channelRepo: Repository<OfferChannel>,
-  ) {}
+  ) { }
 
   async importWoltDeals(deals: WoltDealDto[], createdByUserId: number) {
     const warnings: string[] = [];
@@ -54,84 +56,66 @@ export class ImportService {
         // 3) Офферы (items)
         for (const item of deal.items) {
           const normalized = this.normalizeItem(item);
+          const { tags, meta } = this.detectTagsDetailed(item.title, item.description);
 
+          // Поиск уже существующего оффера того же бренда
           const existing = await offerRepo.findOne({
             where: {
               title: item.title,
-              createdByUserId,
+              user: { id: user.id },
+              newPrice: normalized.newPriceStr ?? undefined,
+              oldPrice: normalized.oldPriceStr ?? undefined,
+              sourceSystem: 'WOLT',
             },
-            relations: ['locations'],
+            relations: ['locations', 'user'],
           });
 
-          let offer: Offer;
-
-          if (!existing) {
-            offer = offerRepo.create({
-              title: item.title,
-              description: item.description ?? '',
-              categoryId: 1,
-              cityCode: 'astana',
-              benefitKind: normalized.benefitKind,
-              scope: OfferScope.ITEM,
-
-              oldPrice: normalized.oldPriceStr,
-              newPrice: normalized.newPriceStr,
-              discountAmount: normalized.discountAmountStr,
-              discountPercent: normalized.discountPercentStr,
-
-              buyQty: null,
-              getQty: null,
-              tradeInRequired: null,
-
-              eligibility: {
-                channel_codes: ['APP_WOLT'],
-                source_link: deal.link,
-                discount_text_raw: item.discountText,
-              },
-
-              campaignId: null,
-              campaignName: null,
-              startDate: null,
-              endDate: null,
-              posters: item.image ? [item.image] : [],
-
-              createdByUserId,
-              status: 'ACTIVE',
-              user,
-              channels: [OfferChannelCode.APP_WOLT],
-            });
-
-            // привязываем филиал (через M2M)
-            offer.locations = [location];
-
-            await offerRepo.save(offer);
-            offersCreated++;
-          } else {
-            // оффер есть, просто добавляем новую точку в связи, если её нет
-            const alreadyLinked = existing.locations.some(
-              (l) => l.id === location.id,
-            );
+          if (existing) {
+            // если филиал ещё не привязан — добавляем
+            const alreadyLinked = existing.locations.some(l => l.id === location.id);
             if (!alreadyLinked) {
               existing.locations.push(location);
               await offerRepo.save(existing);
             }
-            offer = existing;
+            continue; // не создаём дубликат
           }
+
+          // Создание нового оффера
+          const offer = offerRepo.create({
+            title: item.title,
+            description: item.description ?? '',
+            categoryId: 1,
+            cityCode: 'astana',
+            benefitKind: normalized.benefitKind,
+            scope: OfferScope.ITEM,
+            oldPrice: normalized.oldPriceStr,
+            newPrice: normalized.newPriceStr,
+            discountAmount: normalized.discountAmountStr,
+            discountPercent: normalized.discountPercentStr,
+            eligibility: {
+              channel_codes: ['APP_WOLT'],
+              source_link: deal.link,
+              discount_text_raw: item.discountText,
+            },
+            tags,
+            meta,
+            posters: item.image ? [item.image] : [],
+            createdByUserId,
+            status: 'ACTIVE',
+            user,
+            channels: [OfferChannelCode.APP_WOLT],
+            sourceSystem: 'WOLT',
+            sourceUrl: deal.link,
+            locations: [location],
+          });
+
+          await offerRepo.save(offer);
+          offersCreated++;
         }
       });
     }
 
     return { businessesCreated, locationsCreated, offersCreated, warnings };
-  }
-
-  /** Канал по коду или создать */
-  private async ensureChannel(code: string, name: string, category: string) {
-    let ch = await this.channelRepo.findOne({ where: { code } });
-    if (!ch) {
-      ch = this.channelRepo.create({ code, name, category });
-      ch = await this.channelRepo.save(ch);
-    }
-    return ch;
   }
 
   /** Создать/найти бизнес (User) по brandSlug/brandName/phone */
@@ -167,6 +151,157 @@ export class ImportService {
     return { user, createdBusiness };
   }
 
+  private detectTagsDetailed(title: string, description?: string) {
+    const text = `${title} ${description || ''}`.toLowerCase();
+    const tags: string[] = [];
+    const meta: Record<string, any> = {
+      cuisine: null,
+      dishType: null,
+      protein: [],
+      technique: [],
+      deal: [],
+      serviceType: null,
+      productType: null,
+      mealType: null, // 👈 добавлено
+    };
+
+    // 🍣 Тип блюда
+    const dishGroups = {
+      суши: ['суши', 'ролл', 'маки', 'филадельфия', 'калифорния', 'темпура'],
+      пицца: ['пицца', 'pizza'],
+      бургер: ['бургер', 'чизбургер', 'воппер', 'burger'],
+      донер: ['донер', 'шаурма', 'лаваш', 'шаверма', 'kebab', 'дурум', 'тандыр'],
+      лапша: ['вок', 'лагман', 'лапша', 'паста', 'спагетти', 'noodles', 'цомян'],
+      салат: ['салат', 'цезарь', 'греческий'],
+      суп: ['суп', 'борщ', 'шурпа', 'чечевичный'],
+      десерт: ['десерт', 'чизкейк', 'мороженое', 'торт', 'панкейк', 'брауни'],
+      закуска: ['брускетта', 'хрустящие палочки', 'наггетсы', 'стрипсы', 'тапас'],
+      сэндвич: ['сэндвич', 'бутерброд', 'клаб', 'панини', 'тост'],
+      рис: ['рис', 'fried rice', 'мад райс', 'мэд райс'],
+      манты: ['манты', 'пельмени', 'дюмplings', 'вареники'],
+      завтрак: ['завтрак', 'омлет', 'глазунья', 'скрэмбл', 'фасоль', 'breakfast'],
+      комбо: ['комбо', 'сет', 'набор', 'комплекс'],
+    };
+
+    for (const [type, kws] of Object.entries(dishGroups)) {
+      if (kws.some((w) => text.includes(w))) {
+        meta.dishType = type;
+        tags.push(type);
+        break;
+      }
+    }
+
+    // 🍗 Белки (ингредиенты)
+    const proteins = {
+      курица: ['курица', 'куриное', 'цыплёнок', 'chicken'],
+      говядина: ['говядина', 'beef', 'ростбиф', 'вырезка'],
+      баранина: ['баранина', 'lamb'],
+      свинина: ['свинина', 'pork'],
+      рыба: ['лосось', 'треска', 'форель', 'рыба', 'тунец'],
+      креветки: ['креветки', 'shrimp', 'эби'],
+      кальмар: ['кальмар'],
+      мидии: ['мидии', 'моллюск'],
+      сыр: ['сыр', 'сулугуни', 'фета', 'моцарелла', 'чеддер', 'страчателла'],
+      яйцо: ['яйцо', 'глазунья', 'омлет', 'скрэмбл'],
+    };
+
+    for (const [prot, kws] of Object.entries(proteins)) {
+      if (kws.some((w) => text.includes(w))) meta.protein.push(prot);
+    }
+
+    // 🔥 Техника приготовления
+    const techniques = {
+      гриль: ['гриль', 'барбекю', 'мангал'],
+      фритюр: ['фритюр', 'во фритюре', 'жарен', 'панировка', 'темпура', 'кляр'],
+      печь: ['запечен', 'в духовке', 'тандыр'],
+      варка: ['варен', 'на пару', 'boiled'],
+      wok: ['вок', 'stir-fry'],
+    };
+    for (const [tech, kws] of Object.entries(techniques)) {
+      if (kws.some((w) => text.includes(w))) meta.technique.push(tech);
+    }
+
+    // 🌏 Кухня
+    const cuisines = {
+      итальянская: ['пицца', 'паста', 'спагетти', 'carbonara', 'тальятелле', 'песто', 'брускетта'],
+      японская: ['суши', 'ролл', 'сашими', 'маки', 'соевый соус', 'васаби', 'темпура'],
+      казахская: ['бешбармак', 'куырдак', 'баурсаки'],
+      узбекская: ['плов', 'сомса', 'лагман', 'манты'],
+      азиатская: ['вок', 'соус терияки', 'свит чили', 'тайская', 'азиатский', 'соус ладжан'],
+      европейская: ['салат', 'бургер', 'стейк', 'сэндвич', 'завтрак'],
+      кофейня: ['кофе', 'латте', 'капучино', 'эспрессо', 'чай', 'cappuccino', 'americano'],
+      ближневосточная: ['донер', 'шаурма', 'лаваш', 'kebab'],
+    };
+    for (const [cuisine, kws] of Object.entries(cuisines)) {
+      if (kws.some((w) => text.includes(w))) {
+        meta.cuisine = cuisine;
+        tags.push(cuisine);
+        break;
+      }
+    }
+
+    // 🍽 Тип приёма пищи
+    if (/завтрак|омлет|фасоль|скрэмбл|breakfast/i.test(text)) meta.mealType = 'завтрак';
+    if (/ланч|обед/i.test(text)) meta.mealType = 'обед';
+    if (/ужин|dinner/i.test(text)) meta.mealType = 'ужин';
+
+    // 💬 Тип предложения
+    if (/комбо|сет|набор/i.test(text)) meta.deal.push('комбо');
+    if (/скидк|%|новинка|акция/i.test(text)) meta.deal.push('акция');
+
+    // 🦷 Услуги
+    if (/зуб|стоматолог|ортодонт/i.test(text)) {
+      meta.serviceType = 'стоматология';
+      tags.push('стоматология');
+    }
+    if (/мойка|ремонт|услуга/i.test(text)) {
+      meta.serviceType = 'ремонт';
+      tags.push('услуги');
+    }
+
+    // 🛠 Магазины / техника
+    if (/масло|шина|аккумулятор|запчаст/i.test(text)) {
+      meta.productType = 'автотовары';
+      tags.push('авто');
+    }
+
+    // Если ничего не найдено
+    if (!tags.length) {
+      tags.push('прочее');
+      this.logUnrecognized(text);
+    }
+
+    return { tags: [...new Set(tags)], meta };
+  }
+
+  /** Логирование нераспознанных текстов в файл */
+  private logUnrecognized(text: string) {
+    try {
+      const logsDir = path.resolve(process.cwd(), 'logs');
+      const filePath = path.join(logsDir, 'unrecognized.json');
+
+      // создаём папку logs, если её нет
+      if (!fs.existsSync(logsDir)) {
+        fs.mkdirSync(logsDir, { recursive: true });
+      }
+
+      // читаем существующие данные
+      let data: string[] = [];
+      if (fs.existsSync(filePath)) {
+        const raw = fs.readFileSync(filePath, 'utf8');
+        data = JSON.parse(raw || '[]');
+      }
+
+      // добавляем новый пример, если его ещё нет
+      if (!data.includes(text)) {
+        data.push(text);
+        fs.writeFileSync(filePath, JSON.stringify(data, null, 2), 'utf8');
+      }
+    } catch (err) {
+      console.error('Ошибка записи в logs/unrecognized.json:', err);
+    }
+  }
+
   /** Создать/найти филиал по userId + координаты/адрес */
   private async ensureLocation(locRepo, userId: number, deal: WoltDealDto) {
     const [lat, lng] = deal.info.coordinates ?? [null, null];
@@ -174,8 +309,8 @@ export class ImportService {
     let location =
       lat != null && lng != null
         ? await locRepo.findOne({
-            where: { createdByUserId: userId, latitude: lat, longitude: lng },
-          })
+          where: { createdByUserId: userId, latitude: lat, longitude: lng },
+        })
         : null;
 
     let createdLocation = false;
@@ -253,14 +388,6 @@ export class ImportService {
     if (!m) return null;
     const n = Number(m[1]);
     return Number.isFinite(n) ? Math.max(0, Math.min(100, Math.abs(n))) : null;
-  }
-
-  private extractCityCode(address?: string | null): string | null {
-    if (!address) return null;
-    if (/Астана/i.test(address)) return 'AST';
-    if (/Алматы/i.test(address)) return 'ALA';
-    if (/Шымкент/i.test(address)) return 'SHY';
-    return null;
   }
 
   private slugify(s: string): string {
