@@ -1,4 +1,4 @@
-[
+export const woltDeals = [
   {
     "name": "I'M Кенесары",
     "link": "https://wolt.com/ru/kaz/nur-sultan/restaurant/im-kenesary",
@@ -15002,4 +15002,4 @@
       "brandName": null
     }
   }
-]
+];

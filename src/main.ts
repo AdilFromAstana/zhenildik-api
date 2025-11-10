@@ -37,7 +37,7 @@ async function bootstrap() {
       whitelist: true,
       forbidNonWhitelisted: true,
       transform: true, // ✅ ключевой параметр
-      transformOptions: { enableImplicitConversion: true }, // ✅ для вложенных DTO
+      transformOptions: { enableImplicitConversion: true },
     }),
   );
 
