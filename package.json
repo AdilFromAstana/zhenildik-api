@@ -4,6 +4,7 @@
   "description": "",
   "author": "",
   "private": true,
+  "type": "commonjs",
   "license": "UNLICENSED",
   "scripts": {
     "build": "nest build",
@@ -37,7 +38,7 @@
     "passport": "^0.7.0",
     "passport-jwt": "^4.0.1",
     "pg": "^8.16.3",
-    "puppeteer": "^24.27.0",
+    "puppeteer": "^24.29.1",
     "reflect-metadata": "^0.2.2",
     "rxjs": "^7.8.1",
     "swagger-ui-express": "^5.0.1",

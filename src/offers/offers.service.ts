@@ -25,7 +25,7 @@ export class OffersService {
     @InjectRepository(Location)
     private readonly locationRepository: Repository<Location>,
     private readonly moderationService: ModerationService,
-  ) { }
+  ) {}
 
   private parseMoney(v: any): number | null {
     if (v == null) return null;
@@ -313,19 +313,23 @@ export class OffersService {
       const term = `%${filters.search.toLowerCase()}%`;
       baseQuery.andWhere(
         '(LOWER(offer.title) LIKE :term ' +
-        'OR LOWER(offer.description) LIKE :term ' +
-        'OR LOWER(offer.campaignName) LIKE :term ' +
-        'OR LOWER(category.name) LIKE :term)',
+          'OR LOWER(offer.description) LIKE :term ' +
+          'OR LOWER(offer.campaignName) LIKE :term ' +
+          'OR LOWER(category.name) LIKE :term)',
         { term },
       );
     }
 
-    // Город
-    if (filters.cityCode) {
-      baseQuery.andWhere('offer.cityCode = :cityCode', {
-        cityCode: filters.cityCode,
-      });
+    // 🔒 Город обязателен
+    if (!filters.cityCode) {
+      throw new BadRequestException(
+        'cityCode обязателен для выборки предложений',
+      );
     }
+
+    baseQuery.andWhere('offer.cityCode = :cityCode', {
+      cityCode: filters.cityCode,
+    });
 
     // Категория
     if (filters.categoryId) {
@@ -386,28 +390,39 @@ export class OffersService {
       baseQuery.andWhere('offer.scope = :scope', { scope: filters.scope });
     }
 
-
     // 🍣 Фильтрация по метаданным
     if (filters.dishType) {
-      baseQuery.andWhere(`offer.meta->>'dishType' = :dishType`, { dishType: filters.dishType });
+      baseQuery.andWhere(`offer.meta->>'dishType' = :dishType`, {
+        dishType: filters.dishType,
+      });
     }
     if (filters.cuisine) {
-      baseQuery.andWhere(`offer.meta->>'cuisine' = :cuisine`, { cuisine: filters.cuisine });
+      baseQuery.andWhere(`offer.meta->>'cuisine' = :cuisine`, {
+        cuisine: filters.cuisine,
+      });
     }
     if (filters.deal) {
       baseQuery.andWhere(`offer.meta->'deal' ? :deal`, { deal: filters.deal });
     }
     if (filters.protein) {
-      baseQuery.andWhere(`offer.meta->'protein' ? :protein`, { protein: filters.protein });
+      baseQuery.andWhere(`offer.meta->'protein' ? :protein`, {
+        protein: filters.protein,
+      });
     }
     if (filters.mealType) {
-      baseQuery.andWhere(`offer.meta->>'mealType' = :mealType`, { mealType: filters.mealType });
+      baseQuery.andWhere(`offer.meta->>'mealType' = :mealType`, {
+        mealType: filters.mealType,
+      });
     }
     if (filters.serviceType) {
-      baseQuery.andWhere(`offer.meta->>'serviceType' = :serviceType`, { serviceType: filters.serviceType });
+      baseQuery.andWhere(`offer.meta->>'serviceType' = :serviceType`, {
+        serviceType: filters.serviceType,
+      });
     }
     if (filters.productType) {
-      baseQuery.andWhere(`offer.meta->>'productType' = :productType`, { productType: filters.productType });
+      baseQuery.andWhere(`offer.meta->>'productType' = :productType`, {
+        productType: filters.productType,
+      });
     }
 
     const sortFieldMap: Record<string, string> = {
@@ -714,7 +729,13 @@ export class OffersService {
     return offer;
   }
 
-  async getMetaStats(cityCode?: string) {
+  async getMetaStats(cityCode: string) {
+    if (!cityCode || cityCode.trim() === '') {
+      throw new BadRequestException(
+        'Параметр cityCode обязателен для получения статистики по метаданным.',
+      );
+    }
+
     const qb = this.offerRepository
       .createQueryBuilder('offer')
       .select([
@@ -722,9 +743,8 @@ export class OffersService {
         `offer.meta->>'cuisine' AS "cuisine"`,
         `jsonb_array_elements_text(offer.meta->'deal') AS "deal"`,
       ])
-      .where('offer.status = :status', { status: OfferStatus.ACTIVE });
-
-    if (cityCode) qb.andWhere('offer.cityCode = :cityCode', { cityCode });
+      .where('offer.status = :status', { status: OfferStatus.ACTIVE })
+      .andWhere('offer.cityCode = :cityCode', { cityCode });
 
     const rows = await qb.getRawMany();
 
@@ -739,8 +759,7 @@ export class OffersService {
         stats.dishType[r.dishType] = (stats.dishType[r.dishType] ?? 0) + 1;
       if (r.cuisine)
         stats.cuisine[r.cuisine] = (stats.cuisine[r.cuisine] ?? 0) + 1;
-      if (r.deal)
-        stats.deal[r.deal] = (stats.deal[r.deal] ?? 0) + 1;
+      if (r.deal) stats.deal[r.deal] = (stats.deal[r.deal] ?? 0) + 1;
     }
 
     return stats;

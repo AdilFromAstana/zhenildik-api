@@ -1,4 +1,4 @@
-[
+export const woltDeals = [
   {
     "name": "Craft Lavash Байтурсынова",
     "link": "https://wolt.com/ru/kaz/shymkent/restaurant/craft-baitursynov",
@@ -2692,4 +2692,4 @@
       "brandName": null
     }
   }
-]
+];
