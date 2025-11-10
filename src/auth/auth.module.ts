@@ -7,25 +7,11 @@ import { JwtStrategy } from './jwt.strategy';
 import { UsersModule } from 'src/users/users.module';
 import { ConfigModule, ConfigService } from '@nestjs/config';
 import { JwtAuthGuard } from './guards/jwt-auth.guard';
-import { TypeOrmModule } from '@nestjs/typeorm';
 
 @Module({
   imports: [
     forwardRef(() => UsersModule),
     PassportModule,
-    ConfigModule.forRoot({
-      isGlobal: true, // .env доступен везде
-    }),
-    TypeOrmModule.forRoot({
-      type: 'postgres',
-      host: process.env.DB_HOST,
-      port: Number(process.env.DB_PORT),
-      username: process.env.DB_USER,
-      password: process.env.DB_PASS,
-      database: process.env.DB_NAME,
-      autoLoadEntities: true,
-      synchronize: true,
-    }),
     JwtModule.registerAsync({
       imports: [ConfigModule],
       inject: [ConfigService],
