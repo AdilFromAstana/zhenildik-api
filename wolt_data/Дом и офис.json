@@ -1,0 +1,5660 @@
+[
+  {
+    "id": "54855275a474364467ad7064",
+    "advertising_info": null,
+    "alcohol_permille": 0,
+    "allowed_delivery_methods": [
+      "homedelivery",
+      "takeaway",
+      "eatin"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 0,
+        "end_time": 86400000
+      }
+    ],
+    "barcode_gtin": "05900942133598",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "1246ef599c45e9d4e9af8f793f84a524",
+    "description": "Рукав для запекания Paclan длиной 5 метров в комплекте с клипсами для фиксации. Позволяет готовить сочные и ароматные блюда из мяса, рыбы и овощей без добавления масла.",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": true,
+    "images": [
+      {
+        "url": "https://imageproxy.wolt.com/assets/688b99e723fa16f725af8306",
+        "blurhash": "L=Q+[]nij^oLt7xvWXay.AWWV?j?"
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": true,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "Paclan Рукав для запекания с клипсами, 5 м",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 123500,
+    "product_hierarchy_tags": [
+      "UNKNOWN"
+    ],
+    "purchasable_balance": 16,
+    "restrictions": [],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": false,
+    "tags": [],
+    "unit_info": "1 шт",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 123500,
+      "unit": "piece"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 12,
+    "vat_percentage_decimal": "12.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    }
+  },
+  {
+    "id": "d9394d17f070601a1355e01c",
+    "advertising_info": null,
+    "alcohol_permille": 0,
+    "allowed_delivery_methods": [
+      "eatin",
+      "takeaway",
+      "homedelivery"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 0,
+        "end_time": 86400000
+      }
+    ],
+    "barcode_gtin": "04610000266618",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "0a0afdcb46630b5054a80da672515afd",
+    "description": "Пергамент для выпечки ''Хозяюшка Мила'' – экологичный, прочный, стойкий к высоким температурам материал. Особенность пергамента – это устойчивость к воздействию жира, поэтому пергамент идеален для выпечки, а также для упаковки пищевых продуктов: масло, творог, сыр, фарш.",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": true,
+    "images": [
+      {
+        "url": "https://imageproxy.wolt.com/assets/6888bf26a3eb62eeb956415a",
+        "blurhash": "L8TI%Rof%it7t7kCj[V@.Tj]I9ae"
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": true,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "Хозяюшка Пергамент ''Хозяюшка Мила'' Пищевой 5 Метров",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 66500,
+    "product_hierarchy_tags": [
+      "UNKNOWN"
+    ],
+    "purchasable_balance": 21,
+    "restrictions": [],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": false,
+    "tags": [],
+    "unit_info": "1 шт",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 66500,
+      "unit": "piece"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 12,
+    "vat_percentage_decimal": "12.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    }
+  },
+  {
+    "id": "ce37e225a31987a894b13801",
+    "advertising_info": null,
+    "alcohol_permille": 0,
+    "allowed_delivery_methods": [
+      "homedelivery",
+      "takeaway",
+      "eatin"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 0,
+        "end_time": 86400000
+      }
+    ],
+    "barcode_gtin": "00000040141701",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "2db995e5585b871626bb978f7b6660b8",
+    "description": "Пищевая алюминиевая фольга является удобным материалом для запекания и хранения продуктов: обладает прочностью, жаростойкостью, непроницаема для влаги и жира, сохраняет свежесть и качество продуктов в течение длительного времени.",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": true,
+    "images": [
+      {
+        "url": "https://imageproxy.wolt.com/assets/6888bee223fa16f725a99277",
+        "blurhash": "LSSY:OkEt6j[s+xvf5f6?wadM{j]"
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": true,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": 5,
+    "min_quantity_per_purchase": null,
+    "name": "Paclan Фольга Алюминиевая 10М Х 29См В Рулоне, 13 Мкм",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 148000,
+    "product_hierarchy_tags": [
+      "UNKNOWN"
+    ],
+    "purchasable_balance": 31,
+    "restrictions": [],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": false,
+    "tags": [],
+    "unit_info": "1 шт",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 148000,
+      "unit": "piece"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 12,
+    "vat_percentage_decimal": "12.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    }
+  },
+  {
+    "id": "acee305a80bb12bef508427b",
+    "advertising_info": null,
+    "alcohol_permille": 0,
+    "allowed_delivery_methods": [
+      "homedelivery",
+      "takeaway",
+      "eatin"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 0,
+        "end_time": 86400000
+      }
+    ],
+    "barcode_gtin": "04820048485272",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "5474ae10eeb6bdab723fc6aa2fc66ef4",
+    "description": "Бонус Фольга 10 метров. Толщина 9 мкр.",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": true,
+    "images": [
+      {
+        "url": "https://imageproxy.wolt.com/assets/6888be81a3eb62eeb95629ea",
+        "blurhash": "LNS?0}oJ%#kDoffQa|fQ.mflH?jr"
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": true,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "Бонус Фольга Алюминиевая 10М",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 165000,
+    "product_hierarchy_tags": [
+      "UNKNOWN"
+    ],
+    "purchasable_balance": 14,
+    "restrictions": [],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": false,
+    "tags": [],
+    "unit_info": "1 шт",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 165000,
+      "unit": "piece"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 12,
+    "vat_percentage_decimal": "12.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    }
+  },
+  {
+    "id": "5d1f697066b94a428c101b33",
+    "advertising_info": null,
+    "alcohol_permille": 0,
+    "allowed_delivery_methods": [
+      "homedelivery",
+      "takeaway",
+      "eatin"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 0,
+        "end_time": 86400000
+      }
+    ],
+    "barcode_gtin": "04820048481144",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "70b6bd8e2ac8c82083de611366f673ff",
+    "description": "Фрекен бок пленка для пищевых продуктов 20 метров. Ширина 29 см, толщина 7 мкм. Легко разматывается, сохраняет свежесть.",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": true,
+    "images": [
+      {
+        "url": "https://imageproxy.wolt.com/assets/6888c01923fa16f725a9a226",
+        "blurhash": "LRSY?aS5%Ms.j[fRj[fP_Ns+MxS4"
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": true,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "Фрекен Бок Пленка Пищевая, Max 20М",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 77500,
+    "product_hierarchy_tags": [
+      "UNKNOWN"
+    ],
+    "purchasable_balance": 35,
+    "restrictions": [],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": false,
+    "tags": [],
+    "unit_info": "1 шт",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 77500,
+      "unit": "piece"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 12,
+    "vat_percentage_decimal": "12.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    }
+  },
+  {
+    "id": "351f200d7cf545abb3c984f7",
+    "advertising_info": null,
+    "alcohol_permille": 0,
+    "allowed_delivery_methods": [
+      "homedelivery",
+      "takeaway",
+      "eatin"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 0,
+        "end_time": 86400000
+      }
+    ],
+    "barcode_gtin": "04607068629233",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "17fb992cc4cb6125ace65533e3b0aec1",
+    "description": "Пищевая пленка Qualita длиной 20 метров в картонной коробке с резаком. Предназначена для упаковки и сохранения свежести продуктов.",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": true,
+    "images": [
+      {
+        "url": "https://imageproxy.wolt.com/assets/6888c01823fa16f725a9a1c8",
+        "blurhash": "LZRy$$V[xvbcWBayj[fP~Xt6M{ni"
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": true,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "Qualita Плёнка пищевая, в коробке, 20 м",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 71000,
+    "product_hierarchy_tags": [
+      "UNKNOWN"
+    ],
+    "purchasable_balance": 25,
+    "restrictions": [],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": false,
+    "tags": [],
+    "unit_info": "1 шт",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 71000,
+      "unit": "piece"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 12,
+    "vat_percentage_decimal": "12.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    }
+  },
+  {
+    "id": "bb8b45372981c8c9390425d8",
+    "advertising_info": null,
+    "alcohol_permille": 0,
+    "allowed_delivery_methods": [
+      "homedelivery",
+      "takeaway",
+      "eatin"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 0,
+        "end_time": 86400000
+      }
+    ],
+    "barcode_gtin": "04600999008153",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "0ce2f568077d37b663dc5887604af4c1",
+    "description": "Стандартный пергамент для выпечки Qualita, длина 6 метров, 15 листов. Предотвращает пригорание и прилипание выпечки к противню.",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": true,
+    "images": [
+      {
+        "url": "https://imageproxy.wolt.com/assets/688b99e623fa16f725af82de",
+        "blurhash": "LdRyZ=Rjx^s,enx]ogM_?wxuMwRj"
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": true,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "Qualita Пергамент для выпечки стандартный, 6 м, 15 листов",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 88500,
+    "product_hierarchy_tags": [
+      "UNKNOWN"
+    ],
+    "purchasable_balance": 9,
+    "restrictions": [],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": false,
+    "tags": [],
+    "unit_info": "24 шт",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 3688,
+      "unit": "piece"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 12,
+    "vat_percentage_decimal": "12.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    }
+  },
+  {
+    "id": "14573389f2cf4282d2e186f4",
+    "advertising_info": null,
+    "alcohol_permille": 0,
+    "allowed_delivery_methods": [
+      "homedelivery",
+      "takeaway",
+      "eatin"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 0,
+        "end_time": 86400000
+      }
+    ],
+    "barcode_gtin": "04600999008160",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "90a640fcc918e87483e8a9f3d7c1e309",
+    "description": "Пищевая пленка Qualita длиной 50 метров в картонной коробке. Экономичная упаковка для длительного использования при хранении и упаковке продуктов.",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": true,
+    "images": [
+      {
+        "url": "https://imageproxy.wolt.com/assets/688b99e623fa16f725af82f6",
+        "blurhash": "LaR{#;R*xvX9axayj[fk_4t6M{ni"
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": true,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "Qualita Плёнка пищевая, в коробке, 50 м",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 133000,
+    "product_hierarchy_tags": [
+      "UNKNOWN"
+    ],
+    "purchasable_balance": 13,
+    "restrictions": [],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": false,
+    "tags": [],
+    "unit_info": "1 шт",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 133000,
+      "unit": "piece"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 12,
+    "vat_percentage_decimal": "12.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    }
+  },
+  {
+    "id": "02e0e66d2ddb23ff7ce21a9c",
+    "advertising_info": null,
+    "alcohol_permille": 0,
+    "allowed_delivery_methods": [
+      "homedelivery",
+      "takeaway",
+      "eatin"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 0,
+        "end_time": 86400000
+      }
+    ],
+    "barcode_gtin": "04600999008207",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "03a95a11f592d9fc91fc85d5848d0e7a",
+    "description": "Рукав для запекания Qualita длиной 5 метров (+1 метр в подарок) в картонной коробке. Позволяет готовить блюда в собственном соку без добавления жира, сохраняя их сочность.",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": true,
+    "images": [
+      {
+        "url": "https://imageproxy.wolt.com/assets/688b99e623fa16f725af82ee",
+        "blurhash": "LRR{oaR*%$t6ni%gogIA?wt7H?RQ"
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": true,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "Qualita Рукав для запекания, 5 м + 1 м, в коробке",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 99000,
+    "product_hierarchy_tags": [
+      "UNKNOWN"
+    ],
+    "purchasable_balance": 25,
+    "restrictions": [],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": false,
+    "tags": [],
+    "unit_info": "30 шт",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 3300,
+      "unit": "piece"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 12,
+    "vat_percentage_decimal": "12.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    }
+  },
+  {
+    "id": "e820f87d2ce69827f911b240",
+    "advertising_info": null,
+    "alcohol_permille": 0,
+    "allowed_delivery_methods": [
+      "homedelivery",
+      "takeaway",
+      "eatin"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 0,
+        "end_time": 86400000
+      }
+    ],
+    "barcode_gtin": "04600999008177",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "363efe672e6321c014c8dd603a48cb68",
+    "description": "Алюминиевая фольга Qualita длиной 20 метров в рулоне. Подходит для запекания, хранения продуктов, сохраняет их сочность и аромат.",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": true,
+    "images": [
+      {
+        "url": "https://imageproxy.wolt.com/assets/6888c01823fa16f725a9a21a",
+        "blurhash": "LnRo~gWWxva#jsfQfka}_NoLRPj["
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": true,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "Qualita Фольга алюминиевая, в рулоне, 20 м",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 252000,
+    "product_hierarchy_tags": [
+      "UNKNOWN"
+    ],
+    "purchasable_balance": 7,
+    "restrictions": [],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": true,
+    "tags": [],
+    "unit_info": "1 шт",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 252000,
+      "unit": "piece"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 12,
+    "vat_percentage_decimal": "12.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    }
+  },
+  {
+    "id": "5c9991ba93b5cf81554619ed",
+    "advertising_info": null,
+    "alcohol_permille": 0,
+    "allowed_delivery_methods": [
+      "homedelivery",
+      "takeaway",
+      "eatin"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 0,
+        "end_time": 86400000
+      }
+    ],
+    "barcode_gtin": "04607068629318",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "19ea06234074f3cd9c10262be5c2c082",
+    "description": "Пергамент для выпечки Qualita\"Eco Life\"в картонной коробке, длина 6 метров, 14 листов размером 38x43 см. Экологичный вариант для приготовления пищи. (/24 - опт. упаковка).",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": true,
+    "images": [
+      {
+        "url": "https://imageproxy.wolt.com/assets/688b99e623fa16f725af82fd",
+        "blurhash": "LdSY,GWVtSjYaxayj[fQ.ToMROf+"
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": true,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "Qualita Пергамент для выпечки Eco Life, 6 м, 14 листов, 38×43 см, в коробке",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 112000,
+    "product_hierarchy_tags": [
+      "UNKNOWN"
+    ],
+    "purchasable_balance": 14,
+    "restrictions": [],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": false,
+    "tags": [],
+    "unit_info": "1 шт",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 112000,
+      "unit": "piece"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 12,
+    "vat_percentage_decimal": "12.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    }
+  },
+  {
+    "id": "d25a9b41a23568a947423c49",
+    "advertising_info": null,
+    "alcohol_permille": 0,
+    "allowed_delivery_methods": [
+      "homedelivery",
+      "takeaway",
+      "eatin"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 0,
+        "end_time": 86400000
+      }
+    ],
+    "barcode_gtin": "04600999010644",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "98ec08b8aba00040eb77eb1c41cc8c43",
+    "description": "Алюминиевая фольга Qualita длиной 10 метров в рулоне. Универсальна в использовании на кухне для приготовления и хранения пищи.",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": true,
+    "images": [
+      {
+        "url": "https://imageproxy.wolt.com/assets/688b99e623fa16f725af82ef",
+        "blurhash": "LaSFz{W=tlaxayayj[j@?^oIR5og"
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": true,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "Qualita Фольга алюминиевая, в рулоне, 10 м",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 143000,
+    "product_hierarchy_tags": [
+      "UNKNOWN"
+    ],
+    "purchasable_balance": 28,
+    "restrictions": [],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": false,
+    "tags": [],
+    "unit_info": "1 шт",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 143000,
+      "unit": "piece"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 12,
+    "vat_percentage_decimal": "12.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    }
+  },
+  {
+    "id": "397275ea2003c2a1ac8eabe7",
+    "advertising_info": null,
+    "alcohol_permille": 0,
+    "allowed_delivery_methods": [
+      "homedelivery",
+      "takeaway",
+      "eatin"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 0,
+        "end_time": 86400000
+      }
+    ],
+    "barcode_gtin": "04820048480741",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "6ce704507937308c064c6f4a358f003e",
+    "description": "Пергамент ТМ Фрекен БОК предназначен для выпечки, приготовления пищи, упаковки и хранения пищевых продуктов. Подходит для приготовления в газовых и электрических духовых шкафах при температуре до 220 ° Силиконовая покрытия пергамента Фрекен БОК делает его жиронепроницаемым и термостойким, а также увеличивает разделительные свойства пергамента.\nБлагодаря своему уникальному антипригарной покрытию пергамент Фрекен БОК является многофункциональным",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": true,
+    "images": [
+      {
+        "url": "https://imageproxy.wolt.com/assets/688b98fca3eb62eeb95c211b",
+        "blurhash": "LuQvtMjZt6ofj[jtfjaz~qbHRlWB"
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": true,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "Фрекен Бок Пергамент Д/Выпек 15 Листов  Бокс",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 99000,
+    "product_hierarchy_tags": [
+      "UNKNOWN"
+    ],
+    "purchasable_balance": 11,
+    "restrictions": [],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": false,
+    "tags": [],
+    "unit_info": "15 шт",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 6600,
+      "unit": "piece"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 12,
+    "vat_percentage_decimal": "12.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    }
+  },
+  {
+    "id": "5a2c1becb48e3223dce63f04",
+    "advertising_info": null,
+    "alcohol_permille": 0,
+    "allowed_delivery_methods": [
+      "homedelivery",
+      "takeaway",
+      "eatin"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 0,
+        "end_time": 86400000
+      }
+    ],
+    "barcode_gtin": "04820048483278",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "e7d79cf267a12fae40eb3f17a28cefbd",
+    "description": "Пергамент ТМ Фрекен БОК предназначен для выпечки, приготовления пищи, упаковки и хранения пищевых продуктов. Подходит для приготовления в газовых и электрических духовых шкафах при температуре до 220 ° Силиконовая покрытия пергамента Фрекен БОК делает его жиронепроницаемым и термостойким, а также увеличивает разделительные свойства пергамента.\nБлагодаря своему уникальному антипригарной покрытию пергамент Фрекен БОК является многофункциональным",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": true,
+    "images": [
+      {
+        "url": "https://imageproxy.wolt.com/assets/6888bad523fa16f725a962bc",
+        "blurhash": "LxR3K6W;t7oJj]fPjtfQ_No0RjW;"
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": true,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "Фрекен Бок Пергамент Д/Выпек 5М Бок",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 100500,
+    "product_hierarchy_tags": [
+      "UNKNOWN"
+    ],
+    "purchasable_balance": 13,
+    "restrictions": [],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": false,
+    "tags": [],
+    "unit_info": "1 шт",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 100500,
+      "unit": "piece"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 12,
+    "vat_percentage_decimal": "12.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    }
+  },
+  {
+    "id": "6d5ec04c29995d1183fc0aab",
+    "advertising_info": null,
+    "alcohol_permille": 0,
+    "allowed_delivery_methods": [
+      "homedelivery",
+      "takeaway",
+      "eatin"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 0,
+        "end_time": 86400000
+      }
+    ],
+    "barcode_gtin": "04820048483025",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "8583e309405bea444c99e08c5abb6664",
+    "description": "Рукав для запекания предназначен для приготовления здоровой пищи без использования жиров и масел, исключает необходимость мытья духовки, сохраняет витамины. Рукав изготовлен из специального термостойкого полимерного материала и представляет собой прозрачную пленку-рукав с перфорированным боковым продольным швом для выхода пара. В упаковке с рукавом находятся клипсы для завязывания рукава двух видов: стандартные бумажные для использования в духовом шкафу и термостойкие пластиковые для использования в микроволновой печи.",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": true,
+    "images": [
+      {
+        "url": "https://imageproxy.wolt.com/assets/6888c04923fa16f725a9acdc",
+        "blurhash": "LwQmCtafxZofj[j@j[az~qkBRkWB"
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": true,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "Фрекен Бок Рукав Д/Запек 3М Бокс New",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 68000,
+    "product_hierarchy_tags": [
+      "UNKNOWN"
+    ],
+    "purchasable_balance": 36,
+    "restrictions": [],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": false,
+    "tags": [],
+    "unit_info": "1 шт",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 68000,
+      "unit": "piece"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 12,
+    "vat_percentage_decimal": "12.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    }
+  },
+  {
+    "id": "c7f3b9d9cfdcb18254cffca1",
+    "advertising_info": null,
+    "alcohol_permille": 0,
+    "allowed_delivery_methods": [
+      "homedelivery",
+      "takeaway",
+      "eatin"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 0,
+        "end_time": 86400000
+      }
+    ],
+    "barcode_gtin": "04820048481199",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "f52bc0ae8bd9429f5dcfe49cb956ee5b",
+    "description": "Рукав для запекания предназначен для приготовления здоровой пищи без использования жиров и масел, исключает необходимость мытья духовки, сохраняет витамины. Рукав изготовлен из специального термостойкого полимерного материала и представляет собой прозрачную пленку-рукав с перфорированным боковым продольным швом для выхода пара. В упаковке с рукавом находятся клипсы для завязывания рукава двух видов: стандартные бумажные для использования в духовом шкафу и термостойкие пластиковые для использования в микроволновой печи.",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": true,
+    "images": [
+      {
+        "url": "https://imageproxy.wolt.com/assets/6888bad523fa16f725a9629a",
+        "blurhash": "LsQ]yhS4xas:j[fQj[fQ~qs-RkWC"
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": true,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "Фрекен Бок Рукав Д/Запек 5М",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 102000,
+    "product_hierarchy_tags": [
+      "UNKNOWN"
+    ],
+    "purchasable_balance": 96,
+    "restrictions": [],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": false,
+    "tags": [],
+    "unit_info": "1 шт",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 102000,
+      "unit": "piece"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 12,
+    "vat_percentage_decimal": "12.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    }
+  },
+  {
+    "id": "13c20b3be74ce60474511c66",
+    "advertising_info": null,
+    "alcohol_permille": 0,
+    "allowed_delivery_methods": [
+      "eatin",
+      "takeaway",
+      "homedelivery"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 0,
+        "end_time": 86400000
+      }
+    ],
+    "barcode_gtin": "04820048480765",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "abc319d165e7b2bccb38754807d24de7",
+    "description": "Фрекен бок скребок кухонный нержавеющий металлический, 1шт",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": true,
+    "images": [
+      {
+        "url": "https://imageproxy.wolt.com/assets/6888bac71f0cac713af63219",
+        "blurhash": "LfRW0cWB~qxaR+azt6j@%Nj[IUWB"
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": true,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "Фрекен Бок Скребок Стальной 1Шт",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 47500,
+    "product_hierarchy_tags": [
+      "UNKNOWN"
+    ],
+    "purchasable_balance": 176,
+    "restrictions": [],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": false,
+    "tags": [],
+    "unit_info": "1 шт",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 47500,
+      "unit": "piece"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 12,
+    "vat_percentage_decimal": "12.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    }
+  },
+  {
+    "id": "af3bf894ab9a834a0dca279c",
+    "advertising_info": null,
+    "alcohol_permille": 0,
+    "allowed_delivery_methods": [
+      "eatin",
+      "takeaway",
+      "homedelivery"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 0,
+        "end_time": 86400000
+      }
+    ],
+    "barcode_gtin": "04610000260159",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "88701914ecf37e871b2b7a0f51459edd",
+    "description": "Фольга пищевая ''Хозяюшка Мила'' применяется для хранения и запекания продуктов. Прекрасно сохраняет полезные свойства продуктов, позволяет длительно хранить продукты питания. При запекании предотвращает разбрызгивание сока и жира, делает блюда сочными, аппетитными и полезными. \n Широкое полотно позволяет хранить и запекать крупные куски мяса и рыбы, овощей.",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": true,
+    "images": [
+      {
+        "url": "https://imageproxy.wolt.com/assets/6888bceda3eb62eeb9560a3f",
+        "blurhash": "LbS6A3jERiWBt7x]j[oL?wW=bHof"
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": true,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "Фольга Пищевая ''Хозяюшка Мила'' 10 Метров",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 110000,
+    "product_hierarchy_tags": [
+      "UNKNOWN"
+    ],
+    "purchasable_balance": 28,
+    "restrictions": [],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": false,
+    "tags": [],
+    "unit_info": "1 шт",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 110000,
+      "unit": "piece"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 12,
+    "vat_percentage_decimal": "12.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    }
+  },
+  {
+    "id": "a4061885a1545779ca587e52",
+    "advertising_info": null,
+    "alcohol_permille": 0,
+    "allowed_delivery_methods": [
+      "homedelivery",
+      "takeaway",
+      "eatin"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 0,
+        "end_time": 86400000
+      }
+    ],
+    "barcode_gtin": "04823071605396",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "db956330a1c0e565406ddf0ce23f5fd0",
+    "description": "Валики ТМ Фрекен БОК удобные и эффективные в использовании: спиральные клейкие листы слоями легко отделяются друг от друга, на эргономичной пластиковой ручке имеется специальное отверстие для подвешивания.",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": true,
+    "images": [
+      {
+        "url": "https://imageproxy.wolt.com/assets/684699678efc87ff5e6c2aed",
+        "blurhash": "LVR:NYaz~pt6o0ayf+j[%LfQIVa|"
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": true,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "Фрекен Бок Запаска На Щетку (Валик) Для Чистки 2Х5М",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 60000,
+    "product_hierarchy_tags": [
+      "UNKNOWN"
+    ],
+    "purchasable_balance": 6,
+    "restrictions": [],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": true,
+    "tags": [],
+    "unit_info": "2 шт",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 30000,
+      "unit": "piece"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 12,
+    "vat_percentage_decimal": "12.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    }
+  },
+  {
+    "id": "e6ca7a530ca2a73c327bbcae",
+    "advertising_info": null,
+    "alcohol_permille": 0,
+    "allowed_delivery_methods": [
+      "eatin",
+      "takeaway",
+      "homedelivery"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 0,
+        "end_time": 86400000
+      }
+    ],
+    "barcode_gtin": "04823071628258",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "5961e2392af8dc8d2bbef392719ca84d",
+    "description": "Фрекен бок валик универсальный для чистки одежды с отрывными листами, 5 метров",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": true,
+    "images": [
+      {
+        "url": "https://imageproxy.wolt.com/assets/688b99eb23fa16f725af83ff",
+        "blurhash": "LCS?DWof~poftRfQWAj[%MfQIUfR"
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": true,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "Фрекен Бок Щетка-Ролик Для Чистки Одежды 5М",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 155000,
+    "product_hierarchy_tags": [
+      "UNKNOWN"
+    ],
+    "purchasable_balance": 5,
+    "restrictions": [],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": true,
+    "tags": [],
+    "unit_info": "65 г",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 2384615,
+      "unit": "kilogram"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 12,
+    "vat_percentage_decimal": "12.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    }
+  },
+  {
+    "id": "10640e05f6a8d9bb2394efc4",
+    "advertising_info": null,
+    "alcohol_permille": 0,
+    "allowed_delivery_methods": [
+      "eatin",
+      "takeaway",
+      "homedelivery"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 0,
+        "end_time": 86400000
+      }
+    ],
+    "barcode_gtin": "04008496847037",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "6def881b37f986d50664d96b924ba271",
+    "description": "Батарейки VARTA Longlife самые долгоиграющие из ассортимента батареек VARTA. Данная линейка наилучшим образом подходит для приборов с невысоким и постоянным энергопотреблением, таких как: пульт управления, настенные часы, радио. Длительная энергия для приборов с невысоким и постоянным энергопотреблением. Например: пульт управления телевизора или аудио-системы, настенные часы, радио и т.п. Четкая коммуникация по применению в виде пиктограмм на упаковке. ''Single Press Out'' позволяет легко доставать батарейки из упаковки по 1-ой штуке. Электрохимическая система - Первичные элементы питания Алкалин Марганец (ZN/MNO2).",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": true,
+    "images": [
+      {
+        "url": "https://imageproxy.wolt.com/assets/6888befea3eb62eeb95638a5",
+        "blurhash": "L;Q9=sj[_4aft6ayRkj[S7azoHj["
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": true,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "Varta Батарейка Longlife  Micro  1.5V - Lr03/Aaa (2 Шт)",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 117000,
+    "product_hierarchy_tags": [
+      "UNKNOWN"
+    ],
+    "purchasable_balance": 11,
+    "restrictions": [],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": false,
+    "tags": [],
+    "unit_info": "2 шт",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 58500,
+      "unit": "piece"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 12,
+    "vat_percentage_decimal": "12.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    }
+  },
+  {
+    "id": "1f095dbe2c5e3e83777d8da5",
+    "advertising_info": null,
+    "alcohol_permille": 0,
+    "allowed_delivery_methods": [
+      "eatin",
+      "takeaway",
+      "homedelivery"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 0,
+        "end_time": 86400000
+      }
+    ],
+    "barcode_gtin": "04008496276882",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "e4660212a8323ce66c7bff5ef4ef52c1",
+    "description": "Маленькие, но мощные батарейки являются источником энергии для множества маленьких электронных устройств и приборов: калькуляторов, игрушек, систем входа без ключа, электронных книг и множества других.",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": true,
+    "images": [
+      {
+        "url": "https://imageproxy.wolt.com/assets/688b9e9923fa16f725afca22",
+        "blurhash": "LtP%O:ae~qt7Rjayt6oLt7oeWBRk"
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": true,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "Varta Батарейка Lithium  Cr2032 3V-230Mah (1 Шт)",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 74500,
+    "product_hierarchy_tags": [
+      "UNKNOWN"
+    ],
+    "purchasable_balance": 20,
+    "restrictions": [],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": false,
+    "tags": [],
+    "unit_info": "1 шт",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 74500,
+      "unit": "piece"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 12,
+    "vat_percentage_decimal": "12.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    }
+  },
+  {
+    "id": "0619d4fa9dab0b0f63466e83",
+    "advertising_info": null,
+    "alcohol_permille": 0,
+    "allowed_delivery_methods": [
+      "eatin",
+      "takeaway",
+      "homedelivery"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 0,
+        "end_time": 86400000
+      }
+    ],
+    "barcode_gtin": "04008496847112",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "d6afcb939fb0add2c0e7db600ed51c35",
+    "description": "Батарейки VARTA Longlife самые долгоиграющие из ассортимента батареек VARTA. Данная линейка наилучшим образом подходит для приборов с невысоким и постоянным энергопотреблением, таких как: пульт управления, настенные часы, радио. Щелочные (алкалиновые) батарейки отличаются существенно большей электрической ёмкостью, превышающей ёмкость солевых батареек в 3 - 5 раз. Напряжение щелочных батареек в заряженном состоянии составляет 1,5 вольта и в процессе разряда понижается в значительно меньшей степени, чем у солевых. Срок хранения щелочных батареек значительно дольше.",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": true,
+    "images": [
+      {
+        "url": "https://imageproxy.wolt.com/assets/688b99f823fa16f725af856d",
+        "blurhash": "L=PZr$WB~qt7t7fQR%fQWBjZoebH"
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": true,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "Varta Батарейка Longlife  Mignon 1.5V - Lr6/Aa (2 Шт)",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 117000,
+    "product_hierarchy_tags": [
+      "UNKNOWN"
+    ],
+    "purchasable_balance": 9,
+    "restrictions": [],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": false,
+    "tags": [],
+    "unit_info": "2 шт",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 58500,
+      "unit": "piece"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 12,
+    "vat_percentage_decimal": "12.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    }
+  },
+  {
+    "id": "82f8e5145c4503bbd1b232c2",
+    "advertising_info": null,
+    "alcohol_permille": 0,
+    "allowed_delivery_methods": [
+      "eatin",
+      "takeaway",
+      "homedelivery"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 0,
+        "end_time": 86400000
+      }
+    ],
+    "barcode_gtin": "04008496846955",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "9d92deb8860b599f84d55a5cca64a4e7",
+    "description": "High Energy самая мощная батарейка VARTA, только поэтому, она уже достойна вашего внимания. Предназначен данный элемент питания для устройств с высоким энергопотреблением (радиоуправляемые игрушки, радиоприемники, магнитолы, электронные игры итд.).",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": true,
+    "images": [
+      {
+        "url": "https://imageproxy.wolt.com/assets/6888bf4fa3eb62eeb95649d1",
+        "blurhash": "L;PQKgWC~Wt6oKj[WXayRkj[oeWC"
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": true,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": 5,
+    "min_quantity_per_purchase": null,
+    "name": "Varta Батарейка High Energy (Ll Power) Mignon 1.5V - Lr6/Aa (2 Шт)",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 174000,
+    "product_hierarchy_tags": [
+      "UNKNOWN"
+    ],
+    "purchasable_balance": 13,
+    "restrictions": [],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": false,
+    "tags": [],
+    "unit_info": "1 шт",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 174000,
+      "unit": "piece"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 12,
+    "vat_percentage_decimal": "12.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    }
+  },
+  {
+    "id": "2c822d64d4407370c9649a9f",
+    "advertising_info": null,
+    "alcohol_permille": 0,
+    "allowed_delivery_methods": [
+      "eatin",
+      "takeaway",
+      "homedelivery"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 0,
+        "end_time": 86400000
+      }
+    ],
+    "barcode_gtin": "08719514377691",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "d2b33fdc042c92e7cd75a48a99d44d93",
+    "description": "Лампа EcohomeLED Bulb 11W 900lm E27 830, теплый белый свет (3000K)",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": true,
+    "images": [
+      {
+        "url": "https://imageproxy.wolt.com/assets/6888beefa3eb62eeb9563585",
+        "blurhash": "LNSPX_of~qR*xua|NGj[-;fkE1ay"
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": true,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "Лампа Ecohomeled Bulb 11W 900Lm E27 830, Теплый Свет",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 95000,
+    "product_hierarchy_tags": [
+      "UNKNOWN"
+    ],
+    "purchasable_balance": 4,
+    "restrictions": [],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": true,
+    "tags": [],
+    "unit_info": "1 шт",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 95000,
+      "unit": "piece"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 12,
+    "vat_percentage_decimal": "12.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    }
+  },
+  {
+    "id": "1a90fae04a7ebe32cab7e9d0",
+    "advertising_info": null,
+    "alcohol_permille": 0,
+    "allowed_delivery_methods": [
+      "eatin",
+      "takeaway",
+      "homedelivery"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 0,
+        "end_time": 86400000
+      }
+    ],
+    "barcode_gtin": "08719514377738",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "f9374ea61e8d54b47869917e0b1af32d",
+    "description": "Лампа EcohomeLED Bulb 13W 1150lm E27 830, теплый белый свет (3000k)",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": true,
+    "images": [
+      {
+        "url": "https://imageproxy.wolt.com/assets/6888bee023fa16f725a99224",
+        "blurhash": "LNSF@Tof~qR*xua|Rjj[-;fkE1ay"
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": true,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "Лампа Ecohomeled Bulb 13W 1150Lm E27 830, Теплый Свет",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 117500,
+    "product_hierarchy_tags": [
+      "UNKNOWN"
+    ],
+    "purchasable_balance": 4,
+    "restrictions": [],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": true,
+    "tags": [],
+    "unit_info": "1 шт",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 117500,
+      "unit": "piece"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 12,
+    "vat_percentage_decimal": "12.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    }
+  },
+  {
+    "id": "8453deb41e6a7e11707a9a4b",
+    "advertising_info": null,
+    "alcohol_permille": 0,
+    "allowed_delivery_methods": [
+      "eatin",
+      "takeaway",
+      "homedelivery"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 0,
+        "end_time": 86400000
+      }
+    ],
+    "barcode_gtin": "04607131420293",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "c21957270bcc13d33a715d07b91f6110",
+    "description": "Губки SALTON — это средство оперативного ухода за кожей. Силиконовое масло, входящее в состав пропитки, позволяет очистить поверхность обуви, придать ей блеск без дополнительной полировки. Норковое масло в составе пропитки питает и защищает кожу.Входящий в состав подкрашивающей губки раситель позволяет эффективно обновить цвет обуви.",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": true,
+    "images": [
+      {
+        "url": "https://imageproxy.wolt.com/assets/6888bf0ea3eb62eeb9563bf6",
+        "blurhash": "LkRej6ozx^aKx[bbWXof%%V]a$oe"
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": true,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "Salton Губка Волна Для Обуви Из Гладкой Кожи Бесцветный",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 126000,
+    "product_hierarchy_tags": [
+      "UNKNOWN"
+    ],
+    "purchasable_balance": 3,
+    "restrictions": [],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": true,
+    "tags": [],
+    "unit_info": "1 шт",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 126000,
+      "unit": "piece"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 12,
+    "vat_percentage_decimal": "12.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    }
+  },
+  {
+    "id": "154f7fbc4abcd12f99008b74",
+    "advertising_info": null,
+    "alcohol_permille": 0,
+    "allowed_delivery_methods": [
+      "eatin",
+      "takeaway",
+      "homedelivery"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 0,
+        "end_time": 86400000
+      }
+    ],
+    "barcode_gtin": "04607131420286",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "1b9028eb426c7fd46117256e9ae2c26f",
+    "description": "Материалы: для обуви из гладкой кожи, искусственных материалов.  Свойства:  • очищает от пыли • придает блеск • мини формат губки позволяет носить ее с собой",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": true,
+    "images": [
+      {
+        "url": "https://imageproxy.wolt.com/assets/6888bce3a3eb62eeb9560828",
+        "blurhash": "LeRU.@tRtRentlWrbIoz.AV]bcbE"
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": true,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "Salton Губка-Мини Волна Для Обуви Из Гладкой Кожи",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 77000,
+    "product_hierarchy_tags": [
+      "UNKNOWN"
+    ],
+    "purchasable_balance": 6,
+    "restrictions": [],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": true,
+    "tags": [],
+    "unit_info": "1 шт",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 77000,
+      "unit": "piece"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 12,
+    "vat_percentage_decimal": "12.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    }
+  },
+  {
+    "id": "6c225c6252246adc21440552",
+    "advertising_info": null,
+    "alcohol_permille": 0,
+    "allowed_delivery_methods": [
+      "eatin",
+      "takeaway",
+      "homedelivery"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 0,
+        "end_time": 86400000
+      }
+    ],
+    "barcode_gtin": "04607131428527",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "58ed9a5531410693068b8a92c4196bb0",
+    "description": "Эффективно предохраняет обувь от деформации, обеспечивая комфорт при надевании. Ложка SALTON изготовлена из высококачественной стали (толщина стали 1,8 мм) с эмалевым покрытием. Благодаря удобной форме Ложка SALTON подходит для всех видов обуви.",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": true,
+    "images": [
+      {
+        "url": "https://imageproxy.wolt.com/assets/6888bf0da3eb62eeb9563bd4",
+        "blurhash": "LATSN[ofu6oetRfQe-fQa#fQj?fk"
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": true,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "Salton Ложка Д/Обуви Мет. Цветная Большая",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 233000,
+    "product_hierarchy_tags": [
+      "UNKNOWN"
+    ],
+    "purchasable_balance": 40,
+    "restrictions": [],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": false,
+    "tags": [],
+    "unit_info": "1 шт",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 233000,
+      "unit": "piece"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 12,
+    "vat_percentage_decimal": "12.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    }
+  },
+  {
+    "id": "c848b611a81ba85cf2da7ebc",
+    "advertising_info": null,
+    "alcohol_permille": 0,
+    "allowed_delivery_methods": [
+      "eatin",
+      "takeaway",
+      "homedelivery"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 0,
+        "end_time": 86400000
+      }
+    ],
+    "barcode_gtin": "08690757002819",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "b6b11dae66bc56324f52b98a310d95b0",
+    "description": "SILVER Дезодорант для обуви,100 мл.Надолго освежает внутреннюю поверхность обуви.Для всех типов обуви.Устраняет неприятный запах.Придает легкий и приятный аромат",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": true,
+    "images": [
+      {
+        "url": "https://imageproxy.wolt.com/assets/6888bed623fa16f725a98fef",
+        "blurhash": "LHSs87of~Xof%MfQM{ayoffQWBfR"
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": true,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "Silver Дезодорант Для Обуви,100 Мл",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 210500,
+    "product_hierarchy_tags": [
+      "UNKNOWN"
+    ],
+    "purchasable_balance": 5,
+    "restrictions": [],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": true,
+    "tags": [],
+    "unit_info": "100 мл",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 2105000,
+      "unit": "litre"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 12,
+    "vat_percentage_decimal": "12.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    }
+  },
+  {
+    "id": "9696bfde2d40ac2089dcc0df",
+    "advertising_info": null,
+    "alcohol_permille": 0,
+    "allowed_delivery_methods": [
+      "eatin",
+      "takeaway",
+      "homedelivery"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 0,
+        "end_time": 86400000
+      }
+    ],
+    "barcode_gtin": "04607131420231",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "a99ea20e369498be1d79a9ef280a44c5",
+    "description": "Губка Salton Волна для нубука, замши, велюра Благодаря особому материалу, пенополиуретану, губка SALTON легко удаляет различные загрязнения с поверхности нубука, замши и велюра. Поскольку все замшевые кожи отличаются бархатистой поверхностью, то очень важно сохранять их структуру. Губка SALTON в этом — незаменимый помощник. Преимущества Очистка легких сухих загрязнений. Восстановление бархатистой поверхности.",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": true,
+    "images": [
+      {
+        "url": "https://imageproxy.wolt.com/assets/6888be8fa3eb62eeb9562cca",
+        "blurhash": "LvQSk+xs%hRPx]W?WCoJ.ANJRPt6"
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": true,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "Salton Губка Волна Для Обуви Из Нубука, Замши, Велюра",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 206000,
+    "product_hierarchy_tags": [
+      "UNKNOWN"
+    ],
+    "purchasable_balance": 18,
+    "restrictions": [],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": false,
+    "tags": [],
+    "unit_info": "1 шт",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 206000,
+      "unit": "piece"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 12,
+    "vat_percentage_decimal": "12.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    }
+  },
+  {
+    "id": "f45ad6f162805109fba290d6",
+    "advertising_info": null,
+    "alcohol_permille": 0,
+    "allowed_delivery_methods": [
+      "eatin",
+      "takeaway",
+      "homedelivery"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 0,
+        "end_time": 86400000
+      }
+    ],
+    "barcode_gtin": "04607131421009",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "b649b5610a27c09372628180ba47af80",
+    "description": "Губки SALTON — это средство оперативного ухода за кожей. Силиконовое масло, входящее в состав пропитки, позволяет очистить поверхность обуви, придать ей блеск без дополнительной полировки. Норковое масло в составе пропитки питает и защищает кожу.Входящий в состав подкрашивающей губки раситель позволяет эффективно обновить цвет обуви.",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": true,
+    "images": [
+      {
+        "url": "https://imageproxy.wolt.com/assets/6888be91a3eb62eeb9562cf2",
+        "blurhash": "LmM@7Q$~x^IoxuW?WCxY.TIrs.xZ"
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": true,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "Salton Губка Волна Для Обуви Из Гладкой Кожи Черный",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 126000,
+    "product_hierarchy_tags": [
+      "UNKNOWN"
+    ],
+    "purchasable_balance": 11,
+    "restrictions": [],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": false,
+    "tags": [],
+    "unit_info": "1 шт",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 126000,
+      "unit": "piece"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 12,
+    "vat_percentage_decimal": "12.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    }
+  },
+  {
+    "id": "62116ff3d52a5b017065887f",
+    "advertising_info": null,
+    "alcohol_permille": 0,
+    "allowed_delivery_methods": [
+      "eatin",
+      "takeaway",
+      "homedelivery"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 0,
+        "end_time": 86400000
+      }
+    ],
+    "barcode_gtin": "04640016743780",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "a3f88daf420dc86fd6c114d3a8faa1b7",
+    "description": "Активная пена Salton EXPERT  White Express для очищения белой обуви, подошв и рантов, 200мл. Средство для очищения белой обуви, подошв и рантов. Назначение: Для эффективного очищения белой обуви, белых подошв и рант и других изделий белого цвета. Подходит для изделий из синтетических материалов и текстиля. Возможно применение на изделиях из гладкой кожи и цветных материалов.",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": true,
+    "images": [
+      {
+        "url": "https://imageproxy.wolt.com/assets/6888bf99a3eb62eeb9564ede",
+        "blurhash": "LPSY{pj[_NofkCayjsofx]ayM_of"
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": true,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "Salton Sport Активная Пена Для Очищения Белой Обуви, Подошв",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 421000,
+    "product_hierarchy_tags": [
+      "UNKNOWN"
+    ],
+    "purchasable_balance": 7,
+    "restrictions": [],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": true,
+    "tags": [],
+    "unit_info": "200 мл",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 2105000,
+      "unit": "litre"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 12,
+    "vat_percentage_decimal": "12.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    }
+  },
+  {
+    "id": "5817141e02f5e83892667ef0",
+    "advertising_info": null,
+    "alcohol_permille": 0,
+    "allowed_delivery_methods": [
+      "eatin",
+      "takeaway",
+      "homedelivery"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 0,
+        "end_time": 86400000
+      }
+    ],
+    "barcode_gtin": "04620089340048",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "a99e61fb880acbf3f1a56dfa74e7695a",
+    "description": "Частая неприятная проблема при интенсивных физических нагрузках – это неприятный запах.\n\nВ отличие от обычного дезодоранта для обуви Нейтрализатор запаха SALTON Sport не маскирует неприятный запах, а мгновенно устраняет причину его возникновения – бактерии, а еще защищает кожу стоп и ногти от опасности возникновения грибковых заболеваний.\n\nАнтибактериальный эффект этого средства для обуви достигается за счет комплекса бактерицидных и фунгицидных компонентов в составе. Они уничтожают 100% бактерий и грибков всего через 30 секунд после применения, сохраняя эффективность даже при повышенных физических нагрузках и оставляя лишь приятный аромат.\n\nИспользовать Нейтрализатор запаха для обуви SALTON Sport очень удобно – его можно распылять в любом положении и легко взять с собой в офис или транспорт, чтобы не оставить неприятному запаху ни единого шанса. Как и дезодорант для обуви, нейтрализатор можно использоваться в качестве профилактики.\n\nВозможно использование для спортивного инвентаря в качестве антибактериального средства. Не дай запаху пота испортить тебе насроение, использую нейтрализатор Salton Sport.",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": true,
+    "images": [
+      {
+        "url": "https://imageproxy.wolt.com/assets/6888befba3eb62eeb956385d",
+        "blurhash": "LlRfd^ay_Nozj?a}fljZt8j[Rjay"
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": true,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "Salton Sport Нейтрализатор Запаха В Обуви 75Мл",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 341000,
+    "product_hierarchy_tags": [
+      "UNKNOWN"
+    ],
+    "purchasable_balance": 8,
+    "restrictions": [],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": false,
+    "tags": [],
+    "unit_info": "75 мл",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 4546667,
+      "unit": "litre"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 12,
+    "vat_percentage_decimal": "12.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    }
+  },
+  {
+    "id": "e3253bedc8c50b7dea5175c5",
+    "advertising_info": null,
+    "alcohol_permille": 0,
+    "allowed_delivery_methods": [
+      "eatin",
+      "takeaway",
+      "homedelivery"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 0,
+        "end_time": 86400000
+      }
+    ],
+    "barcode_gtin": "04607131420934",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "59befa6b3878f5c9282eb630adec2152",
+    "description": "Благодаря инновационной технологии All-Day-Effect Губки с дозатором Salton поддерживают ухоженный вид обуви в течение всего дня: очищают от пыли, загрязнений и придают естественный блеск.\nДополнительный контейнер с силиконовой пропиткой, в который встроена система ее дозации, увеличивает срок службы губки с дозатором в несколько раз по сравнению с обычной губкой.\n\nПоролон губки состоит из 2-х слоев:\n• нижний упругий слой предотвращает сминаемость губки и возможные повреждения кожи пластиковым корпусом;\n• верхний мягкий слой легко скользит по поверхности обуви, придавая ей блеск.",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": true,
+    "images": [
+      {
+        "url": "https://imageproxy.wolt.com/assets/6888be531f0cac713af65e00",
+        "blurhash": "LbSr[kof.TWBt8fRV@jsx^ayMwoe"
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": true,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "Salton Губка С Дозатором Для Обуви Из Гладкой Кожи, Бесцветный",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 239500,
+    "product_hierarchy_tags": [
+      "UNKNOWN"
+    ],
+    "purchasable_balance": 14,
+    "restrictions": [],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": false,
+    "tags": [],
+    "unit_info": "1 шт",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 239500,
+      "unit": "piece"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 12,
+    "vat_percentage_decimal": "12.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    }
+  },
+  {
+    "id": "4525c8d08d19a2a463e33581",
+    "advertising_info": null,
+    "alcohol_permille": 0,
+    "allowed_delivery_methods": [
+      "eatin",
+      "takeaway",
+      "homedelivery"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 0,
+        "end_time": 86400000
+      }
+    ],
+    "barcode_gtin": "04607131420996",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "de0d7e77b434604145f6c050b29edc24",
+    "description": "Равномерно распределяет крем по поверхности обуви. Эффективно полирует обувь после нанесения крема/воска.\n\nГустой мягкий ворс быстро и эффективно полирует поверхность обуви.\nИмеет 2 зоны: черного цвета – для нанесения крема/воска и основную ворсовую поверхность – для легкой и быстрой полировки поверхности обуви.\nОригинальная эргономичная форма щетки удобна в использовании.",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": true,
+    "images": [
+      {
+        "url": "https://imageproxy.wolt.com/assets/6888be631f0cac713af6612b",
+        "blurhash": "LeSr=dkB.TjItSfRV?fitSf7RPj["
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": true,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "Salton Щетка Ворсовая Для Обуви Из Гладкой Кожи",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 281000,
+    "product_hierarchy_tags": [
+      "UNKNOWN"
+    ],
+    "purchasable_balance": 7,
+    "restrictions": [],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": true,
+    "tags": [],
+    "unit_info": "1 шт",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 281000,
+      "unit": "piece"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 12,
+    "vat_percentage_decimal": "12.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    }
+  },
+  {
+    "id": "c3134ee32be46d42f97b1e93",
+    "advertising_info": null,
+    "alcohol_permille": 0,
+    "allowed_delivery_methods": [
+      "eatin",
+      "takeaway",
+      "homedelivery"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 0,
+        "end_time": 86400000
+      }
+    ],
+    "barcode_gtin": "08690757202509",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "b7a959f97e624ad6f0cedd383609d3f4",
+    "description": "SILVER Крем-блеск для обуви,  50 мл Черный.Состав на основе натурального воска.Обеспечивает мгновенный блеск.",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": true,
+    "images": [
+      {
+        "url": "https://imageproxy.wolt.com/assets/688b98fca3eb62eeb95c2118",
+        "blurhash": "LyQT4MfQ~qofxufQRjj[xuj[M{ay"
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": true,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "Silver Крем-Блеск Для Обуви,  50 Мл Черный",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 54000,
+    "product_hierarchy_tags": [
+      "UNKNOWN"
+    ],
+    "purchasable_balance": 37,
+    "restrictions": [],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": false,
+    "tags": [],
+    "unit_info": "50 мл",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 1080000,
+      "unit": "litre"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 12,
+    "vat_percentage_decimal": "12.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    }
+  },
+  {
+    "id": "35cefe39a40fd750f26d29c8",
+    "advertising_info": null,
+    "alcohol_permille": 0,
+    "allowed_delivery_methods": [
+      "eatin",
+      "takeaway",
+      "homedelivery"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 0,
+        "end_time": 86400000
+      }
+    ],
+    "barcode_gtin": "08690757002727",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "864c3d26d4c744b059108cec3e0b8715",
+    "description": "Бесцветная краска-восстановитель Silver в виде спрея (300 мл) для изделий из нубука и замши. Обновляет цвет, защищает от влаги и грязи, сохраняет бархатистость материала.",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": true,
+    "images": [
+      {
+        "url": "https://imageproxy.wolt.com/assets/688b99e623fa16f725af82e0",
+        "blurhash": "LDS?ANoe_Nt7xaayR*j[%MayIUj["
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": true,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "Silver Краска-восстановитель для нубука и замши бесцветная, аэрозоль, 300 мл",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 237000,
+    "product_hierarchy_tags": [
+      "UNKNOWN"
+    ],
+    "purchasable_balance": 9,
+    "restrictions": [],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": false,
+    "tags": [],
+    "unit_info": "1 шт",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 237000,
+      "unit": "piece"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 12,
+    "vat_percentage_decimal": "12.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    }
+  },
+  {
+    "id": "d06e3e944d5d4b035c517c9c",
+    "advertising_info": null,
+    "alcohol_permille": 0,
+    "allowed_delivery_methods": [
+      "eatin",
+      "takeaway",
+      "homedelivery"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 0,
+        "end_time": 86400000
+      }
+    ],
+    "barcode_gtin": "08690757001959",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "532eda3b19673e7448722619efede0db",
+    "description": "SILVER  Губка-блеск с дозатором силикона 6 мл Черный.Придает мгновенный блеск.Защищает от пыли и грязи.Система дозации увеличивает срок службы.Надолго сохраняет свойства.Эргономичная форма",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": true,
+    "images": [
+      {
+        "url": "https://imageproxy.wolt.com/assets/6888bed823fa16f725a99028",
+        "blurhash": "LiRV|Ta|~qs:xuj[NGWBx]f6M{fk"
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": true,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "Silver Губка-Блеск С Дозатором Силикона 6 Мл Черный",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 83500,
+    "product_hierarchy_tags": [
+      "UNKNOWN"
+    ],
+    "purchasable_balance": 15,
+    "restrictions": [],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": false,
+    "tags": [],
+    "unit_info": "1 шт",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 83500,
+      "unit": "piece"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 12,
+    "vat_percentage_decimal": "12.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    }
+  },
+  {
+    "id": "cb39af79c9bf18261dbe8f24",
+    "advertising_info": null,
+    "alcohol_permille": 0,
+    "allowed_delivery_methods": [
+      "eatin",
+      "takeaway",
+      "homedelivery"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 0,
+        "end_time": 86400000
+      }
+    ],
+    "barcode_gtin": "08690757832096",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "97a03894561819e1f13bc5963c2638c1",
+    "description": "SILVER  Губка, придающая блеск, Бесцветный.Придает мгновенный блеск всем видам изделий из кожи.Удобно для быстрой чистки обуви",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": true,
+    "images": [
+      {
+        "url": "https://imageproxy.wolt.com/assets/688b98fca3eb62eeb95c2111",
+        "blurhash": "LJSs1[j[_Nofs:fkWXaytljtROaz"
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": true,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "Silver  Губка, Придающая Блеск, Бесцветный",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 60000,
+    "product_hierarchy_tags": [
+      "UNKNOWN"
+    ],
+    "purchasable_balance": 38,
+    "restrictions": [],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": false,
+    "tags": [],
+    "unit_info": "1 шт",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 60000,
+      "unit": "piece"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 12,
+    "vat_percentage_decimal": "12.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    }
+  },
+  {
+    "id": "17fa14da177abff7183b4ecc",
+    "advertising_info": null,
+    "alcohol_permille": 0,
+    "allowed_delivery_methods": [
+      "eatin",
+      "takeaway",
+      "homedelivery"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 0,
+        "end_time": 86400000
+      }
+    ],
+    "barcode_gtin": "04607131425120",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "c33a7aaf08b18a1684d4bff06ffdaf05",
+    "description": "Для всех видов кож (кроме лаковых), текстиля и изделий из мембранных материалов\nВ два раза эффективнее защищает обувь от влаги и грязи на весь день\nСохраняет ''дышащие'' свойства обувных материалов",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": true,
+    "images": [
+      {
+        "url": "https://imageproxy.wolt.com/assets/6888bef1a3eb62eeb95635e3",
+        "blurhash": "LQS?45of.TjuxFfQS4j[oefQWCa}"
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": true,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "Salton Защита От Воды Для Кожи И Ткани 250+50Мл",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 309000,
+    "product_hierarchy_tags": [
+      "UNKNOWN"
+    ],
+    "purchasable_balance": 2,
+    "restrictions": [],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": true,
+    "tags": [],
+    "unit_info": "300 мл",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 1030000,
+      "unit": "litre"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 12,
+    "vat_percentage_decimal": "12.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    }
+  },
+  {
+    "id": "02d18c7f78047a32b52a0025",
+    "advertising_info": null,
+    "alcohol_permille": 0,
+    "allowed_delivery_methods": [
+      "eatin",
+      "takeaway",
+      "homedelivery"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 0,
+        "end_time": 86400000
+      }
+    ],
+    "barcode_gtin": "08690757002581",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "e58bc7761d1ae24adf2b3e36e1400798",
+    "description": "SILVER Спрей Краска Восст. д/нубука и замши 3в1  Черный.Освежает цвет изделия.Уход и защита изделий из нубука и замши.Водоотталкивающий эффект.Чистит от пыли и грязи.Крышка с двумя щетками.Запатентованный дизайн",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": true,
+    "images": [
+      {
+        "url": "https://imageproxy.wolt.com/assets/6888be36a3eb62eeb9562609",
+        "blurhash": "LISs1]j[~qt7xuj[NGWBt6j[Rkay"
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": true,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "Silver Спрей Краска Восст. Д/Нубука И Замши 3В1  Черный",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 237000,
+    "product_hierarchy_tags": [
+      "UNKNOWN"
+    ],
+    "purchasable_balance": 8,
+    "restrictions": [],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": false,
+    "tags": [],
+    "unit_info": "1 шт",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 237000,
+      "unit": "piece"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 12,
+    "vat_percentage_decimal": "12.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    }
+  },
+  {
+    "id": "6e8497464867cbfd77af29ea",
+    "advertising_info": null,
+    "alcohol_permille": 0,
+    "allowed_delivery_methods": [
+      "eatin",
+      "takeaway",
+      "homedelivery"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 0,
+        "end_time": 86400000
+      }
+    ],
+    "barcode_gtin": "04607131421566",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "9154d5830266241716dac44ac6148dfb",
+    "description": "Деликатно очищает загрязнения на изделиях из замши, нубука, велюра, текстиля и гладкой кожи\n\nСвойства:\n\nВоздушная пена обеспечивает деликатное очищение;\nНе повреждает цвет изделия;\nПодходит для мембранных материалов;\nДля любых цветов и материалов обуви.",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": true,
+    "images": [
+      {
+        "url": "https://imageproxy.wolt.com/assets/6888bee123fa16f725a9923f",
+        "blurhash": "LKS?7Eof.Tj[xuayRPj[bcfQjEa}"
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": true,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "Salton Пена-Очиститель Для Замши,Нубука И Текстиля 150 Мл",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 303500,
+    "product_hierarchy_tags": [
+      "UNKNOWN"
+    ],
+    "purchasable_balance": 3,
+    "restrictions": [],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": true,
+    "tags": [],
+    "unit_info": "150 мл",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 2023333,
+      "unit": "litre"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 12,
+    "vat_percentage_decimal": "12.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    }
+  },
+  {
+    "id": "9685049ab78dfa40334e0f0d",
+    "advertising_info": null,
+    "alcohol_permille": 0,
+    "allowed_delivery_methods": [
+      "homedelivery",
+      "takeaway",
+      "eatin"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 0,
+        "end_time": 86400000
+      }
+    ],
+    "barcode_gtin": "04607036872449",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "ee26e4a4b7065234ee9270fc339bce0c",
+    "description": "Набор пластиковых стаканов объемом 200 мл, 12 штук в упаковке.",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": true,
+    "images": [
+      {
+        "url": "https://imageproxy.wolt.com/assets/6888bfc2a3eb62eeb95657e8",
+        "blurhash": "LTSr_vax?wt8V?f6t8j[yDj[Mdae"
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": true,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "Набор стаканов Paclan 200 мл 12 штук",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 51000,
+    "product_hierarchy_tags": [
+      "UNKNOWN"
+    ],
+    "purchasable_balance": 15,
+    "restrictions": [],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": false,
+    "tags": [],
+    "unit_info": "1 шт",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 51000,
+      "unit": "piece"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 12,
+    "vat_percentage_decimal": "12.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    }
+  },
+  {
+    "id": "15a7bbf3765a13a1627fe297",
+    "advertising_info": null,
+    "alcohol_permille": 0,
+    "allowed_delivery_methods": [
+      "homedelivery",
+      "takeaway",
+      "eatin"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 0,
+        "end_time": 86400000
+      }
+    ],
+    "barcode_gtin": "04650086011412",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "b424fde5b4f09143518ef557a7555e1a",
+    "description": "Набор Party Every Day из шести пластиковых ложек белого цвета для одноразового использования. Крепкие, прекрасно подходят для походов или отдыха на свежем воздухе или в дороге.Применяются для холодных и горячих блюд. Разрешенная температура использования до 70 °С.",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": true,
+    "images": [
+      {
+        "url": "https://imageproxy.wolt.com/assets/6888bcd4a3eb62eeb956053f",
+        "blurhash": "LNS$iej[?wofnNfQb^fjxZj[NHay"
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": true,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": 5,
+    "min_quantity_per_purchase": null,
+    "name": "Paclan Party Ложка Пластиковая Белая, 6 Шт",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 38000,
+    "product_hierarchy_tags": [
+      "UNKNOWN"
+    ],
+    "purchasable_balance": 32,
+    "restrictions": [],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": false,
+    "tags": [],
+    "unit_info": "1 шт",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 38000,
+      "unit": "piece"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 12,
+    "vat_percentage_decimal": "12.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    }
+  },
+  {
+    "id": "c3746fb803b288429cc49d13",
+    "advertising_info": null,
+    "alcohol_permille": 0,
+    "allowed_delivery_methods": [
+      "eatin",
+      "takeaway",
+      "homedelivery"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 0,
+        "end_time": 86400000
+      }
+    ],
+    "barcode_gtin": "04607036872456",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "613d08bef70effda07c9ace57ff41d06",
+    "description": "Набор пластиковых стаканов объемом 500 мл для пива, 6 штук.",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": true,
+    "images": [
+      {
+        "url": "https://imageproxy.wolt.com/assets/6888c10a1f0cac713af6937d",
+        "blurhash": "LZSiT@ae?wt8V?jto#azx^j[Mwae"
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": true,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": 5,
+    "min_quantity_per_purchase": null,
+    "name": "Набор стаканов для пива Paclan 500 мл 6 штук",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 58000,
+    "product_hierarchy_tags": [
+      "UNKNOWN"
+    ],
+    "purchasable_balance": 16,
+    "restrictions": [],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": false,
+    "tags": [],
+    "unit_info": "1 шт",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 58000,
+      "unit": "piece"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 12,
+    "vat_percentage_decimal": "12.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    }
+  },
+  {
+    "id": "827bfc6eda16eb0239dda955",
+    "advertising_info": null,
+    "alcohol_permille": 0,
+    "allowed_delivery_methods": [
+      "homedelivery",
+      "takeaway",
+      "eatin"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 0,
+        "end_time": 86400000
+      }
+    ],
+    "barcode_gtin": "04650086011436",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "39aebb3b4e884a937e08a26e1179c9ed",
+    "description": "Набор из шести пластиковых вилок одноразового использования. Крепкие, прекрасно подходят для походов или отдыха на свежем воздухе.",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": true,
+    "images": [
+      {
+        "url": "https://imageproxy.wolt.com/assets/6888bdee1f0cac713af65add",
+        "blurhash": "LMS$iej[?wofR5fQtmj@nhfQX9fj"
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": true,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "Paclan Party Вилка Пластиковая Белая, 6 Шт",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 30000,
+    "product_hierarchy_tags": [
+      "UNKNOWN"
+    ],
+    "purchasable_balance": 54,
+    "restrictions": [],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": false,
+    "tags": [],
+    "unit_info": "1 шт",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 30000,
+      "unit": "piece"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 12,
+    "vat_percentage_decimal": "12.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    }
+  },
+  {
+    "id": "6dcf1eb2c5be12e1aa8ebed4",
+    "advertising_info": null,
+    "alcohol_permille": 0,
+    "allowed_delivery_methods": [
+      "eatin",
+      "takeaway",
+      "homedelivery"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 0,
+        "end_time": 86400000
+      }
+    ],
+    "barcode_gtin": "04607036874061",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "b8e7dff3bcf03b76cec8f7176f4a552c",
+    "description": "Набор пластиковой одноразовой посуды для Пикника PARTY Classic на 6 персон: стаканчики 6 шт (200 мл), тарелки 6 шт (диаметр 17 см), вилки 6 шт. Посуда в герметичной полиэтиленовой упаковке. Все необходимое для пикника в одном наборе. Для вечеринок, поездок на природу и пикников. Предназначен для холодных и горячих продуктов, выдерживает температуру до 80C",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": true,
+    "images": [
+      {
+        "url": "https://imageproxy.wolt.com/assets/6888bf25a3eb62eeb9564123",
+        "blurhash": "LaSYv{ay?^s;mmj[cEayxGj[NaWB"
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": true,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "Paclan Party Набор Для Picnicа На 6 Персон Пластиковый",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 74000,
+    "product_hierarchy_tags": [
+      "UNKNOWN"
+    ],
+    "purchasable_balance": 20,
+    "restrictions": [],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": false,
+    "tags": [],
+    "unit_info": "1 шт",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 74000,
+      "unit": "piece"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 12,
+    "vat_percentage_decimal": "12.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    }
+  },
+  {
+    "id": "285ce3caa2d064b9be614c56",
+    "advertising_info": null,
+    "alcohol_permille": 0,
+    "allowed_delivery_methods": [
+      "homedelivery",
+      "takeaway",
+      "eatin"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 0,
+        "end_time": 86400000
+      }
+    ],
+    "barcode_gtin": "04607036872555",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "0a39e8191e5aac6fb44bb246364f0c4b",
+    "description": "Тарелки пластиковые ''Paclan'', белые сделаны из безопасного, прочного полистирола. Эти тарелки легко брать с собой в дорогу, на отдых. Это универсальная удобная посуда",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": true,
+    "images": [
+      {
+        "url": "https://imageproxy.wolt.com/assets/6888bf24a3eb62eeb95640d3",
+        "blurhash": "LoRf5[WV?^s:mlkBk;ae%1j[NHWV"
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": true,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "Paclan Party Тарелка Пластиковая Белая Для Супа/Салата 185 Мм, 6 Шт",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 160000,
+    "product_hierarchy_tags": [
+      "UNKNOWN"
+    ],
+    "purchasable_balance": 13,
+    "restrictions": [],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": false,
+    "tags": [],
+    "unit_info": "1 шт",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 160000,
+      "unit": "piece"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 12,
+    "vat_percentage_decimal": "12.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    }
+  },
+  {
+    "id": "a71360be6c2c43da1a269523",
+    "advertising_info": null,
+    "alcohol_permille": 0,
+    "allowed_delivery_methods": [
+      "eatin",
+      "takeaway",
+      "homedelivery"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 0,
+        "end_time": 86400000
+      }
+    ],
+    "barcode_gtin": "04650086011115",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "64b9bf1e49b3d0075717c1d8f3ccdaf8",
+    "description": "Тарелки пластиковые ''Paclan'', белые сделаны из безопасного, прочного полистирола. Эти тарелки легко брать с собой в дорогу, на отдых. Это универсальная удобная посуда",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": true,
+    "images": [
+      {
+        "url": "https://imageproxy.wolt.com/assets/6888bcdfa3eb62eeb9560765",
+        "blurhash": "LlRoy?ay?^ofm-j@b^ay%MfQM{j["
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": true,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "Paclan Party Тарелка Пластиковая Белая 230 Мм, 6 Шт",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 99000,
+    "product_hierarchy_tags": [
+      "UNKNOWN"
+    ],
+    "purchasable_balance": 44,
+    "restrictions": [],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": false,
+    "tags": [],
+    "unit_info": "1 шт",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 99000,
+      "unit": "piece"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 12,
+    "vat_percentage_decimal": "12.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    }
+  },
+  {
+    "id": "fd505434c1e1899720f4cf1c",
+    "advertising_info": null,
+    "alcohol_permille": 0,
+    "allowed_delivery_methods": [
+      "homedelivery",
+      "eatin",
+      "takeaway"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 0,
+        "end_time": 86400000
+      }
+    ],
+    "barcode_gtin": "04610000269725",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "af14a896b8745e39fc5f4161e2566a03",
+    "description": "Контейнеры для заморозки зелени ''Хозяюшка Мила'' изготовлены из пищевого полипропилена. Для улучшения морозостойкости контейнеров используются специальные добавки полимеров, которые снижают границу использования материала до 30°С, поэтому не рекомендуется повторно использовать контейнеры и разогревать в них продукты. Крышка плотно прилегает к контейнеру, исключая проникновение посторонних запахов.",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": true,
+    "images": [
+      {
+        "url": "https://imageproxy.wolt.com/assets/6888bcf0a3eb62eeb9560aa9",
+        "blurhash": "LTSFw=oz?^iwV@oeozR*%he-Mxkq"
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": true,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "Хозяюшка Мила  Контейнеры  Для Заморозки Универсальные,  1,5 Л, 5 Шт.",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 216500,
+    "product_hierarchy_tags": [
+      "UNKNOWN"
+    ],
+    "purchasable_balance": 25,
+    "restrictions": [],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": false,
+    "tags": [],
+    "unit_info": "5 шт",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 43300,
+      "unit": "piece"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 12,
+    "vat_percentage_decimal": "12.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    }
+  },
+  {
+    "id": "6a1a9b844c9a1a5e62410df7",
+    "advertising_info": null,
+    "alcohol_permille": 0,
+    "allowed_delivery_methods": [
+      "eatin",
+      "takeaway",
+      "homedelivery"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 0,
+        "end_time": 86400000
+      }
+    ],
+    "barcode_gtin": "04014100002310",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "42c7f9a59253bae1dbf44232d763763b",
+    "description": "Герметичные пакетики для приготовления льда закрываются сами, когда они полностью наполнены водой, для этого необходимо перевернуть пакетик вверх дном. 100% защита от протекания жидкости в морозильной камере. Пакеты изготовлены из сверхпрочного полиэтилена высокого давления, что позволяет очень быстро изготовить лед используя очень низкие температуры морозильной камеры без разрыва пакета. Лед легко отделяется от полиэтилена и нет необходимости использовать нож. Полиэтилен превосходно справляется с задачей приготовления пищевого льда и не дает воде впитывать посторонние запахи, которые могут возникать в морозильной камере. Благодаря герметичному закрытию пакетики для льда, могут быть заморожены даже в переполненной морозильной камере, в отличии от силиконовых и пластиковых форм. Количество: 10 пакетиков по 24 ячейки.",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": true,
+    "images": [
+      {
+        "url": "https://imageproxy.wolt.com/assets/6888bed523fa16f725a98fb8",
+        "blurhash": "L$Ndg*RVw[j=xtaKj?jY~Wt2W=a~"
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": true,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "Paclan Мешочки Для Приготовления Ледяных Кубиков 10Х24 Шт, В Коробке",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 77000,
+    "product_hierarchy_tags": [
+      "UNKNOWN"
+    ],
+    "purchasable_balance": 12,
+    "restrictions": [],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": false,
+    "tags": [],
+    "unit_info": "24 шт",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 3208,
+      "unit": "piece"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 12,
+    "vat_percentage_decimal": "12.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    }
+  },
+  {
+    "id": "41560f084719c2717e528667",
+    "advertising_info": null,
+    "alcohol_permille": 0,
+    "allowed_delivery_methods": [
+      "homedelivery",
+      "takeaway",
+      "eatin"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 0,
+        "end_time": 86400000
+      }
+    ],
+    "barcode_gtin": "08008970043708",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "c5095fe668fc4e10eb16b2147545e678",
+    "description": "Tesori d’Oriente ароматическая свеча\"Белый Мускус\". Ароматическая свеча, изготовленная из высококачественного воска и эфирных масел, распространяет интенсивный и пленительный аромат, создавая расслабляющую атмосферу и безмятежность, которая проясняет чувства. Благодаря своим безошибочно узнаваемым, нежным и обнадеживающим нотам аромат\"Белый мускус\"излучает свежий и чистый аромат, который дарит длительное ощущение благополучия.",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": true,
+    "images": [
+      {
+        "url": "https://imageproxy.wolt.com/assets/6847e4688efc87ff5e6c5325",
+        "blurhash": "LdRC[7WB~qt7WBj[ofWB?bj[D%fQ"
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": true,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "Tesori d'Oriente ароматическая свеча\"Белый Мускус\"200гр",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 673000,
+    "product_hierarchy_tags": [
+      "UNKNOWN"
+    ],
+    "purchasable_balance": 5,
+    "restrictions": [],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": true,
+    "tags": [],
+    "unit_info": "200 г",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 3365000,
+      "unit": "kilogram"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 12,
+    "vat_percentage_decimal": "12.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    }
+  },
+  {
+    "id": "a691311464577ed30e0c6487",
+    "advertising_info": null,
+    "alcohol_permille": 0,
+    "allowed_delivery_methods": [
+      "homedelivery",
+      "takeaway",
+      "eatin"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 0,
+        "end_time": 86400000
+      }
+    ],
+    "barcode_gtin": "08008970043739",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "61f6fc24d94d9b95ed9975f064f81ad3",
+    "description": "Tesori d’Oriente ароматическая свеча\"Япония\". Ароматическая свеча, изготовленная из высококачественного воска и эфирных масел, распространяет интенсивный и пленительный аромат, создавая расслабляющую атмосферу и безмятежность, которая проясняет чувства. Аромат\"Япония\"с приятными сладострастными акцентами излучает ноты цветов и ценных пород дерева, перенося вас в место, где зажигание свечи превращается в изысканную церемонию.",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": true,
+    "images": [
+      {
+        "url": "https://imageproxy.wolt.com/assets/6847e4688efc87ff5e6c5327",
+        "blurhash": "LxR37vae_NkWV@j[ozae.8bHIAn%"
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": true,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "Tesori d’Oriente ароматическая свеча\"Япония\"200гр",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 626000,
+    "product_hierarchy_tags": [
+      "UNKNOWN"
+    ],
+    "purchasable_balance": 6,
+    "restrictions": [],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": true,
+    "tags": [],
+    "unit_info": "200 г",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 3130000,
+      "unit": "kilogram"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 12,
+    "vat_percentage_decimal": "12.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    }
+  },
+  {
+    "id": "a4d71b821d72bfc828d23b32",
+    "advertising_info": null,
+    "alcohol_permille": 0,
+    "allowed_delivery_methods": [
+      "homedelivery",
+      "takeaway",
+      "eatin"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 0,
+        "end_time": 86400000
+      }
+    ],
+    "barcode_gtin": "08008970043715",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "cd98c411dd3f320d028823587112c0ca",
+    "description": "Tesori d’Oriente ароматическая свеча\"Цветок лотоса\". Ароматическая свеча, изготовленная из высококачественного воска и эфирных масел, распространяет интенсивный и пленительный аромат, создавая расслабляющую атмосферу и безмятежность, которая проясняет чувства. Благодаря своим сладким и цветочным нотам аромат «Цветок лотоса» излучает соблазнительный и интенсивный аромат, который придает характер, элегантность и индивидуальность каждой комнате.",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": true,
+    "images": [
+      {
+        "url": "https://imageproxy.wolt.com/assets/6847e4688efc87ff5e6c5326",
+        "blurhash": "LvRMG5e.?^kWV@fkoze..8bHIAn$"
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": true,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "Tesori d’Oriente ароматическая свеча\"Цветок лотоса\"200гр",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 673000,
+    "product_hierarchy_tags": [
+      "UNKNOWN"
+    ],
+    "purchasable_balance": 5,
+    "restrictions": [],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": true,
+    "tags": [],
+    "unit_info": "200 г",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 3365000,
+      "unit": "kilogram"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 12,
+    "vat_percentage_decimal": "12.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    }
+  },
+  {
+    "id": "8c7b55637ed504b0df2fb611",
+    "advertising_info": null,
+    "alcohol_permille": 0,
+    "allowed_delivery_methods": [
+      "homedelivery",
+      "takeaway",
+      "eatin"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 0,
+        "end_time": 86400000
+      }
+    ],
+    "barcode_gtin": "08008970050416",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "7f24a9f2a4be3773113e2d3796e16d01",
+    "description": "Tesori d’Oriente ароматический спрей для воздуха\n\"Хаммам\". Созданный как ароматический аромат для дома, он мгновенно выпускает в окружающую среду интенсивные и обволакивающие ноты аромата для хаммама.Нескольких испарений достаточно, чтобы создать утонченную и гостеприимную атмосферу и насладиться опьяняющим и продолжительным обонятельным опытом.",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": true,
+    "images": [
+      {
+        "url": "https://imageproxy.wolt.com/assets/6847e4688efc87ff5e6c532a",
+        "blurhash": "LOSiaAj[_NofxafQRjfk%MfQIUfQ"
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": true,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": 5,
+    "min_quantity_per_purchase": null,
+    "name": "Tesori d'Oriente ароматический спрей для окружающей среды \n\"Хаммам\"250мл",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 507500,
+    "product_hierarchy_tags": [
+      "UNKNOWN"
+    ],
+    "purchasable_balance": 6,
+    "restrictions": [],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": true,
+    "tags": [],
+    "unit_info": "255 г",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 1990196,
+      "unit": "kilogram"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 12,
+    "vat_percentage_decimal": "12.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    }
+  },
+  {
+    "id": "cc8b46760b873b7f039d9bf7",
+    "advertising_info": null,
+    "alcohol_permille": 0,
+    "allowed_delivery_methods": [
+      "homedelivery",
+      "takeaway",
+      "eatin"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 0,
+        "end_time": 86400000
+      }
+    ],
+    "barcode_gtin": "04640018996085",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "c7223f60b2ba73962c0af8355bdeb9b0",
+    "description": "Наполните дом дом приятным и свежим ароматом цветов с Air Wick ''Райские цветы''. Вставьте сменный баллон в элегантное устройство, выберите интенсивность распыления, и Air Wick Freshmatic будет бороться с неприятными запахами автоматически день за днём.",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": true,
+    "images": [
+      {
+        "url": "https://imageproxy.wolt.com/assets/6888c156a3eb62eeb9567cb6",
+        "blurhash": "LcR:Tgj@^-off%f6oMj[oLj[WVax"
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": true,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "Airwick Сменный Баллон Для Автоматического Освежителя Воздуха Райские Цветы 250Мл",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 359000,
+    "product_hierarchy_tags": [
+      "UNKNOWN"
+    ],
+    "purchasable_balance": 1,
+    "restrictions": [],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": true,
+    "tags": [],
+    "unit_info": "250 мл",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 1436000,
+      "unit": "litre"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 12,
+    "vat_percentage_decimal": "12.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    }
+  },
+  {
+    "id": "cc1afccb34545a78e70e3dd8",
+    "advertising_info": null,
+    "alcohol_permille": 0,
+    "allowed_delivery_methods": [
+      "homedelivery",
+      "takeaway",
+      "eatin"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 0,
+        "end_time": 86400000
+      }
+    ],
+    "barcode_gtin": "04640018996108",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "aa951a6fe0a0b3b03d6fcf3920e37d3a",
+    "description": "Освежитель воздуха в сменных аэрозольных баллонах к автоматическому распылителю освежителя воздуха Air Wick Freshmatic Нежный шелк и лилия 250 мл\nНаслаждайтесь изысканным ароматом шёлка и лилии в течение 70 дней вместе с аэрозольным освежителем воздуха Air Wick Freshmatic Нежный шелк и лилия",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": true,
+    "images": [
+      {
+        "url": "https://imageproxy.wolt.com/assets/6888c155a3eb62eeb9567cac",
+        "blurhash": "LbSPIdj[?^jvr^ayS_j[whjuO9Wn"
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": true,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "Airwick Сменный Баллон Для Автоматического Освежителя Воздуха Нежный Шелк И Лилии 250мл",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 359000,
+    "product_hierarchy_tags": [
+      "UNKNOWN"
+    ],
+    "purchasable_balance": 3,
+    "restrictions": [],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": true,
+    "tags": [],
+    "unit_info": "250 мл",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 1436000,
+      "unit": "litre"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 12,
+    "vat_percentage_decimal": "12.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    }
+  },
+  {
+    "id": "9e117acc28314b71e782b360",
+    "advertising_info": null,
+    "alcohol_permille": 0,
+    "allowed_delivery_methods": [
+      "eatin",
+      "takeaway",
+      "homedelivery"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 0,
+        "end_time": 86400000
+      }
+    ],
+    "barcode_gtin": "04640016744329",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "e6bccd77708703bf799275ac0335c615",
+    "description": "Аква нейтрализатор запаха на водной основе Breesal поможет быстро и экологично убрать неприятные запахи в туалете, ванной и на кухне, особенно запахи гари и табака.\n\nС его помощью вы также сможете избавиться от запаха животных в квартире, включая кошачий запах. Высокая и почти мгновенная эффективность средства обусловлена его комплексным составом: 92% натуральных компонентов, гипоаллергенная формула без химических газов-пропеллентов, инновационные компоненты Acti-Leaf и Nico-Scan, которые надежно блокируют и уничтожают молекулы неприятного запаха, а также освежающий ароматический микс из лотоса и озона.\n\nПри этом в отличие от обычных освежителей воздуха ликвидатор запахов Breesal убирает неприятные запахи полностью, а не маскирует их на короткое время, а еще не оставляет капель и разводов на поверхности стен и мебели.\n\nГипоаллергенный состав подтверждён профильными врачами и Институтом Иммунологии, а это значит, что вы сможете поддерживать дома аромат чистоты и свежести без вреда для здоровья.",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": true,
+    "images": [
+      {
+        "url": "https://imageproxy.wolt.com/assets/688b998723fa16f725af7600",
+        "blurhash": "LSS6V#j[~XkBx[j[M{ayoMayWUoM"
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": true,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "Breesal Aqua-Нейтрализатор Запаха Освежающий Микс 375мл",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 230000,
+    "product_hierarchy_tags": [
+      "UNKNOWN"
+    ],
+    "purchasable_balance": 10,
+    "restrictions": [],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": false,
+    "tags": [],
+    "unit_info": "1 шт",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 230000,
+      "unit": "piece"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 12,
+    "vat_percentage_decimal": "12.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    }
+  },
+  {
+    "id": "adde297296d9d53f989ea0ff",
+    "advertising_info": null,
+    "alcohol_permille": 0,
+    "allowed_delivery_methods": [
+      "eatin",
+      "takeaway",
+      "homedelivery"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 0,
+        "end_time": 86400000
+      }
+    ],
+    "barcode_gtin": "04620000433606",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "29d41a97f1c88e6044210a94cbb3f2a2",
+    "description": "Ароматический освежитель с морскими нотами и освежающим эффектом.",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": true,
+    "images": [
+      {
+        "url": "https://imageproxy.wolt.com/assets/6888c155a3eb62eeb9567c99",
+        "blurhash": "LOSPhKof~VjZt7azV@j[WWfQoKfQ"
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": true,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "Glade Аэрозоль Морской 300мл",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 120500,
+    "product_hierarchy_tags": [
+      "UNKNOWN"
+    ],
+    "purchasable_balance": 8,
+    "restrictions": [],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": false,
+    "tags": [],
+    "unit_info": "1 шт",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 120500,
+      "unit": "piece"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 12,
+    "vat_percentage_decimal": "12.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    }
+  },
+  {
+    "id": "e1af5912a3c94ef58770e422",
+    "advertising_info": null,
+    "alcohol_permille": 0,
+    "allowed_delivery_methods": [
+      "eatin",
+      "takeaway",
+      "homedelivery"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 0,
+        "end_time": 86400000
+      }
+    ],
+    "barcode_gtin": "04620000433569",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "18d569ecaaf3b4dccabda803e29e2e82",
+    "description": "Освежитель воздуха с чистым и прохладным ароматом свежести после дождя.",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": true,
+    "images": [
+      {
+        "url": "https://imageproxy.wolt.com/assets/6888bac81f0cac713af63231",
+        "blurhash": "LPS=|@j[.mkCo|jtV[bHs9fQShf7"
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": true,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "Glade Аэрозоль После Дождя 300мл",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 121500,
+    "product_hierarchy_tags": [
+      "UNKNOWN"
+    ],
+    "purchasable_balance": 8,
+    "restrictions": [],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": false,
+    "tags": [],
+    "unit_info": "300 мл",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 405000,
+      "unit": "litre"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 12,
+    "vat_percentage_decimal": "12.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    }
+  },
+  {
+    "id": "cf60b705c86962b3ab922c27",
+    "advertising_info": null,
+    "alcohol_permille": 0,
+    "allowed_delivery_methods": [
+      "homedelivery",
+      "takeaway",
+      "eatin"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 0,
+        "end_time": 86400000
+      }
+    ],
+    "barcode_gtin": "04620000434047",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "9b9ff274b51fa716600742f43e46478c",
+    "description": "Автоматический освежитель воздуха с бодрящим ароматом утренней свежести.",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": true,
+    "images": [
+      {
+        "url": "https://imageproxy.wolt.com/assets/688b99f423fa16f725af84d3",
+        "blurhash": "L$QA8Ha_~Xs;ofj[WUWBbGfRjbf6"
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": true,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "Glade Automatic Свежесть Утра 269мл",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 702000,
+    "product_hierarchy_tags": [
+      "UNKNOWN"
+    ],
+    "purchasable_balance": 7,
+    "restrictions": [],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": true,
+    "tags": [],
+    "unit_info": "269 мл",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 2609665,
+      "unit": "litre"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 12,
+    "vat_percentage_decimal": "12.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    }
+  },
+  {
+    "id": "483e21cee0d2cbc0bab12a09",
+    "advertising_info": null,
+    "alcohol_permille": 0,
+    "allowed_delivery_methods": [
+      "homedelivery",
+      "takeaway",
+      "eatin"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 0,
+        "end_time": 86400000
+      }
+    ],
+    "barcode_gtin": "04620000433668",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "608f8d4099d7e1e71d3042a3d74c39c2",
+    "description": "Освежитель воздуха с приятным ароматом только что постиранного белья.",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": true,
+    "images": [
+      {
+        "url": "https://imageproxy.wolt.com/assets/688b99eb23fa16f725af83f1",
+        "blurhash": "LMSY{poe~qoMxCj[NyWBxZayNHoe"
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": true,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "Glade Automatic Свежесть Белья 269мл",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 380000,
+    "product_hierarchy_tags": [
+      "UNKNOWN"
+    ],
+    "purchasable_balance": 3,
+    "restrictions": [],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": true,
+    "tags": [],
+    "unit_info": "269 мл",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 1412639,
+      "unit": "litre"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 12,
+    "vat_percentage_decimal": "12.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    }
+  },
+  {
+    "id": "1bbf4954a6b118064224e56a",
+    "advertising_info": null,
+    "alcohol_permille": 0,
+    "allowed_delivery_methods": [
+      "homedelivery",
+      "takeaway",
+      "eatin"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 0,
+        "end_time": 86400000
+      }
+    ],
+    "barcode_gtin": "04620000433651",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "660a5d79014ab7cdcc0fd78f1679a15c",
+    "description": "Автоматический освежитель с морским ароматом и нотами цитрусовых.",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": true,
+    "images": [
+      {
+        "url": "https://imageproxy.wolt.com/assets/688b98e1a3eb62eeb95c1d41",
+        "blurhash": "LJSs4~js_4t8xZj[R,ax%LfkIof6"
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": true,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "Glade Automatic Океанский Оазис 269мл",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 380000,
+    "product_hierarchy_tags": [
+      "UNKNOWN"
+    ],
+    "purchasable_balance": 11,
+    "restrictions": [],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": false,
+    "tags": [],
+    "unit_info": "269 мл",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 1412639,
+      "unit": "litre"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 12,
+    "vat_percentage_decimal": "12.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    }
+  },
+  {
+    "id": "df1874ad7bd0b5d0971f0463",
+    "advertising_info": null,
+    "alcohol_permille": 0,
+    "allowed_delivery_methods": [
+      "homedelivery",
+      "takeaway",
+      "eatin"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 0,
+        "end_time": 86400000
+      }
+    ],
+    "barcode_gtin": "04620000433675",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "34e83d46ec9077bf7758c04b0ce702ac",
+    "description": "Автоматический освежитель с цветочно-фруктовым ароматом пиона и ягод.",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": true,
+    "images": [
+      {
+        "url": "https://imageproxy.wolt.com/assets/6888c155a3eb62eeb9567c93",
+        "blurhash": "LTSPR#ay_Nt8ocj@aiazxuj[M{ae"
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": true,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "Glade Automatic Пион и Сочные Ягоды 269мл",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 380000,
+    "product_hierarchy_tags": [
+      "UNKNOWN"
+    ],
+    "purchasable_balance": 9,
+    "restrictions": [],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": false,
+    "tags": [],
+    "unit_info": "269 мл",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 1412639,
+      "unit": "litre"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 12,
+    "vat_percentage_decimal": "12.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    }
+  },
+  {
+    "id": "1a819003638594a3bde276d8",
+    "advertising_info": null,
+    "alcohol_permille": 0,
+    "allowed_delivery_methods": [
+      "eatin",
+      "takeaway",
+      "homedelivery"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 0,
+        "end_time": 86400000
+      }
+    ],
+    "barcode_gtin": "04606782199121",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "6f9eaef6bb95519e7d4d27eb48df187e",
+    "description": "Набор канцелярских скрепок треугольной формы, размер 32 мм.",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": true,
+    "images": [
+      {
+        "url": "https://imageproxy.wolt.com/assets/6888b90e1f0cac713af5ff38",
+        "blurhash": "LGSY?btR_NRjRPoftRWB%gRPRPx]"
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": true,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "Скрепки Hatber Канцелярские Треугольные 32Мм 100Шт Кор",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 167000,
+    "product_hierarchy_tags": [
+      "UNKNOWN"
+    ],
+    "purchasable_balance": 17,
+    "restrictions": [],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": false,
+    "tags": [],
+    "unit_info": "100 шт",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 1670,
+      "unit": "piece"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 12,
+    "vat_percentage_decimal": "12.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    }
+  },
+  {
+    "id": "436b1feb6c1bb2cd249214a5",
+    "advertising_info": null,
+    "alcohol_permille": 0,
+    "allowed_delivery_methods": [
+      "homedelivery",
+      "eatin",
+      "takeaway"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 0,
+        "end_time": 86400000
+      }
+    ],
+    "barcode_gtin": "04607067440679",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "863b269bfeb1fee116bbcc8521304408",
+    "description": "Набор цветной бумаги формата A4, плотностью 80 г/м², в 5 пастельных оттенках.",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": true,
+    "images": [
+      {
+        "url": "https://imageproxy.wolt.com/assets/6888be80a3eb62eeb95629bd",
+        "blurhash": "LTS6Mdoz_NRjbbfQn%j@xufkM{ax"
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": true,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "Бумага Kris Creative Pale А4/100 80Гр/М2 5Цветов",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 345500,
+    "product_hierarchy_tags": [
+      "UNKNOWN"
+    ],
+    "purchasable_balance": 19,
+    "restrictions": [],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": false,
+    "tags": [],
+    "unit_info": "1 шт",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 345500,
+      "unit": "piece"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 12,
+    "vat_percentage_decimal": "12.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    }
+  },
+  {
+    "id": "338d2b04b2f928330214e305",
+    "advertising_info": null,
+    "alcohol_permille": 0,
+    "allowed_delivery_methods": [
+      "homedelivery",
+      "eatin",
+      "takeaway"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 0,
+        "end_time": 86400000
+      }
+    ],
+    "barcode_gtin": "04606782330142",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "9150fc35a452e346513adfe7ee0623d4",
+    "description": "Компактный канцелярский нож с лезвием 9 мм, удобен для разрезания бумаги и упаковки.",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": true,
+    "images": [
+      {
+        "url": "https://imageproxy.wolt.com/assets/6888b90c1f0cac713af5fec9",
+        "blurhash": "L-RL;AxtkDjEaMf6j[az.TRkaekC"
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": true,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "Нож Hatber Канцелярский 9Мм",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 58500,
+    "product_hierarchy_tags": [
+      "UNKNOWN"
+    ],
+    "purchasable_balance": 16,
+    "restrictions": [],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": false,
+    "tags": [],
+    "unit_info": "1 шт",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 58500,
+      "unit": "piece"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 12,
+    "vat_percentage_decimal": "12.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    }
+  },
+  {
+    "id": "7c4df931a891dc4d0da57080",
+    "advertising_info": null,
+    "alcohol_permille": 0,
+    "allowed_delivery_methods": [
+      "homedelivery",
+      "eatin",
+      "takeaway"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 0,
+        "end_time": 86400000
+      }
+    ],
+    "barcode_gtin": "04606782199107",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "b4d80f7b924eca32369f9ba67be2ef3a",
+    "description": "Набор силовых кнопок для крепления бумаги и картинок, 50 шт.",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": true,
+    "images": [
+      {
+        "url": "https://imageproxy.wolt.com/assets/6888be82a3eb62eeb9562a17",
+        "blurhash": "LHSia9s:_NShM|ozxuV@-:V@M|tS"
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": true,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "Кнопки Hatber Канцелярские Силовые Цв 50Шт Кор",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 207500,
+    "product_hierarchy_tags": [
+      "UNKNOWN"
+    ],
+    "purchasable_balance": 8,
+    "restrictions": [],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": false,
+    "tags": [],
+    "unit_info": "50 шт",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 4150,
+      "unit": "piece"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 12,
+    "vat_percentage_decimal": "12.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    }
+  }
+]

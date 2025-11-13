@@ -1,0 +1,3241 @@
+[
+  {
+    "id": "b5c211e1b244792337066f7e",
+    "advertising_info": null,
+    "alcohol_permille": 0,
+    "allowed_delivery_methods": [
+      "homedelivery",
+      "eatin",
+      "takeaway"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 28800000,
+        "end_time": 81000000
+      }
+    ],
+    "barcode_gtin": "08410261206318",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "58287dbfb17598050a068eee6921c409",
+    "description": "Don Simon Nature Tempranillo – испанское молодое красное сухое вино из сорта темранильо от известной испанской винодельни Garcia Carrion.\nДля Simon Nature Tempranillo используется только отборный виноград с одноиённым названием, который культивируется в районе Тьерра де Кастильо.\nЦвет: Don Simon Nature Tempranillo: чистый, ярко-рубиновый, с фиолетовым оттенком.\nАромат: достаточно насыщенный. В букете гармонично сочетаются спелые фрукты, специи и пряные травы.\nВкус: Don Simon Nature Tempranillo: это вино с сочным вкусом смородины и спелых красных ягод, мягкими танинами, гармоничной кислотностью и устойчивым пряным привкусом.\nDon Simon Nature Tempranillo нужно пить молодым и свежим, отлично подходит для ежедневного употребления.",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": true,
+    "images": [
+      {
+        "url": "https://imageproxy.wolt.com/assets/688b9904a3eb62eeb95c2252",
+        "blurhash": "LHSs50of~qofxufQRPjt%MfQIUfQ"
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": true,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "Вино Don Simon Nature Tempranillo Кр Сух 12,5% 0,75Л С/Б",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 324000,
+    "product_hierarchy_tags": [
+      "ALCOHOL",
+      "WINE"
+    ],
+    "purchasable_balance": 16,
+    "restrictions": [
+      {
+        "type": "age_restricted",
+        "age_limit": 21
+      }
+    ],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": false,
+    "tags": [],
+    "unit_info": "750 мл",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 432000,
+      "unit": "litre"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 12,
+    "vat_percentage_decimal": "12.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    }
+  },
+  {
+    "id": "6c847ce668f5b4fd1a85616d",
+    "advertising_info": null,
+    "alcohol_permille": 125,
+    "allowed_delivery_methods": [
+      "eatin",
+      "takeaway",
+      "homedelivery"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 28800000,
+        "end_time": 81000000
+      }
+    ],
+    "barcode_gtin": "08410261206264",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "009c5cfa11f3432ba8d6e56598f23b09",
+    "description": "Don Simon Nature Merlot – испанское сухое красное вино известной винодельни Garcia Carrion.\nВкусное, лёгкое и освежающее вино Дон Симон Мерло подходит для ежедневного применения.\nЦвет: Don Simon Nature Merlot: приятный глубокий красный с фиолетовым оттенком.\nАромат: Don Simon Nature Merlot: фруктово-ягодный с нотами чернослива.\nВкус: Don Simon Nature Merlot: лёгкий, сочный и очень разнообразный. Он сочетает в себе ежевику, бруснику, вишню, смородину и немного сливы в послевкусии.",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": true,
+    "images": [
+      {
+        "url": "https://imageproxy.wolt.com/assets/6888bf0ba3eb62eeb9563b7b",
+        "blurhash": "LHSs50of~qofxufQRQfQ%MfQIUfQ"
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": false,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "Вино Don Simon Nature Merlot Кр Сух 12,5% 0,75Л С/Б",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 324000,
+    "product_hierarchy_tags": [
+      "ALCOHOL",
+      "WINE"
+    ],
+    "purchasable_balance": 12,
+    "restrictions": [
+      {
+        "type": "alcohol",
+        "age_limit": 21
+      }
+    ],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": false,
+    "tags": [],
+    "unit_info": "750 мл",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 432000,
+      "unit": "litre"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 12,
+    "vat_percentage_decimal": "12.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    }
+  },
+  {
+    "id": "48694e8f2eebc25e37fa2861",
+    "advertising_info": null,
+    "alcohol_permille": 0,
+    "allowed_delivery_methods": [
+      "homedelivery",
+      "eatin",
+      "takeaway"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 28800000,
+        "end_time": 81000000
+      }
+    ],
+    "barcode_gtin": "08410261206257",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "ff2aea3e2efe122cca1819a3b83532f6",
+    "description": "Цвет: Глубокий красный цвет вина, в котором прослеживаются проблески малинового оттенка.\nАромат: Аромат вина лёгкий и разнообразный: в нём присутствуют явные ноты специй и спелых фруктов, разбавленные приятной терпкостью ежевики.\nВкус: раскрывается яркой композицией из тонов спелой вишни, ягодного джема, оттенка чернослива и нежных шоколадных нот.",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": true,
+    "images": [
+      {
+        "url": "https://imageproxy.wolt.com/assets/688b99da23fa16f725af80df",
+        "blurhash": "LHSs50of~qofx[fQM{j[%MfQIUfQ"
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": true,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "Вино Don Simon Cabernet Sauvignon Кр Сух 12,5% 0,75Л С/Б",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 324000,
+    "product_hierarchy_tags": [
+      "ALCOHOL",
+      "WINE"
+    ],
+    "purchasable_balance": 11,
+    "restrictions": [
+      {
+        "type": "age_restricted",
+        "age_limit": 21
+      }
+    ],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": false,
+    "tags": [],
+    "unit_info": "750 мл",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 432000,
+      "unit": "litre"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 12,
+    "vat_percentage_decimal": "12.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    }
+  },
+  {
+    "id": "74663df6920f4ba5dd170539",
+    "advertising_info": null,
+    "alcohol_permille": 0,
+    "allowed_delivery_methods": [
+      "homedelivery",
+      "eatin",
+      "takeaway"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 28800000,
+        "end_time": 81000000
+      }
+    ],
+    "barcode_gtin": "08008530044237",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "f9773e5b3adda595d04faf68e0f80709",
+    "description": "Вино имеет насыщенно-красный цвет с фиолетовым оттенком. Приятный и насыщенный вкус с нотами малины, черники, вишни и с выраженным бархатным послевкусием. В аромате присутствуют нотки роз и фиалок. Вино прекрасно сочетается с блюдами из красного мяса, овощами гриль и выдержанными сырами.",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": true,
+    "images": [
+      {
+        "url": "https://imageproxy.wolt.com/assets/688b9aa8b2b18bf1da535c40",
+        "blurhash": "LNSY]ij[~qofxufQRPfQ%MfQIUay"
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": true,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "Вино Tavernello Montepulciano D'Abruzzo, Abruzzo Красное 0.75Л Ст/Б",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 361000,
+    "product_hierarchy_tags": [
+      "ALCOHOL",
+      "WINE"
+    ],
+    "purchasable_balance": 7,
+    "restrictions": [
+      {
+        "type": "age_restricted",
+        "age_limit": 21
+      }
+    ],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": true,
+    "tags": [],
+    "unit_info": "750 мл",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 481333,
+      "unit": "litre"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 12,
+    "vat_percentage_decimal": "12.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    }
+  },
+  {
+    "id": "99662262565e0f5c6a6c6c3e",
+    "advertising_info": null,
+    "alcohol_permille": 110,
+    "allowed_delivery_methods": [
+      "eatin",
+      "takeaway",
+      "homedelivery"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 28800000,
+        "end_time": 81000000
+      }
+    ],
+    "barcode_gtin": "08008530026837",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "cfe208d5b3291a5daafa5aaf588f76a5",
+    "description": "Вино рубиново-красного цвета. Приятный и насыщенный вкус с нотами малины, черники, вишни и с выраженным бархатным послевкусием. Аромат раскрывается прекрасным букетом из спелой черной вишни с оттенками специй. Наслаждайтесь вином в паре с фрикадельками или томатными пастами.",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": true,
+    "images": [
+      {
+        "url": "https://imageproxy.wolt.com/assets/688b9c1323fa16f725afa351",
+        "blurhash": "LFS$ovfR~qxut7fQaefQxuj[M{ay"
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": false,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "Вино Tavernello Vino Rosso Amabile П/Сл Красное 0.75Л Ст/Б",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 327500,
+    "product_hierarchy_tags": [
+      "ALCOHOL",
+      "WINE"
+    ],
+    "purchasable_balance": 8,
+    "restrictions": [
+      {
+        "type": "alcohol",
+        "age_limit": 21
+      }
+    ],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": false,
+    "tags": [],
+    "unit_info": "750 мл",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 436667,
+      "unit": "litre"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 12,
+    "vat_percentage_decimal": "12.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    }
+  },
+  {
+    "id": "2cb5b8e3450e9bd5763fd5f4",
+    "advertising_info": null,
+    "alcohol_permille": 130,
+    "allowed_delivery_methods": [
+      "eatin",
+      "takeaway",
+      "homedelivery"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 28800000,
+        "end_time": 81000000
+      }
+    ],
+    "barcode_gtin": "08008530021986",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "2d90c338b77174cb575c39d6d68e9269",
+    "description": "Вино \"Tavernello\" Sangiovese, Rubicone IGT изготавливается из самого известного итальянского сорта винограда — Санджовезе. Мощное, яркое, но прежде всего элегантное вино составит отличную компанию блюдам итальянской кухни, а также жареному мясу. Вино заслуженно пользуется популярностью благодаря чистому, простому, понятному вкусу.\nХозяйство \"Tavernello\" — один из брендов компании Кавиро, который занимается производством вин, лидирующих по сочетанию \"цена-качество\".  Цвет:\nВино имеет рубиново-красный цвет.\nВкус:\nПриятный, винный и насыщенный вкус, комбинированный с нотками пряностей и черного перца, с выраженным и бархатным послевкусием.\nАромат:\nВ аромат присутствуют нотки роз и фиалок.\nГастрономические сочетания:\nБлюда на гриле, дичь, выдержанные сыры.",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": true,
+    "images": [
+      {
+        "url": "https://imageproxy.wolt.com/assets/688b9903a3eb62eeb95c223d",
+        "blurhash": "LHSs50ay~qxut7fjWBayx[j[Myaf"
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": false,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "Вино Tavernello Sangiovese Rubicone Кр. Сух. 0,75Л Ст/Б",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 361000,
+    "product_hierarchy_tags": [
+      "ALCOHOL",
+      "WINE"
+    ],
+    "purchasable_balance": 6,
+    "restrictions": [
+      {
+        "type": "alcohol",
+        "age_limit": 21
+      }
+    ],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": true,
+    "tags": [],
+    "unit_info": "750 мл",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 481333,
+      "unit": "litre"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 12,
+    "vat_percentage_decimal": "12.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    }
+  },
+  {
+    "id": "650437eb4d22faafe6b4bd6f",
+    "advertising_info": null,
+    "alcohol_permille": 140,
+    "allowed_delivery_methods": [
+      "eatin",
+      "takeaway",
+      "homedelivery"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 28800000,
+        "end_time": 81000000
+      }
+    ],
+    "barcode_gtin": "05601996547897",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "4787cff850858dda16924833149addda",
+    "description": "Красное вино Porta 6 создано из винограда местных красных сортов Каштелау, Арагонеш и Турига Насьональ, собранных на виноградниках производителя по достижении оптимальной зрелости. Проводилась классическая ферментация в стальных чанах, после чего вино еще непродолжительное время выдерживалось в них же для получения более яркого, насыщенного вкуса и глубокого аромата. Вкус полный, с активной кислотностью и бархатистыми танинами, нотами спелой вишни и сливы, нюансами специй, трав и сигарного ящика. Послевкусие: Долгое, ягодное с нотами ягод, специй и трав.\nГастрономические рекомендации: Данное вино рекомендуется подавать к блюдам из свинины и баранины, твердым сырам, блюдам средиземноморской кухни.",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": true,
+    "images": [
+      {
+        "url": "https://imageproxy.wolt.com/assets/6888ba5b1f0cac713af6213d",
+        "blurhash": "LHSs50ay_Nxuxuj[Rjay%Mj[IUWB"
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": false,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "Вино Porta 6 Tinto Red 0,75Л Крас. Сух 13,5% С/Б",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 523000,
+    "product_hierarchy_tags": [
+      "ALCOHOL",
+      "WINE"
+    ],
+    "purchasable_balance": 9,
+    "restrictions": [
+      {
+        "type": "alcohol",
+        "age_limit": 21
+      }
+    ],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": false,
+    "tags": [],
+    "unit_info": "750 мл",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 697333,
+      "unit": "litre"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 12,
+    "vat_percentage_decimal": "12.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    }
+  },
+  {
+    "id": "a6b5ffd624f034eba93aded3",
+    "advertising_info": null,
+    "alcohol_permille": 140,
+    "allowed_delivery_methods": [
+      "eatin",
+      "takeaway",
+      "homedelivery"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 28800000,
+        "end_time": 81000000
+      }
+    ],
+    "barcode_gtin": "03263280115803",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "c9c378e7d0fe0c8910fb715726a9ba43",
+    "description": "Красное сухое вино сорта Зинфандель с ароматом чёрных ягод и специй.",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": true,
+    "images": [
+      {
+        "url": "https://imageproxy.wolt.com/assets/688b9bffb2b18bf1da5374f5",
+        "blurhash": "LQSPX^j[~qkCxufQM{fQxufQM{fQ"
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": false,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "Sun Gate Вино Сухое Красное - Зинфандель 2018",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 787000,
+    "product_hierarchy_tags": [
+      "ALCOHOL",
+      "WINE"
+    ],
+    "purchasable_balance": 9,
+    "restrictions": [
+      {
+        "type": "alcohol",
+        "age_limit": 21
+      }
+    ],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": false,
+    "tags": [],
+    "unit_info": "750 мл",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 1049333,
+      "unit": "litre"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 12,
+    "vat_percentage_decimal": "12.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    }
+  },
+  {
+    "id": "a81fe1341c8db5af87764f84",
+    "advertising_info": null,
+    "alcohol_permille": 120,
+    "allowed_delivery_methods": [
+      "eatin",
+      "takeaway",
+      "homedelivery"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 28800000,
+        "end_time": 81000000
+      }
+    ],
+    "barcode_gtin": "04860053015088",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "2b597e5206bdfc8de35986f893fe1036",
+    "description": "Полусладкое красное вино с насыщенным ягодным ароматом и приятной сладостью.",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": true,
+    "images": [
+      {
+        "url": "https://imageproxy.wolt.com/assets/688b9bfbb2b18bf1da53743d",
+        "blurhash": "LJSs1[j[_NofxafQR*ayt7fQRjay"
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": false,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "Асканели Вино Красное Полусладкое Алазанская Долина 0.75 Л",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 472000,
+    "product_hierarchy_tags": [
+      "ALCOHOL",
+      "WINE"
+    ],
+    "purchasable_balance": 4,
+    "restrictions": [
+      {
+        "type": "alcohol",
+        "age_limit": 21
+      }
+    ],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": true,
+    "tags": [],
+    "unit_info": "750 мл",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 629333,
+      "unit": "litre"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 12,
+    "vat_percentage_decimal": "12.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    }
+  },
+  {
+    "id": "4cecf1f1704eb724a63ed6a6",
+    "advertising_info": null,
+    "alcohol_permille": 0,
+    "allowed_delivery_methods": [
+      "homedelivery",
+      "takeaway",
+      "eatin"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 28800000,
+        "end_time": 81000000
+      }
+    ],
+    "barcode_gtin": "08001935361404",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "1d429a70b0d26539e292be868d119af4",
+    "description": "Вино темно-вишневого цвета с приятным ароматом вишни и сливы, с мягким ягодным вкусом. Красное мясо на гриле или мясное ассорти и мясные закуски.",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": true,
+    "images": [
+      {
+        "url": "https://imageproxy.wolt.com/assets/688b999123fa16f725af7782",
+        "blurhash": "LHSs50of~qj[xufQRjfjt7ayRjj["
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": true,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "Вино Santa Cristina Toscana I.G.T. Красное 0.75Л Ст/Б",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 972000,
+    "product_hierarchy_tags": [
+      "ALCOHOL",
+      "WINE"
+    ],
+    "purchasable_balance": 7,
+    "restrictions": [
+      {
+        "type": "age_restricted",
+        "age_limit": 21
+      }
+    ],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": true,
+    "tags": [],
+    "unit_info": "750 мл",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 1296000,
+      "unit": "litre"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 12,
+    "vat_percentage_decimal": "12.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    }
+  },
+  {
+    "id": "317a3adc6f11ddb4abefe778",
+    "advertising_info": null,
+    "alcohol_permille": 0,
+    "allowed_delivery_methods": [
+      "homedelivery",
+      "takeaway",
+      "eatin"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 28800000,
+        "end_time": 81000000
+      }
+    ],
+    "barcode_gtin": "08437003701399",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "7c8866e0c3d6a25a3b7110cdcc319096",
+    "description": "Вино Bodegas Care (Бодегас Кер) Sobre Lias имеет мощный фруктовый, полнотелый вкус. Аромат: демонстрирует свежий и сочный ягодный аромат Гастрономическое сочетание: с разными видами запеченного красного мяса и выдержанными твердыми сырами Технология производства: 4-дневная холодная мацерация при температуре 9°C, ферментация в конических усеченных резервуарах из нержавеющей стали при температуре 28°C\nВыдержка: 4 месяца в американских дубовых бочках\nТемпература подачи: 14-15°C",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": true,
+    "images": [
+      {
+        "url": "https://imageproxy.wolt.com/assets/688b9a8923fa16f725af9324",
+        "blurhash": "LCS?DVof~qt7tRfQWAay%MfQIUay"
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": true,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "Вино Bodegas Care Tinto Sobre Lias Красное 0.75Л Ст/Б",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 654000,
+    "product_hierarchy_tags": [
+      "ALCOHOL",
+      "WINE"
+    ],
+    "purchasable_balance": 9,
+    "restrictions": [
+      {
+        "type": "age_restricted",
+        "age_limit": 21
+      }
+    ],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": false,
+    "tags": [],
+    "unit_info": "750 мл",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 872000,
+      "unit": "litre"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 12,
+    "vat_percentage_decimal": "12.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    }
+  },
+  {
+    "id": "b024d0e041f356ee4d9941d0",
+    "advertising_info": null,
+    "alcohol_permille": 130,
+    "allowed_delivery_methods": [
+      "eatin",
+      "takeaway",
+      "homedelivery"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 28800000,
+        "end_time": 81000000
+      }
+    ],
+    "barcode_gtin": "07804661041043",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "7d16d42cfe3c05f0cfbba1a5e3b50ec5",
+    "description": "Чилийское сухое красное вино с насыщенными нотками черной смородины и специй.",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": true,
+    "images": [
+      {
+        "url": "https://imageproxy.wolt.com/assets/688b9a0423fa16f725af8766",
+        "blurhash": "LMSY{qj[~qof%2fQM{ays:fQR*fQ"
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": false,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "El Chivo Каберне Совиньон Вино Красное Сухое",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 452000,
+    "product_hierarchy_tags": [
+      "ALCOHOL",
+      "WINE"
+    ],
+    "purchasable_balance": 3,
+    "restrictions": [
+      {
+        "type": "alcohol",
+        "age_limit": 21
+      }
+    ],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": true,
+    "tags": [],
+    "unit_info": "750 мл",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 602667,
+      "unit": "litre"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 12,
+    "vat_percentage_decimal": "12.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    }
+  },
+  {
+    "id": "4291a664c323aee8e973f612",
+    "advertising_info": null,
+    "alcohol_permille": 110,
+    "allowed_delivery_methods": [
+      "homedelivery",
+      "eatin",
+      "takeaway"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 28800000,
+        "end_time": 81000000
+      }
+    ],
+    "barcode_gtin": "03800011415841",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "69c400e930a1c74432c16ac45cdd98f5",
+    "description": "Производят только из черных сортов винограда, а бордовый цвет вину придает кожица ягоды.",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": true,
+    "images": [],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": false,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "UNO Wine Красное вино Merlot 11% 750мл",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 357000,
+    "product_hierarchy_tags": [
+      "ALCOHOL",
+      "WINE"
+    ],
+    "purchasable_balance": 5,
+    "restrictions": [
+      {
+        "type": "alcohol",
+        "age_limit": 18
+      }
+    ],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": true,
+    "tags": [],
+    "unit_info": "250 мл",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 1428000,
+      "unit": "litre"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 12,
+    "vat_percentage_decimal": "12.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    }
+  },
+  {
+    "id": "d6fa7faf3934ea8965136721",
+    "advertising_info": null,
+    "alcohol_permille": 120,
+    "allowed_delivery_methods": [
+      "eatin",
+      "takeaway",
+      "homedelivery"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 28800000,
+        "end_time": 81000000
+      }
+    ],
+    "barcode_gtin": "08008530054441",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "12ce8d0d31db747a08caa38101c6c8b0",
+    "description": "Вино яркого рубиново-красного цвета.\nВо вкусе вина хорошо сбалансированы округлые танины и свежая фруктовая кислотность. Выразительное, бархатистое послевкусие оканчивается пряными акцентами.\nНасыщенные тона свежей вишни перекликаются в аромате вина с намеками пряностей, черного перца, лепестков розы и сухих трав.",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": true,
+    "images": [
+      {
+        "url": "https://imageproxy.wolt.com/assets/688b9aadb2b18bf1da535d22",
+        "blurhash": "LAS~t|j[_NxutRfRjEf6%Mj[IUWB"
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": false,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "ВИНО TAVERNELLO  ROSATO SANGIOVESE RUBICONE 10,5% РОЗ. П/СУХ 0,75Л СТ/Б",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 361000,
+    "product_hierarchy_tags": [
+      "ALCOHOL",
+      "WINE"
+    ],
+    "purchasable_balance": 6,
+    "restrictions": [
+      {
+        "type": "alcohol",
+        "age_limit": 21
+      }
+    ],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": true,
+    "tags": [],
+    "unit_info": "1 шт",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 361000,
+      "unit": "piece"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 12,
+    "vat_percentage_decimal": "12.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    }
+  },
+  {
+    "id": "1e101e18fa54c80a17eb4ea6",
+    "advertising_info": null,
+    "alcohol_permille": 140,
+    "allowed_delivery_methods": [
+      "eatin",
+      "takeaway",
+      "homedelivery"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 28800000,
+        "end_time": 81000000
+      }
+    ],
+    "barcode_gtin": "05601996023780",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "3e66c8b40eedf4f490024a38ad4b8dc3",
+    "description": "Вино розового цвета с лососевым оттенком. Обладает свежим цветочным ароматом и гармоничным вкусом с нотками клубники и цитрусовых",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": true,
+    "images": [
+      {
+        "url": "https://imageproxy.wolt.com/assets/6888c10b1f0cac713af693c2",
+        "blurhash": "LES~q=j[?^t8xuj[NGay%Mj[IUay"
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": false,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "ВИНО PORTA 6 ROSE LISBOA 0,75Л РОЗ. СУХ 13,5% С/Б",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 523000,
+    "product_hierarchy_tags": [
+      "ALCOHOL",
+      "WINE"
+    ],
+    "purchasable_balance": 10,
+    "restrictions": [
+      {
+        "type": "alcohol",
+        "age_limit": 21
+      }
+    ],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": false,
+    "tags": [],
+    "unit_info": "1 шт",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 523000,
+      "unit": "piece"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 12,
+    "vat_percentage_decimal": "12.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    }
+  },
+  {
+    "id": "b9485cc74b07d513938c8fb8",
+    "advertising_info": null,
+    "alcohol_permille": 105,
+    "allowed_delivery_methods": [
+      "eatin",
+      "takeaway",
+      "homedelivery"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 28800000,
+        "end_time": 81000000
+      }
+    ],
+    "barcode_gtin": "03263280114486",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "50b7cc4daa224e978953aa0d84603cfc",
+    "description": "Калифорнийское розовое полусухое вино с ягодными нотками и легкой кислинкой.",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": true,
+    "images": [
+      {
+        "url": "https://imageproxy.wolt.com/assets/688b9904a3eb62eeb95c2254",
+        "blurhash": "LNS$fXj[?^oftRfQRiaytlfQR5ay"
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": false,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "Sun Gate Вино полусухое розовое - Зинфандель 2018",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 787000,
+    "product_hierarchy_tags": [
+      "ALCOHOL",
+      "WINE"
+    ],
+    "purchasable_balance": 2,
+    "restrictions": [
+      {
+        "type": "alcohol",
+        "age_limit": 21
+      }
+    ],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": true,
+    "tags": [],
+    "unit_info": "1 шт",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 787000,
+      "unit": "piece"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 12,
+    "vat_percentage_decimal": "12.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    }
+  },
+  {
+    "id": "f93248673b5fe6f6966f465f",
+    "advertising_info": null,
+    "alcohol_permille": 0,
+    "allowed_delivery_methods": [
+      "eatin",
+      "takeaway",
+      "homedelivery"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 28800000,
+        "end_time": 81000000
+      }
+    ],
+    "barcode_gtin": "08000570467403",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "bb86d52cfd3cce42f0144db81b714f75",
+    "description": "Мартини Брют (Martini Brut) – белое сухое игристое вино. Его производят из сортов Просекко (50%), Пино Блан (30%) и Дурелла (20%). Это светлый и тонкий напиток с нотами зеленого яблока. Мартини Брют (Martini Brut) следует подавать охлажденным до 10-12 градусов в качестве аперитива или к сладким блюдам, фруктам и сырам. Рекомендуется любителям сухих и очень сухих игристых вин как достойная альтернатива французскому шампанскому.Цвет: Брют благородного платинового цвета.Вкус: Вино обладает мягким, освежающим вкусом и приятным, устойчивым послевкусием.Аромат: У вина легкий аромат с нотами зеленого яблока.\nГастрономические сочетания: Вино является прекрасным аперитивом, будет хорошо сочетаться с легкими закусками, фруктами, икрой, неприторными десертами.",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": true,
+    "images": [
+      {
+        "url": "https://imageproxy.wolt.com/assets/688b9c2d23fa16f725afa70d",
+        "blurhash": "LMSY{qof~qj]%MfQM{j@xufQM{j@"
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": true,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "Вино Игристое Martini Brut 0,75Л Ст/Б",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 774700,
+    "product_hierarchy_tags": [
+      "WINE",
+      "ALCOHOL"
+    ],
+    "purchasable_balance": 3,
+    "restrictions": [
+      {
+        "type": "age_restricted",
+        "age_limit": 21
+      }
+    ],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": true,
+    "tags": [],
+    "unit_info": "750 мл",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 1032933,
+      "unit": "litre"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 12,
+    "vat_percentage_decimal": "12.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    }
+  },
+  {
+    "id": "01f1d92ee58080a98a91feea",
+    "advertising_info": null,
+    "alcohol_permille": 0,
+    "allowed_delivery_methods": [
+      "homedelivery",
+      "eatin",
+      "takeaway"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 28800000,
+        "end_time": 81000000
+      }
+    ],
+    "barcode_gtin": "08008530072216",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "54268bab67fc8f171a48db5b2c9844b8",
+    "description": "Насыщенный розовый цвет. Аромат роз, фиалок, вишни и спелых, сочных ягод. Вкус свежий, искрящийся, с приятным фруктово-ягодным послевкусием. Сочетание: Фруктовые и сырные тарелки, десерты.",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": true,
+    "images": [
+      {
+        "url": "https://imageproxy.wolt.com/assets/6888be00a3eb62eeb9561b34",
+        "blurhash": "LJS~kuof.mofyCfQR5bGtkfQR6fQ"
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": true,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "Вино Игристое Tavernello Lambrusco Rose, Emilia Розовое 0.75Л Ст/Б",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 361000,
+    "product_hierarchy_tags": [
+      "WINE",
+      "ALCOHOL"
+    ],
+    "purchasable_balance": 11,
+    "restrictions": [
+      {
+        "type": "age_restricted",
+        "age_limit": 21
+      }
+    ],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": false,
+    "tags": [],
+    "unit_info": "750 мл",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 481333,
+      "unit": "litre"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 12,
+    "vat_percentage_decimal": "12.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    }
+  },
+  {
+    "id": "15c58dbf2c34886d6b9ef147",
+    "advertising_info": null,
+    "alcohol_permille": 0,
+    "allowed_delivery_methods": [
+      "eatin",
+      "takeaway",
+      "homedelivery"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 28800000,
+        "end_time": 81000000
+      }
+    ],
+    "barcode_gtin": "08008530072209",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "1d12812a662d4bd1e30b7d78c8b2bb58",
+    "description": "Насыщенный красный цвет. Аромат роз, фиалок, чёрной смородины и сочных ягод. Вкус свежий, искрящийся, с приятным фруктовым послевкусием. Сочетание: Фруктовые и сырные тарелки, десерты.",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": true,
+    "images": [
+      {
+        "url": "https://imageproxy.wolt.com/assets/6888bf4fa3eb62eeb95649d7",
+        "blurhash": "LMSidIj[~qof%MfQM{fQ%MfQIUfQ"
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": true,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "Вино Игристое Tavernello Lambrusco Rosso, Emilia Красное 0.75Л Ст/Б",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 361000,
+    "product_hierarchy_tags": [
+      "WINE",
+      "ALCOHOL"
+    ],
+    "purchasable_balance": 14,
+    "restrictions": [
+      {
+        "type": "age_restricted",
+        "age_limit": 21
+      }
+    ],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": false,
+    "tags": [],
+    "unit_info": "750 мл",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 481333,
+      "unit": "litre"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 12,
+    "vat_percentage_decimal": "12.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    }
+  },
+  {
+    "id": "910ac0bf94b6c54ea2297c37",
+    "advertising_info": null,
+    "alcohol_permille": 0,
+    "allowed_delivery_methods": [
+      "homedelivery",
+      "eatin",
+      "takeaway"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 28800000,
+        "end_time": 81000000
+      }
+    ],
+    "barcode_gtin": "08006297004594",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "8e9ce020bbeb3a43e98329e85078c91d",
+    "description": "Сладкое Moscato от Paladin — это ароматное игристое вино из Италии, которое представлено в исключительно свежем виде. Популярное вино производится исключительно из винограда сорта Москато, который выращивают на Эуганских холмах в Венето на севере Италии, к юго-западу от Падуи. Здесь преобладают глинистые почвы с богатыми минеральными солями и долей камней. В бокале Moscato Dolce предстает в свежем соломенно-желтом цвете с тонкой игрой жемчуга. Букет кажется чрезвычайно свежим с тонкими фруктовыми нотками абрикосов и цитрусовых. Этот Москато представляет собой удивительно сбалансированный вкус, не слишком сладкий и с умеренной кислотностью, в то же время слегка игристый и свежий в целом. Насыщенный вкус с большой интенсивностью и фруктовым характером. Лучше всего подавать этот Москато из бокала тюльпановидной формы. Он подходит как к летней вечеринке в саду, так и к кусочку фруктового торта. Оптимальная температура подачи 10°С.",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": true,
+    "images": [
+      {
+        "url": "https://imageproxy.wolt.com/assets/688b9abcb2b18bf1da535ee4",
+        "blurhash": "LJSs4~of_Nof-pfQIVfQ%2fQM{fQ"
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": true,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "Вино Игристое Paladin Moscato Dolce Spumante Белое 0.75Л Ст/Б",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 980000,
+    "product_hierarchy_tags": [
+      "WINE",
+      "ALCOHOL"
+    ],
+    "purchasable_balance": 7,
+    "restrictions": [
+      {
+        "type": "age_restricted",
+        "age_limit": 21
+      }
+    ],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": true,
+    "tags": [],
+    "unit_info": "750 мл",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 1306667,
+      "unit": "litre"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 12,
+    "vat_percentage_decimal": "12.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    }
+  },
+  {
+    "id": "77667dfcc8e0af9eb4aa1180",
+    "advertising_info": null,
+    "alcohol_permille": 55,
+    "allowed_delivery_methods": [
+      "eatin",
+      "takeaway",
+      "homedelivery"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 28800000,
+        "end_time": 81000000
+      }
+    ],
+    "barcode_gtin": "08052278320610",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "aea6e1b676511e49df4a481e1835e8e6",
+    "description": "Оригинальный рецепт Беллини, приготовленный в \n Harry’s Bar самим Джузеппе Чиприани вдохновителем \n нашего бренда, в Венеции 1948 год, является результатом \n тщательного баланса игристого вина брют и нектара из \n средиземноморского белого персика. Наш коктейль \n Беллини названный в честь Венецианского живописца \n Джованни Беллини, в бутылках предлагает гармонию \n сухого и фруктового вкусов, и между интенсивностью и \n свежестью, коктейль позволяет прикоснуться к \n историческому вкусу оригинального рецепта от Cipriani",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": true,
+    "images": [
+      {
+        "url": "https://imageproxy.wolt.com/assets/688b99b623fa16f725af7c10",
+        "blurhash": "LFSsBGay~DxuxajtSLay%2j[IoWB"
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": false,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "Алкогольный Коктейль Bellini 5.5% 0.2Л",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 530500,
+    "product_hierarchy_tags": [
+      "ALCOHOL"
+    ],
+    "purchasable_balance": 10,
+    "restrictions": [
+      {
+        "type": "alcohol",
+        "age_limit": 21
+      }
+    ],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": false,
+    "tags": [],
+    "unit_info": "200 мл",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 2652500,
+      "unit": "litre"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 12,
+    "vat_percentage_decimal": "12.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    }
+  },
+  {
+    "id": "a6b859d7683db8139cc0f06e",
+    "advertising_info": null,
+    "alcohol_permille": 120,
+    "allowed_delivery_methods": [
+      "eatin",
+      "takeaway",
+      "homedelivery"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 28800000,
+        "end_time": 81000000
+      }
+    ],
+    "barcode_gtin": "08052278320290",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "39f10065b844aec4fc601a58231f46e7",
+    "description": "Prosecco Millesimato Brut DOC – создается путем отбора и контроля характерного для Prosecco\n винограда Глера, отобранных вручную опытными виноделами на собственных виноградниках компании в \n практически самой северной части Италии, Венето и Фриули, которая является родиной и основным регионом \n для всех объемов мирового, итальянского Prosecco подтверждением этого факта является итальянская \n маркировка DOC, что означает, что каждая бутылка Prosecco перед тем как попасть в ваши руки проходит \n строжайший контроль на предмет происхождения и соблюдения необходимого сорта винограда.",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": true,
+    "images": [
+      {
+        "url": "https://imageproxy.wolt.com/assets/6888bb0223fa16f725a96a11",
+        "blurhash": "LJSijYay~Wxuxuj[M{ay%Mj[IUWB"
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": false,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "Игристое Вино Cipriani Prosecco Brut Millesimato Doc 12% 0.75Л",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 917000,
+    "product_hierarchy_tags": [
+      "WINE",
+      "ALCOHOL"
+    ],
+    "purchasable_balance": 4,
+    "restrictions": [
+      {
+        "type": "alcohol",
+        "age_limit": 21
+      }
+    ],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": true,
+    "tags": [],
+    "unit_info": "750 мл",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 1222667,
+      "unit": "litre"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 12,
+    "vat_percentage_decimal": "12.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    }
+  },
+  {
+    "id": "655d03f35483232edab0b2a7",
+    "advertising_info": null,
+    "alcohol_permille": 0,
+    "allowed_delivery_methods": [
+      "eatin",
+      "takeaway",
+      "homedelivery"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 28800000,
+        "end_time": 81000000
+      }
+    ],
+    "barcode_gtin": "08000570435402",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "d3fac32127c262a22879b54d8eee4629",
+    "description": "MARTINI Asti-это белое игристое вино, которое производится из винограда сорта Москато, который выращивают в провинций Асти(итальянский регион Пьенонт). Благодаря географическому происхождению и уникальному методу обработки MARTINI Asti относится к высшей категорий классификацииитальянских вин D.O.C.G.(\"Denominazione Controllata e Garantita\"-гарантия и контроль качества по происхождению). Королевские гербы Италии, Испании и Португалии на этикетке свидетельствуют о том, что это вино поставлялось ко двору этих европейских монархов, а королям нельзя отказать в отличном вкусе! Асти — лидер среди игристых вин. В настоящее время 45% рынка игристых вин (остальное — марки местного значения) поделено между французским шампанским, итальянским Асти, испанским Cava и немецким Sekt. Асти Мартини принадлежит более 27% мирового рынка вин Асти. Цвет:Цвет вина светло-соломенный.Вкус: Асти Мартини имеет сладкий вкус, с фруктовым букетом яблок, персиков,апельсина и меда.Аромат: Вино сохраняет аромат свежего винограда, с легкими фруктовыми оттенками.Гастрономические сочетания:Асти Мартини идеально сочетается с сыром, фруктами или сладким десертом.",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": true,
+    "images": [
+      {
+        "url": "https://imageproxy.wolt.com/assets/6888bc091f0cac713af6441a",
+        "blurhash": "LJSigQof~qj[%NfQIUj[%MfQMxj@"
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": true,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": 5,
+    "min_quantity_per_purchase": null,
+    "name": "Вино Игристое Martini  Asti 0.75 Л.  Ст/Б",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 814000,
+    "product_hierarchy_tags": [
+      "WINE",
+      "ALCOHOL"
+    ],
+    "purchasable_balance": 10,
+    "restrictions": [
+      {
+        "type": "age_restricted",
+        "age_limit": 21
+      }
+    ],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": false,
+    "tags": [],
+    "unit_info": "750 мл",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 1085333,
+      "unit": "litre"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 12,
+    "vat_percentage_decimal": "12.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    }
+  },
+  {
+    "id": "8aa39c38bc4dca2ad05ad821",
+    "advertising_info": null,
+    "alcohol_permille": 0,
+    "allowed_delivery_methods": [
+      "homedelivery",
+      "takeaway",
+      "eatin"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 28800000,
+        "end_time": 81000000
+      }
+    ],
+    "barcode_gtin": "07630040409568",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "2ef8b6e8067024c43f04d35aebed3435",
+    "description": "Сухое игристое вино Мартини Просекко производится из одноименного сорта винограда, который выращивается в регионе Венето на северо-востоке Италии. Икона итальянского виноделия, компания Мартини уже давно занимается производством Prosecco в Венето. В августе 2009 года система классификации вина была повышена с IGT на DOC. Теперь Prosecco называется вино, созданное только в двух регионах Италии — Венето и Фриули-Венеция-Джулия из высококачественного винограда, что контролируется на правительственном уровне. В связи с такими изменениями винодел “Мартини” Франко Брецца сказал: “Мы всегда гордились тем, что Martini Prosecco производится в Венето. Вновь присвоенный статус DOC действительно подтверждает качество этого искусно созданного продукта, и мы в восторге от признания нашего труда”.\nВ дополнение к классификации DOC, Мартини Просекко представил некоторые обновления вкуса, такие гладкость текстуры и сложный букет с уникальными нотками персика и зеленого яблока и незабываемым пряным послевкусием. Чтобы в полной мере насладиться уникальным свежим и легким вкусом этого замечательного вина, его рекомендуется охладить до 6-8°С. Цвет:Вино светло-соломенного цвета.Вкус:Вкус вина свежий, суховатый, с фруктовыми нотами грейпфрута, зеленого яблока, персика, пряным послевкусием. Аромат:Очень привлекательный аромат вина наполнен яблочными, грушевыми и цветочными оттенками.Гастрономические сочетания:Вино идеально в качестве аперитива или для сопровождения острых блюд, хорошо сочетается с белым мясом и рыбой, морепродуктами и средиземноморскими салатами, суши, свежими сливочными сырами.",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": true,
+    "images": [
+      {
+        "url": "https://imageproxy.wolt.com/assets/688b9c8123fa16f725afae15",
+        "blurhash": "LLSs1@of_4j[%MfQMxj[xvfQM_j@"
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": true,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "Вино Игристое Martini  Prosecco 0.75 Л. Ст/Б",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 820000,
+    "product_hierarchy_tags": [
+      "WINE",
+      "ALCOHOL"
+    ],
+    "purchasable_balance": 11,
+    "restrictions": [
+      {
+        "type": "age_restricted",
+        "age_limit": 21
+      }
+    ],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": false,
+    "tags": [],
+    "unit_info": "750 мл",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 1093333,
+      "unit": "litre"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 12,
+    "vat_percentage_decimal": "12.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    }
+  },
+  {
+    "id": "07585bb0be9f56dcb611f122",
+    "advertising_info": null,
+    "alcohol_permille": 115,
+    "allowed_delivery_methods": [
+      "eatin",
+      "takeaway",
+      "homedelivery"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 28800000,
+        "end_time": 81000000
+      }
+    ],
+    "barcode_gtin": "07804315000235",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "ecd0f13d3b1c99c07b7a5be9945e2494",
+    "description": "Игристое белое вино с лёгкой сладостью, фруктовым ароматом и мягкими пузырьками.",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": true,
+    "images": [
+      {
+        "url": "https://imageproxy.wolt.com/assets/688b9bfdb2b18bf1da537494",
+        "blurhash": "LOSr}+j[?^kC%MfQIUj[t7fQRja|"
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": false,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "Undurraga Вино Игристое Белое Полусухое Undurraga Demi-Sec",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 819000,
+    "product_hierarchy_tags": [
+      "WINE",
+      "ALCOHOL"
+    ],
+    "purchasable_balance": 1,
+    "restrictions": [
+      {
+        "type": "alcohol",
+        "age_limit": 21
+      }
+    ],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": true,
+    "tags": [],
+    "unit_info": "750 мл",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 1092000,
+      "unit": "litre"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 12,
+    "vat_percentage_decimal": "12.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    }
+  },
+  {
+    "id": "d8708b3e866cd64bdd98c5f5",
+    "advertising_info": null,
+    "alcohol_permille": 115,
+    "allowed_delivery_methods": [
+      "eatin",
+      "takeaway",
+      "homedelivery"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 28800000,
+        "end_time": 81000000
+      }
+    ],
+    "barcode_gtin": "07804315000228",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "5079e84c8fd8fe62b1f357950ae61e1f",
+    "description": "Чилийское игристое сухое белое вино с освежающей кислинкой.",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": true,
+    "images": [
+      {
+        "url": "https://imageproxy.wolt.com/assets/688b9b0e23fa16f725af9671",
+        "blurhash": "LRSY]hj[_NkC%MfQIUj[s:fQR*a|"
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": false,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "Undurraga Вино Игристое Белое Сухое Undurraga Brut",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 737000,
+    "product_hierarchy_tags": [
+      "WINE",
+      "ALCOHOL"
+    ],
+    "purchasable_balance": 10,
+    "restrictions": [
+      {
+        "type": "alcohol",
+        "age_limit": 21
+      }
+    ],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": false,
+    "tags": [],
+    "unit_info": "750 мл",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 982667,
+      "unit": "litre"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 12,
+    "vat_percentage_decimal": "12.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    }
+  },
+  {
+    "id": "d50c71f0a4aec9991f205db7",
+    "advertising_info": null,
+    "alcohol_permille": 115,
+    "allowed_delivery_methods": [
+      "eatin",
+      "takeaway",
+      "homedelivery"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 28800000,
+        "end_time": 81000000
+      }
+    ],
+    "barcode_gtin": "07804315003656",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "d04bb57218bb7e1b162e846ecf062e2a",
+    "description": "Чилийское розовое игристое вино с освежающими ягодными нотками.",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": true,
+    "images": [
+      {
+        "url": "https://imageproxy.wolt.com/assets/688b9c3a23fa16f725afa909",
+        "blurhash": "LQSPU:j[_Nj[-;ayIUj[ofj[WBay"
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": false,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "Undurraga Вино игристое розовое сухое Undurraga Brut Rose",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 737000,
+    "product_hierarchy_tags": [
+      "WINE",
+      "ALCOHOL"
+    ],
+    "purchasable_balance": 3,
+    "restrictions": [
+      {
+        "type": "alcohol",
+        "age_limit": 21
+      }
+    ],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": true,
+    "tags": [],
+    "unit_info": "1 шт",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 737000,
+      "unit": "piece"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 12,
+    "vat_percentage_decimal": "12.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    }
+  },
+  {
+    "id": "a0efa9a32e49610af8af3800",
+    "advertising_info": null,
+    "alcohol_permille": 115,
+    "allowed_delivery_methods": [
+      "eatin",
+      "takeaway",
+      "homedelivery"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 28800000,
+        "end_time": 81000000
+      }
+    ],
+    "barcode_gtin": "08410261114002",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "dcf61c2f8c56f22ba9485acfbbc06374",
+    "description": "\"Pata Negra\" Brut — белое игристое вино, созданное из винограда сортов Макабео, Парельяда и Чарелло, которые произрастают на виноградниках, расположенных на вершине холма в Виланова и Ла Гелтру. Вторичная ферментация проходит в бутылках в погребах винодельни при температуре не выше 16 °С в тишине и темноте в течение 12 месяцев. Вино завоевало серебряную медаль на конкурсе \"International Wine and Spirit Competition, 2014\". Цвет: Игристое вино чистого соломенного цвета с легкими зелеными отражениями и стойким перляжем.\nАромат: Игристое вино обладает свежим, интенсивным ароматом с доминирующими оттенками белых фруктов и цветов. Вкус: Вкус вина освежающий, хорошо структурированный, с живой кислинкой и стойким послевкусием. Гастрономия: Вино прекрасно в качестве аперитива, хорошо сочетается с закусками, блюдами из морепродуктов.",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": true,
+    "images": [
+      {
+        "url": "https://imageproxy.wolt.com/assets/688b9badb2b18bf1da5368c3",
+        "blurhash": "LJS$lmof_4fRxuayRij[t8ayRij["
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": false,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "Вино Игристое Pata Negra Cava Brut Бел Сух 11,5% 0,75Л С/Б",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 498000,
+    "product_hierarchy_tags": [
+      "WINE",
+      "ALCOHOL"
+    ],
+    "purchasable_balance": 6,
+    "restrictions": [
+      {
+        "type": "alcohol",
+        "age_limit": 21
+      }
+    ],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": true,
+    "tags": [],
+    "unit_info": "750 мл",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 664000,
+      "unit": "litre"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 12,
+    "vat_percentage_decimal": "12.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    }
+  },
+  {
+    "id": "e843d17e211b1587cb32f868",
+    "advertising_info": null,
+    "alcohol_permille": 115,
+    "allowed_delivery_methods": [
+      "homedelivery",
+      "eatin",
+      "takeaway"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 28800000,
+        "end_time": 81000000
+      }
+    ],
+    "barcode_gtin": "08410261114026",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "0b973fbada2f9da31b7c9d972f10b1a8",
+    "description": "\"Pata Negra\" Semi-Seco, Cava DO - полусухое игристое вино, созданное из винограда сортов Макабео, Парельяда и Чарелло, произрастающих на виноградниках, расположенных на вершине холма в Виланово-и-Ла Гелтре. Вторичная ферментация проходит в бутылках в погребах винодельни при температуре не выше 16 °С в тишине и тьме и длится 12 месяцев. Вино завоевала серебряную медаль на конкурсе \"Berliner Wein Trophy, 2015\", серебряную медаль на конкурсе \"Challenge International du Vin-2013\" и серебряную медаль на конкурсе \"International Wine and Spirit Competition, 2014\".  Цвет: Игристое вино бледно-желтого цвета с легкими зеленоватыми отражениями и мелким перляжем. Аромат: Освежающий, интенсивный аромат игристого вина изобилует фруктовыми оттенками. Вкус: Вино демонстрирует мягкий, сбалансированный вкус с фруктовоминеральными оттенками и легкой кислинкой в послевкусии.\nГастрономия: Прекрасно в качестве аперитива, хорошо сочетается с закусками, блюдами из морепродуктов.",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": true,
+    "images": [
+      {
+        "url": "https://imageproxy.wolt.com/assets/688b9b7823fa16f725af9d09",
+        "blurhash": "LHS$lnj[_Nof%Mj[M{aytRj[RPay"
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": false,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "Вино Игристое Pata Negra Cava Semi Seco Бел П/Сух 11,5% 0,75Л С/Б",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 498000,
+    "product_hierarchy_tags": [
+      "WINE",
+      "ALCOHOL"
+    ],
+    "purchasable_balance": 19,
+    "restrictions": [
+      {
+        "type": "alcohol",
+        "age_limit": 21
+      }
+    ],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": false,
+    "tags": [],
+    "unit_info": "750 мл",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 664000,
+      "unit": "litre"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 12,
+    "vat_percentage_decimal": "12.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    }
+  },
+  {
+    "id": "c018b4a0d47f64f82a7bf102",
+    "advertising_info": null,
+    "alcohol_permille": 0,
+    "allowed_delivery_methods": [
+      "eatin",
+      "takeaway",
+      "homedelivery"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 28800000,
+        "end_time": 81000000
+      }
+    ],
+    "barcode_gtin": "08000570484004",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "43205f41f351fa16b86f00682d847ff6",
+    "description": "“Martini” Rose  — полусухое розовое игристое вино, демонстрирующее элегантный, фруктово-цитрусовый вкус и аромат. В его производстве используется отборный виноград, собранный с виноградников северной Италии и Пьемонта. Ферментация сусла проводится со строго контролируемой температурой. Потенциал игристого вина “Мартини” Розе составляет 2-4 года. Полусухое игристое вино создано вместе с Энрике Бернардо-лучшим сомелье мира. Искращийся розовый цвет получен в результате купажа белых и красных сортов винограда(Мальвазия,Брачетто,Мускат и другие), выращенного и собранного вручную в Пьемонте и Венето. Цвет: Розового цвета. Вкус: Обладает ярко выраженным фруктово-ягодным вкусом. Аромат: Вино наполнено тонами цитрусовых фруктов, спелого персика и нотками бузины. Гастрономическое сочетание: Рекомендуют употреблять с легкими сортами сыров и рыбними блюдами. Идеально сочетается ягодами:клубникой, малиной, крыжовником.",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": true,
+    "images": [
+      {
+        "url": "https://imageproxy.wolt.com/assets/688b9f14a3eb62eeb95c5152",
+        "blurhash": "LNSiaAj[_Nof%gfQIUayxufQM{a|"
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": true,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "Вино Игристое Martini Rose 0.75 Л. Ст/Б",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 770000,
+    "product_hierarchy_tags": [
+      "WINE",
+      "ALCOHOL"
+    ],
+    "purchasable_balance": 7,
+    "restrictions": [
+      {
+        "type": "age_restricted",
+        "age_limit": 21
+      }
+    ],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": true,
+    "tags": [],
+    "unit_info": "750 мл",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 1026667,
+      "unit": "litre"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 12,
+    "vat_percentage_decimal": "12.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    }
+  },
+  {
+    "id": "a7d568b2f15a1aa408991dea",
+    "advertising_info": null,
+    "alcohol_permille": 55,
+    "allowed_delivery_methods": [
+      "eatin",
+      "takeaway",
+      "homedelivery"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 28800000,
+        "end_time": 81000000
+      }
+    ],
+    "barcode_gtin": "08052278320399",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "a854e1259a118d617fb43ba3b15f140a",
+    "description": "Оригинальный рецепт Беллини, приготовленный в \n Harry’s Bar самим Джузеппе Чиприани вдохновителем \n нашего бренда, в Венеции 1948 год, является результатом \n тщательного баланса игристого вина брют и нектара из \n средиземноморского белого персика. Наш коктейль \n Беллини названный в честь Венецианского живописца \n Джованни Беллини, в бутылках предлагает гармонию \n сухого и фруктового вкусов, и между интенсивностью и \n свежестью, коктейль позволяет прикоснуться к \n историческому вкусу оригинального рецепта от Cipriani",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": true,
+    "images": [
+      {
+        "url": "https://imageproxy.wolt.com/assets/688b9d4123fa16f725afb82e",
+        "blurhash": "LES$r*ay~Dxu%2j[NGWV%2j[IoWB"
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": false,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": 5,
+    "min_quantity_per_purchase": null,
+    "name": "Алкогольный Коктейль Bellini 5.5% 0.75Л",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 1228000,
+    "product_hierarchy_tags": [
+      "ALCOHOL"
+    ],
+    "purchasable_balance": 22,
+    "restrictions": [
+      {
+        "type": "alcohol",
+        "age_limit": 21
+      }
+    ],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": false,
+    "tags": [],
+    "unit_info": "750 мл",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 1637333,
+      "unit": "litre"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 12,
+    "vat_percentage_decimal": "12.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    }
+  },
+  {
+    "id": "173afa291e74fe3edb4dce56",
+    "advertising_info": null,
+    "alcohol_permille": 120,
+    "allowed_delivery_methods": [
+      "homedelivery",
+      "takeaway",
+      "eatin"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 28800000,
+        "end_time": 81000000
+      }
+    ],
+    "barcode_gtin": "08052278325547",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "51da5d71015599495666811eadbe337d",
+    "description": "Rose Brut millesimato – рождается из сочетания сортов винограда Пино Нуар и Шардоне, сложный \n характер и структура заключенные в гармоничном аромате, в котором угадываются ягоды земляники, малины и \n смородины, цитрусовые фрукты и легкие оттенки хлебной корочки, вкус нашего Rose, элегантный и приятно \n стойкий, на рецепторах рассыпается вкусовой букет красных ягод, завершающийся долгоиграющей \n цитрусовой кислинкой.",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": true,
+    "images": [
+      {
+        "url": "https://imageproxy.wolt.com/assets/688b9a1723fa16f725af89cf",
+        "blurhash": "LDS?DUjZ_4xux]j[M{axtlfkR5ae"
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": false,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "Игристое Вино Cipriani Rose Brut Millesimato 12% 0.75Л",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 1325000,
+    "product_hierarchy_tags": [
+      "WINE",
+      "ALCOHOL"
+    ],
+    "purchasable_balance": 4,
+    "restrictions": [
+      {
+        "type": "alcohol",
+        "age_limit": 21
+      }
+    ],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": true,
+    "tags": [],
+    "unit_info": "750 мл",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 1766667,
+      "unit": "litre"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 12,
+    "vat_percentage_decimal": "12.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    }
+  },
+  {
+    "id": "946c04903c6f90ac8115ce66",
+    "advertising_info": null,
+    "alcohol_permille": 0,
+    "allowed_delivery_methods": [
+      "homedelivery",
+      "eatin",
+      "takeaway"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 28800000,
+        "end_time": 81000000
+      }
+    ],
+    "barcode_gtin": "08410261151007",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "4fe038730c40a66dfc447880f38863a5",
+    "description": "Don Simon Sangria — это лучшая на вкус комбинация красного вина и свежевыжатого фруктового сока.\nБодрые, яркие, сладкие красные ягоды смешиваются с соками лимонов, лаймов и апельсинов. Цвет: Сангрия прозрачного красно-гранатового цвета. Аромат: Легкий аромат Сангрии раскрывается фруктовыми и пряными оттенками. Вкус: Сангрия имеет мягкий, гармоничный вкус с легкими фруктовыми нюансами и приятным послевкусием. Сангрия пьется в чистом виде, со льдом или в коктейлях как доминирующий ингредиент.",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": true,
+    "images": [
+      {
+        "url": "https://imageproxy.wolt.com/assets/688b9e01a3eb62eeb95c46ad",
+        "blurhash": "LHS$lnj[_Nt7xafQR*a}x]fkM_f6"
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": true,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "Вино Don Simon Sangria Кр П/Сл 7% 0,75Л С/Б",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 286000,
+    "product_hierarchy_tags": [
+      "ALCOHOL"
+    ],
+    "purchasable_balance": 12,
+    "restrictions": [
+      {
+        "type": "age_restricted",
+        "age_limit": 21
+      }
+    ],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": false,
+    "tags": [],
+    "unit_info": "750 мл",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 381333,
+      "unit": "litre"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 12,
+    "vat_percentage_decimal": "12.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    }
+  },
+  {
+    "id": "73ecfe4081ca5471d6304e21",
+    "advertising_info": null,
+    "alcohol_permille": 196,
+    "allowed_delivery_methods": [
+      "homedelivery",
+      "takeaway",
+      "eatin"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 28800000,
+        "end_time": 81900000
+      }
+    ],
+    "barcode_gtin": "08809224170283",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "a30cceb45f761f9175665b6d7b132a78",
+    "description": "BOKBUNJA  удивительное вино – темно-красного цвета, с умеренно сладким вкусом, наполненное ароматом спелых ягод.",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": true,
+    "images": [
+      {
+        "url": "https://imageproxy.wolt.com/assets/6814aa7907957033a1b15502",
+        "blurhash": "LGS$lnj[_Nt7nkayoyoftlfkR5jZ"
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": false,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "Myungjak Bokbunja Вино из ежевики, бутылка 375 мл",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 838000,
+    "product_hierarchy_tags": [
+      "ALCOHOL",
+      "WINE"
+    ],
+    "purchasable_balance": 4,
+    "restrictions": [
+      {
+        "type": "alcohol",
+        "age_limit": 21
+      }
+    ],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": true,
+    "tags": [],
+    "unit_info": "375 мл",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 2234667,
+      "unit": "litre"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 12,
+    "vat_percentage_decimal": "12.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    }
+  },
+  {
+    "id": "a5b4ec95273c95f3f37e983d",
+    "advertising_info": null,
+    "alcohol_permille": 5,
+    "allowed_delivery_methods": [
+      "eatin",
+      "takeaway",
+      "homedelivery"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 28800000,
+        "end_time": 81000000
+      }
+    ],
+    "barcode_gtin": "03263280117555",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "f4b80d4c696563a2b377cc7a51792f10",
+    "description": "Безалкогольное розовое вино с насыщенным ароматом ягод и деликатной сладостью.",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": true,
+    "images": [
+      {
+        "url": "https://imageproxy.wolt.com/assets/688b9afd23fa16f725af9445",
+        "blurhash": "LES~q=oL?^ozt8fkadf6s;fQWAf6"
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": true,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "Vive La Vie Вино Сладкое Розовое Безалкогольное 0.75",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 597000,
+    "product_hierarchy_tags": [],
+    "purchasable_balance": 1,
+    "restrictions": [
+      {
+        "type": "age_restricted",
+        "age_limit": 21
+      }
+    ],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": true,
+    "tags": [],
+    "unit_info": "750 мл",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 796000,
+      "unit": "litre"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 12,
+    "vat_percentage_decimal": "12.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    }
+  },
+  {
+    "id": "d3268e35be319ab0ecde29e6",
+    "advertising_info": null,
+    "alcohol_permille": 5,
+    "allowed_delivery_methods": [
+      "eatin",
+      "takeaway",
+      "homedelivery"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 28800000,
+        "end_time": 81000000
+      }
+    ],
+    "barcode_gtin": "03263280117548",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "fb2c8ae42fb1f3f7c969fbe863834387",
+    "description": "Безалкогольное белое сладкое вино с ароматом тропических фруктов.",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": true,
+    "images": [
+      {
+        "url": "https://imageproxy.wolt.com/assets/688b9b4cb2b18bf1da536344",
+        "blurhash": "LUSPb0j[_4j[xufQM{fRkCfQaej["
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": true,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "Vive La Vie Вино Сладкое Белое Безалкогольное 0.75",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 730000,
+    "product_hierarchy_tags": [],
+    "purchasable_balance": 16,
+    "restrictions": [
+      {
+        "type": "age_restricted",
+        "age_limit": 21
+      }
+    ],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": false,
+    "tags": [],
+    "unit_info": "750 мл",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 973333,
+      "unit": "litre"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 12,
+    "vat_percentage_decimal": "12.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    }
+  },
+  {
+    "id": "ccbc7dfd84c4c29955874975",
+    "advertising_info": null,
+    "alcohol_permille": 5,
+    "allowed_delivery_methods": [
+      "eatin",
+      "takeaway",
+      "homedelivery"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 28800000,
+        "end_time": 81000000
+      }
+    ],
+    "barcode_gtin": "03263280117562",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "f47d73aaf6fda82552aaf176dcb153db",
+    "description": "Французское сладкое красное безалкогольное вино с нотками темных ягод.",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": true,
+    "images": [
+      {
+        "url": "https://imageproxy.wolt.com/assets/688b9afc23fa16f725af9426",
+        "blurhash": "LSSF;Lj[~qj[xufQM{j[offQWBj["
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": true,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "Vive La Vie Вино Сладкое Красное Безалкогольное 0.75",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 597000,
+    "product_hierarchy_tags": [],
+    "purchasable_balance": 1,
+    "restrictions": [
+      {
+        "type": "age_restricted",
+        "age_limit": 21
+      }
+    ],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": true,
+    "tags": [],
+    "unit_info": "750 мл",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 796000,
+      "unit": "litre"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 12,
+    "vat_percentage_decimal": "12.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    }
+  }
+]

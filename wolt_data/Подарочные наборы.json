@@ -1,0 +1,452 @@
+[
+  {
+    "id": "9d2974804831a0c95549b546",
+    "advertising_info": null,
+    "alcohol_permille": 0,
+    "allowed_delivery_methods": [
+      "homedelivery",
+      "eatin",
+      "takeaway"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 0,
+        "end_time": 86400000
+      }
+    ],
+    "barcode_gtin": "08006530022668",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "6a49ab85274b942eb5392e1809f5c781",
+    "description": "Откройте для себя коллекцию Pantene Pro-V Интенсивное Восстановление, незаменимый помощник в ежедневном уходе за волосами. Мягкая формула шампуня с PRO-V и технологией ACTIVE NUTRI-PLEX очищает волосы, наполняя их необходимыми питательными веществами. При использовании в комплексе с нашим бальзамом-ополаскивателем помогает восстановить* волосы, избавив от таких признаков повреждений, как отсутствие гладкости и блеска, и одновременно укрепляя** волосы изнутри. Бальзам-ополаскиватель для ежедневного применения создает ощущение легкости и не придает волосам жирный вид. Наполните волосы уникальной смесью PRO-V, мощной комбинацией провитамина B5, укрепляющих липидов и защитных антиоксидантов. Наша усовершенствованная формула с технологией ACTIVE NUTRI-PLEX, содержащая на 50 % больше веществ* для защиты связей в структуре волос, помогает восстановить** волосы изнутри и придать им здоровый вид. Протестировано Швейцарским Институтом Витаминов. * По сравнению с предыдущей формулой ** Поверхностные повреждения волос.",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": true,
+    "images": [
+      {
+        "url": "https://imageproxy.wolt.com/assets/6900c3f71c0a709b441415c3",
+        "blurhash": "LlRCuXWB?wt7j]WBjsogofjsayWV"
+      },
+      {
+        "url": "https://imageproxy.wolt.com/assets/6900c3f71c0a709b441415c4",
+        "blurhash": "L*P?gkM{_4%gogayWBj[s:oeWVWC"
+      },
+      {
+        "url": "https://imageproxy.wolt.com/assets/6900c3f71c0a709b441415c5",
+        "blurhash": "LtRV,@WB?wt7kCayjZkCj]j[f6WB"
+      },
+      {
+        "url": "https://imageproxy.wolt.com/assets/6900c3f71c0a709b441415c6",
+        "blurhash": "LuRV:}j[?wj]aeofofV@ofaxWBof"
+      },
+      {
+        "url": "https://imageproxy.wolt.com/assets/6900c3f71c0a709b441415c7",
+        "blurhash": "LqQl|8V[_4xuWBt7ofIooff6WCj]"
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": true,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "Набор для волос женский Pantene Шампунь и Бальзам Интенсивное восстановление 250 мл + 180 мл",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 280000,
+    "product_hierarchy_tags": [
+      "UNKNOWN"
+    ],
+    "purchasable_balance": 8,
+    "restrictions": [],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": false,
+    "tags": [],
+    "unit_info": "1 шт",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 280000,
+      "unit": "piece"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 12,
+    "vat_percentage_decimal": "12.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    }
+  },
+  {
+    "id": "7bb7f928ba621c66cf323875",
+    "advertising_info": null,
+    "alcohol_permille": 0,
+    "allowed_delivery_methods": [
+      "homedelivery",
+      "eatin",
+      "takeaway"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 0,
+        "end_time": 86400000
+      }
+    ],
+    "barcode_gtin": "08006530022606",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "cac89965cf135a8c340557010bbb420b",
+    "description": "Откройте для себя коллекцию Pantene Pro-V Aqualight, идеальный источник питания волос, обеспечивающий их защиту. Мягкая формула шампуня с PRO-V и технологией ACTIVE NUTRI-PLEX очищает волосы, наполняя их необходимыми питательными веществами. При использовании в комплексе с бальзамом-ополаскивателем помогает укрепить и напитать тонкие волосы, не утяжеляя их. Бальзам-ополаскиватель на каждый день придает тонким волосам более здоровый вид. Наполните волосы уникальной смесью PRO-V, мощной комбинацией провитамина B5, укрепляющих липидов и защитных антиоксидантов. Наша усовершенствованная формула с технологией ACTIVE NUTRI-PLEX, содержащая на 50 % больше веществ* для защиты связей в структуре волос, помогает укрепить и напитать тонкие волосы, не утяжеляя их. Протестировано Швейцарским Институтом Витаминов. * По сравнению с предыдущей формулой.",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": true,
+    "images": [
+      {
+        "url": "https://imageproxy.wolt.com/assets/6900c6c38f1984061e6053f5",
+        "blurhash": "LaQT4HNH~q%1S*Rjs+xtxaaxR*of"
+      },
+      {
+        "url": "https://imageproxy.wolt.com/assets/6900c6c38f1984061e6053f6",
+        "blurhash": "LlQv%fbI~XoIR:jss+bIV@j[ozae"
+      },
+      {
+        "url": "https://imageproxy.wolt.com/assets/6900c6c38f1984061e6053f7",
+        "blurhash": "LsQJr}js~Wf,xCoeR.R+t7WVV@of"
+      },
+      {
+        "url": "https://imageproxy.wolt.com/assets/6900c6c38f1984061e6053f8",
+        "blurhash": "LuPGgMR5~q%#bwaxaKflt6ofWBWB"
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": true,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "Набор для волос женский Pantene Шампунь и Бальзам Aqualight 250 мл + 180 мл",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 280000,
+    "product_hierarchy_tags": [
+      "UNKNOWN"
+    ],
+    "purchasable_balance": 4,
+    "restrictions": [],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": true,
+    "tags": [],
+    "unit_info": "1 шт",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 280000,
+      "unit": "piece"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 12,
+    "vat_percentage_decimal": "12.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    }
+  },
+  {
+    "id": "5ba503977814173ef56c0995",
+    "advertising_info": null,
+    "alcohol_permille": 0,
+    "allowed_delivery_methods": [
+      "homedelivery",
+      "eatin",
+      "takeaway"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 0,
+        "end_time": 86400000
+      }
+    ],
+    "barcode_gtin": "08006530022538",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "2d620da7740cc2531db81c364a388cf9",
+    "description": "Откройте для себя коллекцию Pantene Pro-V Интенсивное Восстановление, незаменимый помощник в ежедневном уходе за волосами. Мягкая формула шампуня с PRO-V и технологией ACTIVE NUTRI-PLEX очищает волосы, наполняя их необходимыми питательными веществами. При использовании в комплексе с нашим бальзамом-ополаскивателем помогает восстановить* волосы, избавив от таких признаков повреждений, как отсутствие гладкости и блеска, и одновременно укрепляя** волосы изнутри. Бальзам-ополаскиватель для ежедневного применения создает ощущение легкости и не придает волосам жирный вид. Наполните волосы уникальной смесью PRO-V, мощной комбинацией провитамина B5, укрепляющих липидов и защитных антиоксидантов. Наша усовершенствованная формула с технологией ACTIVE NUTRI-PLEX, содержащая на 50 % больше веществ* для защиты связей в структуре волос, помогает восстановить** волосы изнутри и придать им здоровый вид. Протестировано Швейцарским Институтом Витаминов. * По сравнению с предыдущей формулой ** Поверхностные повреждения волос. Маска для волос Pantene Интенсивное Восстановление Защита Кератина с клинически доказанным свойством восстанавливать повреждения от укладки всего за одно применения разработана с использованием питательных веществ и тщательно протестирована Швейцарским Институтом Витаминов. Маска обесаечивает беспрецедентную эффективность восстановления и содержит на 50 % больше веществ* для защиты связей в структуре волос, обеспечивая укрепление волос от корней до кончиков. Даже самые сухие и поврежденные волосы будут выглядеть сильными** и напитанными. * Поверхностные повреждения волос ** По сравнению с предыдущей формулой *** Устойчивость к повреждениям при укладке.",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": true,
+    "images": [
+      {
+        "url": "https://imageproxy.wolt.com/assets/6900c7528f1984061e60548d",
+        "blurhash": "L$QvdsRj?wxuflf6jsfkR%fRogjt"
+      },
+      {
+        "url": "https://imageproxy.wolt.com/assets/6900c7528f1984061e60548e",
+        "blurhash": "L$Qvajj[?wjZkDf6f5j[M{fPt8fk"
+      },
+      {
+        "url": "https://imageproxy.wolt.com/assets/6900c7528f1984061e60548f",
+        "blurhash": "L-Q]f+ae?wo#f6fPj]azj=aya~j["
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": true,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "Набор для волос женский Pantene Шампунь, Бальзам и Маска Интенсивное Восстановление 250 мл + 180 мл + 300 мл",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 480000,
+    "product_hierarchy_tags": [
+      "UNKNOWN"
+    ],
+    "purchasable_balance": 3,
+    "restrictions": [],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": true,
+    "tags": [],
+    "unit_info": "1 шт",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 480000,
+      "unit": "piece"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 12,
+    "vat_percentage_decimal": "12.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    }
+  },
+  {
+    "id": "4f1372c7547c66e6d512b03f",
+    "advertising_info": null,
+    "alcohol_permille": 0,
+    "allowed_delivery_methods": [
+      "homedelivery",
+      "eatin",
+      "takeaway"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 0,
+        "end_time": 86400000
+      }
+    ],
+    "barcode_gtin": "08700216588812",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "9d76050737c797f00e0f64203a937203",
+    "description": "Набор для женщин с бритвой Gillette Venus Smooth и гелем для бритья Satin care, 75мл.\n\nПреимущества\n• Женская бритва Gillette Venus Smooth подарит коже невероятную гладкость\n• Три острых хромированных лезвия обеспечивают еще более гладкое и чистое бритье одним движением (по сравнению с Simply Venus 2)\n• Лезвия бритвенного станка Gillette Venus Smooth срезают волоски максимально близко к корню, продлевая гладкость кожи\n• Специальная смазывающая полоска с алоэ обеспечивает комфортное бритье и улучшает скольжение бритвы\n• Голубая полоска-индикатор, меняя цвет, показывает, когда пора менять лезвия\n• Гель для бритья Satin Care Aloe Vera Glide создан специально для чувствительной кожи\n• Гель с тонким ароматом обеспечивает лучшее скольжение бритвы, чтобы помочь защитить чувствительную кожу от раздражения\n\nКомплектация: Gillette Venus Smooth с 1 сменной кассетой, гель для бритья Satin care, 75мл.",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": true,
+    "images": [
+      {
+        "url": "https://imageproxy.wolt.com/assets/6900c8a2b6c62ee7dd10d38a",
+        "blurhash": "LwO;D4NG~WxuE1jZxua}Rjs:ofRk"
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": true,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "Женский набор Gillette Venus с бритвой Venus Smooth и гелем для бритья Satin Care 75мл",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 440000,
+    "product_hierarchy_tags": [
+      "UNKNOWN"
+    ],
+    "purchasable_balance": 7,
+    "restrictions": [],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": true,
+    "tags": [],
+    "unit_info": "1 шт",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 440000,
+      "unit": "piece"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 12,
+    "vat_percentage_decimal": "12.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    }
+  },
+  {
+    "id": "21510d4d7989a5b6fd285671",
+    "advertising_info": null,
+    "alcohol_permille": 0,
+    "allowed_delivery_methods": [
+      "homedelivery",
+      "eatin",
+      "takeaway"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 0,
+        "end_time": 86400000
+      }
+    ],
+    "barcode_gtin": "08006530107617",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "74e47a3143f7e02668efe64d4588350f",
+    "description": "Набор для женщин с бритвой Gillette Venus Smooth и заколка для волос.\n\nПреимущества\n• Женская бритва Gillette Venus Smooth подарит коже невероятную гладкость\n• Три острых хромированных лезвия обеспечивают еще более гладкое и чистое бритье одним движением (по сравнению с Simply Venus 2)\n• Лезвия бритвенного станка Gillette Venus Smooth срезают волоски максимально близко к корню, продлевая гладкость кожи\n• Специальная смазывающая полоска с алоэ обеспечивает комфортное бритье и улучшает скольжение бритвы\n• Голубая полоска-индикатор, меняя цвет, показывает, когда пора менять лезвия\n• Трендовая заколка для волос\n\nКомплектация: Gillette Venus Smooth с 1 сменной кассетой, заколка для волос",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": true,
+    "images": [
+      {
+        "url": "https://imageproxy.wolt.com/assets/6900c8fbb6c62ee7dd10d3a4",
+        "blurhash": "L*OX2fRj~WxuIVayxtj]jFs:X8R*"
+      },
+      {
+        "url": "https://imageproxy.wolt.com/assets/6900c8fbb6c62ee7dd10d3a5",
+        "blurhash": "L~ON:*n$~BX9ShbHoJjYxZayR*oL"
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": true,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "Женский набор Gillette Venus с бритвой Venus Smooth и заколкой для волос",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 440000,
+    "product_hierarchy_tags": [
+      "UNKNOWN"
+    ],
+    "purchasable_balance": 7,
+    "restrictions": [],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": true,
+    "tags": [],
+    "unit_info": "1 шт",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 440000,
+      "unit": "piece"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 12,
+    "vat_percentage_decimal": "12.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    }
+  }
+]

@@ -1,0 +1,661 @@
+[
+  {
+    "id": "7a818c229bb7babd0a9116ad",
+    "advertising_info": null,
+    "alcohol_permille": 0,
+    "allowed_delivery_methods": [
+      "eatin",
+      "takeaway",
+      "homedelivery"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 0,
+        "end_time": 86400000
+      }
+    ],
+    "barcode_gtin": "05900516690434",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "abe792395ab481f8bbed2a671d3f60cd",
+    "description": "Урологические прокладки предназначены для женщин при легкой и средней степени недержания. Seni Lady - это идеальное решение для женщин, ведущих активный образ жизни, ценящих комфорт и безопасность.\n\nВпитываемость 5 капли: 650 мл.\n\n«Дышащие» урологические прокладки Seni Lady созданы специально для женщин, которые ценят удобство, комфорт и ведут активный образ жизни. Прокладки обеспечивают надежную защиту и незаметны под одеждой.",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": true,
+    "images": [
+      {
+        "url": "https://imageproxy.wolt.com/assets/6888c305a3eb62eeb956aa55",
+        "blurhash": "LhRMGFnj_LXSx@a}RRj?.QbHIBnj"
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": true,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "Урологические Прокладки Super Seni Lady 15Шт",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 299000,
+    "product_hierarchy_tags": [
+      "UNKNOWN",
+      "OVER_THE_COUNTER"
+    ],
+    "purchasable_balance": 7,
+    "restrictions": [],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": true,
+    "tags": [],
+    "unit_info": "15 шт",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 19933,
+      "unit": "piece"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 12,
+    "vat_percentage_decimal": "12.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    }
+  },
+  {
+    "id": "37a40bb01651e7443cd99616",
+    "advertising_info": null,
+    "alcohol_permille": 0,
+    "allowed_delivery_methods": [
+      "eatin",
+      "takeaway",
+      "homedelivery"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 0,
+        "end_time": 86400000
+      }
+    ],
+    "barcode_gtin": "05900516691172",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "87e64cdee58a731ee57c7aaafc1d975b",
+    "description": "Современные подгузники Super Seni предназначены для людей, страдающих тяжелыми формами недержания. В подгузниках наружный слой состоит из пропускающего воздух материала, который позволяет коже свободно дышать во время использования подгузника. Это гарантирует высокий комфорт и является профилактикой возникновения раздражений и пролежней. Благодаря очень высокой впитываемости подгузники идеальны для применения в случае длительных перерывов между очередной сменой, особенно в ночное время.",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": true,
+    "images": [
+      {
+        "url": "https://imageproxy.wolt.com/assets/688b9b0c23fa16f725af9651",
+        "blurhash": "LeQv|6R-~BxZ={oeEMRkxaoLRkR+"
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": true,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "Подгузники Для Взрослых Super Seni Small 10Шт",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 457000,
+    "product_hierarchy_tags": [
+      "UNKNOWN"
+    ],
+    "purchasable_balance": 4,
+    "restrictions": [],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": true,
+    "tags": [],
+    "unit_info": "10 шт",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 45700,
+      "unit": "piece"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 12,
+    "vat_percentage_decimal": "12.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    }
+  },
+  {
+    "id": "6ecd99ffc9221e5bb051100c",
+    "advertising_info": null,
+    "alcohol_permille": 0,
+    "allowed_delivery_methods": [
+      "homedelivery",
+      "takeaway",
+      "eatin"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 0,
+        "end_time": 86400000
+      }
+    ],
+    "barcode_gtin": "05900516699543",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "d403f72d61c069b7369d9a43fed73a2a",
+    "description": "Современные подгузники Super Seni предназначены для людей, страдающих тяжелыми формами недержания. В подгузниках наружный слой состоит из пропускающего воздух материала, который позволяет коже свободно дышать во время использования подгузника. Это гарантирует высокий комфорт и является профилактикой возникновения раздражений и пролежней. Благодаря очень высокой впитываемости подгузники идеальны для применения в случае длительных перерывов между очередной сменой, особенно в ночное время.",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": true,
+    "images": [
+      {
+        "url": "https://imageproxy.wolt.com/assets/688b9b2323fa16f725af99ba",
+        "blurhash": "LtQA5KWX~pxYxsj@NIWDxuoKNGWW"
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": true,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "Подгузн.Для Взр. Super Seni Large   10 Шт.Россия",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 637500,
+    "product_hierarchy_tags": [
+      "UNKNOWN"
+    ],
+    "purchasable_balance": 3,
+    "restrictions": [],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": true,
+    "tags": [],
+    "unit_info": "10 шт",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 63750,
+      "unit": "piece"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 12,
+    "vat_percentage_decimal": "12.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    }
+  },
+  {
+    "id": "35d1ea5fcd05b4700db59ab3",
+    "advertising_info": null,
+    "alcohol_permille": 0,
+    "allowed_delivery_methods": [
+      "homedelivery",
+      "takeaway",
+      "eatin"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 0,
+        "end_time": 86400000
+      }
+    ],
+    "barcode_gtin": "05900516699536",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "259b9eed17fc97d2c430cda02781e1c5",
+    "description": "Современные подгузники Super Seni предназначены для людей, страдающих тяжелыми формами недержания. В подгузниках наружный слой состоит из пропускающего воздух материала, который позволяет коже свободно дышать во время использования подгузника. Это гарантирует высокий комфорт и является профилактикой возникновения раздражений и пролежней. Благодаря очень высокой впитываемости подгузники идеальны для применения в случае длительных перерывов между очередной сменой, особенно в ночное время.",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": true,
+    "images": [
+      {
+        "url": "https://imageproxy.wolt.com/assets/688b9a31b2b18bf1da535275",
+        "blurhash": "LlQ,amWB~Ut7$|fjI@ay%2j[M|WV"
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": true,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "Super Seni Подгузники для взрослых Medium, 10 шт",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 595000,
+    "product_hierarchy_tags": [
+      "UNKNOWN"
+    ],
+    "purchasable_balance": 12,
+    "restrictions": [],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": false,
+    "tags": [],
+    "unit_info": "10 шт",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 59500,
+      "unit": "piece"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 12,
+    "vat_percentage_decimal": "12.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    }
+  },
+  {
+    "id": "1d1ae252975e834ccf92669c",
+    "advertising_info": null,
+    "alcohol_permille": 0,
+    "allowed_delivery_methods": [
+      "eatin",
+      "takeaway",
+      "homedelivery"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 0,
+        "end_time": 86400000
+      }
+    ],
+    "barcode_gtin": "05900516698515",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "6eb22303ac5ce209568827b9ab1b4d9f",
+    "description": "впитывающий внутренний слой из распушенной целлюлозы\nмягкая поверхность из нетканого материала приятная на ощупь и обеспечивает комфорт во время использования\nвнешний изолирующий слой из противоскользящей пленки защищает от протеканий и смещения пеленки по матрасу\nоптимально подходят для защиты постельного белья во время смены подгузника и проведения гигиенических процедур",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": true,
+    "images": [
+      {
+        "url": "https://imageproxy.wolt.com/assets/6888bab71f0cac713af62fed",
+        "blurhash": "LDSs88WV~W%2-;ofIUNG%Mj[M{WV"
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": true,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "Урологические Пеленки Seni Soft Basic 90X60Сm 10Шт",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 242500,
+    "product_hierarchy_tags": [
+      "UNKNOWN",
+      "OVER_THE_COUNTER"
+    ],
+    "purchasable_balance": 13,
+    "restrictions": [],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": false,
+    "tags": [],
+    "unit_info": "10 шт",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 24250,
+      "unit": "piece"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 12,
+    "vat_percentage_decimal": "12.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    }
+  },
+  {
+    "id": "50e3867154c051ef8fbd4b8e",
+    "advertising_info": null,
+    "alcohol_permille": 0,
+    "allowed_delivery_methods": [
+      "homedelivery",
+      "takeaway",
+      "eatin"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 0,
+        "end_time": 86400000
+      }
+    ],
+    "barcode_gtin": "05900516107369",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "9d0e8ab428ed318e6c461adcc82e385e",
+    "description": "Современные подгузники Super Seni предназначены для людей, страдающих тяжелыми формами недержания. В подгузниках наружный слой состоит из пропускающего воздух материала, который позволяет коже свободно дышать во время использования подгузника. Это гарантирует высокий комфорт и является профилактикой возникновения раздражений и пролежней. Благодаря очень высокой впитываемости подгузники идеальны для применения в случае длительных перерывов между очередной сменой, особенно в ночное время.",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": true,
+    "images": [
+      {
+        "url": "https://imageproxy.wolt.com/assets/67bc1f4f3b60946f71c9b225",
+        "blurhash": "LtQJo^WX~pxYxsj@NIWExuoKNGWW"
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": true,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "Подгузники Для Взрослых Super Seni Large 10Шт",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 595000,
+    "product_hierarchy_tags": [
+      "UNKNOWN"
+    ],
+    "purchasable_balance": 6,
+    "restrictions": [],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": true,
+    "tags": [],
+    "unit_info": "10 шт",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 59500,
+      "unit": "piece"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 12,
+    "vat_percentage_decimal": "12.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    }
+  },
+  {
+    "id": "a1b950fc4bc5ef91ff1509d8",
+    "advertising_info": null,
+    "alcohol_permille": 0,
+    "allowed_delivery_methods": [
+      "homedelivery",
+      "takeaway",
+      "eatin"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 0,
+        "end_time": 86400000
+      }
+    ],
+    "barcode_gtin": "04630038002354",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "a120fbab7d99025bac3ee77ad0e64da2",
+    "description": "Урологические прокладки TerezaLady Normal предназначены для легкой и средней степени недержания мочи. Производятся по технологии 3 Layer Core - три активных слоя для оптимального впитывания. Прокладки содержат суперабсорбент, который превращает жидкость в гель. Система Odour Dry System с помощью специальных антибактеральных добавок подавляет распространение запаха. Таким образом сохраняется нейтральный уровень рН кожного покрова.",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": true,
+    "images": [
+      {
+        "url": "https://imageproxy.wolt.com/assets/688b9ae5a3eb62eeb95c2918",
+        "blurhash": "LYR:E8of~qR%xbkBR$aM%fayIUoM"
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": true,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "Tereza Lady Normal Прокладки Урологические Одноразовые Уп.14",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 196500,
+    "product_hierarchy_tags": [
+      "UNKNOWN"
+    ],
+    "purchasable_balance": 9,
+    "restrictions": [],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": false,
+    "tags": [],
+    "unit_info": "14 шт",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 14036,
+      "unit": "piece"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 12,
+    "vat_percentage_decimal": "12.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    }
+  },
+  {
+    "id": "a925bbe58818d3515c2134ef",
+    "advertising_info": null,
+    "alcohol_permille": 0,
+    "allowed_delivery_methods": [
+      "eatin",
+      "takeaway",
+      "homedelivery"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 0,
+        "end_time": 86400000
+      }
+    ],
+    "barcode_gtin": "04680012390014",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "82126a058d87f9bffc48d5b0ed3479de",
+    "description": "Главными отличиями между разными видами тестов Evitest является способ забора мочи и комплектность составляющих самого прибора, что и обуславливает наличие тех или иных достоинств и недостатков.\nEvitest One состоит из одной тестовой полоски, на поверхность которой нанесен специальный реактив. Чтобы провести анализ, нужно собрать мочу в предварительно подготовленный чистый и сухой контейнер и опустить в него полоску, извлеченную из индивидуальной упаковки.",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": true,
+    "images": [
+      {
+        "url": "https://imageproxy.wolt.com/assets/6888bab71f0cac713af63010",
+        "blurhash": "LGS$cSWC?]xtofkCj[V[?]ofDjWB"
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": true,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "Еvitest One Экспресс-Тест Для Определения Беременности,  № 1 Шт",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 76000,
+    "product_hierarchy_tags": [
+      "UNKNOWN",
+      "OVER_THE_COUNTER"
+    ],
+    "purchasable_balance": 23,
+    "restrictions": [],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": false,
+    "tags": [],
+    "unit_info": "1 шт",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 76000,
+      "unit": "piece"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 12,
+    "vat_percentage_decimal": "12.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    }
+  }
+]

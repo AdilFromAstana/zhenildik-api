@@ -1,0 +1,402 @@
+[
+  {
+    "id": "6249a3fbb7f180a3233e2add",
+    "advertising_info": null,
+    "alcohol_permille": 0,
+    "allowed_delivery_methods": [
+      "eatin",
+      "takeaway",
+      "homedelivery"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 0,
+        "end_time": 86400000
+      }
+    ],
+    "barcode_gtin": "04607065715090",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "4bb692276d1b715077d2976b09e9d03a",
+    "description": "Здоровые снэки",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": true,
+    "images": [
+      {
+        "url": "https://imageproxy.wolt.com/assets/6888bf91a3eb62eeb9564cc8",
+        "blurhash": "LeRW3nWB~pt7WXfPoefkx]j[MxWB"
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": true,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "Чипсы цельнозер. кукуруз-рисов. с томатом и базиликом 0,05",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 49000,
+    "product_hierarchy_tags": [],
+    "purchasable_balance": 24,
+    "restrictions": [],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": false,
+    "tags": [],
+    "unit_info": "50 г",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 980000,
+      "unit": "kilogram"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 12,
+    "vat_percentage_decimal": "12.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    }
+  },
+  {
+    "id": "0cae137c2e8d346486ce0948",
+    "advertising_info": null,
+    "alcohol_permille": 0,
+    "allowed_delivery_methods": [
+      "eatin",
+      "takeaway",
+      "homedelivery"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 0,
+        "end_time": 86400000
+      }
+    ],
+    "barcode_gtin": "04607065715182",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "240b75cdf14ab5d2e686ab537e5d3ba0",
+    "description": "Здоровые снэки",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": true,
+    "images": [
+      {
+        "url": "https://imageproxy.wolt.com/assets/688b9903a3eb62eeb95c222c",
+        "blurhash": "L#R3K4ay_4ofRlazt6oJxvfQM{fQ"
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": true,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "Чипсы цельнозер. кукуруз-рисов. Начо сыр 0,05/28",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 54000,
+    "product_hierarchy_tags": [],
+    "purchasable_balance": 26,
+    "restrictions": [],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": false,
+    "tags": [],
+    "unit_info": "50 г",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 1080000,
+      "unit": "kilogram"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 12,
+    "vat_percentage_decimal": "12.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    }
+  },
+  {
+    "id": "81220459a68041e0868ddabf",
+    "advertising_info": null,
+    "alcohol_permille": 0,
+    "allowed_delivery_methods": [
+      "eatin",
+      "takeaway",
+      "homedelivery"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 0,
+        "end_time": 86400000
+      }
+    ],
+    "barcode_gtin": "04607065715656",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "6636218d318b93bfbb607a92b2ec1578",
+    "description": "Хрустящие кукурузно-рисовые чипсы с горошком и чечевицей – полезный перекус с натуральными ингредиентами.",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": true,
+    "images": [
+      {
+        "url": "https://imageproxy.wolt.com/assets/6888b8ef1f0cac713af5fb37",
+        "blurhash": "LqRMbxWU_4t7WCj[oyaxxvjuM{a{"
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": true,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "Dr.Korner Чипсы Кукурузно-Рисовые с Горошком и Чечевицей 50г",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 55000,
+    "product_hierarchy_tags": [],
+    "purchasable_balance": 9,
+    "restrictions": [],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": false,
+    "tags": [],
+    "unit_info": "50 г",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 1100000,
+      "unit": "kilogram"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 12,
+    "vat_percentage_decimal": "12.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    }
+  },
+  {
+    "id": "ba4617985edb08a4e409b37a",
+    "advertising_info": null,
+    "alcohol_permille": 0,
+    "allowed_delivery_methods": [
+      "eatin",
+      "takeaway",
+      "homedelivery"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 0,
+        "end_time": 86400000
+      }
+    ],
+    "barcode_gtin": "04607065715113",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "26437f19a43d352df821f214c1e9282d",
+    "description": "Здоровые снэки",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": true,
+    "images": [
+      {
+        "url": "https://imageproxy.wolt.com/assets/688b9acaa3eb62eeb95c2551",
+        "blurhash": "LzPs-Za}~poKWsjsoIbHNejZs+bH"
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": true,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": 5,
+    "min_quantity_per_purchase": null,
+    "name": "Чипсы цельнозер. кукуруз-рисов. с Сыром 0,05",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 53000,
+    "product_hierarchy_tags": [],
+    "purchasable_balance": 30,
+    "restrictions": [],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": false,
+    "tags": [],
+    "unit_info": "50 г",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 1060000,
+      "unit": "kilogram"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 12,
+    "vat_percentage_decimal": "12.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    }
+  },
+  {
+    "id": "a73b3ac6a3cf2f5c33ebe717",
+    "advertising_info": null,
+    "alcohol_permille": 0,
+    "allowed_delivery_methods": [
+      "eatin",
+      "takeaway",
+      "homedelivery"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 0,
+        "end_time": 86400000
+      }
+    ],
+    "barcode_gtin": "04600452022788",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "0158422f0d3ca39fd8dcc3ad65708e18",
+    "description": "Горький шоколад без сахара и с пребиотиками – идеальное лакомство для сторонников здорового и сбалансированного питания.\n\nШоколад с благородным немного терпким вкусом элитных какао-бобов с добавлением тертого кешью и дробленого фундука.\n\nO’Zera No sugar added Dark&Nuts – шоколад с уникальным составом:\n\n- без сахара,\n\n- с экстрактом стевии - полезным растительным подсластителем, имеющим нулевую калорийность.\n\n- с пребиотиками из корня цикория: инулином и олигофруктозой с низким гликемическим индексом, положительным воздействием на пищеварительную систему.\n\nВ шоколаде с полезным составом в 5 раз меньше углеводов, чем в классическом горьком шоколаде с содержанием какао 55%.\n\nO’Zera No sugar added Dark&Orange – польза и наслаждение в каждом шоколадном ломтике!",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": true,
+    "images": [
+      {
+        "url": "https://imageproxy.wolt.com/assets/688b9f15a3eb62eeb95c5184",
+        "blurhash": "LpRo~gj[_Nj[bYj[n,aykWfQaefj"
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": true,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "O'Zera No Sugar Added Dark&Nuts Горький Шоколад",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 81000,
+    "product_hierarchy_tags": [],
+    "purchasable_balance": 19,
+    "restrictions": [],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": false,
+    "tags": [],
+    "unit_info": "25 г",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 3240000,
+      "unit": "kilogram"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 12,
+    "vat_percentage_decimal": "12.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    }
+  }
+]

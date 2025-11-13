@@ -1,0 +1,1314 @@
+[
+  {
+    "id": "5eeae8e98270dee233a23ed0",
+    "advertising_info": null,
+    "alcohol_permille": 0,
+    "allowed_delivery_methods": [
+      "eatin",
+      "takeaway",
+      "homedelivery"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 0,
+        "end_time": 86400000
+      }
+    ],
+    "barcode_gtin": "07613287870681",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "edaaa84c3a19e616ca00b4010433b91e",
+    "description": "Эксперты Purina приготовили для кошек с избирательными предпочтениями коллекцию блюд-шедевров Гурмэ Перл с разнообразием вкусов, ароматов и текстур на каждый день. \nКорм для взрослых питомцев «Перл Нежное филе» — это вкуснейшие бережно приготовленные нежные кусочки в аппетитном соусе. Корм для кошек от Gourmet полнорационный, содержит все необходимые для здоровья микронутриенты. Влажный корм с богатой вкусовой палитрой не оставит равнодушным Вашего взыскательного гурмана.\n• Комбинация белков и углеводов обеспечивает энергией.\n• Восхитительное разнообразие вкусов: нежное филе с говядиной, лососем, уткой, индейкой, ягненком или кроликом \n• Клетчатка благотворно влияет на работу пищеварительной системы.\n• Влажные корма Gourmet не содержат искусственных ароматизаторов и консервантов.",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": true,
+    "images": [
+      {
+        "url": "https://imageproxy.wolt.com/assets/6888c02423fa16f725a9a491",
+        "blurhash": "LsRMPSj[?woKaxayj]j]s8bHX9f5"
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": true,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "Gourmet Perle Влажный корм соус с курицей, 75г",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 32000,
+    "product_hierarchy_tags": [
+      "UNKNOWN"
+    ],
+    "purchasable_balance": 34,
+    "restrictions": [],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": false,
+    "tags": [],
+    "unit_info": "1 шт",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 32000,
+      "unit": "piece"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 12,
+    "vat_percentage_decimal": "12.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    }
+  },
+  {
+    "id": "fa04646189e4cf6887c10c6c",
+    "advertising_info": null,
+    "alcohol_permille": 0,
+    "allowed_delivery_methods": [
+      "eatin",
+      "takeaway",
+      "homedelivery"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 0,
+        "end_time": 86400000
+      }
+    ],
+    "barcode_gtin": "04607065375249",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "c2830be3b0539831f8961cdf64fe274b",
+    "description": "Это сбалансированный рацион для здоровой и счастливой жизни Вашей кошки. Хрустящие подушечки с нежным паштетом внутри обязательно придутся по вкусу Вашей любимице. Кроме того, Whiskas® содержит все необходимое, чтобы еда Вашей кошки была не только вкусной, но и полезной. ",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": true,
+    "images": [
+      {
+        "url": "https://imageproxy.wolt.com/assets/6888bdb81f0cac713af650e8",
+        "blurhash": "LyRVhKob?]RRoLj?f%aztRj]V[aw"
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": true,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "Whiskas Сухой Корм Для Кошек С Курицей И Индейкой, 1.9Кг",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 571500,
+    "product_hierarchy_tags": [
+      "UNKNOWN"
+    ],
+    "purchasable_balance": 2,
+    "restrictions": [],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": true,
+    "tags": [],
+    "unit_info": "1,9 кг",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 300789,
+      "unit": "kilogram"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 12,
+    "vat_percentage_decimal": "12.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    }
+  },
+  {
+    "id": "ef13bb3007d658dd97dbe983",
+    "advertising_info": null,
+    "alcohol_permille": 0,
+    "allowed_delivery_methods": [
+      "homedelivery",
+      "takeaway",
+      "eatin"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 0,
+        "end_time": 86400000
+      }
+    ],
+    "barcode_gtin": "08445290140159",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "e412cebaa6b3eb643f102eab0e9d5afe",
+    "description": "Феликс Аппетитные кусочки — это совершенно особенный корм. У него такой аппетитный вид и аромат, словно Вы приготовили его сами. Каждый пакетик содержит нежные кусочки в сочном желе — вкуснятину, от которой кота за уши не оттащишь. Они такие же аппетитные на вкус, как и на вид! Корм является источником необходимых Омега-6 жирных кислот с правильным сочетанием минеральных веществ и витаминов, чтобы полностью удовлетворить ежедневные потребности Вашей кошки. Пожалуйста, следуйте рекомендациям по кормлению, указанным на упаковке.",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": true,
+    "images": [
+      {
+        "url": "https://imageproxy.wolt.com/assets/6888baa91f0cac713af62daa",
+        "blurhash": "LpR3QPj[~qbGn$juX8a{%2j[M|WV"
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": true,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": 5,
+    "min_quantity_per_purchase": null,
+    "name": "Felix Влажный корм аппетитные кусочки с индейкой в соусе, 75г",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 24500,
+    "product_hierarchy_tags": [
+      "UNKNOWN"
+    ],
+    "purchasable_balance": 35,
+    "restrictions": [],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": false,
+    "tags": [],
+    "unit_info": "75 г",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 326667,
+      "unit": "kilogram"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 12,
+    "vat_percentage_decimal": "12.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    }
+  },
+  {
+    "id": "f34aa327f4bc773e858bba0d",
+    "advertising_info": null,
+    "alcohol_permille": 0,
+    "allowed_delivery_methods": [
+      "homedelivery",
+      "takeaway",
+      "eatin"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 0,
+        "end_time": 86400000
+      }
+    ],
+    "barcode_gtin": "07613287160935",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "ce88e2838f9b26455b4d3e0e2d83de8c",
+    "description": "FELIX® Мясные ломтики – это нежные тонко нарезанные кусочки в умопомурррчительном соусе. Ваш кот не сможет устоять перед их аппетитным видом и насыщенным мясным вкусом! Мясные ломтики FELIX® такие вкусные, как будто Вы приготовили их сами!",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": true,
+    "images": [
+      {
+        "url": "https://imageproxy.wolt.com/assets/6888bcdea3eb62eeb956074e",
+        "blurhash": "L?Psx4a|~qofjZj[bHayt7j[R%ay"
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": true,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": 5,
+    "min_quantity_per_purchase": null,
+    "name": "Felix Мясные ломтики из говядины, 75г",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 24500,
+    "product_hierarchy_tags": [
+      "UNKNOWN"
+    ],
+    "purchasable_balance": 8,
+    "restrictions": [],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": false,
+    "tags": [],
+    "unit_info": "75 г",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 326667,
+      "unit": "kilogram"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 12,
+    "vat_percentage_decimal": "12.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    }
+  },
+  {
+    "id": "fe063c82eb61f9cea0f93c26",
+    "advertising_info": null,
+    "alcohol_permille": 0,
+    "allowed_delivery_methods": [
+      "homedelivery",
+      "eatin",
+      "takeaway"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 0,
+        "end_time": 86400000
+      }
+    ],
+    "barcode_gtin": "07613034275387",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "cef68c0fd97d5779b779f1010d1d372b",
+    "description": "Домашняя жизнь имеет свои особенности: спокойный размеренный режим способствует снижению активности, поэтому необходимы дополнительные меры, чтобы поддерживать жизненный тонус питомца. \nРазрабатывая высококачественные рационы Purina One для домашних питомцев, эксперты Purina создали сухой корм для кошек с учетом особых потребностей вашего любимца. \n• Сухой корм Purina One - полнорационный, в составе содержатся все необходимые питательные вещества.\n• Пребиотические свойства корня цикория налаживают работу ЖКТ, что уменьшает запах из лотка. \n• Рассчитанное соотношение белков и жиров помогает поддерживать оптимальный вес.\n• Клетчатка способствует выведению комочков шерсти из организма. \n• Сухие корма Purina One не содержат искусственных красителей, ароматизаторов и консервантов.\n• Индейка высокого качества - источник белка и отличного вкуса.",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": true,
+    "images": [
+      {
+        "url": "https://imageproxy.wolt.com/assets/6888b8f81f0cac713af5fcc2",
+        "blurhash": "LpKB%MOr~Xv~#XS~S0rrxWShn,s9"
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": true,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "Purina ONE Сухой корм для домашних кошек с индейкой и цельными злаками, 750г",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 335000,
+    "product_hierarchy_tags": [
+      "UNKNOWN"
+    ],
+    "purchasable_balance": 4,
+    "restrictions": [],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": true,
+    "tags": [],
+    "unit_info": "750 г",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 446667,
+      "unit": "kilogram"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 12,
+    "vat_percentage_decimal": "12.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    }
+  },
+  {
+    "id": "71fe5e6e41db4d5921574480",
+    "advertising_info": null,
+    "alcohol_permille": 0,
+    "allowed_delivery_methods": [
+      "homedelivery",
+      "eatin",
+      "takeaway"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 0,
+        "end_time": 86400000
+      }
+    ],
+    "barcode_gtin": "04607065002541",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "f961ca7fe1483d167905973e0c7bb506",
+    "description": "Это полезная и вкусная еда, приготовленная с учетом всех физиологических потребностей взрослых собак маленьких пород. Аппетитный сухой корм с говядиной обязательно подарит удовольствие Вашей собаке и даст ее организму все необходимые элементы: \n• Линолевую кислоту, цинк и витамины группы В для здоровья кожи и шерсти\n• Оптимальный уровень кальция для крепких зубов  \n• Высокоусвояемые ингредиенты и клетчатку для оптимального пищеварения\n• Витамин Е и цинк для поддержания иммунной системыКукуруза, мука из птицы, рис, пшеница, продукты животного происхождения, свекольный жом, мука говяжья, жир животный, подсолнечное масло, минералы, пивные дрожжи, витамины.Содержание питательных веществ (100 г): белок - 21 г; жир - 14 г; зола - 8,0 г; клетчатка - 3,0 г; кальций - 1,8 г; фосфор - 0,9 г; натрий - 0,3 г; калий - 0,58 г; магний - 0,1 г; цинк - 15 мг; медь 1,5 мг; витамин А - 1500 МЕ; витамин Е - 20 мг; витамин D3 - 120 МЕ. Энергетическая ценность (100 г): 365ккал  \\ 1527 кДж.",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": true,
+    "images": [
+      {
+        "url": "https://imageproxy.wolt.com/assets/688b98fea3eb62eeb95c2166",
+        "blurhash": "LxS$APahyZoujZa#fkj?tlkBRPe:"
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": true,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "Pedigree Сухой корм для взрослых собак маленьких пород с говядиной, 600г",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 153500,
+    "product_hierarchy_tags": [
+      "UNKNOWN"
+    ],
+    "purchasable_balance": 1,
+    "restrictions": [],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": true,
+    "tags": [],
+    "unit_info": "600 г",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 255833,
+      "unit": "kilogram"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 12,
+    "vat_percentage_decimal": "12.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    }
+  },
+  {
+    "id": "1a6281e99af80531d54a2be4",
+    "advertising_info": null,
+    "alcohol_permille": 0,
+    "allowed_delivery_methods": [
+      "homedelivery",
+      "eatin",
+      "takeaway"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 0,
+        "end_time": 86400000
+      }
+    ],
+    "barcode_gtin": "04607065002688",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "470ee917c92f71395894297f7fe8e014",
+    "description": "Это полезная и вкусная еда, приготовленная с учетом всех физиологических потребностей взрослых собак маленьких пород. Аппетитный сухой корм с говядиной обязательно подарит удовольствие Вашей собаке и даст ее организму все необходимые элементы:\n• Линолевую кислоту, цинк и витамины группы В для здоровья кожи и шерсти\n• Оптимальный уровень кальция для крепких зубов  \n• Высокоусвояемые ингредиенты и клетчатку для оптимального пищеварения\n• Витамин Е и цинк для поддержания иммунной системы\nКукуруза, мука из птицы, рис, пшеница, продукты животного происхождения, свекольный жом, мука говяжья, жир животный, подсолнечное масло, минералы, пивные дрожжи, витамины. Содержание питательных веществ (100 г): белок - 21 г; жир - 14 г; зола - 8,0 г; клетчатка - 3,0 г; кальций - 1,8 г; фосфор - 0,9 г; натрий - 0,3 г; калий - 0,58 г; магний - 0,1 г; цинк - 15 мг; медь 1,5 мг; витамин А - 1500 МЕ; витамин Е - 20 мг; витамин D3 - 120 МЕ. Энергетическая ценность (100 г): 365ккал / 1527 кДж.",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": true,
+    "images": [
+      {
+        "url": "https://imageproxy.wolt.com/assets/6888c03023fa16f725a9a76c",
+        "blurhash": "LuS$Gge;yZown%azbIoctSj[Vraf"
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": true,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "Pedigree Сухой корм для взрослых собак мелких пород с говядиной, 2.2кг",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 410400,
+    "product_hierarchy_tags": [
+      "UNKNOWN"
+    ],
+    "purchasable_balance": 1,
+    "restrictions": [],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": true,
+    "tags": [],
+    "unit_info": "2,2 кг",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 186545,
+      "unit": "kilogram"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 12,
+    "vat_percentage_decimal": "12.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    }
+  },
+  {
+    "id": "dff658660c72901f53a2baeb",
+    "advertising_info": null,
+    "alcohol_permille": 0,
+    "allowed_delivery_methods": [
+      "homedelivery",
+      "eatin",
+      "takeaway"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 0,
+        "end_time": 86400000
+      }
+    ],
+    "barcode_gtin": "04607065002633",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "8e24b3062ca5c76265a5f6e41f35a462",
+    "description": "Это полезная и вкусная еда, приготовленная с учетом всех физиологических потребностей взрослых собак всех пород. Аппетитный сухой корм с говядиной обязательно подарит удовольствие Вашей собаке и даст ее организму все необходимые элементы: \n• Линолевую кислоту, цинк и витамины группы В для здоровья кожи и шерсти\n• Оптимальный уровень кальция для крепких зубов  \n• Высокоусвояемые ингредиенты и клетчатку для оптимального пищеварения\n• Витамин Е и цинк для поддержания иммунной системыКукуруза, пшеница, мука из птицы, рис, продукты животного происхождения, свекольный жом, мука говяжья, подсолнечное масло, жир животный, минеральные вещества, пивные дрожжи, витамины.Содержание питальных веществ (100 г): белок - 22 г; жир - 11 г; зола - 8,0 г; клетчатка - 3,0 г; кальций 1,8 г; фосфор - 0,96 г; натрий - 0,3 г; калий - 58 г; магний - 0,1 г; цинк - 15 мг; витамин А - 1500 МЕ; витамин Е - 20 мг; витамин D3 - 120ME. Энергетическая ценность (100г): 335 Ккал \\ 1485 кДж",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": true,
+    "images": [
+      {
+        "url": "https://imageproxy.wolt.com/assets/6888c05223fa16f725a9af43",
+        "blurhash": "LqSiESf9%%oHoJWXa$s,tSbHRPjG"
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": true,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "Pedigree Сухой корм для взрослых собак всех пород с говядиной, 2.2кг",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 412000,
+    "product_hierarchy_tags": [
+      "UNKNOWN"
+    ],
+    "purchasable_balance": 3,
+    "restrictions": [],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": true,
+    "tags": [],
+    "unit_info": "2,2 кг",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 187273,
+      "unit": "kilogram"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 12,
+    "vat_percentage_decimal": "12.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    }
+  },
+  {
+    "id": "3f7da7d5e7c99c82c2d1b1d4",
+    "advertising_info": null,
+    "alcohol_permille": 0,
+    "allowed_delivery_methods": [
+      "homedelivery",
+      "eatin",
+      "takeaway"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 0,
+        "end_time": 86400000
+      }
+    ],
+    "barcode_gtin": "04607065002527",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "a960423acf9e4fed0450870ebe0230cb",
+    "description": "Рацион PEDIGREE® полнорационный корм с курицей создан с учетом потребностей щенков в период наиболее интенсивного роста. Он состоит из качественных и натуральных ингредиентов: мяса, овощей, злаков. Поэтому PEDIGREE® полнорационный корм с курицей способствует здоровому росту и гармоничному развитию вашего малыша. Он также создан с учетом особенностей пищеварения самых маленьких, легко усваивается и обеспечивает правильную работу их желудочно-кишечного тракта. Куриная мука, пшеница, рис, продукты животного происхождения, мясокостная мука, свекольный жом, подсолнечное масло, животный жир, пивные дрожжи, витамины, рыбий жир, глюкозамин.Содержание питательных веществ (100 г): белок - 30г; жир - 12г; зола - 7,0 г; клетчатка - 2,5 г; кальций - 1,7 г; фосфор - 1,15 г; Витамин А - 1500 МЕ; витамин Е - 20 мг; витамин D3 - 120 МЕ. Энергетическая ценность (100 г): 370 Ккал \\ 1547кДж.",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": true,
+    "images": [
+      {
+        "url": "https://imageproxy.wolt.com/assets/688b98e4a3eb62eeb95c1df0",
+        "blurhash": "LrSP2=af%%k9n$ayW=j[tlbcRPnO"
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": true,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "Pedigree Сухой корм для щенков всех пород с курицей, 600г",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 154500,
+    "product_hierarchy_tags": [
+      "UNKNOWN"
+    ],
+    "purchasable_balance": 2,
+    "restrictions": [],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": true,
+    "tags": [],
+    "unit_info": "600 г",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 257500,
+      "unit": "kilogram"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 12,
+    "vat_percentage_decimal": "12.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    }
+  },
+  {
+    "id": "66adbc6f49995b0f0d9e4612",
+    "advertising_info": null,
+    "alcohol_permille": 0,
+    "allowed_delivery_methods": [
+      "homedelivery",
+      "eatin",
+      "takeaway"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 0,
+        "end_time": 86400000
+      }
+    ],
+    "barcode_gtin": "05000159425476",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "5a98caeb316f84603d0ee11132091272",
+    "description": "Полнорационный сухой корм для взрослых собак всех пород. Новое вкусное меню от Чаппи станет любимой едой вашей собаки. Выбирая полноценное сбалансированное питание Чаппи для Вашего любимца, вы можете быть уверены в том, что каждый день ваша собака будет довольной, игривой и здоровой.\nВкусно и Полезно!\n- Для силы и Энергии в течение дня - Мясо.\n- Для отличного пищеварения - Овощи, Травы, Злаки.\n- Для блестящей шерсти и здоровой кожи - Масла и Жиры.\n- Для крепких зубов и костей - Кальций.\n- Для защиты здоровья - Витамины.\n- Для поддержания собаки в оптимальной форме - Минералы.\n- Не содержит Искусственных ароматизаторов, Искусственных усилителей вкуса.\nЗлаки, мясо и субпродукты, белковые растительные экстракты, жиры животного происхождения, морковь, люцерна, растительные масла, минеральные вещества, витамины. Пищевая ценность (100 г): белок 18г, жир 10г, клетчатка 7г, влажность не более 10г, зола 7г, кальций 0,8г, фосфор 0,6г витамин А-500 МЕ,витамин D-50 ME,витамин Е-8 мг, а также витамины В2, В12, пантотеновая и никотиновая кислоты. Энергетическая ценность (на 100 г): 350 ккал.",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": true,
+    "images": [
+      {
+        "url": "https://imageproxy.wolt.com/assets/6888c21623fa16f725a9bd25",
+        "blurhash": "LoRVwwoL_NR*n*n%baW=x]bHM{n$"
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": true,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "Chappi Сухой корм для собак «Сытный мясной обед», с говядиной по-домашнему, 600г",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 95500,
+    "product_hierarchy_tags": [
+      "UNKNOWN"
+    ],
+    "purchasable_balance": 6,
+    "restrictions": [],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": true,
+    "tags": [],
+    "unit_info": "600 г",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 159167,
+      "unit": "kilogram"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 12,
+    "vat_percentage_decimal": "12.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    }
+  },
+  {
+    "id": "0a1ae9df336059c609494946",
+    "advertising_info": null,
+    "alcohol_permille": 0,
+    "allowed_delivery_methods": [
+      "homedelivery",
+      "takeaway",
+      "eatin"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 0,
+        "end_time": 86400000
+      }
+    ],
+    "barcode_gtin": "04870243210230",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "02f205f5ba37b74015036d9e4e6c81a3",
+    "description": "лакомства для питомцев",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": true,
+    "images": [
+      {
+        "url": "https://imageproxy.wolt.com/assets/6808ab6528651deece219a50",
+        "blurhash": "LhRymPazxuayj@fQayfQ_Nj[M{j]"
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": true,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "Белковая кость Гигант 1 шт",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 546000,
+    "product_hierarchy_tags": [
+      "UNKNOWN"
+    ],
+    "purchasable_balance": 5,
+    "restrictions": [],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": true,
+    "tags": [],
+    "unit_info": "1 шт",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 546000,
+      "unit": "piece"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 12,
+    "vat_percentage_decimal": "12.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    }
+  },
+  {
+    "id": "2ccf2e8764051542c516874f",
+    "advertising_info": null,
+    "alcohol_permille": 0,
+    "allowed_delivery_methods": [
+      "homedelivery",
+      "takeaway",
+      "eatin"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 0,
+        "end_time": 86400000
+      }
+    ],
+    "barcode_gtin": "04870243210223",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "f2d84f14ebcd3728ba045551245a5a97",
+    "description": "лакомства для питомцев",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": true,
+    "images": [
+      {
+        "url": "https://imageproxy.wolt.com/assets/6808ab6528651deece219a4f",
+        "blurhash": "LkRfd^azxuayf6f7fQfQ_Nj[M{kC"
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": true,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "Белковая кость БигДОГ 1 шт",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 440000,
+    "product_hierarchy_tags": [
+      "UNKNOWN"
+    ],
+    "purchasable_balance": 2,
+    "restrictions": [],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": true,
+    "tags": [],
+    "unit_info": "1 шт",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 440000,
+      "unit": "piece"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 12,
+    "vat_percentage_decimal": "12.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    }
+  },
+  {
+    "id": "ef2e27ee5057b04d3f6fa174",
+    "advertising_info": null,
+    "alcohol_permille": 0,
+    "allowed_delivery_methods": [
+      "homedelivery",
+      "takeaway",
+      "eatin"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 0,
+        "end_time": 86400000
+      }
+    ],
+    "barcode_gtin": "04870243210216",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "cb9f4129b8706d01c0248c872820819f",
+    "description": "лакомства для питомцев",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": true,
+    "images": [
+      {
+        "url": "https://imageproxy.wolt.com/assets/6808ab6528651deece219a4e",
+        "blurhash": "LpRMScayxuayWBayj[j[_Nj[M{j["
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": true,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "Белковая кость МидлДог 1 шт",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 247000,
+    "product_hierarchy_tags": [
+      "UNKNOWN"
+    ],
+    "purchasable_balance": 2,
+    "restrictions": [],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": true,
+    "tags": [],
+    "unit_info": "1 шт",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 247000,
+      "unit": "piece"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 12,
+    "vat_percentage_decimal": "12.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    }
+  },
+  {
+    "id": "afa93f9830728a66339494fc",
+    "advertising_info": null,
+    "alcohol_permille": 0,
+    "allowed_delivery_methods": [
+      "homedelivery",
+      "takeaway",
+      "eatin"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 0,
+        "end_time": 86400000
+      }
+    ],
+    "barcode_gtin": "04870243210049",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "037873758dffb63d21b3ead040d8b214",
+    "description": "лакомства для питомцев",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": true,
+    "images": [
+      {
+        "url": "https://imageproxy.wolt.com/assets/6808ab6528651deece219a4d",
+        "blurhash": "LvR37yju_NodsDayX5kBxuf6RibH"
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": true,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "Белковая кость Мини Дог (10 шт. в упаковке)",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 1298000,
+    "product_hierarchy_tags": [
+      "UNKNOWN"
+    ],
+    "purchasable_balance": 5,
+    "restrictions": [],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": true,
+    "tags": [],
+    "unit_info": "1 шт",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 1298000,
+      "unit": "piece"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 12,
+    "vat_percentage_decimal": "12.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    }
+  },
+  {
+    "id": "85a4b823162c216ffec2670a",
+    "advertising_info": null,
+    "alcohol_permille": 0,
+    "allowed_delivery_methods": [
+      "homedelivery",
+      "takeaway",
+      "eatin"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 0,
+        "end_time": 86400000
+      }
+    ],
+    "barcode_gtin": "04870243210032",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "c1be8bec3750966417375a8d5019f15a",
+    "description": "лакомства для питомцев",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": true,
+    "images": [
+      {
+        "url": "https://imageproxy.wolt.com/assets/6808ab6528651deece219a4c",
+        "blurhash": "LyQl?~az_Noen-f6bYj[xvjtRPa|"
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": true,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "Белковая кость Ультра Мини Дог (15 шт. в упаковке)",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 1157500,
+    "product_hierarchy_tags": [
+      "UNKNOWN"
+    ],
+    "purchasable_balance": 4,
+    "restrictions": [],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": true,
+    "tags": [],
+    "unit_info": "1 шт",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 1157500,
+      "unit": "piece"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 12,
+    "vat_percentage_decimal": "12.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    }
+  },
+  {
+    "id": "0e202759df0fdd03e3fd8498",
+    "advertising_info": null,
+    "alcohol_permille": 0,
+    "allowed_delivery_methods": [
+      "eatin",
+      "takeaway",
+      "homedelivery"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 0,
+        "end_time": 86400000
+      }
+    ],
+    "barcode_gtin": "04877123192075",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "0e26ee4eece2e45c444397059ee49388",
+    "description": "Наполнитель для кошек силикагель - это современный тип наполнителя, который состоит из силикагеля, который является высоко абсорбирующим материалом. Он способен эффективно удерживать жидкость и запахи, превращая их в гелевую форму. Силикагельный наполнитель обычно имеет мелкую текстуру и не образует комков, но позволяет легко удалять использованный материал, необходимый для поддержания чистоты и свежести в кошачьем туалете.",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": true,
+    "images": [
+      {
+        "url": "https://imageproxy.wolt.com/assets/688b998223fa16f725af7530",
+        "blurhash": "LcRftcWV~Vt6kDayjYj[xuj[RPay"
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": true,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": 5,
+    "min_quantity_per_purchase": null,
+    "name": "Наполнитель Белый Кот Д/Кошек Силикагель 4,5Л",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 419500,
+    "product_hierarchy_tags": [
+      "UNKNOWN"
+    ],
+    "purchasable_balance": 11,
+    "restrictions": [],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": false,
+    "tags": [],
+    "unit_info": "2,43 кг",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 172634,
+      "unit": "kilogram"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 12,
+    "vat_percentage_decimal": "12.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    }
+  }
+]

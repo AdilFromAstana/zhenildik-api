@@ -1,0 +1,3042 @@
+[
+  {
+    "id": "3ca7d689848c7a99dcbd93dc",
+    "advertising_info": null,
+    "alcohol_permille": 0,
+    "allowed_delivery_methods": [
+      "homedelivery",
+      "eatin",
+      "takeaway"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 28800000,
+        "end_time": 81000000
+      }
+    ],
+    "barcode_gtin": "05410228146162",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "8cb3958e30e2e9a68762ff8d7dc43ad1",
+    "description": "Лёффе Брюн производится из прожаренного солода с добавлением кукурузы, имеет глубокий коричневый цвет. Это пиво с мягкой кремовой пеной обладает тонким ароматом жареной карамели, сладковатым карамельно-фруктовым привкусом и характерной легкой горчинкой. Leffe - это настоящее монастырское пиво из Бельгии, рецепт которого был создан в 1240 году, а процесс производства остался неизменным до наших дней. Стилистика:Темный насыщенный цвет . Плотная пенная шапка. Классически подается в округлом бокале. Дегустация:Насыщенный полнотелый темный эль с кофейно-шоколадным вкусом и легкой горечью. Гастрономия:Идеально сочетается с блюдами из мяса утки, индейки, свинины, сырами, кисло-сладкими блюдами, шоколадными десертами.",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": true,
+    "images": [
+      {
+        "url": "https://imageproxy.wolt.com/assets/688b98bab2b18bf1da5343ee",
+        "blurhash": "LNSigPj[_4oft8fQV@fQxvfQM_fP"
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": true,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "Пиво Leffe Brune 6,5% 0,33Л С/Б",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 173500,
+    "product_hierarchy_tags": [
+      "BEER",
+      "ALCOHOL"
+    ],
+    "purchasable_balance": 38,
+    "restrictions": [
+      {
+        "type": "age_restricted",
+        "age_limit": 21
+      }
+    ],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": false,
+    "tags": [],
+    "unit_info": "330 мл",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 525758,
+      "unit": "litre"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 12,
+    "vat_percentage_decimal": "12.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    }
+  },
+  {
+    "id": "3b919649093845a9e3915a4a",
+    "advertising_info": null,
+    "alcohol_permille": 36,
+    "allowed_delivery_methods": [
+      "eatin",
+      "takeaway",
+      "homedelivery"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 28800000,
+        "end_time": 81000000
+      }
+    ],
+    "barcode_gtin": "04870003986887",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "f4f92293f653100da512454c44e14b55",
+    "description": "Velkopopovický Kozel — это самая продаваемая чешская марка в мире.На казахстанском рынке представлены два сорта торговой марки. «Velkopopovický Kozel Světlý» обладает приятным легким вкусом, и ярким запоминающимся ароматом. Он идеален для ценителей классического чешского пива. Любителям более глубокого вкуса и насыщенного аромата непременно придется по вкусу «Velkopopovický Kozel Černý». Легкий, нетерпкий вкус, лишенный излишней горечи — вот отличительные характеристики пива «Velkopopovický Kozel Темное».",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": true,
+    "images": [
+      {
+        "url": "https://imageproxy.wolt.com/assets/688b998823fa16f725af761b",
+        "blurhash": "LVSF-Cay_Nt7Rkayt7j[xvj[M_ay"
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": false,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "ПИВО VELKOPOPOVICKY KOZEL ТЁМНОЕ 3,6% 0,45Л Ж\\Б",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 59500,
+    "product_hierarchy_tags": [
+      "BEER",
+      "ALCOHOL"
+    ],
+    "purchasable_balance": 48,
+    "restrictions": [
+      {
+        "type": "alcohol",
+        "age_limit": 21
+      }
+    ],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": false,
+    "tags": [],
+    "unit_info": "450 мл",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 132222,
+      "unit": "litre"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 12,
+    "vat_percentage_decimal": "12.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    }
+  },
+  {
+    "id": "720a8620f0e83a748e875981",
+    "advertising_info": null,
+    "alcohol_permille": 47,
+    "allowed_delivery_methods": [
+      "homedelivery",
+      "takeaway",
+      "eatin"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 28800000,
+        "end_time": 81000000
+      }
+    ],
+    "barcode_gtin": "05011885002190",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "b8e66923733357ba8663efa4885153b4",
+    "description": "Сладковатый, карамельный с нотами фруктов, печенья и ириса аромат. Сложный, мягкий, сбалансированный, солодовый, хмелевой вкус.",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": true,
+    "images": [
+      {
+        "url": "https://imageproxy.wolt.com/assets/688b9c4023fa16f725afa92f",
+        "blurhash": "LgSYs;j[.mofoffQWVfQtRfQRPay"
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": false,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "London Pride (Лондон ПрайД) Пиво Темное Алк 4,7% 500 Мл Жб",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 205000,
+    "product_hierarchy_tags": [
+      "BEER",
+      "ALCOHOL"
+    ],
+    "purchasable_balance": 18,
+    "restrictions": [
+      {
+        "type": "alcohol",
+        "age_limit": 21
+      }
+    ],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": false,
+    "tags": [],
+    "unit_info": "500 мл",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 410000,
+      "unit": "litre"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 12,
+    "vat_percentage_decimal": "12.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    }
+  },
+  {
+    "id": "6f9023ec7213498fd9a8a0da",
+    "advertising_info": null,
+    "alcohol_permille": 42,
+    "allowed_delivery_methods": [
+      "homedelivery",
+      "takeaway",
+      "eatin"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 28800000,
+        "end_time": 81000000
+      }
+    ],
+    "barcode_gtin": "05010549307138",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "39945fb4e1a9af3ae946107dad2b6fb7",
+    "description": " Традиционный шотландский эль. Наливается темно коричневым цветом с рубиновыми оттенками, если смотреть напросвет. В аромате и вкусе - поджаренный солод, карамель, немного  са довых фруктов, нотки пряносстей и цветов. Во вкусе отчетливо проявлены легкий дымок, горечь хмеля, карамель.",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": true,
+    "images": [
+      {
+        "url": "https://imageproxy.wolt.com/assets/688b9904a3eb62eeb95c2258",
+        "blurhash": "LdS6GMj[_NayoffQWBj[x[fQM{jt"
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": false,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "Belhaven Mccallums Stout Пиво Темное  Фильтрованное Пастеризованное Алк. 4,1%, 440 Мл Жб",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 217500,
+    "product_hierarchy_tags": [
+      "BEER",
+      "ALCOHOL"
+    ],
+    "purchasable_balance": 54,
+    "restrictions": [
+      {
+        "type": "alcohol",
+        "age_limit": 21
+      }
+    ],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": false,
+    "tags": [],
+    "unit_info": "440 мл",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 494318,
+      "unit": "litre"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 12,
+    "vat_percentage_decimal": "12.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    }
+  },
+  {
+    "id": "ff5ef576a9a0e64aa156c5ed",
+    "advertising_info": null,
+    "alcohol_permille": 42,
+    "allowed_delivery_methods": [
+      "eatin",
+      "takeaway",
+      "homedelivery"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 28800000,
+        "end_time": 81000000
+      }
+    ],
+    "barcode_gtin": "05000213101872",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "9bb80fa410c1e02f27ff32787d7d7c17",
+    "description": "Классический темный ирландский сухой стаут, легендарное пиво, создающееся из жженого солода, карамельного солода, жареного ячменя и хмеля. Эти ингредиенты придают пиву темный коричневый цвет, ''жженые'' и дымные нотки, а также оттенки кофе во вкусе.",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": true,
+    "images": [
+      {
+        "url": "https://imageproxy.wolt.com/assets/688b9d6ba3eb62eeb95c3d73",
+        "blurhash": "LRSF;Lj[~qofaxfQoffQ-;fQD%ay"
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": false,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "Guinness Draught In Can Пиво 4.2% 0.44Л. Бан.",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 205000,
+    "product_hierarchy_tags": [
+      "BEER",
+      "ALCOHOL"
+    ],
+    "purchasable_balance": 215,
+    "restrictions": [
+      {
+        "type": "alcohol",
+        "age_limit": 21
+      }
+    ],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": false,
+    "tags": [],
+    "unit_info": "440 мл",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 465909,
+      "unit": "litre"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 12,
+    "vat_percentage_decimal": "12.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    }
+  },
+  {
+    "id": "94cc9fd0724b40a18e7169bb",
+    "advertising_info": null,
+    "alcohol_permille": 55,
+    "allowed_delivery_methods": [
+      "eatin",
+      "takeaway",
+      "homedelivery"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 28800000,
+        "end_time": 81000000
+      }
+    ],
+    "barcode_gtin": "04680036914395",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "513b8969f914ca92b683fc2d0aeec56c",
+    "description": "Хорошо охмеленный индийский светлый эль с ярким и насыщенным ароматом тропических фруктов. Мощный вкус, в котором хорошо выраженная хмелевая горечь раскрывается в широком диапазоне от тропических фруктов до луговых цветов. Интенсивное и сухое хмелевое послевкусие.",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": true,
+    "images": [
+      {
+        "url": "https://imageproxy.wolt.com/assets/688b9ad9a3eb62eeb95c2706",
+        "blurhash": "LVSY?Zj[_4kCxvfQRifQf+fQe.fQ"
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": false,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "IPA/ИПА НФ нефильтр. Эль 5,5%, 0,45л. бут.",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 100000,
+    "product_hierarchy_tags": [
+      "BEER",
+      "ALCOHOL"
+    ],
+    "purchasable_balance": 72,
+    "restrictions": [
+      {
+        "type": "alcohol",
+        "age_limit": 21
+      }
+    ],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": false,
+    "tags": [],
+    "unit_info": "1 шт",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 100000,
+      "unit": "piece"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 12,
+    "vat_percentage_decimal": "12.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    }
+  },
+  {
+    "id": "131a2586bc54a2f77c065429",
+    "advertising_info": null,
+    "alcohol_permille": 55,
+    "allowed_delivery_methods": [
+      "eatin",
+      "takeaway",
+      "homedelivery"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 28800000,
+        "end_time": 81000000
+      }
+    ],
+    "barcode_gtin": "04680036910199",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "ed1bc784005e5da241e07db481b23cf5",
+    "description": "Легкий светлый эль, созданный на основе хмелей Азакка и Пекко. В его вкусе и аромате доминируют тона тропических фруктов, сбалансированные умеренной хмелевой горчинкой в 27 IBU. Высокая карбонизация обеспечивает стойкую и пышную пенную шапку.",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": true,
+    "images": [
+      {
+        "url": "https://imageproxy.wolt.com/assets/688b9904a3eb62eeb95c225a",
+        "blurhash": "LSSiX2j[?^oetRfQVsfQkCfQe.fQ"
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": false,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "APA/АПА светлое нефильтрованное пиво 5,5%, 0,45л. бут.",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 100000,
+    "product_hierarchy_tags": [
+      "BEER",
+      "ALCOHOL"
+    ],
+    "purchasable_balance": 32,
+    "restrictions": [
+      {
+        "type": "alcohol",
+        "age_limit": 21
+      }
+    ],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": false,
+    "tags": [],
+    "unit_info": "1 шт",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 100000,
+      "unit": "piece"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 12,
+    "vat_percentage_decimal": "12.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    }
+  },
+  {
+    "id": "2dfe882ed1bda30e43d2c33f",
+    "advertising_info": null,
+    "alcohol_permille": 40,
+    "allowed_delivery_methods": [
+      "eatin",
+      "takeaway",
+      "homedelivery"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 28800000,
+        "end_time": 81000000
+      }
+    ],
+    "barcode_gtin": "04680036910151",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "be0deda606bbf78c868a987147d91fcf",
+    "description": "Напиток отличается ярким, интенсивным винным ароматом, в котором легко угадываются мятные ноты. Вкус сбалансированный, сухой, в то время как послевкусие долгое, с гармоничной сладостью. Присутствие мяты делает аромат очень свежим, а вкусу придаёт приятный охлаждающий эффект.",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": true,
+    "images": [
+      {
+        "url": "https://imageproxy.wolt.com/assets/688b99af23fa16f725af7ba5",
+        "blurhash": "LVSr[oj[?^j]tSfQV?jtbbfQjFfQ"
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": false,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "Неправильный Мёд Напиток Медовый Медовуха 4%, 0,45Л. Бут.",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 113500,
+    "product_hierarchy_tags": [],
+    "purchasable_balance": 20,
+    "restrictions": [
+      {
+        "type": "alcohol",
+        "age_limit": 21
+      }
+    ],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": false,
+    "tags": [],
+    "unit_info": "450 мл",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 252222,
+      "unit": "litre"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 12,
+    "vat_percentage_decimal": "12.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    }
+  },
+  {
+    "id": "e08a1060f6f8f9f13679fe2c",
+    "advertising_info": null,
+    "alcohol_permille": 40,
+    "allowed_delivery_methods": [
+      "eatin",
+      "takeaway",
+      "homedelivery"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 28800000,
+        "end_time": 81000000
+      }
+    ],
+    "barcode_gtin": "04870145004227",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "89b0302b4895383b95783ef5b4160135",
+    "description": "Somersby Blackberry отличается выразительной вкусовой палитрой, в которой чувствуется как благородная кислинка, так и летняя сладость лесной ежевики.\nSomersby был создан впервые в 2008 году в Дании, и за прошедшие годы появился в большинстве стран континентальной Европы, сегодня он продается уже в 47 странах.Благодаря свежему вкусу и аромату Somersby украшает самые запоминающиеся моменты жизни.",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": true,
+    "images": [
+      {
+        "url": "https://imageproxy.wolt.com/assets/688b9b8023fa16f725af9e53",
+        "blurhash": "LMSs1@j[_4ozayfQofjt%Mj[Mxay"
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": false,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "Пивной Напиток Somersby Blackberry 4,0% Ж/Б 0,43Л",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 68000,
+    "product_hierarchy_tags": [
+      "ALCOHOL"
+    ],
+    "purchasable_balance": 52,
+    "restrictions": [
+      {
+        "type": "alcohol",
+        "age_limit": 21
+      }
+    ],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": false,
+    "tags": [],
+    "unit_info": "430 мл",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 158140,
+      "unit": "litre"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 12,
+    "vat_percentage_decimal": "12.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    }
+  },
+  {
+    "id": "7f7cd4dfdff7cc35308b5f75",
+    "advertising_info": null,
+    "alcohol_permille": 40,
+    "allowed_delivery_methods": [
+      "eatin",
+      "takeaway",
+      "homedelivery"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 28800000,
+        "end_time": 81000000
+      }
+    ],
+    "barcode_gtin": "04870145004234",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "47781eebde9d86bbe3ac3533c62c4d4f",
+    "description": "Солнечный вкус манго с нотками лайма вместе создают освежающий фруктовый микс, который станет Вашим фаворитом этим летом.\nНовый Somersby Манго-Лайм - освежающе оптимистичный и такой необычный! \nSomersby - это идеальное дополнение для отдыха в кругу друзей. Лучше всего сочетается со льдом и идеально освежает в жаркий летний сезон.\nSomersby был создан впервые в 2008 году в Дании, и за прошедшие годы появился в большинстве стран континентальной Европы, сегодня он продается уже в 47 странах.Благодаря свежему вкусу и аромату Somersby украшает самые запоминающиеся моменты жизни.",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": true,
+    "images": [
+      {
+        "url": "https://imageproxy.wolt.com/assets/6888c2a6a3eb62eeb9569f50",
+        "blurhash": "LNS?7Cj@.Togj=fQoffRtSjuROay"
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": false,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "Пивной Напиток Somersby Mango&Lime  4,0% Ж/Б 0,43Л",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 67500,
+    "product_hierarchy_tags": [
+      "ALCOHOL"
+    ],
+    "purchasable_balance": 26,
+    "restrictions": [
+      {
+        "type": "alcohol",
+        "age_limit": 21
+      }
+    ],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": false,
+    "tags": [],
+    "unit_info": "430 мл",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 156977,
+      "unit": "litre"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 12,
+    "vat_percentage_decimal": "12.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    }
+  },
+  {
+    "id": "bed99e09a73beca29060a50a",
+    "advertising_info": null,
+    "alcohol_permille": 40,
+    "allowed_delivery_methods": [
+      "homedelivery",
+      "takeaway",
+      "eatin"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 28800000,
+        "end_time": 81000000
+      }
+    ],
+    "barcode_gtin": "04870145004951",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "251f3f93cf552587b413b684bcf18ca9",
+    "description": "ПИВНОЙ НАПИТОК СО ВКУСОМ И АРОМАТОМ МАРАКУЙИ И АПЕЛЬСИНА",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": true,
+    "images": [
+      {
+        "url": "https://imageproxy.wolt.com/assets/6888c37523fa16f725a9d75c",
+        "blurhash": "LaSidCoe.AWCj?fQj]azogfQWAfQ"
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": false,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "Пивной Напиток Somersby Апельсин-Маракуйя 4% 0,43Л Ж/Б",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 67500,
+    "product_hierarchy_tags": [
+      "ALCOHOL"
+    ],
+    "purchasable_balance": 4,
+    "restrictions": [
+      {
+        "type": "alcohol",
+        "age_limit": 21
+      }
+    ],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": true,
+    "tags": [],
+    "unit_info": "430 мл",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 156977,
+      "unit": "litre"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 12,
+    "vat_percentage_decimal": "12.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    }
+  },
+  {
+    "id": "b90c2ebfc66f6c09bd66fcd5",
+    "advertising_info": null,
+    "alcohol_permille": 40,
+    "allowed_delivery_methods": [
+      "homedelivery",
+      "takeaway",
+      "eatin"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 28800000,
+        "end_time": 81000000
+      }
+    ],
+    "barcode_gtin": "04870145004548",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "2009e7a7a29fd8fe6a1e6215aa902ebd",
+    "description": "Освежающий фруктовый сидр с ароматами клубники и киви.",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": true,
+    "images": [
+      {
+        "url": "https://imageproxy.wolt.com/assets/688b9904a3eb62eeb95c225c",
+        "blurhash": "LXSiX0of?wWBj?fQj]ayozfQV@jt"
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": false,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "Somersby Strawberry-Kiwi 0,43 Бан.",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 68000,
+    "product_hierarchy_tags": [
+      "ALCOHOL"
+    ],
+    "purchasable_balance": 38,
+    "restrictions": [
+      {
+        "type": "alcohol",
+        "age_limit": 21
+      }
+    ],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": false,
+    "tags": [],
+    "unit_info": "430 мл",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 158140,
+      "unit": "litre"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 12,
+    "vat_percentage_decimal": "12.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    }
+  },
+  {
+    "id": "21c3c54008e7aad035dd4495",
+    "advertising_info": null,
+    "alcohol_permille": 0,
+    "allowed_delivery_methods": [
+      "homedelivery",
+      "eatin",
+      "takeaway"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 28800000,
+        "end_time": 81000000
+      }
+    ],
+    "barcode_gtin": "04870209800635",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "b956b9e0bb3a69ace05aad86a1697b14",
+    "description": "Цвет:\nМедно-янтарный, прозрачный.\nВкус:\nБогатый, мягкий и питкий. С преобладанием благородных оттенков хмеля, а также нотками солода, пшеницы, длинным послевкусием с небольшой горечью.\nАромат:\nВ аромате пива раскрываются травяные тона хмеля и хлебные нотки солода.",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": true,
+    "images": [
+      {
+        "url": "https://imageproxy.wolt.com/assets/6888c4b4a3eb62eeb956c7c1",
+        "blurhash": "LaS$cKj[%%j[bHfQoLfQtRfQRPfQ"
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": true,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "Пиво Line Brew Amber 5% 0,568Л Ж/Б",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 95000,
+    "product_hierarchy_tags": [
+      "BEER",
+      "ALCOHOL"
+    ],
+    "purchasable_balance": 116,
+    "restrictions": [
+      {
+        "type": "age_restricted",
+        "age_limit": 21
+      }
+    ],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": false,
+    "tags": [],
+    "unit_info": "568 мл",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 167254,
+      "unit": "litre"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 12,
+    "vat_percentage_decimal": "12.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    }
+  },
+  {
+    "id": "ae65194f29e8d6aed411cae5",
+    "advertising_info": null,
+    "alcohol_permille": 60,
+    "allowed_delivery_methods": [
+      "homedelivery",
+      "takeaway",
+      "eatin"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 28800000,
+        "end_time": 81000000
+      }
+    ],
+    "barcode_gtin": "04870145004944",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "c90bb4d07956d8eefdb2d57a35704905",
+    "description": "ПИВНОЙ НАПИТОК СО ВКУСОМ И АРОМАТОМ МАНГО",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": true,
+    "images": [
+      {
+        "url": "https://imageproxy.wolt.com/assets/688b9a1923fa16f725af8a1a",
+        "blurhash": "LnRC[6j[~qayoMfQa{fQoffQWBj["
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": false,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "Пивной Напиток «Сет Энд Райлис Гараж Хардкор» Манго 6% 0,43Л Ж/Б",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 68500,
+    "product_hierarchy_tags": [
+      "BEER",
+      "ALCOHOL"
+    ],
+    "purchasable_balance": 63,
+    "restrictions": [
+      {
+        "type": "alcohol",
+        "age_limit": 21
+      }
+    ],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": false,
+    "tags": [],
+    "unit_info": "430 мл",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 159302,
+      "unit": "litre"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 12,
+    "vat_percentage_decimal": "12.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    }
+  },
+  {
+    "id": "cae19dd84816031582a15550",
+    "advertising_info": null,
+    "alcohol_permille": 60,
+    "allowed_delivery_methods": [
+      "homedelivery",
+      "takeaway",
+      "eatin"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 28800000,
+        "end_time": 81000000
+      }
+    ],
+    "barcode_gtin": "04870145004883",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "4fd39096f4b7d15f85ea773621ee02dd",
+    "description": "ПИВНОЙ НАПИТОК СО ВКУСОМ И АРОМАТОМ АНАНАСА",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": true,
+    "images": [
+      {
+        "url": "https://imageproxy.wolt.com/assets/688b9b1123fa16f725af96dc",
+        "blurhash": "LkRW0aj[~qayj]fQj?fQogfQWAj["
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": false,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "Пивной Напиток «Сет Энд Райлис Гараж» Ананас 6% 0,43Л Ж/Б",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 68500,
+    "product_hierarchy_tags": [
+      "BEER",
+      "ALCOHOL"
+    ],
+    "purchasable_balance": 36,
+    "restrictions": [
+      {
+        "type": "alcohol",
+        "age_limit": 21
+      }
+    ],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": false,
+    "tags": [],
+    "unit_info": "430 мл",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 159302,
+      "unit": "litre"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 12,
+    "vat_percentage_decimal": "12.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    }
+  },
+  {
+    "id": "9bb8e778b967098db4d34e0e",
+    "advertising_info": null,
+    "alcohol_permille": 60,
+    "allowed_delivery_methods": [
+      "homedelivery",
+      "takeaway",
+      "eatin"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 28800000,
+        "end_time": 81000000
+      }
+    ],
+    "barcode_gtin": "04870145004890",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "4d71a085bba230c64aa98aadfc6b67cf",
+    "description": "ПИВНОЙ НАПИТОК СО ВКУСОМ И АРОМАТОМ ГРЕЙПФРУТА",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": true,
+    "images": [
+      {
+        "url": "https://imageproxy.wolt.com/assets/688b99a723fa16f725af7a42",
+        "blurhash": "LlRV|Tj[~qaykCfQjZfQozfQWBj["
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": false,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "Пивной Напиток «Сет Энд Райлис Гараж» Грейпфрут 6% 0,43Л Ж/Б",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 68500,
+    "product_hierarchy_tags": [
+      "BEER",
+      "ALCOHOL"
+    ],
+    "purchasable_balance": 25,
+    "restrictions": [
+      {
+        "type": "alcohol",
+        "age_limit": 21
+      }
+    ],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": false,
+    "tags": [],
+    "unit_info": "430 мл",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 159302,
+      "unit": "litre"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 12,
+    "vat_percentage_decimal": "12.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    }
+  },
+  {
+    "id": "2f042a2b31f10796567a41ef",
+    "advertising_info": null,
+    "alcohol_permille": 46,
+    "allowed_delivery_methods": [
+      "homedelivery",
+      "takeaway",
+      "eatin"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 28800000,
+        "end_time": 81000000
+      }
+    ],
+    "barcode_gtin": "04870145005033",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "24187b52b3f09d868b9299f5f9cac221",
+    "description": "ПИВНОЙ НАПИТОК СО ВКУСОМ И АРОМАТОМ ЦИТРУСОВЫХ",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": true,
+    "images": [
+      {
+        "url": "https://imageproxy.wolt.com/assets/688b9904a3eb62eeb95c2262",
+        "blurhash": "LVS~eckB*0jao}fPaJj[ozf6WAj["
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": false,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "Пивной Напиток «Сет Энд Райлис Гараж Оранж Спритц\"4,6% 0,4Л Бут",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 68500,
+    "product_hierarchy_tags": [
+      "BEER",
+      "ALCOHOL"
+    ],
+    "purchasable_balance": 25,
+    "restrictions": [
+      {
+        "type": "alcohol",
+        "age_limit": 21
+      }
+    ],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": false,
+    "tags": [],
+    "unit_info": "400 мл",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 171250,
+      "unit": "litre"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 12,
+    "vat_percentage_decimal": "12.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    }
+  },
+  {
+    "id": "8a020650c8414013bd18d8d2",
+    "advertising_info": null,
+    "alcohol_permille": 55,
+    "allowed_delivery_methods": [
+      "homedelivery",
+      "takeaway",
+      "eatin"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 28800000,
+        "end_time": 81000000
+      }
+    ],
+    "barcode_gtin": "04066600601920",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "3f4a35361a49b30355a39bbcc850679b",
+    "description": "№1 пшеничное нефильтрованное пиво в Германии.Непривзойденная классика.Питкий,с легкой сладостью,сливочной текстурой,оттенками банана,манго и ананаса,легкой мягкой горчинкой,приятным послевкусием с нотками пшеницы и цитрусовых фруктов.",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": true,
+    "images": [
+      {
+        "url": "https://imageproxy.wolt.com/assets/688b9e11b2b18bf1da538003",
+        "blurhash": "LWSF-Cj[_4ofbHj[oeaykDj[aday"
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": false,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "Пиво Paulaner Weissbier Жб 0.5Л",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 175000,
+    "product_hierarchy_tags": [
+      "BEER",
+      "ALCOHOL"
+    ],
+    "purchasable_balance": 50,
+    "restrictions": [
+      {
+        "type": "alcohol",
+        "age_limit": 21
+      }
+    ],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": false,
+    "tags": [],
+    "unit_info": "500 мл",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 350000,
+      "unit": "litre"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 12,
+    "vat_percentage_decimal": "12.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    }
+  },
+  {
+    "id": "9f289ea9ab9c910759adf8ac",
+    "advertising_info": null,
+    "alcohol_permille": 55,
+    "allowed_delivery_methods": [
+      "eatin",
+      "takeaway",
+      "homedelivery"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 28800000,
+        "end_time": 81000000
+      }
+    ],
+    "barcode_gtin": "04004866362605",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "bd392fb65f0b882eb869468baa8f7e52",
+    "description": "Превосходный сорт нефильтрованного пшеничного пива, для варки которого используются только лучшие ингридиенты: пшеница выращивается в регионе Шампань.",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": true,
+    "images": [
+      {
+        "url": "https://imageproxy.wolt.com/assets/688b9ae6a3eb62eeb95c294d",
+        "blurhash": "LMSidIay_Nt7ofaya}j[xvj[M{WB"
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": false,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "ПИВО HAKER-PSCHORR WEISSE СВЕТ НФ 5,5% 0,5Л Ж/Б",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 214000,
+    "product_hierarchy_tags": [
+      "BEER",
+      "ALCOHOL"
+    ],
+    "purchasable_balance": 20,
+    "restrictions": [
+      {
+        "type": "alcohol",
+        "age_limit": 21
+      }
+    ],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": false,
+    "tags": [],
+    "unit_info": "1 шт",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 214000,
+      "unit": "piece"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 12,
+    "vat_percentage_decimal": "12.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    }
+  },
+  {
+    "id": "1eb77e16405b71e7db979c55",
+    "advertising_info": null,
+    "alcohol_permille": 54,
+    "allowed_delivery_methods": [
+      "eatin",
+      "takeaway",
+      "homedelivery"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 28800000,
+        "end_time": 81000000
+      }
+    ],
+    "barcode_gtin": "08593868006014",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "c36c34ecdf479edb5fee7a9d908853d4",
+    "description": "Это белый эль в бельгийском стиле. Легкое пшеничное пиво с добавлением апельсиновой цедры и кориандра.",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": true,
+    "images": [
+      {
+        "url": "https://imageproxy.wolt.com/assets/688b9b8423fa16f725af9f13",
+        "blurhash": "LRSF;May~pxat7fkRjay-pj[E1WB"
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": false,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "ПИВО BLUE MOON (БЛЮ МУН) СВЕТЛОЕ НЕФИЛЬТР.ПАСТЕРИЗ. АЛК 5,4%, 0,5 ЖБ",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 181000,
+    "product_hierarchy_tags": [
+      "BEER",
+      "ALCOHOL"
+    ],
+    "purchasable_balance": 14,
+    "restrictions": [
+      {
+        "type": "alcohol",
+        "age_limit": 21
+      }
+    ],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": false,
+    "tags": [],
+    "unit_info": "1 шт",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 181000,
+      "unit": "piece"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 12,
+    "vat_percentage_decimal": "12.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    }
+  },
+  {
+    "id": "28ce8dd386b4d776663e8615",
+    "advertising_info": null,
+    "alcohol_permille": 50,
+    "allowed_delivery_methods": [
+      "homedelivery",
+      "takeaway",
+      "eatin"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 28800000,
+        "end_time": 81000000
+      }
+    ],
+    "barcode_gtin": "04072700001775",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "26cc9d66b5e5cab4ca60ff1502ccb7fb",
+    "description": "нефильтрованное светлое пшеничное пиво с обильной и стойкой пеной, довольно насыщенным, но легко пьющимся вкусом с едва заметными хмелевыми нотками и освежающим бодрящим характером.",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": true,
+    "images": [
+      {
+        "url": "https://imageproxy.wolt.com/assets/688b997f23fa16f725af74ac",
+        "blurhash": "LUSidFf6?wt7ofjta#az%Mj[MxWB"
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": false,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "ПИВО FRANZISKANER ПШЕНИЧНОЕ НЕФИЛЬТРОВАННОЕ 5%. 0,5 Ж/Б",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 137000,
+    "product_hierarchy_tags": [
+      "BEER",
+      "ALCOHOL"
+    ],
+    "purchasable_balance": 24,
+    "restrictions": [
+      {
+        "type": "alcohol",
+        "age_limit": 21
+      }
+    ],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": false,
+    "tags": [],
+    "unit_info": "1 шт",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 137000,
+      "unit": "piece"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 12,
+    "vat_percentage_decimal": "12.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    }
+  },
+  {
+    "id": "e8c50ecb200442997feb68f2",
+    "advertising_info": null,
+    "alcohol_permille": 50,
+    "allowed_delivery_methods": [
+      "homedelivery",
+      "takeaway",
+      "eatin"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 28800000,
+        "end_time": 81000000
+      }
+    ],
+    "barcode_gtin": "04072700003649",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "da36201f3a09b7dc2ad52b0aaa95a98e",
+    "description": "нефильтрованное светлое пшеничное пиво с обильной и стойкой пеной, довольно насыщенным, но легко пьющимся вкусом с едва заметными хмелевыми нотками и освежающим бодрящим характером.",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": true,
+    "images": [
+      {
+        "url": "https://imageproxy.wolt.com/assets/688b9905a3eb62eeb95c228a",
+        "blurhash": "LIS$lmfP_4t8xuj[NGay%Mj[IUWB"
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": false,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "ПИВО FRANZISKANER ПШЕНИЧНОЕ НЕФИЛЬТРОВАННОЕ 5%. 0,5 СТ/Б",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 187500,
+    "product_hierarchy_tags": [
+      "BEER",
+      "ALCOHOL"
+    ],
+    "purchasable_balance": 12,
+    "restrictions": [
+      {
+        "type": "alcohol",
+        "age_limit": 21
+      }
+    ],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": false,
+    "tags": [],
+    "unit_info": "1 шт",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 187500,
+      "unit": "piece"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 12,
+    "vat_percentage_decimal": "12.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    }
+  },
+  {
+    "id": "6a1fbc1a1bbaccfcd3726e11",
+    "advertising_info": null,
+    "alcohol_permille": 46,
+    "allowed_delivery_methods": [
+      "homedelivery",
+      "takeaway",
+      "eatin"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 28800000,
+        "end_time": 81000000
+      }
+    ],
+    "barcode_gtin": "04870145004753",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "4f0884425586b05bed091383132f2708",
+    "description": "Garage Hard Lemon Drink — это освежающий алкогольный напиток с ярким лимонным вкусом. Он сочетает в себе лёгкую кислинку натурального лимона и умеренную сладость, создавая эффект классического лимонада с алкогольной ноткой. Идеально подходит для жарких дней, вечеринок и лёгкого отдыха. Крепость напитка обычно около 4-5%",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": true,
+    "images": [
+      {
+        "url": "https://imageproxy.wolt.com/assets/688b9904a3eb62eeb95c2265",
+        "blurhash": "LNSs4}of_4j[xvfQRij[t8fQRifk"
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": false,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "Garage Hard Lemon Drink 0,4 бут.",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 66500,
+    "product_hierarchy_tags": [
+      "ALCOHOL"
+    ],
+    "purchasable_balance": 44,
+    "restrictions": [
+      {
+        "type": "alcohol",
+        "age_limit": 21
+      }
+    ],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": false,
+    "tags": [],
+    "unit_info": "1 шт",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 66500,
+      "unit": "piece"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 12,
+    "vat_percentage_decimal": "12.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    }
+  },
+  {
+    "id": "1ce89158d571e46f7e99245a",
+    "advertising_info": null,
+    "alcohol_permille": 5,
+    "allowed_delivery_methods": [
+      "homedelivery",
+      "takeaway",
+      "eatin"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 28800000,
+        "end_time": 81000000
+      }
+    ],
+    "barcode_gtin": "04870145005002",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "170a6d8cba93c71f53638f8b2b15a058",
+    "description": "«Жатецкий гусь 0 Нефильтрованное Пшеничное» - мягкое освежающее пиво с уникальным вкусом, которое прекрасно подходит для утоления жажды. Благодаря использованию пшеничного солода пиво обладает приятным ароматом с пряно-цитрусовыми нотками и янтарным матовым цветом, свойственным нефильтрованным сортам.",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": true,
+    "images": [
+      {
+        "url": "https://imageproxy.wolt.com/assets/6808d1e828651deece21a479",
+        "blurhash": "LQSF^ea}~Vt6bIfQoJfPxuj@M|ay"
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": true,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": 5,
+    "min_quantity_per_purchase": null,
+    "name": "Пиво Жатецкий Гусь №0 Пшеничное 0,43л ж.б.",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 51500,
+    "product_hierarchy_tags": [],
+    "purchasable_balance": 20,
+    "restrictions": [
+      {
+        "type": "age_restricted",
+        "age_limit": 21
+      }
+    ],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": false,
+    "tags": [],
+    "unit_info": "430 мл",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 119767,
+      "unit": "litre"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 12,
+    "vat_percentage_decimal": "12.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    }
+  },
+  {
+    "id": "47a47583d698c884804413e6",
+    "advertising_info": null,
+    "alcohol_permille": 43,
+    "allowed_delivery_methods": [
+      "homedelivery",
+      "takeaway",
+      "eatin"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 28800000,
+        "end_time": 81000000
+      }
+    ],
+    "barcode_gtin": "04870003987983",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "4b59900c37701eb2edde413f759f3a71",
+    "description": "НОВИНКА! Miller Lime – это знакомый яркий и мягкий вкус Miller с освещающей ноткой Лайма. Сладкий и фруктовый, он идеально подходит для тех, кто ищет новые ощущения. Пора освежиться по-новому!  \"Корона\" Экстра завоевало золотую медаль на Международной выставке \"Monde Selection\" в Брюсселе в 2006 году.\nПиво \"Корона\" Экстра производит Групо Модело, основавшая в 1925 году в Мехико завод по производству пива \"La Cerveseria Modelo\". Благодаря агрессивной маркетинговой политике, уже через 3 года объем продаж пива \"Корона\" и других брендов компании составлял 8 миллионов бутылок. И это только на внутреннем рынке. А еще через два года был налажен экспорт в США. Попутно компания выкупает у других пивоваров торговые марки и еще более увеличивает объемы продаж.Цвет:\nПиво бледно-золотистого цвета с большой белой пенной шапкой.\nВкус: Вкус пива тонкий, освежающий, сухой, легкий, мягкий, с нотками кукурузы, зерна, солода, лайма, горчинкой хмеля, сладковатым послевкусием.\nАромат: В аромате пива чувствуются оттенки зерна, кукурузы, бисквита и трав. Гастрономические сочетания:\nПиво подается охлажденным, в бутылке, с кусочком лайма или лимона. Можно употреблять с сырами, моллюсками, барбекю, блюдами тайской, латиноамериканской, индийской кухни.",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": true,
+    "images": [
+      {
+        "url": "https://imageproxy.wolt.com/assets/68482eb5ec1bccbed0b57d13",
+        "blurhash": "LQS$lkkC?dj[xvfQRifko#fQV?j["
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": false,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "Miller светлое пиво с лаймом 4.3% 500мл",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 84000,
+    "product_hierarchy_tags": [
+      "BEER",
+      "ALCOHOL"
+    ],
+    "purchasable_balance": 33,
+    "restrictions": [
+      {
+        "type": "alcohol",
+        "age_limit": 21
+      }
+    ],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": false,
+    "tags": [],
+    "unit_info": "1 шт",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 84000,
+      "unit": "piece"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 12,
+    "vat_percentage_decimal": "12.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    }
+  },
+  {
+    "id": "cdb5fce7b62e0f284ccde6bc",
+    "advertising_info": null,
+    "alcohol_permille": 46,
+    "allowed_delivery_methods": [
+      "homedelivery",
+      "takeaway",
+      "eatin"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 28800000,
+        "end_time": 81000000
+      }
+    ],
+    "barcode_gtin": "04870145004760",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "2ac121e756033022b899aa5b64c85b00",
+    "description": "Garage Black Cherry – освежающий натуральный напиток с небольшим содержанием алкоголя, с добавлением вишневого сока.\nВ Казахстане этот напиток производится по лицензии Carlsberg Group, также как и в Дании, Канаде, Латвии, Эстонии и Финляндии, где линейка Seth&Riley’s GARAGE приобрела уже высокую популярность. Интересно, что Hard Drink родился на юге Америки, где лето длится почти круглый год. Именно там возникла традиция готовить домашние фруктовые освежающие напитки и пить их со льдом. Позже их стали делать слабоалкогольными, так и появился Hard Drink – освежающий натуральный напиток с небольшим содержанием алкоголя, идеально подходящий для вечеринок, пикников и просто больших компаний.",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": true,
+    "images": [
+      {
+        "url": "https://imageproxy.wolt.com/assets/6808d1e828651deece21a475",
+        "blurhash": "LNSY]iay~qtRxuj[Rjay%Nj[IUWB"
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": false,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "Напиток пивной S&R Garage Hard Black Cherry Drink 4,6% 0,4 л ст.б.",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 72500,
+    "product_hierarchy_tags": [
+      "BEER",
+      "ALCOHOL"
+    ],
+    "purchasable_balance": 26,
+    "restrictions": [
+      {
+        "type": "alcohol",
+        "age_limit": 21
+      }
+    ],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": false,
+    "tags": [],
+    "unit_info": "400 мл",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 181250,
+      "unit": "litre"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 12,
+    "vat_percentage_decimal": "12.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    }
+  },
+  {
+    "id": "a3a41213b0599594646b5805",
+    "advertising_info": null,
+    "alcohol_permille": 45,
+    "allowed_delivery_methods": [
+      "homedelivery",
+      "takeaway",
+      "eatin"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 28800000,
+        "end_time": 81000000
+      }
+    ],
+    "barcode_gtin": "04870145004937",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "71e6b4db15e910eb9b3fc8518db90ff4",
+    "description": "1664 Rose-легкое и освежающее пшеничное пиво с нотками красных ягод и многослойным вкусом. Его уникальность рождена идеальной гармонией двух особенных составляющих это игривый характер за счет ингридеентов и элегантность за счет изысканных сортов хмеля.",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": true,
+    "images": [
+      {
+        "url": "https://imageproxy.wolt.com/assets/688b9a6c23fa16f725af8ec1",
+        "blurhash": "LPSPX{oL~qj]-pfRIVayxZfQNHjs"
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": false,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "Пивной Напиток Кроненбург 1664 Розе 4,5% 0,46Л С/Б",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 81500,
+    "product_hierarchy_tags": [
+      "BEER",
+      "ALCOHOL"
+    ],
+    "purchasable_balance": 20,
+    "restrictions": [
+      {
+        "type": "alcohol",
+        "age_limit": 21
+      }
+    ],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": false,
+    "tags": [],
+    "unit_info": "460 мл",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 177174,
+      "unit": "litre"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 12,
+    "vat_percentage_decimal": "12.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    }
+  },
+  {
+    "id": "631ac88730ad2c0b9e5a40a8",
+    "advertising_info": null,
+    "alcohol_permille": 0,
+    "allowed_delivery_methods": [
+      "eatin",
+      "takeaway",
+      "homedelivery"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 28800000,
+        "end_time": 81000000
+      }
+    ],
+    "barcode_gtin": "06901035621496",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "7b80235850987a2c3c55ccc9e86bf0e4",
+    "description": "Tsingtao Zero — безалкогльная версия классического светлого лагера Tsingtao Premium. Чистая родниковая вода для создания пива берется из знаменитого водного и горного региона Loashan, а ячмень и дрожжи — австралийского и канадского производства.",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": true,
+    "images": [
+      {
+        "url": "https://imageproxy.wolt.com/assets/688b9b9823fa16f725afa1d5",
+        "blurhash": "LJSimeof~XoexufQRjj[xufQM{fQ"
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": true,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "Пиво Безалкогольное Tsingtao Zero Alcohol 0,05% 0,33Л С/Б",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 103000,
+    "product_hierarchy_tags": [],
+    "purchasable_balance": 74,
+    "restrictions": [
+      {
+        "type": "age_restricted",
+        "age_limit": 21
+      }
+    ],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": false,
+    "tags": [],
+    "unit_info": "330 мл",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 312121,
+      "unit": "litre"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 12,
+    "vat_percentage_decimal": "12.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    }
+  },
+  {
+    "id": "9ff475e693a461801a902cfc",
+    "advertising_info": null,
+    "alcohol_permille": 0,
+    "allowed_delivery_methods": [
+      "eatin",
+      "takeaway",
+      "homedelivery"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 28800000,
+        "end_time": 81000000
+      }
+    ],
+    "barcode_gtin": "04870003987310",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "2fd9867c6b060270aed3c9d3db6751b2",
+    "description": "EFES 0.0 – пиво, родом с жаркого средиземноморского побережья. EFES нулёвка сохранила подлинный вкус пива Efes Pilsener благодаря специальным технологиям эвапорирования и медленного варения - специально для ценителей настоящего пива.",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": true,
+    "images": [
+      {
+        "url": "https://imageproxy.wolt.com/assets/6888bfcca3eb62eeb9565a2c",
+        "blurhash": "LTS6Pmof~qWBs:ayWVj[t6jtRkay"
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": true,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "ПИВО EFES 0,0% 0,45Л Б/А Ж/Б",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 53500,
+    "product_hierarchy_tags": [],
+    "purchasable_balance": 51,
+    "restrictions": [
+      {
+        "type": "age_restricted",
+        "age_limit": 21
+      }
+    ],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": false,
+    "tags": [],
+    "unit_info": "450 мл",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 118889,
+      "unit": "litre"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 12,
+    "vat_percentage_decimal": "12.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    }
+  },
+  {
+    "id": "c00074d0fc31d227e3188807",
+    "advertising_info": null,
+    "alcohol_permille": 0,
+    "allowed_delivery_methods": [
+      "homedelivery",
+      "takeaway",
+      "eatin"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 28800000,
+        "end_time": 81000000
+      }
+    ],
+    "barcode_gtin": "04870003988010",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "c2cce94d5683cf0daadd2ead0b84a404",
+    "description": "\"Кружка Свежего 0.0\"открывает новые возможности и горизонты, ведь это официально признанный безалкогольный продукт в соответствии с СТ РК 10-2006.",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": true,
+    "images": [
+      {
+        "url": "https://imageproxy.wolt.com/assets/67e4026ad025c6733684b84e",
+        "blurhash": "LQSF@Vay~pxat5j@WEay%Lj[IoWC"
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": true,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "Кружка Свежего 0.0",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 49000,
+    "product_hierarchy_tags": [],
+    "purchasable_balance": 41,
+    "restrictions": [],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": false,
+    "tags": [],
+    "unit_info": "450 мл",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 108889,
+      "unit": "litre"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 12,
+    "vat_percentage_decimal": "12.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    }
+  },
+  {
+    "id": "39f95a865cf0fb82c2e35119",
+    "advertising_info": null,
+    "alcohol_permille": 5,
+    "allowed_delivery_methods": [
+      "homedelivery",
+      "takeaway",
+      "eatin"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 28800000,
+        "end_time": 81000000
+      }
+    ],
+    "barcode_gtin": "04870145005118",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "0792c748a54c9e2d49246b5ee003f079",
+    "description": "Garage 0 Fun Lemonade Raspberry – молодежный напиток с добавлением натурального сока малины и витаминами утолит вашу жажду. А его легкость поднимет настроение на уровень FUN, ведь там всего 60 ккал (на 100мл напитка). Безалкогольный пивной напиток готов к употреблению 24/7 в любом месте, где бы вы ни были.",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": true,
+    "images": [
+      {
+        "url": "https://imageproxy.wolt.com/assets/6808d1e828651deece21a47c",
+        "blurhash": "LSS$WAf6.mo|ofjtbHaytRj[RQay"
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": true,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "Напиток пивной Garage №0 Raspberry 0,33л ж.б.",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 43000,
+    "product_hierarchy_tags": [],
+    "purchasable_balance": 5,
+    "restrictions": [
+      {
+        "type": "age_restricted",
+        "age_limit": 21
+      }
+    ],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": true,
+    "tags": [],
+    "unit_info": "330 мл",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 130303,
+      "unit": "litre"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 12,
+    "vat_percentage_decimal": "12.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    }
+  },
+  {
+    "id": "ba63fd4802d03df5e2552414",
+    "advertising_info": null,
+    "alcohol_permille": 5,
+    "allowed_delivery_methods": [
+      "homedelivery",
+      "takeaway",
+      "eatin"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 28800000,
+        "end_time": 81000000
+      }
+    ],
+    "barcode_gtin": "04870145005101",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "5976eda7544c50df64b832189de3aa1a",
+    "description": "Garage 0 Fun Lemonade Lemon – молодежный напиток с добавлением натурального сока лимона и витаминами утолит вашу жажду. А его легкость поднимет настроение на уровень FUN, ведь там всего 60 ккал (на 100мл напитка). Безалкогольный пивной напиток готов к употреблению 24/7 в любом месте, где бы вы ни были.",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": true,
+    "images": [
+      {
+        "url": "https://imageproxy.wolt.com/assets/6808d1e828651deece21a47b",
+        "blurhash": "LSS?7AjZ%%o#oLfQj[azt7j[Rjay"
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": true,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "Напиток пивной Garage №0 Lemon 0,33л ж.б.",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 43000,
+    "product_hierarchy_tags": [],
+    "purchasable_balance": 18,
+    "restrictions": [
+      {
+        "type": "age_restricted",
+        "age_limit": 21
+      }
+    ],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": false,
+    "tags": [],
+    "unit_info": "330 мл",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 130303,
+      "unit": "litre"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 12,
+    "vat_percentage_decimal": "12.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    }
+  },
+  {
+    "id": "9869c2db5e1398fa96c08372",
+    "advertising_info": null,
+    "alcohol_permille": 5,
+    "allowed_delivery_methods": [
+      "homedelivery",
+      "takeaway",
+      "eatin"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 28800000,
+        "end_time": 81000000
+      }
+    ],
+    "barcode_gtin": "04870145004616",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "8bcbdcc92a5b82fa8709a3b30a3b5afa",
+    "description": "Carlsberg 0.0 — это освежающий вкус, насыщенный аромат и легендарное качество Carlsberg, созданное для тех, кто выбирает баланс, безупречный вкус и свободу без ограничений.",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": true,
+    "images": [
+      {
+        "url": "https://imageproxy.wolt.com/assets/6808d1e828651deece21a473",
+        "blurhash": "LZR:KPay~pt7a}fQoefQ%Lj[IoWV"
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": true,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "Напиток пивной Carlsberg №0 Pilsner 0,43л ж.б.",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 65000,
+    "product_hierarchy_tags": [],
+    "purchasable_balance": 23,
+    "restrictions": [
+      {
+        "type": "age_restricted",
+        "age_limit": 21
+      }
+    ],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": false,
+    "tags": [],
+    "unit_info": "430 мл",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 151163,
+      "unit": "litre"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 12,
+    "vat_percentage_decimal": "12.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    }
+  },
+  {
+    "id": "a1ad613ba539bca301bf4b0b",
+    "advertising_info": null,
+    "alcohol_permille": 5,
+    "allowed_delivery_methods": [
+      "homedelivery",
+      "takeaway",
+      "eatin"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 28800000,
+        "end_time": 81000000
+      }
+    ],
+    "barcode_gtin": "04870145004661",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "e0a2c0cd9dd9a9ebbbaf7e7a7f534fe8",
+    "description": "Carlsberg 0.0 — это освежающий вкус, насыщенный аромат и легендарное качество Carlsberg, созданное для тех, кто выбирает баланс, безупречный вкус и свободу без ограничений.",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": true,
+    "images": [
+      {
+        "url": "https://imageproxy.wolt.com/assets/6808d1e828651deece21a474",
+        "blurhash": "LJSijXay~Xxbxuj[Rjay%Mj[IUWB"
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": true,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "Напиток пивной Carlsberg №0 Pilsner 0,45л ст.б.",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 65000,
+    "product_hierarchy_tags": [],
+    "purchasable_balance": 28,
+    "restrictions": [
+      {
+        "type": "age_restricted",
+        "age_limit": 21
+      }
+    ],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": false,
+    "tags": [],
+    "unit_info": "450 мл",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 144444,
+      "unit": "litre"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 12,
+    "vat_percentage_decimal": "12.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    }
+  },
+  {
+    "id": "38cc0da659f633b4b1f3fa9d",
+    "advertising_info": null,
+    "alcohol_permille": 5,
+    "allowed_delivery_methods": [
+      "homedelivery",
+      "takeaway",
+      "eatin"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 28800000,
+        "end_time": 81000000
+      }
+    ],
+    "barcode_gtin": "04870145005125",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "b1c865c760a143953b5e94dae5f0bab8",
+    "description": "Garage 0 Fun Lemonade Peach – персиковое настроение, это сладость дня. Всего 60 ккал дарит ощущение легкости, а витамины поддерживают организм. Безалкогольный пивной напиток готов к употреблению 24/7 в любом месте, где бы вы ни были.",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": true,
+    "images": [
+      {
+        "url": "https://imageproxy.wolt.com/assets/6808d1e828651deece21a47d",
+        "blurhash": "LNS~hljZ.Tt7ofjtayaztRj[RPay"
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": true,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "Напиток пивной Garage №0 Peach 0,33л ж.б.",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 43000,
+    "product_hierarchy_tags": [],
+    "purchasable_balance": 2,
+    "restrictions": [
+      {
+        "type": "age_restricted",
+        "age_limit": 21
+      }
+    ],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": true,
+    "tags": [],
+    "unit_info": "330 мл",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 130303,
+      "unit": "litre"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 12,
+    "vat_percentage_decimal": "12.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    }
+  }
+]

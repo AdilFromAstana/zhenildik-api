@@ -1,0 +1,6538 @@
+[
+  {
+    "id": "633baabf83db05f50caa5d8a",
+    "advertising_info": null,
+    "alcohol_permille": 400,
+    "allowed_delivery_methods": [
+      "homedelivery",
+      "takeaway",
+      "eatin"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 43200000,
+        "end_time": 73800000
+      }
+    ],
+    "barcode_gtin": "07610113008263",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": false,
+      "venue": false,
+      "credits": false
+    },
+    "checksum": "d49518210dfb8d2c999e801f96fec01f",
+    "description": "Ром обладает насыщенным, гладким, пряным, терпким вкусом с оттенками сладких специй, пряностей и долгим, обволакивающим послевкусием с дымными и дубовыми нюансами.",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": true,
+    "images": [
+      {
+        "url": "https://imageproxy.wolt.com/assets/676558d00aef0034ebc3b475",
+        "blurhash": "LPSr}+of?^f6o}f6aJj[tRfQRPfQ"
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": false,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "Ром Bacardi Spiced 1L, 40%",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 1310000,
+    "product_hierarchy_tags": [
+      "ALCOHOL"
+    ],
+    "purchasable_balance": 3,
+    "restrictions": [
+      {
+        "type": "alcohol",
+        "age_limit": 21
+      }
+    ],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": true,
+    "tags": [],
+    "unit_info": "1 шт",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 1310000,
+      "unit": "piece"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 12,
+    "vat_percentage_decimal": "12.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    }
+  },
+  {
+    "id": "94f74dc6085d4389d7b37bc6",
+    "advertising_info": null,
+    "alcohol_permille": 400,
+    "allowed_delivery_methods": [
+      "homedelivery",
+      "takeaway",
+      "eatin"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 43200000,
+        "end_time": 73800000
+      }
+    ],
+    "barcode_gtin": "05010677035811",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": false,
+      "venue": false,
+      "credits": false
+    },
+    "checksum": "7ebfc7aea4df4a539cfd3e42831f8ba1",
+    "description": "Прозрачный, бесцветный ром. Вкус: Мягкий, чистый вкус, с легкими мотивами фруктов и карамели, которые постепенно сменяются нюансами ванили и пикантной перечной горчинкой. Аромат: Обладает изящным ароматом с оттенками ванили, фруктов, миндальными нюансами.",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": true,
+    "images": [
+      {
+        "url": "https://imageproxy.wolt.com/assets/688b9abab2b18bf1da535eb6",
+        "blurhash": "LQSPU:j[~qofxufQM{fQxufQM{fQ"
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": false,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "Ром Bacardi Carta Negra 1L, 40%",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 1310000,
+    "product_hierarchy_tags": [
+      "ALCOHOL"
+    ],
+    "purchasable_balance": 6,
+    "restrictions": [
+      {
+        "type": "alcohol",
+        "age_limit": 21
+      }
+    ],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": true,
+    "tags": [],
+    "unit_info": "1 шт",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 1310000,
+      "unit": "piece"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 12,
+    "vat_percentage_decimal": "12.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    }
+  },
+  {
+    "id": "40c40c79a09e8ab038e4914a",
+    "advertising_info": null,
+    "alcohol_permille": 350,
+    "allowed_delivery_methods": [
+      "homedelivery",
+      "takeaway",
+      "eatin"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 43200000,
+        "end_time": 73800000
+      }
+    ],
+    "barcode_gtin": "05010677740203",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": false,
+      "venue": false,
+      "credits": false
+    },
+    "checksum": "70c911d2986ba34529407305e76d7ab3",
+    "description": "Bacardi Oakheart- напиток янтарного цвета, в насыщенном аромате которого ноты дуба сочетаются с дымными оттенками, также присутствуют тона кураги, чернослива, апельсиновой цедры, оттенки ванили. Вкус мягкий, бархатистый. Ромовый напиток употребляется в чистом виде, в составе коктейлей.",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": true,
+    "images": [
+      {
+        "url": "https://imageproxy.wolt.com/assets/688b9b1223fa16f725af9712",
+        "blurhash": "LQSia9oe_NbHxufQRPjtt8ayRij["
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": false,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "Ром Bacardi Oakheart Original 1L, 35%",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 1098500,
+    "product_hierarchy_tags": [
+      "ALCOHOL"
+    ],
+    "purchasable_balance": 19,
+    "restrictions": [
+      {
+        "type": "alcohol",
+        "age_limit": 21
+      }
+    ],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": false,
+    "tags": [],
+    "unit_info": "1 шт",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 1098500,
+      "unit": "piece"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 12,
+    "vat_percentage_decimal": "12.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    }
+  },
+  {
+    "id": "db5509796ae94755dc152b00",
+    "advertising_info": null,
+    "alcohol_permille": 0,
+    "allowed_delivery_methods": [
+      "homedelivery",
+      "eatin",
+      "takeaway"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 43200000,
+        "end_time": 73800000
+      }
+    ],
+    "barcode_gtin": "05010677012546",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "8d9ffb1980bb007ae8d35179245627ee",
+    "description": "Емкость для выдержки/ Тип фильтрации: Дубовые бочки\nВид: Ром\nЦвет: Белый\nВкус: Легкий и фруктовый\nАромат: Фруктовый и карамельный\nГастрономические сочетания: Идеален для коктейлей или для дегустации\nПослевкусие: Мягкий и фруктовый\nРегион:Гавана",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": true,
+    "images": [
+      {
+        "url": "https://imageproxy.wolt.com/assets/6888ba621f0cac713af62235",
+        "blurhash": "LCS?DUof~qof%MfQM{ayxufQM{j["
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": true,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "РОМ BACARDI CARTA BLANCA  0.7 Л.  СТ/Б",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 940800,
+    "product_hierarchy_tags": [
+      "ALCOHOL"
+    ],
+    "purchasable_balance": 4,
+    "restrictions": [
+      {
+        "type": "age_restricted",
+        "age_limit": 21
+      }
+    ],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": true,
+    "tags": [],
+    "unit_info": "1 шт",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 940800,
+      "unit": "piece"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 12,
+    "vat_percentage_decimal": "12.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    }
+  },
+  {
+    "id": "642df350b07f52a8216b423e",
+    "advertising_info": null,
+    "alcohol_permille": 0,
+    "allowed_delivery_methods": [
+      "eatin",
+      "takeaway",
+      "homedelivery"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 43200000,
+        "end_time": 73800000
+      }
+    ],
+    "barcode_gtin": "05010677035002",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "128204aed517080b04de9577882dc062",
+    "description": "Емкость для выдержки/ Тип фильтрации: Дубовые бочки\nВид: Ром\nЦвет: Белый\nВкус: Сбалансированный и слегка пряный\nАромат: Фруктовый и древесный\nГастрономические сочетания: Идеален для коктейлей или для дегустации\nПослевкусие: Сбалансированный и пряный\nРегион:Гавана",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": true,
+    "images": [
+      {
+        "url": "https://imageproxy.wolt.com/assets/6888c25ea3eb62eeb9568cd5",
+        "blurhash": "LLSidIj[~qofxufQM{fQx]fQMxf6"
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": true,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "РОМ BACARDI CARTA NEGRA  0.7 Л.  СТ/Б",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 940800,
+    "product_hierarchy_tags": [
+      "ALCOHOL"
+    ],
+    "purchasable_balance": 4,
+    "restrictions": [
+      {
+        "type": "age_restricted",
+        "age_limit": 21
+      }
+    ],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": true,
+    "tags": [],
+    "unit_info": "1 шт",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 940800,
+      "unit": "piece"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 12,
+    "vat_percentage_decimal": "12.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    }
+  },
+  {
+    "id": "01e11f3fcca4107bfdff5bc9",
+    "advertising_info": null,
+    "alcohol_permille": 400,
+    "allowed_delivery_methods": [
+      "homedelivery",
+      "takeaway",
+      "eatin"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 43200000,
+        "end_time": 73800000
+      }
+    ],
+    "barcode_gtin": "07610113008256",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": false,
+      "venue": false,
+      "credits": false
+    },
+    "checksum": "0924d1f72b1d2b8cf9c072d99085c70c",
+    "description": "Емкость для выдержки/ Тип фильтрации: Дубовые бочки\nВид: Ром (специальный)\nЦвет: Коричневый\nВкус: Сбалансированный и ароматный\nАромат: Сбалансированный и ароматный\nГастрономические сочетания: Идеален для коктейлей или для дегустации\nПослевкусие: Сбалансированный и ароматный\nРегион:Пуэрто-Рико",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": true,
+    "images": [
+      {
+        "url": "https://imageproxy.wolt.com/assets/688b9903a3eb62eeb95c2246",
+        "blurhash": "LJS?7Eof?wkCxufQRijto}fQV?j@"
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": false,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "РОМ BACARDI SPICED 40% 0,7Л  СТ/Б",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 940800,
+    "product_hierarchy_tags": [
+      "ALCOHOL"
+    ],
+    "purchasable_balance": 7,
+    "restrictions": [
+      {
+        "type": "alcohol",
+        "age_limit": 21
+      }
+    ],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": true,
+    "tags": [],
+    "unit_info": "1 шт",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 940800,
+      "unit": "piece"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 12,
+    "vat_percentage_decimal": "12.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    }
+  },
+  {
+    "id": "ff2adefc0feb66f53eb781fd",
+    "advertising_info": null,
+    "alcohol_permille": 350,
+    "allowed_delivery_methods": [
+      "homedelivery",
+      "takeaway",
+      "eatin"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 43200000,
+        "end_time": 73800000
+      }
+    ],
+    "barcode_gtin": "05010677160018",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": false,
+      "venue": false,
+      "credits": false
+    },
+    "checksum": "d5cf2e71bee440397c938c74af25c04e",
+    "description": "Bacardi Oakheart- напиток янтарного цвета, в насыщенном аромате которого ноты дуба сочетаются с дымными оттенками, также присутствуют тона кураги, чернослива, апельсиновой цедры, оттенки ванили. Вкус мягкий, бархатистый. Ромовый напиток употребляется в чистом виде, в составе коктейлей.",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": true,
+    "images": [
+      {
+        "url": "https://imageproxy.wolt.com/assets/6888bfc0a3eb62eeb956579a",
+        "blurhash": "LQSiaAoe_NbHxufQRPjtt8ayRij["
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": false,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "Ром Bacardi Oakheart Original 0,5L, 35%",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 651000,
+    "product_hierarchy_tags": [
+      "ALCOHOL"
+    ],
+    "purchasable_balance": 9,
+    "restrictions": [
+      {
+        "type": "alcohol",
+        "age_limit": 21
+      }
+    ],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": false,
+    "tags": [],
+    "unit_info": "1 шт",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 651000,
+      "unit": "piece"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 12,
+    "vat_percentage_decimal": "12.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    }
+  },
+  {
+    "id": "775c5227847fca0550885ac3",
+    "advertising_info": null,
+    "alcohol_permille": 400,
+    "allowed_delivery_methods": [
+      "homedelivery",
+      "takeaway",
+      "eatin"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 43200000,
+        "end_time": 73800000
+      }
+    ],
+    "barcode_gtin": "05010677740036",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": false,
+      "venue": false,
+      "credits": false
+    },
+    "checksum": "b038879e519b57a498b96fcf2aae3b03",
+    "description": "Емкость для выдержки/ Тип фильтрации: Н/A\nВид: Текила\nЦвет: Прозрачный\nВкус: Яркий и свежий\nАромат: Фруктовый и цитрусовый\nГастрономические сочетания: Идеален для коктейлей или для дегустации\nПослевкусие: Освежающий и яркий\nРегион:В высокогорьях Центральной Мексики",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": true,
+    "images": [
+      {
+        "url": "https://imageproxy.wolt.com/assets/67655961b2a1aa1c381a5c95",
+        "blurhash": "LRSia9j[?woftRfQRPfPbcfQjXf6"
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": false,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "Ром Oakheart Original 0.7 Л.  Ст/Б",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 829500,
+    "product_hierarchy_tags": [
+      "ALCOHOL"
+    ],
+    "purchasable_balance": 4,
+    "restrictions": [
+      {
+        "type": "alcohol",
+        "age_limit": 21
+      }
+    ],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": true,
+    "tags": [],
+    "unit_info": "1,117 л",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 742614,
+      "unit": "litre"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 12,
+    "vat_percentage_decimal": "12.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    }
+  },
+  {
+    "id": "ad5cbb2c2f144ec0bef41da9",
+    "advertising_info": null,
+    "alcohol_permille": 400,
+    "allowed_delivery_methods": [
+      "homedelivery",
+      "eatin",
+      "takeaway"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 43200000,
+        "end_time": 73800000
+      }
+    ],
+    "barcode_gtin": "05014030018145",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": false,
+      "venue": false,
+      "credits": false
+    },
+    "checksum": "33f7f88e9ce1a152d503d3fce8b60dac",
+    "description": "\"Bacardi\" Carta Blanca (ранее именовавшийся Bacardi Superior) — белый ром — молодой и элегантный, по-латиноамерикански страстный напиток. Вкус: сладкий и мягкий.                                                                                                                                                                                                                                       Цвет: светлый, чистый, прозрачный                                                                                                                                                                                                                                Этот ром обладает сухим, мягким, рафинированным вкусом и ароматом с нотами абрикоса, марципана, мексиканской ванили, коксовой стружки и аниса. Лучше всего BACARDÍ Carta Blanca употреблять в основе коктейлей, таких как Mojito, Daiquiri. Благодаря своей лёгкости этот ром часто используют в простых миксах с соками колой и лимонадами.",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": true,
+    "images": [
+      {
+        "url": "https://imageproxy.wolt.com/assets/688b9bccb2b18bf1da536d41",
+        "blurhash": "LkQTAXD$^,~XWXWXoJoJ%3azRja_"
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": false,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "Набор Ром Bacardi Carta Blanca 40% 0,7 С/Б + 2 Tonic Mohito",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 1035000,
+    "product_hierarchy_tags": [
+      "ALCOHOL"
+    ],
+    "purchasable_balance": 3,
+    "restrictions": [
+      {
+        "type": "alcohol",
+        "age_limit": 21
+      }
+    ],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": true,
+    "tags": [],
+    "unit_info": "700 мл",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 1478571,
+      "unit": "litre"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 12,
+    "vat_percentage_decimal": "12.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    }
+  },
+  {
+    "id": "1a4a43c23a5f518582659990",
+    "advertising_info": null,
+    "alcohol_permille": 400,
+    "allowed_delivery_methods": [
+      "homedelivery",
+      "eatin",
+      "takeaway"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 43200000,
+        "end_time": 73800000
+      }
+    ],
+    "barcode_gtin": "07644390143119",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": false,
+      "venue": false,
+      "credits": false
+    },
+    "checksum": "158cf0aa088c4da2e70c8789d60c6d7a",
+    "description": "Изготовленный из выдержанных в обугленных бочках из американского дуба и невыдержанных спиртов и специй, ром \"Bacardi\" Spiced обладает пряным ароматом и смелым, сильным, но в то же время гладким вкусом.                                                                                                                         Цвет:золотисто-янтарный                                                                                                                                                                                                                                          Вкус: потрясающе мягкий, напоминающий заварной крем, но без приторной сладости. В пряный ром Bacardi Spiced добавляется натуральные экстракт ванили из Мадагаскара и настои на мускатном орехе и корицы из Индонезии и Вьетнама соответственно. В результате получается действительно уникальный продукт, насыщенный пряными вкусами, с бархатной мягкостью и намёком на копчёность.",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": true,
+    "images": [
+      {
+        "url": "https://imageproxy.wolt.com/assets/688b9903a3eb62eeb95c223c",
+        "blurhash": "LuQ9=rIT_4?cWBayofoexvayRjf6"
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": false,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "Набор Ром Bacardi Spiced 40% 0,7Л + Glass",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 1035000,
+    "product_hierarchy_tags": [
+      "ALCOHOL"
+    ],
+    "purchasable_balance": 9,
+    "restrictions": [
+      {
+        "type": "alcohol",
+        "age_limit": 21
+      }
+    ],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": false,
+    "tags": [],
+    "unit_info": "700 мл",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 1478571,
+      "unit": "litre"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 12,
+    "vat_percentage_decimal": "12.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    }
+  },
+  {
+    "id": "1349010a0d4df250ae091ef6",
+    "advertising_info": null,
+    "alcohol_permille": 400,
+    "allowed_delivery_methods": [
+      "homedelivery",
+      "takeaway",
+      "eatin"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 43200000,
+        "end_time": 73800000
+      }
+    ],
+    "barcode_gtin": "00080432402931",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": false,
+      "venue": false,
+      "credits": false
+    },
+    "checksum": "1a8891d419d6549fd8f0cc82c8def19d",
+    "description": "Емкость для выдержки/ Тип фильтрации: Дубовые бочки\nВид: Виски (12 лет)\nЦвет: Золотой\nВкус: Мягкий и фруктовый\nАромат: Фруктово-древесные, с нотами ванили и меда\nГастрономические сочетания: Употребляется в чистом виде или с льдом\nПослевкусие: Мягкое и долгое\nРегион:Спейсайд",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": true,
+    "images": [
+      {
+        "url": "https://imageproxy.wolt.com/assets/688b9f51b2b18bf1da538f14",
+        "blurhash": "LmR:1vjs_NkDWBkCofWAx^fkMxf5"
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": false,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "Виски Chivas Regal 12Yo Nr 40% 0.7 L",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 2450000,
+    "product_hierarchy_tags": [
+      "ALCOHOL"
+    ],
+    "purchasable_balance": 7,
+    "restrictions": [
+      {
+        "type": "alcohol",
+        "age_limit": 21
+      }
+    ],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": true,
+    "tags": [],
+    "unit_info": "700 мл",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 3500000,
+      "unit": "litre"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 12,
+    "vat_percentage_decimal": "12.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    }
+  },
+  {
+    "id": "8f02779e36ccba8ffcf9041d",
+    "advertising_info": null,
+    "alcohol_permille": 400,
+    "allowed_delivery_methods": [
+      "homedelivery",
+      "eatin",
+      "takeaway"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 43200000,
+        "end_time": 73800000
+      }
+    ],
+    "barcode_gtin": "05011007015534",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": false,
+      "venue": false,
+      "credits": false
+    },
+    "checksum": "db8e5bdd84890f85451edffdc7fae4fa",
+    "description": "Емкость для выдержки/ Тип фильтрации: Дубовые бочки\nВид: Виски\nЦвет: Золотой\nВкус: Гладкий и мягкий\nАромат: Фруктовый и ванильный\nГастрономические сочетания: Употребляется в чистом виде или с льдом\nПослевкусие: Гладкое и мягкое\nРегион:Дублин",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": true,
+    "images": [
+      {
+        "url": "https://imageproxy.wolt.com/assets/688b9b0523fa16f725af95e3",
+        "blurhash": "LHS$oufP_4t8xbfRR%ayxvj[M_ay"
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": false,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "ВИСКИ JAMESON IRISH 40% 0,5 Л",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 1077000,
+    "product_hierarchy_tags": [
+      "ALCOHOL"
+    ],
+    "purchasable_balance": 11,
+    "restrictions": [
+      {
+        "type": "alcohol",
+        "age_limit": 21
+      }
+    ],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": false,
+    "tags": [],
+    "unit_info": "500 мл",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 2154000,
+      "unit": "litre"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 12,
+    "vat_percentage_decimal": "12.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    }
+  },
+  {
+    "id": "3804bc2bebfae091fd932a21",
+    "advertising_info": null,
+    "alcohol_permille": 0,
+    "allowed_delivery_methods": [
+      "homedelivery",
+      "eatin",
+      "takeaway"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 43200000,
+        "end_time": 73800000
+      }
+    ],
+    "barcode_gtin": "05010752000307",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "ac307c5789274c36d62c8de308eabbbf",
+    "description": "Емкость для выдержки/ Тип фильтрации: из-под хереса, из-под бурбона\n\nВид: Виски\nЦвет: Золотой\nВкус: Гладкий и мягкий\nАромат: Мягкий и фруктовый\nГастрономические сочетания: Употребляется в чистом виде или с льдом\nПослевкусие: Мягкое и фруктовое\nРегион:Спейсайд",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": true,
+    "images": [
+      {
+        "url": "https://imageproxy.wolt.com/assets/688b9904a3eb62eeb95c2251",
+        "blurhash": "LISs86of_4j]xufQRjj[xufQM{j["
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": true,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "Виски William Lawson'S  Fb 0.7 Л.  Ст/Б",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 732000,
+    "product_hierarchy_tags": [
+      "ALCOHOL"
+    ],
+    "purchasable_balance": 8,
+    "restrictions": [
+      {
+        "type": "age_restricted",
+        "age_limit": 21
+      }
+    ],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": false,
+    "tags": [],
+    "unit_info": "1,087 л",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 673413,
+      "unit": "litre"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 12,
+    "vat_percentage_decimal": "12.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    }
+  },
+  {
+    "id": "b361c522aa549078a23fd263",
+    "advertising_info": null,
+    "alcohol_permille": 0,
+    "allowed_delivery_methods": [
+      "homedelivery",
+      "eatin",
+      "takeaway"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 43200000,
+        "end_time": 73800000
+      }
+    ],
+    "barcode_gtin": "05000277002450",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "eec8e2abcae4a203e74a1a6ca97ec846",
+    "description": "Емкость для выдержки/ Тип фильтрации: Дубовые бочки\nВид: Виски (12 лет)\nЦвет: Золотой\nВкус: Комплексный и мягкий\nАромат: Фруктовый и слегка древесный\nГастрономические сочетания: Употребляется в чистом виде или с льдом\nПослевкусие: Комплексное и длительное\nРегион:Спейсайд",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": true,
+    "images": [
+      {
+        "url": "https://imageproxy.wolt.com/assets/688b9baeb2b18bf1da53691c",
+        "blurhash": "LhRymPjs_Nbct6ayWBkCx]fQM{js"
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": true,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "Виски Dewar'S 12Yo 0.7 Л. Ст/Б",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 2082900,
+    "product_hierarchy_tags": [
+      "ALCOHOL"
+    ],
+    "purchasable_balance": 3,
+    "restrictions": [
+      {
+        "type": "age_restricted",
+        "age_limit": 21
+      }
+    ],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": true,
+    "tags": [],
+    "unit_info": "1,329 л",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 1567269,
+      "unit": "litre"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 12,
+    "vat_percentage_decimal": "12.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    }
+  },
+  {
+    "id": "030b63c50c7afd8c7ca15501",
+    "advertising_info": null,
+    "alcohol_permille": 350,
+    "allowed_delivery_methods": [
+      "homedelivery",
+      "eatin",
+      "takeaway"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 43200000,
+        "end_time": 73800000
+      }
+    ],
+    "barcode_gtin": "05010752001281",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": false,
+      "venue": false,
+      "credits": false
+    },
+    "checksum": "a05f7fd8399d771c4face3b8575a335d",
+    "description": "Идея создания напитка \"William Lawson’s\" Super Spiced принадлежит бленд-мастеру компании Стефани Маклеод. Напиток представляет собой купаж односолодового и зернового виски, настоянный на ванили, мускатном орехе и корице. В качестве дополнительных ингредиентов при изготовлении напитка используют натуральный яблочный экстракт и кленовый сироп. Выдерживают \"William Lawson’s\" Super Spiced в бочках из-под хереса. Цвет:У виски красивый темно-янтарный цвет.Вкус:Вкус виски яркий, выразительный и в тоже время мягкий, с щедрыми нотами кофе, сливочной помадки, спелого инжира, цукатов и апельсинового джема. Послевкусие приятное, длительное.Аромат: Виски звучит теплыми ароматами ванили и сладких специй. Гастрономические сочетания:Виски хорош сам по себе, в чистом виде со льдом, либо в компании с колой.",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": true,
+    "images": [
+      {
+        "url": "https://imageproxy.wolt.com/assets/688b9904a3eb62eeb95c226e",
+        "blurhash": "LISs4~f6_Nt8t8fRV@ay%Mj[Mxax"
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": false,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "Виски William Lawson'S Spiced 0,7Л. 40% Ст/Б",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 769000,
+    "product_hierarchy_tags": [
+      "ALCOHOL"
+    ],
+    "purchasable_balance": 7,
+    "restrictions": [
+      {
+        "type": "alcohol",
+        "age_limit": 21
+      }
+    ],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": true,
+    "tags": [],
+    "unit_info": "700 мл",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 1098571,
+      "unit": "litre"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 12,
+    "vat_percentage_decimal": "12.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    }
+  },
+  {
+    "id": "510f75235a32a6f84baf1759",
+    "advertising_info": null,
+    "alcohol_permille": 400,
+    "allowed_delivery_methods": [
+      "eatin",
+      "takeaway",
+      "homedelivery"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 43200000,
+        "end_time": 73800000
+      }
+    ],
+    "barcode_gtin": "07640171037653",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": false,
+      "venue": false,
+      "credits": false
+    },
+    "checksum": "d6fbc0b34a2bbed1e4894ad62e4212f2",
+    "description": "Dewar`s Japanese Smooth 8 Years Old — купажированный шотландский виски восьмилетней выдержки. Особенностью, а точнее — \"изюминкой\", этого виски является то, что выдержка осуществляется в бочках из японского дуба Mizunara. Такая технология придает напитку дополнительную мягкость и интригующий вкус с нюансами меда, цветов и сандалового дерева.\nВыдержка: 8 лет в бочках из под японского дуба Mizunara. Цвет: золотистый Вкус: мягкий, с долгим, сбалансированным послевкусием.",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": true,
+    "images": [
+      {
+        "url": "https://imageproxy.wolt.com/assets/6888c0cea3eb62eeb95672a4",
+        "blurhash": "LUSPU-oK_4bIofa}ayj?xvfkM{f5"
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": false,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "Виски Dewar'S 8Yo Japanese 0.7 Л. Ст/Б",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 1210000,
+    "product_hierarchy_tags": [
+      "ALCOHOL"
+    ],
+    "purchasable_balance": 5,
+    "restrictions": [
+      {
+        "type": "alcohol",
+        "age_limit": 21
+      }
+    ],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": true,
+    "tags": [],
+    "unit_info": "700 мл",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 1728571,
+      "unit": "litre"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 12,
+    "vat_percentage_decimal": "12.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    }
+  },
+  {
+    "id": "bb65dfa5aed8ad5ddd3fba8e",
+    "advertising_info": null,
+    "alcohol_permille": 400,
+    "allowed_delivery_methods": [
+      "eatin",
+      "takeaway",
+      "homedelivery"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 43200000,
+        "end_time": 73800000
+      }
+    ],
+    "barcode_gtin": "07650280104511",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": false,
+      "venue": false,
+      "credits": false
+    },
+    "checksum": "c48e727f5f482f4f254ffd602189d41e",
+    "description": "\"Dewar\"s\" 8 Years Old — купажированный шотландский виски восьмилетней выдержки. Особенностью, а точнее — \"изюминкой\", этого виски является то, что выдержка осуществляется в бочках, ранее использовавшихся для выдержки карибского рома. Такая технология придает напитку дополнительную мягкость и интригующий вкус с нюансами тропических фруктов и карамели. Выдержка: 8 лет в бочках из под карибского рома Цвет: глубокий янтарный. Вкус: сочный, сладковато-пряный. Мягкий и интригующий вкус с нюансами тропических фруктов и карамели.\nИдеально подходит для употребления в чистом виде со льдом, а также в коктейлях.",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": true,
+    "images": [
+      {
+        "url": "https://imageproxy.wolt.com/assets/688b9adba3eb62eeb95c2781",
+        "blurhash": "LxQc^-WV~Ct7WBayofj[%2j[M{ay"
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": false,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "Набор Виски Dewar'S 8Yo Caribbean  0.7 Л. + 2 Glass",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 1516000,
+    "product_hierarchy_tags": [
+      "ALCOHOL"
+    ],
+    "purchasable_balance": 6,
+    "restrictions": [
+      {
+        "type": "alcohol",
+        "age_limit": 21
+      }
+    ],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": true,
+    "tags": [],
+    "unit_info": "700 мл",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 2165714,
+      "unit": "litre"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 12,
+    "vat_percentage_decimal": "12.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    }
+  },
+  {
+    "id": "d2d90eae43470b378869d0bf",
+    "advertising_info": null,
+    "alcohol_permille": 400,
+    "allowed_delivery_methods": [
+      "homedelivery",
+      "takeaway",
+      "eatin"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 43200000,
+        "end_time": 73800000
+      }
+    ],
+    "barcode_gtin": "07640171038087",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": false,
+      "venue": false,
+      "credits": false
+    },
+    "checksum": "548fe3cbcc02eedde6225116090d6955",
+    "description": "Dewar`s Portuguese Smooth - это праздник двух культур Португалии и Шотландии, привносящий яркость и красочный вкус, олицетворяющий обе страны. Выдержка: 8 лет в бочках из-под португальского портвейна Цвет: темного золота Вкус: сливочной ванили и верескового мёда.Виски раскрывается яркими нотами спелых абрикосов, медовой дыни, красных ягод с доминантой вишни и чёрной смородины на фоне щедрых оттенков сливочной ванили и верескового мёда.Рекомендуется употреблять в чистом виде со льдом, а также с добавлением небольшого количества воды. Напиток прекрасен в качестве дижестива.",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": true,
+    "images": [
+      {
+        "url": "https://imageproxy.wolt.com/assets/6888c11f1f0cac713af698bd",
+        "blurhash": "LUS~bUni*0gNozayaekCo~fRVsay"
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": false,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "Виски Dewar'S 8Yo Portuguese 0.7 Л. Ст/Б",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 1338000,
+    "product_hierarchy_tags": [
+      "ALCOHOL"
+    ],
+    "purchasable_balance": 7,
+    "restrictions": [
+      {
+        "type": "alcohol",
+        "age_limit": 21
+      }
+    ],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": true,
+    "tags": [],
+    "unit_info": "700 мл",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 1911429,
+      "unit": "litre"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 12,
+    "vat_percentage_decimal": "12.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    }
+  },
+  {
+    "id": "3e8e674fc4a2d16eec7d4731",
+    "advertising_info": null,
+    "alcohol_permille": 400,
+    "allowed_delivery_methods": [
+      "homedelivery",
+      "takeaway",
+      "eatin"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 43200000,
+        "end_time": 73800000
+      }
+    ],
+    "barcode_gtin": "07640171033730",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": false,
+      "venue": false,
+      "credits": false
+    },
+    "checksum": "f53cde5ef6244a9fa7a624b09c28862a",
+    "description": "Dewar`s 8 Years Old — купажированный шотландский виски восьмилетней выдержки. Особенностью, а точнее — \"изюминкой\", этого виски является то, что выдержка осуществляется в бочках, ранее использовавшихся для выдержки карибского рома. Такая технология придает напитку дополнительную мягкость и интригующий вкус с нюансами тропических фруктов и карамели. Выдержка: 8 лет в бочках из под карибского рома Цвет: глубокий янтарный. Вкус: сочный, сладковато-пряный. Мягкий и интригующий вкус с нюансами тропических фруктов и карамели.\nИдеально подходит для употребления в чистом виде со льдом, а также в коктейлях.",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": true,
+    "images": [
+      {
+        "url": "https://imageproxy.wolt.com/assets/688b9b8223fa16f725af9ead",
+        "blurhash": "LVR{=Eo0~WX9ofj[fQayxua}M{o0"
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": false,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "Виски Dewar'S 8Yo Caribbean 0.7 Л. Ст/Б",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 1338000,
+    "product_hierarchy_tags": [
+      "ALCOHOL"
+    ],
+    "purchasable_balance": 5,
+    "restrictions": [
+      {
+        "type": "alcohol",
+        "age_limit": 21
+      }
+    ],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": true,
+    "tags": [],
+    "unit_info": "700 мл",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 1911429,
+      "unit": "litre"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 12,
+    "vat_percentage_decimal": "12.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    }
+  },
+  {
+    "id": "f554784aca0b194c296afb45",
+    "advertising_info": null,
+    "alcohol_permille": 400,
+    "allowed_delivery_methods": [
+      "eatin",
+      "takeaway",
+      "homedelivery"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 43200000,
+        "end_time": 73800000
+      }
+    ],
+    "barcode_gtin": "05010327000091",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": false,
+      "venue": false,
+      "credits": false
+    },
+    "checksum": "8b1901be95a045f1ab59f93ebadc2073",
+    "description": "Емкость для выдержки/ Тип фильтрации: Дубовые\nИз-под бурбона\nВид: Бленд (Blended)\nЦвет: Янтарный\nВкус: Фруктовый, солодовый, с нотами торфа и спелых бананов\nАромат: Зеленое яблоко, солод, мед, дымность\nГастрономические сочетания: Grants Triple Wood рекомендовано подавать в чистом виде, в качестве дижестива, с небольшим количеством воды или льда.\nПослевкусие: Послевкусие продолжительное, сладковатое, с тонкими намеками на дым.\nРегион:Спейсайд и Айла",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": true,
+    "images": [
+      {
+        "url": "https://imageproxy.wolt.com/assets/6888ba2723fa16f725a96137",
+        "blurhash": "LOS$idj[?wofxufQRjayxvfQM_ay"
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": false,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "Grant'S Виски Купажированный Grant'S Triple Wood 0.5 Л.",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 766000,
+    "product_hierarchy_tags": [
+      "ALCOHOL"
+    ],
+    "purchasable_balance": 3,
+    "restrictions": [
+      {
+        "type": "alcohol",
+        "age_limit": 21
+      }
+    ],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": true,
+    "tags": [],
+    "unit_info": "500 мл",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 1532000,
+      "unit": "litre"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 12,
+    "vat_percentage_decimal": "12.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    }
+  },
+  {
+    "id": "bcdb97361743027c059fe3a7",
+    "advertising_info": null,
+    "alcohol_permille": 400,
+    "allowed_delivery_methods": [
+      "eatin",
+      "takeaway",
+      "homedelivery"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 43200000,
+        "end_time": 73800000
+      }
+    ],
+    "barcode_gtin": "05010327326108",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": false,
+      "venue": false,
+      "credits": false
+    },
+    "checksum": "57769bb543ad5e48a4819ad1ff948f19",
+    "description": "Емкость для выдержки/ Тип фильтрации: американский дуб, европейский дуб\n\nВид: Односолодовый\nЦвет: Виски янтарного цвета с отблесками.\nВкус: Виски обладает мягким, округлым, сладковатым вкусом с нотками ванили, груши, меда и длительным, сухим послевкусием с нюансами шоколада. \nАромат: Виски обладает легким, свежим ароматом с тонами цитрусов, груши, дуба, нотками орехов и солода\nГастрономические сочетания: Виски рекомендуется употреблять в чистом виде со льдом, напиток прекрасен в качестве дижестива. \nПослевкусие: послевкусие с нюансами шоколада.\nРегион:Спейсайд",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": true,
+    "images": [
+      {
+        "url": "https://imageproxy.wolt.com/assets/688b9904a3eb62eeb95c2256",
+        "blurhash": "L.Q0aNof~qWBt7j[RkWBt7j[WBax"
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": false,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "Glenfiddich Виски Односолодовый Glenfiddich 12 0.5 Л.",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 2860000,
+    "product_hierarchy_tags": [
+      "ALCOHOL"
+    ],
+    "purchasable_balance": 1,
+    "restrictions": [
+      {
+        "type": "alcohol",
+        "age_limit": 21
+      }
+    ],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": true,
+    "tags": [],
+    "unit_info": "500 мл",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 5720000,
+      "unit": "litre"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 12,
+    "vat_percentage_decimal": "12.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    }
+  },
+  {
+    "id": "21fd004fb35b27c40ec45a2c",
+    "advertising_info": null,
+    "alcohol_permille": 400,
+    "allowed_delivery_methods": [
+      "eatin",
+      "takeaway",
+      "homedelivery"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 43200000,
+        "end_time": 73800000
+      }
+    ],
+    "barcode_gtin": "05010327000176",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": false,
+      "venue": false,
+      "credits": false
+    },
+    "checksum": "f140f4bcff16cd49d94f901c3bbd8e9f",
+    "description": "Емкость для выдержки/ Тип фильтрации: американский дуб, европейский дуб\n\nВид: Односолодовый\nЦвет: Виски янтарного цвета с отблесками.\nВкус: Виски обладает мягким, округлым, сладковатым вкусом с нотками ванили, груши, меда и длительным, сухим послевкусием с нюансами шоколада. \nАромат: Виски обладает легким, свежим ароматом с тонами цитрусов, груши, дуба, нотками орехов и солода\nГастрономические сочетания: Виски рекомендуется употреблять в чистом виде со льдом, напиток прекрасен в качестве дижестива. \nПослевкусие: послевкусие с нюансами шоколада.\nРегион:Спейсайд",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": true,
+    "images": [
+      {
+        "url": "https://imageproxy.wolt.com/assets/688b9efa23fa16f725afcd36",
+        "blurhash": "L.Q0aNof~qWBt7j[RkWBt7j[WBax"
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": false,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "Glenfiddich Односолодовый Виски Glenfiddich 12 0.7 Л.",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 3705000,
+    "product_hierarchy_tags": [
+      "ALCOHOL"
+    ],
+    "purchasable_balance": 5,
+    "restrictions": [
+      {
+        "type": "alcohol",
+        "age_limit": 21
+      }
+    ],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": true,
+    "tags": [],
+    "unit_info": "750 мл",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 4940000,
+      "unit": "litre"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 12,
+    "vat_percentage_decimal": "12.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    }
+  },
+  {
+    "id": "a0febd25ce069aa36122870b",
+    "advertising_info": null,
+    "alcohol_permille": 400,
+    "allowed_delivery_methods": [
+      "eatin",
+      "takeaway",
+      "homedelivery"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 43200000,
+        "end_time": 73800000
+      }
+    ],
+    "barcode_gtin": "05099873089798",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": false,
+      "venue": false,
+      "credits": false
+    },
+    "checksum": "da993c5d7334e95f3830d2a85023c818",
+    "description": "Емкость для выдержки/ Тип фильтрации: дубовые бочки\nВид: straight bourbon\nЦвет: Благородный янтарный.\nВкус: Сочетает в себе карамельно-ванильные и древесные нотки и легкие нюансы дыма.\nАромат: Достаточно легкий и гладкий, с приятной сладостью, нотками специй, маслянистыми оттенками орехов, дымными нюансами.\nГастрономические сочетания: Jack Daniels № 7 пьют в чистом виде с кубиками льда. Можно добавить содовую или просто воду. Уместен в разнообразных коктейлях.\n\n\nПослевкусие: нотки жженой карамели, ирисок и дерева\nРегион:Теннеси",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": true,
+    "images": [
+      {
+        "url": "https://imageproxy.wolt.com/assets/688b9f0c23fa16f725afcf2b",
+        "blurhash": "LTSPU.j[_NofxufQM{fQxufQM{fQ"
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": false,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "Jack Daniels Jack Daniels 0.7",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 1495000,
+    "product_hierarchy_tags": [
+      "ALCOHOL"
+    ],
+    "purchasable_balance": 5,
+    "restrictions": [
+      {
+        "type": "alcohol",
+        "age_limit": 21
+      }
+    ],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": true,
+    "tags": [],
+    "unit_info": "750 мл",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 1993333,
+      "unit": "litre"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 12,
+    "vat_percentage_decimal": "12.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    }
+  },
+  {
+    "id": "a37d7300ddd06cc6ca51c124",
+    "advertising_info": null,
+    "alcohol_permille": 400,
+    "allowed_delivery_methods": [
+      "homedelivery",
+      "takeaway",
+      "eatin"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 43200000,
+        "end_time": 73800000
+      }
+    ],
+    "barcode_gtin": "05010752000345",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": false,
+      "venue": false,
+      "credits": false
+    },
+    "checksum": "3ea048d2b04a5627dfe2142cfe277f40",
+    "description": "William Lawson's относится к категории купажированных скотчей. А это самый популярный вид виски во всем мире благодаря идеальному соотношению цены и качества. У большинства шотландских скотчей есть одна особенность — специфический дымный аромат и чуть терпкий торфяной привкус.",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": true,
+    "images": [
+      {
+        "url": "https://imageproxy.wolt.com/assets/6888c273a3eb62eeb9569241",
+        "blurhash": "LNSY~xof~Xj[xufQRjj[t7ayRjj["
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": false,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "Виски William Lawson'S Fb 1L, 40%",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 965000,
+    "product_hierarchy_tags": [
+      "ALCOHOL"
+    ],
+    "purchasable_balance": 7,
+    "restrictions": [
+      {
+        "type": "alcohol",
+        "age_limit": 21
+      }
+    ],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": true,
+    "tags": [],
+    "unit_info": "1 л",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 965000,
+      "unit": "litre"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 12,
+    "vat_percentage_decimal": "12.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    }
+  },
+  {
+    "id": "be702f35210aa3fdacc24ab4",
+    "advertising_info": null,
+    "alcohol_permille": 400,
+    "allowed_delivery_methods": [
+      "homedelivery",
+      "takeaway",
+      "eatin"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 43200000,
+        "end_time": 73800000
+      }
+    ],
+    "barcode_gtin": "05000277001200",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": false,
+      "venue": false,
+      "credits": false
+    },
+    "checksum": "62c01ba3a8bb60ed1dec8f321c33f830",
+    "description": "У Дьюарс Уайт Лейбл приятный насыщенно-золотистый оттенок. Во вкусе раскрываются пряно-сухие оттенки фруктов и карамели. На финише вперед выходят терпкие пряности с легким дымно-цветочным шлейфом. В аромате ощущаются вересковые и солодовые мотивы.",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": true,
+    "images": [
+      {
+        "url": "https://imageproxy.wolt.com/assets/6888befca3eb62eeb956386c",
+        "blurhash": "LJS~q:of.Toft8fQWAfQozfQV@fQ"
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": false,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "Виски Dewar'S White Label 1L, 40%",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 1271000,
+    "product_hierarchy_tags": [
+      "ALCOHOL"
+    ],
+    "purchasable_balance": 8,
+    "restrictions": [
+      {
+        "type": "alcohol",
+        "age_limit": 21
+      }
+    ],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": false,
+    "tags": [],
+    "unit_info": "1 л",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 1271000,
+      "unit": "litre"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 12,
+    "vat_percentage_decimal": "12.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    }
+  },
+  {
+    "id": "b5b07afe1496f6efbceefbcc",
+    "advertising_info": null,
+    "alcohol_permille": 400,
+    "allowed_delivery_methods": [
+      "homedelivery",
+      "takeaway",
+      "eatin"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 43200000,
+        "end_time": 73800000
+      }
+    ],
+    "barcode_gtin": "05000299606728",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": false,
+      "venue": false,
+      "credits": false
+    },
+    "checksum": "a508667ef379a219ba9a01800a2721ef",
+    "description": "Шотландский купажированный виски с медовыми и карамельными нотами.",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": true,
+    "images": [
+      {
+        "url": "https://imageproxy.wolt.com/assets/688b9ca423fa16f725afb28e",
+        "blurhash": "LPSidHay_Nt8xuj[Rjayx]j[MxWB"
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": false,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "ВИСКИ BALLANTINES FINEST 3 ГОДА 40% 0,5 Л",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 827000,
+    "product_hierarchy_tags": [
+      "ALCOHOL"
+    ],
+    "purchasable_balance": 11,
+    "restrictions": [
+      {
+        "type": "alcohol",
+        "age_limit": 21
+      }
+    ],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": false,
+    "tags": [],
+    "unit_info": "500 мл",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 1654000,
+      "unit": "litre"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 12,
+    "vat_percentage_decimal": "12.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    }
+  },
+  {
+    "id": "a02688459ba228b7ec807ca0",
+    "advertising_info": null,
+    "alcohol_permille": 400,
+    "allowed_delivery_methods": [
+      "homedelivery",
+      "takeaway",
+      "eatin"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 43200000,
+        "end_time": 73800000
+      }
+    ],
+    "barcode_gtin": "05010106111956",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": false,
+      "venue": false,
+      "credits": false
+    },
+    "checksum": "6b10409c177f8909a443bf21c3015d65",
+    "description": "Шотландский купажированный виски с оттенками меда, дуба и специй.",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": true,
+    "images": [
+      {
+        "url": "https://imageproxy.wolt.com/assets/678a1dd02546460362e16a1f",
+        "blurhash": "LZSY:Qj[?wj[xufQRjfQo#fQV?j["
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": false,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "ВИСКИ BALLANTINES FINEST 3 ГОДА 40% 1 Л",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 1399000,
+    "product_hierarchy_tags": [
+      "ALCOHOL"
+    ],
+    "purchasable_balance": 14,
+    "restrictions": [
+      {
+        "type": "alcohol",
+        "age_limit": 21
+      }
+    ],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": false,
+    "tags": [],
+    "unit_info": "1 л",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 1399000,
+      "unit": "litre"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 12,
+    "vat_percentage_decimal": "12.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    }
+  },
+  {
+    "id": "08b298a22daf72222f915431",
+    "advertising_info": null,
+    "alcohol_permille": 400,
+    "allowed_delivery_methods": [
+      "homedelivery",
+      "takeaway",
+      "eatin"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 43200000,
+        "end_time": 73800000
+      }
+    ],
+    "barcode_gtin": "00080432400432",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": false,
+      "venue": false,
+      "credits": false
+    },
+    "checksum": "a91058807c80a209a154d74c29c0a6f5",
+    "description": "Шотландский 12-летний купажированный виски с насыщенными нотами ванили и дуба.",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": true,
+    "images": [
+      {
+        "url": "https://imageproxy.wolt.com/assets/678a1dd02546460362e16a1d",
+        "blurhash": "LwRfOaWC?^t6juWBj[t7tRj[RiWC"
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": false,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "Виски Chivas Regal 12Yo Nr 40% 1 L",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 1815000,
+    "product_hierarchy_tags": [
+      "ALCOHOL"
+    ],
+    "purchasable_balance": 11,
+    "restrictions": [
+      {
+        "type": "alcohol",
+        "age_limit": 21
+      }
+    ],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": false,
+    "tags": [],
+    "unit_info": "1 л",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 1815000,
+      "unit": "litre"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 12,
+    "vat_percentage_decimal": "12.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    }
+  },
+  {
+    "id": "c7f50e7a01aee40cd2e21262",
+    "advertising_info": null,
+    "alcohol_permille": 400,
+    "allowed_delivery_methods": [
+      "homedelivery",
+      "takeaway",
+      "eatin"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 43200000,
+        "end_time": 73800000
+      }
+    ],
+    "barcode_gtin": "05011007003227",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": false,
+      "venue": false,
+      "credits": false
+    },
+    "checksum": "9c80bb359749718f1b2c03cc74817eab",
+    "description": "Ирландский виски с тройной дистилляцией, мягкий вкус с нотками орехов и ванили.",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": true,
+    "images": [
+      {
+        "url": "https://imageproxy.wolt.com/assets/678a1dd02546460362e16a20",
+        "blurhash": "LSSs4{j[?dofxcfQR$azbJfQjXjt"
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": false,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "Виски Jameson Irish Whiskey 40% 1 L",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 1924000,
+    "product_hierarchy_tags": [
+      "ALCOHOL"
+    ],
+    "purchasable_balance": 10,
+    "restrictions": [
+      {
+        "type": "alcohol",
+        "age_limit": 21
+      }
+    ],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": false,
+    "tags": [],
+    "unit_info": "1 л",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 1924000,
+      "unit": "litre"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 12,
+    "vat_percentage_decimal": "12.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    }
+  },
+  {
+    "id": "537c864417d214dfff77eab3",
+    "advertising_info": null,
+    "alcohol_permille": 400,
+    "allowed_delivery_methods": [
+      "eatin",
+      "takeaway",
+      "homedelivery"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 43200000,
+        "end_time": 73800000
+      }
+    ],
+    "barcode_gtin": "05000277001101",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": false,
+      "venue": false,
+      "credits": false
+    },
+    "checksum": "d372301a683bbdb67fdb7169d23b03fe",
+    "description": "Емкость для выдержки/ Тип фильтрации: Дубовые бочки\nВид: Виски\nЦвет: Золотой\nВкус: Мягкий и фруктовый\nАромат: Фруктовый и слегка пряный\nГастрономические сочетания: Употребляется в чистом виде или с льдом\nПослевкусие: Мягкое и фруктовое\nРегион:Спейсайд",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": true,
+    "images": [
+      {
+        "url": "https://imageproxy.wolt.com/assets/688b9afe23fa16f725af9475",
+        "blurhash": "LHS?AMof?woetRfQRjfktRfPRPj["
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": false,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "Виски Dewar'S White Label 0.7 Л. Ст/Б",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 948000,
+    "product_hierarchy_tags": [
+      "ALCOHOL"
+    ],
+    "purchasable_balance": 9,
+    "restrictions": [
+      {
+        "type": "alcohol",
+        "age_limit": 21
+      }
+    ],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": false,
+    "tags": [],
+    "unit_info": "1,076 л",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 881041,
+      "unit": "litre"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 12,
+    "vat_percentage_decimal": "12.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    }
+  },
+  {
+    "id": "b6bd262de65ef5101b21eb39",
+    "advertising_info": null,
+    "alcohol_permille": 400,
+    "allowed_delivery_methods": [
+      "homedelivery",
+      "eatin",
+      "takeaway"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 43200000,
+        "end_time": 73800000
+      }
+    ],
+    "barcode_gtin": "03800011415698",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": false,
+      "venue": false,
+      "credits": false
+    },
+    "checksum": "90d0ff41be85f1e1f791f12b25fde0a5",
+    "description": "Виски обладает гладким, округлым вкусом, немного сладковатым и пряным. так же ,улавливаются древесные тона, нотки лимоннгого крема, сухих трав и корицы. в послевкусии присутствуют тона сладких специй.",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": true,
+    "images": [],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": false,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "Glen Stone Виски шотландское 40% 500мл",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 610000,
+    "product_hierarchy_tags": [
+      "ALCOHOL"
+    ],
+    "purchasable_balance": 6,
+    "restrictions": [
+      {
+        "type": "alcohol",
+        "age_limit": 18
+      }
+    ],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": true,
+    "tags": [],
+    "unit_info": "250 мл",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 2440000,
+      "unit": "litre"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 12,
+    "vat_percentage_decimal": "12.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    }
+  },
+  {
+    "id": "a236b7a89d4225b5c834ba1c",
+    "advertising_info": null,
+    "alcohol_permille": 400,
+    "allowed_delivery_methods": [
+      "homedelivery",
+      "eatin",
+      "takeaway"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 43200000,
+        "end_time": 73800000
+      }
+    ],
+    "barcode_gtin": "03800011415704",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": false,
+      "venue": false,
+      "credits": false
+    },
+    "checksum": "fe6fb6ee36b6f3c06b469b964cf21f6c",
+    "description": "Виски обладает гладким, округлым вкусом, немного сладковатым и пряным. так же ,улавливаются древесные тона, нотки лимоннгого крема, сухих трав и корицы. в послевкусии присутствуют тона сладких специй.",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": true,
+    "images": [
+      {
+        "url": "https://imageproxy.wolt.com/assets/68a86c7b10ec70798b774857",
+        "blurhash": "LMS$ieoL?wkCxuayNGj[kXfQaJf6"
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": false,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "Glen Stone Виски шотландское 40% 700мл",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 782000,
+    "product_hierarchy_tags": [
+      "ALCOHOL"
+    ],
+    "purchasable_balance": 6,
+    "restrictions": [
+      {
+        "type": "alcohol",
+        "age_limit": 18
+      }
+    ],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": true,
+    "tags": [],
+    "unit_info": "250 мл",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 3128000,
+      "unit": "litre"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 12,
+    "vat_percentage_decimal": "12.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    }
+  },
+  {
+    "id": "367d88da3c72210c4f0c7b8e",
+    "advertising_info": null,
+    "alcohol_permille": 400,
+    "allowed_delivery_methods": [
+      "homedelivery",
+      "eatin",
+      "takeaway"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 43200000,
+        "end_time": 73800000
+      }
+    ],
+    "barcode_gtin": "03800011415209",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": false,
+      "venue": false,
+      "credits": false
+    },
+    "checksum": "e4c0e3eee672254a39dc463b15e92c1c",
+    "description": "Виски обладает гладким, округлым вкусом, немного сладковатым и пряным. так же ,улавливаются древесные тона, нотки лимоннгого крема, сухих трав и корицы. в послевкусии присутствуют тона сладких специй.",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": true,
+    "images": [
+      {
+        "url": "https://imageproxy.wolt.com/assets/68a86c7b10ec70798b774854",
+        "blurhash": "LPSr}+j[?wofxufkRjaytRfQVsf6"
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": false,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "Glen Stone Виски шотландское 40% 500мл",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 610000,
+    "product_hierarchy_tags": [
+      "ALCOHOL"
+    ],
+    "purchasable_balance": 5,
+    "restrictions": [
+      {
+        "type": "alcohol",
+        "age_limit": 18
+      }
+    ],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": true,
+    "tags": [],
+    "unit_info": "250 мл",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 2440000,
+      "unit": "litre"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 12,
+    "vat_percentage_decimal": "12.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    }
+  },
+  {
+    "id": "3de3814a95c016ea664401aa",
+    "advertising_info": null,
+    "alcohol_permille": 400,
+    "allowed_delivery_methods": [
+      "homedelivery",
+      "eatin",
+      "takeaway"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 43200000,
+        "end_time": 73800000
+      }
+    ],
+    "barcode_gtin": "03800011415063",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": false,
+      "venue": false,
+      "credits": false
+    },
+    "checksum": "f2695eb23de5c8d41550fab5a5016e2d",
+    "description": "Виски обладает гладким, округлым вкусом, немного сладковатым и пряным. так же ,улавливаются древесные тона, нотки лимоннгого крема, сухих трав и корицы. в послевкусии присутствуют тона сладких специй.",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": true,
+    "images": [
+      {
+        "url": "https://imageproxy.wolt.com/assets/68a86c7b10ec70798b774853",
+        "blurhash": "LNSr},j[_NofxuayM|j[tSfQRPfQ"
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": false,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "Glen Stone Виски шотландское 40% 700мл",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 782000,
+    "product_hierarchy_tags": [
+      "ALCOHOL"
+    ],
+    "purchasable_balance": 6,
+    "restrictions": [
+      {
+        "type": "alcohol",
+        "age_limit": 18
+      }
+    ],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": true,
+    "tags": [],
+    "unit_info": "250 мл",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 3128000,
+      "unit": "litre"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 12,
+    "vat_percentage_decimal": "12.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    }
+  },
+  {
+    "id": "2c3417f98e57fe0906070f45",
+    "advertising_info": null,
+    "alcohol_permille": 400,
+    "allowed_delivery_methods": [
+      "eatin",
+      "takeaway",
+      "homedelivery"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 43200000,
+        "end_time": 73800000
+      }
+    ],
+    "barcode_gtin": "05010327105215",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": false,
+      "venue": false,
+      "credits": false
+    },
+    "checksum": "7613475c84ff889bda051073491c290d",
+    "description": "Емкость для выдержки/ Тип фильтрации: Из-под бурбона\nВид: \nblended malt, солодовый\nЦвет: Виски светлого янтарного цвета.\nВкус: Вкус виски гладкий, округлый, ванильный, с нюансами меда и апельсина, легким ментоловым послевкусием. Подробнее: https://winestyle.ru\nАромат: В аромате виски ощущается солодовая сладость, нюансы заварного крема, мармелада, банана. Подробнее: https://winestyle.ru\nГастрономические сочетания: Хороший дижестив. Monkey Shoulder подавайте к бокалу напитка сигару или чашку горячего кофе, можно положить в бокал лед или добавить несколько капель чистой воды.\nПослевкусие: Виски прекрасен в качестве дижестива, как компонент коктейлей, с сигарой. Подробнее: https://winestyle.ru\nРегион:Спейсайд",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": true,
+    "images": [
+      {
+        "url": "https://imageproxy.wolt.com/assets/6888bbd523fa16f725a97b68",
+        "blurhash": "LfSiQ*oL.TWVtRayV?j[bwa{i^j["
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": false,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "Monkey Shoulder Виски Солодовый 0.7Л",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 2600000,
+    "product_hierarchy_tags": [
+      "ALCOHOL"
+    ],
+    "purchasable_balance": 4,
+    "restrictions": [
+      {
+        "type": "alcohol",
+        "age_limit": 21
+      }
+    ],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": true,
+    "tags": [],
+    "unit_info": "700 мл",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 3714286,
+      "unit": "litre"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 12,
+    "vat_percentage_decimal": "12.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    }
+  },
+  {
+    "id": "1f2cfffd427463b5252fa90e",
+    "advertising_info": null,
+    "alcohol_permille": 400,
+    "allowed_delivery_methods": [
+      "homedelivery",
+      "takeaway",
+      "eatin"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 43200000,
+        "end_time": 73800000
+      }
+    ],
+    "barcode_gtin": "04850001002307",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": false,
+      "venue": false,
+      "credits": false
+    },
+    "checksum": "bda91ea8ae21fa4841fcb8a11dc141b6",
+    "description": "Емкость для выдержки/ Тип фильтрации: Дубовые бочки\nВид: Коньяк (5 лет)\nЦвет: Фруктово-деревянные, с оттенками дуба\nВкус: Употребляется в чистом виде или в коктейлях\nАромат: Сложное и теплое\nГастрономические сочетания: Употребляется в чистом виде или в коктейлях\nПослевкусие: Сложное и теплое\nРегион:Ереван",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": true,
+    "images": [
+      {
+        "url": "https://imageproxy.wolt.com/assets/688b9e4123fa16f725afc362",
+        "blurhash": "LaR{uvjZ_NkWxua|RPj[%ga|IAoL"
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": false,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "Коньяк Арарат 5 Лет 40% 0.5 L Nr",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 779000,
+    "product_hierarchy_tags": [
+      "ALCOHOL"
+    ],
+    "purchasable_balance": 12,
+    "restrictions": [
+      {
+        "type": "alcohol",
+        "age_limit": 21
+      }
+    ],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": false,
+    "tags": [],
+    "unit_info": "500 мл",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 1558000,
+      "unit": "litre"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 12,
+    "vat_percentage_decimal": "12.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    }
+  },
+  {
+    "id": "76ba3ef6dd5e6754dd776b9c",
+    "advertising_info": null,
+    "alcohol_permille": 400,
+    "allowed_delivery_methods": [
+      "eatin",
+      "takeaway",
+      "homedelivery"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 43200000,
+        "end_time": 73800000
+      }
+    ],
+    "barcode_gtin": "04850001001904",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": false,
+      "venue": false,
+      "credits": false
+    },
+    "checksum": "79c86e2edb099de0fa9f6b44ced26750",
+    "description": "Емкость для выдержки/ Тип фильтрации: Дубовые бочки\nВид: Коньяк (3 года)\nЦвет: Фруктово-деревянные, фруктово-деревянные\nВкус: Употребляется в чистом виде или в коктейлях\nАромат: Гладкое и древесное\nГастрономические сочетания: Употребляется в чистом виде или в коктейлях\nПослевкусие: Гладкое и древесное\nРегион:Ереван",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": true,
+    "images": [
+      {
+        "url": "https://imageproxy.wolt.com/assets/6888c1201f0cac713af698d7",
+        "blurhash": "LGS?7FjZ?^tRxuj[Rjayx]j[Mxae"
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": false,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "Коньяк Арарат 3 Года 40% 0.5 L Nr",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 633000,
+    "product_hierarchy_tags": [
+      "ALCOHOL"
+    ],
+    "purchasable_balance": 18,
+    "restrictions": [
+      {
+        "type": "alcohol",
+        "age_limit": 21
+      }
+    ],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": false,
+    "tags": [],
+    "unit_info": "500 мл",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 1266000,
+      "unit": "litre"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 12,
+    "vat_percentage_decimal": "12.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    }
+  },
+  {
+    "id": "cc0b20f0ae6c1775f811c43c",
+    "advertising_info": null,
+    "alcohol_permille": 400,
+    "allowed_delivery_methods": [
+      "eatin",
+      "takeaway",
+      "homedelivery"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 43200000,
+        "end_time": 73800000
+      }
+    ],
+    "barcode_gtin": "04860053012032",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": false,
+      "venue": false,
+      "credits": false
+    },
+    "checksum": "430b93a23c6b2d641a770f388677c194",
+    "description": "Емкость для выдержки/ Тип фильтрации: Дубовые Бочки\nВид: классический грузинский коньяк\nЦвет: Цвет коньяка — золотисто-янтарный.\nВкус: В утонченном аромате коньяка доминируют оттенки спелых фруктов и виноградные тона, особую изысканность букету придают ванильные нюансы.\nАромат: Интенсивный вкус коньяка раскрывается насыщенными оттенками миндаля и меда, которые продолжаются в ощутимом послевкусии. Подробнее: https://winestyle.ru\nГастрономические сочетания: Рекомендуется употреблять коньяк в чистом виде как дижестив. \nПослевкусие: Длительное древесно-пряное послевкусие.\nРегион:Кахетия, Тбилиси и Гурия",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": true,
+    "images": [
+      {
+        "url": "https://imageproxy.wolt.com/assets/688b9bd3b2b18bf1da536e88",
+        "blurhash": "LKS$lmoe?woft8fkV@aytRfQRPfQ"
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": false,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "Асканели Коньяк Асканели Пятилетний 0.5 Л",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 594000,
+    "product_hierarchy_tags": [
+      "ALCOHOL"
+    ],
+    "purchasable_balance": 5,
+    "restrictions": [
+      {
+        "type": "alcohol",
+        "age_limit": 21
+      }
+    ],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": true,
+    "tags": [],
+    "unit_info": "500 мл",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 1188000,
+      "unit": "litre"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 12,
+    "vat_percentage_decimal": "12.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    }
+  },
+  {
+    "id": "86b85cca2d84bcac6e0e5d70",
+    "advertising_info": null,
+    "alcohol_permille": 400,
+    "allowed_delivery_methods": [
+      "homedelivery",
+      "takeaway",
+      "eatin"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 43200000,
+        "end_time": 73800000
+      }
+    ],
+    "barcode_gtin": "03558270000987",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": false,
+      "venue": false,
+      "credits": false
+    },
+    "checksum": "b74f050031dc06d066c56d0d19f9a62f",
+    "description": "Французский коньяк VSOP с выдержкой не менее 4 лет, обладает насыщенным ароматом и бархатистым вкусом.",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": true,
+    "images": [
+      {
+        "url": "https://imageproxy.wolt.com/assets/6888c1151f0cac713af6963e",
+        "blurhash": "LoRo~gs:_NNHt7j[V@aet8fRRijs"
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": false,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "Коньяк Lheraud Cognac Vsop, 0.7 Л",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 3620500,
+    "product_hierarchy_tags": [
+      "ALCOHOL"
+    ],
+    "purchasable_balance": 5,
+    "restrictions": [
+      {
+        "type": "alcohol",
+        "age_limit": 21
+      }
+    ],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": true,
+    "tags": [],
+    "unit_info": "700 мл",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 5172143,
+      "unit": "litre"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 12,
+    "vat_percentage_decimal": "12.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    }
+  },
+  {
+    "id": "aa7d26447d62c761c083644f",
+    "advertising_info": null,
+    "alcohol_permille": 350,
+    "allowed_delivery_methods": [
+      "eatin",
+      "takeaway",
+      "homedelivery"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 43200000,
+        "end_time": 73800000
+      }
+    ],
+    "barcode_gtin": "04067700014566",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": false,
+      "venue": false,
+      "credits": false
+    },
+    "checksum": "320e9c55d9e3f8ef8a5c13b13706e692",
+    "description": "Емкость для выдержки/ Тип фильтрации: дубовых бочках\nВид: Ликер\nЦвет: Глубокий темный цвет настойки достигается благодаря выдержке в дубовых бочках. \nВкус: Вкус ликера травяной, терпкий, но при этом мягкий.\nАромат: \nГастрономические сочетания: Ликер можно употреблять в качестве дижестива для улучшения пищеварения. На его основе готовят большое количество коктейлей \nПослевкусие: Послевкусие длительное, согревающее.\nРегион:Вольфенбюттель",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": true,
+    "images": [
+      {
+        "url": "https://imageproxy.wolt.com/assets/688b98c0b2b18bf1da5344d7",
+        "blurhash": "LjRfkAj[~qj@t7fQWAfQozfQV@j["
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": false,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "Jägermeister Ликёр 0.5L",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 852500,
+    "product_hierarchy_tags": [
+      "ALCOHOL"
+    ],
+    "purchasable_balance": 2,
+    "restrictions": [
+      {
+        "type": "alcohol",
+        "age_limit": 21
+      }
+    ],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": true,
+    "tags": [],
+    "unit_info": "500 мл",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 1705000,
+      "unit": "litre"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 12,
+    "vat_percentage_decimal": "12.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    }
+  },
+  {
+    "id": "53a45d2b5e7d6e2d56cb6fd0",
+    "advertising_info": null,
+    "alcohol_permille": 190,
+    "allowed_delivery_methods": [
+      "homedelivery",
+      "takeaway",
+      "eatin"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 28800000,
+        "end_time": 81900000
+      }
+    ],
+    "barcode_gtin": "08802521205719",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "9846f3a46777af73817ad17d4b059586",
+    "description": "Ликер из корейского женьшеня Kooksoondang Korean Ginseng Liquor",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": true,
+    "images": [
+      {
+        "url": "https://imageproxy.wolt.com/assets/6814aa7907957033a1b15501",
+        "blurhash": "LIS?ALj??wt8kDa|oIj@xvj[M_ax"
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": false,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "Женьшеневый ликёр, бутылка 375 мл, 19%",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 976500,
+    "product_hierarchy_tags": [
+      "ALCOHOL"
+    ],
+    "purchasable_balance": 4,
+    "restrictions": [
+      {
+        "type": "alcohol",
+        "age_limit": 21
+      }
+    ],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": true,
+    "tags": [],
+    "unit_info": "375 мл",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 2604000,
+      "unit": "litre"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 12,
+    "vat_percentage_decimal": "12.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    }
+  },
+  {
+    "id": "3fdf7878c20af26e1d7f5116",
+    "advertising_info": null,
+    "alcohol_permille": 1,
+    "allowed_delivery_methods": [
+      "eatin",
+      "takeaway",
+      "homedelivery"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 43200000,
+        "end_time": 73800000
+      }
+    ],
+    "barcode_gtin": "08000420201300",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "fb1001b591312fe297333e82b54181f3",
+    "description": "Емкость для выдержки/ Тип фильтрации: na\nВид: Вермут, сладкое\n\nЦвет: Вермут бледно-золотистого цвета.\nВкус: Вкус вермута сладкий и ароматный.\nАромат: Легкий, непринужденный аромат вермута раскрывается оттенками полыни.\nГастрономические сочетания: Вермут рекомендуется подавать хорошо охлажденным, со льдом, содовой или тоником. \nПослевкусие: чистое и стойкое\nРегион:Пьемонт",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": true,
+    "images": [
+      {
+        "url": "https://imageproxy.wolt.com/assets/688b9c2e23fa16f725afa72f",
+        "blurhash": "LCS?Gbof_4ofs;fQX5fQtSfQROfP"
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": true,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "Gancia Vermouth Bianco 1L",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 758000,
+    "product_hierarchy_tags": [
+      "ALCOHOL"
+    ],
+    "purchasable_balance": 3,
+    "restrictions": [
+      {
+        "type": "age_restricted",
+        "age_limit": 21
+      }
+    ],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": true,
+    "tags": [],
+    "unit_info": "1 л",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 758000,
+      "unit": "litre"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 12,
+    "vat_percentage_decimal": "12.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    }
+  },
+  {
+    "id": "3934eb7ebade98fa1032bc12",
+    "advertising_info": null,
+    "alcohol_permille": 1,
+    "allowed_delivery_methods": [
+      "eatin",
+      "takeaway",
+      "homedelivery"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 43200000,
+        "end_time": 73800000
+      }
+    ],
+    "barcode_gtin": "08000420501295",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "19f5990743803f2149736429696f56d3",
+    "description": "Емкость для выдержки/ Тип фильтрации: na\nВид: Вермут, сладкое\n\nЦвет: Вермут рубиново-красного цвета.\nВкус: Вермут обладает приятным, насыщенным вкусом с доминирующими нотками специй.\nАромат: Легкий, непринужденный аромат вермута раскрывается оттенками полыни.\nГастрономические сочетания: Вермут рекомендуется подавать хорошо охлажденным в качестве аперитива, со льдом, содовой или тоником. Составит отличную компанию жареным орешкам, соленому миндалю и фруктам.\nПослевкусие: чистое и стойкое\nРегион: Пьемонт",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": true,
+    "images": [
+      {
+        "url": "https://imageproxy.wolt.com/assets/688b998923fa16f725af7655",
+        "blurhash": "LOSY{pof_Nj[xufQNGfQx]fQM_j["
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": true,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "Gancia Vermouth Rosso 1",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 758000,
+    "product_hierarchy_tags": [
+      "ALCOHOL"
+    ],
+    "purchasable_balance": 3,
+    "restrictions": [
+      {
+        "type": "age_restricted",
+        "age_limit": 21
+      }
+    ],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": true,
+    "tags": [],
+    "unit_info": "1 л",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 758000,
+      "unit": "litre"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 12,
+    "vat_percentage_decimal": "12.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    }
+  },
+  {
+    "id": "1c0e608a6f8bd5a6e204cd20",
+    "advertising_info": null,
+    "alcohol_permille": 0,
+    "allowed_delivery_methods": [
+      "homedelivery",
+      "eatin",
+      "takeaway"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 43200000,
+        "end_time": 73800000
+      }
+    ],
+    "barcode_gtin": "05010677924009",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "2af4bd49526ccb2c30f0c991865d03ad",
+    "description": "Емкость для выдержки/ Тип фильтрации: N/A\nВид: Вермут\nЦвет: Красный\nВкус: Сладкий и ванильный\nАромат: Сладкий и ароматный\nГастрономические сочетания: Идеален для коктейлей и аперитивов\nПослевкусие: Сладкое и ароматное\nРегион:Турин",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": true,
+    "images": [
+      {
+        "url": "https://imageproxy.wolt.com/assets/688b9b9523fa16f725afa12c",
+        "blurhash": "L9S~x5of_4ofxufQR%ayt8fQRifR"
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": true,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "Вермут Martini  Bianco  0.75Л Ст/Б",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 567000,
+    "product_hierarchy_tags": [
+      "WINE",
+      "ALCOHOL"
+    ],
+    "purchasable_balance": 4,
+    "restrictions": [
+      {
+        "type": "age_restricted",
+        "age_limit": 21
+      }
+    ],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": true,
+    "tags": [],
+    "unit_info": "750 мл",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 756000,
+      "unit": "litre"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 12,
+    "vat_percentage_decimal": "12.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    }
+  },
+  {
+    "id": "3da99cb16f3bbf593c404764",
+    "advertising_info": null,
+    "alcohol_permille": 0,
+    "allowed_delivery_methods": [
+      "eatin",
+      "takeaway",
+      "homedelivery"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 43200000,
+        "end_time": 73800000
+      }
+    ],
+    "barcode_gtin": "05010677935005",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "c5f0434920a2acf3fcfefe6a4be6cfe1",
+    "description": "Емкость для выдержки/ Тип фильтрации: N/A\nВид: Вермут\nЦвет: Бесцветный\nВкус: Сухой и ароматный\nАромат: Сухой и травяной\nГастрономические сочетания: Идеален для коктейлей и аперитивов\nПослевкусие: Сухое и ароматное\nРегион:Турин",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": true,
+    "images": [
+      {
+        "url": "https://imageproxy.wolt.com/assets/688b9ad9a3eb62eeb95c2726",
+        "blurhash": "LJSijXof~Xj[xufQRij[xuayM{j["
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": true,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "Вермут Martini  Extra Dry 1.0 Л.  Ст/Б",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 721000,
+    "product_hierarchy_tags": [
+      "WINE",
+      "ALCOHOL"
+    ],
+    "purchasable_balance": 6,
+    "restrictions": [
+      {
+        "type": "age_restricted",
+        "age_limit": 21
+      }
+    ],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": true,
+    "tags": [],
+    "unit_info": "1 л",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 721000,
+      "unit": "litre"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 12,
+    "vat_percentage_decimal": "12.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    }
+  },
+  {
+    "id": "8d207efd958efa3e4cd8f8e7",
+    "advertising_info": null,
+    "alcohol_permille": 0,
+    "allowed_delivery_methods": [
+      "eatin",
+      "takeaway",
+      "homedelivery"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 43200000,
+        "end_time": 73800000
+      }
+    ],
+    "barcode_gtin": "07630040404457",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "f531d53a87f3898270e48c3c1c22b8ad",
+    "description": "Емкость для выдержки/ Тип фильтрации: N/A\nВид: Вермут\nЦвет: Красный\nВкус: Горький и фруктовый\nАромат: Горький и фруктовый\nГастрономические сочетания: Идеален для коктейлей и аперитивов\nПослевкусие: Горькое и фруктовое\nРегион:Турин",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": true,
+    "images": [
+      {
+        "url": "https://imageproxy.wolt.com/assets/688b9abdb2b18bf1da535f1c",
+        "blurhash": "LzRfILae?^tQoLfkayays;jZWAbI"
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": true,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "Вермут Martini Fiero Ст/Б 0.75 + Schweppes Жб 1Шт",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 794500,
+    "product_hierarchy_tags": [
+      "WINE",
+      "ALCOHOL"
+    ],
+    "purchasable_balance": 6,
+    "restrictions": [
+      {
+        "type": "age_restricted",
+        "age_limit": 21
+      }
+    ],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": true,
+    "tags": [],
+    "unit_info": "1,88 л",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 422606,
+      "unit": "litre"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 12,
+    "vat_percentage_decimal": "12.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    }
+  },
+  {
+    "id": "2960d9767a4bc9cbe344416f",
+    "advertising_info": null,
+    "alcohol_permille": 150,
+    "allowed_delivery_methods": [
+      "homedelivery",
+      "takeaway",
+      "eatin"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 43200000,
+        "end_time": 73800000
+      }
+    ],
+    "barcode_gtin": "05010677925006",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "239a50168a781c6bfa36016c91913759",
+    "description": "Мартини Бьянко является животворным напитком, дарящим расслабление и приятную негу. Он улучшает душевное состояние, повышает аппетит, способствует пищеварению и укреплению иммунитета.",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": true,
+    "images": [
+      {
+        "url": "https://imageproxy.wolt.com/assets/688b9c4723fa16f725afaa30",
+        "blurhash": "LFS$ouof~qj[xufQRjjttRayRij["
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": false,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "Вермут Martini Bianco 1L, 15%",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 721000,
+    "product_hierarchy_tags": [
+      "WINE",
+      "ALCOHOL"
+    ],
+    "purchasable_balance": 13,
+    "restrictions": [
+      {
+        "type": "alcohol",
+        "age_limit": 21
+      }
+    ],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": false,
+    "tags": [],
+    "unit_info": "1 л",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 721000,
+      "unit": "litre"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 12,
+    "vat_percentage_decimal": "12.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    }
+  },
+  {
+    "id": "0a8829aadb91f5e6b8532f1c",
+    "advertising_info": null,
+    "alcohol_permille": 150,
+    "allowed_delivery_methods": [
+      "homedelivery",
+      "takeaway",
+      "eatin"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 43200000,
+        "end_time": 73800000
+      }
+    ],
+    "barcode_gtin": "05010677922005",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "845a592eeeb7c25732d3140ce4424840",
+    "description": "Мартини Бьянко является животворным напитком, дарящим расслабление и приятную негу. Он улучшает душевное состояние, повышает аппетит, способствует пищеварению и укреплению иммунитета.",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": true,
+    "images": [
+      {
+        "url": "https://imageproxy.wolt.com/assets/6888bf5a1f0cac713af6683c",
+        "blurhash": "LGS$ouof~qj[xufQRjjtt8ayRjj["
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": false,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "Вермут Martini Bianco 0.5L",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 422000,
+    "product_hierarchy_tags": [
+      "WINE",
+      "ALCOHOL"
+    ],
+    "purchasable_balance": 8,
+    "restrictions": [
+      {
+        "type": "alcohol",
+        "age_limit": 21
+      }
+    ],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": false,
+    "tags": [],
+    "unit_info": "500 мл",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 844000,
+      "unit": "litre"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 12,
+    "vat_percentage_decimal": "12.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    }
+  },
+  {
+    "id": "01e2ff5c01ccd82f27875e54",
+    "advertising_info": null,
+    "alcohol_permille": 0,
+    "allowed_delivery_methods": [
+      "homedelivery",
+      "eatin",
+      "takeaway"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 43200000,
+        "end_time": 73800000
+      }
+    ],
+    "barcode_gtin": "05010677915007",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "1574eb615fbc62ea7b98a373f2ed5a65",
+    "description": "Емкость для выдержки/ Тип фильтрации: N/A\nВид: Вермут\nЦвет: Красный\nВкус: Фруктово-травяной\nАромат: Фруктово-травяной с нотами пряностей\nГастрономические сочетания: Идеален для коктейлей и аперитивов\nПослевкусие: Пряное и ароматное\nРегион:Турин",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": true,
+    "images": [
+      {
+        "url": "https://imageproxy.wolt.com/assets/688b98f3a3eb62eeb95c2086",
+        "blurhash": "LKSigQof~qj[xufQM{j[xuayM{j["
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": true,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": 5,
+    "min_quantity_per_purchase": null,
+    "name": "Вермут Martini  Rosso 1.0 Л.  Ст/Б",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 721000,
+    "product_hierarchy_tags": [
+      "WINE",
+      "ALCOHOL"
+    ],
+    "purchasable_balance": 5,
+    "restrictions": [
+      {
+        "type": "age_restricted",
+        "age_limit": 21
+      }
+    ],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": true,
+    "tags": [],
+    "unit_info": "1 л",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 721000,
+      "unit": "litre"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 12,
+    "vat_percentage_decimal": "12.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    }
+  },
+  {
+    "id": "79754c1b036057d3a9d2f0ec",
+    "advertising_info": null,
+    "alcohol_permille": 0,
+    "allowed_delivery_methods": [
+      "homedelivery",
+      "takeaway",
+      "eatin"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 43200000,
+        "end_time": 73800000
+      }
+    ],
+    "barcode_gtin": "05010677710572",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "ef93ee2e50cba30c0334eb67a39258f0",
+    "description": "Емкость для выдержки/ Тип фильтрации: N/A\nВид: Джин\nЦвет: Прозрачный\nВкус: Ароматный и мягкий\nАромат: Травяной и цитрусовый\nГастрономические сочетания: Обычно подается в коктейлях, таких как Джин и Тоник или Мартини\nПослевкусие: Сбалансированный и освежающий\nРегион:Мендоса",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": true,
+    "images": [
+      {
+        "url": "https://imageproxy.wolt.com/assets/688b9b8123fa16f725af9e91",
+        "blurhash": "LJSijZoL~Woft7fQWCayxuj[M|ay"
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": true,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "Джин Bombay Sapphire 0.7 Л Ст/Б",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 1408600,
+    "product_hierarchy_tags": [
+      "ALCOHOL"
+    ],
+    "purchasable_balance": 5,
+    "restrictions": [
+      {
+        "type": "age_restricted",
+        "age_limit": 21
+      }
+    ],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": true,
+    "tags": [],
+    "unit_info": "700 мл",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 2012286,
+      "unit": "litre"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 12,
+    "vat_percentage_decimal": "12.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    }
+  },
+  {
+    "id": "c59381c824b2e18cba3f61f3",
+    "advertising_info": null,
+    "alcohol_permille": 400,
+    "allowed_delivery_methods": [
+      "homedelivery",
+      "eatin",
+      "takeaway"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 43200000,
+        "end_time": 73800000
+      }
+    ],
+    "barcode_gtin": "05000299605998",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": false,
+      "venue": false,
+      "credits": false
+    },
+    "checksum": "37c9db2082774e63b1f8d8302cf2c28e",
+    "description": "Емкость для выдержки/ Тип фильтрации: N/A\nВид: Обычный Джин\nЦвет: Ноты можжевельника и цитрусовые, с намеком на специи\nВкус: Обычно подается в коктейлях, таких как Джин и Тоник или Мартини\nАромат: Чистое и свежее\nГастрономические сочетания: Обычно подается в коктейлях, таких как Джин и Тоник или Мартини\nПослевкусие: Чистое и свежее\nРегион:Лондон",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": true,
+    "images": [
+      {
+        "url": "https://imageproxy.wolt.com/assets/688b9904a3eb62eeb95c2261",
+        "blurhash": "L9T9Isj[?^xuxajtWqayxuj[M{ax"
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": false,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "ДЖИН BEEFEATER 47% 0,5 Л",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 854000,
+    "product_hierarchy_tags": [
+      "ALCOHOL"
+    ],
+    "purchasable_balance": 5,
+    "restrictions": [
+      {
+        "type": "alcohol",
+        "age_limit": 21
+      }
+    ],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": true,
+    "tags": [],
+    "unit_info": "500 мл",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 1708000,
+      "unit": "litre"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 12,
+    "vat_percentage_decimal": "12.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    }
+  },
+  {
+    "id": "ffe9839183f55c4438da7a7f",
+    "advertising_info": null,
+    "alcohol_permille": 400,
+    "allowed_delivery_methods": [
+      "homedelivery",
+      "eatin",
+      "takeaway"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 43200000,
+        "end_time": 73800000
+      }
+    ],
+    "barcode_gtin": "05010677713009",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": false,
+      "venue": false,
+      "credits": false
+    },
+    "checksum": "6927828ce96a8eda4492cc417cebe204",
+    "description": "Емкость для выдержки/ Тип фильтрации: N/A\nВид: Джин\nЦвет: Прозрачный\nВкус: Ароматный и мягкий\nАромат: Травяной и цитрусовый\nГастрономические сочетания: Обычно подается в коктейлях, таких как Джин и Тоник или Мартини\nПослевкусие: Сбалансированный и освежающий\nРегион:Мендоса",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": true,
+    "images": [
+      {
+        "url": "https://imageproxy.wolt.com/assets/688b98f3a3eb62eeb95c208e",
+        "blurhash": "LGSs89of~WofxafQR*azxuj@M{ay"
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": false,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "Джин Bombay Sapphire 0.5 Л. Ст/Б",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 997300,
+    "product_hierarchy_tags": [
+      "ALCOHOL"
+    ],
+    "purchasable_balance": 5,
+    "restrictions": [
+      {
+        "type": "alcohol",
+        "age_limit": 21
+      }
+    ],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": true,
+    "tags": [],
+    "unit_info": "500 мл",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 1994600,
+      "unit": "litre"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 12,
+    "vat_percentage_decimal": "12.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    }
+  },
+  {
+    "id": "bb0d38a308f656fded6bd929",
+    "advertising_info": null,
+    "alcohol_permille": 0,
+    "allowed_delivery_methods": [
+      "eatin",
+      "takeaway",
+      "homedelivery"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 43200000,
+        "end_time": 73800000
+      }
+    ],
+    "barcode_gtin": "05010677716000",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "5058d808969ca0129d3479bc600c8642",
+    "description": "Емкость для выдержки/ Тип фильтрации: N/A\nВид: Джин\nЦвет: Прозрачный\nВкус: Ароматный и мягкий\nАромат: Травяной и цитрусовый\nГастрономические сочетания: Обычно подается в коктейлях, таких как Джин и Тоник или Мартини\nПослевкусие: Сбалансированный и освежающий\nРегион:Мендоса",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": true,
+    "images": [
+      {
+        "url": "https://imageproxy.wolt.com/assets/688b9d1ea3eb62eeb95c37bc",
+        "blurhash": "LGSs89of~WofxafQR*azxuj@M{ay"
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": true,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "Джин Bombay Sapphire 1.0 Л. Ст/Б",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 1739800,
+    "product_hierarchy_tags": [
+      "ALCOHOL"
+    ],
+    "purchasable_balance": 3,
+    "restrictions": [
+      {
+        "type": "age_restricted",
+        "age_limit": 21
+      }
+    ],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": true,
+    "tags": [],
+    "unit_info": "1 л",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 1739800,
+      "unit": "litre"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 12,
+    "vat_percentage_decimal": "12.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    }
+  },
+  {
+    "id": "b41be1470a4f8e7faa9b95dd",
+    "advertising_info": null,
+    "alcohol_permille": 400,
+    "allowed_delivery_methods": [
+      "homedelivery",
+      "takeaway",
+      "eatin"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 43200000,
+        "end_time": 73800000
+      }
+    ],
+    "barcode_gtin": "05000329002292",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": false,
+      "venue": false,
+      "credits": false
+    },
+    "checksum": "2591e5205d0e508478448859e5283678",
+    "description": "Классический лондонский сухой джин с нотами можжевельника и цитрусовых.",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": true,
+    "images": [
+      {
+        "url": "https://imageproxy.wolt.com/assets/678a1dd02546460362e16a1e",
+        "blurhash": "LES?ANof_NofxtfQR*ayt7fQRjfR"
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": false,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "Джин Beefeater Gin 40% 1 L",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 1491000,
+    "product_hierarchy_tags": [
+      "ALCOHOL"
+    ],
+    "purchasable_balance": 7,
+    "restrictions": [
+      {
+        "type": "alcohol",
+        "age_limit": 21
+      }
+    ],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": true,
+    "tags": [],
+    "unit_info": "1 л",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 1491000,
+      "unit": "litre"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 12,
+    "vat_percentage_decimal": "12.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    }
+  },
+  {
+    "id": "4fba7359741cf0e3d47b33a0",
+    "advertising_info": null,
+    "alcohol_permille": 470,
+    "allowed_delivery_methods": [
+      "homedelivery",
+      "takeaway",
+      "eatin"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 43200000,
+        "end_time": 73800000
+      }
+    ],
+    "barcode_gtin": "00000042213277",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": false,
+      "venue": false,
+      "credits": false
+    },
+    "checksum": "9584c18b69e0efd615f1acdf264050ae",
+    "description": "Немецкий премиальный джин, содержащий 47 ботанических ингредиентов, с выразительным вкусом можжевельника.",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": true,
+    "images": [
+      {
+        "url": "https://imageproxy.wolt.com/assets/678a1dd02546460362e16a1c",
+        "blurhash": "LdRypYof~qayxuayRjj[xuayRPj["
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": false,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "Джин Monkey 47 47% 0.5 L",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 2680000,
+    "product_hierarchy_tags": [
+      "ALCOHOL"
+    ],
+    "purchasable_balance": 18,
+    "restrictions": [
+      {
+        "type": "alcohol",
+        "age_limit": 21
+      }
+    ],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": false,
+    "tags": [],
+    "unit_info": "500 мл",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 5360000,
+      "unit": "litre"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 12,
+    "vat_percentage_decimal": "12.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    }
+  },
+  {
+    "id": "0e49c24ca37802b90239cab7",
+    "advertising_info": null,
+    "alcohol_permille": 0,
+    "allowed_delivery_methods": [
+      "homedelivery",
+      "takeaway",
+      "eatin"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 43200000,
+        "end_time": 73800000
+      }
+    ],
+    "barcode_gtin": "07640175745554",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "69f0708e1f08f92581bfe7ae3b480e78",
+    "description": "Емкость для выдержки/ Тип фильтрации: N/A\nВид: Джин\nЦвет: Прозрачный\nВкус: Ароматный и мягкий\nАромат: Травяной и цитрусовый\nГастрономические сочетания: Обычно подается в коктейлях, таких как Джин и Тоник или Мартини\nПослевкусие: Сбалансированный и освежающий\nРегион:Мендоса",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": true,
+    "images": [
+      {
+        "url": "https://imageproxy.wolt.com/assets/688b9904a3eb62eeb95c2255",
+        "blurhash": "LGSs89of~WofxafQR*azxuj@M{ay"
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": true,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "Джин Bombay Sapphire 1.0 Л. Ст/Б",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 1739800,
+    "product_hierarchy_tags": [
+      "ALCOHOL"
+    ],
+    "purchasable_balance": 6,
+    "restrictions": [
+      {
+        "type": "age_restricted",
+        "age_limit": 21
+      }
+    ],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": true,
+    "tags": [],
+    "unit_info": "1 л",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 1739800,
+      "unit": "litre"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 12,
+    "vat_percentage_decimal": "12.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    }
+  },
+  {
+    "id": "bb6e1307333645e1f4dc737e",
+    "advertising_info": null,
+    "alcohol_permille": 130,
+    "allowed_delivery_methods": [
+      "homedelivery",
+      "takeaway",
+      "eatin"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 28800000,
+        "end_time": 81900000
+      }
+    ],
+    "barcode_gtin": "08801048178308",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "1d2f449a8f15bd6589ccc6f27f9b42b2",
+    "description": "слабоалкогольный напиток со вкусом и араматом сливы, соджу",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": true,
+    "images": [
+      {
+        "url": "https://imageproxy.wolt.com/assets/6814aa7907957033a1b154ff",
+        "blurhash": "LIS$r#fP^-t8tQj[V[ayxcj[NFax"
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": false,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "Jinro Soju со вкусом сливы, 360 мл",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 446000,
+    "product_hierarchy_tags": [
+      "ALCOHOL"
+    ],
+    "purchasable_balance": 12,
+    "restrictions": [
+      {
+        "type": "alcohol",
+        "age_limit": 21
+      }
+    ],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": false,
+    "tags": [],
+    "unit_info": "360 мл",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 1238889,
+      "unit": "litre"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 12,
+    "vat_percentage_decimal": "12.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    }
+  },
+  {
+    "id": "17801960788354eedd560590",
+    "advertising_info": null,
+    "alcohol_permille": 160,
+    "allowed_delivery_methods": [
+      "homedelivery",
+      "takeaway",
+      "eatin"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 28800000,
+        "end_time": 81900000
+      }
+    ],
+    "barcode_gtin": "08801048951017",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "7956bc8ce402e6df39f8903a3e498b11",
+    "description": "слабоалкогольный напиток со вкусом и араматом оригинал, соджу",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": true,
+    "images": [
+      {
+        "url": "https://imageproxy.wolt.com/assets/6814aa3b67503b7c6eb42136",
+        "blurhash": "LGSs87a{~Xxbt7jtWBazxvj[M{WV"
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": false,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "Jinro Soju Fresh классический, 360 мл",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 431500,
+    "product_hierarchy_tags": [
+      "ALCOHOL"
+    ],
+    "purchasable_balance": 24,
+    "restrictions": [
+      {
+        "type": "alcohol",
+        "age_limit": 21
+      }
+    ],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": false,
+    "tags": [],
+    "unit_info": "360 мл",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 1198611,
+      "unit": "litre"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 12,
+    "vat_percentage_decimal": "12.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    }
+  },
+  {
+    "id": "9f2ded0e815a3a3852b5cefb",
+    "advertising_info": null,
+    "alcohol_permille": 130,
+    "allowed_delivery_methods": [
+      "homedelivery",
+      "takeaway",
+      "eatin"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 28800000,
+        "end_time": 81900000
+      }
+    ],
+    "barcode_gtin": "08801048921102",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "255f286abf50a8ed5e1ab04385b24817",
+    "description": "слабоалкогольный напиток со вкусом и араматом зеленый виноград, соджу",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": true,
+    "images": [
+      {
+        "url": "https://imageproxy.wolt.com/assets/6814aa3b67503b7c6eb42135",
+        "blurhash": "LISsBDbF^-xbt7j[WBayxcj[NEax"
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": false,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "Jinro Soju со вкусом зелёного винограда, 360 мл",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 446000,
+    "product_hierarchy_tags": [
+      "ALCOHOL"
+    ],
+    "purchasable_balance": 5,
+    "restrictions": [
+      {
+        "type": "alcohol",
+        "age_limit": 21
+      }
+    ],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": true,
+    "tags": [],
+    "unit_info": "360 мл",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 1238889,
+      "unit": "litre"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 12,
+    "vat_percentage_decimal": "12.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    }
+  },
+  {
+    "id": "bef5a6a992f107e631c831d9",
+    "advertising_info": null,
+    "alcohol_permille": 130,
+    "allowed_delivery_methods": [
+      "homedelivery",
+      "takeaway",
+      "eatin"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 28800000,
+        "end_time": 81900000
+      }
+    ],
+    "barcode_gtin": "08801048178018",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "32090e6da5fa32af46f12d5a66eb84ac",
+    "description": "слабоалкогольный напиток со вкусом и араматом клубники, соджу",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": true,
+    "images": [
+      {
+        "url": "https://imageproxy.wolt.com/assets/6814aa7907957033a1b154fe",
+        "blurhash": "LGS$ouj?_4t8t8fQWAjZxvj[M_ay"
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": false,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "Jinro Soju со вкусом клубники, 360 мл",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 446000,
+    "product_hierarchy_tags": [
+      "ALCOHOL"
+    ],
+    "purchasable_balance": 5,
+    "restrictions": [
+      {
+        "type": "alcohol",
+        "age_limit": 21
+      }
+    ],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": true,
+    "tags": [],
+    "unit_info": "360 мл",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 1238889,
+      "unit": "litre"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 12,
+    "vat_percentage_decimal": "12.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    }
+  },
+  {
+    "id": "03a66c9d4274bd4eb4dd8e29",
+    "advertising_info": null,
+    "alcohol_permille": 130,
+    "allowed_delivery_methods": [
+      "homedelivery",
+      "takeaway",
+      "eatin"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 28800000,
+        "end_time": 81900000
+      }
+    ],
+    "barcode_gtin": "08801048921003",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "ae3ffe1de8289be398eb5db13a2f1ce4",
+    "description": "слабоалкогольный напиток со вкусом и араматом грейпфрут, соджу",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": true,
+    "images": [
+      {
+        "url": "https://imageproxy.wolt.com/assets/6814aa3b67503b7c6eb42134",
+        "blurhash": "LIS$r#fP^-t8tQfkV[ayxcj[NEax"
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": false,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "Jinro Soju со вкусом грейпфрута, 360 мл",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 446000,
+    "product_hierarchy_tags": [
+      "ALCOHOL"
+    ],
+    "purchasable_balance": 11,
+    "restrictions": [
+      {
+        "type": "alcohol",
+        "age_limit": 21
+      }
+    ],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": false,
+    "tags": [],
+    "unit_info": "360 мл",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 1238889,
+      "unit": "litre"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 12,
+    "vat_percentage_decimal": "12.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    }
+  },
+  {
+    "id": "19c05c5dd54d915bd2873df0",
+    "advertising_info": null,
+    "alcohol_permille": 40,
+    "allowed_delivery_methods": [
+      "homedelivery",
+      "takeaway",
+      "eatin"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 28800000,
+        "end_time": 81900000
+      }
+    ],
+    "barcode_gtin": "08802521202350",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "32073760f731f4384e0bcd961df40de7",
+    "description": "корейское рисовое вино изготавливается из риса путем ферментации, со вкусом банана",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": true,
+    "images": [
+      {
+        "url": "https://imageproxy.wolt.com/assets/6814aa3b67503b7c6eb42139",
+        "blurhash": "LUS~nwjsyGoznzfPbdj[kXfQaJay"
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": false,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "Макколи Рисовое вино с банановым вкусом, 350 мл",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 174000,
+    "product_hierarchy_tags": [
+      "WINE",
+      "ALCOHOL"
+    ],
+    "purchasable_balance": 28,
+    "restrictions": [
+      {
+        "type": "alcohol",
+        "age_limit": 21
+      }
+    ],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": false,
+    "tags": [],
+    "unit_info": "350 мл",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 497143,
+      "unit": "litre"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 12,
+    "vat_percentage_decimal": "12.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    }
+  },
+  {
+    "id": "79a2f576adb791f1d886575d",
+    "advertising_info": null,
+    "alcohol_permille": 30,
+    "allowed_delivery_methods": [
+      "homedelivery",
+      "takeaway",
+      "eatin"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 28800000,
+        "end_time": 81900000
+      }
+    ],
+    "barcode_gtin": "08802521202343",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "55202caa8b0a45fab2278ce557b9d696",
+    "description": "корейское рисовое вино изготавливается из риса путем ферментации, со вкусом персика",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": true,
+    "images": [
+      {
+        "url": "https://imageproxy.wolt.com/assets/6814aa3b67503b7c6eb42138",
+        "blurhash": "LLS$ieax?wtRnOaykpkCtlj[ROae"
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": false,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "Макколи Рисовое вино с персиковым вкусом, 350 мл",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 174000,
+    "product_hierarchy_tags": [
+      "WINE",
+      "ALCOHOL"
+    ],
+    "purchasable_balance": 6,
+    "restrictions": [
+      {
+        "type": "alcohol",
+        "age_limit": 21
+      }
+    ],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": true,
+    "tags": [],
+    "unit_info": "350 мл",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 497143,
+      "unit": "litre"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 12,
+    "vat_percentage_decimal": "12.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    }
+  },
+  {
+    "id": "3d8fd1097cd5e312109fe952",
+    "advertising_info": null,
+    "alcohol_permille": 30,
+    "allowed_delivery_methods": [
+      "homedelivery",
+      "takeaway",
+      "eatin"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 28800000,
+        "end_time": 81900000
+      }
+    ],
+    "barcode_gtin": "08802521202367",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "76e73151975d63b4aa4654dbb7f41d86",
+    "description": "корейское рисовое вино изготавливается из риса путем ферментации, со вкусом белого винограда",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": true,
+    "images": [
+      {
+        "url": "https://imageproxy.wolt.com/assets/6814aa3b67503b7c6eb4213a",
+        "blurhash": "LWSs4^ay-@t7WSays=j[t8j[Riay"
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": false,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "Макколи Рисовое вино с белым виноградом, 350 мл",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 174000,
+    "product_hierarchy_tags": [
+      "WINE",
+      "ALCOHOL"
+    ],
+    "purchasable_balance": 11,
+    "restrictions": [
+      {
+        "type": "alcohol",
+        "age_limit": 21
+      }
+    ],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": false,
+    "tags": [],
+    "unit_info": "350 мл",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 497143,
+      "unit": "litre"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 12,
+    "vat_percentage_decimal": "12.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    }
+  },
+  {
+    "id": "573d2199854ab3edaca864e3",
+    "advertising_info": null,
+    "alcohol_permille": 58,
+    "allowed_delivery_methods": [
+      "homedelivery",
+      "takeaway",
+      "eatin"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 28800000,
+        "end_time": 81900000
+      }
+    ],
+    "barcode_gtin": "08802521122733",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "98e0a2226f0719a675a4663a1311e22e",
+    "description": "корейское рисовое вино изготавливается из риса путем ферментации",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": true,
+    "images": [
+      {
+        "url": "https://imageproxy.wolt.com/assets/6814aa3b67503b7c6eb42137",
+        "blurhash": "LWSPRyay_4t7t7j[V@ayx]j[Mxax"
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": false,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "Макколи Классическое рисовое вино, 350 мл",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 174000,
+    "product_hierarchy_tags": [
+      "WINE",
+      "ALCOHOL"
+    ],
+    "purchasable_balance": 34,
+    "restrictions": [
+      {
+        "type": "alcohol",
+        "age_limit": 21
+      }
+    ],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": false,
+    "tags": [],
+    "unit_info": "350 мл",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 497143,
+      "unit": "litre"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 12,
+    "vat_percentage_decimal": "12.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    }
+  },
+  {
+    "id": "8901c3225f305c77b8355b58",
+    "advertising_info": null,
+    "alcohol_permille": 30,
+    "allowed_delivery_methods": [
+      "homedelivery",
+      "takeaway",
+      "eatin"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 28800000,
+        "end_time": 81900000
+      }
+    ],
+    "barcode_gtin": "08802521212250",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "c11c089d27ee7285bc46c036180d3f14",
+    "description": "корейское рисовое вино изготавливается из риса путем ферментации, со вкусом клубники",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": true,
+    "images": [
+      {
+        "url": "https://imageproxy.wolt.com/assets/6814aa3b67503b7c6eb4213b",
+        "blurhash": "LQS$ZHoK?^kDiwf6kqf+ozayWAoL"
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": false,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "Макколи Рисовое вино клубника, 350 мл, банка, 3% алк.",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 174000,
+    "product_hierarchy_tags": [
+      "WINE",
+      "ALCOHOL"
+    ],
+    "purchasable_balance": 6,
+    "restrictions": [
+      {
+        "type": "delivery_handshake",
+        "age_limit": null
+      },
+      {
+        "type": "alcohol",
+        "age_limit": 21
+      }
+    ],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": true,
+    "tags": [],
+    "unit_info": "350 мл",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 497143,
+      "unit": "litre"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 12,
+    "vat_percentage_decimal": "12.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    }
+  },
+  {
+    "id": "433f48caaab8e05be1630451",
+    "advertising_info": null,
+    "alcohol_permille": 250,
+    "allowed_delivery_methods": [
+      "homedelivery",
+      "takeaway",
+      "eatin"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 28800000,
+        "end_time": 81900000
+      }
+    ],
+    "barcode_gtin": "08801048096008",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "523f662d9214eee9c32b7eab7a6a3b88",
+    "description": "Jinro Soju Ilpoom — это популярная марка корейского соджу, одного из самых известных крепких алкогольных напитков в Корее. В данном случае, напиток имеет крепость 25%, что делает его достаточно крепким, но не таким сильным, как некоторые другие виды спиртных напитков",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": true,
+    "images": [
+      {
+        "url": "https://imageproxy.wolt.com/assets/6814aa7907957033a1b154fc",
+        "blurhash": "L9S~x5j[~qxut7j[ayayxuj[M{ax"
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": false,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "Ilpoom Jinro Крепкий дистиллят 25%, бутылка 375 мл",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 1436000,
+    "product_hierarchy_tags": [
+      "ALCOHOL"
+    ],
+    "purchasable_balance": 3,
+    "restrictions": [
+      {
+        "type": "alcohol",
+        "age_limit": 21
+      }
+    ],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": true,
+    "tags": [],
+    "unit_info": "375 мл",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 3829333,
+      "unit": "litre"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 12,
+    "vat_percentage_decimal": "12.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    }
+  },
+  {
+    "id": "b6116f8845f5a5e9ea7d160f",
+    "advertising_info": null,
+    "alcohol_permille": 130,
+    "allowed_delivery_methods": [
+      "homedelivery",
+      "takeaway",
+      "eatin"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 28800000,
+        "end_time": 81900000
+      }
+    ],
+    "barcode_gtin": "08802521105019",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "c8add3a1f1be2e96dd3d10d8587eb060",
+    "description": "Саке Sake Yedam 0,7 л, алк.13%. 13% об. 7 925 KZT. 21+. Саке Yedam — это японское рисовое вино с алкоголем 13%, представленное в бутылке объемом 700 мл",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": true,
+    "images": [
+      {
+        "url": "https://imageproxy.wolt.com/assets/6814aa7907957033a1b15500",
+        "blurhash": "LKSs86j?_4s;xufRRja{%3fRM_a{"
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": false,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "Саке Yedam, бутылка 700 мл, 13%",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 925000,
+    "product_hierarchy_tags": [
+      "WINE",
+      "ALCOHOL"
+    ],
+    "purchasable_balance": 4,
+    "restrictions": [
+      {
+        "type": "alcohol",
+        "age_limit": 21
+      }
+    ],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": true,
+    "tags": [],
+    "unit_info": "700 мл",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 1321429,
+      "unit": "litre"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 12,
+    "vat_percentage_decimal": "12.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    }
+  },
+  {
+    "id": "659c0f8c8ebdbad0f05420ab",
+    "advertising_info": null,
+    "alcohol_permille": 130,
+    "allowed_delivery_methods": [
+      "homedelivery",
+      "takeaway",
+      "eatin"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 28800000,
+        "end_time": 81900000
+      }
+    ],
+    "barcode_gtin": "08801048181292",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "59375378ec2e3be2adee1ca1a93db59b",
+    "description": "слабоалкогольный напиток со вкусом и араматом персика, соджу",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": true,
+    "images": [
+      {
+        "url": "https://imageproxy.wolt.com/assets/6814aa3b67503b7c6eb42133",
+        "blurhash": "LHS$oufP_4t8t7fjWBf6xvj[M{ay"
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": false,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "Jinro Soju со вкусом персика, 360 мл",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 446000,
+    "product_hierarchy_tags": [
+      "ALCOHOL"
+    ],
+    "purchasable_balance": 14,
+    "restrictions": [
+      {
+        "type": "alcohol",
+        "age_limit": 21
+      }
+    ],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": false,
+    "tags": [],
+    "unit_info": "360 мл",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 1238889,
+      "unit": "litre"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 12,
+    "vat_percentage_decimal": "12.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    }
+  },
+  {
+    "id": "e44fa252f679169baf3810ba",
+    "advertising_info": null,
+    "alcohol_permille": 400,
+    "allowed_delivery_methods": [
+      "eatin",
+      "takeaway",
+      "homedelivery"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 43200000,
+        "end_time": 73800000
+      }
+    ],
+    "barcode_gtin": "00721733000012",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": false,
+      "venue": false,
+      "credits": false
+    },
+    "checksum": "931f0212483395c63f6acf1516baa422",
+    "description": "Емкость для выдержки/ Тип фильтрации: Дубовые бочки\nВид: Текила (1942 год)\nЦвет: Коричневый\nВкус: Сложный и ароматный\nАромат: Фруктовый и древесный\nГастрономические сочетания: Идеален для коктейлей или для дегустации\nПослевкусие: Сложное и ароматное\nРегион:В высокогорьях Центральной Мексики",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": true,
+    "images": [
+      {
+        "url": "https://imageproxy.wolt.com/assets/688b998123fa16f725af74f0",
+        "blurhash": "LZSr_sjZ.AogtSj[V?aytSj[ROax"
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": false,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "Текила Patron Anejo 0.75 Л. Ст/Б",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 2472400,
+    "product_hierarchy_tags": [
+      "ALCOHOL"
+    ],
+    "purchasable_balance": 2,
+    "restrictions": [
+      {
+        "type": "alcohol",
+        "age_limit": 21
+      }
+    ],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": true,
+    "tags": [],
+    "unit_info": "750 мл",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 3296533,
+      "unit": "litre"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 12,
+    "vat_percentage_decimal": "12.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    }
+  },
+  {
+    "id": "c8122d11719a44e1106a7eb0",
+    "advertising_info": null,
+    "alcohol_permille": 400,
+    "allowed_delivery_methods": [
+      "eatin",
+      "takeaway",
+      "homedelivery"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 43200000,
+        "end_time": 73800000
+      }
+    ],
+    "barcode_gtin": "00721733000029",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": false,
+      "venue": false,
+      "credits": false
+    },
+    "checksum": "d4bc7d5a0e76ed222505d5b6fcc7eae1",
+    "description": "Емкость для выдержки/ Тип фильтрации: Дубовые бочки\nВид: Текила\nЦвет: Коричневый\nВкус: Сложный и древесный\nАромат: Фруктовый и древесный\nГастрономические сочетания: Идеален для коктейлей или для дегустации\nПослевкусие: Сложное и древесное\nРегион:В высокогорьях Центральной Мексики",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": true,
+    "images": [
+      {
+        "url": "https://imageproxy.wolt.com/assets/6888b9981f0cac713af60b48",
+        "blurhash": "LRSF@Rax~Xt8%2juM{ay%3oMInWA"
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": false,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "Текила Patron Silver 0.75 Л. Ст/Б",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 1974300,
+    "product_hierarchy_tags": [
+      "ALCOHOL"
+    ],
+    "purchasable_balance": 11,
+    "restrictions": [
+      {
+        "type": "alcohol",
+        "age_limit": 21
+      }
+    ],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": false,
+    "tags": [],
+    "unit_info": "750 мл",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 2632400,
+      "unit": "litre"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 12,
+    "vat_percentage_decimal": "12.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    }
+  },
+  {
+    "id": "f50f51edbb64c7f490645ad5",
+    "advertising_info": null,
+    "alcohol_permille": 400,
+    "allowed_delivery_methods": [
+      "eatin",
+      "takeaway",
+      "homedelivery"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 43200000,
+        "end_time": 73800000
+      }
+    ],
+    "barcode_gtin": "04860053013213",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": false,
+      "venue": false,
+      "credits": false
+    },
+    "checksum": "bf2851c98837beaa18aad9b8dca49fdc",
+    "description": "Емкость для выдержки/ Тип фильтрации: Бочка\nВид: Платиновая\nЦвет: Чача бледно-соломенного цвета\nВкус: Насыщенный, с оттенками сушеных фруктов и ореха\nАромат: У чачи легкий, но ощутимый, приятный аромат с полутонами древесины и акцентами ореха.\nГастрономические сочетания: Куриный кебаб, куриный люля-кебаб, телячий и куриный шашлык, овощи гриль, пастуший сыр, сыр кордон-блю\nПослевкусие: \nРегион:Кахетия, Тбилиси и Гурия",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": true,
+    "images": [
+      {
+        "url": "https://imageproxy.wolt.com/assets/688b9bafb2b18bf1da536938",
+        "blurhash": "LLS$ieoe?woft8fRV@aytRfQRPfQ"
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": false,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "Чача Асканели Платиновая 40% 0.5Л",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 605500,
+    "product_hierarchy_tags": [
+      "ALCOHOL"
+    ],
+    "purchasable_balance": 4,
+    "restrictions": [
+      {
+        "type": "alcohol",
+        "age_limit": 21
+      }
+    ],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": true,
+    "tags": [],
+    "unit_info": "500 мл",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 1211000,
+      "unit": "litre"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 12,
+    "vat_percentage_decimal": "12.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    }
+  },
+  {
+    "id": "292fc054676dcdf69a5a54f4",
+    "advertising_info": null,
+    "alcohol_permille": 400,
+    "allowed_delivery_methods": [
+      "eatin",
+      "takeaway",
+      "homedelivery"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 43200000,
+        "end_time": 73800000
+      }
+    ],
+    "barcode_gtin": "03297364070016",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": false,
+      "venue": false,
+      "credits": false
+    },
+    "checksum": "934a9a9f01dd44615eca0cca78f58e44",
+    "description": "Емкость для выдержки/ Тип фильтрации: дубовых бочках\nВид: na\nЦвет: Кальвадос обладает золотисто-янтарным цветом.\nВкус: Вкус кальвадоса богатый, округлый, с нотами груши, яблока, меда, ванили и миндаля, плавно переходящими в гладкое послевкусие.\n\nАромат: Многогранный, яркий аромат кальвадоса раскрывается оттенками яблока, груши, миндаля и ванили.\nГастрономические сочетания: Кальвадос — прекрасный аперитив. Также отлично подойдет в качестве составляющего для сложных, изысканных коктейлей. \nПослевкусие: \nРегион:Франция, Нормандия, Кальвадос\n",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": true,
+    "images": [
+      {
+        "url": "https://imageproxy.wolt.com/assets/6888bf691f0cac713af66b36",
+        "blurhash": "LQS$idj[?wogxvj[RPayXAfRnhf6"
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": false,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "Christian Drouin Кальвадос Christian Drouin Sélection",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 2248000,
+    "product_hierarchy_tags": [
+      "ALCOHOL"
+    ],
+    "purchasable_balance": 3,
+    "restrictions": [
+      {
+        "type": "alcohol",
+        "age_limit": 21
+      }
+    ],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": true,
+    "tags": [],
+    "unit_info": "700 мл",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 3211429,
+      "unit": "litre"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 12,
+    "vat_percentage_decimal": "12.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    }
+  },
+  {
+    "id": "4cf85b4651c4570f512ef5c0",
+    "advertising_info": null,
+    "alcohol_permille": 380,
+    "allowed_delivery_methods": [
+      "homedelivery",
+      "eatin",
+      "takeaway"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 43200000,
+        "end_time": 73800000
+      }
+    ],
+    "barcode_gtin": "08594405101537",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": false,
+      "venue": false,
+      "credits": false
+    },
+    "checksum": "08df4746050521d267c1381cc2f7fe15",
+    "description": "Емкость для выдержки/ Тип фильтрации: N/A\nВид: Травяной ликер\nЦвет: Янтарный\nВкус: Травяной и пряный\nАромат: Травяной и ароматический\nГастрономические сочетания: Подается как дигестив\nПослевкусие: Травяное и согревающее\nРегион:Карловы Вары",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": true,
+    "images": [
+      {
+        "url": "https://imageproxy.wolt.com/assets/688b9f45b2b18bf1da538dde",
+        "blurhash": "LTSPb0ay_4t8t8j[WAay%3j[M_WU"
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": false,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "Настойка Becherovka 38% 0.5 L",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 698000,
+    "product_hierarchy_tags": [
+      "ALCOHOL"
+    ],
+    "purchasable_balance": 11,
+    "restrictions": [
+      {
+        "type": "alcohol",
+        "age_limit": 21
+      }
+    ],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": false,
+    "tags": [],
+    "unit_info": "500 мл",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 1396000,
+      "unit": "litre"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 12,
+    "vat_percentage_decimal": "12.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    }
+  },
+  {
+    "id": "b88d86974a6d5c6611b5ed09",
+    "advertising_info": null,
+    "alcohol_permille": 380,
+    "allowed_delivery_methods": [
+      "homedelivery",
+      "takeaway",
+      "eatin"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 43200000,
+        "end_time": 73800000
+      }
+    ],
+    "barcode_gtin": "08594405101049",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": false,
+      "venue": false,
+      "credits": false
+    },
+    "checksum": "d8137d02c04d6610904536b3203e6321",
+    "description": "Чешский травяной ликер с уникальным сочетанием пряных и травяных ароматов.",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": true,
+    "images": [
+      {
+        "url": "https://imageproxy.wolt.com/assets/678a1dd02546460362e16a22",
+        "blurhash": "LcR{.2j[^-j[xufQRifQo#fQW9fQ"
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": false,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "Настойка Becherovka 38% 0.7 L",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 945000,
+    "product_hierarchy_tags": [
+      "ALCOHOL"
+    ],
+    "purchasable_balance": 12,
+    "restrictions": [
+      {
+        "type": "alcohol",
+        "age_limit": 21
+      }
+    ],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": false,
+    "tags": [],
+    "unit_info": "700 мл",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 1350000,
+      "unit": "litre"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 12,
+    "vat_percentage_decimal": "12.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    }
+  }
+]
