@@ -1,0 +1,65 @@
+[
+  {
+    "id": "110711034",
+    "configSku": "110711034",
+    "title": "Shaurma-Food лахмаджун мясо, сыр 420 г",
+    "brand": "Shaurma-Food",
+    "categoryId": "05582",
+    "hasVariants": false,
+    "loanAvailable": true,
+    "shopLink": "/p/shaurma-food-lahmadzhun-mjaso-syr-420-g-110711034/?c=710000000",
+    "unitPrice": 1990,
+    "unitSalePrice": 1990,
+    "priceFormatted": "1 990 ₸",
+    "createdTime": "2023-06-08T07:40:05.619Z",
+    "stickers": [],
+    "previewImages": [
+      {
+        "small": "https://resources.cdn-kaspi.kz/img/m/p/h76/h80/81121409204254.jpg?format=preview-small",
+        "medium": "https://resources.cdn-kaspi.kz/img/m/p/h76/h80/81121409204254.jpg?format=preview-medium",
+        "large": "https://resources.cdn-kaspi.kz/img/m/p/h76/h80/81121409204254.jpg?format=preview-large"
+      }
+    ],
+    "teasers": [],
+    "creditMonthlyPrice": 664,
+    "monthlyInstallment": {
+      "id": 3,
+      "installment": true,
+      "formattedPerMonth": "664 ₸"
+    },
+    "reviewsLink": "/p/shaurma-food-lahmadzhun-mjaso-syr-420-g-110711034/?c=710000000&tab=reviews",
+    "weight": 0,
+    "unit": {
+      "type": "PIECES",
+      "increment": 1,
+      "measurementLiteral": "шт",
+      "countingLiteral": "шт"
+    },
+    "rating": 0,
+    "reviewsQuantity": 0,
+    "stock": 1,
+    "currency": "KZT",
+    "mods": "",
+    "deliveryDuration": "TODAY",
+    "category": [
+      "Продукты питания",
+      "Готовая еда",
+      "Пироги, пицца"
+    ],
+    "categoryRu": [
+      "Продукты питания",
+      "Готовая еда",
+      "Пироги, пицца"
+    ],
+    "categoryCodes": [
+      "Pie",
+      "Ready meal",
+      "Food",
+      "Categories"
+    ],
+    "majorMerchants": [],
+    "deliveryZones": [
+      "710000000"
+    ]
+  }
+]

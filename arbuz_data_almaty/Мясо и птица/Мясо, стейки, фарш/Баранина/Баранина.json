@@ -1,0 +1,96 @@
+[
+  {
+    "id": "327970",
+    "catalogId": "19951",
+    "catalogName": "Баранина",
+    "parentCatalogId": 225609,
+    "lang": "ru",
+    "name": "Шашлык Meat Union из мякоти баранины замороженный, кг",
+    "producerCountry": "Казахстан",
+    "brandName": "Meat Union",
+    "description": "",
+    "htmlDescription": "",
+    "compound": "",
+    "uri": "/ru/almaty/catalog/item/327970-shashlyk_meat_union_iz_myakoti_baraniny_zamorozhennyi_kg",
+    "image": "https://arbuz.kz/image/s3/arbuz-kz-products/file_name__6a286cc1-f129-4ddc-8284-faa913c5d902-327970_2_jpg.jpg?w=%w&h=%h&_c=1747288637",
+    "measure": "кг",
+    "isWeighted": true,
+    "weightAvg": 0,
+    "weightMin": 1,
+    "weightMax": 3.066,
+    "weight": "1 кг",
+    "pieceWeightMax": 0,
+    "pieceWeightMin": 1,
+    "sellByPiece": false,
+    "quantityMinStep": 1,
+    "priceActual": 8000,
+    "priceSpecial": null,
+    "friendsDiscount": "",
+    "discount": "",
+    "pricePrevious": 0,
+    "isMain": false,
+    "isRecommended": false,
+    "recommendationType": null,
+    "articleIndex": "",
+    "articleGroup": "",
+    "barcode": "",
+    "badges": [],
+    "contents": {
+      "data": [
+        {
+          "title": "",
+          "content": ""
+        }
+      ]
+    },
+    "isAvailable": true,
+    "quantityExpress": 3.066,
+    "benefits": {
+      "defaultCashbackPercent": 0,
+      "friendsCashbackPercent": 5,
+      "defaultBonusAmount": 0,
+      "friendsBonusAmount": 400
+    },
+    "discountAmount": null,
+    "isNew": false,
+    "cashback": "",
+    "notify": null,
+    "groupId": 1,
+    "sellerLabel": null,
+    "isPromotional": false,
+    "hasPromotion": false,
+    "isExpressAvailable": true,
+    "isLocal": false,
+    "linkRel": null,
+    "isVerified": false,
+    "verifiedLabel": null,
+    "nutrition": null,
+    "ingredients": "Мякоть баранина, лук репчатый, специй, зелень, масло растительное",
+    "storageConditions": "Хранить при температуре от -18&deg;C до -20&deg;C",
+    "characteristics": [
+      {
+        "id": "10",
+        "name": "Глубокая заморозка",
+        "iconPng": "https://arbuz.kz/image/s3/arbuz-kz-characteristics/10-glubokaya_zamorozka.png?_c=1739163031"
+      }
+    ],
+    "topInformationBadge": "",
+    "information": "Вес: ~1000-1200 гр<br /><br />Шашлык из баранины &mdash; классическое блюдо кавказской кухни, где нежное мясо, пропитанное ароматом специй и дыма, тает во рту. Баранина идеально подходит для шашлыка благодаря своему насыщенному вкусу и сочности.",
+    "rating": {
+      "value": "3,6",
+      "reviews": "3 оценки"
+    },
+    "pharmProperties": null,
+    "titleIcon": null,
+    "additionalInformation": {
+      "unitStepType": "kg",
+      "categoryLevel3Id": "19951",
+      "categoryLevel1": "Мясо и птица",
+      "categoryLevel2": "Полуфабрикаты и маринады",
+      "categoryLevel3": "Шашлыки, колбаски, барбекю",
+      "bonusesAwardedPercent": 0
+    },
+    "superAppDeeplink": "https://freedombank.onelink.me/WNLd/b34bibl7",
+    "banners": []
+  }
+]

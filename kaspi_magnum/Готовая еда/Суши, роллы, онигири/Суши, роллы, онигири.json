@@ -1,0 +1,66 @@
+[
+  {
+    "id": "139899643",
+    "configSku": "139899643",
+    "title": "Shaurma-Food суши филадельфия 1308 г",
+    "brand": "Shaurma-Food",
+    "categoryId": "05064",
+    "hasVariants": false,
+    "loanAvailable": true,
+    "shopLink": "/p/shaurma-food-sushi-filadel-fija-1308-g-139899643/?c=710000000",
+    "unitPrice": 11490,
+    "unitSalePrice": 11490,
+    "priceFormatted": "11 490 ₸",
+    "createdTime": "2025-05-20T05:35:06.400Z",
+    "stickers": [],
+    "previewImages": [
+      {
+        "small": "https://resources.cdn-kaspi.kz/img/m/p/p33/pfd/43098751.png?format=preview-small",
+        "medium": "https://resources.cdn-kaspi.kz/img/m/p/p33/pfd/43098751.png?format=preview-medium",
+        "large": "https://resources.cdn-kaspi.kz/img/m/p/p33/pfd/43098751.png?format=preview-large"
+      }
+    ],
+    "teasers": [],
+    "creditMonthlyPrice": 3830,
+    "monthlyInstallment": {
+      "id": 3,
+      "installment": true,
+      "formattedPerMonth": "3 830 ₸"
+    },
+    "reviewsLink": "/p/shaurma-food-sushi-filadel-fija-1308-g-139899643/?c=710000000&tab=reviews",
+    "weight": 0,
+    "unit": {
+      "type": "PIECES",
+      "increment": 1,
+      "measurementLiteral": "шт",
+      "countingLiteral": "шт"
+    },
+    "rating": 0,
+    "reviewsQuantity": 0,
+    "stock": 1,
+    "currency": "KZT",
+    "mods": "",
+    "deliveryDuration": "TODAY",
+    "shortNameText": "",
+    "category": [
+      "Продукты питания",
+      "Готовая еда",
+      "Суши, роллы, онигири"
+    ],
+    "categoryRu": [
+      "Продукты питания",
+      "Готовая еда",
+      "Суши, роллы, онигири"
+    ],
+    "categoryCodes": [
+      "Sushi and rolls",
+      "Ready meal",
+      "Food",
+      "Categories"
+    ],
+    "majorMerchants": [],
+    "deliveryZones": [
+      "710000000"
+    ]
+  }
+]

@@ -1,0 +1,100 @@
+[
+  {
+    "id": "293245",
+    "catalogId": "225439",
+    "catalogName": "Аксессуары для отдыха",
+    "parentCatalogId": 225370,
+    "lang": "ru",
+    "name": "Рукава защитные HB11-BK черный",
+    "producerCountry": null,
+    "brandName": "Almaty Athletics",
+    "description": "",
+    "htmlDescription": "",
+    "compound": "",
+    "uri": "/ru/almaty/catalog/item/293245-rukava_zashitnye_hb11-bk_chernyi",
+    "image": "https://arbuz.kz/image/s3/arbuz-kz-products/293245-rukava_zashitnye_hb11-bk_chernyi.jpg?w=%w&h=%h&_c=1752885834",
+    "measure": "шт",
+    "isWeighted": false,
+    "weightAvg": 0,
+    "weightMin": 1,
+    "weightMax": 3,
+    "weight": "1 шт",
+    "pieceWeightMax": 0,
+    "pieceWeightMin": 1,
+    "sellByPiece": false,
+    "quantityMinStep": 1,
+    "priceActual": 1700,
+    "priceSpecial": null,
+    "friendsDiscount": "",
+    "discount": "−39%",
+    "pricePrevious": 2800,
+    "isMain": false,
+    "isRecommended": false,
+    "recommendationType": null,
+    "articleIndex": "",
+    "articleGroup": "",
+    "barcode": "",
+    "badges": [
+      {
+        "text": "−39%",
+        "backgroundColor": "#4F4F4F",
+        "textColor": "#FFFFFF",
+        "basketHidden": true,
+        "priority": 2,
+        "position": "top",
+        "type": "discount"
+      }
+    ],
+    "contents": {
+      "data": [
+        {
+          "title": "",
+          "content": ""
+        }
+      ]
+    },
+    "isAvailable": true,
+    "quantityExpress": 3,
+    "benefits": {
+      "defaultCashbackPercent": 0,
+      "friendsCashbackPercent": 5,
+      "defaultBonusAmount": 0,
+      "friendsBonusAmount": 85
+    },
+    "discountAmount": null,
+    "isNew": false,
+    "cashback": "",
+    "notify": null,
+    "groupId": 1,
+    "sellerLabel": null,
+    "isPromotional": false,
+    "hasPromotion": false,
+    "isExpressAvailable": true,
+    "isLocal": false,
+    "linkRel": null,
+    "isVerified": false,
+    "verifiedLabel": null,
+    "nutrition": null,
+    "ingredients": null,
+    "storageConditions": null,
+    "characteristics": null,
+    "topInformationBadge": "",
+    "information": "<p>Солнцезащитные рукава сделаны из материалов премиум-класса, более дышащий и абсорбирующим. Эффективная УФ-защита.Защищает кожу, когда вы тренируетесь в сильный солнечный день. Подходит для различных мероприятий на свежем воздухе, таких как езда на велосипеде, альпинизм, рыбалка и т.д</p>",
+    "rating": {
+      "value": "3,0",
+      "reviews": "1 оценка"
+    },
+    "pharmProperties": null,
+    "titleIcon": null,
+    "additionalInformation": {
+      "unitStepType": "pcs",
+      "categoryLevel3Id": "225439",
+      "categoryLevel1": "Всё для дома",
+      "categoryLevel2": "Для дачи и пикника",
+      "categoryLevel3": "Аксессуары для отдыха",
+      "bonusesAwardedPercent": 0
+    },
+    "superAppDeeplink": "https://freedombank.onelink.me/WNLd/ee30jazv",
+    "banners": []
+  }
+]

@@ -1,0 +1,4258 @@
+[
+  {
+    "id": "111874367",
+    "configSku": "111874367",
+    "title": "MAGNUM яблоко Конфетка Казахстан",
+    "brand": "MAGNUM",
+    "categoryId": "05095",
+    "hasVariants": false,
+    "loanAvailable": false,
+    "shopLink": "/p/magnum-jabloko-konfetka-kazahstan-111874367/?c=710000000",
+    "unitPrice": 659,
+    "unitSalePrice": 659,
+    "unitPriceBeforeDiscount": 885,
+    "discount": 26,
+    "priceFormatted": "659 ₸",
+    "createdTime": "2023-07-10T03:52:37.084Z",
+    "stickers": [
+      "magnum_offer_available"
+    ],
+    "previewImages": [
+      {
+        "small": "https://resources.cdn-kaspi.kz/img/m/p/pea/p87/77961680.jpg?format=preview-small",
+        "medium": "https://resources.cdn-kaspi.kz/img/m/p/pea/p87/77961680.jpg?format=preview-medium",
+        "large": "https://resources.cdn-kaspi.kz/img/m/p/pea/p87/77961680.jpg?format=preview-large"
+      }
+    ],
+    "teasers": [],
+    "creditMonthlyPrice": 220,
+    "monthlyInstallment": {
+      "id": 3,
+      "installment": true,
+      "formattedPerMonth": "220 ₸"
+    },
+    "reviewsLink": "/p/magnum-jabloko-konfetka-kazahstan-111874367/?c=710000000&tab=reviews",
+    "weight": 1,
+    "unit": {
+      "type": "MEASURABLE",
+      "increment": 1,
+      "measurementLiteral": "кг",
+      "countingLiteral": "кг"
+    },
+    "rating": 4.8,
+    "reviewsQuantity": 106,
+    "stock": 1,
+    "currency": "KZT",
+    "mods": "",
+    "deliveryDuration": "TODAY",
+    "shortNameText": "",
+    "category": [
+      "Продукты питания",
+      "Овощи, фрукты, ягоды, грибы",
+      "Фрукты"
+    ],
+    "categoryRu": [
+      "Продукты питания",
+      "Овощи, фрукты, ягоды, грибы",
+      "Фрукты"
+    ],
+    "categoryCodes": [
+      "Fruits",
+      "Fruits and vegetables",
+      "Food",
+      "Categories"
+    ],
+    "groups": [],
+    "promo": [
+      {
+        "code": "magnum 0012",
+        "text": null,
+        "type": "LOAN",
+        "priority": 12,
+        "owner": "KASPI",
+        "bonusType": "",
+        "img": {
+          "alt": null,
+          "medium": {
+            "src": "https://resources.cdn-kaspi.kz/yml/static/assets/badges/l12.svg?v=1",
+            "width": 40,
+            "height": 22
+          },
+          "large": {
+            "src": "https://resources.cdn-kaspi.kz/yml/static/assets/badges/l12.svg?v=1",
+            "width": 55,
+            "height": 31
+          },
+          "small": {
+            "src": "https://resources.cdn-kaspi.kz/yml/static/assets/badges/l12.svg?v=1",
+            "width": 40,
+            "height": 22
+          }
+        }
+      }
+    ],
+    "majorMerchants": [
+      "Magnum"
+    ],
+    "deliveryZones": [
+      "magnum_f_zone",
+      "Magnum_ZONE3",
+      "Magnum_ZONE5"
+    ]
+  },
+  {
+    "id": "102838076",
+    "configSku": "102838076",
+    "title": "MAGNUM киви Италия",
+    "brand": "MAGNUM",
+    "categoryId": "05095",
+    "hasVariants": false,
+    "loanAvailable": false,
+    "shopLink": "/p/magnum-kivi-italija-102838076/?c=710000000",
+    "unitPrice": 735,
+    "unitSalePrice": 735,
+    "unitPriceBeforeDiscount": 999,
+    "discount": 26,
+    "priceFormatted": "735 ₸",
+    "createdTime": "2021-11-10T09:18:22.272Z",
+    "stickers": [
+      "magnum_offer_available"
+    ],
+    "previewImages": [
+      {
+        "small": "https://resources.cdn-kaspi.kz/img/m/p/h0c/h15/64354063613982.jpg?format=preview-small",
+        "medium": "https://resources.cdn-kaspi.kz/img/m/p/h0c/h15/64354063613982.jpg?format=preview-medium",
+        "large": "https://resources.cdn-kaspi.kz/img/m/p/h0c/h15/64354063613982.jpg?format=preview-large"
+      }
+    ],
+    "teasers": [],
+    "creditMonthlyPrice": 245,
+    "monthlyInstallment": {
+      "id": 3,
+      "installment": true,
+      "formattedPerMonth": "245 ₸"
+    },
+    "reviewsLink": "/p/magnum-kivi-italija-102838076/?c=710000000&tab=reviews",
+    "unit": {
+      "type": "PIECES",
+      "increment": 1,
+      "measurementLiteral": "шт",
+      "countingLiteral": "шт"
+    },
+    "rating": 4.3,
+    "reviewsQuantity": 238,
+    "stock": 1,
+    "currency": "KZT",
+    "mods": "",
+    "deliveryDuration": "TODAY",
+    "shortNameText": "",
+    "category": [
+      "Продукты питания",
+      "Овощи, фрукты, ягоды, грибы",
+      "Фрукты"
+    ],
+    "categoryRu": [
+      "Продукты питания",
+      "Овощи, фрукты, ягоды, грибы",
+      "Фрукты"
+    ],
+    "categoryCodes": [
+      "Fruits",
+      "Fruits and vegetables",
+      "Food",
+      "Categories"
+    ],
+    "groups": [
+      "2c609b18-c7d0-45aa-abf4-66504039fe43",
+      "465ed6a2-8d7f-4147-a90d-bcce23d9e5e1"
+    ],
+    "promo": [
+      {
+        "code": "magnum 0012",
+        "text": null,
+        "type": "LOAN",
+        "priority": 12,
+        "owner": "KASPI",
+        "bonusType": "",
+        "img": {
+          "alt": null,
+          "medium": {
+            "src": "https://resources.cdn-kaspi.kz/yml/static/assets/badges/l12.svg?v=1",
+            "width": 40,
+            "height": 22
+          },
+          "large": {
+            "src": "https://resources.cdn-kaspi.kz/yml/static/assets/badges/l12.svg?v=1",
+            "width": 55,
+            "height": 31
+          },
+          "small": {
+            "src": "https://resources.cdn-kaspi.kz/yml/static/assets/badges/l12.svg?v=1",
+            "width": 40,
+            "height": 22
+          }
+        }
+      }
+    ],
+    "majorMerchants": [
+      "Magnum"
+    ],
+    "deliveryZones": [
+      "magnum_f_zone",
+      "Magnum_ZONE3",
+      "Magnum_ZONE5"
+    ]
+  },
+  {
+    "id": "102480925",
+    "configSku": "102480925",
+    "title": "MAGNUM хурма Ромашка Узбекистан",
+    "brand": "MAGNUM",
+    "categoryId": "05095",
+    "hasVariants": false,
+    "loanAvailable": false,
+    "shopLink": "/p/magnum-hurma-romashka-uzbekistan-102480925/?c=710000000",
+    "unitPrice": 1079,
+    "unitSalePrice": 1079,
+    "priceFormatted": "1 079 ₸",
+    "createdTime": "2021-10-04T14:56:20.930Z",
+    "stickers": [
+      "magnum_offer_available"
+    ],
+    "previewImages": [
+      {
+        "small": "https://resources.cdn-kaspi.kz/img/m/p/h27/hfd/64133149687838.jpg?format=preview-small",
+        "medium": "https://resources.cdn-kaspi.kz/img/m/p/h27/hfd/64133149687838.jpg?format=preview-medium",
+        "large": "https://resources.cdn-kaspi.kz/img/m/p/h27/hfd/64133149687838.jpg?format=preview-large"
+      }
+    ],
+    "teasers": [],
+    "creditMonthlyPrice": 360,
+    "monthlyInstallment": {
+      "id": 3,
+      "installment": true,
+      "formattedPerMonth": "360 ₸"
+    },
+    "reviewsLink": "/p/magnum-hurma-romashka-uzbekistan-102480925/?c=710000000&tab=reviews",
+    "weight": 1.2,
+    "unit": {
+      "type": "MEASURABLE",
+      "increment": 1.2,
+      "measurementLiteral": "кг",
+      "countingLiteral": "кг"
+    },
+    "rating": 4.6,
+    "reviewsQuantity": 368,
+    "stock": 1,
+    "currency": "KZT",
+    "mods": "",
+    "deliveryDuration": "TODAY",
+    "shortNameText": "",
+    "category": [
+      "Продукты питания",
+      "Овощи, фрукты, ягоды, грибы",
+      "Фрукты"
+    ],
+    "categoryRu": [
+      "Продукты питания",
+      "Овощи, фрукты, ягоды, грибы",
+      "Фрукты"
+    ],
+    "categoryCodes": [
+      "Fruits",
+      "Fruits and vegetables",
+      "Food",
+      "Categories"
+    ],
+    "groups": [],
+    "promo": [
+      {
+        "code": "magnum 0012",
+        "text": null,
+        "type": "LOAN",
+        "priority": 12,
+        "owner": "KASPI",
+        "bonusType": "",
+        "img": {
+          "alt": null,
+          "medium": {
+            "src": "https://resources.cdn-kaspi.kz/yml/static/assets/badges/l12.svg?v=1",
+            "width": 40,
+            "height": 22
+          },
+          "large": {
+            "src": "https://resources.cdn-kaspi.kz/yml/static/assets/badges/l12.svg?v=1",
+            "width": 55,
+            "height": 31
+          },
+          "small": {
+            "src": "https://resources.cdn-kaspi.kz/yml/static/assets/badges/l12.svg?v=1",
+            "width": 40,
+            "height": 22
+          }
+        }
+      }
+    ],
+    "majorMerchants": [
+      "Magnum"
+    ],
+    "deliveryZones": [
+      "magnum_f_zone",
+      "Magnum_ZONE3",
+      "Magnum_ZONE5"
+    ]
+  },
+  {
+    "id": "104524923",
+    "configSku": "104524923",
+    "title": "MAGNUM яблоко Гренни смит Италия",
+    "brand": "MAGNUM",
+    "categoryId": "05095",
+    "hasVariants": false,
+    "loanAvailable": false,
+    "shopLink": "/p/magnum-jabloko-grenni-smit-italija-104524923/?c=710000000",
+    "unitPrice": 1368,
+    "unitSalePrice": 1368,
+    "unitPriceBeforeDiscount": 1782,
+    "discount": 23,
+    "priceFormatted": "1 368 ₸",
+    "createdTime": "2022-04-19T17:05:02.110Z",
+    "stickers": [
+      "magnum_offer_available"
+    ],
+    "previewImages": [
+      {
+        "small": "https://resources.cdn-kaspi.kz/img/m/p/h9e/hf7/64594295685150.jpg?format=preview-small",
+        "medium": "https://resources.cdn-kaspi.kz/img/m/p/h9e/hf7/64594295685150.jpg?format=preview-medium",
+        "large": "https://resources.cdn-kaspi.kz/img/m/p/h9e/hf7/64594295685150.jpg?format=preview-large"
+      }
+    ],
+    "teasers": [],
+    "creditMonthlyPrice": 456,
+    "monthlyInstallment": {
+      "id": 3,
+      "installment": true,
+      "formattedPerMonth": "456 ₸"
+    },
+    "reviewsLink": "/p/magnum-jabloko-grenni-smit-italija-104524923/?c=710000000&tab=reviews",
+    "weight": 1,
+    "unit": {
+      "type": "MEASURABLE",
+      "increment": 1,
+      "measurementLiteral": "кг",
+      "countingLiteral": "кг"
+    },
+    "rating": 4.9,
+    "reviewsQuantity": 73,
+    "stock": 1,
+    "currency": "KZT",
+    "mods": "",
+    "deliveryDuration": "TODAY",
+    "shortNameText": "",
+    "category": [
+      "Продукты питания",
+      "Овощи, фрукты, ягоды, грибы",
+      "Фрукты"
+    ],
+    "categoryRu": [
+      "Продукты питания",
+      "Овощи, фрукты, ягоды, грибы",
+      "Фрукты"
+    ],
+    "categoryCodes": [
+      "Fruits",
+      "Fruits and vegetables",
+      "Food",
+      "Categories"
+    ],
+    "groups": [],
+    "promo": [
+      {
+        "code": "magnum 0012",
+        "text": null,
+        "type": "LOAN",
+        "priority": 12,
+        "owner": "KASPI",
+        "bonusType": "",
+        "img": {
+          "alt": null,
+          "medium": {
+            "src": "https://resources.cdn-kaspi.kz/yml/static/assets/badges/l12.svg?v=1",
+            "width": 40,
+            "height": 22
+          },
+          "large": {
+            "src": "https://resources.cdn-kaspi.kz/yml/static/assets/badges/l12.svg?v=1",
+            "width": 55,
+            "height": 31
+          },
+          "small": {
+            "src": "https://resources.cdn-kaspi.kz/yml/static/assets/badges/l12.svg?v=1",
+            "width": 40,
+            "height": 22
+          }
+        }
+      }
+    ],
+    "majorMerchants": [
+      "Magnum"
+    ],
+    "deliveryZones": [
+      "magnum_f_zone",
+      "Magnum_ZONE3",
+      "Magnum_ZONE5"
+    ]
+  },
+  {
+    "id": "101645560",
+    "configSku": "101645560",
+    "title": "MAGNUM груши Дюшес Китай",
+    "brand": "MAGNUM",
+    "categoryId": "05095",
+    "hasVariants": false,
+    "loanAvailable": false,
+    "shopLink": "/p/magnum-grushi-djushes-kitai-101645560/?c=710000000",
+    "unitPrice": 854,
+    "unitSalePrice": 854,
+    "priceFormatted": "854 ₸",
+    "createdTime": "2021-06-12T16:18:33.765Z",
+    "stickers": [
+      "magnum_offer_available"
+    ],
+    "previewImages": [
+      {
+        "small": "https://resources.cdn-kaspi.kz/img/m/p/h84/hb4/64325175312414.jpg?format=preview-small",
+        "medium": "https://resources.cdn-kaspi.kz/img/m/p/h84/hb4/64325175312414.jpg?format=preview-medium",
+        "large": "https://resources.cdn-kaspi.kz/img/m/p/h84/hb4/64325175312414.jpg?format=preview-large"
+      }
+    ],
+    "teasers": [],
+    "creditMonthlyPrice": 285,
+    "monthlyInstallment": {
+      "id": 3,
+      "installment": true,
+      "formattedPerMonth": "285 ₸"
+    },
+    "reviewsLink": "/p/magnum-grushi-djushes-kitai-101645560/?c=710000000&tab=reviews",
+    "weight": 1,
+    "unit": {
+      "type": "MEASURABLE",
+      "increment": 1,
+      "measurementLiteral": "кг",
+      "countingLiteral": "кг"
+    },
+    "rating": 4.5,
+    "reviewsQuantity": 166,
+    "stock": 1,
+    "currency": "KZT",
+    "mods": "",
+    "deliveryDuration": "TODAY",
+    "shortNameText": "",
+    "category": [
+      "Продукты питания",
+      "Овощи, фрукты, ягоды, грибы",
+      "Фрукты"
+    ],
+    "categoryRu": [
+      "Продукты питания",
+      "Овощи, фрукты, ягоды, грибы",
+      "Фрукты"
+    ],
+    "categoryCodes": [
+      "Fruits",
+      "Fruits and vegetables",
+      "Food",
+      "Categories"
+    ],
+    "groups": [],
+    "promo": [
+      {
+        "code": "magnum 0012",
+        "text": null,
+        "type": "LOAN",
+        "priority": 12,
+        "owner": "KASPI",
+        "bonusType": "",
+        "img": {
+          "alt": null,
+          "medium": {
+            "src": "https://resources.cdn-kaspi.kz/yml/static/assets/badges/l12.svg?v=1",
+            "width": 40,
+            "height": 22
+          },
+          "large": {
+            "src": "https://resources.cdn-kaspi.kz/yml/static/assets/badges/l12.svg?v=1",
+            "width": 55,
+            "height": 31
+          },
+          "small": {
+            "src": "https://resources.cdn-kaspi.kz/yml/static/assets/badges/l12.svg?v=1",
+            "width": 40,
+            "height": 22
+          }
+        }
+      }
+    ],
+    "majorMerchants": [
+      "Magnum"
+    ],
+    "deliveryZones": [
+      "magnum_f_zone",
+      "Magnum_ZONE3",
+      "Magnum_ZONE5"
+    ]
+  },
+  {
+    "id": "120127520",
+    "configSku": "120127520",
+    "title": "MAGNUM мандарин Китай",
+    "brand": "MAGNUM",
+    "categoryId": "05095",
+    "hasVariants": false,
+    "loanAvailable": false,
+    "shopLink": "/p/magnum-mandarin-kitai-120127520/?c=710000000",
+    "unitPrice": 799,
+    "unitSalePrice": 799,
+    "unitPriceBeforeDiscount": 1195,
+    "discount": 33,
+    "priceFormatted": "799 ₸",
+    "createdTime": "2024-06-07T13:03:52.936Z",
+    "stickers": [
+      "magnum_offer_available"
+    ],
+    "previewImages": [
+      {
+        "small": "https://resources.cdn-kaspi.kz/img/m/p/pd3/pec/7360482.jpg?format=preview-small",
+        "medium": "https://resources.cdn-kaspi.kz/img/m/p/pd3/pec/7360482.jpg?format=preview-medium",
+        "large": "https://resources.cdn-kaspi.kz/img/m/p/pd3/pec/7360482.jpg?format=preview-large"
+      }
+    ],
+    "teasers": [],
+    "creditMonthlyPrice": 267,
+    "monthlyInstallment": {
+      "id": 3,
+      "installment": true,
+      "formattedPerMonth": "267 ₸"
+    },
+    "reviewsLink": "/p/magnum-mandarin-kitai-120127520/?c=710000000&tab=reviews",
+    "weight": 1,
+    "unit": {
+      "type": "MEASURABLE",
+      "increment": 1,
+      "measurementLiteral": "кг",
+      "countingLiteral": "кг"
+    },
+    "rating": 4.3,
+    "reviewsQuantity": 236,
+    "stock": 1,
+    "currency": "KZT",
+    "mods": "",
+    "deliveryDuration": "TODAY",
+    "shortNameText": "",
+    "category": [
+      "Продукты питания",
+      "Овощи, фрукты, ягоды, грибы",
+      "Фрукты"
+    ],
+    "categoryRu": [
+      "Продукты питания",
+      "Овощи, фрукты, ягоды, грибы",
+      "Фрукты"
+    ],
+    "categoryCodes": [
+      "Fruits",
+      "Fruits and vegetables",
+      "Food",
+      "Categories"
+    ],
+    "groups": [],
+    "promo": [
+      {
+        "code": "magnum 0012",
+        "text": null,
+        "type": "LOAN",
+        "priority": 12,
+        "owner": "KASPI",
+        "bonusType": "",
+        "img": {
+          "alt": null,
+          "medium": {
+            "src": "https://resources.cdn-kaspi.kz/yml/static/assets/badges/l12.svg?v=1",
+            "width": 40,
+            "height": 22
+          },
+          "large": {
+            "src": "https://resources.cdn-kaspi.kz/yml/static/assets/badges/l12.svg?v=1",
+            "width": 55,
+            "height": 31
+          },
+          "small": {
+            "src": "https://resources.cdn-kaspi.kz/yml/static/assets/badges/l12.svg?v=1",
+            "width": 40,
+            "height": 22
+          }
+        }
+      }
+    ],
+    "majorMerchants": [
+      "Magnum"
+    ],
+    "deliveryZones": [
+      "magnum_f_zone",
+      "Magnum_ZONE3",
+      "Magnum_ZONE5"
+    ]
+  },
+  {
+    "id": "106407479",
+    "configSku": "106407479",
+    "title": "MAGNUM маракуйя Китай 2 шт",
+    "brand": "MAGNUM",
+    "categoryId": "05095",
+    "hasVariants": false,
+    "loanAvailable": false,
+    "shopLink": "/p/magnum-marakuija-kitai-2-sht-106407479/?c=710000000",
+    "unitPrice": 573,
+    "unitSalePrice": 573,
+    "unitPriceBeforeDiscount": 671,
+    "discount": 15,
+    "priceFormatted": "573 ₸",
+    "createdTime": "2022-09-12T04:54:21.322Z",
+    "stickers": [
+      "magnum_offer_available"
+    ],
+    "previewImages": [
+      {
+        "small": "https://resources.cdn-kaspi.kz/img/m/p/h10/h64/64652028248094.jpg?format=preview-small",
+        "medium": "https://resources.cdn-kaspi.kz/img/m/p/h10/h64/64652028248094.jpg?format=preview-medium",
+        "large": "https://resources.cdn-kaspi.kz/img/m/p/h10/h64/64652028248094.jpg?format=preview-large"
+      }
+    ],
+    "teasers": [],
+    "creditMonthlyPrice": 191,
+    "monthlyInstallment": {
+      "id": 3,
+      "installment": true,
+      "formattedPerMonth": "191 ₸"
+    },
+    "reviewsLink": "/p/magnum-marakuija-kitai-2-sht-106407479/?c=710000000&tab=reviews",
+    "weight": 0,
+    "unit": {
+      "type": "PIECES",
+      "increment": 1,
+      "measurementLiteral": "шт",
+      "countingLiteral": "шт"
+    },
+    "rating": 4.6,
+    "reviewsQuantity": 83,
+    "stock": 1,
+    "currency": "KZT",
+    "mods": "",
+    "deliveryDuration": "TODAY",
+    "shortNameText": "",
+    "category": [
+      "Продукты питания",
+      "Овощи, фрукты, ягоды, грибы",
+      "Фрукты"
+    ],
+    "categoryRu": [
+      "Продукты питания",
+      "Овощи, фрукты, ягоды, грибы",
+      "Фрукты"
+    ],
+    "categoryCodes": [
+      "Fruits",
+      "Fruits and vegetables",
+      "Food",
+      "Categories"
+    ],
+    "groups": [],
+    "promo": [
+      {
+        "code": "magnum 0012",
+        "text": null,
+        "type": "LOAN",
+        "priority": 12,
+        "owner": "KASPI",
+        "bonusType": "",
+        "img": {
+          "alt": null,
+          "medium": {
+            "src": "https://resources.cdn-kaspi.kz/yml/static/assets/badges/l12.svg?v=1",
+            "width": 40,
+            "height": 22
+          },
+          "large": {
+            "src": "https://resources.cdn-kaspi.kz/yml/static/assets/badges/l12.svg?v=1",
+            "width": 55,
+            "height": 31
+          },
+          "small": {
+            "src": "https://resources.cdn-kaspi.kz/yml/static/assets/badges/l12.svg?v=1",
+            "width": 40,
+            "height": 22
+          }
+        }
+      }
+    ],
+    "majorMerchants": [
+      "Magnum"
+    ],
+    "deliveryZones": [
+      "magnum_f_zone",
+      "Magnum_ZONE3",
+      "Magnum_ZONE5"
+    ]
+  },
+  {
+    "id": "102382583",
+    "configSku": "102382583",
+    "title": "MAGNUM гранат Узбекистан",
+    "brand": "MAGNUM",
+    "categoryId": "05095",
+    "hasVariants": false,
+    "loanAvailable": false,
+    "shopLink": "/p/magnum-granat-uzbekistan-102382583/?c=710000000",
+    "unitPrice": 1464,
+    "unitSalePrice": 1464,
+    "priceFormatted": "1 464 ₸",
+    "createdTime": "2021-09-24T05:36:58.007Z",
+    "stickers": [
+      "magnum_offer_available"
+    ],
+    "previewImages": [
+      {
+        "small": "https://resources.cdn-kaspi.kz/img/m/p/hd6/hbe/84535819599902.png?format=preview-small",
+        "medium": "https://resources.cdn-kaspi.kz/img/m/p/hd6/hbe/84535819599902.png?format=preview-medium",
+        "large": "https://resources.cdn-kaspi.kz/img/m/p/hd6/hbe/84535819599902.png?format=preview-large"
+      }
+    ],
+    "teasers": [],
+    "creditMonthlyPrice": 488,
+    "monthlyInstallment": {
+      "id": 3,
+      "installment": true,
+      "formattedPerMonth": "488 ₸"
+    },
+    "reviewsLink": "/p/magnum-granat-uzbekistan-102382583/?c=710000000&tab=reviews",
+    "weight": 1,
+    "unit": {
+      "type": "MEASURABLE",
+      "increment": 1,
+      "measurementLiteral": "кг",
+      "countingLiteral": "кг"
+    },
+    "rating": 4.7,
+    "reviewsQuantity": 201,
+    "stock": 1,
+    "currency": "KZT",
+    "mods": "",
+    "deliveryDuration": "TODAY",
+    "shortNameText": "",
+    "category": [
+      "Продукты питания",
+      "Овощи, фрукты, ягоды, грибы",
+      "Фрукты"
+    ],
+    "categoryRu": [
+      "Продукты питания",
+      "Овощи, фрукты, ягоды, грибы",
+      "Фрукты"
+    ],
+    "categoryCodes": [
+      "Fruits",
+      "Fruits and vegetables",
+      "Food",
+      "Categories"
+    ],
+    "groups": [],
+    "promo": [
+      {
+        "code": "magnum 0012",
+        "text": null,
+        "type": "LOAN",
+        "priority": 12,
+        "owner": "KASPI",
+        "bonusType": "",
+        "img": {
+          "alt": null,
+          "medium": {
+            "src": "https://resources.cdn-kaspi.kz/yml/static/assets/badges/l12.svg?v=1",
+            "width": 40,
+            "height": 22
+          },
+          "large": {
+            "src": "https://resources.cdn-kaspi.kz/yml/static/assets/badges/l12.svg?v=1",
+            "width": 55,
+            "height": 31
+          },
+          "small": {
+            "src": "https://resources.cdn-kaspi.kz/yml/static/assets/badges/l12.svg?v=1",
+            "width": 40,
+            "height": 22
+          }
+        }
+      }
+    ],
+    "majorMerchants": [
+      "Magnum"
+    ],
+    "deliveryZones": [
+      "magnum_f_zone",
+      "Magnum_ZONE5"
+    ]
+  },
+  {
+    "id": "105126093",
+    "configSku": "105126093",
+    "title": "Magnum авокадо Израиль 0.15 кг",
+    "brand": "MAGNUM",
+    "categoryId": "05095",
+    "hasVariants": false,
+    "loanAvailable": false,
+    "shopLink": "/p/magnum-avokado-izrail-0-15-kg-105126093/?c=710000000",
+    "unitPrice": 736,
+    "unitSalePrice": 736,
+    "priceFormatted": "736 ₸",
+    "createdTime": "2022-06-08T11:05:04.623Z",
+    "stickers": [
+      "magnum_offer_available"
+    ],
+    "previewImages": [
+      {
+        "small": "https://resources.cdn-kaspi.kz/img/m/p/h3d/h67/86957148897310.jpg?format=preview-small",
+        "medium": "https://resources.cdn-kaspi.kz/img/m/p/h3d/h67/86957148897310.jpg?format=preview-medium",
+        "large": "https://resources.cdn-kaspi.kz/img/m/p/h3d/h67/86957148897310.jpg?format=preview-large"
+      }
+    ],
+    "teasers": [],
+    "creditMonthlyPrice": 246,
+    "monthlyInstallment": {
+      "id": 3,
+      "installment": true,
+      "formattedPerMonth": "246 ₸"
+    },
+    "reviewsLink": "/p/magnum-avokado-izrail-0-15-kg-105126093/?c=710000000&tab=reviews",
+    "weight": 0,
+    "unit": {
+      "type": "PIECES",
+      "increment": 1,
+      "measurementLiteral": "шт",
+      "countingLiteral": "шт"
+    },
+    "rating": 3.8,
+    "reviewsQuantity": 77,
+    "stock": 1,
+    "currency": "KZT",
+    "mods": "",
+    "deliveryDuration": "TODAY",
+    "shortNameText": "",
+    "category": [
+      "Продукты питания",
+      "Овощи, фрукты, ягоды, грибы",
+      "Фрукты"
+    ],
+    "categoryRu": [
+      "Продукты питания",
+      "Овощи, фрукты, ягоды, грибы",
+      "Фрукты"
+    ],
+    "categoryCodes": [
+      "Fruits",
+      "Fruits and vegetables",
+      "Food",
+      "Categories"
+    ],
+    "groups": [],
+    "promo": [
+      {
+        "code": "magnum 0012",
+        "text": null,
+        "type": "LOAN",
+        "priority": 12,
+        "owner": "KASPI",
+        "bonusType": "",
+        "img": {
+          "alt": null,
+          "medium": {
+            "src": "https://resources.cdn-kaspi.kz/yml/static/assets/badges/l12.svg?v=1",
+            "width": 40,
+            "height": 22
+          },
+          "large": {
+            "src": "https://resources.cdn-kaspi.kz/yml/static/assets/badges/l12.svg?v=1",
+            "width": 55,
+            "height": 31
+          },
+          "small": {
+            "src": "https://resources.cdn-kaspi.kz/yml/static/assets/badges/l12.svg?v=1",
+            "width": 40,
+            "height": 22
+          }
+        }
+      }
+    ],
+    "majorMerchants": [
+      "Magnum"
+    ],
+    "deliveryZones": [
+      "magnum_f_zone",
+      "Magnum_ZONE3",
+      "Magnum_ZONE5"
+    ]
+  },
+  {
+    "id": "102495418",
+    "configSku": "102495418",
+    "title": "MAGNUM яблоко Айдарет Казахстан",
+    "brand": "MAGNUM",
+    "categoryId": "05095",
+    "hasVariants": false,
+    "loanAvailable": false,
+    "shopLink": "/p/magnum-jabloko-aidaret-kazahstan-102495418/?c=710000000",
+    "unitPrice": 604,
+    "unitSalePrice": 604,
+    "priceFormatted": "604 ₸",
+    "createdTime": "2021-10-06T03:29:28.564Z",
+    "stickers": [
+      "magnum_offer_available"
+    ],
+    "previewImages": [
+      {
+        "small": "https://resources.cdn-kaspi.kz/img/m/p/p05/p5d/24416652.jpg?format=preview-small",
+        "medium": "https://resources.cdn-kaspi.kz/img/m/p/p05/p5d/24416652.jpg?format=preview-medium",
+        "large": "https://resources.cdn-kaspi.kz/img/m/p/p05/p5d/24416652.jpg?format=preview-large"
+      }
+    ],
+    "teasers": [],
+    "creditMonthlyPrice": 202,
+    "monthlyInstallment": {
+      "id": 3,
+      "installment": true,
+      "formattedPerMonth": "202 ₸"
+    },
+    "reviewsLink": "/p/magnum-jabloko-aidaret-kazahstan-102495418/?c=710000000&tab=reviews",
+    "weight": 1.2,
+    "unit": {
+      "type": "MEASURABLE",
+      "increment": 1.2,
+      "measurementLiteral": "кг",
+      "countingLiteral": "кг"
+    },
+    "rating": 4.8,
+    "reviewsQuantity": 133,
+    "stock": 1,
+    "currency": "KZT",
+    "mods": "",
+    "deliveryDuration": "TODAY",
+    "shortNameText": "",
+    "category": [
+      "Продукты питания",
+      "Овощи, фрукты, ягоды, грибы",
+      "Фрукты"
+    ],
+    "categoryRu": [
+      "Продукты питания",
+      "Овощи, фрукты, ягоды, грибы",
+      "Фрукты"
+    ],
+    "categoryCodes": [
+      "Fruits",
+      "Fruits and vegetables",
+      "Food",
+      "Categories"
+    ],
+    "groups": [],
+    "promo": [
+      {
+        "code": "magnum 0012",
+        "text": null,
+        "type": "LOAN",
+        "priority": 12,
+        "owner": "KASPI",
+        "bonusType": "",
+        "img": {
+          "alt": null,
+          "medium": {
+            "src": "https://resources.cdn-kaspi.kz/yml/static/assets/badges/l12.svg?v=1",
+            "width": 40,
+            "height": 22
+          },
+          "large": {
+            "src": "https://resources.cdn-kaspi.kz/yml/static/assets/badges/l12.svg?v=1",
+            "width": 55,
+            "height": 31
+          },
+          "small": {
+            "src": "https://resources.cdn-kaspi.kz/yml/static/assets/badges/l12.svg?v=1",
+            "width": 40,
+            "height": 22
+          }
+        }
+      }
+    ],
+    "majorMerchants": [
+      "Magnum"
+    ],
+    "deliveryZones": [
+      "magnum_f_zone",
+      "Magnum_ZONE3",
+      "Magnum_ZONE5"
+    ]
+  },
+  {
+    "id": "103482183",
+    "configSku": "103482183",
+    "title": "MAGNUM киви Китай",
+    "brand": "MAGNUM",
+    "categoryId": "05095",
+    "hasVariants": false,
+    "loanAvailable": false,
+    "shopLink": "/p/magnum-kivi-kitai-103482183/?c=710000000",
+    "unitPrice": 1549,
+    "unitSalePrice": 1549,
+    "priceFormatted": "1 549 ₸",
+    "createdTime": "2022-01-24T09:48:53.706Z",
+    "stickers": [
+      "magnum_offer_available"
+    ],
+    "previewImages": [
+      {
+        "small": "https://resources.cdn-kaspi.kz/img/m/p/h9c/hac/86957153976350.jpg?format=preview-small",
+        "medium": "https://resources.cdn-kaspi.kz/img/m/p/h9c/hac/86957153976350.jpg?format=preview-medium",
+        "large": "https://resources.cdn-kaspi.kz/img/m/p/h9c/hac/86957153976350.jpg?format=preview-large"
+      }
+    ],
+    "teasers": [],
+    "creditMonthlyPrice": 517,
+    "monthlyInstallment": {
+      "id": 3,
+      "installment": true,
+      "formattedPerMonth": "517 ₸"
+    },
+    "reviewsLink": "/p/magnum-kivi-kitai-103482183/?c=710000000&tab=reviews",
+    "weight": 1,
+    "unit": {
+      "type": "MEASURABLE",
+      "increment": 1,
+      "measurementLiteral": "кг",
+      "countingLiteral": "кг"
+    },
+    "rating": 4.1,
+    "reviewsQuantity": 69,
+    "stock": 1,
+    "currency": "KZT",
+    "mods": "",
+    "deliveryDuration": "TODAY",
+    "shortNameText": "",
+    "category": [
+      "Продукты питания",
+      "Овощи, фрукты, ягоды, грибы",
+      "Фрукты"
+    ],
+    "categoryRu": [
+      "Продукты питания",
+      "Овощи, фрукты, ягоды, грибы",
+      "Фрукты"
+    ],
+    "categoryCodes": [
+      "Fruits",
+      "Fruits and vegetables",
+      "Food",
+      "Categories"
+    ],
+    "groups": [
+      "465ed6a2-8d7f-4147-a90d-bcce23d9e5e1",
+      "c8d35432-0788-4edf-9348-f3f5926c7661"
+    ],
+    "promo": [
+      {
+        "code": "magnum 0012",
+        "text": null,
+        "type": "LOAN",
+        "priority": 12,
+        "owner": "KASPI",
+        "bonusType": "",
+        "img": {
+          "alt": null,
+          "medium": {
+            "src": "https://resources.cdn-kaspi.kz/yml/static/assets/badges/l12.svg?v=1",
+            "width": 40,
+            "height": 22
+          },
+          "large": {
+            "src": "https://resources.cdn-kaspi.kz/yml/static/assets/badges/l12.svg?v=1",
+            "width": 55,
+            "height": 31
+          },
+          "small": {
+            "src": "https://resources.cdn-kaspi.kz/yml/static/assets/badges/l12.svg?v=1",
+            "width": 40,
+            "height": 22
+          }
+        }
+      }
+    ],
+    "majorMerchants": [
+      "Magnum"
+    ],
+    "deliveryZones": [
+      "magnum_f_zone",
+      "Magnum_ZONE3",
+      "Magnum_ZONE5"
+    ]
+  },
+  {
+    "id": "101349173",
+    "configSku": "101349173",
+    "title": "MAGNUM яблоко Салтанат Китай",
+    "brand": "MAGNUM",
+    "categoryId": "05095",
+    "hasVariants": false,
+    "loanAvailable": false,
+    "shopLink": "/p/magnum-jabloko-saltanat-kitai-101349173/?c=710000000",
+    "unitPrice": 1122,
+    "unitSalePrice": 1122,
+    "priceFormatted": "1 122 ₸",
+    "createdTime": "2021-04-21T04:14:38.160Z",
+    "stickers": [
+      "magnum_offer_available"
+    ],
+    "previewImages": [
+      {
+        "small": "https://resources.cdn-kaspi.kz/img/m/p/p8e/p0f/56913625.jpg?format=preview-small",
+        "medium": "https://resources.cdn-kaspi.kz/img/m/p/p8e/p0f/56913625.jpg?format=preview-medium",
+        "large": "https://resources.cdn-kaspi.kz/img/m/p/p8e/p0f/56913625.jpg?format=preview-large"
+      }
+    ],
+    "teasers": [],
+    "creditMonthlyPrice": 374,
+    "monthlyInstallment": {
+      "id": 3,
+      "installment": true,
+      "formattedPerMonth": "374 ₸"
+    },
+    "reviewsLink": "/p/magnum-jabloko-saltanat-kitai-101349173/?c=710000000&tab=reviews",
+    "weight": 1,
+    "unit": {
+      "type": "MEASURABLE",
+      "increment": 1,
+      "measurementLiteral": "кг",
+      "countingLiteral": "кг"
+    },
+    "rating": 4.9,
+    "reviewsQuantity": 55,
+    "stock": 1,
+    "currency": "KZT",
+    "mods": "",
+    "deliveryDuration": "TODAY",
+    "category": [
+      "Продукты питания",
+      "Овощи, фрукты, ягоды, грибы",
+      "Фрукты"
+    ],
+    "categoryRu": [
+      "Продукты питания",
+      "Овощи, фрукты, ягоды, грибы",
+      "Фрукты"
+    ],
+    "categoryCodes": [
+      "Fruits",
+      "Fruits and vegetables",
+      "Food",
+      "Categories"
+    ],
+    "groups": [],
+    "promo": [
+      {
+        "code": "magnum 0012",
+        "text": null,
+        "type": "LOAN",
+        "priority": 12,
+        "owner": "KASPI",
+        "bonusType": "",
+        "img": {
+          "alt": null,
+          "medium": {
+            "src": "https://resources.cdn-kaspi.kz/yml/static/assets/badges/l12.svg?v=1",
+            "width": 40,
+            "height": 22
+          },
+          "large": {
+            "src": "https://resources.cdn-kaspi.kz/yml/static/assets/badges/l12.svg?v=1",
+            "width": 55,
+            "height": 31
+          },
+          "small": {
+            "src": "https://resources.cdn-kaspi.kz/yml/static/assets/badges/l12.svg?v=1",
+            "width": 40,
+            "height": 22
+          }
+        }
+      }
+    ],
+    "majorMerchants": [
+      "Magnum"
+    ],
+    "deliveryZones": [
+      "magnum_f_zone",
+      "Magnum_ZONE3",
+      "Magnum_ZONE5"
+    ]
+  },
+  {
+    "id": "104957538",
+    "configSku": "104957538",
+    "title": "MAGNUM яблоко Симиренко Казахстан",
+    "brand": "MAGNUM",
+    "categoryId": "05095",
+    "hasVariants": false,
+    "loanAvailable": false,
+    "shopLink": "/p/magnum-jabloko-simirenko-kazahstan-104957538/?c=710000000",
+    "unitPrice": 897,
+    "unitSalePrice": 897,
+    "priceFormatted": "897 ₸",
+    "createdTime": "2022-05-26T05:03:24.923Z",
+    "stickers": [
+      "magnum_offer_available"
+    ],
+    "previewImages": [
+      {
+        "small": "https://resources.cdn-kaspi.kz/img/m/p/h8c/h87/65115594457118.jpg?format=preview-small",
+        "medium": "https://resources.cdn-kaspi.kz/img/m/p/h8c/h87/65115594457118.jpg?format=preview-medium",
+        "large": "https://resources.cdn-kaspi.kz/img/m/p/h8c/h87/65115594457118.jpg?format=preview-large"
+      }
+    ],
+    "teasers": [],
+    "creditMonthlyPrice": 299,
+    "monthlyInstallment": {
+      "id": 3,
+      "installment": true,
+      "formattedPerMonth": "299 ₸"
+    },
+    "reviewsLink": "/p/magnum-jabloko-simirenko-kazahstan-104957538/?c=710000000&tab=reviews",
+    "weight": 1,
+    "unit": {
+      "type": "MEASURABLE",
+      "increment": 1,
+      "measurementLiteral": "кг",
+      "countingLiteral": "кг"
+    },
+    "rating": 4.8,
+    "reviewsQuantity": 77,
+    "stock": 1,
+    "currency": "KZT",
+    "mods": "",
+    "deliveryDuration": "TODAY",
+    "shortNameText": "",
+    "category": [
+      "Продукты питания",
+      "Овощи, фрукты, ягоды, грибы",
+      "Фрукты"
+    ],
+    "categoryRu": [
+      "Продукты питания",
+      "Овощи, фрукты, ягоды, грибы",
+      "Фрукты"
+    ],
+    "categoryCodes": [
+      "Fruits",
+      "Fruits and vegetables",
+      "Food",
+      "Categories"
+    ],
+    "groups": [],
+    "promo": [
+      {
+        "code": "magnum 0012",
+        "text": null,
+        "type": "LOAN",
+        "priority": 12,
+        "owner": "KASPI",
+        "bonusType": "",
+        "img": {
+          "alt": null,
+          "small": {
+            "src": "https://resources.cdn-kaspi.kz/yml/static/assets/badges/l12.svg?v=1",
+            "width": 40,
+            "height": 22
+          },
+          "medium": {
+            "src": "https://resources.cdn-kaspi.kz/yml/static/assets/badges/l12.svg?v=1",
+            "width": 40,
+            "height": 22
+          },
+          "large": {
+            "src": "https://resources.cdn-kaspi.kz/yml/static/assets/badges/l12.svg?v=1",
+            "width": 55,
+            "height": 31
+          }
+        }
+      }
+    ],
+    "majorMerchants": [
+      "Magnum"
+    ],
+    "deliveryZones": [
+      "magnum_f_zone",
+      "Magnum_ZONE3",
+      "Magnum_ZONE5"
+    ]
+  },
+  {
+    "id": "101369038",
+    "configSku": "101369038",
+    "title": "MAGNUM лайм Бразилия",
+    "brand": "MAGNUM",
+    "categoryId": "05095",
+    "hasVariants": false,
+    "loanAvailable": false,
+    "shopLink": "/p/magnum-laim-brazilija-101369038/?c=710000000",
+    "unitPrice": 3965,
+    "unitSalePrice": 3965,
+    "priceFormatted": "3 965 ₸",
+    "createdTime": "2021-04-23T06:13:57.938Z",
+    "stickers": [
+      "magnum_offer_available"
+    ],
+    "previewImages": [
+      {
+        "small": "https://resources.cdn-kaspi.kz/img/m/p/h0f/h19/64347576926238.jpg?format=preview-small",
+        "medium": "https://resources.cdn-kaspi.kz/img/m/p/h0f/h19/64347576926238.jpg?format=preview-medium",
+        "large": "https://resources.cdn-kaspi.kz/img/m/p/h0f/h19/64347576926238.jpg?format=preview-large"
+      }
+    ],
+    "teasers": [],
+    "creditMonthlyPrice": 1322,
+    "monthlyInstallment": {
+      "id": 3,
+      "installment": true,
+      "formattedPerMonth": "1 322 ₸"
+    },
+    "reviewsLink": "/p/magnum-laim-brazilija-101369038/?c=710000000&tab=reviews",
+    "weight": 0.2,
+    "unit": {
+      "type": "MEASURABLE",
+      "increment": 0.2,
+      "measurementLiteral": "кг",
+      "countingLiteral": "кг"
+    },
+    "rating": 5,
+    "reviewsQuantity": 19,
+    "stock": 1,
+    "currency": "KZT",
+    "mods": "",
+    "deliveryDuration": "TODAY",
+    "shortNameText": "",
+    "category": [
+      "Продукты питания",
+      "Овощи, фрукты, ягоды, грибы",
+      "Фрукты"
+    ],
+    "categoryRu": [
+      "Продукты питания",
+      "Овощи, фрукты, ягоды, грибы",
+      "Фрукты"
+    ],
+    "categoryCodes": [
+      "Fruits",
+      "Fruits and vegetables",
+      "Food",
+      "Categories"
+    ],
+    "groups": [],
+    "promo": [
+      {
+        "code": "magnum 0012",
+        "text": null,
+        "type": "LOAN",
+        "priority": 12,
+        "owner": "KASPI",
+        "bonusType": "",
+        "img": {
+          "alt": null,
+          "small": {
+            "src": "https://resources.cdn-kaspi.kz/yml/static/assets/badges/l12.svg?v=1",
+            "width": 40,
+            "height": 22
+          },
+          "medium": {
+            "src": "https://resources.cdn-kaspi.kz/yml/static/assets/badges/l12.svg?v=1",
+            "width": 40,
+            "height": 22
+          },
+          "large": {
+            "src": "https://resources.cdn-kaspi.kz/yml/static/assets/badges/l12.svg?v=1",
+            "width": 55,
+            "height": 31
+          }
+        }
+      }
+    ],
+    "majorMerchants": [
+      "Magnum"
+    ],
+    "deliveryZones": [
+      "magnum_f_zone",
+      "Magnum_ZONE3",
+      "Magnum_ZONE5"
+    ]
+  },
+  {
+    "id": "103166876",
+    "configSku": "103166876",
+    "title": "MAGNUM мандарин с листьями Китай",
+    "brand": "MAGNUM",
+    "categoryId": "05095",
+    "hasVariants": false,
+    "loanAvailable": false,
+    "shopLink": "/p/magnum-mandarin-s-list-jami-kitai-103166876/?c=710000000",
+    "unitPrice": 1199,
+    "unitSalePrice": 1199,
+    "unitPriceBeforeDiscount": 1469,
+    "discount": 18,
+    "priceFormatted": "1 199 ₸",
+    "createdTime": "2021-12-12T13:25:27.406Z",
+    "stickers": [
+      "magnum_offer_available"
+    ],
+    "previewImages": [
+      {
+        "small": "https://resources.cdn-kaspi.kz/img/m/p/pb0/p53/77427078.jpg?format=preview-small",
+        "medium": "https://resources.cdn-kaspi.kz/img/m/p/pb0/p53/77427078.jpg?format=preview-medium",
+        "large": "https://resources.cdn-kaspi.kz/img/m/p/pb0/p53/77427078.jpg?format=preview-large"
+      }
+    ],
+    "teasers": [],
+    "creditMonthlyPrice": 400,
+    "monthlyInstallment": {
+      "id": 3,
+      "installment": true,
+      "formattedPerMonth": "400 ₸"
+    },
+    "reviewsLink": "/p/magnum-mandarin-s-list-jami-kitai-103166876/?c=710000000&tab=reviews",
+    "weight": 1.2,
+    "unit": {
+      "type": "MEASURABLE",
+      "increment": 1.2,
+      "measurementLiteral": "кг",
+      "countingLiteral": "кг"
+    },
+    "rating": 4.3,
+    "reviewsQuantity": 68,
+    "stock": 1,
+    "currency": "KZT",
+    "mods": "",
+    "deliveryDuration": "TODAY",
+    "shortNameText": "",
+    "category": [
+      "Продукты питания",
+      "Овощи, фрукты, ягоды, грибы",
+      "Фрукты"
+    ],
+    "categoryRu": [
+      "Продукты питания",
+      "Овощи, фрукты, ягоды, грибы",
+      "Фрукты"
+    ],
+    "categoryCodes": [
+      "Fruits",
+      "Fruits and vegetables",
+      "Food",
+      "Categories"
+    ],
+    "groups": [
+      "a5bd4289-a3f7-47b8-89ad-143ce337975d",
+      "b995c301-df04-4683-88be-50c8ea083863",
+      "5dca65e3-16a7-45f9-9700-8fd89752bdb3",
+      "67af5cb0-693f-48cd-8e82-50b0c9a176a7",
+      "33213954-9f7a-4830-9e1e-2e969d484917",
+      "24e3d218-18cd-40ea-9a24-7c63a1458ab0"
+    ],
+    "promo": [
+      {
+        "code": "magnum 0012",
+        "text": null,
+        "type": "LOAN",
+        "priority": 12,
+        "owner": "KASPI",
+        "bonusType": "",
+        "img": {
+          "alt": null,
+          "small": {
+            "src": "https://resources.cdn-kaspi.kz/yml/static/assets/badges/l12.svg?v=1",
+            "width": 40,
+            "height": 22
+          },
+          "medium": {
+            "src": "https://resources.cdn-kaspi.kz/yml/static/assets/badges/l12.svg?v=1",
+            "width": 40,
+            "height": 22
+          },
+          "large": {
+            "src": "https://resources.cdn-kaspi.kz/yml/static/assets/badges/l12.svg?v=1",
+            "width": 55,
+            "height": 31
+          }
+        }
+      }
+    ],
+    "majorMerchants": [
+      "Magnum"
+    ],
+    "deliveryZones": [
+      "magnum_f_zone",
+      "Magnum_ZONE5"
+    ]
+  },
+  {
+    "id": "114986678",
+    "configSku": "114986678",
+    "title": "MAGNUM банан зеленый Эквадор",
+    "brand": "MAGNUM",
+    "categoryId": "05095",
+    "hasVariants": false,
+    "loanAvailable": false,
+    "shopLink": "/p/magnum-banan-zelenyi-ekvador-114986678/?c=710000000",
+    "unitPrice": 919,
+    "unitSalePrice": 919,
+    "priceFormatted": "919 ₸",
+    "createdTime": "2023-11-29T10:04:34.181Z",
+    "stickers": [
+      "magnum_offer_available"
+    ],
+    "previewImages": [
+      {
+        "small": "https://resources.cdn-kaspi.kz/img/m/p/hd6/hb6/84612161830942.jpg?format=preview-small",
+        "medium": "https://resources.cdn-kaspi.kz/img/m/p/hd6/hb6/84612161830942.jpg?format=preview-medium",
+        "large": "https://resources.cdn-kaspi.kz/img/m/p/hd6/hb6/84612161830942.jpg?format=preview-large"
+      }
+    ],
+    "teasers": [],
+    "creditMonthlyPrice": 307,
+    "monthlyInstallment": {
+      "id": 3,
+      "installment": true,
+      "formattedPerMonth": "307 ₸"
+    },
+    "reviewsLink": "/p/magnum-banan-zelenyi-ekvador-114986678/?c=710000000&tab=reviews",
+    "weight": 1.3,
+    "unit": {
+      "type": "MEASURABLE",
+      "increment": 1.3,
+      "measurementLiteral": "кг",
+      "countingLiteral": "кг"
+    },
+    "rating": 5,
+    "reviewsQuantity": 31,
+    "stock": 1,
+    "currency": "KZT",
+    "mods": "",
+    "deliveryDuration": "TODAY",
+    "shortNameText": "",
+    "category": [
+      "Продукты питания",
+      "Овощи, фрукты, ягоды, грибы",
+      "Фрукты"
+    ],
+    "categoryRu": [
+      "Продукты питания",
+      "Овощи, фрукты, ягоды, грибы",
+      "Фрукты"
+    ],
+    "categoryCodes": [
+      "Fruits",
+      "Fruits and vegetables",
+      "Food",
+      "Categories"
+    ],
+    "groups": [],
+    "promo": [
+      {
+        "code": "magnum 0012",
+        "text": null,
+        "type": "LOAN",
+        "priority": 12,
+        "owner": "KASPI",
+        "bonusType": "",
+        "img": {
+          "alt": null,
+          "small": {
+            "src": "https://resources.cdn-kaspi.kz/yml/static/assets/badges/l12.svg?v=1",
+            "width": 40,
+            "height": 22
+          },
+          "medium": {
+            "src": "https://resources.cdn-kaspi.kz/yml/static/assets/badges/l12.svg?v=1",
+            "width": 40,
+            "height": 22
+          },
+          "large": {
+            "src": "https://resources.cdn-kaspi.kz/yml/static/assets/badges/l12.svg?v=1",
+            "width": 55,
+            "height": 31
+          }
+        }
+      }
+    ],
+    "majorMerchants": [
+      "Magnum"
+    ],
+    "deliveryZones": [
+      "magnum_f_zone",
+      "Magnum_ZONE5"
+    ]
+  },
+  {
+    "id": "121186656",
+    "configSku": "121186656",
+    "title": "MAGNUM питахайя Китай",
+    "brand": "MAGNUM",
+    "categoryId": "05095",
+    "hasVariants": false,
+    "loanAvailable": false,
+    "shopLink": "/p/magnum-pitahaija-kitai-121186656/?c=710000000",
+    "unitPrice": 1269,
+    "unitSalePrice": 1269,
+    "priceFormatted": "1 269 ₸",
+    "createdTime": "2024-07-11T05:36:25.716Z",
+    "stickers": [
+      "magnum_offer_available"
+    ],
+    "previewImages": [
+      {
+        "small": "https://resources.cdn-kaspi.kz/img/m/p/h4e/hb6/86484099727390.jpg?format=preview-small",
+        "medium": "https://resources.cdn-kaspi.kz/img/m/p/h4e/hb6/86484099727390.jpg?format=preview-medium",
+        "large": "https://resources.cdn-kaspi.kz/img/m/p/h4e/hb6/86484099727390.jpg?format=preview-large"
+      }
+    ],
+    "teasers": [],
+    "creditMonthlyPrice": 423,
+    "monthlyInstallment": {
+      "id": 3,
+      "installment": true,
+      "formattedPerMonth": "423 ₸"
+    },
+    "reviewsLink": "/p/magnum-pitahaija-kitai-121186656/?c=710000000&tab=reviews",
+    "weight": 0.9,
+    "unit": {
+      "type": "MEASURABLE_PIECES",
+      "increment": 0.9,
+      "measurementLiteral": "кг",
+      "countingLiteral": "шт"
+    },
+    "rating": 4.8,
+    "reviewsQuantity": 21,
+    "stock": 1,
+    "currency": "KZT",
+    "mods": "",
+    "deliveryDuration": "TODAY",
+    "shortNameText": "",
+    "category": [
+      "Продукты питания",
+      "Овощи, фрукты, ягоды, грибы",
+      "Фрукты"
+    ],
+    "categoryRu": [
+      "Продукты питания",
+      "Овощи, фрукты, ягоды, грибы",
+      "Фрукты"
+    ],
+    "categoryCodes": [
+      "Fruits",
+      "Fruits and vegetables",
+      "Food",
+      "Categories"
+    ],
+    "groups": [],
+    "promo": [
+      {
+        "code": "magnum 0012",
+        "text": null,
+        "type": "LOAN",
+        "priority": 12,
+        "owner": "KASPI",
+        "bonusType": "",
+        "img": {
+          "alt": null,
+          "small": {
+            "src": "https://resources.cdn-kaspi.kz/yml/static/assets/badges/l12.svg?v=1",
+            "width": 40,
+            "height": 22
+          },
+          "medium": {
+            "src": "https://resources.cdn-kaspi.kz/yml/static/assets/badges/l12.svg?v=1",
+            "width": 40,
+            "height": 22
+          },
+          "large": {
+            "src": "https://resources.cdn-kaspi.kz/yml/static/assets/badges/l12.svg?v=1",
+            "width": 55,
+            "height": 31
+          }
+        }
+      }
+    ],
+    "majorMerchants": [
+      "Magnum"
+    ],
+    "deliveryZones": [
+      "magnum_f_zone",
+      "Magnum_ZONE3",
+      "Magnum_ZONE5"
+    ]
+  },
+  {
+    "id": "101349164",
+    "configSku": "101349164",
+    "title": "MAGNUM грейпфрут Турция",
+    "brand": "MAGNUM",
+    "categoryId": "05095",
+    "hasVariants": false,
+    "loanAvailable": false,
+    "shopLink": "/p/magnum-greipfrut-turtsija-101349164/?c=710000000",
+    "unitPrice": 1598,
+    "unitSalePrice": 1598,
+    "priceFormatted": "1 598 ₸",
+    "createdTime": "2021-04-21T04:14:37.841Z",
+    "stickers": [
+      "magnum_offer_available"
+    ],
+    "previewImages": [
+      {
+        "small": "https://resources.cdn-kaspi.kz/img/m/p/h60/hc0/64347237548062.jpg?format=preview-small",
+        "medium": "https://resources.cdn-kaspi.kz/img/m/p/h60/hc0/64347237548062.jpg?format=preview-medium",
+        "large": "https://resources.cdn-kaspi.kz/img/m/p/h60/hc0/64347237548062.jpg?format=preview-large"
+      }
+    ],
+    "teasers": [],
+    "creditMonthlyPrice": 533,
+    "monthlyInstallment": {
+      "id": 3,
+      "installment": true,
+      "formattedPerMonth": "533 ₸"
+    },
+    "reviewsLink": "/p/magnum-greipfrut-turtsija-101349164/?c=710000000&tab=reviews",
+    "weight": 1.2,
+    "unit": {
+      "type": "MEASURABLE",
+      "increment": 1.2,
+      "measurementLiteral": "кг",
+      "countingLiteral": "кг"
+    },
+    "rating": 4.9,
+    "reviewsQuantity": 21,
+    "stock": 1,
+    "currency": "KZT",
+    "mods": "",
+    "deliveryDuration": "TODAY",
+    "shortNameText": "",
+    "category": [
+      "Продукты питания",
+      "Овощи, фрукты, ягоды, грибы",
+      "Фрукты"
+    ],
+    "categoryRu": [
+      "Продукты питания",
+      "Овощи, фрукты, ягоды, грибы",
+      "Фрукты"
+    ],
+    "categoryCodes": [
+      "Fruits",
+      "Fruits and vegetables",
+      "Food",
+      "Categories"
+    ],
+    "groups": [],
+    "promo": [
+      {
+        "code": "magnum 0012",
+        "text": null,
+        "type": "LOAN",
+        "priority": 12,
+        "owner": "KASPI",
+        "bonusType": "",
+        "img": {
+          "alt": null,
+          "small": {
+            "src": "https://resources.cdn-kaspi.kz/yml/static/assets/badges/l12.svg?v=1",
+            "width": 40,
+            "height": 22
+          },
+          "medium": {
+            "src": "https://resources.cdn-kaspi.kz/yml/static/assets/badges/l12.svg?v=1",
+            "width": 40,
+            "height": 22
+          },
+          "large": {
+            "src": "https://resources.cdn-kaspi.kz/yml/static/assets/badges/l12.svg?v=1",
+            "width": 55,
+            "height": 31
+          }
+        }
+      }
+    ],
+    "majorMerchants": [
+      "Magnum"
+    ],
+    "deliveryZones": [
+      "magnum_f_zone",
+      "Magnum_ZONE3",
+      "Magnum_ZONE5"
+    ]
+  },
+  {
+    "id": "116530262",
+    "configSku": "116530262",
+    "title": "MAGNUM лимон+имбирь Казахстан",
+    "brand": "MAGNUM",
+    "categoryId": "05095",
+    "hasVariants": false,
+    "loanAvailable": false,
+    "shopLink": "/p/magnum-limon-imbir-kazahstan-116530262/?c=710000000",
+    "unitPrice": 2684,
+    "unitSalePrice": 2684,
+    "priceFormatted": "2 684 ₸",
+    "createdTime": "2024-02-09T07:14:21.785Z",
+    "stickers": [
+      "magnum_offer_available"
+    ],
+    "previewImages": [
+      {
+        "small": "https://resources.cdn-kaspi.kz/img/m/p/h8b/h0e/85225918627870.jpg?format=preview-small",
+        "medium": "https://resources.cdn-kaspi.kz/img/m/p/h8b/h0e/85225918627870.jpg?format=preview-medium",
+        "large": "https://resources.cdn-kaspi.kz/img/m/p/h8b/h0e/85225918627870.jpg?format=preview-large"
+      }
+    ],
+    "teasers": [],
+    "creditMonthlyPrice": 895,
+    "monthlyInstallment": {
+      "id": 3,
+      "installment": true,
+      "formattedPerMonth": "895 ₸"
+    },
+    "reviewsLink": "/p/magnum-limon-imbir-kazahstan-116530262/?c=710000000&tab=reviews",
+    "weight": 0.7,
+    "unit": {
+      "type": "MEASURABLE_PIECES",
+      "increment": 0.7,
+      "measurementLiteral": "кг",
+      "countingLiteral": "шт"
+    },
+    "rating": 4.8,
+    "reviewsQuantity": 26,
+    "stock": 1,
+    "currency": "KZT",
+    "mods": "",
+    "deliveryDuration": "TODAY",
+    "shortNameText": "",
+    "category": [
+      "Продукты питания",
+      "Овощи, фрукты, ягоды, грибы",
+      "Фрукты"
+    ],
+    "categoryRu": [
+      "Продукты питания",
+      "Овощи, фрукты, ягоды, грибы",
+      "Фрукты"
+    ],
+    "categoryCodes": [
+      "Fruits",
+      "Fruits and vegetables",
+      "Food",
+      "Categories"
+    ],
+    "groups": [],
+    "promo": [
+      {
+        "code": "magnum 0012",
+        "text": null,
+        "type": "LOAN",
+        "priority": 12,
+        "owner": "KASPI",
+        "bonusType": "",
+        "img": {
+          "alt": null,
+          "small": {
+            "src": "https://resources.cdn-kaspi.kz/yml/static/assets/badges/l12.svg?v=1",
+            "width": 40,
+            "height": 22
+          },
+          "medium": {
+            "src": "https://resources.cdn-kaspi.kz/yml/static/assets/badges/l12.svg?v=1",
+            "width": 40,
+            "height": 22
+          },
+          "large": {
+            "src": "https://resources.cdn-kaspi.kz/yml/static/assets/badges/l12.svg?v=1",
+            "width": 55,
+            "height": 31
+          }
+        }
+      }
+    ],
+    "majorMerchants": [
+      "Magnum"
+    ],
+    "deliveryZones": [
+      "magnum_f_zone",
+      "Magnum_ZONE5"
+    ]
+  },
+  {
+    "id": "114986746",
+    "configSku": "114986746",
+    "title": "MAGNUM банан для смузи Эквадор",
+    "brand": "MAGNUM",
+    "categoryId": "05095",
+    "hasVariants": false,
+    "loanAvailable": false,
+    "shopLink": "/p/magnum-banan-dlja-smuzi-ekvador-114986746/?c=710000000",
+    "unitPrice": 919,
+    "unitSalePrice": 919,
+    "priceFormatted": "919 ₸",
+    "createdTime": "2023-11-29T10:10:51.588Z",
+    "stickers": [
+      "magnum_offer_available"
+    ],
+    "previewImages": [
+      {
+        "small": "https://resources.cdn-kaspi.kz/img/m/p/h59/h07/84612787437598.jpg?format=preview-small",
+        "medium": "https://resources.cdn-kaspi.kz/img/m/p/h59/h07/84612787437598.jpg?format=preview-medium",
+        "large": "https://resources.cdn-kaspi.kz/img/m/p/h59/h07/84612787437598.jpg?format=preview-large"
+      }
+    ],
+    "teasers": [],
+    "creditMonthlyPrice": 307,
+    "monthlyInstallment": {
+      "id": 3,
+      "installment": true,
+      "formattedPerMonth": "307 ₸"
+    },
+    "reviewsLink": "/p/magnum-banan-dlja-smuzi-ekvador-114986746/?c=710000000&tab=reviews",
+    "weight": 1.3,
+    "unit": {
+      "type": "MEASURABLE_PIECES",
+      "increment": 1.3,
+      "measurementLiteral": "кг",
+      "countingLiteral": "шт"
+    },
+    "rating": 4.8,
+    "reviewsQuantity": 21,
+    "stock": 1,
+    "currency": "KZT",
+    "mods": "",
+    "deliveryDuration": "TODAY",
+    "shortNameText": "",
+    "category": [
+      "Продукты питания",
+      "Овощи, фрукты, ягоды, грибы",
+      "Фрукты"
+    ],
+    "categoryRu": [
+      "Продукты питания",
+      "Овощи, фрукты, ягоды, грибы",
+      "Фрукты"
+    ],
+    "categoryCodes": [
+      "Fruits",
+      "Fruits and vegetables",
+      "Food",
+      "Categories"
+    ],
+    "groups": [],
+    "promo": [
+      {
+        "code": "magnum 0012",
+        "text": null,
+        "type": "LOAN",
+        "priority": 12,
+        "owner": "KASPI",
+        "bonusType": "",
+        "img": {
+          "alt": null,
+          "small": {
+            "src": "https://resources.cdn-kaspi.kz/yml/static/assets/badges/l12.svg?v=1",
+            "width": 40,
+            "height": 22
+          },
+          "medium": {
+            "src": "https://resources.cdn-kaspi.kz/yml/static/assets/badges/l12.svg?v=1",
+            "width": 40,
+            "height": 22
+          },
+          "large": {
+            "src": "https://resources.cdn-kaspi.kz/yml/static/assets/badges/l12.svg?v=1",
+            "width": 55,
+            "height": 31
+          }
+        }
+      }
+    ],
+    "majorMerchants": [
+      "Magnum"
+    ],
+    "deliveryZones": [
+      "magnum_f_zone",
+      "Magnum_ZONE5"
+    ]
+  },
+  {
+    "id": "102665818",
+    "configSku": "102665818",
+    "title": "MAGNUM айва Узбекистан",
+    "brand": "MAGNUM",
+    "categoryId": "05095",
+    "hasVariants": false,
+    "loanAvailable": false,
+    "shopLink": "/p/magnum-aiva-uzbekistan-102665818/?c=710000000",
+    "unitPrice": 1806,
+    "unitSalePrice": 1806,
+    "priceFormatted": "1 806 ₸",
+    "createdTime": "2021-10-22T04:19:52.077Z",
+    "stickers": [
+      "magnum_offer_available"
+    ],
+    "previewImages": [
+      {
+        "small": "https://resources.cdn-kaspi.kz/img/m/p/pd4/p00/78252409.jpg?format=preview-small",
+        "medium": "https://resources.cdn-kaspi.kz/img/m/p/pd4/p00/78252409.jpg?format=preview-medium",
+        "large": "https://resources.cdn-kaspi.kz/img/m/p/pd4/p00/78252409.jpg?format=preview-large"
+      }
+    ],
+    "teasers": [],
+    "creditMonthlyPrice": 602,
+    "monthlyInstallment": {
+      "id": 3,
+      "installment": true,
+      "formattedPerMonth": "602 ₸"
+    },
+    "reviewsLink": "/p/magnum-aiva-uzbekistan-102665818/?c=710000000&tab=reviews",
+    "weight": 0.5,
+    "unit": {
+      "type": "MEASURABLE",
+      "increment": 0.5,
+      "measurementLiteral": "кг",
+      "countingLiteral": "кг"
+    },
+    "rating": 4.5,
+    "reviewsQuantity": 44,
+    "stock": 1,
+    "currency": "KZT",
+    "mods": "",
+    "deliveryDuration": "TODAY",
+    "shortNameText": "",
+    "category": [
+      "Продукты питания",
+      "Овощи, фрукты, ягоды, грибы",
+      "Фрукты"
+    ],
+    "categoryRu": [
+      "Продукты питания",
+      "Овощи, фрукты, ягоды, грибы",
+      "Фрукты"
+    ],
+    "categoryCodes": [
+      "Fruits",
+      "Fruits and vegetables",
+      "Food",
+      "Categories"
+    ],
+    "groups": [],
+    "promo": [
+      {
+        "code": "magnum 0012",
+        "text": null,
+        "type": "LOAN",
+        "priority": 12,
+        "owner": "KASPI",
+        "bonusType": "",
+        "img": {
+          "alt": null,
+          "small": {
+            "src": "https://resources.cdn-kaspi.kz/yml/static/assets/badges/l12.svg?v=1",
+            "width": 40,
+            "height": 22
+          },
+          "medium": {
+            "src": "https://resources.cdn-kaspi.kz/yml/static/assets/badges/l12.svg?v=1",
+            "width": 40,
+            "height": 22
+          },
+          "large": {
+            "src": "https://resources.cdn-kaspi.kz/yml/static/assets/badges/l12.svg?v=1",
+            "width": 55,
+            "height": 31
+          }
+        }
+      }
+    ],
+    "majorMerchants": [
+      "Magnum"
+    ],
+    "deliveryZones": [
+      "magnum_f_zone",
+      "Magnum_ZONE3",
+      "Magnum_ZONE5"
+    ]
+  },
+  {
+    "id": "121161488",
+    "configSku": "121161488",
+    "title": "MAGNUM ананас Коста-Рика",
+    "brand": "MAGNUM",
+    "categoryId": "05095",
+    "hasVariants": false,
+    "loanAvailable": false,
+    "shopLink": "/p/magnum-ananas-kosta-rika-121161488/?c=710000000",
+    "unitPrice": 1095,
+    "unitSalePrice": 1095,
+    "unitPriceBeforeDiscount": 1513,
+    "discount": 28,
+    "priceFormatted": "1 095 ₸",
+    "createdTime": "2024-07-10T10:29:11.588Z",
+    "stickers": [
+      "magnum_offer_available"
+    ],
+    "previewImages": [
+      {
+        "small": "https://resources.cdn-kaspi.kz/img/m/p/h25/hfe/86477555499038.jpg?format=preview-small",
+        "medium": "https://resources.cdn-kaspi.kz/img/m/p/h25/hfe/86477555499038.jpg?format=preview-medium",
+        "large": "https://resources.cdn-kaspi.kz/img/m/p/h25/hfe/86477555499038.jpg?format=preview-large"
+      }
+    ],
+    "teasers": [],
+    "creditMonthlyPrice": 365,
+    "monthlyInstallment": {
+      "id": 3,
+      "installment": true,
+      "formattedPerMonth": "365 ₸"
+    },
+    "reviewsLink": "/p/magnum-ananas-kosta-rika-121161488/?c=710000000&tab=reviews",
+    "weight": 2,
+    "unit": {
+      "type": "MEASURABLE_PIECES",
+      "increment": 2,
+      "measurementLiteral": "кг",
+      "countingLiteral": "шт"
+    },
+    "rating": 4.3,
+    "reviewsQuantity": 12,
+    "stock": 1,
+    "currency": "KZT",
+    "mods": "",
+    "deliveryDuration": "TODAY",
+    "shortNameText": "",
+    "category": [
+      "Продукты питания",
+      "Овощи, фрукты, ягоды, грибы",
+      "Фрукты"
+    ],
+    "categoryRu": [
+      "Продукты питания",
+      "Овощи, фрукты, ягоды, грибы",
+      "Фрукты"
+    ],
+    "categoryCodes": [
+      "Fruits",
+      "Fruits and vegetables",
+      "Food",
+      "Categories"
+    ],
+    "groups": [],
+    "promo": [
+      {
+        "code": "magnum 0012",
+        "text": null,
+        "type": "LOAN",
+        "priority": 12,
+        "owner": "KASPI",
+        "bonusType": "",
+        "img": {
+          "alt": null,
+          "small": {
+            "src": "https://resources.cdn-kaspi.kz/yml/static/assets/badges/l12.svg?v=1",
+            "width": 40,
+            "height": 22
+          },
+          "medium": {
+            "src": "https://resources.cdn-kaspi.kz/yml/static/assets/badges/l12.svg?v=1",
+            "width": 40,
+            "height": 22
+          },
+          "large": {
+            "src": "https://resources.cdn-kaspi.kz/yml/static/assets/badges/l12.svg?v=1",
+            "width": 55,
+            "height": 31
+          }
+        }
+      }
+    ],
+    "majorMerchants": [
+      "Magnum"
+    ],
+    "deliveryZones": [
+      "magnum_f_zone",
+      "Magnum_ZONE3",
+      "Magnum_ZONE5"
+    ]
+  },
+  {
+    "id": "101660220",
+    "configSku": "101660220",
+    "title": "MAGNUM груша Forelle ЮАР",
+    "brand": "MAGNUM",
+    "categoryId": "05095",
+    "hasVariants": false,
+    "loanAvailable": false,
+    "shopLink": "/p/magnum-grusha-forelle-juar-101660220/?c=710000000",
+    "unitPrice": 2184,
+    "unitSalePrice": 2184,
+    "unitPriceBeforeDiscount": 2562,
+    "discount": 15,
+    "priceFormatted": "2 184 ₸",
+    "createdTime": "2021-06-15T06:27:46.395Z",
+    "stickers": [
+      "magnum_offer_available"
+    ],
+    "previewImages": [
+      {
+        "small": "https://resources.cdn-kaspi.kz/img/m/p/hd9/h87/86175790891038.jpg?format=preview-small",
+        "medium": "https://resources.cdn-kaspi.kz/img/m/p/hd9/h87/86175790891038.jpg?format=preview-medium",
+        "large": "https://resources.cdn-kaspi.kz/img/m/p/hd9/h87/86175790891038.jpg?format=preview-large"
+      }
+    ],
+    "teasers": [],
+    "creditMonthlyPrice": 728,
+    "monthlyInstallment": {
+      "id": 3,
+      "installment": true,
+      "formattedPerMonth": "728 ₸"
+    },
+    "reviewsLink": "/p/magnum-grusha-forelle-juar-101660220/?c=710000000&tab=reviews",
+    "weight": 1,
+    "unit": {
+      "type": "MEASURABLE",
+      "increment": 1,
+      "measurementLiteral": "кг",
+      "countingLiteral": "кг"
+    },
+    "rating": 4.8,
+    "reviewsQuantity": 12,
+    "stock": 1,
+    "currency": "KZT",
+    "mods": "",
+    "deliveryDuration": "TODAY",
+    "shortNameText": "",
+    "category": [
+      "Продукты питания",
+      "Овощи, фрукты, ягоды, грибы",
+      "Фрукты"
+    ],
+    "categoryRu": [
+      "Продукты питания",
+      "Овощи, фрукты, ягоды, грибы",
+      "Фрукты"
+    ],
+    "categoryCodes": [
+      "Fruits",
+      "Fruits and vegetables",
+      "Food",
+      "Categories"
+    ],
+    "groups": [],
+    "promo": [
+      {
+        "code": "magnum 0012",
+        "text": null,
+        "type": "LOAN",
+        "priority": 12,
+        "owner": "KASPI",
+        "bonusType": "",
+        "img": {
+          "alt": null,
+          "small": {
+            "src": "https://resources.cdn-kaspi.kz/yml/static/assets/badges/l12.svg?v=1",
+            "width": 40,
+            "height": 22
+          },
+          "medium": {
+            "src": "https://resources.cdn-kaspi.kz/yml/static/assets/badges/l12.svg?v=1",
+            "width": 40,
+            "height": 22
+          },
+          "large": {
+            "src": "https://resources.cdn-kaspi.kz/yml/static/assets/badges/l12.svg?v=1",
+            "width": 55,
+            "height": 31
+          }
+        }
+      }
+    ],
+    "majorMerchants": [
+      "Magnum"
+    ],
+    "deliveryZones": [
+      "magnum_f_zone",
+      "Magnum_ZONE3",
+      "Magnum_ZONE5"
+    ]
+  },
+  {
+    "id": "121186770",
+    "configSku": "121186770",
+    "title": "MAGNUM помело красное Китай",
+    "brand": "MAGNUM",
+    "categoryId": "05095",
+    "hasVariants": false,
+    "loanAvailable": false,
+    "shopLink": "/p/magnum-pomelo-krasnoe-kitai-121186770/?c=710000000",
+    "unitPrice": 1159,
+    "unitSalePrice": 1159,
+    "priceFormatted": "1 159 ₸",
+    "createdTime": "2024-07-11T05:40:23.476Z",
+    "stickers": [
+      "magnum_offer_available"
+    ],
+    "previewImages": [
+      {
+        "small": "https://resources.cdn-kaspi.kz/img/m/p/hee/h23/86485083750430.jpg?format=preview-small",
+        "medium": "https://resources.cdn-kaspi.kz/img/m/p/hee/h23/86485083750430.jpg?format=preview-medium",
+        "large": "https://resources.cdn-kaspi.kz/img/m/p/hee/h23/86485083750430.jpg?format=preview-large"
+      }
+    ],
+    "teasers": [],
+    "creditMonthlyPrice": 387,
+    "monthlyInstallment": {
+      "id": 3,
+      "installment": true,
+      "formattedPerMonth": "387 ₸"
+    },
+    "reviewsLink": "/p/magnum-pomelo-krasnoe-kitai-121186770/?c=710000000&tab=reviews",
+    "weight": 2.8,
+    "unit": {
+      "type": "MEASURABLE_PIECES",
+      "increment": 2.8,
+      "measurementLiteral": "кг",
+      "countingLiteral": "шт"
+    },
+    "rating": 5,
+    "reviewsQuantity": 5,
+    "stock": 1,
+    "currency": "KZT",
+    "mods": "",
+    "deliveryDuration": "TODAY",
+    "shortNameText": "",
+    "category": [
+      "Продукты питания",
+      "Овощи, фрукты, ягоды, грибы",
+      "Фрукты"
+    ],
+    "categoryRu": [
+      "Продукты питания",
+      "Овощи, фрукты, ягоды, грибы",
+      "Фрукты"
+    ],
+    "categoryCodes": [
+      "Fruits",
+      "Fruits and vegetables",
+      "Food",
+      "Categories"
+    ],
+    "groups": [],
+    "promo": [
+      {
+        "code": "magnum 0012",
+        "text": null,
+        "type": "LOAN",
+        "priority": 12,
+        "owner": "KASPI",
+        "bonusType": "",
+        "img": {
+          "alt": null,
+          "small": {
+            "src": "https://resources.cdn-kaspi.kz/yml/static/assets/badges/l12.svg?v=1",
+            "width": 40,
+            "height": 22
+          },
+          "medium": {
+            "src": "https://resources.cdn-kaspi.kz/yml/static/assets/badges/l12.svg?v=1",
+            "width": 40,
+            "height": 22
+          },
+          "large": {
+            "src": "https://resources.cdn-kaspi.kz/yml/static/assets/badges/l12.svg?v=1",
+            "width": 55,
+            "height": 31
+          }
+        }
+      }
+    ],
+    "majorMerchants": [
+      "Magnum"
+    ],
+    "deliveryZones": [
+      "magnum_f_zone",
+      "Magnum_ZONE3",
+      "Magnum_ZONE5"
+    ]
+  },
+  {
+    "id": "101541894",
+    "configSku": "101541894",
+    "title": "MAGNUM груша Пакхам ЮАР",
+    "brand": "MAGNUM",
+    "categoryId": "05095",
+    "hasVariants": false,
+    "loanAvailable": false,
+    "shopLink": "/p/magnum-grusha-pakham-juar-101541894/?c=710000000",
+    "unitPrice": 1708,
+    "unitSalePrice": 1708,
+    "priceFormatted": "1 708 ₸",
+    "createdTime": "2021-05-26T10:20:45.618Z",
+    "stickers": [
+      "magnum_offer_available"
+    ],
+    "previewImages": [
+      {
+        "small": "https://resources.cdn-kaspi.kz/img/m/p/h72/h3a/64543917113374.jpg?format=preview-small",
+        "medium": "https://resources.cdn-kaspi.kz/img/m/p/h72/h3a/64543917113374.jpg?format=preview-medium",
+        "large": "https://resources.cdn-kaspi.kz/img/m/p/h72/h3a/64543917113374.jpg?format=preview-large"
+      }
+    ],
+    "teasers": [],
+    "creditMonthlyPrice": 570,
+    "monthlyInstallment": {
+      "id": 3,
+      "installment": true,
+      "formattedPerMonth": "570 ₸"
+    },
+    "reviewsLink": "/p/magnum-grusha-pakham-juar-101541894/?c=710000000&tab=reviews",
+    "weight": 1,
+    "unit": {
+      "type": "MEASURABLE",
+      "increment": 1,
+      "measurementLiteral": "кг",
+      "countingLiteral": "кг"
+    },
+    "rating": 4,
+    "reviewsQuantity": 1,
+    "stock": 1,
+    "currency": "KZT",
+    "mods": "",
+    "deliveryDuration": "TODAY",
+    "shortNameText": "",
+    "category": [
+      "Продукты питания",
+      "Овощи, фрукты, ягоды, грибы",
+      "Фрукты"
+    ],
+    "categoryRu": [
+      "Продукты питания",
+      "Овощи, фрукты, ягоды, грибы",
+      "Фрукты"
+    ],
+    "categoryCodes": [
+      "Fruits",
+      "Fruits and vegetables",
+      "Food",
+      "Categories"
+    ],
+    "groups": [],
+    "promo": [
+      {
+        "code": "magnum 0012",
+        "text": null,
+        "type": "LOAN",
+        "priority": 12,
+        "owner": "KASPI",
+        "bonusType": "",
+        "img": {
+          "alt": null,
+          "small": {
+            "src": "https://resources.cdn-kaspi.kz/yml/static/assets/badges/l12.svg?v=1",
+            "width": 40,
+            "height": 22
+          },
+          "large": {
+            "src": "https://resources.cdn-kaspi.kz/yml/static/assets/badges/l12.svg?v=1",
+            "width": 55,
+            "height": 31
+          },
+          "medium": {
+            "src": "https://resources.cdn-kaspi.kz/yml/static/assets/badges/l12.svg?v=1",
+            "width": 40,
+            "height": 22
+          }
+        }
+      }
+    ],
+    "majorMerchants": [
+      "Magnum"
+    ],
+    "deliveryZones": [
+      "magnum_f_zone",
+      "Magnum_ZONE3",
+      "Magnum_ZONE5"
+    ]
+  },
+  {
+    "id": "131003650",
+    "configSku": "131003650",
+    "title": "MAGNUM микс для ташкентского чая Казахстан",
+    "brand": "MAGNUM",
+    "categoryId": "05095",
+    "hasVariants": false,
+    "loanAvailable": false,
+    "shopLink": "/p/magnum-miks-dlja-tashkentskogo-chaja-kazahstan-131003650/?c=710000000",
+    "unitPrice": 2469,
+    "unitSalePrice": 2469,
+    "priceFormatted": "2 469 ₸",
+    "createdTime": "2024-11-27T06:52:24.546Z",
+    "stickers": [
+      "magnum_offer_available"
+    ],
+    "previewImages": [
+      {
+        "small": "https://resources.cdn-kaspi.kz/img/m/p/pf7/pb9/11725284.jpg?format=preview-small",
+        "medium": "https://resources.cdn-kaspi.kz/img/m/p/pf7/pb9/11725284.jpg?format=preview-medium",
+        "large": "https://resources.cdn-kaspi.kz/img/m/p/pf7/pb9/11725284.jpg?format=preview-large"
+      },
+      {
+        "small": "https://resources.cdn-kaspi.kz/img/m/p/pbe/pb9/11725286.jpg?format=preview-small",
+        "medium": "https://resources.cdn-kaspi.kz/img/m/p/pbe/pb9/11725286.jpg?format=preview-medium",
+        "large": "https://resources.cdn-kaspi.kz/img/m/p/pbe/pb9/11725286.jpg?format=preview-large"
+      }
+    ],
+    "teasers": [],
+    "creditMonthlyPrice": 823,
+    "monthlyInstallment": {
+      "id": 3,
+      "installment": true,
+      "formattedPerMonth": "823 ₸"
+    },
+    "reviewsLink": "/p/magnum-miks-dlja-tashkentskogo-chaja-kazahstan-131003650/?c=710000000&tab=reviews",
+    "weight": 0.55,
+    "unit": {
+      "type": "MEASURABLE_PIECES",
+      "increment": 0.55,
+      "measurementLiteral": "кг",
+      "countingLiteral": "шт"
+    },
+    "rating": 4.3,
+    "reviewsQuantity": 18,
+    "stock": 1,
+    "currency": "KZT",
+    "mods": "",
+    "deliveryDuration": "TODAY",
+    "shortNameText": "",
+    "category": [
+      "Продукты питания",
+      "Овощи, фрукты, ягоды, грибы",
+      "Фрукты"
+    ],
+    "categoryRu": [
+      "Продукты питания",
+      "Овощи, фрукты, ягоды, грибы",
+      "Фрукты"
+    ],
+    "categoryCodes": [
+      "Fruits",
+      "Fruits and vegetables",
+      "Food",
+      "Categories"
+    ],
+    "groups": [],
+    "promo": [
+      {
+        "code": "magnum 0012",
+        "text": null,
+        "type": "LOAN",
+        "priority": 12,
+        "owner": "KASPI",
+        "bonusType": "",
+        "img": {
+          "alt": null,
+          "small": {
+            "src": "https://resources.cdn-kaspi.kz/yml/static/assets/badges/l12.svg?v=1",
+            "width": 40,
+            "height": 22
+          },
+          "large": {
+            "src": "https://resources.cdn-kaspi.kz/yml/static/assets/badges/l12.svg?v=1",
+            "width": 55,
+            "height": 31
+          },
+          "medium": {
+            "src": "https://resources.cdn-kaspi.kz/yml/static/assets/badges/l12.svg?v=1",
+            "width": 40,
+            "height": 22
+          }
+        }
+      }
+    ],
+    "majorMerchants": [
+      "Magnum"
+    ],
+    "deliveryZones": [
+      "magnum_f_zone",
+      "Magnum_ZONE3",
+      "Magnum_ZONE5"
+    ]
+  },
+  {
+    "id": "101350025",
+    "configSku": "101350025",
+    "title": "Ready to Eat авокадо Hass ЮАР 0.3 кг",
+    "brand": "Ready to Eat",
+    "categoryId": "05095",
+    "hasVariants": false,
+    "loanAvailable": false,
+    "shopLink": "/p/ready-to-eat-avokado-hass-juar-0-3-kg-101350025/?c=710000000",
+    "unitPrice": 1696,
+    "unitSalePrice": 1696,
+    "priceFormatted": "1 696 ₸",
+    "createdTime": "2021-04-21T08:16:48.420Z",
+    "stickers": [
+      "magnum_offer_available"
+    ],
+    "previewImages": [
+      {
+        "small": "https://resources.cdn-kaspi.kz/img/m/p/p1d/p62/48566071.jpg?format=preview-small",
+        "medium": "https://resources.cdn-kaspi.kz/img/m/p/p1d/p62/48566071.jpg?format=preview-medium",
+        "large": "https://resources.cdn-kaspi.kz/img/m/p/p1d/p62/48566071.jpg?format=preview-large"
+      },
+      {
+        "small": "https://resources.cdn-kaspi.kz/img/m/p/p39/p62/48566072.jpg?format=preview-small",
+        "medium": "https://resources.cdn-kaspi.kz/img/m/p/p39/p62/48566072.jpg?format=preview-medium",
+        "large": "https://resources.cdn-kaspi.kz/img/m/p/p39/p62/48566072.jpg?format=preview-large"
+      }
+    ],
+    "teasers": [],
+    "creditMonthlyPrice": 566,
+    "monthlyInstallment": {
+      "id": 3,
+      "installment": true,
+      "formattedPerMonth": "566 ₸"
+    },
+    "reviewsLink": "/p/ready-to-eat-avokado-hass-juar-0-3-kg-101350025/?c=710000000&tab=reviews",
+    "weight": 0,
+    "unit": {
+      "type": "PIECES",
+      "increment": 1,
+      "measurementLiteral": "шт",
+      "countingLiteral": "шт"
+    },
+    "rating": 3.9,
+    "reviewsQuantity": 49,
+    "stock": 1,
+    "currency": "KZT",
+    "mods": "",
+    "deliveryDuration": "TODAY",
+    "shortNameText": "",
+    "category": [
+      "Продукты питания",
+      "Овощи, фрукты, ягоды, грибы",
+      "Фрукты"
+    ],
+    "categoryRu": [
+      "Продукты питания",
+      "Овощи, фрукты, ягоды, грибы",
+      "Фрукты"
+    ],
+    "categoryCodes": [
+      "Fruits",
+      "Fruits and vegetables",
+      "Food",
+      "Categories"
+    ],
+    "groups": [],
+    "promo": [
+      {
+        "code": "magnum 0012",
+        "text": null,
+        "type": "LOAN",
+        "priority": 12,
+        "owner": "KASPI",
+        "bonusType": "",
+        "img": {
+          "alt": null,
+          "small": {
+            "src": "https://resources.cdn-kaspi.kz/yml/static/assets/badges/l12.svg?v=1",
+            "width": 40,
+            "height": 22
+          },
+          "large": {
+            "src": "https://resources.cdn-kaspi.kz/yml/static/assets/badges/l12.svg?v=1",
+            "width": 55,
+            "height": 31
+          },
+          "medium": {
+            "src": "https://resources.cdn-kaspi.kz/yml/static/assets/badges/l12.svg?v=1",
+            "width": 40,
+            "height": 22
+          }
+        }
+      }
+    ],
+    "majorMerchants": [
+      "Magnum"
+    ],
+    "deliveryZones": [
+      "magnum_f_zone",
+      "Magnum_ZONE3",
+      "Magnum_ZONE5"
+    ]
+  },
+  {
+    "id": "103332012",
+    "configSku": "103332012",
+    "title": "MAGNUM манго Китай 200-300 г 1 шт",
+    "brand": "MAGNUM",
+    "categoryId": "05095",
+    "hasVariants": false,
+    "loanAvailable": false,
+    "shopLink": "/p/magnum-mango-kitai-200-300-g-1-sht-103332012/?c=710000000",
+    "unitPrice": 817,
+    "unitSalePrice": 817,
+    "unitPriceBeforeDiscount": 1049,
+    "discount": 22,
+    "priceFormatted": "817 ₸",
+    "createdTime": "2021-12-27T07:16:00.640Z",
+    "stickers": [
+      "magnum_offer_available"
+    ],
+    "previewImages": [
+      {
+        "small": "https://resources.cdn-kaspi.kz/img/m/p/pb2/p91/70538319.jpg?format=preview-small",
+        "medium": "https://resources.cdn-kaspi.kz/img/m/p/pb2/p91/70538319.jpg?format=preview-medium",
+        "large": "https://resources.cdn-kaspi.kz/img/m/p/pb2/p91/70538319.jpg?format=preview-large"
+      }
+    ],
+    "teasers": [],
+    "creditMonthlyPrice": 273,
+    "monthlyInstallment": {
+      "id": 3,
+      "installment": true,
+      "formattedPerMonth": "273 ₸"
+    },
+    "reviewsLink": "/p/magnum-mango-kitai-200-300-g-1-sht-103332012/?c=710000000&tab=reviews",
+    "weight": 0,
+    "unit": {
+      "type": "PIECES",
+      "increment": 1,
+      "measurementLiteral": "шт",
+      "countingLiteral": "шт"
+    },
+    "rating": 3.3,
+    "reviewsQuantity": 82,
+    "stock": 1,
+    "currency": "KZT",
+    "mods": "",
+    "deliveryDuration": "TODAY",
+    "shortNameText": "",
+    "category": [
+      "Продукты питания",
+      "Овощи, фрукты, ягоды, грибы",
+      "Фрукты"
+    ],
+    "categoryRu": [
+      "Продукты питания",
+      "Овощи, фрукты, ягоды, грибы",
+      "Фрукты"
+    ],
+    "categoryCodes": [
+      "Fruits",
+      "Fruits and vegetables",
+      "Food",
+      "Categories"
+    ],
+    "groups": [],
+    "promo": [
+      {
+        "code": "magnum 0012",
+        "text": null,
+        "type": "LOAN",
+        "priority": 12,
+        "owner": "KASPI",
+        "bonusType": "",
+        "img": {
+          "alt": null,
+          "small": {
+            "src": "https://resources.cdn-kaspi.kz/yml/static/assets/badges/l12.svg?v=1",
+            "width": 40,
+            "height": 22
+          },
+          "large": {
+            "src": "https://resources.cdn-kaspi.kz/yml/static/assets/badges/l12.svg?v=1",
+            "width": 55,
+            "height": 31
+          },
+          "medium": {
+            "src": "https://resources.cdn-kaspi.kz/yml/static/assets/badges/l12.svg?v=1",
+            "width": 40,
+            "height": 22
+          }
+        }
+      }
+    ],
+    "majorMerchants": [
+      "Magnum"
+    ],
+    "deliveryZones": [
+      "magnum_f_zone",
+      "Magnum_ZONE3",
+      "Magnum_ZONE5"
+    ]
+  },
+  {
+    "id": "121186873",
+    "configSku": "121186873",
+    "title": "MAGNUM помело Китай",
+    "brand": "MAGNUM",
+    "categoryId": "05095",
+    "hasVariants": false,
+    "loanAvailable": false,
+    "shopLink": "/p/magnum-pomelo-kitai-121186873/?c=710000000",
+    "unitPrice": 1015,
+    "unitSalePrice": 1015,
+    "priceFormatted": "1 015 ₸",
+    "createdTime": "2024-07-11T05:41:10.294Z",
+    "stickers": [
+      "magnum_offer_available"
+    ],
+    "previewImages": [
+      {
+        "small": "https://resources.cdn-kaspi.kz/img/m/p/hdb/he4/86484243578910.jpg?format=preview-small",
+        "medium": "https://resources.cdn-kaspi.kz/img/m/p/hdb/he4/86484243578910.jpg?format=preview-medium",
+        "large": "https://resources.cdn-kaspi.kz/img/m/p/hdb/he4/86484243578910.jpg?format=preview-large"
+      }
+    ],
+    "teasers": [],
+    "creditMonthlyPrice": 339,
+    "monthlyInstallment": {
+      "id": 3,
+      "installment": true,
+      "formattedPerMonth": "339 ₸"
+    },
+    "reviewsLink": "/p/magnum-pomelo-kitai-121186873/?c=710000000&tab=reviews",
+    "weight": 3.1,
+    "unit": {
+      "type": "MEASURABLE_PIECES",
+      "increment": 3.1,
+      "measurementLiteral": "кг",
+      "countingLiteral": "шт"
+    },
+    "rating": 4,
+    "reviewsQuantity": 2,
+    "stock": 1,
+    "currency": "KZT",
+    "mods": "",
+    "deliveryDuration": "TODAY",
+    "shortNameText": "",
+    "category": [
+      "Продукты питания",
+      "Овощи, фрукты, ягоды, грибы",
+      "Фрукты"
+    ],
+    "categoryRu": [
+      "Продукты питания",
+      "Овощи, фрукты, ягоды, грибы",
+      "Фрукты"
+    ],
+    "categoryCodes": [
+      "Fruits",
+      "Fruits and vegetables",
+      "Food",
+      "Categories"
+    ],
+    "groups": [],
+    "promo": [
+      {
+        "code": "magnum 0012",
+        "text": null,
+        "type": "LOAN",
+        "priority": 12,
+        "owner": "KASPI",
+        "bonusType": "",
+        "img": {
+          "alt": null,
+          "small": {
+            "src": "https://resources.cdn-kaspi.kz/yml/static/assets/badges/l12.svg?v=1",
+            "width": 40,
+            "height": 22
+          },
+          "large": {
+            "src": "https://resources.cdn-kaspi.kz/yml/static/assets/badges/l12.svg?v=1",
+            "width": 55,
+            "height": 31
+          },
+          "medium": {
+            "src": "https://resources.cdn-kaspi.kz/yml/static/assets/badges/l12.svg?v=1",
+            "width": 40,
+            "height": 22
+          }
+        }
+      }
+    ],
+    "majorMerchants": [
+      "Magnum"
+    ],
+    "deliveryZones": [
+      "magnum_f_zone",
+      "Magnum_ZONE3",
+      "Magnum_ZONE5"
+    ]
+  },
+  {
+    "id": "120497871",
+    "configSku": "120497871",
+    "title": "MAGNUM микс для лимонада Казахстан",
+    "brand": "MAGNUM",
+    "categoryId": "05095",
+    "hasVariants": false,
+    "loanAvailable": false,
+    "shopLink": "/p/magnum-miks-dlja-limonada-kazahstan-120497871/?c=710000000",
+    "unitPrice": 2562,
+    "unitSalePrice": 2562,
+    "priceFormatted": "2 562 ₸",
+    "createdTime": "2024-06-19T10:31:41.340Z",
+    "stickers": [
+      "magnum_offer_available"
+    ],
+    "previewImages": [
+      {
+        "small": "https://resources.cdn-kaspi.kz/img/m/p/h88/h39/86301496573982.jpg?format=preview-small",
+        "medium": "https://resources.cdn-kaspi.kz/img/m/p/h88/h39/86301496573982.jpg?format=preview-medium",
+        "large": "https://resources.cdn-kaspi.kz/img/m/p/h88/h39/86301496573982.jpg?format=preview-large"
+      },
+      {
+        "small": "https://resources.cdn-kaspi.kz/img/m/p/h08/h2d/86301496639518.jpg?format=preview-small",
+        "medium": "https://resources.cdn-kaspi.kz/img/m/p/h08/h2d/86301496639518.jpg?format=preview-medium",
+        "large": "https://resources.cdn-kaspi.kz/img/m/p/h08/h2d/86301496639518.jpg?format=preview-large"
+      },
+      {
+        "small": "https://resources.cdn-kaspi.kz/img/m/p/hd0/ha6/86301496705054.jpg?format=preview-small",
+        "medium": "https://resources.cdn-kaspi.kz/img/m/p/hd0/ha6/86301496705054.jpg?format=preview-medium",
+        "large": "https://resources.cdn-kaspi.kz/img/m/p/hd0/ha6/86301496705054.jpg?format=preview-large"
+      }
+    ],
+    "teasers": [],
+    "creditMonthlyPrice": 854,
+    "monthlyInstallment": {
+      "id": 3,
+      "installment": true,
+      "formattedPerMonth": "854 ₸"
+    },
+    "reviewsLink": "/p/magnum-miks-dlja-limonada-kazahstan-120497871/?c=710000000&tab=reviews",
+    "weight": 0.7,
+    "unit": {
+      "type": "MEASURABLE_PIECES",
+      "increment": 0.7,
+      "measurementLiteral": "кг",
+      "countingLiteral": "шт"
+    },
+    "rating": 4.7,
+    "reviewsQuantity": 3,
+    "stock": 1,
+    "currency": "KZT",
+    "mods": "",
+    "deliveryDuration": "TODAY",
+    "shortNameText": "",
+    "category": [
+      "Продукты питания",
+      "Овощи, фрукты, ягоды, грибы",
+      "Фрукты"
+    ],
+    "categoryRu": [
+      "Продукты питания",
+      "Овощи, фрукты, ягоды, грибы",
+      "Фрукты"
+    ],
+    "categoryCodes": [
+      "Fruits",
+      "Fruits and vegetables",
+      "Food",
+      "Categories"
+    ],
+    "groups": [],
+    "promo": [
+      {
+        "code": "magnum 0012",
+        "text": null,
+        "type": "LOAN",
+        "priority": 12,
+        "owner": "KASPI",
+        "bonusType": "",
+        "img": {
+          "alt": null,
+          "small": {
+            "src": "https://resources.cdn-kaspi.kz/yml/static/assets/badges/l12.svg?v=1",
+            "width": 40,
+            "height": 22
+          },
+          "large": {
+            "src": "https://resources.cdn-kaspi.kz/yml/static/assets/badges/l12.svg?v=1",
+            "width": 55,
+            "height": 31
+          },
+          "medium": {
+            "src": "https://resources.cdn-kaspi.kz/yml/static/assets/badges/l12.svg?v=1",
+            "width": 40,
+            "height": 22
+          }
+        }
+      }
+    ],
+    "majorMerchants": [
+      "Magnum"
+    ],
+    "deliveryZones": [
+      "magnum_f_zone",
+      "Magnum_ZONE3",
+      "Magnum_ZONE5"
+    ]
+  },
+  {
+    "id": "104325817",
+    "configSku": "104325817",
+    "title": "Jidek_kz яблоко Ред принц Польша 1 кг",
+    "brand": "Jidek_kz",
+    "categoryId": "05095",
+    "hasVariants": false,
+    "loanAvailable": true,
+    "shopLink": "/p/jidek-kz-jabloko-red-prints-pol-sha-1-kg-104325817/?c=710000000",
+    "unitPrice": 1100,
+    "unitSalePrice": 1100,
+    "priceFormatted": "1 100 ₸",
+    "createdTime": "2022-04-01T06:05:59.727Z",
+    "stickers": [],
+    "previewImages": [
+      {
+        "small": "https://resources.cdn-kaspi.kz/img/m/p/h7b/h8d/64380099035166.jpg?format=preview-small",
+        "medium": "https://resources.cdn-kaspi.kz/img/m/p/h7b/h8d/64380099035166.jpg?format=preview-medium",
+        "large": "https://resources.cdn-kaspi.kz/img/m/p/h7b/h8d/64380099035166.jpg?format=preview-large"
+      }
+    ],
+    "teasers": [],
+    "creditMonthlyPrice": 367,
+    "monthlyInstallment": {
+      "id": 3,
+      "installment": true,
+      "formattedPerMonth": "367 ₸"
+    },
+    "reviewsLink": "/p/jidek-kz-jabloko-red-prints-pol-sha-1-kg-104325817/?c=710000000&tab=reviews",
+    "weight": 0.5,
+    "unit": {
+      "type": "PIECES",
+      "increment": 1,
+      "measurementLiteral": "шт",
+      "countingLiteral": "шт"
+    },
+    "rating": 0,
+    "reviewsQuantity": 0,
+    "stock": 1,
+    "currency": "KZT",
+    "mods": "",
+    "deliveryDuration": "EXPRESS",
+    "category": [
+      "Продукты питания",
+      "Овощи, фрукты, ягоды, грибы",
+      "Фрукты"
+    ],
+    "categoryRu": [
+      "Продукты питания",
+      "Овощи, фрукты, ягоды, грибы",
+      "Фрукты"
+    ],
+    "categoryCodes": [
+      "Fruits",
+      "Fruits and vegetables",
+      "Food",
+      "Categories"
+    ],
+    "majorMerchants": [],
+    "deliveryZones": [
+      "710000000"
+    ]
+  },
+  {
+    "id": "120497979",
+    "configSku": "120497979",
+    "title": "MAGNUM зеленый микс для смузи Казахстан",
+    "brand": "MAGNUM",
+    "categoryId": "05095",
+    "hasVariants": false,
+    "loanAvailable": false,
+    "shopLink": "/p/magnum-zelenyi-miks-dlja-smuzi-kazahstan-120497979/?c=710000000",
+    "unitPrice": 2399,
+    "unitSalePrice": 2399,
+    "unitPriceBeforeDiscount": 2806,
+    "discount": 15,
+    "priceFormatted": "2 399 ₸",
+    "createdTime": "2024-06-19T10:37:15.162Z",
+    "stickers": [
+      "magnum_offer_available"
+    ],
+    "previewImages": [
+      {
+        "small": "https://resources.cdn-kaspi.kz/img/m/p/h62/hcb/86302239686686.jpg?format=preview-small",
+        "medium": "https://resources.cdn-kaspi.kz/img/m/p/h62/hcb/86302239686686.jpg?format=preview-medium",
+        "large": "https://resources.cdn-kaspi.kz/img/m/p/h62/hcb/86302239686686.jpg?format=preview-large"
+      },
+      {
+        "small": "https://resources.cdn-kaspi.kz/img/m/p/h6f/ha8/86302239752222.jpg?format=preview-small",
+        "medium": "https://resources.cdn-kaspi.kz/img/m/p/h6f/ha8/86302239752222.jpg?format=preview-medium",
+        "large": "https://resources.cdn-kaspi.kz/img/m/p/h6f/ha8/86302239752222.jpg?format=preview-large"
+      }
+    ],
+    "teasers": [],
+    "creditMonthlyPrice": 800,
+    "monthlyInstallment": {
+      "id": 3,
+      "installment": true,
+      "formattedPerMonth": "800 ₸"
+    },
+    "reviewsLink": "/p/magnum-zelenyi-miks-dlja-smuzi-kazahstan-120497979/?c=710000000&tab=reviews",
+    "weight": 0.7,
+    "unit": {
+      "type": "MEASURABLE_PIECES",
+      "increment": 0.7,
+      "measurementLiteral": "кг",
+      "countingLiteral": "шт"
+    },
+    "rating": 4.3,
+    "reviewsQuantity": 3,
+    "stock": 1,
+    "currency": "KZT",
+    "mods": "",
+    "deliveryDuration": "TODAY",
+    "shortNameText": "",
+    "category": [
+      "Продукты питания",
+      "Овощи, фрукты, ягоды, грибы",
+      "Фрукты"
+    ],
+    "categoryRu": [
+      "Продукты питания",
+      "Овощи, фрукты, ягоды, грибы",
+      "Фрукты"
+    ],
+    "categoryCodes": [
+      "Fruits",
+      "Fruits and vegetables",
+      "Food",
+      "Categories"
+    ],
+    "groups": [],
+    "promo": [
+      {
+        "code": "magnum 0012",
+        "text": null,
+        "type": "LOAN",
+        "priority": 12,
+        "owner": "KASPI",
+        "bonusType": "",
+        "img": {
+          "alt": null,
+          "small": {
+            "src": "https://resources.cdn-kaspi.kz/yml/static/assets/badges/l12.svg?v=1",
+            "width": 40,
+            "height": 22
+          },
+          "large": {
+            "src": "https://resources.cdn-kaspi.kz/yml/static/assets/badges/l12.svg?v=1",
+            "width": 55,
+            "height": 31
+          },
+          "medium": {
+            "src": "https://resources.cdn-kaspi.kz/yml/static/assets/badges/l12.svg?v=1",
+            "width": 40,
+            "height": 22
+          }
+        }
+      }
+    ],
+    "majorMerchants": [
+      "Magnum"
+    ],
+    "deliveryZones": [
+      "magnum_f_zone",
+      "Magnum_ZONE3",
+      "Magnum_ZONE5"
+    ]
+  },
+  {
+    "id": "104326152",
+    "configSku": "104326152",
+    "title": "Jidek_kz яблоко Симиренко Азербайджан 1 кг",
+    "brand": "Jidek_kz",
+    "categoryId": "05095",
+    "hasVariants": false,
+    "loanAvailable": true,
+    "shopLink": "/p/jidek-kz-jabloko-simirenko-azerbaidzhan-1-kg-104326152/?c=710000000",
+    "unitPrice": 790,
+    "unitSalePrice": 790,
+    "priceFormatted": "790 ₸",
+    "createdTime": "2022-04-01T07:13:02.033Z",
+    "stickers": [],
+    "previewImages": [
+      {
+        "small": "https://resources.cdn-kaspi.kz/img/m/p/he4/h04/64453027889182.jpg?format=preview-small",
+        "medium": "https://resources.cdn-kaspi.kz/img/m/p/he4/h04/64453027889182.jpg?format=preview-medium",
+        "large": "https://resources.cdn-kaspi.kz/img/m/p/he4/h04/64453027889182.jpg?format=preview-large"
+      }
+    ],
+    "teasers": [],
+    "creditMonthlyPrice": 264,
+    "monthlyInstallment": {
+      "id": 3,
+      "installment": true,
+      "formattedPerMonth": "264 ₸"
+    },
+    "reviewsLink": "/p/jidek-kz-jabloko-simirenko-azerbaidzhan-1-kg-104326152/?c=710000000&tab=reviews",
+    "weight": 0.5,
+    "unit": {
+      "type": "PIECES",
+      "increment": 1,
+      "measurementLiteral": "шт",
+      "countingLiteral": "шт"
+    },
+    "rating": 5,
+    "reviewsQuantity": 0,
+    "stock": 1,
+    "currency": "KZT",
+    "mods": "",
+    "deliveryDuration": "EXPRESS",
+    "category": [
+      "Продукты питания",
+      "Овощи, фрукты, ягоды, грибы",
+      "Фрукты"
+    ],
+    "categoryRu": [
+      "Продукты питания",
+      "Овощи, фрукты, ягоды, грибы",
+      "Фрукты"
+    ],
+    "categoryCodes": [
+      "Fruits",
+      "Fruits and vegetables",
+      "Food",
+      "Categories"
+    ],
+    "majorMerchants": [],
+    "deliveryZones": [
+      "710000000"
+    ]
+  },
+  {
+    "id": "104382856",
+    "configSku": "104382856",
+    "title": "Jidek_kz мандарин Марокко 1 кг",
+    "brand": "Jidek_kz",
+    "categoryId": "05095",
+    "hasVariants": false,
+    "loanAvailable": true,
+    "shopLink": "/p/jidek-kz-mandarin-marokko-1-kg-104382856/?c=710000000",
+    "unitPrice": 2190,
+    "unitSalePrice": 2190,
+    "priceFormatted": "2 190 ₸",
+    "createdTime": "2022-04-07T03:50:40.697Z",
+    "stickers": [],
+    "previewImages": [
+      {
+        "small": "https://resources.cdn-kaspi.kz/img/m/p/h41/h7e/64918643146782.jpg?format=preview-small",
+        "medium": "https://resources.cdn-kaspi.kz/img/m/p/h41/h7e/64918643146782.jpg?format=preview-medium",
+        "large": "https://resources.cdn-kaspi.kz/img/m/p/h41/h7e/64918643146782.jpg?format=preview-large"
+      }
+    ],
+    "teasers": [],
+    "creditMonthlyPrice": 730,
+    "monthlyInstallment": {
+      "id": 3,
+      "installment": true,
+      "formattedPerMonth": "730 ₸"
+    },
+    "reviewsLink": "/p/jidek-kz-mandarin-marokko-1-kg-104382856/?c=710000000&tab=reviews",
+    "weight": 0.5,
+    "unit": {
+      "type": "PIECES",
+      "increment": 1,
+      "measurementLiteral": "шт",
+      "countingLiteral": "шт"
+    },
+    "rating": 0,
+    "reviewsQuantity": 0,
+    "stock": 1,
+    "currency": "KZT",
+    "mods": "",
+    "deliveryDuration": "EXPRESS",
+    "category": [
+      "Продукты питания",
+      "Овощи, фрукты, ягоды, грибы",
+      "Фрукты"
+    ],
+    "categoryRu": [
+      "Продукты питания",
+      "Овощи, фрукты, ягоды, грибы",
+      "Фрукты"
+    ],
+    "categoryCodes": [
+      "Fruits",
+      "Fruits and vegetables",
+      "Food",
+      "Categories"
+    ],
+    "majorMerchants": [],
+    "deliveryZones": [
+      "710000000"
+    ]
+  },
+  {
+    "id": "104342939",
+    "configSku": "104342939",
+    "title": "Jidek_kz помело Китай 1 кг",
+    "brand": "Jidek_kz",
+    "categoryId": "05095",
+    "hasVariants": false,
+    "loanAvailable": true,
+    "shopLink": "/p/jidek-kz-pomelo-kitai-1-kg-104342939/?c=710000000",
+    "unitPrice": 1290,
+    "unitSalePrice": 1290,
+    "priceFormatted": "1 290 ₸",
+    "createdTime": "2022-04-04T04:31:32.008Z",
+    "stickers": [],
+    "previewImages": [
+      {
+        "small": "https://resources.cdn-kaspi.kz/img/m/p/h47/hca/64623486468126.jpg?format=preview-small",
+        "medium": "https://resources.cdn-kaspi.kz/img/m/p/h47/hca/64623486468126.jpg?format=preview-medium",
+        "large": "https://resources.cdn-kaspi.kz/img/m/p/h47/hca/64623486468126.jpg?format=preview-large"
+      }
+    ],
+    "teasers": [],
+    "creditMonthlyPrice": 430,
+    "monthlyInstallment": {
+      "id": 3,
+      "installment": true,
+      "formattedPerMonth": "430 ₸"
+    },
+    "reviewsLink": "/p/jidek-kz-pomelo-kitai-1-kg-104342939/?c=710000000&tab=reviews",
+    "weight": 0.7,
+    "unit": {
+      "type": "PIECES",
+      "increment": 1,
+      "measurementLiteral": "шт",
+      "countingLiteral": "шт"
+    },
+    "rating": 0,
+    "reviewsQuantity": 0,
+    "stock": 1,
+    "currency": "KZT",
+    "mods": "",
+    "deliveryDuration": "EXPRESS",
+    "category": [
+      "Продукты питания",
+      "Овощи, фрукты, ягоды, грибы",
+      "Фрукты"
+    ],
+    "categoryRu": [
+      "Продукты питания",
+      "Овощи, фрукты, ягоды, грибы",
+      "Фрукты"
+    ],
+    "categoryCodes": [
+      "Fruits",
+      "Fruits and vegetables",
+      "Food",
+      "Categories"
+    ],
+    "majorMerchants": [],
+    "deliveryZones": [
+      "710000000"
+    ]
+  },
+  {
+    "id": "104325917",
+    "configSku": "104325917",
+    "title": "Jidek_kz ананас Коста-Рика",
+    "brand": "Jidek_kz",
+    "categoryId": "05095",
+    "hasVariants": false,
+    "loanAvailable": true,
+    "shopLink": "/p/jidek-kz-ananas-kosta-rika-104325917/?c=710000000",
+    "unitPrice": 2850,
+    "unitSalePrice": 2850,
+    "priceFormatted": "2 850 ₸",
+    "createdTime": "2022-04-01T06:17:26.653Z",
+    "stickers": [],
+    "previewImages": [
+      {
+        "small": "https://resources.cdn-kaspi.kz/img/m/p/h92/haa/64611982376990.jpg?format=preview-small",
+        "medium": "https://resources.cdn-kaspi.kz/img/m/p/h92/haa/64611982376990.jpg?format=preview-medium",
+        "large": "https://resources.cdn-kaspi.kz/img/m/p/h92/haa/64611982376990.jpg?format=preview-large"
+      }
+    ],
+    "teasers": [],
+    "creditMonthlyPrice": 950,
+    "monthlyInstallment": {
+      "id": 3,
+      "installment": true,
+      "formattedPerMonth": "950 ₸"
+    },
+    "reviewsLink": "/p/jidek-kz-ananas-kosta-rika-104325917/?c=710000000&tab=reviews",
+    "weight": 1.4,
+    "unit": {
+      "type": "PIECES",
+      "increment": 1,
+      "measurementLiteral": "шт",
+      "countingLiteral": "шт"
+    },
+    "rating": 0,
+    "reviewsQuantity": 0,
+    "stock": 1,
+    "currency": "KZT",
+    "mods": "",
+    "deliveryDuration": "EXPRESS",
+    "shortNameText": "",
+    "category": [
+      "Продукты питания",
+      "Овощи, фрукты, ягоды, грибы",
+      "Фрукты"
+    ],
+    "categoryRu": [
+      "Продукты питания",
+      "Овощи, фрукты, ягоды, грибы",
+      "Фрукты"
+    ],
+    "categoryCodes": [
+      "Fruits",
+      "Fruits and vegetables",
+      "Food",
+      "Categories"
+    ],
+    "majorMerchants": [],
+    "deliveryZones": [
+      "710000000"
+    ]
+  },
+  {
+    "id": "104342964",
+    "configSku": "104342964",
+    "title": "Jidek_kz апельсин Египет 1 кг",
+    "brand": "Jidek_kz",
+    "categoryId": "05095",
+    "hasVariants": false,
+    "loanAvailable": true,
+    "shopLink": "/p/jidek-kz-apel-sin-egipet-1-kg-104342964/?c=710000000",
+    "unitPrice": 1390,
+    "unitSalePrice": 1390,
+    "priceFormatted": "1 390 ₸",
+    "createdTime": "2022-04-04T04:38:00.774Z",
+    "stickers": [],
+    "previewImages": [
+      {
+        "small": "https://resources.cdn-kaspi.kz/img/m/p/h46/h4b/64219089698846.jpg?format=preview-small",
+        "medium": "https://resources.cdn-kaspi.kz/img/m/p/h46/h4b/64219089698846.jpg?format=preview-medium",
+        "large": "https://resources.cdn-kaspi.kz/img/m/p/h46/h4b/64219089698846.jpg?format=preview-large"
+      }
+    ],
+    "teasers": [],
+    "creditMonthlyPrice": 464,
+    "monthlyInstallment": {
+      "id": 3,
+      "installment": true,
+      "formattedPerMonth": "464 ₸"
+    },
+    "reviewsLink": "/p/jidek-kz-apel-sin-egipet-1-kg-104342964/?c=710000000&tab=reviews",
+    "weight": 0.5,
+    "unit": {
+      "type": "PIECES",
+      "increment": 1,
+      "measurementLiteral": "шт",
+      "countingLiteral": "шт"
+    },
+    "rating": 0,
+    "reviewsQuantity": 0,
+    "stock": 1,
+    "currency": "KZT",
+    "mods": "",
+    "deliveryDuration": "EXPRESS",
+    "category": [
+      "Продукты питания",
+      "Овощи, фрукты, ягоды, грибы",
+      "Фрукты"
+    ],
+    "categoryRu": [
+      "Продукты питания",
+      "Овощи, фрукты, ягоды, грибы",
+      "Фрукты"
+    ],
+    "categoryCodes": [
+      "Fruits",
+      "Fruits and vegetables",
+      "Food",
+      "Categories"
+    ],
+    "majorMerchants": [],
+    "deliveryZones": [
+      "710000000"
+    ]
+  },
+  {
+    "id": "104325818",
+    "configSku": "104325818",
+    "title": "Jidek_kz груша конференция Бельгия 1 кг",
+    "brand": "Jidek_kz",
+    "categoryId": "05095",
+    "hasVariants": false,
+    "loanAvailable": true,
+    "shopLink": "/p/jidek-kz-grusha-konferentsija-bel-gija-1-kg-104325818/?c=710000000",
+    "unitPrice": 2290,
+    "unitSalePrice": 2290,
+    "priceFormatted": "2 290 ₸",
+    "createdTime": "2022-04-01T06:06:07.857Z",
+    "stickers": [],
+    "previewImages": [
+      {
+        "small": "https://resources.cdn-kaspi.kz/img/m/p/h6c/h95/64453173051422.jpg?format=preview-small",
+        "medium": "https://resources.cdn-kaspi.kz/img/m/p/h6c/h95/64453173051422.jpg?format=preview-medium",
+        "large": "https://resources.cdn-kaspi.kz/img/m/p/h6c/h95/64453173051422.jpg?format=preview-large"
+      }
+    ],
+    "teasers": [],
+    "creditMonthlyPrice": 764,
+    "monthlyInstallment": {
+      "id": 3,
+      "installment": true,
+      "formattedPerMonth": "764 ₸"
+    },
+    "reviewsLink": "/p/jidek-kz-grusha-konferentsija-bel-gija-1-kg-104325818/?c=710000000&tab=reviews",
+    "weight": 0.5,
+    "unit": {
+      "type": "PIECES",
+      "increment": 1,
+      "measurementLiteral": "шт",
+      "countingLiteral": "шт"
+    },
+    "rating": 5,
+    "reviewsQuantity": 0,
+    "stock": 1,
+    "currency": "KZT",
+    "mods": "",
+    "deliveryDuration": "EXPRESS",
+    "shortNameText": "",
+    "category": [
+      "Продукты питания",
+      "Овощи, фрукты, ягоды, грибы",
+      "Фрукты"
+    ],
+    "categoryRu": [
+      "Продукты питания",
+      "Овощи, фрукты, ягоды, грибы",
+      "Фрукты"
+    ],
+    "categoryCodes": [
+      "Fruits",
+      "Fruits and vegetables",
+      "Food",
+      "Categories"
+    ],
+    "majorMerchants": [],
+    "deliveryZones": [
+      "710000000"
+    ]
+  },
+  {
+    "id": "104326155",
+    "configSku": "104326155",
+    "title": "Jidek_kz авокадо Хасс дабл Колумбия 0.3 кг",
+    "brand": "Jidek_kz",
+    "categoryId": "05095",
+    "hasVariants": false,
+    "loanAvailable": true,
+    "shopLink": "/p/jidek-kz-avokado-hass-dabl-kolumbija-0-3-kg-104326155/?c=710000000",
+    "unitPrice": 1990,
+    "unitSalePrice": 1990,
+    "priceFormatted": "1 990 ₸",
+    "createdTime": "2022-04-01T07:13:59.942Z",
+    "stickers": [],
+    "previewImages": [
+      {
+        "small": "https://resources.cdn-kaspi.kz/img/m/p/h81/h03/64379817590814.jpg?format=preview-small",
+        "medium": "https://resources.cdn-kaspi.kz/img/m/p/h81/h03/64379817590814.jpg?format=preview-medium",
+        "large": "https://resources.cdn-kaspi.kz/img/m/p/h81/h03/64379817590814.jpg?format=preview-large"
+      }
+    ],
+    "teasers": [],
+    "creditMonthlyPrice": 664,
+    "monthlyInstallment": {
+      "id": 3,
+      "installment": true,
+      "formattedPerMonth": "664 ₸"
+    },
+    "reviewsLink": "/p/jidek-kz-avokado-hass-dabl-kolumbija-0-3-kg-104326155/?c=710000000&tab=reviews",
+    "weight": 0.3,
+    "unit": {
+      "type": "PIECES",
+      "increment": 1,
+      "measurementLiteral": "шт",
+      "countingLiteral": "шт"
+    },
+    "rating": 0,
+    "reviewsQuantity": 0,
+    "stock": 1,
+    "currency": "KZT",
+    "mods": "",
+    "deliveryDuration": "EXPRESS",
+    "category": [
+      "Продукты питания",
+      "Овощи, фрукты, ягоды, грибы",
+      "Фрукты"
+    ],
+    "categoryRu": [
+      "Продукты питания",
+      "Овощи, фрукты, ягоды, грибы",
+      "Фрукты"
+    ],
+    "categoryCodes": [
+      "Fruits",
+      "Fruits and vegetables",
+      "Food",
+      "Categories"
+    ],
+    "majorMerchants": [],
+    "deliveryZones": [
+      "710000000"
+    ]
+  },
+  {
+    "id": "104325898",
+    "configSku": "104325898",
+    "title": "Jidek_kz гранат Китай",
+    "brand": "Jidek_kz",
+    "categoryId": "05095",
+    "hasVariants": false,
+    "loanAvailable": true,
+    "shopLink": "/p/jidek-kz-granat-kitai-104325898/?c=710000000",
+    "unitPrice": 1490,
+    "unitSalePrice": 1490,
+    "priceFormatted": "1 490 ₸",
+    "createdTime": "2022-04-01T06:15:16.078Z",
+    "stickers": [],
+    "previewImages": [
+      {
+        "small": "https://resources.cdn-kaspi.kz/img/m/p/hb7/hcc/64452558585886.jpg?format=preview-small",
+        "medium": "https://resources.cdn-kaspi.kz/img/m/p/hb7/hcc/64452558585886.jpg?format=preview-medium",
+        "large": "https://resources.cdn-kaspi.kz/img/m/p/hb7/hcc/64452558585886.jpg?format=preview-large"
+      }
+    ],
+    "teasers": [],
+    "creditMonthlyPrice": 497,
+    "monthlyInstallment": {
+      "id": 3,
+      "installment": true,
+      "formattedPerMonth": "497 ₸"
+    },
+    "reviewsLink": "/p/jidek-kz-granat-kitai-104325898/?c=710000000&tab=reviews",
+    "weight": 0.6,
+    "unit": {
+      "type": "PIECES",
+      "increment": 1,
+      "measurementLiteral": "шт",
+      "countingLiteral": "шт"
+    },
+    "rating": 0,
+    "reviewsQuantity": 0,
+    "stock": 1,
+    "currency": "KZT",
+    "mods": "",
+    "deliveryDuration": "EXPRESS",
+    "category": [
+      "Продукты питания",
+      "Овощи, фрукты, ягоды, грибы",
+      "Фрукты"
+    ],
+    "categoryRu": [
+      "Продукты питания",
+      "Овощи, фрукты, ягоды, грибы",
+      "Фрукты"
+    ],
+    "categoryCodes": [
+      "Fruits",
+      "Fruits and vegetables",
+      "Food",
+      "Categories"
+    ],
+    "majorMerchants": [],
+    "deliveryZones": [
+      "710000000"
+    ]
+  },
+  {
+    "id": "106138206",
+    "configSku": "106138206",
+    "title": "Jidek_kz лайм Бразилия 0.1 кг",
+    "brand": "Jidek_kz",
+    "categoryId": "05095",
+    "hasVariants": false,
+    "loanAvailable": true,
+    "shopLink": "/p/jidek-kz-laim-brazilija-0-1-kg-106138206/?c=710000000",
+    "unitPrice": 490,
+    "unitSalePrice": 490,
+    "priceFormatted": "490 ₸",
+    "createdTime": "2022-08-19T04:35:19.284Z",
+    "stickers": [],
+    "previewImages": [
+      {
+        "small": "https://resources.cdn-kaspi.kz/img/m/p/h55/hfb/64994032091166.jpg?format=preview-small",
+        "medium": "https://resources.cdn-kaspi.kz/img/m/p/h55/hfb/64994032091166.jpg?format=preview-medium",
+        "large": "https://resources.cdn-kaspi.kz/img/m/p/h55/hfb/64994032091166.jpg?format=preview-large"
+      }
+    ],
+    "teasers": [],
+    "creditMonthlyPrice": 164,
+    "monthlyInstallment": {
+      "id": 3,
+      "installment": true,
+      "formattedPerMonth": "164 ₸"
+    },
+    "reviewsLink": "/p/jidek-kz-laim-brazilija-0-1-kg-106138206/?c=710000000&tab=reviews",
+    "weight": 0,
+    "unit": {
+      "type": "PIECES",
+      "increment": 1,
+      "measurementLiteral": "шт",
+      "countingLiteral": "шт"
+    },
+    "rating": 0,
+    "reviewsQuantity": 0,
+    "stock": 1,
+    "currency": "KZT",
+    "mods": "",
+    "deliveryDuration": "EXPRESS",
+    "category": [
+      "Продукты питания",
+      "Овощи, фрукты, ягоды, грибы",
+      "Фрукты"
+    ],
+    "categoryRu": [
+      "Продукты питания",
+      "Овощи, фрукты, ягоды, грибы",
+      "Фрукты"
+    ],
+    "categoryCodes": [
+      "Fruits",
+      "Fruits and vegetables",
+      "Food",
+      "Categories"
+    ],
+    "majorMerchants": [],
+    "deliveryZones": [
+      "710000000"
+    ]
+  },
+  {
+    "id": "106126208",
+    "configSku": "106126208",
+    "title": "Jidek_kz киви в сетке Италия 0.7 кг",
+    "brand": "Jidek_kz",
+    "categoryId": "05095",
+    "hasVariants": false,
+    "loanAvailable": true,
+    "shopLink": "/p/jidek-kz-kivi-v-setke-italija-0-7-kg-106126208/?c=710000000",
+    "unitPrice": 1390,
+    "unitSalePrice": 1390,
+    "priceFormatted": "1 390 ₸",
+    "createdTime": "2022-08-18T05:50:05.673Z",
+    "stickers": [],
+    "previewImages": [
+      {
+        "small": "https://resources.cdn-kaspi.kz/img/m/p/hdc/h9e/64359450312734.jpg?format=preview-small",
+        "medium": "https://resources.cdn-kaspi.kz/img/m/p/hdc/h9e/64359450312734.jpg?format=preview-medium",
+        "large": "https://resources.cdn-kaspi.kz/img/m/p/hdc/h9e/64359450312734.jpg?format=preview-large"
+      }
+    ],
+    "teasers": [],
+    "creditMonthlyPrice": 464,
+    "monthlyInstallment": {
+      "id": 3,
+      "installment": true,
+      "formattedPerMonth": "464 ₸"
+    },
+    "reviewsLink": "/p/jidek-kz-kivi-v-setke-italija-0-7-kg-106126208/?c=710000000&tab=reviews",
+    "weight": 0.7,
+    "unit": {
+      "type": "PIECES",
+      "increment": 1,
+      "measurementLiteral": "шт",
+      "countingLiteral": "шт"
+    },
+    "rating": 0,
+    "reviewsQuantity": 0,
+    "stock": 1,
+    "currency": "KZT",
+    "mods": "",
+    "deliveryDuration": "EXPRESS",
+    "category": [
+      "Продукты питания",
+      "Овощи, фрукты, ягоды, грибы",
+      "Фрукты"
+    ],
+    "categoryRu": [
+      "Продукты питания",
+      "Овощи, фрукты, ягоды, грибы",
+      "Фрукты"
+    ],
+    "categoryCodes": [
+      "Fruits",
+      "Fruits and vegetables",
+      "Food",
+      "Categories"
+    ],
+    "majorMerchants": [],
+    "deliveryZones": [
+      "710000000"
+    ]
+  },
+  {
+    "id": "104326160",
+    "configSku": "104326160",
+    "title": "Jidek_kz грейпфрут Турция 1 кг",
+    "brand": "Jidek_kz",
+    "categoryId": "05095",
+    "hasVariants": false,
+    "loanAvailable": true,
+    "shopLink": "/p/jidek-kz-greipfrut-turtsija-1-kg-104326160/?c=710000000",
+    "unitPrice": 1690,
+    "unitSalePrice": 1690,
+    "priceFormatted": "1 690 ₸",
+    "createdTime": "2022-04-01T07:16:34.184Z",
+    "stickers": [],
+    "previewImages": [
+      {
+        "small": "https://resources.cdn-kaspi.kz/img/m/p/h7a/h56/64926853988382.jpg?format=preview-small",
+        "medium": "https://resources.cdn-kaspi.kz/img/m/p/h7a/h56/64926853988382.jpg?format=preview-medium",
+        "large": "https://resources.cdn-kaspi.kz/img/m/p/h7a/h56/64926853988382.jpg?format=preview-large"
+      }
+    ],
+    "teasers": [],
+    "creditMonthlyPrice": 564,
+    "monthlyInstallment": {
+      "id": 3,
+      "installment": true,
+      "formattedPerMonth": "564 ₸"
+    },
+    "reviewsLink": "/p/jidek-kz-greipfrut-turtsija-1-kg-104326160/?c=710000000&tab=reviews",
+    "weight": 0.6,
+    "unit": {
+      "type": "PIECES",
+      "increment": 1,
+      "measurementLiteral": "шт",
+      "countingLiteral": "шт"
+    },
+    "rating": 0,
+    "reviewsQuantity": 0,
+    "stock": 1,
+    "currency": "KZT",
+    "mods": "",
+    "deliveryDuration": "EXPRESS",
+    "category": [
+      "Продукты питания",
+      "Овощи, фрукты, ягоды, грибы",
+      "Фрукты"
+    ],
+    "categoryRu": [
+      "Продукты питания",
+      "Овощи, фрукты, ягоды, грибы",
+      "Фрукты"
+    ],
+    "categoryCodes": [
+      "Fruits",
+      "Fruits and vegetables",
+      "Food",
+      "Categories"
+    ],
+    "majorMerchants": [],
+    "deliveryZones": [
+      "710000000"
+    ]
+  },
+  {
+    "id": "104325857",
+    "configSku": "104325857",
+    "title": "Jidek_kz лимон Турция 1 кг",
+    "brand": "Jidek_kz",
+    "categoryId": "05095",
+    "hasVariants": false,
+    "loanAvailable": true,
+    "shopLink": "/p/jidek-kz-limon-turtsija-1-kg-104325857/?c=710000000",
+    "unitPrice": 2390,
+    "unitSalePrice": 2390,
+    "priceFormatted": "2 390 ₸",
+    "createdTime": "2022-04-01T06:09:42.207Z",
+    "stickers": [],
+    "previewImages": [
+      {
+        "small": "https://resources.cdn-kaspi.kz/img/m/p/h24/hc9/64379618164766.jpg?format=preview-small",
+        "medium": "https://resources.cdn-kaspi.kz/img/m/p/h24/hc9/64379618164766.jpg?format=preview-medium",
+        "large": "https://resources.cdn-kaspi.kz/img/m/p/h24/hc9/64379618164766.jpg?format=preview-large"
+      }
+    ],
+    "teasers": [],
+    "creditMonthlyPrice": 797,
+    "monthlyInstallment": {
+      "id": 3,
+      "installment": true,
+      "formattedPerMonth": "797 ₸"
+    },
+    "reviewsLink": "/p/jidek-kz-limon-turtsija-1-kg-104325857/?c=710000000&tab=reviews",
+    "weight": 0.2,
+    "unit": {
+      "type": "PIECES",
+      "increment": 1,
+      "measurementLiteral": "шт",
+      "countingLiteral": "шт"
+    },
+    "rating": 5,
+    "reviewsQuantity": 0,
+    "stock": 1,
+    "currency": "KZT",
+    "mods": "",
+    "deliveryDuration": "EXPRESS",
+    "category": [
+      "Продукты питания",
+      "Овощи, фрукты, ягоды, грибы",
+      "Фрукты"
+    ],
+    "categoryRu": [
+      "Продукты питания",
+      "Овощи, фрукты, ягоды, грибы",
+      "Фрукты"
+    ],
+    "categoryCodes": [
+      "Fruits",
+      "Fruits and vegetables",
+      "Food",
+      "Categories"
+    ],
+    "majorMerchants": [],
+    "deliveryZones": [
+      "710000000"
+    ]
+  },
+  {
+    "id": "104327673",
+    "configSku": "104327673",
+    "title": "Jidek_kz авокадо Колумбия 0.1 кг",
+    "brand": "Jidek_kz",
+    "categoryId": "05095",
+    "hasVariants": false,
+    "loanAvailable": true,
+    "shopLink": "/p/jidek-kz-avokado-kolumbija-0-1-kg-104327673/?c=710000000",
+    "unitPrice": 990,
+    "unitSalePrice": 990,
+    "priceFormatted": "990 ₸",
+    "createdTime": "2022-04-01T11:02:40.393Z",
+    "stickers": [],
+    "previewImages": [
+      {
+        "small": "https://resources.cdn-kaspi.kz/img/m/p/h21/h9b/64380005875742.jpg?format=preview-small",
+        "medium": "https://resources.cdn-kaspi.kz/img/m/p/h21/h9b/64380005875742.jpg?format=preview-medium",
+        "large": "https://resources.cdn-kaspi.kz/img/m/p/h21/h9b/64380005875742.jpg?format=preview-large"
+      }
+    ],
+    "teasers": [],
+    "creditMonthlyPrice": 330,
+    "monthlyInstallment": {
+      "id": 3,
+      "installment": true,
+      "formattedPerMonth": "330 ₸"
+    },
+    "reviewsLink": "/p/jidek-kz-avokado-kolumbija-0-1-kg-104327673/?c=710000000&tab=reviews",
+    "weight": 0.1,
+    "unit": {
+      "type": "PIECES",
+      "increment": 1,
+      "measurementLiteral": "шт",
+      "countingLiteral": "шт"
+    },
+    "rating": 5,
+    "reviewsQuantity": 1,
+    "stock": 1,
+    "currency": "KZT",
+    "mods": "",
+    "deliveryDuration": "EXPRESS",
+    "category": [
+      "Продукты питания",
+      "Овощи, фрукты, ягоды, грибы",
+      "Фрукты"
+    ],
+    "categoryRu": [
+      "Продукты питания",
+      "Овощи, фрукты, ягоды, грибы",
+      "Фрукты"
+    ],
+    "categoryCodes": [
+      "Fruits",
+      "Fruits and vegetables",
+      "Food",
+      "Categories"
+    ],
+    "majorMerchants": [],
+    "deliveryZones": [
+      "710000000"
+    ]
+  },
+  {
+    "id": "106317286",
+    "configSku": "106317286",
+    "title": "Nature's pride маракуйя Колумбия 1 кг",
+    "brand": "Nature's pride",
+    "categoryId": "05095",
+    "hasVariants": false,
+    "loanAvailable": true,
+    "shopLink": "/p/nature-s-pride-marakuija-kolumbija-1-kg-106317286/?c=710000000",
+    "unitPrice": 15990,
+    "unitSalePrice": 15990,
+    "priceFormatted": "15 990 ₸",
+    "createdTime": "2022-09-04T08:17:29.666Z",
+    "stickers": [],
+    "previewImages": [
+      {
+        "small": "https://resources.cdn-kaspi.kz/img/m/p/h32/h4b/64484620927006.jpg?format=preview-small",
+        "medium": "https://resources.cdn-kaspi.kz/img/m/p/h32/h4b/64484620927006.jpg?format=preview-medium",
+        "large": "https://resources.cdn-kaspi.kz/img/m/p/h32/h4b/64484620927006.jpg?format=preview-large"
+      }
+    ],
+    "teasers": [],
+    "creditMonthlyPrice": 3021,
+    "monthlyInstallment": {
+      "id": 6,
+      "installment": false,
+      "formattedPerMonth": "3 021 ₸"
+    },
+    "reviewsLink": "/p/nature-s-pride-marakuija-kolumbija-1-kg-106317286/?c=710000000&tab=reviews",
+    "weight": 0,
+    "unit": {
+      "type": "PIECES",
+      "increment": 1,
+      "measurementLiteral": "шт",
+      "countingLiteral": "шт"
+    },
+    "rating": 0,
+    "reviewsQuantity": 0,
+    "stock": 1,
+    "currency": "KZT",
+    "mods": "",
+    "deliveryDuration": "TOMORROW",
+    "category": [
+      "Продукты питания",
+      "Овощи, фрукты, ягоды, грибы",
+      "Фрукты"
+    ],
+    "categoryRu": [
+      "Продукты питания",
+      "Овощи, фрукты, ягоды, грибы",
+      "Фрукты"
+    ],
+    "categoryCodes": [
+      "Fruits",
+      "Fruits and vegetables",
+      "Food",
+      "Categories"
+    ],
+    "majorMerchants": [],
+    "deliveryZones": [
+      "710000000"
+    ]
+  },
+  {
+    "id": "106317117",
+    "configSku": "106317117",
+    "title": "Eat Me авокадо Перу 1 кг",
+    "brand": "Eat Me",
+    "categoryId": "05095",
+    "hasVariants": false,
+    "loanAvailable": true,
+    "shopLink": "/p/eat-me-avokado-peru-1-kg-106317117/?c=710000000",
+    "unitPrice": 12990,
+    "unitSalePrice": 12990,
+    "priceFormatted": "12 990 ₸",
+    "createdTime": "2022-09-04T07:34:19.991Z",
+    "stickers": [],
+    "previewImages": [
+      {
+        "small": "https://resources.cdn-kaspi.kz/img/m/p/he2/h4b/64404917157918.jpg?format=preview-small",
+        "medium": "https://resources.cdn-kaspi.kz/img/m/p/he2/h4b/64404917157918.jpg?format=preview-medium",
+        "large": "https://resources.cdn-kaspi.kz/img/m/p/he2/h4b/64404917157918.jpg?format=preview-large"
+      }
+    ],
+    "teasers": [],
+    "creditMonthlyPrice": 4330,
+    "monthlyInstallment": {
+      "id": 3,
+      "installment": true,
+      "formattedPerMonth": "4 330 ₸"
+    },
+    "reviewsLink": "/p/eat-me-avokado-peru-1-kg-106317117/?c=710000000&tab=reviews",
+    "weight": 0,
+    "unit": {
+      "type": "PIECES",
+      "increment": 1,
+      "measurementLiteral": "шт",
+      "countingLiteral": "шт"
+    },
+    "rating": 0,
+    "reviewsQuantity": 0,
+    "stock": 1,
+    "currency": "KZT",
+    "mods": "",
+    "deliveryDuration": "TOMORROW",
+    "category": [
+      "Продукты питания",
+      "Овощи, фрукты, ягоды, грибы",
+      "Фрукты"
+    ],
+    "categoryRu": [
+      "Продукты питания",
+      "Овощи, фрукты, ягоды, грибы",
+      "Фрукты"
+    ],
+    "categoryCodes": [
+      "Fruits",
+      "Fruits and vegetables",
+      "Food",
+      "Categories"
+    ],
+    "majorMerchants": [],
+    "deliveryZones": [
+      "710000000"
+    ]
+  },
+  {
+    "id": "110254732",
+    "configSku": "110254732",
+    "title": "Nature's pride питахайя Вьетнам",
+    "brand": "Nature's pride",
+    "categoryId": "05095",
+    "hasVariants": false,
+    "loanAvailable": true,
+    "shopLink": "/p/nature-s-pride-pitahaija-v-etnam-110254732/?c=710000000",
+    "unitPrice": 12990,
+    "unitSalePrice": 12990,
+    "priceFormatted": "12 990 ₸",
+    "createdTime": "2023-05-11T09:05:19.067Z",
+    "stickers": [],
+    "previewImages": [
+      {
+        "small": "https://resources.cdn-kaspi.kz/img/m/p/h7b/h5d/80662621552670.jpg?format=preview-small",
+        "medium": "https://resources.cdn-kaspi.kz/img/m/p/h7b/h5d/80662621552670.jpg?format=preview-medium",
+        "large": "https://resources.cdn-kaspi.kz/img/m/p/h7b/h5d/80662621552670.jpg?format=preview-large"
+      }
+    ],
+    "teasers": [],
+    "creditMonthlyPrice": 4330,
+    "monthlyInstallment": {
+      "id": 3,
+      "installment": true,
+      "formattedPerMonth": "4 330 ₸"
+    },
+    "reviewsLink": "/p/nature-s-pride-pitahaija-v-etnam-110254732/?c=710000000&tab=reviews",
+    "weight": 0,
+    "unit": {
+      "type": "PIECES",
+      "increment": 1,
+      "measurementLiteral": "шт",
+      "countingLiteral": "шт"
+    },
+    "rating": 0,
+    "reviewsQuantity": 0,
+    "stock": 1,
+    "currency": "KZT",
+    "mods": "",
+    "deliveryDuration": "TOMORROW",
+    "category": [
+      "Продукты питания",
+      "Овощи, фрукты, ягоды, грибы",
+      "Фрукты"
+    ],
+    "categoryRu": [
+      "Продукты питания",
+      "Овощи, фрукты, ягоды, грибы",
+      "Фрукты"
+    ],
+    "categoryCodes": [
+      "Fruits",
+      "Fruits and vegetables",
+      "Food",
+      "Categories"
+    ],
+    "majorMerchants": [],
+    "deliveryZones": [
+      "710000000"
+    ]
+  },
+  {
+    "id": "106317172",
+    "configSku": "106317172",
+    "title": "Nature's pride питахайя Вьетнам 1 кг",
+    "brand": "Nature's pride",
+    "categoryId": "05095",
+    "hasVariants": false,
+    "loanAvailable": true,
+    "shopLink": "/p/nature-s-pride-pitahaija-v-etnam-1-kg-106317172/?c=710000000",
+    "unitPrice": 12490,
+    "unitSalePrice": 12490,
+    "priceFormatted": "12 490 ₸",
+    "createdTime": "2022-09-04T07:47:47.965Z",
+    "stickers": [],
+    "previewImages": [
+      {
+        "small": "https://resources.cdn-kaspi.kz/img/m/p/h12/h05/64484622532638.jpg?format=preview-small",
+        "medium": "https://resources.cdn-kaspi.kz/img/m/p/h12/h05/64484622532638.jpg?format=preview-medium",
+        "large": "https://resources.cdn-kaspi.kz/img/m/p/h12/h05/64484622532638.jpg?format=preview-large"
+      }
+    ],
+    "teasers": [],
+    "creditMonthlyPrice": 4164,
+    "monthlyInstallment": {
+      "id": 3,
+      "installment": true,
+      "formattedPerMonth": "4 164 ₸"
+    },
+    "reviewsLink": "/p/nature-s-pride-pitahaija-v-etnam-1-kg-106317172/?c=710000000&tab=reviews",
+    "weight": 0,
+    "unit": {
+      "type": "PIECES",
+      "increment": 1,
+      "measurementLiteral": "шт",
+      "countingLiteral": "шт"
+    },
+    "rating": 0,
+    "reviewsQuantity": 0,
+    "stock": 1,
+    "currency": "KZT",
+    "mods": "",
+    "deliveryDuration": "TOMORROW",
+    "category": [
+      "Продукты питания",
+      "Овощи, фрукты, ягоды, грибы",
+      "Фрукты"
+    ],
+    "categoryRu": [
+      "Продукты питания",
+      "Овощи, фрукты, ягоды, грибы",
+      "Фрукты"
+    ],
+    "categoryCodes": [
+      "Fruits",
+      "Fruits and vegetables",
+      "Food",
+      "Categories"
+    ],
+    "majorMerchants": [],
+    "deliveryZones": [
+      "710000000"
+    ]
+  }
+]

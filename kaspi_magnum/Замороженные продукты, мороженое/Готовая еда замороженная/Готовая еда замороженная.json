@@ -1,0 +1,724 @@
+[
+  {
+    "id": "137387753",
+    "configSku": "137387753",
+    "title": "MAGNUM пицца 500 г",
+    "brand": "MAGNUM",
+    "categoryId": "03828",
+    "hasVariants": false,
+    "loanAvailable": false,
+    "shopLink": "/p/magnum-pitstsa-500-g-137387753/?c=710000000",
+    "unitPrice": 1500,
+    "unitSalePrice": 1500,
+    "priceFormatted": "1 500 ₸",
+    "createdTime": "2025-04-02T11:10:01.264Z",
+    "stickers": [
+      "magnum_offer_available"
+    ],
+    "previewImages": [
+      {
+        "small": "https://resources.cdn-kaspi.kz/img/m/p/p88/p84/34075559.jpg?format=preview-small",
+        "medium": "https://resources.cdn-kaspi.kz/img/m/p/p88/p84/34075559.jpg?format=preview-medium",
+        "large": "https://resources.cdn-kaspi.kz/img/m/p/p88/p84/34075559.jpg?format=preview-large"
+      },
+      {
+        "small": "https://resources.cdn-kaspi.kz/img/m/p/p2d/p87/34075562.jpg?format=preview-small",
+        "medium": "https://resources.cdn-kaspi.kz/img/m/p/p2d/p87/34075562.jpg?format=preview-medium",
+        "large": "https://resources.cdn-kaspi.kz/img/m/p/p2d/p87/34075562.jpg?format=preview-large"
+      }
+    ],
+    "teasers": [],
+    "creditMonthlyPrice": 500,
+    "monthlyInstallment": {
+      "id": 3,
+      "installment": true,
+      "formattedPerMonth": "500 ₸"
+    },
+    "reviewsLink": "/p/magnum-pitstsa-500-g-137387753/?c=710000000&tab=reviews",
+    "weight": 0,
+    "unit": {
+      "type": "PIECES",
+      "increment": 1,
+      "measurementLiteral": "шт",
+      "countingLiteral": "шт"
+    },
+    "rating": 3.8,
+    "reviewsQuantity": 4,
+    "stock": 1,
+    "currency": "KZT",
+    "mods": "",
+    "deliveryDuration": "TODAY",
+    "shortNameText": "",
+    "category": [
+      "Продукты питания",
+      "Замороженные продукты, мороженое",
+      "Готовая еда замороженная"
+    ],
+    "categoryRu": [
+      "Продукты питания",
+      "Замороженные продукты, мороженое",
+      "Готовая еда замороженная"
+    ],
+    "categoryCodes": [
+      "Frozen pizza and sandwiches",
+      "Frozen foods",
+      "Food",
+      "Categories"
+    ],
+    "groups": [],
+    "promo": [
+      {
+        "code": "magnum 0012",
+        "text": null,
+        "type": "LOAN",
+        "priority": 12,
+        "owner": "KASPI",
+        "bonusType": "",
+        "img": {
+          "alt": null,
+          "large": {
+            "src": "https://resources.cdn-kaspi.kz/yml/static/assets/badges/l12.svg?v=1",
+            "width": 55,
+            "height": 31
+          },
+          "medium": {
+            "src": "https://resources.cdn-kaspi.kz/yml/static/assets/badges/l12.svg?v=1",
+            "width": 40,
+            "height": 22
+          },
+          "small": {
+            "src": "https://resources.cdn-kaspi.kz/yml/static/assets/badges/l12.svg?v=1",
+            "width": 40,
+            "height": 22
+          }
+        }
+      }
+    ],
+    "majorMerchants": [
+      "Magnum"
+    ],
+    "deliveryZones": [
+      "magnum_f_zone",
+      "Magnum_ZONE3",
+      "Magnum_ZONE5"
+    ]
+  },
+  {
+    "id": "137116593",
+    "configSku": "137116593",
+    "title": "Мираторг пицца пепперони 350 г",
+    "brand": "Мираторг",
+    "categoryId": "03828",
+    "hasVariants": false,
+    "loanAvailable": false,
+    "shopLink": "/p/miratorg-pitstsa-pepperoni-350-g-137116593/?c=710000000",
+    "unitPrice": 3655,
+    "unitSalePrice": 3655,
+    "priceFormatted": "3 655 ₸",
+    "createdTime": "2025-03-28T12:02:35.150Z",
+    "stickers": [
+      "magnum_offer_available"
+    ],
+    "previewImages": [
+      {
+        "small": "https://resources.cdn-kaspi.kz/img/m/p/p31/p0f/33003133.jpg?format=preview-small",
+        "medium": "https://resources.cdn-kaspi.kz/img/m/p/p31/p0f/33003133.jpg?format=preview-medium",
+        "large": "https://resources.cdn-kaspi.kz/img/m/p/p31/p0f/33003133.jpg?format=preview-large"
+      },
+      {
+        "small": "https://resources.cdn-kaspi.kz/img/m/p/p15/p0f/33003134.jpg?format=preview-small",
+        "medium": "https://resources.cdn-kaspi.kz/img/m/p/p15/p0f/33003134.jpg?format=preview-medium",
+        "large": "https://resources.cdn-kaspi.kz/img/m/p/p15/p0f/33003134.jpg?format=preview-large"
+      }
+    ],
+    "teasers": [],
+    "creditMonthlyPrice": 1219,
+    "monthlyInstallment": {
+      "id": 3,
+      "installment": true,
+      "formattedPerMonth": "1 219 ₸"
+    },
+    "reviewsLink": "/p/miratorg-pitstsa-pepperoni-350-g-137116593/?c=710000000&tab=reviews",
+    "weight": 0,
+    "unit": {
+      "type": "PIECES",
+      "increment": 1,
+      "measurementLiteral": "шт",
+      "countingLiteral": "шт"
+    },
+    "rating": 4.5,
+    "reviewsQuantity": 0,
+    "stock": 1,
+    "currency": "KZT",
+    "mods": "",
+    "deliveryDuration": "TODAY",
+    "shortNameText": "",
+    "category": [
+      "Продукты питания",
+      "Замороженные продукты, мороженое",
+      "Готовая еда замороженная"
+    ],
+    "categoryRu": [
+      "Продукты питания",
+      "Замороженные продукты, мороженое",
+      "Готовая еда замороженная"
+    ],
+    "categoryCodes": [
+      "Frozen pizza and sandwiches",
+      "Frozen foods",
+      "Food",
+      "Categories"
+    ],
+    "groups": [],
+    "promo": [
+      {
+        "code": "magnum 0012",
+        "text": null,
+        "type": "LOAN",
+        "priority": 12,
+        "owner": "KASPI",
+        "bonusType": "",
+        "img": {
+          "alt": null,
+          "large": {
+            "src": "https://resources.cdn-kaspi.kz/yml/static/assets/badges/l12.svg?v=1",
+            "width": 55,
+            "height": 31
+          },
+          "medium": {
+            "src": "https://resources.cdn-kaspi.kz/yml/static/assets/badges/l12.svg?v=1",
+            "width": 40,
+            "height": 22
+          },
+          "small": {
+            "src": "https://resources.cdn-kaspi.kz/yml/static/assets/badges/l12.svg?v=1",
+            "width": 40,
+            "height": 22
+          }
+        }
+      }
+    ],
+    "majorMerchants": [
+      "Magnum"
+    ],
+    "deliveryZones": [
+      "magnum_f_zone",
+      "Magnum_ZONE3",
+      "Magnum_ZONE5"
+    ]
+  },
+  {
+    "id": "137118633",
+    "configSku": "137118633",
+    "title": "Мираторг корн-дог 250 г",
+    "brand": "Мираторг",
+    "categoryId": "03828",
+    "hasVariants": false,
+    "loanAvailable": false,
+    "shopLink": "/p/miratorg-korn-dog-250-g-137118633/?c=710000000",
+    "unitPrice": 3999,
+    "unitSalePrice": 3999,
+    "priceFormatted": "3 999 ₸",
+    "createdTime": "2025-03-28T12:26:08.658Z",
+    "stickers": [
+      "magnum_offer_available"
+    ],
+    "previewImages": [
+      {
+        "small": "https://resources.cdn-kaspi.kz/img/m/p/p70/p5b/33011827.jpg?format=preview-small",
+        "medium": "https://resources.cdn-kaspi.kz/img/m/p/p70/p5b/33011827.jpg?format=preview-medium",
+        "large": "https://resources.cdn-kaspi.kz/img/m/p/p70/p5b/33011827.jpg?format=preview-large"
+      },
+      {
+        "small": "https://resources.cdn-kaspi.kz/img/m/p/p31/p5e/33011831.jpg?format=preview-small",
+        "medium": "https://resources.cdn-kaspi.kz/img/m/p/p31/p5e/33011831.jpg?format=preview-medium",
+        "large": "https://resources.cdn-kaspi.kz/img/m/p/p31/p5e/33011831.jpg?format=preview-large"
+      }
+    ],
+    "teasers": [],
+    "creditMonthlyPrice": 1333,
+    "monthlyInstallment": {
+      "id": 3,
+      "installment": true,
+      "formattedPerMonth": "1 333 ₸"
+    },
+    "reviewsLink": "/p/miratorg-korn-dog-250-g-137118633/?c=710000000&tab=reviews",
+    "weight": 0,
+    "unit": {
+      "type": "PIECES",
+      "increment": 1,
+      "measurementLiteral": "шт",
+      "countingLiteral": "шт"
+    },
+    "rating": 5,
+    "reviewsQuantity": 0,
+    "stock": 1,
+    "currency": "KZT",
+    "mods": "",
+    "deliveryDuration": "TODAY",
+    "shortNameText": "",
+    "category": [
+      "Продукты питания",
+      "Замороженные продукты, мороженое",
+      "Готовая еда замороженная"
+    ],
+    "categoryRu": [
+      "Продукты питания",
+      "Замороженные продукты, мороженое",
+      "Готовая еда замороженная"
+    ],
+    "categoryCodes": [
+      "Frozen pizza and sandwiches",
+      "Frozen foods",
+      "Food",
+      "Categories"
+    ],
+    "promo": [
+      {
+        "code": "magnum 0012",
+        "text": null,
+        "type": "LOAN",
+        "priority": 12,
+        "owner": "KASPI",
+        "bonusType": "",
+        "img": {
+          "alt": null,
+          "large": {
+            "src": "https://resources.cdn-kaspi.kz/yml/static/assets/badges/l12.svg?v=1",
+            "width": 55,
+            "height": 31
+          },
+          "medium": {
+            "src": "https://resources.cdn-kaspi.kz/yml/static/assets/badges/l12.svg?v=1",
+            "width": 40,
+            "height": 22
+          },
+          "small": {
+            "src": "https://resources.cdn-kaspi.kz/yml/static/assets/badges/l12.svg?v=1",
+            "width": 40,
+            "height": 22
+          }
+        }
+      }
+    ],
+    "majorMerchants": [
+      "Magnum"
+    ],
+    "deliveryZones": [
+      "magnum_f_zone",
+      "Magnum_ZONE3",
+      "Magnum_ZONE5"
+    ]
+  },
+  {
+    "id": "136266003",
+    "configSku": "136266003",
+    "title": "Мираторг мини-пицца 250 г",
+    "brand": "Мираторг",
+    "categoryId": "03828",
+    "hasVariants": false,
+    "loanAvailable": false,
+    "shopLink": "/p/miratorg-mini-pitstsa-250-g-136266003/?c=710000000",
+    "unitPrice": 5155,
+    "unitSalePrice": 5155,
+    "priceFormatted": "5 155 ₸",
+    "createdTime": "2025-03-14T06:59:00.567Z",
+    "stickers": [
+      "magnum_offer_available"
+    ],
+    "previewImages": [
+      {
+        "small": "https://resources.cdn-kaspi.kz/img/m/p/p2d/pce/33013659.jpg?format=preview-small",
+        "medium": "https://resources.cdn-kaspi.kz/img/m/p/p2d/pce/33013659.jpg?format=preview-medium",
+        "large": "https://resources.cdn-kaspi.kz/img/m/p/p2d/pce/33013659.jpg?format=preview-large"
+      }
+    ],
+    "teasers": [],
+    "creditMonthlyPrice": 1719,
+    "monthlyInstallment": {
+      "id": 3,
+      "installment": true,
+      "formattedPerMonth": "1 719 ₸"
+    },
+    "reviewsLink": "/p/miratorg-mini-pitstsa-250-g-136266003/?c=710000000&tab=reviews",
+    "weight": 0,
+    "unit": {
+      "type": "PIECES",
+      "increment": 1,
+      "measurementLiteral": "шт",
+      "countingLiteral": "шт"
+    },
+    "rating": 0,
+    "reviewsQuantity": 0,
+    "stock": 1,
+    "currency": "KZT",
+    "mods": "",
+    "deliveryDuration": "TODAY",
+    "shortNameText": "",
+    "category": [
+      "Продукты питания",
+      "Замороженные продукты, мороженое",
+      "Готовая еда замороженная"
+    ],
+    "categoryRu": [
+      "Продукты питания",
+      "Замороженные продукты, мороженое",
+      "Готовая еда замороженная"
+    ],
+    "categoryCodes": [
+      "Frozen pizza and sandwiches",
+      "Frozen foods",
+      "Food",
+      "Categories"
+    ],
+    "groups": [
+      "b13758a0-2038-4d31-9089-cc1c0d29b032",
+      "df98ffab-35cd-4c01-b978-3fbf8d7bd189"
+    ],
+    "promo": [
+      {
+        "code": "magnum 0012",
+        "text": null,
+        "type": "LOAN",
+        "priority": 12,
+        "owner": "KASPI",
+        "bonusType": "",
+        "img": {
+          "alt": null,
+          "large": {
+            "src": "https://resources.cdn-kaspi.kz/yml/static/assets/badges/l12.svg?v=1",
+            "width": 55,
+            "height": 31
+          },
+          "medium": {
+            "src": "https://resources.cdn-kaspi.kz/yml/static/assets/badges/l12.svg?v=1",
+            "width": 40,
+            "height": 22
+          },
+          "small": {
+            "src": "https://resources.cdn-kaspi.kz/yml/static/assets/badges/l12.svg?v=1",
+            "width": 40,
+            "height": 22
+          }
+        }
+      }
+    ],
+    "majorMerchants": [
+      "Magnum"
+    ],
+    "deliveryZones": [
+      "magnum_f_zone",
+      "Magnum_ZONE3",
+      "Magnum_ZONE5"
+    ]
+  },
+  {
+    "id": "137387408",
+    "configSku": "137387408",
+    "title": "MAGNUM пицца 500 г",
+    "brand": "MAGNUM",
+    "categoryId": "03828",
+    "hasVariants": false,
+    "loanAvailable": false,
+    "shopLink": "/p/magnum-pitstsa-500-g-137387408/?c=710000000",
+    "unitPrice": 2200,
+    "unitSalePrice": 2200,
+    "priceFormatted": "2 200 ₸",
+    "createdTime": "2025-04-02T11:02:47.966Z",
+    "stickers": [
+      "magnum_offer_available"
+    ],
+    "previewImages": [
+      {
+        "small": "https://resources.cdn-kaspi.kz/img/m/p/p97/p03/34074108.jpg?format=preview-small",
+        "medium": "https://resources.cdn-kaspi.kz/img/m/p/p97/p03/34074108.jpg?format=preview-medium",
+        "large": "https://resources.cdn-kaspi.kz/img/m/p/p97/p03/34074108.jpg?format=preview-large"
+      },
+      {
+        "small": "https://resources.cdn-kaspi.kz/img/m/p/p0f/p01/34074110.jpg?format=preview-small",
+        "medium": "https://resources.cdn-kaspi.kz/img/m/p/p0f/p01/34074110.jpg?format=preview-medium",
+        "large": "https://resources.cdn-kaspi.kz/img/m/p/p0f/p01/34074110.jpg?format=preview-large"
+      }
+    ],
+    "teasers": [],
+    "creditMonthlyPrice": 734,
+    "monthlyInstallment": {
+      "id": 3,
+      "installment": true,
+      "formattedPerMonth": "734 ₸"
+    },
+    "reviewsLink": "/p/magnum-pitstsa-500-g-137387408/?c=710000000&tab=reviews",
+    "weight": 0,
+    "unit": {
+      "type": "PIECES",
+      "increment": 1,
+      "measurementLiteral": "шт",
+      "countingLiteral": "шт"
+    },
+    "rating": 0,
+    "reviewsQuantity": 0,
+    "stock": 1,
+    "currency": "KZT",
+    "mods": "",
+    "deliveryDuration": "TODAY",
+    "shortNameText": "",
+    "category": [
+      "Продукты питания",
+      "Замороженные продукты, мороженое",
+      "Готовая еда замороженная"
+    ],
+    "categoryRu": [
+      "Продукты питания",
+      "Замороженные продукты, мороженое",
+      "Готовая еда замороженная"
+    ],
+    "categoryCodes": [
+      "Frozen pizza and sandwiches",
+      "Frozen foods",
+      "Food",
+      "Categories"
+    ],
+    "groups": [],
+    "promo": [
+      {
+        "code": "magnum 0012",
+        "text": null,
+        "type": "LOAN",
+        "priority": 12,
+        "owner": "KASPI",
+        "bonusType": "",
+        "img": {
+          "alt": null,
+          "large": {
+            "src": "https://resources.cdn-kaspi.kz/yml/static/assets/badges/l12.svg?v=1",
+            "width": 55,
+            "height": 31
+          },
+          "medium": {
+            "src": "https://resources.cdn-kaspi.kz/yml/static/assets/badges/l12.svg?v=1",
+            "width": 40,
+            "height": 22
+          },
+          "small": {
+            "src": "https://resources.cdn-kaspi.kz/yml/static/assets/badges/l12.svg?v=1",
+            "width": 40,
+            "height": 22
+          }
+        }
+      }
+    ],
+    "majorMerchants": [
+      "Magnum"
+    ],
+    "deliveryZones": [
+      "magnum_f_zone",
+      "Magnum_ZONE5"
+    ]
+  },
+  {
+    "id": "137118173",
+    "configSku": "137118173",
+    "title": "Мираторг пицца маргарита 340 г",
+    "brand": "Мираторг",
+    "categoryId": "03828",
+    "hasVariants": false,
+    "loanAvailable": false,
+    "shopLink": "/p/miratorg-pitstsa-margarita-340-g-137118173/?c=710000000",
+    "unitPrice": 2799,
+    "unitSalePrice": 2799,
+    "priceFormatted": "2 799 ₸",
+    "createdTime": "2025-03-28T12:19:17.330Z",
+    "stickers": [
+      "magnum_offer_available"
+    ],
+    "previewImages": [
+      {
+        "small": "https://resources.cdn-kaspi.kz/img/m/p/p4d/pf2/33010219.jpg?format=preview-small",
+        "medium": "https://resources.cdn-kaspi.kz/img/m/p/p4d/pf2/33010219.jpg?format=preview-medium",
+        "large": "https://resources.cdn-kaspi.kz/img/m/p/p4d/pf2/33010219.jpg?format=preview-large"
+      },
+      {
+        "small": "https://resources.cdn-kaspi.kz/img/m/p/pe1/pef/33010220.jpg?format=preview-small",
+        "medium": "https://resources.cdn-kaspi.kz/img/m/p/pe1/pef/33010220.jpg?format=preview-medium",
+        "large": "https://resources.cdn-kaspi.kz/img/m/p/pe1/pef/33010220.jpg?format=preview-large"
+      }
+    ],
+    "teasers": [],
+    "creditMonthlyPrice": 933,
+    "monthlyInstallment": {
+      "id": 3,
+      "installment": true,
+      "formattedPerMonth": "933 ₸"
+    },
+    "reviewsLink": "/p/miratorg-pitstsa-margarita-340-g-137118173/?c=710000000&tab=reviews",
+    "weight": 0,
+    "unit": {
+      "type": "PIECES",
+      "increment": 1,
+      "measurementLiteral": "шт",
+      "countingLiteral": "шт"
+    },
+    "rating": 0,
+    "reviewsQuantity": 0,
+    "stock": 1,
+    "currency": "KZT",
+    "mods": "",
+    "deliveryDuration": "TODAY",
+    "shortNameText": "",
+    "category": [
+      "Продукты питания",
+      "Замороженные продукты, мороженое",
+      "Готовая еда замороженная"
+    ],
+    "categoryRu": [
+      "Продукты питания",
+      "Замороженные продукты, мороженое",
+      "Готовая еда замороженная"
+    ],
+    "categoryCodes": [
+      "Frozen pizza and sandwiches",
+      "Frozen foods",
+      "Food",
+      "Categories"
+    ],
+    "promo": [
+      {
+        "code": "magnum 0012",
+        "text": null,
+        "type": "LOAN",
+        "priority": 12,
+        "owner": "KASPI",
+        "bonusType": "",
+        "img": {
+          "alt": null,
+          "large": {
+            "src": "https://resources.cdn-kaspi.kz/yml/static/assets/badges/l12.svg?v=1",
+            "width": 55,
+            "height": 31
+          },
+          "medium": {
+            "src": "https://resources.cdn-kaspi.kz/yml/static/assets/badges/l12.svg?v=1",
+            "width": 40,
+            "height": 22
+          },
+          "small": {
+            "src": "https://resources.cdn-kaspi.kz/yml/static/assets/badges/l12.svg?v=1",
+            "width": 40,
+            "height": 22
+          }
+        }
+      }
+    ],
+    "majorMerchants": [
+      "Magnum"
+    ],
+    "deliveryZones": [
+      "magnum_f_zone",
+      "Magnum_ZONE3",
+      "Magnum_ZONE5"
+    ]
+  },
+  {
+    "id": "137118212",
+    "configSku": "137118212",
+    "title": "Мираторг пицца 4 сыра 390 г",
+    "brand": "Мираторг",
+    "categoryId": "03828",
+    "hasVariants": false,
+    "loanAvailable": false,
+    "shopLink": "/p/miratorg-pitstsa-4-syra-390-g-137118212/?c=710000000",
+    "unitPrice": 3755,
+    "unitSalePrice": 3755,
+    "priceFormatted": "3 755 ₸",
+    "createdTime": "2025-03-28T12:20:00.041Z",
+    "stickers": [
+      "magnum_offer_available"
+    ],
+    "previewImages": [
+      {
+        "small": "https://resources.cdn-kaspi.kz/img/m/p/pad/p81/33010339.jpg?format=preview-small",
+        "medium": "https://resources.cdn-kaspi.kz/img/m/p/pad/p81/33010339.jpg?format=preview-medium",
+        "large": "https://resources.cdn-kaspi.kz/img/m/p/pad/p81/33010339.jpg?format=preview-large"
+      },
+      {
+        "small": "https://resources.cdn-kaspi.kz/img/m/p/p41/p7f/33010340.jpg?format=preview-small",
+        "medium": "https://resources.cdn-kaspi.kz/img/m/p/p41/p7f/33010340.jpg?format=preview-medium",
+        "large": "https://resources.cdn-kaspi.kz/img/m/p/p41/p7f/33010340.jpg?format=preview-large"
+      }
+    ],
+    "teasers": [],
+    "creditMonthlyPrice": 1252,
+    "monthlyInstallment": {
+      "id": 3,
+      "installment": true,
+      "formattedPerMonth": "1 252 ₸"
+    },
+    "reviewsLink": "/p/miratorg-pitstsa-4-syra-390-g-137118212/?c=710000000&tab=reviews",
+    "weight": 0,
+    "unit": {
+      "type": "PIECES",
+      "increment": 1,
+      "measurementLiteral": "шт",
+      "countingLiteral": "шт"
+    },
+    "rating": 0,
+    "reviewsQuantity": 0,
+    "stock": 1,
+    "currency": "KZT",
+    "mods": "",
+    "deliveryDuration": "TODAY",
+    "shortNameText": "",
+    "category": [
+      "Продукты питания",
+      "Замороженные продукты, мороженое",
+      "Готовая еда замороженная"
+    ],
+    "categoryRu": [
+      "Продукты питания",
+      "Замороженные продукты, мороженое",
+      "Готовая еда замороженная"
+    ],
+    "categoryCodes": [
+      "Frozen pizza and sandwiches",
+      "Frozen foods",
+      "Food",
+      "Categories"
+    ],
+    "promo": [
+      {
+        "code": "magnum 0012",
+        "text": null,
+        "type": "LOAN",
+        "priority": 12,
+        "owner": "KASPI",
+        "bonusType": "",
+        "img": {
+          "alt": null,
+          "large": {
+            "src": "https://resources.cdn-kaspi.kz/yml/static/assets/badges/l12.svg?v=1",
+            "width": 55,
+            "height": 31
+          },
+          "medium": {
+            "src": "https://resources.cdn-kaspi.kz/yml/static/assets/badges/l12.svg?v=1",
+            "width": 40,
+            "height": 22
+          },
+          "small": {
+            "src": "https://resources.cdn-kaspi.kz/yml/static/assets/badges/l12.svg?v=1",
+            "width": 40,
+            "height": 22
+          }
+        }
+      }
+    ],
+    "majorMerchants": [
+      "Magnum"
+    ],
+    "deliveryZones": [
+      "magnum_f_zone",
+      "Magnum_ZONE3",
+      "Magnum_ZONE5"
+    ]
+  }
+]

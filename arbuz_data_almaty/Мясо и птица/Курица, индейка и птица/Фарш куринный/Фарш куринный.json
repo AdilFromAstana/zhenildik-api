@@ -1,0 +1,425 @@
+[
+  {
+    "id": "298338",
+    "catalogId": "225608",
+    "catalogName": "Фарш куринный",
+    "parentCatalogId": 225173,
+    "lang": "ru",
+    "name": "Фарш куриный Arbuz Select фермерский, замороженный 500 г",
+    "producerCountry": "Казахстан",
+    "brandName": "Arbuz Select",
+    "description": "",
+    "htmlDescription": "",
+    "compound": "",
+    "uri": "/ru/almaty/catalog/item/298338-farsh_kurinyi_arbuz_select_fermerskii_zamorozhennyi_500_g",
+    "image": "https://arbuz.kz/image/s3/arbuz-kz-products/298338-farsh_kurinyi_arbuz_select_0_5_kg.png?w=%w&h=%h&_c=1761297531",
+    "measure": "шт",
+    "isWeighted": false,
+    "weightAvg": 0,
+    "weightMin": 1,
+    "weightMax": 20,
+    "weight": "1 шт",
+    "pieceWeightMax": 0,
+    "pieceWeightMin": 1,
+    "sellByPiece": false,
+    "quantityMinStep": 1,
+    "priceActual": 2499,
+    "priceSpecial": null,
+    "friendsDiscount": "",
+    "discount": "−17%",
+    "pricePrevious": 2999,
+    "isMain": false,
+    "isRecommended": false,
+    "recommendationType": null,
+    "articleIndex": "",
+    "articleGroup": "",
+    "barcode": "",
+    "badges": [
+      {
+        "text": "−17%",
+        "backgroundColor": "#4F4F4F",
+        "textColor": "#FFFFFF",
+        "basketHidden": true,
+        "priority": 2,
+        "position": "top",
+        "type": "discount"
+      },
+      {
+        "text": "С фермы",
+        "backgroundColor": "#F0AE2E",
+        "textColor": "#FFFFFF",
+        "position": "bottom",
+        "priority": 5
+      }
+    ],
+    "contents": {
+      "data": [
+        {
+          "title": "",
+          "content": ""
+        }
+      ]
+    },
+    "isAvailable": true,
+    "quantityExpress": 77,
+    "benefits": {
+      "defaultCashbackPercent": 0,
+      "friendsCashbackPercent": 5,
+      "defaultBonusAmount": 0,
+      "friendsBonusAmount": 125
+    },
+    "discountAmount": null,
+    "isNew": false,
+    "cashback": "",
+    "notify": null,
+    "groupId": 1,
+    "sellerLabel": null,
+    "isPromotional": false,
+    "hasPromotion": false,
+    "isExpressAvailable": true,
+    "isLocal": true,
+    "linkRel": null,
+    "isVerified": false,
+    "verifiedLabel": null,
+    "nutrition": {
+      "fats": "2,28",
+      "kcal": "114,3",
+      "carbs": "0,09",
+      "protein": "21,6"
+    },
+    "ingredients": null,
+    "storageConditions": "90 дней, -18&deg;С",
+    "characteristics": [
+      {
+        "id": "5",
+        "name": "C локальной фермы",
+        "iconPng": "https://arbuz.kz/image/s3/arbuz-kz-characteristics/5-c_lokalnoi_fermy.png?_c=1739163464"
+      },
+      {
+        "id": "6",
+        "name": "Халал",
+        "iconPng": "https://arbuz.kz/image/s3/arbuz-kz-characteristics/6-halal.png?_c=1702450629"
+      },
+      {
+        "id": "10",
+        "name": "Глубокая заморозка",
+        "iconPng": "https://arbuz.kz/image/s3/arbuz-kz-characteristics/10-glubokaya_zamorozka.png?_c=1739163031"
+      },
+      {
+        "id": "14",
+        "name": "Без антибиотиков",
+        "iconPng": "https://arbuz.kz/image/s3/arbuz-kz-characteristics/img_url__14-bez_antibiotikov.png?_c=1739517304"
+      }
+    ],
+    "topInformationBadge": "",
+    "information": "<p>Это наш куриный фарш шоковой заморозки.&nbsp;Фарш сделан из чистого филе фермерской курицы.</p><p>Обладает нежной текстурой и мягким вкусом, идеально подходит для приготовления котлет, тефтелей, запеканок, начинок и диетических блюд. Удобная фасовка 500 г &mdash; практичное решение для семьи.</p>",
+    "rating": {
+      "value": "4,9",
+      "reviews": "31 оценка"
+    },
+    "pharmProperties": null,
+    "titleIcon": null,
+    "additionalInformation": {
+      "unitStepType": "pcs",
+      "categoryLevel3Id": "225608",
+      "categoryLevel1": "Мясо и птица",
+      "categoryLevel2": "Курица, индейка и птица",
+      "categoryLevel3": "Фарш куринный",
+      "bonusesAwardedPercent": 0
+    },
+    "superAppDeeplink": "https://freedombank.onelink.me/WNLd/yai5c3p6",
+    "banners": []
+  },
+  {
+    "id": "312845",
+    "catalogId": "225608",
+    "catalogName": "Фарш куринный",
+    "parentCatalogId": 225173,
+    "lang": "ru",
+    "name": "Фарш Mfood.kz из куриного филе, 1 кг",
+    "producerCountry": "Казахстан",
+    "brandName": "Mfood.kz",
+    "description": "",
+    "htmlDescription": "",
+    "compound": "",
+    "uri": "/ru/almaty/catalog/item/312845-farsh_mfood_kz_iz_kurinogo_file_1_kg",
+    "image": "https://arbuz.kz/image/s3/arbuz-kz-products/image__312845-farsh_mfood_kz_iz_kurinogo_file_1_kg.jpg?w=%w&h=%h&_c=1762596262",
+    "measure": "шт",
+    "isWeighted": false,
+    "weightAvg": 0,
+    "weightMin": 1,
+    "weightMax": 19,
+    "weight": "1 шт",
+    "pieceWeightMax": 0,
+    "pieceWeightMin": 1,
+    "sellByPiece": false,
+    "quantityMinStep": 1,
+    "priceActual": 4605,
+    "priceSpecial": null,
+    "friendsDiscount": "",
+    "discount": "",
+    "pricePrevious": 0,
+    "isMain": false,
+    "isRecommended": false,
+    "recommendationType": null,
+    "articleIndex": "",
+    "articleGroup": "",
+    "barcode": "",
+    "badges": [],
+    "contents": {
+      "data": [
+        {
+          "title": "",
+          "content": ""
+        }
+      ]
+    },
+    "isAvailable": true,
+    "quantityExpress": 20,
+    "benefits": {
+      "defaultCashbackPercent": 0,
+      "friendsCashbackPercent": 5,
+      "defaultBonusAmount": 0,
+      "friendsBonusAmount": 230
+    },
+    "discountAmount": null,
+    "isNew": false,
+    "cashback": "",
+    "notify": null,
+    "groupId": 1,
+    "sellerLabel": null,
+    "isPromotional": false,
+    "hasPromotion": false,
+    "isExpressAvailable": true,
+    "isLocal": false,
+    "linkRel": null,
+    "isVerified": false,
+    "verifiedLabel": null,
+    "nutrition": null,
+    "ingredients": "Куриное филе",
+    "storageConditions": "хранить при -18",
+    "characteristics": [
+      {
+        "id": "10",
+        "name": "Глубокая заморозка",
+        "iconPng": "https://arbuz.kz/image/s3/arbuz-kz-characteristics/10-glubokaya_zamorozka.png?_c=1739163031"
+      }
+    ],
+    "topInformationBadge": "",
+    "information": "Фарш из куриного филе &mdash; это мясной продукт, изготовленный из нежного и низкокалорийного мяса курицы, тщательно измельченного до состояния готовности к приготовлению. Он отличается светлой текстурой и нежным вкусом, делая его популярным выбором для более легких и здоровых блюд. Куриный фарш часто используется для приготовления котлет, бургеров, куриных фрикаделек и других блюд, где требуется мясной ингредиент с низким содержанием жиров.",
+    "rating": {
+      "value": "4,7",
+      "reviews": "7 оценок"
+    },
+    "pharmProperties": null,
+    "titleIcon": null,
+    "additionalInformation": {
+      "unitStepType": "pcs",
+      "categoryLevel3Id": "225608",
+      "categoryLevel1": "Мясо и птица",
+      "categoryLevel2": "Курица, индейка и птица",
+      "categoryLevel3": "Фарш куринный",
+      "bonusesAwardedPercent": 0
+    },
+    "superAppDeeplink": "https://freedombank.onelink.me/WNLd/ttrtf8nq",
+    "banners": []
+  },
+  {
+    "id": "328437",
+    "catalogId": "225608",
+    "catalogName": "Фарш куринный",
+    "parentCatalogId": 225173,
+    "lang": "ru",
+    "name": "Фарш Meat Union куриный с окорочков замороженный в/у, кг",
+    "producerCountry": "Казахстан",
+    "brandName": "Meat Union",
+    "description": "",
+    "htmlDescription": "",
+    "compound": "",
+    "uri": "/ru/almaty/catalog/item/328437-farsh_meat_union_kurinyi_s_okorochkov_zamorozhennyi_v_u_kg",
+    "image": "https://arbuz.kz/image/s3/arbuz-kz-products/file_name__6095cbf0-51de-4039-bc6c-a1a4721b663b-328437_1_jpg.jpg?w=%w&h=%h&_c=1747290170",
+    "measure": "кг",
+    "isWeighted": true,
+    "weightAvg": 0,
+    "weightMin": 1,
+    "weightMax": 2.364,
+    "weight": "1 кг",
+    "pieceWeightMax": 0,
+    "pieceWeightMin": 1,
+    "sellByPiece": false,
+    "quantityMinStep": 1,
+    "priceActual": 3065,
+    "priceSpecial": null,
+    "friendsDiscount": "",
+    "discount": "",
+    "pricePrevious": 0,
+    "isMain": false,
+    "isRecommended": false,
+    "recommendationType": null,
+    "articleIndex": "",
+    "articleGroup": "",
+    "barcode": "",
+    "badges": [],
+    "contents": {
+      "data": [
+        {
+          "title": "",
+          "content": ""
+        }
+      ]
+    },
+    "isAvailable": true,
+    "quantityExpress": 2.364,
+    "benefits": {
+      "defaultCashbackPercent": 0,
+      "friendsCashbackPercent": 5,
+      "defaultBonusAmount": 0,
+      "friendsBonusAmount": 153
+    },
+    "discountAmount": null,
+    "isNew": false,
+    "cashback": "",
+    "notify": null,
+    "groupId": 1,
+    "sellerLabel": null,
+    "isPromotional": false,
+    "hasPromotion": false,
+    "isExpressAvailable": true,
+    "isLocal": false,
+    "linkRel": null,
+    "isVerified": false,
+    "verifiedLabel": null,
+    "nutrition": {
+      "fats": "",
+      "kcal": "180",
+      "carbs": "",
+      "protein": ""
+    },
+    "ingredients": "Куриный фарш сборный",
+    "storageConditions": "Хранить при температуре от -18&deg;C до -20&deg;C",
+    "characteristics": [
+      {
+        "id": "10",
+        "name": "Глубокая заморозка",
+        "iconPng": "https://arbuz.kz/image/s3/arbuz-kz-characteristics/10-glubokaya_zamorozka.png?_c=1739163031"
+      }
+    ],
+    "topInformationBadge": "",
+    "information": "Вес: ~1000-1200 гр<br /><br />Куриный фарш из окорочков &mdash; это мясная основа, приготовленная из тёмного мяса куриных ножек (бедра и голени). Такой фарш отличается сочностью, насыщенным вкусом и умеренной жирностью благодаря наличию кожи и соединительных тканей.",
+    "rating": {
+      "value": "5,0",
+      "reviews": "1 оценка"
+    },
+    "pharmProperties": null,
+    "titleIcon": null,
+    "additionalInformation": {
+      "unitStepType": "kg",
+      "categoryLevel3Id": "225608",
+      "categoryLevel1": "Мясо и птица",
+      "categoryLevel2": "Курица, индейка и птица",
+      "categoryLevel3": "Фарш куринный",
+      "bonusesAwardedPercent": 0
+    },
+    "superAppDeeplink": "https://freedombank.onelink.me/WNLd/i3y885kw",
+    "banners": []
+  },
+  {
+    "id": "313559",
+    "catalogId": "225608",
+    "catalogName": "Фарш куринный",
+    "parentCatalogId": 225173,
+    "lang": "ru",
+    "name": "Фарш Senim Food куриный 900 г",
+    "producerCountry": "Казахстан",
+    "brandName": "Senim Food",
+    "description": "",
+    "htmlDescription": "",
+    "compound": "",
+    "uri": "/ru/almaty/catalog/item/313559-farsh_senim_food_kurinyi_900_g",
+    "image": "https://arbuz.kz/image/s3/arbuz-kz-products/image__313559-farsh_senim_food_kurinyi_900_g.jpg?w=%w&h=%h&_c=1762393178",
+    "measure": "шт",
+    "isWeighted": false,
+    "weightAvg": 0,
+    "weightMin": 1,
+    "weightMax": 10,
+    "weight": "1 шт",
+    "pieceWeightMax": 0,
+    "pieceWeightMin": 0,
+    "sellByPiece": false,
+    "quantityMinStep": 1,
+    "priceActual": 2500,
+    "priceSpecial": null,
+    "friendsDiscount": "",
+    "discount": "",
+    "pricePrevious": 0,
+    "isMain": false,
+    "isRecommended": false,
+    "recommendationType": null,
+    "articleIndex": "",
+    "articleGroup": "",
+    "barcode": "",
+    "badges": [],
+    "contents": {
+      "data": [
+        {
+          "title": "",
+          "content": ""
+        }
+      ]
+    },
+    "isAvailable": true,
+    "quantityExpress": 10,
+    "benefits": {
+      "defaultCashbackPercent": 0,
+      "friendsCashbackPercent": 5,
+      "defaultBonusAmount": 0,
+      "friendsBonusAmount": 125
+    },
+    "discountAmount": null,
+    "isNew": false,
+    "cashback": "",
+    "notify": null,
+    "groupId": 1,
+    "sellerLabel": null,
+    "isPromotional": false,
+    "hasPromotion": false,
+    "isExpressAvailable": true,
+    "isLocal": false,
+    "linkRel": null,
+    "isVerified": false,
+    "verifiedLabel": null,
+    "nutrition": {
+      "fats": "8,1",
+      "kcal": "143",
+      "carbs": "0",
+      "protein": "17,4"
+    },
+    "ingredients": "Куриное мясо, жир",
+    "storageConditions": "90 дней, от -5&deg;С до -18&deg;С",
+    "characteristics": [
+      {
+        "id": "10",
+        "name": "Глубокая заморозка",
+        "iconPng": "https://arbuz.kz/image/s3/arbuz-kz-characteristics/10-glubokaya_zamorozka.png?_c=1739163031"
+      }
+    ],
+    "topInformationBadge": "",
+    "information": "<p>Куриный фарш &mdash; это измельченное мясо курицы. Для приготовления фарша чаще используют филе или мясо грудки. В курином фарше много витаминов группы В, которые поддерживают работу центральной нервной системы, а магний и калий в составе фарша благотворно влияют на работу сердца. Из-за низкой аллергенности и калорийности мясо включают в детское и диетическое питание.</p>",
+    "rating": {
+      "value": "4,5",
+      "reviews": "3 оценки"
+    },
+    "pharmProperties": null,
+    "titleIcon": null,
+    "additionalInformation": {
+      "unitStepType": "pcs",
+      "categoryLevel3Id": "225608",
+      "categoryLevel1": "Мясо и птица",
+      "categoryLevel2": "Курица, индейка и птица",
+      "categoryLevel3": "Фарш куринный",
+      "bonusesAwardedPercent": 0
+    },
+    "superAppDeeplink": "https://freedombank.onelink.me/WNLd/ehbr92sd",
+    "banners": []
+  }
+]

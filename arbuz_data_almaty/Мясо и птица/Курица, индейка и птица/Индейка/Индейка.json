@@ -1,0 +1,2748 @@
+[
+  {
+    "id": "212863",
+    "catalogId": "19929",
+    "catalogName": "Индейка",
+    "parentCatalogId": 225173,
+    "lang": "ru",
+    "name": "Филе Дамдi Ет бедра индейки замороженное в/у кг",
+    "producerCountry": "Казахстан",
+    "brandName": "Дәмді ет",
+    "description": "",
+    "htmlDescription": "",
+    "compound": "",
+    "uri": "/ru/almaty/catalog/item/212863-file_damdi_et_bedra_indeiki_zamorozhennoe_v_u_kg",
+    "image": "https://arbuz.kz/image/s3/arbuz-kz-products/image__212863-file_damdi_et_bedra_indeiki_zamorozhennoe_v_u_kg.jpg?w=%w&h=%h&_c=1761751489",
+    "measure": "кг",
+    "isWeighted": true,
+    "weightAvg": 1,
+    "weightMin": 1,
+    "weightMax": 20,
+    "weight": "1 кг",
+    "pieceWeightMax": 0,
+    "pieceWeightMin": 1,
+    "sellByPiece": false,
+    "quantityMinStep": 1,
+    "priceActual": 4025,
+    "priceSpecial": null,
+    "friendsDiscount": "",
+    "discount": "",
+    "pricePrevious": 0,
+    "isMain": false,
+    "isRecommended": false,
+    "recommendationType": null,
+    "articleIndex": "",
+    "articleGroup": "",
+    "barcode": "",
+    "badges": [],
+    "contents": {
+      "data": [
+        {
+          "title": "",
+          "content": ""
+        }
+      ]
+    },
+    "isAvailable": true,
+    "quantityExpress": 66.595,
+    "benefits": {
+      "defaultCashbackPercent": 0,
+      "friendsCashbackPercent": 5,
+      "defaultBonusAmount": 0,
+      "friendsBonusAmount": 201
+    },
+    "discountAmount": null,
+    "isNew": false,
+    "cashback": "",
+    "notify": null,
+    "groupId": 1,
+    "sellerLabel": null,
+    "isPromotional": false,
+    "hasPromotion": false,
+    "isExpressAvailable": true,
+    "isLocal": false,
+    "linkRel": null,
+    "isVerified": false,
+    "verifiedLabel": null,
+    "nutrition": {
+      "fats": "6",
+      "kcal": "160",
+      "carbs": "4,2",
+      "protein": "19"
+    },
+    "ingredients": "<p>Филе бедра Индейки</p>",
+    "storageConditions": "<p>7 дней, от&nbsp;0&deg;C до&nbsp;4&deg;C</p>",
+    "characteristics": [
+      {
+        "id": "10",
+        "name": "Глубокая заморозка",
+        "iconPng": "https://arbuz.kz/image/s3/arbuz-kz-characteristics/10-glubokaya_zamorozka.png?_c=1739163031"
+      }
+    ],
+    "topInformationBadge": "",
+    "information": "<p>Филе бедра индейки &mdash; это одна из&nbsp;самых нежных частей индюшки. Такое мясо обладает тонким естественным ароматом, а&nbsp;по&nbsp;вкусу напоминает крольчатину. Оно нежно‐розового цвета, мягкое и&nbsp;сочное. Приготовить филе бедра можно по‐разному, но&nbsp;максимально раскрыть ароматические и&nbsp;вкусовые качества поможет запекание.</p>",
+    "rating": {
+      "value": "4,8",
+      "reviews": "30 оценок"
+    },
+    "pharmProperties": null,
+    "titleIcon": null,
+    "additionalInformation": {
+      "unitStepType": "kg",
+      "categoryLevel3Id": "19929",
+      "categoryLevel1": "Мясо и птица",
+      "categoryLevel2": "Курица, индейка и птица",
+      "categoryLevel3": "Индейка",
+      "bonusesAwardedPercent": 0
+    },
+    "superAppDeeplink": "https://freedombank.onelink.me/WNLd/tmsr5rrt",
+    "banners": []
+  },
+  {
+    "id": "298344",
+    "catalogId": "19929",
+    "catalogName": "Индейка",
+    "parentCatalogId": 225173,
+    "lang": "ru",
+    "name": "Филе индейки Arbuz Select фермерское, замороженное 900 г",
+    "producerCountry": "Казахстан",
+    "brandName": "Arbuz Select",
+    "description": "",
+    "htmlDescription": "",
+    "compound": "",
+    "uri": "/ru/almaty/catalog/item/298344-file_indeiki_arbuz_select_fermerskoe_zamorozhennoe_900_g",
+    "image": "https://arbuz.kz/image/s3/arbuz-kz-products/298344-file_indeiki_arbuz_select_0_9_kg.png?w=%w&h=%h&_c=1761198822",
+    "measure": "шт",
+    "isWeighted": false,
+    "weightAvg": 0,
+    "weightMin": 1,
+    "weightMax": 20,
+    "weight": "1 шт",
+    "pieceWeightMax": 0,
+    "pieceWeightMin": 1,
+    "sellByPiece": false,
+    "quantityMinStep": 1,
+    "priceActual": 5999,
+    "priceSpecial": null,
+    "friendsDiscount": "",
+    "discount": "",
+    "pricePrevious": 0,
+    "isMain": false,
+    "isRecommended": false,
+    "recommendationType": null,
+    "articleIndex": "",
+    "articleGroup": "",
+    "barcode": "",
+    "badges": [
+      {
+        "text": "С фермы",
+        "backgroundColor": "#F0AE2E",
+        "textColor": "#FFFFFF",
+        "position": "bottom",
+        "priority": 5
+      }
+    ],
+    "contents": {
+      "data": [
+        {
+          "title": "",
+          "content": ""
+        }
+      ]
+    },
+    "isAvailable": true,
+    "quantityExpress": 73,
+    "benefits": {
+      "defaultCashbackPercent": 0,
+      "friendsCashbackPercent": 5,
+      "defaultBonusAmount": 0,
+      "friendsBonusAmount": 300
+    },
+    "discountAmount": null,
+    "isNew": false,
+    "cashback": "",
+    "notify": null,
+    "groupId": 1,
+    "sellerLabel": null,
+    "isPromotional": false,
+    "hasPromotion": false,
+    "isExpressAvailable": true,
+    "isLocal": true,
+    "linkRel": null,
+    "isVerified": false,
+    "verifiedLabel": null,
+    "nutrition": {
+      "fats": "3,01",
+      "kcal": "107,34",
+      "carbs": "0,02",
+      "protein": "19,83"
+    },
+    "ingredients": null,
+    "storageConditions": "90 дней, -18&deg;С",
+    "characteristics": [
+      {
+        "id": "5",
+        "name": "C локальной фермы",
+        "iconPng": "https://arbuz.kz/image/s3/arbuz-kz-characteristics/5-c_lokalnoi_fermy.png?_c=1739163464"
+      },
+      {
+        "id": "6",
+        "name": "Халал",
+        "iconPng": "https://arbuz.kz/image/s3/arbuz-kz-characteristics/6-halal.png?_c=1702450629"
+      },
+      {
+        "id": "10",
+        "name": "Глубокая заморозка",
+        "iconPng": "https://arbuz.kz/image/s3/arbuz-kz-characteristics/10-glubokaya_zamorozka.png?_c=1739163031"
+      },
+      {
+        "id": "14",
+        "name": "Без антибиотиков",
+        "iconPng": "https://arbuz.kz/image/s3/arbuz-kz-characteristics/img_url__14-bez_antibiotikov.png?_c=1739517304"
+      }
+    ],
+    "topInformationBadge": "",
+    "information": "<p>Это наша грудка индейки шоковой заморозки. Натуральная грудка фермерской индейки, выращенной в экологически чистом районе Алматинской области.</p>",
+    "rating": {
+      "value": "4,8",
+      "reviews": "6 оценок"
+    },
+    "pharmProperties": null,
+    "titleIcon": null,
+    "additionalInformation": {
+      "unitStepType": "pcs",
+      "categoryLevel3Id": "19929",
+      "categoryLevel1": "Мясо и птица",
+      "categoryLevel2": "Курица, индейка и птица",
+      "categoryLevel3": "Индейка",
+      "bonusesAwardedPercent": 0
+    },
+    "superAppDeeplink": "https://freedombank.onelink.me/WNLd/yitoygv2",
+    "banners": []
+  },
+  {
+    "id": "312199",
+    "catalogId": "19929",
+    "catalogName": "Индейка",
+    "parentCatalogId": 225173,
+    "lang": "ru",
+    "name": "Фарш из мяса индейки Arbuz Select \"Элит\" кг",
+    "producerCountry": "Казахстан",
+    "brandName": "Arbuz Select",
+    "description": "",
+    "htmlDescription": "",
+    "compound": "",
+    "uri": "/ru/almaty/catalog/item/312199-farsh_iz_myasa_indeiki_arbuz_select_elit_kg",
+    "image": "https://arbuz.kz/image/s3/arbuz-kz-products/file_name__f2518f6f-c8f3-478c-9620-4cfeaae36e8f-312199_001_jpg.jpg?w=%w&h=%h&_c=1720765304",
+    "measure": "кг",
+    "isWeighted": true,
+    "weightAvg": 0,
+    "weightMin": 1,
+    "weightMax": 20,
+    "weight": "1 кг",
+    "pieceWeightMax": 0,
+    "pieceWeightMin": 1,
+    "sellByPiece": false,
+    "quantityMinStep": 1,
+    "priceActual": 5580,
+    "priceSpecial": null,
+    "friendsDiscount": "",
+    "discount": "−15%",
+    "pricePrevious": 6540,
+    "isMain": false,
+    "isRecommended": false,
+    "recommendationType": null,
+    "articleIndex": "",
+    "articleGroup": "",
+    "barcode": "",
+    "badges": [
+      {
+        "text": "−15%",
+        "backgroundColor": "#4F4F4F",
+        "textColor": "#FFFFFF",
+        "basketHidden": true,
+        "priority": 2,
+        "position": "top",
+        "type": "discount"
+      }
+    ],
+    "contents": {
+      "data": [
+        {
+          "title": "",
+          "content": ""
+        }
+      ]
+    },
+    "isAvailable": true,
+    "quantityExpress": 37.786,
+    "benefits": {
+      "defaultCashbackPercent": 0,
+      "friendsCashbackPercent": 5,
+      "defaultBonusAmount": 0,
+      "friendsBonusAmount": 279
+    },
+    "discountAmount": null,
+    "isNew": false,
+    "cashback": "",
+    "notify": null,
+    "groupId": 1,
+    "sellerLabel": null,
+    "isPromotional": false,
+    "hasPromotion": false,
+    "isExpressAvailable": true,
+    "isLocal": false,
+    "linkRel": null,
+    "isVerified": false,
+    "verifiedLabel": null,
+    "nutrition": {
+      "fats": "14",
+      "kcal": "197",
+      "carbs": "0",
+      "protein": "20"
+    },
+    "ingredients": "Фарш из мяса индейки",
+    "storageConditions": "180 дней, -18&deg;С",
+    "characteristics": [
+      {
+        "id": "10",
+        "name": "Глубокая заморозка",
+        "iconPng": "https://arbuz.kz/image/s3/arbuz-kz-characteristics/10-glubokaya_zamorozka.png?_c=1739163031"
+      },
+      {
+        "id": "14",
+        "name": "Без антибиотиков",
+        "iconPng": "https://arbuz.kz/image/s3/arbuz-kz-characteristics/img_url__14-bez_antibiotikov.png?_c=1739517304"
+      }
+    ],
+    "topInformationBadge": "",
+    "information": "Наша продукция из индейки сделана в Казахстане, без добавления консервантов и добавок. Это полностью натуральный продукт, который идеально подойдет для вкусного ужина. Сочное и нежное мясо индейки насытит вас энергией и силой. Оно легко усваивается, содержит много белка и минимум жиров.",
+    "rating": {
+      "value": "4,4",
+      "reviews": "31 оценка"
+    },
+    "pharmProperties": null,
+    "titleIcon": null,
+    "additionalInformation": {
+      "unitStepType": "kg",
+      "categoryLevel3Id": "19929",
+      "categoryLevel1": "Мясо и птица",
+      "categoryLevel2": "Курица, индейка и птица",
+      "categoryLevel3": "Индейка",
+      "bonusesAwardedPercent": 0
+    },
+    "superAppDeeplink": "https://freedombank.onelink.me/WNLd/gwundkj8",
+    "banners": []
+  },
+  {
+    "id": "200260",
+    "catalogId": "19929",
+    "catalogName": "Индейка",
+    "parentCatalogId": 225173,
+    "lang": "ru",
+    "name": "Филе Дамдi Ет грудки индейки в/у замороженное, кг",
+    "producerCountry": "Казахстан",
+    "brandName": "Дәмді ет",
+    "description": "",
+    "htmlDescription": "",
+    "compound": "",
+    "uri": "/ru/almaty/catalog/item/200260-file_damdi_et_grudki_indeiki_v_u_zamorozhennoe_kg",
+    "image": "https://arbuz.kz/image/s3/arbuz-kz-products/image__200260-file_damdi_et_grudki_indeiki_v_u_zamorozhennoe.jpeg?w=%w&h=%h&_c=1762042871",
+    "measure": "кг",
+    "isWeighted": true,
+    "weightAvg": 2,
+    "weightMin": 2,
+    "weightMax": 20,
+    "weight": "2 кг",
+    "pieceWeightMax": 0,
+    "pieceWeightMin": 2,
+    "sellByPiece": false,
+    "quantityMinStep": 2,
+    "priceActual": 4160,
+    "priceSpecial": null,
+    "friendsDiscount": "",
+    "discount": "",
+    "pricePrevious": 0,
+    "isMain": false,
+    "isRecommended": false,
+    "recommendationType": null,
+    "articleIndex": "",
+    "articleGroup": "",
+    "barcode": "",
+    "badges": [],
+    "contents": {
+      "data": [
+        {
+          "title": "",
+          "content": ""
+        }
+      ]
+    },
+    "isAvailable": true,
+    "quantityExpress": 68.869,
+    "benefits": {
+      "defaultCashbackPercent": 0,
+      "friendsCashbackPercent": 5,
+      "defaultBonusAmount": 0,
+      "friendsBonusAmount": 208
+    },
+    "discountAmount": null,
+    "isNew": false,
+    "cashback": "",
+    "notify": null,
+    "groupId": 1,
+    "sellerLabel": null,
+    "isPromotional": false,
+    "hasPromotion": false,
+    "isExpressAvailable": true,
+    "isLocal": false,
+    "linkRel": null,
+    "isVerified": false,
+    "verifiedLabel": null,
+    "nutrition": {
+      "fats": "5,6",
+      "kcal": "131,2",
+      "carbs": "0",
+      "protein": "20,2"
+    },
+    "ingredients": null,
+    "storageConditions": "<p>12 месяцев, не&nbsp;ниже -25&deg;С</p>",
+    "characteristics": [
+      {
+        "id": "10",
+        "name": "Глубокая заморозка",
+        "iconPng": "https://arbuz.kz/image/s3/arbuz-kz-characteristics/10-glubokaya_zamorozka.png?_c=1739163031"
+      }
+    ],
+    "topInformationBadge": "",
+    "information": "<p>Грудка индейки без кожи и&nbsp;косточки.</p><p>Мясо индейки подходит для приготовления абсолютно любого блюда! Будь это сочные манты, вкусный шашлык, традиционный суп-лапша или даже плов. Выбирайте сами &ndash; для вас есть и&nbsp;красное мясо, и&nbsp;белое. И&nbsp;самое главное &ndash; что мясо готовится очень быстро и&nbsp;не&nbsp;требует длительной термической обработки</p><p>Мясо индейки отличается минимальным количеством жиров (по сравнению с&nbsp;говядиной, свининой и&nbsp;мясом бройлеров). В&nbsp;100 граммах готового мяса индейки без кожи содержится лишь 1,7 граммов жира.</p><p>- Великолепные вкусовые и&nbsp;питательные качества при низких показателях содержания холестерола.</p><p>- Индейка &ndash; единственный вид мяса, не&nbsp;вызывающий аллергии. Поэтому медицина рекомендует его употреблять детям и&nbsp;пожилым людям.</p>",
+    "rating": {
+      "value": "4,6",
+      "reviews": "11 оценок"
+    },
+    "pharmProperties": null,
+    "titleIcon": null,
+    "additionalInformation": {
+      "unitStepType": "kg",
+      "categoryLevel3Id": "19929",
+      "categoryLevel1": "Мясо и птица",
+      "categoryLevel2": "Курица, индейка и птица",
+      "categoryLevel3": "Индейка",
+      "bonusesAwardedPercent": 0
+    },
+    "superAppDeeplink": "https://freedombank.onelink.me/WNLd/a9jq9swm",
+    "banners": []
+  },
+  {
+    "id": "266317",
+    "catalogId": "19929",
+    "catalogName": "Индейка",
+    "parentCatalogId": 225173,
+    "lang": "ru",
+    "name": "Филе Salima грудки индейки тонкий край замороженный 1 кг",
+    "producerCountry": "Россия",
+    "brandName": "Salima",
+    "description": "",
+    "htmlDescription": "",
+    "compound": "",
+    "uri": "/ru/almaty/catalog/item/266317-file_salima_grudki_indeiki_tonkii_krai_zamorozhennyi_1_kg",
+    "image": "https://arbuz.kz/image/s3/arbuz-kz-products/image__266317-file_salima_grudki_indeiki_tonkii_krai_zamorozhennyi_1_kg.jpg?w=%w&h=%h&_c=1759667137",
+    "measure": "шт",
+    "isWeighted": false,
+    "weightAvg": 0,
+    "weightMin": 1,
+    "weightMax": 11,
+    "weight": "1 шт",
+    "pieceWeightMax": 0,
+    "pieceWeightMin": 1,
+    "sellByPiece": false,
+    "quantityMinStep": 1,
+    "priceActual": 4830,
+    "priceSpecial": null,
+    "friendsDiscount": "",
+    "discount": "−15%",
+    "pricePrevious": 5680,
+    "isMain": false,
+    "isRecommended": false,
+    "recommendationType": null,
+    "articleIndex": "",
+    "articleGroup": "",
+    "barcode": "",
+    "badges": [
+      {
+        "text": "−15%",
+        "backgroundColor": "#4F4F4F",
+        "textColor": "#FFFFFF",
+        "basketHidden": true,
+        "priority": 2,
+        "position": "top",
+        "type": "discount"
+      }
+    ],
+    "contents": {
+      "data": [
+        {
+          "title": "",
+          "content": ""
+        }
+      ]
+    },
+    "isAvailable": true,
+    "quantityExpress": 12,
+    "benefits": {
+      "defaultCashbackPercent": 0,
+      "friendsCashbackPercent": 5,
+      "defaultBonusAmount": 0,
+      "friendsBonusAmount": 242
+    },
+    "discountAmount": null,
+    "isNew": false,
+    "cashback": "",
+    "notify": null,
+    "groupId": 1,
+    "sellerLabel": null,
+    "isPromotional": false,
+    "hasPromotion": false,
+    "isExpressAvailable": true,
+    "isLocal": false,
+    "linkRel": null,
+    "isVerified": false,
+    "verifiedLabel": null,
+    "nutrition": {
+      "fats": "2,5",
+      "kcal": "100",
+      "carbs": "0",
+      "protein": "20"
+    },
+    "ingredients": null,
+    "storageConditions": "<p>9 месяцев, не&nbsp;выше -18&deg;С в упаковке, 12 часов от&nbsp;0&deg;С до&nbsp;+4&deg;С после вскрытия упаковки</p>",
+    "characteristics": [
+      {
+        "id": "10",
+        "name": "Глубокая заморозка",
+        "iconPng": "https://arbuz.kz/image/s3/arbuz-kz-characteristics/10-glubokaya_zamorozka.png?_c=1739163031"
+      }
+    ],
+    "topInformationBadge": "",
+    "information": "<p>Мясо индейки считается диетическим продуктом из‐за большого количества легкоусвояемого белка. Самой диетической частью тушки любой птицы является грудка, у&nbsp;индейки грудная мышца практически не&nbsp;содержит жира, поэтому мясо имеет однородную структуру, бледно‐розовый цвет. Мясо индейки содержит витамины группы B (в&nbsp;частности, B3 и&nbsp;B6), цинк, селен, фосфор и&nbsp;другие важные питательные вещества. Мясо индейки можно приготовить различными способами, включая жарку, варку, запекание и&nbsp;гриль. Нежное и&nbsp;сочное филе индейки &mdash; это замечательная альтернатива для тех, кто ценит вкус и&nbsp;заботится о&nbsp;своем здоровье.</p>",
+    "rating": {
+      "value": "4,8",
+      "reviews": "12 оценок"
+    },
+    "pharmProperties": null,
+    "titleIcon": null,
+    "additionalInformation": {
+      "unitStepType": "pcs",
+      "categoryLevel3Id": "19929",
+      "categoryLevel1": "Мясо и птица",
+      "categoryLevel2": "Курица, индейка и птица",
+      "categoryLevel3": "Индейка",
+      "bonusesAwardedPercent": 0
+    },
+    "superAppDeeplink": "https://freedombank.onelink.me/WNLd/i0t89plc",
+    "banners": []
+  },
+  {
+    "id": "312196",
+    "catalogId": "19929",
+    "catalogName": "Индейка",
+    "parentCatalogId": 225173,
+    "lang": "ru",
+    "name": "Бедро индейки Arbuz Select замороженное, кг",
+    "producerCountry": "Казахстан",
+    "brandName": "Arbuz Select",
+    "description": "",
+    "htmlDescription": "",
+    "compound": "",
+    "uri": "/ru/almaty/catalog/item/312196-bedro_indeiki_arbuz_select_zamorozhennoe_kg",
+    "image": "https://arbuz.kz/image/s3/arbuz-kz-products/file_name__770d5805-e83e-48ee-a07a-713cea40f2d1-312196_001_jpg.jpg?w=%w&h=%h&_c=1720764907",
+    "measure": "кг",
+    "isWeighted": true,
+    "weightAvg": 0,
+    "weightMin": 1.2,
+    "weightMax": 20,
+    "weight": "1,2 кг",
+    "pieceWeightMax": 0,
+    "pieceWeightMin": 1.2,
+    "sellByPiece": false,
+    "quantityMinStep": 1.2,
+    "priceActual": 4799,
+    "priceSpecial": null,
+    "friendsDiscount": "",
+    "discount": "−19%",
+    "pricePrevious": 5900,
+    "isMain": false,
+    "isRecommended": false,
+    "recommendationType": null,
+    "articleIndex": "",
+    "articleGroup": "",
+    "barcode": "",
+    "badges": [
+      {
+        "text": "−19%",
+        "backgroundColor": "#4F4F4F",
+        "textColor": "#FFFFFF",
+        "basketHidden": true,
+        "priority": 2,
+        "position": "top",
+        "type": "discount"
+      }
+    ],
+    "contents": {
+      "data": [
+        {
+          "title": "",
+          "content": ""
+        }
+      ]
+    },
+    "isAvailable": true,
+    "quantityExpress": 37.702,
+    "benefits": {
+      "defaultCashbackPercent": 0,
+      "friendsCashbackPercent": 5,
+      "defaultBonusAmount": 0,
+      "friendsBonusAmount": 240
+    },
+    "discountAmount": null,
+    "isNew": false,
+    "cashback": "",
+    "notify": null,
+    "groupId": 1,
+    "sellerLabel": null,
+    "isPromotional": false,
+    "hasPromotion": false,
+    "isExpressAvailable": true,
+    "isLocal": false,
+    "linkRel": null,
+    "isVerified": false,
+    "verifiedLabel": null,
+    "nutrition": {
+      "fats": "2,7",
+      "kcal": "111",
+      "carbs": "0",
+      "protein": "20,5"
+    },
+    "ingredients": "Бедро индейки",
+    "storageConditions": "365 дней, -18 &deg;С",
+    "characteristics": [
+      {
+        "id": "10",
+        "name": "Глубокая заморозка",
+        "iconPng": "https://arbuz.kz/image/s3/arbuz-kz-characteristics/10-glubokaya_zamorozka.png?_c=1739163031"
+      },
+      {
+        "id": "14",
+        "name": "Без антибиотиков",
+        "iconPng": "https://arbuz.kz/image/s3/arbuz-kz-characteristics/img_url__14-bez_antibiotikov.png?_c=1739517304"
+      }
+    ],
+    "topInformationBadge": "",
+    "information": "Наша продукция из индейки сделана в Казахстане, без добавления консервантов и добавок. Это полностью натуральный продукт, который идеально подойдет для вкусного ужина. Сочное и нежное мясо индейки насытит вас энергией и силой. Оно легко усваивается, содержит много белка и минимум жиров.",
+    "rating": {
+      "value": "4,8",
+      "reviews": "6 оценок"
+    },
+    "pharmProperties": null,
+    "titleIcon": null,
+    "additionalInformation": {
+      "unitStepType": "kg",
+      "categoryLevel3Id": "19929",
+      "categoryLevel1": "Мясо и птица",
+      "categoryLevel2": "Курица, индейка и птица",
+      "categoryLevel3": "Индейка",
+      "bonusesAwardedPercent": 0
+    },
+    "superAppDeeplink": "https://freedombank.onelink.me/WNLd/mq4oplb7",
+    "banners": []
+  },
+  {
+    "id": "266316",
+    "catalogId": "19929",
+    "catalogName": "Индейка",
+    "parentCatalogId": 225173,
+    "lang": "ru",
+    "name": "Филе Salima бедра индейки замороженный 1 кг",
+    "producerCountry": "Россия",
+    "brandName": "Salima",
+    "description": "",
+    "htmlDescription": "",
+    "compound": "",
+    "uri": "/ru/almaty/catalog/item/266316-file_salima_bedra_indeiki_zamorozhennyi_1_kg",
+    "image": "https://arbuz.kz/image/s3/arbuz-kz-products/266316-file_salima_bedra_indeiki_zamorozhennyi_1_kg.jpg?w=%w&h=%h&_c=1761802481",
+    "measure": "шт",
+    "isWeighted": false,
+    "weightAvg": 0,
+    "weightMin": 1,
+    "weightMax": 8,
+    "weight": "1 шт",
+    "pieceWeightMax": 0,
+    "pieceWeightMin": 1,
+    "sellByPiece": false,
+    "quantityMinStep": 1,
+    "priceActual": 6640,
+    "priceSpecial": null,
+    "friendsDiscount": "",
+    "discount": "−15%",
+    "pricePrevious": 7810,
+    "isMain": false,
+    "isRecommended": false,
+    "recommendationType": null,
+    "articleIndex": "",
+    "articleGroup": "",
+    "barcode": "",
+    "badges": [
+      {
+        "text": "−15%",
+        "backgroundColor": "#4F4F4F",
+        "textColor": "#FFFFFF",
+        "basketHidden": true,
+        "priority": 2,
+        "position": "top",
+        "type": "discount"
+      }
+    ],
+    "contents": {
+      "data": [
+        {
+          "title": "",
+          "content": ""
+        }
+      ]
+    },
+    "isAvailable": true,
+    "quantityExpress": 8,
+    "benefits": {
+      "defaultCashbackPercent": 0,
+      "friendsCashbackPercent": 5,
+      "defaultBonusAmount": 0,
+      "friendsBonusAmount": 332
+    },
+    "discountAmount": null,
+    "isNew": false,
+    "cashback": "",
+    "notify": null,
+    "groupId": 1,
+    "sellerLabel": null,
+    "isPromotional": false,
+    "hasPromotion": false,
+    "isExpressAvailable": true,
+    "isLocal": false,
+    "linkRel": null,
+    "isVerified": false,
+    "verifiedLabel": null,
+    "nutrition": {
+      "fats": "9",
+      "kcal": "150",
+      "carbs": "0",
+      "protein": "16"
+    },
+    "ingredients": "<p>Филе бедра индейки</p>",
+    "storageConditions": "<p>1 год, -18&deg;C</p>",
+    "characteristics": [
+      {
+        "id": "10",
+        "name": "Глубокая заморозка",
+        "iconPng": "https://arbuz.kz/image/s3/arbuz-kz-characteristics/10-glubokaya_zamorozka.png?_c=1739163031"
+      }
+    ],
+    "topInformationBadge": "",
+    "information": "<p>Мясо бедра индейки обладает ярким насыщенным вкусом и&nbsp;ароматом. Правильно приготовленное филе бедра очень мягкое и&nbsp;просто тает во&nbsp;рту. Идеально для тушения и&nbsp;томления с&nbsp;овощами и&nbsp;специями.</p>",
+    "rating": {
+      "value": "4,8",
+      "reviews": "3 оценки"
+    },
+    "pharmProperties": null,
+    "titleIcon": null,
+    "additionalInformation": {
+      "unitStepType": "pcs",
+      "categoryLevel3Id": "19929",
+      "categoryLevel1": "Мясо и птица",
+      "categoryLevel2": "Курица, индейка и птица",
+      "categoryLevel3": "Индейка",
+      "bonusesAwardedPercent": 0
+    },
+    "superAppDeeplink": "https://freedombank.onelink.me/WNLd/k6w2vqny",
+    "banners": []
+  },
+  {
+    "id": "269649",
+    "catalogId": "19929",
+    "catalogName": "Индейка",
+    "parentCatalogId": 225173,
+    "lang": "ru",
+    "name": "Медальоны Дәмді ет из голени индейки, замороженное в вакууме кг",
+    "producerCountry": "Казахстан",
+    "brandName": "Дәмді ет",
+    "description": "",
+    "htmlDescription": "",
+    "compound": "",
+    "uri": "/ru/almaty/catalog/item/269649-medalony_d_md_et_iz_goleni_indeiki_zamorozhennoe_v_vakuume_kg",
+    "image": "https://arbuz.kz/image/s3/arbuz-kz-products/image__269649-medalony_d_md_et_iz_goleni_indeiki_zamorozhennoe_v_vakuume_kg.jpg?w=%w&h=%h&_c=1758798262",
+    "measure": "кг",
+    "isWeighted": true,
+    "weightAvg": 1,
+    "weightMin": 0.8,
+    "weightMax": 14.976,
+    "weight": "0,8 кг",
+    "pieceWeightMax": 0,
+    "pieceWeightMin": 0.8,
+    "sellByPiece": false,
+    "quantityMinStep": 0.8,
+    "priceActual": 2880,
+    "priceSpecial": null,
+    "friendsDiscount": "",
+    "discount": "",
+    "pricePrevious": 0,
+    "isMain": false,
+    "isRecommended": false,
+    "recommendationType": null,
+    "articleIndex": "",
+    "articleGroup": "",
+    "barcode": "",
+    "badges": [],
+    "contents": {
+      "data": [
+        {
+          "title": "",
+          "content": ""
+        }
+      ]
+    },
+    "isAvailable": true,
+    "quantityExpress": 16.738,
+    "benefits": {
+      "defaultCashbackPercent": 0,
+      "friendsCashbackPercent": 5,
+      "defaultBonusAmount": 0,
+      "friendsBonusAmount": 144
+    },
+    "discountAmount": null,
+    "isNew": false,
+    "cashback": "",
+    "notify": null,
+    "groupId": 1,
+    "sellerLabel": null,
+    "isPromotional": false,
+    "hasPromotion": false,
+    "isExpressAvailable": true,
+    "isLocal": false,
+    "linkRel": null,
+    "isVerified": false,
+    "verifiedLabel": null,
+    "nutrition": {
+      "fats": "7,4",
+      "kcal": "134",
+      "carbs": "0",
+      "protein": "15,8"
+    },
+    "ingredients": null,
+    "storageConditions": "<p>не ниже -18&deg;</p>",
+    "characteristics": [
+      {
+        "id": "10",
+        "name": "Глубокая заморозка",
+        "iconPng": "https://arbuz.kz/image/s3/arbuz-kz-characteristics/10-glubokaya_zamorozka.png?_c=1739163031"
+      }
+    ],
+    "topInformationBadge": "",
+    "information": "<p>Среди рецептов блюд из&nbsp;мяса птицы оригинальностью выделяются медальоны из&nbsp;индейки. Их&nbsp;можно как запекать, так и&nbsp;жарить. При правильном приготовлении они окажутся необыкновенно вкусными и&nbsp;полезными для вашего организма.</p>",
+    "rating": {
+      "value": "4,8",
+      "reviews": "16 оценок"
+    },
+    "pharmProperties": null,
+    "titleIcon": null,
+    "additionalInformation": {
+      "unitStepType": "kg",
+      "categoryLevel3Id": "19929",
+      "categoryLevel1": "Мясо и птица",
+      "categoryLevel2": "Курица, индейка и птица",
+      "categoryLevel3": "Индейка",
+      "bonusesAwardedPercent": 0
+    },
+    "superAppDeeplink": "https://freedombank.onelink.me/WNLd/qhmajvrp",
+    "banners": []
+  },
+  {
+    "id": "312197",
+    "catalogId": "19929",
+    "catalogName": "Индейка",
+    "parentCatalogId": 225173,
+    "lang": "ru",
+    "name": "Филе бедра индейки Arbuz Select замороженное кг",
+    "producerCountry": "Казахстан",
+    "brandName": "Arbuz Select",
+    "description": "",
+    "htmlDescription": "",
+    "compound": "",
+    "uri": "/ru/almaty/catalog/item/312197-file_bedra_indeiki_arbuz_select_zamorozhennoe_kg",
+    "image": "https://arbuz.kz/image/s3/arbuz-kz-products/file_name__5b6c2f0c-efff-4ef1-b77a-9a619694e3a3-312197_001_jpg.jpg?w=%w&h=%h&_c=1720765765",
+    "measure": "кг",
+    "isWeighted": true,
+    "weightAvg": 0,
+    "weightMin": 1,
+    "weightMax": 20,
+    "weight": "1 кг",
+    "pieceWeightMax": 0,
+    "pieceWeightMin": 1,
+    "sellByPiece": false,
+    "quantityMinStep": 1,
+    "priceActual": 5580,
+    "priceSpecial": null,
+    "friendsDiscount": "",
+    "discount": "−11%",
+    "pricePrevious": 6250,
+    "isMain": false,
+    "isRecommended": false,
+    "recommendationType": null,
+    "articleIndex": "",
+    "articleGroup": "",
+    "barcode": "",
+    "badges": [
+      {
+        "text": "−11%",
+        "backgroundColor": "#4F4F4F",
+        "textColor": "#FFFFFF",
+        "basketHidden": true,
+        "priority": 2,
+        "position": "top",
+        "type": "discount"
+      }
+    ],
+    "contents": {
+      "data": [
+        {
+          "title": "",
+          "content": ""
+        }
+      ]
+    },
+    "isAvailable": true,
+    "quantityExpress": 37.964,
+    "benefits": {
+      "defaultCashbackPercent": 0,
+      "friendsCashbackPercent": 5,
+      "defaultBonusAmount": 0,
+      "friendsBonusAmount": 279
+    },
+    "discountAmount": null,
+    "isNew": false,
+    "cashback": "",
+    "notify": null,
+    "groupId": 1,
+    "sellerLabel": null,
+    "isPromotional": false,
+    "hasPromotion": false,
+    "isExpressAvailable": true,
+    "isLocal": false,
+    "linkRel": null,
+    "isVerified": false,
+    "verifiedLabel": null,
+    "nutrition": {
+      "fats": "9,2",
+      "kcal": "197",
+      "carbs": "0",
+      "protein": "20,5"
+    },
+    "ingredients": "Бедро индейки",
+    "storageConditions": "365 дней, -18&deg;С",
+    "characteristics": [
+      {
+        "id": "10",
+        "name": "Глубокая заморозка",
+        "iconPng": "https://arbuz.kz/image/s3/arbuz-kz-characteristics/10-glubokaya_zamorozka.png?_c=1739163031"
+      },
+      {
+        "id": "14",
+        "name": "Без антибиотиков",
+        "iconPng": "https://arbuz.kz/image/s3/arbuz-kz-characteristics/img_url__14-bez_antibiotikov.png?_c=1739517304"
+      }
+    ],
+    "topInformationBadge": "",
+    "information": "Наша продукция из индейки сделана в Казахстане, без добавления консервантов и добавок. Это полностью натуральный продукт, который идеально подойдет для вкусного ужина. Сочное и нежное мясо индейки насытит вас энергией и силой. Оно легко усваивается, содержит много белка и минимум жиров.",
+    "rating": {
+      "value": "4,2",
+      "reviews": "17 оценок"
+    },
+    "pharmProperties": null,
+    "titleIcon": null,
+    "additionalInformation": {
+      "unitStepType": "kg",
+      "categoryLevel3Id": "19929",
+      "categoryLevel1": "Мясо и птица",
+      "categoryLevel2": "Курица, индейка и птица",
+      "categoryLevel3": "Индейка",
+      "bonusesAwardedPercent": 0
+    },
+    "superAppDeeplink": "https://freedombank.onelink.me/WNLd/uv6ej5vr",
+    "banners": []
+  },
+  {
+    "id": "91774",
+    "catalogId": "19929",
+    "catalogName": "Индейка",
+    "parentCatalogId": 225173,
+    "lang": "ru",
+    "name": "Бедро индейки Дамдi Ет замороженное",
+    "producerCountry": "Казахстан",
+    "brandName": "Ордабасы Кус",
+    "description": "",
+    "htmlDescription": "",
+    "compound": "",
+    "uri": "/ru/almaty/catalog/item/91774-bedro_indeiki_damdi_et_zamorozhennoe",
+    "image": "https://arbuz.kz/image/s3/arbuz-kz-products/91774-bedro_indeiki_damdi_et_zamorozhennoe.jpeg?w=%w&h=%h&_c=1762860620",
+    "measure": "кг",
+    "isWeighted": true,
+    "weightAvg": 1.1,
+    "weightMin": 1.1,
+    "weightMax": 18.076,
+    "weight": "1,1 кг",
+    "pieceWeightMax": 0,
+    "pieceWeightMin": 1.1,
+    "sellByPiece": false,
+    "quantityMinStep": 1.1,
+    "priceActual": 3265,
+    "priceSpecial": null,
+    "friendsDiscount": "",
+    "discount": "",
+    "pricePrevious": 0,
+    "isMain": false,
+    "isRecommended": false,
+    "recommendationType": null,
+    "articleIndex": "",
+    "articleGroup": "",
+    "barcode": "",
+    "badges": [],
+    "contents": {
+      "data": [
+        {
+          "title": "",
+          "content": ""
+        }
+      ]
+    },
+    "isAvailable": true,
+    "quantityExpress": 20.196,
+    "benefits": {
+      "defaultCashbackPercent": 0,
+      "friendsCashbackPercent": 5,
+      "defaultBonusAmount": 0,
+      "friendsBonusAmount": 163
+    },
+    "discountAmount": null,
+    "isNew": false,
+    "cashback": "",
+    "notify": null,
+    "groupId": 1,
+    "sellerLabel": null,
+    "isPromotional": false,
+    "hasPromotion": false,
+    "isExpressAvailable": true,
+    "isLocal": false,
+    "linkRel": null,
+    "isVerified": false,
+    "verifiedLabel": null,
+    "nutrition": null,
+    "ingredients": null,
+    "storageConditions": null,
+    "characteristics": [
+      {
+        "id": "10",
+        "name": "Глубокая заморозка",
+        "iconPng": "https://arbuz.kz/image/s3/arbuz-kz-characteristics/10-glubokaya_zamorozka.png?_c=1739163031"
+      }
+    ],
+    "topInformationBadge": "",
+    "information": "<p>Мясо индейки - вкусное, нежное и крайне питательное. Оно богато витаминами и микроэлементами, а фосфора в нем столько же, сколько и в рыбе. При низком содержании холестерина и высоких диетических качествах это мясо не менее питательно, чем традиционная говядина. При этом индейка отлично усваивается организмом. Заказать бедро индейки вы можете в нашем интернет-магазине по телефону или онлайн.</p>",
+    "rating": {
+      "value": "4,7",
+      "reviews": "9 оценок"
+    },
+    "pharmProperties": null,
+    "titleIcon": null,
+    "additionalInformation": {
+      "unitStepType": "kg",
+      "categoryLevel3Id": "19929",
+      "categoryLevel1": "Мясо и птица",
+      "categoryLevel2": "Курица, индейка и птица",
+      "categoryLevel3": "Индейка",
+      "bonusesAwardedPercent": 0
+    },
+    "superAppDeeplink": "https://freedombank.onelink.me/WNLd/y62y3v5m",
+    "banners": []
+  },
+  {
+    "id": "246584",
+    "catalogId": "19929",
+    "catalogName": "Индейка",
+    "parentCatalogId": 225173,
+    "lang": "ru",
+    "name": "Печень Дәмді ет на подложке замороженная кг",
+    "producerCountry": "Казахстан",
+    "brandName": "Дәмді ет",
+    "description": "",
+    "htmlDescription": "",
+    "compound": "",
+    "uri": "/ru/almaty/catalog/item/246584-pechen_d_md_et_na_podlozhke_zamorozhennaya_kg",
+    "image": "https://arbuz.kz/image/s3/arbuz-kz-products/246584-pechen_d_md_et_na_podlozhke_zamorozhennaya_kg.jpeg?w=%w&h=%h&_c=1762770054",
+    "measure": "кг",
+    "isWeighted": true,
+    "weightAvg": 0,
+    "weightMin": 1,
+    "weightMax": 20,
+    "weight": "1 кг",
+    "pieceWeightMax": 0,
+    "pieceWeightMin": 1,
+    "sellByPiece": false,
+    "quantityMinStep": 1,
+    "priceActual": 2170,
+    "priceSpecial": null,
+    "friendsDiscount": "",
+    "discount": "",
+    "pricePrevious": 0,
+    "isMain": false,
+    "isRecommended": false,
+    "recommendationType": null,
+    "articleIndex": "",
+    "articleGroup": "",
+    "barcode": "",
+    "badges": [],
+    "contents": {
+      "data": [
+        {
+          "title": "",
+          "content": ""
+        }
+      ]
+    },
+    "isAvailable": true,
+    "quantityExpress": 38.132,
+    "benefits": {
+      "defaultCashbackPercent": 0,
+      "friendsCashbackPercent": 5,
+      "defaultBonusAmount": 0,
+      "friendsBonusAmount": 109
+    },
+    "discountAmount": null,
+    "isNew": false,
+    "cashback": "",
+    "notify": null,
+    "groupId": 1,
+    "sellerLabel": null,
+    "isPromotional": false,
+    "hasPromotion": false,
+    "isExpressAvailable": true,
+    "isLocal": false,
+    "linkRel": null,
+    "isVerified": false,
+    "verifiedLabel": null,
+    "nutrition": null,
+    "ingredients": null,
+    "storageConditions": null,
+    "characteristics": [
+      {
+        "id": "10",
+        "name": "Глубокая заморозка",
+        "iconPng": "https://arbuz.kz/image/s3/arbuz-kz-characteristics/10-glubokaya_zamorozka.png?_c=1739163031"
+      }
+    ],
+    "topInformationBadge": "",
+    "information": "<p>Печень индейки замечательно подходит для приготовления жаркого, ее можно потушить с луком и сметаной &laquo;по-строгановски&raquo;, сделать из печени индейки замечательный домашний паштет для тостов и бутербродов.</p>",
+    "rating": {
+      "value": "4,8",
+      "reviews": "12 оценок"
+    },
+    "pharmProperties": null,
+    "titleIcon": null,
+    "additionalInformation": {
+      "unitStepType": "kg",
+      "categoryLevel3Id": "19929",
+      "categoryLevel1": "Мясо и птица",
+      "categoryLevel2": "Курица, индейка и птица",
+      "categoryLevel3": "Индейка",
+      "bonusesAwardedPercent": 0
+    },
+    "superAppDeeplink": "https://freedombank.onelink.me/WNLd/xzavmdbx",
+    "banners": []
+  },
+  {
+    "id": "246585",
+    "catalogId": "224640",
+    "catalogName": "Индейка",
+    "parentCatalogId": 225609,
+    "lang": "ru",
+    "name": "Грудка индейки Дәмді ет Майлыкент в маринаде кг",
+    "producerCountry": "Казахстан",
+    "brandName": "Дәмді ет",
+    "description": "",
+    "htmlDescription": "",
+    "compound": "",
+    "uri": "/ru/almaty/catalog/item/246585-grudka_indeiki_d_md_et_mailykent_v_marinade_kg",
+    "image": "https://arbuz.kz/image/s3/arbuz-kz-products/246585-grudka_indeiki_d_md_et_mailykent_v_marinade_kg.jpg?w=%w&h=%h&_c=1761579964",
+    "measure": "кг",
+    "isWeighted": true,
+    "weightAvg": 0,
+    "weightMin": 1,
+    "weightMax": 15.658,
+    "weight": "1 кг",
+    "pieceWeightMax": 0,
+    "pieceWeightMin": 1,
+    "sellByPiece": false,
+    "quantityMinStep": 1,
+    "priceActual": 4300,
+    "priceSpecial": null,
+    "friendsDiscount": "",
+    "discount": "",
+    "pricePrevious": 0,
+    "isMain": false,
+    "isRecommended": false,
+    "recommendationType": null,
+    "articleIndex": "",
+    "articleGroup": "",
+    "barcode": "",
+    "badges": [],
+    "contents": {
+      "data": [
+        {
+          "title": "",
+          "content": ""
+        }
+      ]
+    },
+    "isAvailable": true,
+    "quantityExpress": 16.658,
+    "benefits": {
+      "defaultCashbackPercent": 0,
+      "friendsCashbackPercent": 5,
+      "defaultBonusAmount": 0,
+      "friendsBonusAmount": 215
+    },
+    "discountAmount": null,
+    "isNew": false,
+    "cashback": "",
+    "notify": null,
+    "groupId": 1,
+    "sellerLabel": null,
+    "isPromotional": false,
+    "hasPromotion": false,
+    "isExpressAvailable": true,
+    "isLocal": false,
+    "linkRel": null,
+    "isVerified": false,
+    "verifiedLabel": null,
+    "nutrition": null,
+    "ingredients": "грудинка&nbsp;индейки,&nbsp;соль,&nbsp;специи",
+    "storageConditions": null,
+    "characteristics": [
+      {
+        "id": "10",
+        "name": "Глубокая заморозка",
+        "iconPng": "https://arbuz.kz/image/s3/arbuz-kz-characteristics/10-glubokaya_zamorozka.png?_c=1739163031"
+      }
+    ],
+    "topInformationBadge": "",
+    "information": "<p>Мясо индейки &mdash; основа полноценного здорового питания. Этот продукт содержит в себе все необходимые организму человека питательные вещества, витамины и микроэлементы, при этом являясь диетическим уникальным продуктом с высочайшими вкусовыми достоинствами.</p>",
+    "rating": {
+      "value": "4,8",
+      "reviews": "4 оценки"
+    },
+    "pharmProperties": null,
+    "titleIcon": null,
+    "additionalInformation": {
+      "unitStepType": "kg",
+      "categoryLevel3Id": "224640",
+      "categoryLevel1": "Мясо и птица",
+      "categoryLevel2": "Полуфабрикаты и маринады",
+      "categoryLevel3": "Полуфабрикаты в маринаде",
+      "bonusesAwardedPercent": 0
+    },
+    "superAppDeeplink": "https://freedombank.onelink.me/WNLd/h5ccirb6",
+    "banners": []
+  },
+  {
+    "id": "312198",
+    "catalogId": "19929",
+    "catalogName": "Индейка",
+    "parentCatalogId": 225173,
+    "lang": "ru",
+    "name": "Крыло индейки Arbuz Select кг",
+    "producerCountry": "Казахстан",
+    "brandName": "Arbuz Select",
+    "description": "",
+    "htmlDescription": "",
+    "compound": "",
+    "uri": "/ru/almaty/catalog/item/312198-krylo_indeiki_arbuz_select_kg",
+    "image": "https://arbuz.kz/image/s3/arbuz-kz-products/file_name__bffbf9f6-83f2-4cc7-b4e0-a348acfae911-312198_001_jpg.jpg?w=%w&h=%h&_c=1720766007",
+    "measure": "кг",
+    "isWeighted": true,
+    "weightAvg": 0,
+    "weightMin": 0.5,
+    "weightMax": 20,
+    "weight": "0,5 кг",
+    "pieceWeightMax": 0,
+    "pieceWeightMin": 0.5,
+    "sellByPiece": false,
+    "quantityMinStep": 0.5,
+    "priceActual": 2490,
+    "priceSpecial": null,
+    "friendsDiscount": "",
+    "discount": "−30%",
+    "pricePrevious": 3540,
+    "isMain": false,
+    "isRecommended": false,
+    "recommendationType": null,
+    "articleIndex": "",
+    "articleGroup": "",
+    "barcode": "",
+    "badges": [
+      {
+        "text": "−30%",
+        "backgroundColor": "#4F4F4F",
+        "textColor": "#FFFFFF",
+        "basketHidden": true,
+        "priority": 2,
+        "position": "top",
+        "type": "discount"
+      }
+    ],
+    "contents": {
+      "data": [
+        {
+          "title": "",
+          "content": ""
+        }
+      ]
+    },
+    "isAvailable": true,
+    "quantityExpress": 29.038,
+    "benefits": {
+      "defaultCashbackPercent": 0,
+      "friendsCashbackPercent": 5,
+      "defaultBonusAmount": 0,
+      "friendsBonusAmount": 125
+    },
+    "discountAmount": null,
+    "isNew": false,
+    "cashback": "",
+    "notify": null,
+    "groupId": 1,
+    "sellerLabel": null,
+    "isPromotional": false,
+    "hasPromotion": false,
+    "isExpressAvailable": true,
+    "isLocal": false,
+    "linkRel": null,
+    "isVerified": false,
+    "verifiedLabel": null,
+    "nutrition": {
+      "fats": "12,3",
+      "kcal": "197",
+      "carbs": "0",
+      "protein": "20,2"
+    },
+    "ingredients": "Крыло индейки",
+    "storageConditions": "365 дней, -18&deg;С",
+    "characteristics": [
+      {
+        "id": "10",
+        "name": "Глубокая заморозка",
+        "iconPng": "https://arbuz.kz/image/s3/arbuz-kz-characteristics/10-glubokaya_zamorozka.png?_c=1739163031"
+      },
+      {
+        "id": "14",
+        "name": "Без антибиотиков",
+        "iconPng": "https://arbuz.kz/image/s3/arbuz-kz-characteristics/img_url__14-bez_antibiotikov.png?_c=1739517304"
+      }
+    ],
+    "topInformationBadge": "",
+    "information": "Наша продукция из индейки сделана в Казахстане, без добавления консервантов и добавок. Это полностью натуральный продукт, который идеально подойдет для вкусного ужина. Сочное и нежное мясо индейки насытит вас энергией и силой. Оно легко усваивается, содержит много белка и минимум жиров.",
+    "rating": {
+      "value": "4,1",
+      "reviews": "20 оценок"
+    },
+    "pharmProperties": null,
+    "titleIcon": null,
+    "additionalInformation": {
+      "unitStepType": "kg",
+      "categoryLevel3Id": "19929",
+      "categoryLevel1": "Мясо и птица",
+      "categoryLevel2": "Курица, индейка и птица",
+      "categoryLevel3": "Индейка",
+      "bonusesAwardedPercent": 0
+    },
+    "superAppDeeplink": "https://freedombank.onelink.me/WNLd/epbyi5s0",
+    "banners": []
+  },
+  {
+    "id": "312861",
+    "catalogId": "19929",
+    "catalogName": "Индейка",
+    "parentCatalogId": 225173,
+    "lang": "ru",
+    "name": "Фарш Mfood.kz из филе индейки, 1 кг",
+    "producerCountry": "Казахстан",
+    "brandName": "Mfood.kz",
+    "description": "",
+    "htmlDescription": "",
+    "compound": "",
+    "uri": "/ru/almaty/catalog/item/312861-farsh_mfood_kz_iz_file_indeiki_1_kg",
+    "image": "https://arbuz.kz/image/s3/arbuz-kz-products/image__312861-farsh_mfood_kz_iz_file_indeiki_1_kg.jpg?w=%w&h=%h&_c=1761737247",
+    "measure": "шт",
+    "isWeighted": false,
+    "weightAvg": 0,
+    "weightMin": 1,
+    "weightMax": 7,
+    "weight": "1 шт",
+    "pieceWeightMax": 0,
+    "pieceWeightMin": 1,
+    "sellByPiece": false,
+    "quantityMinStep": 1,
+    "priceActual": 6840,
+    "priceSpecial": null,
+    "friendsDiscount": "",
+    "discount": "",
+    "pricePrevious": 0,
+    "isMain": false,
+    "isRecommended": false,
+    "recommendationType": null,
+    "articleIndex": "",
+    "articleGroup": "",
+    "barcode": "",
+    "badges": [],
+    "contents": {
+      "data": [
+        {
+          "title": "",
+          "content": ""
+        }
+      ]
+    },
+    "isAvailable": true,
+    "quantityExpress": 7,
+    "benefits": {
+      "defaultCashbackPercent": 0,
+      "friendsCashbackPercent": 5,
+      "defaultBonusAmount": 0,
+      "friendsBonusAmount": 342
+    },
+    "discountAmount": null,
+    "isNew": false,
+    "cashback": "",
+    "notify": null,
+    "groupId": 1,
+    "sellerLabel": null,
+    "isPromotional": false,
+    "hasPromotion": false,
+    "isExpressAvailable": true,
+    "isLocal": false,
+    "linkRel": null,
+    "isVerified": false,
+    "verifiedLabel": null,
+    "nutrition": null,
+    "ingredients": "Филе индейки",
+    "storageConditions": "хранить при -18",
+    "characteristics": [
+      {
+        "id": "10",
+        "name": "Глубокая заморозка",
+        "iconPng": "https://arbuz.kz/image/s3/arbuz-kz-characteristics/10-glubokaya_zamorozka.png?_c=1739163031"
+      }
+    ],
+    "topInformationBadge": "",
+    "information": "Фарш из филе индейки &mdash; это мясной продукт, изготовленный из диетического и нежного мяса индейки, которое тщательно измельчается до состояния готовности к приготовлению. Он отличается низким содержанием жиров и высоким содержанием белка, что делает его здоровым выбором для различных диетических рационов. Индюшачий фарш часто используется для приготовления котлет, мясных шариков, лепешек и других блюд, где важно сохранить нежность и легкий вкус мяса.",
+    "rating": {
+      "value": "4,8",
+      "reviews": "2 оценки"
+    },
+    "pharmProperties": null,
+    "titleIcon": null,
+    "additionalInformation": {
+      "unitStepType": "pcs",
+      "categoryLevel3Id": "19929",
+      "categoryLevel1": "Мясо и птица",
+      "categoryLevel2": "Курица, индейка и птица",
+      "categoryLevel3": "Индейка",
+      "bonusesAwardedPercent": 0
+    },
+    "superAppDeeplink": "https://freedombank.onelink.me/WNLd/txhqw3ob",
+    "banners": []
+  },
+  {
+    "id": "196761",
+    "catalogId": "19929",
+    "catalogName": "Индейка",
+    "parentCatalogId": 225173,
+    "lang": "ru",
+    "name": "Крыло Дамдi Ет индейки замороженное, вакуумная упаковка кг",
+    "producerCountry": "Казахстан",
+    "brandName": "Дәмді ет",
+    "description": "",
+    "htmlDescription": "",
+    "compound": "",
+    "uri": "/ru/almaty/catalog/item/196761-krylo_damdi_et_indeiki_zamorozhennoe_vakuumnaya_upakovka_kg",
+    "image": "https://arbuz.kz/image/s3/arbuz-kz-products/image__196761-krylo_damdi_et_indeiki_zamorozhennoe_vakuumnaya_upakovka_kg.jpg?w=%w&h=%h&_c=1761751424",
+    "measure": "кг",
+    "isWeighted": true,
+    "weightAvg": 2,
+    "weightMin": 1,
+    "weightMax": 18.506,
+    "weight": "1 кг",
+    "pieceWeightMax": 0,
+    "pieceWeightMin": 1,
+    "sellByPiece": false,
+    "quantityMinStep": 1,
+    "priceActual": 1765,
+    "priceSpecial": null,
+    "friendsDiscount": "",
+    "discount": "",
+    "pricePrevious": 0,
+    "isMain": true,
+    "isRecommended": false,
+    "recommendationType": null,
+    "articleIndex": "",
+    "articleGroup": "",
+    "barcode": "",
+    "badges": [],
+    "contents": {
+      "data": [
+        {
+          "title": "",
+          "content": ""
+        }
+      ]
+    },
+    "isAvailable": true,
+    "quantityExpress": 20.682,
+    "benefits": {
+      "defaultCashbackPercent": 0,
+      "friendsCashbackPercent": 5,
+      "defaultBonusAmount": 0,
+      "friendsBonusAmount": 88
+    },
+    "discountAmount": null,
+    "isNew": false,
+    "cashback": "",
+    "notify": null,
+    "groupId": 1,
+    "sellerLabel": null,
+    "isPromotional": false,
+    "hasPromotion": false,
+    "isExpressAvailable": true,
+    "isLocal": false,
+    "linkRel": null,
+    "isVerified": false,
+    "verifiedLabel": null,
+    "nutrition": null,
+    "ingredients": null,
+    "storageConditions": null,
+    "characteristics": [
+      {
+        "id": "10",
+        "name": "Глубокая заморозка",
+        "iconPng": "https://arbuz.kz/image/s3/arbuz-kz-characteristics/10-glubokaya_zamorozka.png?_c=1739163031"
+      }
+    ],
+    "topInformationBadge": "",
+    "information": "<p>Мясо индейки &mdash;&nbsp;вкусное, нежное и крайне питательное. Оно богато витаминами и микроэлементами, а фосфора в нем столько же, сколько и в рыбе. При низком содержании холестерина и высоких диетических качествах это мясо не менее питательно, чем традиционная говядина. При этом индейка отлично усваивается организмом.&nbsp;</p>",
+    "rating": {
+      "value": "4,7",
+      "reviews": "14 оценок"
+    },
+    "pharmProperties": null,
+    "titleIcon": null,
+    "additionalInformation": {
+      "unitStepType": "kg",
+      "categoryLevel3Id": "19929",
+      "categoryLevel1": "Мясо и птица",
+      "categoryLevel2": "Курица, индейка и птица",
+      "categoryLevel3": "Индейка",
+      "bonusesAwardedPercent": 0
+    },
+    "superAppDeeplink": "https://freedombank.onelink.me/WNLd/nkgmqhqw",
+    "banners": []
+  },
+  {
+    "id": "269650",
+    "catalogId": "19929",
+    "catalogName": "Индейка",
+    "parentCatalogId": 225173,
+    "lang": "ru",
+    "name": "Шейки Дәмді ет индейки, замороженная в вакууме кг",
+    "producerCountry": "Казахстан",
+    "brandName": "Дәмді ет",
+    "description": "",
+    "htmlDescription": "",
+    "compound": "",
+    "uri": "/ru/almaty/catalog/item/269650-sheiki_d_md_et_indeiki_zamorozhennaya_v_vakuume_kg",
+    "image": "https://arbuz.kz/image/s3/arbuz-kz-products/image__269650-sheiki_d_md_et_indeiki_zamorozhennaya_v_vakuume_kg.jpg?w=%w&h=%h&_c=1758798273",
+    "measure": "кг",
+    "isWeighted": true,
+    "weightAvg": 0,
+    "weightMin": 1,
+    "weightMax": 18.142,
+    "weight": "1 кг",
+    "pieceWeightMax": 0,
+    "pieceWeightMin": 1,
+    "sellByPiece": false,
+    "quantityMinStep": 1,
+    "priceActual": 1580,
+    "priceSpecial": null,
+    "friendsDiscount": "",
+    "discount": "",
+    "pricePrevious": 0,
+    "isMain": false,
+    "isRecommended": false,
+    "recommendationType": null,
+    "articleIndex": "",
+    "articleGroup": "",
+    "barcode": "",
+    "badges": [],
+    "contents": {
+      "data": [
+        {
+          "title": "",
+          "content": ""
+        }
+      ]
+    },
+    "isAvailable": true,
+    "quantityExpress": 18.142,
+    "benefits": {
+      "defaultCashbackPercent": 0,
+      "friendsCashbackPercent": 5,
+      "defaultBonusAmount": 0,
+      "friendsBonusAmount": 79
+    },
+    "discountAmount": null,
+    "isNew": false,
+    "cashback": "",
+    "notify": null,
+    "groupId": 1,
+    "sellerLabel": null,
+    "isPromotional": false,
+    "hasPromotion": false,
+    "isExpressAvailable": true,
+    "isLocal": false,
+    "linkRel": null,
+    "isVerified": false,
+    "verifiedLabel": null,
+    "nutrition": {
+      "fats": "16,8",
+      "kcal": "197,2",
+      "carbs": "0",
+      "protein": "11,5"
+    },
+    "ingredients": "Шейки индейки",
+    "storageConditions": null,
+    "characteristics": [
+      {
+        "id": "10",
+        "name": "Глубокая заморозка",
+        "iconPng": "https://arbuz.kz/image/s3/arbuz-kz-characteristics/10-glubokaya_zamorozka.png?_c=1739163031"
+      }
+    ],
+    "topInformationBadge": "",
+    "information": "<p>Шея индейки идеальная для тушения или запекания, а также для приготовления наваристых супов. Блюда получаются вкусными, сытными и полезными.&nbsp;</p>",
+    "rating": {
+      "value": "4,5",
+      "reviews": "5 оценок"
+    },
+    "pharmProperties": null,
+    "titleIcon": null,
+    "additionalInformation": {
+      "unitStepType": "kg",
+      "categoryLevel3Id": "19929",
+      "categoryLevel1": "Мясо и птица",
+      "categoryLevel2": "Курица, индейка и птица",
+      "categoryLevel3": "Индейка",
+      "bonusesAwardedPercent": 0
+    },
+    "superAppDeeplink": "https://freedombank.onelink.me/WNLd/6z2qc87a",
+    "banners": []
+  },
+  {
+    "id": "203611",
+    "catalogId": "224640",
+    "catalogName": "Индейка",
+    "parentCatalogId": 225609,
+    "lang": "ru",
+    "name": "Крыло Дамдi Ет индейки плечевая часть в маринаде замороженная кг",
+    "producerCountry": "Казахстан",
+    "brandName": "Дәмді ет",
+    "description": "",
+    "htmlDescription": "",
+    "compound": "",
+    "uri": "/ru/almaty/catalog/item/203611-krylo_damdi_et_indeiki_plechevaya_chast_v_marinade_zamorozhennaya_kg",
+    "image": "https://arbuz.kz/image/s3/arbuz-kz-products/203611-39-krylo_indeiki_damdi__ru.jpg?w=%w&h=%h&_c=1760581142",
+    "measure": "кг",
+    "isWeighted": true,
+    "weightAvg": 1.5,
+    "weightMin": 1.2,
+    "weightMax": 16.364,
+    "weight": "1,2 кг",
+    "pieceWeightMax": 0,
+    "pieceWeightMin": 1.2,
+    "sellByPiece": false,
+    "quantityMinStep": 1.2,
+    "priceActual": 2960,
+    "priceSpecial": null,
+    "friendsDiscount": "",
+    "discount": "",
+    "pricePrevious": 0,
+    "isMain": false,
+    "isRecommended": true,
+    "recommendationType": null,
+    "articleIndex": "",
+    "articleGroup": "",
+    "barcode": "",
+    "badges": [],
+    "contents": {
+      "data": [
+        {
+          "title": "",
+          "content": ""
+        }
+      ]
+    },
+    "isAvailable": true,
+    "quantityExpress": 16.364,
+    "benefits": {
+      "defaultCashbackPercent": 0,
+      "friendsCashbackPercent": 5,
+      "defaultBonusAmount": 0,
+      "friendsBonusAmount": 148
+    },
+    "discountAmount": null,
+    "isNew": false,
+    "cashback": "",
+    "notify": null,
+    "groupId": 1,
+    "sellerLabel": null,
+    "isPromotional": false,
+    "hasPromotion": false,
+    "isExpressAvailable": true,
+    "isLocal": false,
+    "linkRel": null,
+    "isVerified": false,
+    "verifiedLabel": null,
+    "nutrition": null,
+    "ingredients": null,
+    "storageConditions": null,
+    "characteristics": [
+      {
+        "id": "10",
+        "name": "Глубокая заморозка",
+        "iconPng": "https://arbuz.kz/image/s3/arbuz-kz-characteristics/10-glubokaya_zamorozka.png?_c=1739163031"
+      }
+    ],
+    "topInformationBadge": "",
+    "information": "<p>Индейка &ndash; одна из самых популярных мясных птиц. А ее плечевая часть считается наиболее востребованной, так как имеет хороший слой мяса. &nbsp;Так как мышцы индейки не испытывают мощного физического напряжения, они не имеют грубых волокон и жесткой соединительной ткани. Это и отличает мясо индейки от остальных видов птицы. Самые жесткие места крыла индейки отлично пропитывает маринад и после приготовления они окончательно размягчаются и пускают ароматный сок.&nbsp;</p>",
+    "rating": {
+      "value": "4,2",
+      "reviews": "2 оценки"
+    },
+    "pharmProperties": null,
+    "titleIcon": null,
+    "additionalInformation": {
+      "unitStepType": "kg",
+      "categoryLevel3Id": "224640",
+      "categoryLevel1": "Мясо и птица",
+      "categoryLevel2": "Полуфабрикаты и маринады",
+      "categoryLevel3": "Полуфабрикаты в маринаде",
+      "bonusesAwardedPercent": 0
+    },
+    "superAppDeeplink": "https://freedombank.onelink.me/WNLd/pzbv9xa6",
+    "banners": []
+  },
+  {
+    "id": "313785",
+    "catalogId": "19929",
+    "catalogName": "Индейка",
+    "parentCatalogId": 225173,
+    "lang": "ru",
+    "name": "Сердце индейки Arbuz Select кг",
+    "producerCountry": "Казахстан",
+    "brandName": "Arbuz Select",
+    "description": "",
+    "htmlDescription": "",
+    "compound": "",
+    "uri": "/ru/almaty/catalog/item/313785-serdce_indeiki_arbuz_select_kg",
+    "image": "https://arbuz.kz/image/s3/arbuz-kz-products/file_name__9869d21e-00c6-4232-aa06-cec81bbedde5-55_png.png?w=%w&h=%h&_c=1726840649",
+    "measure": "кг",
+    "isWeighted": true,
+    "weightAvg": 0,
+    "weightMin": 1,
+    "weightMax": 43.136,
+    "weight": "1 кг",
+    "pieceWeightMax": 0,
+    "pieceWeightMin": 1,
+    "sellByPiece": false,
+    "quantityMinStep": 1,
+    "priceActual": 4110,
+    "priceSpecial": null,
+    "friendsDiscount": "",
+    "discount": "",
+    "pricePrevious": 0,
+    "isMain": false,
+    "isRecommended": false,
+    "recommendationType": null,
+    "articleIndex": "",
+    "articleGroup": "",
+    "barcode": "",
+    "badges": [],
+    "contents": {
+      "data": [
+        {
+          "title": "",
+          "content": ""
+        }
+      ]
+    },
+    "isAvailable": true,
+    "quantityExpress": 43.136,
+    "benefits": {
+      "defaultCashbackPercent": 0,
+      "friendsCashbackPercent": 5,
+      "defaultBonusAmount": 0,
+      "friendsBonusAmount": 206
+    },
+    "discountAmount": null,
+    "isNew": false,
+    "cashback": "",
+    "notify": null,
+    "groupId": 1,
+    "sellerLabel": null,
+    "isPromotional": false,
+    "hasPromotion": false,
+    "isExpressAvailable": true,
+    "isLocal": false,
+    "linkRel": null,
+    "isVerified": false,
+    "verifiedLabel": null,
+    "nutrition": {
+      "fats": "3,7",
+      "kcal": "197",
+      "carbs": "0",
+      "protein": "20,6"
+    },
+    "ingredients": "Сердце индейки",
+    "storageConditions": "365 дней, -18&deg;С",
+    "characteristics": [
+      {
+        "id": "10",
+        "name": "Глубокая заморозка",
+        "iconPng": "https://arbuz.kz/image/s3/arbuz-kz-characteristics/10-glubokaya_zamorozka.png?_c=1739163031"
+      },
+      {
+        "id": "14",
+        "name": "Без антибиотиков",
+        "iconPng": "https://arbuz.kz/image/s3/arbuz-kz-characteristics/img_url__14-bez_antibiotikov.png?_c=1739517304"
+      }
+    ],
+    "topInformationBadge": "",
+    "information": "Наша продукция из индейки сделана в Казахстане, без добавления консервантов и добавок. Это полностью натуральный продукт, который идеально подойдет для вкусного ужина. Сочное и нежное мясо индейки насытит вас энергией и силой. Оно легко усваивается, содержит много белка и минимум жиров",
+    "rating": {
+      "value": "5,0",
+      "reviews": "1 оценка"
+    },
+    "pharmProperties": null,
+    "titleIcon": null,
+    "additionalInformation": {
+      "unitStepType": "kg",
+      "categoryLevel3Id": "19929",
+      "categoryLevel1": "Мясо и птица",
+      "categoryLevel2": "Курица, индейка и птица",
+      "categoryLevel3": "Индейка",
+      "bonusesAwardedPercent": 0
+    },
+    "superAppDeeplink": "https://freedombank.onelink.me/WNLd/anq54j59",
+    "banners": []
+  },
+  {
+    "id": "203610",
+    "catalogId": "19951",
+    "catalogName": "Индейка",
+    "parentCatalogId": 225609,
+    "lang": "ru",
+    "name": "Филе Дамдi Ет бедра индейки в маринаде",
+    "producerCountry": "Казахстан",
+    "brandName": "Дәмді ет",
+    "description": "",
+    "htmlDescription": "",
+    "compound": "",
+    "uri": "/ru/almaty/catalog/item/203610-file_damdi_et_bedra_indeiki_v_marinade",
+    "image": "https://arbuz.kz/image/s3/arbuz-kz-products/203610-file_damdi_et_bedra_indeiki_v_marinade.jpg?w=%w&h=%h&_c=1759144297",
+    "measure": "кг",
+    "isWeighted": true,
+    "weightAvg": 1.5,
+    "weightMin": 1.5,
+    "weightMax": 7,
+    "weight": "1,5 кг",
+    "pieceWeightMax": 0,
+    "pieceWeightMin": 1.5,
+    "sellByPiece": false,
+    "quantityMinStep": 1.5,
+    "priceActual": 4470,
+    "priceSpecial": null,
+    "friendsDiscount": "",
+    "discount": "",
+    "pricePrevious": 0,
+    "isMain": false,
+    "isRecommended": true,
+    "recommendationType": null,
+    "articleIndex": "",
+    "articleGroup": "",
+    "barcode": "",
+    "badges": [],
+    "contents": {
+      "data": [
+        {
+          "title": "",
+          "content": ""
+        }
+      ]
+    },
+    "isAvailable": true,
+    "quantityExpress": 15.39,
+    "benefits": {
+      "defaultCashbackPercent": 0,
+      "friendsCashbackPercent": 5,
+      "defaultBonusAmount": 0,
+      "friendsBonusAmount": 224
+    },
+    "discountAmount": null,
+    "isNew": false,
+    "cashback": "",
+    "notify": null,
+    "groupId": 1,
+    "sellerLabel": null,
+    "isPromotional": false,
+    "hasPromotion": false,
+    "isExpressAvailable": true,
+    "isLocal": false,
+    "linkRel": null,
+    "isVerified": false,
+    "verifiedLabel": null,
+    "nutrition": null,
+    "ingredients": null,
+    "storageConditions": "Срок хранения 90 суток",
+    "characteristics": [
+      {
+        "id": "10",
+        "name": "Глубокая заморозка",
+        "iconPng": "https://arbuz.kz/image/s3/arbuz-kz-characteristics/10-glubokaya_zamorozka.png?_c=1739163031"
+      }
+    ],
+    "topInformationBadge": "",
+    "information": "<p>Полуфабрикат в маринаде, в пакете для запекания.</p><p>Готовить в духовке 40 минут.</p><p>Филе бедра индейки &ndash; это красное мясо с бедренной части, без лишней кожи и жира.&nbsp; Быстро, сочно и полезно!</p>",
+    "rating": {
+      "value": "4,7",
+      "reviews": "3 оценки"
+    },
+    "pharmProperties": null,
+    "titleIcon": null,
+    "additionalInformation": {
+      "unitStepType": "kg",
+      "categoryLevel3Id": "19951",
+      "categoryLevel1": "Мясо и птица",
+      "categoryLevel2": "Полуфабрикаты и маринады",
+      "categoryLevel3": "Шашлыки, колбаски, барбекю",
+      "bonusesAwardedPercent": 0
+    },
+    "superAppDeeplink": "https://freedombank.onelink.me/WNLd/1vaywe1s",
+    "banners": []
+  },
+  {
+    "id": "307139",
+    "catalogId": "19929",
+    "catalogName": "Индейка",
+    "parentCatalogId": 225173,
+    "lang": "ru",
+    "name": "Филе индейки Пава-Пава грудка, 0.8 кг",
+    "producerCountry": "Россия",
+    "brandName": "Пава-Пава",
+    "description": "",
+    "htmlDescription": "",
+    "compound": "",
+    "uri": "/ru/almaty/catalog/item/307139-file_indeiki_pava-pava_grudka_0_8_kg",
+    "image": "https://arbuz.kz/image/s3/arbuz-kz-products/307139-file_pava_pava_indeiki_grudka_0_8_kg.jpg?w=%w&h=%h&_c=1761579983",
+    "measure": "шт",
+    "isWeighted": false,
+    "weightAvg": 0,
+    "weightMin": 1,
+    "weightMax": 9,
+    "weight": "1 шт",
+    "pieceWeightMax": 0,
+    "pieceWeightMin": 1,
+    "sellByPiece": false,
+    "quantityMinStep": 1,
+    "priceActual": 5345,
+    "priceSpecial": null,
+    "friendsDiscount": "",
+    "discount": "",
+    "pricePrevious": 0,
+    "isMain": false,
+    "isRecommended": false,
+    "recommendationType": null,
+    "articleIndex": "",
+    "articleGroup": "",
+    "barcode": "",
+    "badges": [],
+    "contents": {
+      "data": [
+        {
+          "title": "",
+          "content": ""
+        }
+      ]
+    },
+    "isAvailable": true,
+    "quantityExpress": 9,
+    "benefits": {
+      "defaultCashbackPercent": 0,
+      "friendsCashbackPercent": 5,
+      "defaultBonusAmount": 0,
+      "friendsBonusAmount": 267
+    },
+    "discountAmount": null,
+    "isNew": false,
+    "cashback": "",
+    "notify": null,
+    "groupId": 1,
+    "sellerLabel": null,
+    "isPromotional": false,
+    "hasPromotion": false,
+    "isExpressAvailable": true,
+    "isLocal": false,
+    "linkRel": null,
+    "isVerified": false,
+    "verifiedLabel": null,
+    "nutrition": null,
+    "ingredients": "Филе грудки индейки",
+    "storageConditions": "24 месяца при температура -18&nbsp;",
+    "characteristics": [
+      {
+        "id": "10",
+        "name": "Глубокая заморозка",
+        "iconPng": "https://arbuz.kz/image/s3/arbuz-kz-characteristics/10-glubokaya_zamorozka.png?_c=1739163031"
+      }
+    ],
+    "topInformationBadge": "",
+    "information": "Грудку индейки готовят различными способами, мясо жарят, запекают, отваривают, готовят на пару и на гриле. Готовить грудку нужно недолгое время, чтобы не пересушить. Нежное мясо грудки отлично сочетается с грибами, сыром, практически нейтральный вкус птицы легко забить сильными ароматами специй и пряных трав, поэтому лучшими добавками к индюшачьей грудке будут соль и чёрный перец. Из грудки индейки готовят фарш для котлет, чебуреков и пельменей, отварное мясо используют в качестве начинки для блинчиков, как ингредиент сэндвичей и салатов.<br />&nbsp;",
+    "rating": {
+      "value": "4,7",
+      "reviews": "2 оценки"
+    },
+    "pharmProperties": null,
+    "titleIcon": null,
+    "additionalInformation": {
+      "unitStepType": "pcs",
+      "categoryLevel3Id": "19929",
+      "categoryLevel1": "Мясо и птица",
+      "categoryLevel2": "Курица, индейка и птица",
+      "categoryLevel3": "Индейка",
+      "bonusesAwardedPercent": 0
+    },
+    "superAppDeeplink": "https://freedombank.onelink.me/WNLd/uy2p1xou",
+    "banners": []
+  },
+  {
+    "id": "313562",
+    "catalogId": "19929",
+    "catalogName": "Индейка",
+    "parentCatalogId": 225173,
+    "lang": "ru",
+    "name": "Фарш Senim Food индейка 900 г",
+    "producerCountry": "Казахстан",
+    "brandName": "Senim Food",
+    "description": "",
+    "htmlDescription": "",
+    "compound": "",
+    "uri": "/ru/almaty/catalog/item/313562-farsh_senim_food_indeika_900_g",
+    "image": "https://arbuz.kz/image/s3/arbuz-kz-products/image__313562-farsh_senim_food_indeika_900_g.jpg?w=%w&h=%h&_c=1759973976",
+    "measure": "шт",
+    "isWeighted": false,
+    "weightAvg": 0,
+    "weightMin": 1,
+    "weightMax": 8,
+    "weight": "1 шт",
+    "pieceWeightMax": 0,
+    "pieceWeightMin": 0,
+    "sellByPiece": false,
+    "quantityMinStep": 1,
+    "priceActual": 2650,
+    "priceSpecial": null,
+    "friendsDiscount": "",
+    "discount": "",
+    "pricePrevious": 0,
+    "isMain": false,
+    "isRecommended": false,
+    "recommendationType": null,
+    "articleIndex": "",
+    "articleGroup": "",
+    "barcode": "",
+    "badges": [],
+    "contents": {
+      "data": [
+        {
+          "title": "",
+          "content": ""
+        }
+      ]
+    },
+    "isAvailable": true,
+    "quantityExpress": 9,
+    "benefits": {
+      "defaultCashbackPercent": 0,
+      "friendsCashbackPercent": 5,
+      "defaultBonusAmount": 0,
+      "friendsBonusAmount": 133
+    },
+    "discountAmount": null,
+    "isNew": false,
+    "cashback": "",
+    "notify": null,
+    "groupId": 1,
+    "sellerLabel": null,
+    "isPromotional": false,
+    "hasPromotion": false,
+    "isExpressAvailable": true,
+    "isLocal": false,
+    "linkRel": null,
+    "isVerified": false,
+    "verifiedLabel": null,
+    "nutrition": {
+      "fats": "8",
+      "kcal": "161",
+      "carbs": "0",
+      "protein": "20"
+    },
+    "ingredients": "Мясо индейки, жир",
+    "storageConditions": "90 дней, от -5&deg;С до -18&deg;С",
+    "characteristics": [
+      {
+        "id": "10",
+        "name": "Глубокая заморозка",
+        "iconPng": "https://arbuz.kz/image/s3/arbuz-kz-characteristics/10-glubokaya_zamorozka.png?_c=1739163031"
+      }
+    ],
+    "topInformationBadge": "",
+    "information": "<p>Фарш индейки отличается своей нежностью. Его внешний вид схож с куриным фаршем, только имеет более тёмную окраску. Блюда из фарша индейки получаются лёгкими и сочными, и так как фарш нежирный, считаются ещё и полезными для здоровья.</p>",
+    "rating": {
+      "value": "4,4",
+      "reviews": "3 оценки"
+    },
+    "pharmProperties": null,
+    "titleIcon": null,
+    "additionalInformation": {
+      "unitStepType": "pcs",
+      "categoryLevel3Id": "19929",
+      "categoryLevel1": "Мясо и птица",
+      "categoryLevel2": "Курица, индейка и птица",
+      "categoryLevel3": "Индейка",
+      "bonusesAwardedPercent": 0
+    },
+    "superAppDeeplink": "https://freedombank.onelink.me/WNLd/ub4wbqjb",
+    "banners": []
+  },
+  {
+    "id": "313784",
+    "catalogId": "19929",
+    "catalogName": "Индейка",
+    "parentCatalogId": 225173,
+    "lang": "ru",
+    "name": "Шея индейки Arbuz Select кг",
+    "producerCountry": "Казахстан",
+    "brandName": "Arbuz Select",
+    "description": "",
+    "htmlDescription": "",
+    "compound": "",
+    "uri": "/ru/almaty/catalog/item/313784-sheya_indeiki_arbuz_select_kg",
+    "image": "https://arbuz.kz/image/s3/arbuz-kz-products/file_name__278924ff-e73a-4bd0-9f0d-747543022276-52_png.png?w=%w&h=%h&_c=1726840443",
+    "measure": "кг",
+    "isWeighted": true,
+    "weightAvg": 0,
+    "weightMin": 0.75,
+    "weightMax": 29.046,
+    "weight": "0,75 кг",
+    "pieceWeightMax": 0,
+    "pieceWeightMin": 0.75,
+    "sellByPiece": false,
+    "quantityMinStep": 0.75,
+    "priceActual": 2170,
+    "priceSpecial": null,
+    "friendsDiscount": "",
+    "discount": "",
+    "pricePrevious": 0,
+    "isMain": false,
+    "isRecommended": false,
+    "recommendationType": null,
+    "articleIndex": "",
+    "articleGroup": "",
+    "barcode": "",
+    "badges": [],
+    "contents": {
+      "data": [
+        {
+          "title": "",
+          "content": ""
+        }
+      ]
+    },
+    "isAvailable": true,
+    "quantityExpress": 29.046,
+    "benefits": {
+      "defaultCashbackPercent": 0,
+      "friendsCashbackPercent": 5,
+      "defaultBonusAmount": 0,
+      "friendsBonusAmount": 109
+    },
+    "discountAmount": null,
+    "isNew": false,
+    "cashback": "",
+    "notify": null,
+    "groupId": 1,
+    "sellerLabel": null,
+    "isPromotional": false,
+    "hasPromotion": false,
+    "isExpressAvailable": true,
+    "isLocal": false,
+    "linkRel": null,
+    "isVerified": false,
+    "verifiedLabel": null,
+    "nutrition": {
+      "fats": "9,2",
+      "kcal": "111",
+      "carbs": "0",
+      "protein": "20,5"
+    },
+    "ingredients": "Шея индейки",
+    "storageConditions": "365 дней,&nbsp;-18&deg;С",
+    "characteristics": [
+      {
+        "id": "10",
+        "name": "Глубокая заморозка",
+        "iconPng": "https://arbuz.kz/image/s3/arbuz-kz-characteristics/10-glubokaya_zamorozka.png?_c=1739163031"
+      },
+      {
+        "id": "14",
+        "name": "Без антибиотиков",
+        "iconPng": "https://arbuz.kz/image/s3/arbuz-kz-characteristics/img_url__14-bez_antibiotikov.png?_c=1739517304"
+      }
+    ],
+    "topInformationBadge": "",
+    "information": "Наша продукция из индейки сделана в Казахстане, без добавления консервантов и добавок. Это полностью натуральный продукт, который идеально подойдет для вкусного ужина. Сочное и нежное мясо индейки насытит вас энергией и силой. Оно легко усваивается, содержит много белка и минимум жиров",
+    "rating": {
+      "value": "4,8",
+      "reviews": "4 оценки"
+    },
+    "pharmProperties": null,
+    "titleIcon": null,
+    "additionalInformation": {
+      "unitStepType": "kg",
+      "categoryLevel3Id": "19929",
+      "categoryLevel1": "Мясо и птица",
+      "categoryLevel2": "Курица, индейка и птица",
+      "categoryLevel3": "Индейка",
+      "bonusesAwardedPercent": 0
+    },
+    "superAppDeeplink": "https://freedombank.onelink.me/WNLd/xmbtloa6",
+    "banners": []
+  },
+  {
+    "id": "287986",
+    "catalogId": "19929",
+    "catalogName": "Индейка",
+    "parentCatalogId": 225173,
+    "lang": "ru",
+    "name": "Филе бедра индейки Пава-Пава в вакуумной упаковке, замороженное 800 г",
+    "producerCountry": "Россия",
+    "brandName": "Пава-Пава",
+    "description": "",
+    "htmlDescription": "",
+    "compound": "",
+    "uri": "/ru/almaty/catalog/item/287986-file_bedra_indeiki_pava-pava_v_vakuumnoi_upakovke_zamorozhennoe_800_g",
+    "image": "https://arbuz.kz/image/s3/arbuz-kz-products/287986-file_bedra_indeiki_pava-pava_v_vakuumnoi_upakovke_800_g.jpg?w=%w&h=%h&_c=1761751759",
+    "measure": "шт",
+    "isWeighted": false,
+    "weightAvg": 0,
+    "weightMin": 1,
+    "weightMax": 9,
+    "weight": "1 шт",
+    "pieceWeightMax": 0,
+    "pieceWeightMin": 1,
+    "sellByPiece": false,
+    "quantityMinStep": 1,
+    "priceActual": 5345,
+    "priceSpecial": null,
+    "friendsDiscount": "",
+    "discount": "",
+    "pricePrevious": 0,
+    "isMain": false,
+    "isRecommended": false,
+    "recommendationType": null,
+    "articleIndex": "",
+    "articleGroup": "",
+    "barcode": "",
+    "badges": [],
+    "contents": {
+      "data": [
+        {
+          "title": "",
+          "content": ""
+        }
+      ]
+    },
+    "isAvailable": true,
+    "quantityExpress": 9,
+    "benefits": {
+      "defaultCashbackPercent": 0,
+      "friendsCashbackPercent": 5,
+      "defaultBonusAmount": 0,
+      "friendsBonusAmount": 267
+    },
+    "discountAmount": null,
+    "isNew": false,
+    "cashback": "",
+    "notify": null,
+    "groupId": 1,
+    "sellerLabel": null,
+    "isPromotional": false,
+    "hasPromotion": false,
+    "isExpressAvailable": true,
+    "isLocal": false,
+    "linkRel": null,
+    "isVerified": false,
+    "verifiedLabel": null,
+    "nutrition": {
+      "fats": "6",
+      "kcal": "130",
+      "carbs": "0",
+      "protein": "20"
+    },
+    "ingredients": "<p>Филе бедра индейки</p>",
+    "storageConditions": "<p>10 дней, от&nbsp;-2&deg; до&nbsp;2&deg;</p>",
+    "characteristics": [
+      {
+        "id": "10",
+        "name": "Глубокая заморозка",
+        "iconPng": "https://arbuz.kz/image/s3/arbuz-kz-characteristics/10-glubokaya_zamorozka.png?_c=1739163031"
+      }
+    ],
+    "topInformationBadge": "",
+    "information": "<p>Мясо индейки &mdash; одно из&nbsp;самых полезных. Благодаря биохимическому составу, это мясо способно обеспечить организм человека фосфором, селеном, цинком, калием и&nbsp;магнием, витаминами: А, В, D и&nbsp;Е. Оно очень питательное, при достаточном количестве калорий, содержит очень мало холестерина и&nbsp;считается диетическим.</p>",
+    "rating": {
+      "value": "4,8",
+      "reviews": "8 оценок"
+    },
+    "pharmProperties": null,
+    "titleIcon": null,
+    "additionalInformation": {
+      "unitStepType": "pcs",
+      "categoryLevel3Id": "19929",
+      "categoryLevel1": "Мясо и птица",
+      "categoryLevel2": "Курица, индейка и птица",
+      "categoryLevel3": "Индейка",
+      "bonusesAwardedPercent": 0
+    },
+    "superAppDeeplink": "https://freedombank.onelink.me/WNLd/uoslv2by",
+    "banners": []
+  },
+  {
+    "id": "292040",
+    "catalogId": "19929",
+    "catalogName": "Индейка",
+    "parentCatalogId": 225173,
+    "lang": "ru",
+    "name": "Крыло индейки Пава-Пава замороженное кг",
+    "producerCountry": "Россия",
+    "brandName": "Пава-Пава",
+    "description": "",
+    "htmlDescription": "",
+    "compound": "",
+    "uri": "/ru/almaty/catalog/item/292040-krylo_indeiki_pava-pava_zamorozhennoe_kg",
+    "image": "https://arbuz.kz/image/s3/arbuz-kz-products/292040-krylo_indeiki_pava_-pava_zamorozhennoe_kg.jpg?w=%w&h=%h&_c=1761751781",
+    "measure": "кг",
+    "isWeighted": true,
+    "weightAvg": 0,
+    "weightMin": 1,
+    "weightMax": 2.308,
+    "weight": "1 кг",
+    "pieceWeightMax": 0,
+    "pieceWeightMin": 1,
+    "sellByPiece": false,
+    "quantityMinStep": 1,
+    "priceActual": 3275,
+    "priceSpecial": null,
+    "friendsDiscount": "",
+    "discount": "",
+    "pricePrevious": 0,
+    "isMain": false,
+    "isRecommended": false,
+    "recommendationType": null,
+    "articleIndex": "",
+    "articleGroup": "",
+    "barcode": "",
+    "badges": [],
+    "contents": {
+      "data": [
+        {
+          "title": "",
+          "content": ""
+        }
+      ]
+    },
+    "isAvailable": true,
+    "quantityExpress": 2.308,
+    "benefits": {
+      "defaultCashbackPercent": 0,
+      "friendsCashbackPercent": 5,
+      "defaultBonusAmount": 0,
+      "friendsBonusAmount": 164
+    },
+    "discountAmount": null,
+    "isNew": false,
+    "cashback": "",
+    "notify": null,
+    "groupId": 1,
+    "sellerLabel": null,
+    "isPromotional": false,
+    "hasPromotion": false,
+    "isExpressAvailable": true,
+    "isLocal": false,
+    "linkRel": null,
+    "isVerified": false,
+    "verifiedLabel": null,
+    "nutrition": null,
+    "ingredients": null,
+    "storageConditions": null,
+    "characteristics": [
+      {
+        "id": "10",
+        "name": "Глубокая заморозка",
+        "iconPng": "https://arbuz.kz/image/s3/arbuz-kz-characteristics/10-glubokaya_zamorozka.png?_c=1739163031"
+      }
+    ],
+    "topInformationBadge": "",
+    "information": "<p>В крылышках индейки много мяса, при этом оно нежирное и содержит достаточное количество белка. В нем есть фосфор и витамин РР, оно быстро переваривается и легко усваивается.</p><p>Эту часть индейки обжаривают, варят, запекают, тушат, готовят на пару. Крылышки хорошо сочетаются с гарнирами из круп, овощными салатами и разнообразными соусами.</p>",
+    "rating": {
+      "value": "4,7",
+      "reviews": "3 оценки"
+    },
+    "pharmProperties": null,
+    "titleIcon": null,
+    "additionalInformation": {
+      "unitStepType": "kg",
+      "categoryLevel3Id": "19929",
+      "categoryLevel1": "Мясо и птица",
+      "categoryLevel2": "Курица, индейка и птица",
+      "categoryLevel3": "Индейка",
+      "bonusesAwardedPercent": 0
+    },
+    "superAppDeeplink": "https://freedombank.onelink.me/WNLd/d2jcfu3q",
+    "banners": []
+  },
+  {
+    "id": "292038",
+    "catalogId": "19929",
+    "catalogName": "Индейка",
+    "parentCatalogId": 225173,
+    "lang": "ru",
+    "name": "Голень индейки Пава-Пава замороженная, кг",
+    "producerCountry": "Россия",
+    "brandName": "Пава-Пава",
+    "description": "",
+    "htmlDescription": "",
+    "compound": "",
+    "uri": "/ru/almaty/catalog/item/292038-golen_indeiki_pava-pava_zamorozhennaya_kg",
+    "image": "https://arbuz.kz/image/s3/arbuz-kz-products/image__292038-golen_indeiki_pava-pava_zamorozhennaya_kg.jpg?w=%w&h=%h&_c=1758798284",
+    "measure": "кг",
+    "isWeighted": true,
+    "weightAvg": 0,
+    "weightMin": 0.8,
+    "weightMax": 8.832,
+    "weight": "0,8 кг",
+    "pieceWeightMax": 0,
+    "pieceWeightMin": 0.8,
+    "sellByPiece": false,
+    "quantityMinStep": 0.8,
+    "priceActual": 3275,
+    "priceSpecial": null,
+    "friendsDiscount": "",
+    "discount": "",
+    "pricePrevious": 0,
+    "isMain": false,
+    "isRecommended": false,
+    "recommendationType": null,
+    "articleIndex": "",
+    "articleGroup": "",
+    "barcode": "",
+    "badges": [],
+    "contents": {
+      "data": [
+        {
+          "title": "",
+          "content": ""
+        }
+      ]
+    },
+    "isAvailable": true,
+    "quantityExpress": 8.832,
+    "benefits": {
+      "defaultCashbackPercent": 0,
+      "friendsCashbackPercent": 5,
+      "defaultBonusAmount": 0,
+      "friendsBonusAmount": 164
+    },
+    "discountAmount": null,
+    "isNew": false,
+    "cashback": "",
+    "notify": null,
+    "groupId": 1,
+    "sellerLabel": null,
+    "isPromotional": false,
+    "hasPromotion": false,
+    "isExpressAvailable": true,
+    "isLocal": false,
+    "linkRel": null,
+    "isVerified": false,
+    "verifiedLabel": null,
+    "nutrition": null,
+    "ingredients": null,
+    "storageConditions": null,
+    "characteristics": [
+      {
+        "id": "10",
+        "name": "Глубокая заморозка",
+        "iconPng": "https://arbuz.kz/image/s3/arbuz-kz-characteristics/10-glubokaya_zamorozka.png?_c=1739163031"
+      }
+    ],
+    "topInformationBadge": "",
+    "information": "<p>Голень индейки является вкусным и питательным продуктом с удивительным нежным и выразительным вкусом. По содержанию полезных веществ и вкусовым качествам этот продукт значительно превышает мясо кур.</p><p>Голень индейки украсит не только повседневный стол, но и праздничный. Этот продукт отлично подойдет для фуршетов и пикников</p>",
+    "rating": {
+      "value": "4,7",
+      "reviews": "3 оценки"
+    },
+    "pharmProperties": null,
+    "titleIcon": null,
+    "additionalInformation": {
+      "unitStepType": "kg",
+      "categoryLevel3Id": "19929",
+      "categoryLevel1": "Мясо и птица",
+      "categoryLevel2": "Курица, индейка и птица",
+      "categoryLevel3": "Индейка",
+      "bonusesAwardedPercent": 0
+    },
+    "superAppDeeplink": "https://freedombank.onelink.me/WNLd/6ok6625i",
+    "banners": []
+  },
+  {
+    "id": "269646",
+    "catalogId": "19929",
+    "catalogName": "Индейка",
+    "parentCatalogId": 225173,
+    "lang": "ru",
+    "name": "Сердце индейки Дәмді ет на подложке замороженное кг",
+    "producerCountry": "Казахстан",
+    "brandName": "Дәмді ет",
+    "description": "",
+    "htmlDescription": "",
+    "compound": "",
+    "uri": "/ru/almaty/catalog/item/269646-serdce_indeiki_d_md_et_na_podlozhke_zamorozhennoe_kg",
+    "image": "https://arbuz.kz/image/s3/arbuz-kz-products/image__269646-serdce_indeiki_d_md_et_na_podlozhke_zamorozhennoe_kg.jpg?w=%w&h=%h&_c=1758798217",
+    "measure": "кг",
+    "isWeighted": true,
+    "weightAvg": 0,
+    "weightMin": 1.3,
+    "weightMax": 0,
+    "weight": "1,3 кг",
+    "pieceWeightMax": 0,
+    "pieceWeightMin": 1.3,
+    "sellByPiece": false,
+    "quantityMinStep": 1.3,
+    "priceActual": 3265,
+    "priceSpecial": null,
+    "friendsDiscount": "",
+    "discount": "",
+    "pricePrevious": 0,
+    "isMain": false,
+    "isRecommended": false,
+    "recommendationType": null,
+    "articleIndex": "",
+    "articleGroup": "",
+    "barcode": "",
+    "badges": [],
+    "contents": {
+      "data": [
+        {
+          "title": "",
+          "content": ""
+        }
+      ]
+    },
+    "isAvailable": false,
+    "quantityExpress": 1.008,
+    "benefits": {
+      "defaultCashbackPercent": 0,
+      "friendsCashbackPercent": 5,
+      "defaultBonusAmount": 0,
+      "friendsBonusAmount": 163
+    },
+    "discountAmount": null,
+    "isNew": false,
+    "cashback": "",
+    "notify": null,
+    "groupId": 1,
+    "sellerLabel": null,
+    "isPromotional": false,
+    "hasPromotion": false,
+    "isExpressAvailable": false,
+    "isLocal": false,
+    "linkRel": null,
+    "isVerified": false,
+    "verifiedLabel": null,
+    "nutrition": null,
+    "ingredients": null,
+    "storageConditions": null,
+    "characteristics": [
+      {
+        "id": "10",
+        "name": "Глубокая заморозка",
+        "iconPng": "https://arbuz.kz/image/s3/arbuz-kz-characteristics/10-glubokaya_zamorozka.png?_c=1739163031"
+      }
+    ],
+    "topInformationBadge": "",
+    "information": "<p>Индюшачьи сердца парят, жарят, варят, готовят на гриле, запекают. К тому же их используют для приготовления котлет, шашлыков, супов, различных начинок и многого другого. Кстати, размер сердечек индейки настолько внушителен, что из них даже делают отбивные. Этот продукт используют еще и для приготовления теплых салатов.</p><p>Индюшачье сердце содержит много железа, натрия, витамина А и С, а также витаминов группы В. Кроме того в состав входит фосфор, цинк, селена и большое количество белка.</p>",
+    "rating": {
+      "value": "4,5",
+      "reviews": "7 оценок"
+    },
+    "pharmProperties": null,
+    "titleIcon": null,
+    "additionalInformation": {
+      "unitStepType": "kg",
+      "categoryLevel3Id": "19929",
+      "categoryLevel1": "Мясо и птица",
+      "categoryLevel2": "Курица, индейка и птица",
+      "categoryLevel3": "Индейка",
+      "bonusesAwardedPercent": 0
+    },
+    "superAppDeeplink": "https://freedombank.onelink.me/WNLd/2zmoqqni",
+    "banners": []
+  },
+  {
+    "id": "312200",
+    "catalogId": "19929",
+    "catalogName": "Индейка",
+    "parentCatalogId": 225173,
+    "lang": "ru",
+    "name": "Медальоны из голени индейки Arbuz Select \"Элит\" кг",
+    "producerCountry": "Казахстан",
+    "brandName": "Arbuz Select",
+    "description": "",
+    "htmlDescription": "",
+    "compound": "",
+    "uri": "/ru/almaty/catalog/item/312200-medalony_iz_goleni_indeiki_arbuz_select_elit_kg",
+    "image": "https://arbuz.kz/image/s3/arbuz-kz-products/file_name__a65e7560-475d-44e7-bb26-3fd5250af407-312200_1_png.png?w=%w&h=%h&_c=1726724842",
+    "measure": "кг",
+    "isWeighted": true,
+    "weightAvg": 0,
+    "weightMin": 0.5,
+    "weightMax": 0,
+    "weight": "0,5 кг",
+    "pieceWeightMax": 0,
+    "pieceWeightMin": 0.5,
+    "sellByPiece": false,
+    "quantityMinStep": 0.5,
+    "priceActual": 3230,
+    "priceSpecial": null,
+    "friendsDiscount": "",
+    "discount": "−18%",
+    "pricePrevious": 3940,
+    "isMain": false,
+    "isRecommended": false,
+    "recommendationType": null,
+    "articleIndex": "",
+    "articleGroup": "",
+    "barcode": "",
+    "badges": [
+      {
+        "text": "−18%",
+        "backgroundColor": "#4F4F4F",
+        "textColor": "#FFFFFF",
+        "basketHidden": true,
+        "priority": 2,
+        "position": "top",
+        "type": "discount"
+      }
+    ],
+    "contents": {
+      "data": [
+        {
+          "title": "",
+          "content": ""
+        }
+      ]
+    },
+    "isAvailable": false,
+    "quantityExpress": 0.232,
+    "benefits": {
+      "defaultCashbackPercent": 0,
+      "friendsCashbackPercent": 5,
+      "defaultBonusAmount": 0,
+      "friendsBonusAmount": 162
+    },
+    "discountAmount": null,
+    "isNew": false,
+    "cashback": "",
+    "notify": null,
+    "groupId": 1,
+    "sellerLabel": null,
+    "isPromotional": false,
+    "hasPromotion": false,
+    "isExpressAvailable": false,
+    "isLocal": false,
+    "linkRel": null,
+    "isVerified": false,
+    "verifiedLabel": null,
+    "nutrition": {
+      "fats": "1,5",
+      "kcal": "197",
+      "carbs": "0",
+      "protein": "20"
+    },
+    "ingredients": "Голень индейки",
+    "storageConditions": "365 дней, -18&deg;С",
+    "characteristics": [
+      {
+        "id": "10",
+        "name": "Глубокая заморозка",
+        "iconPng": "https://arbuz.kz/image/s3/arbuz-kz-characteristics/10-glubokaya_zamorozka.png?_c=1739163031"
+      },
+      {
+        "id": "14",
+        "name": "Без антибиотиков",
+        "iconPng": "https://arbuz.kz/image/s3/arbuz-kz-characteristics/img_url__14-bez_antibiotikov.png?_c=1739517304"
+      }
+    ],
+    "topInformationBadge": "",
+    "information": "Наша продукция из индейки сделана в Казахстане, без добавления консервантов и добавок. Это полностью натуральный продукт, который идеально подойдет для вкусного ужина. Сочное и нежное мясо индейки насытит вас энергией и силой. Оно легко усваивается, содержит много белка и минимум жиров.",
+    "rating": {
+      "value": "4,6",
+      "reviews": "10 оценок"
+    },
+    "pharmProperties": null,
+    "titleIcon": null,
+    "additionalInformation": {
+      "unitStepType": "kg",
+      "categoryLevel3Id": "19929",
+      "categoryLevel1": "Мясо и птица",
+      "categoryLevel2": "Курица, индейка и птица",
+      "categoryLevel3": "Индейка",
+      "bonusesAwardedPercent": 0
+    },
+    "superAppDeeplink": "https://freedombank.onelink.me/WNLd/hf7e4c00",
+    "banners": []
+  }
+]

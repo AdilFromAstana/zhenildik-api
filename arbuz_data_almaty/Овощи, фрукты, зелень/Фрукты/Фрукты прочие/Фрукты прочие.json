@@ -1,0 +1,95 @@
+[
+  {
+    "id": "332210",
+    "catalogId": "19444",
+    "catalogName": "Фрукты прочие",
+    "parentCatalogId": 225177,
+    "lang": "ru",
+    "name": "Инжир Be Fresh Produce BV, кг",
+    "producerCountry": "Голландия",
+    "brandName": "Be Fresh Produce BV",
+    "description": "",
+    "htmlDescription": "",
+    "compound": "",
+    "uri": "/ru/almaty/catalog/item/332210-inzhir_be_fresh_produce_bv_kg",
+    "image": "https://arbuz.kz/image/s3/arbuz-kz-products/file_name__ab95870e-359a-4c4c-99e3-b87ed48cc006-000001_alima_fresh_inzhir_2_jpg.jpg?w=%w&h=%h&_c=1758879228",
+    "measure": "кг",
+    "isWeighted": true,
+    "weightAvg": 0,
+    "weightMin": 0.06,
+    "weightMax": 1,
+    "weight": "0,06 кг",
+    "pieceWeightMax": 0,
+    "pieceWeightMin": 0.06,
+    "sellByPiece": false,
+    "quantityMinStep": 0.06,
+    "priceActual": 26585,
+    "priceSpecial": null,
+    "friendsDiscount": "",
+    "discount": "",
+    "pricePrevious": 0,
+    "isMain": false,
+    "isRecommended": false,
+    "recommendationType": null,
+    "articleIndex": "",
+    "articleGroup": "",
+    "barcode": "",
+    "badges": [],
+    "contents": {
+      "data": [
+        {
+          "title": "",
+          "content": ""
+        }
+      ]
+    },
+    "isAvailable": true,
+    "quantityExpress": 2.999,
+    "benefits": {
+      "defaultCashbackPercent": 0,
+      "friendsCashbackPercent": 5,
+      "defaultBonusAmount": 0,
+      "friendsBonusAmount": 1329
+    },
+    "discountAmount": null,
+    "isNew": false,
+    "cashback": "",
+    "notify": null,
+    "groupId": 1,
+    "sellerLabel": null,
+    "isPromotional": false,
+    "hasPromotion": false,
+    "isExpressAvailable": true,
+    "isLocal": false,
+    "linkRel": null,
+    "isVerified": false,
+    "verifiedLabel": null,
+    "nutrition": {
+      "fats": "0,2",
+      "kcal": "54",
+      "carbs": "13,7",
+      "protein": "0,7"
+    },
+    "ingredients": "Инжир",
+    "storageConditions": "От +5 ℃ до +8 ℃",
+    "characteristics": null,
+    "topInformationBadge": "",
+    "information": "Инжир (Ficus carica) &mdash; это сладкий, сочный плод с мягкой кожурой и множеством мелких семян внутри. Его вкус &mdash; медово-сладкий с лёгкой ореховой ноткой. Цвет кожуры может варьироваться от светло-зелёного до фиолетового, а мякоть &mdash; от розовой до тёмно-бордовой. Инжир употребляют свежим, сушёным, а также добавляют в выпечку, десерты, салаты, мясные блюда и соусы. Инжир ценится за высокое содержание клетчатки, витаминов и минералов. Он улучшает пищеварение, помогает поддерживать уровень энергии и является натуральным источником быстрых углеводов.",
+    "rating": {
+      "value": "3,8",
+      "reviews": "8 оценок"
+    },
+    "pharmProperties": null,
+    "titleIcon": null,
+    "additionalInformation": {
+      "unitStepType": "kg",
+      "categoryLevel3Id": "19444",
+      "categoryLevel1": "Овощи, фрукты, зелень",
+      "categoryLevel2": "Фрукты",
+      "categoryLevel3": "Фрукты прочие",
+      "bonusesAwardedPercent": 0
+    },
+    "superAppDeeplink": null,
+    "banners": []
+  }
+]

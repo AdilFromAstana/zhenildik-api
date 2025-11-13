@@ -1,0 +1,817 @@
+[
+  {
+    "id": "278438",
+    "catalogId": "225585",
+    "catalogName": "Без мяса",
+    "parentCatalogId": 225495,
+    "lang": "ru",
+    "name": "Киш Kepser с брынзой и шпинатом без глютена и сахара, 170 г",
+    "producerCountry": "Казахстан",
+    "brandName": "Kepser",
+    "description": "",
+    "htmlDescription": "",
+    "compound": "",
+    "uri": "/ru/almaty/catalog/item/278438-kish_kepser_s_brynzoi_i_shpinatom_bez_glyutena_i_sahara_170_g",
+    "image": "https://arbuz.kz/image/s3/arbuz-kz-products/file_name__0163019a-9a6e-4e65-b546-f1a853d52329-4870244230343_6_jpg.jpg?w=%w&h=%h&_c=1760957464",
+    "measure": "шт",
+    "isWeighted": false,
+    "weightAvg": 0,
+    "weightMin": 1,
+    "weightMax": 2,
+    "weight": "1 шт",
+    "pieceWeightMax": 0,
+    "pieceWeightMin": 1,
+    "sellByPiece": false,
+    "quantityMinStep": 1,
+    "priceActual": 1320,
+    "priceSpecial": null,
+    "friendsDiscount": "",
+    "discount": "−15%",
+    "pricePrevious": 1550,
+    "isMain": false,
+    "isRecommended": false,
+    "recommendationType": null,
+    "articleIndex": "",
+    "articleGroup": "",
+    "barcode": "",
+    "badges": [
+      {
+        "text": "−15%",
+        "backgroundColor": "#4F4F4F",
+        "textColor": "#FFFFFF",
+        "basketHidden": true,
+        "priority": 2,
+        "position": "top",
+        "type": "discount"
+      }
+    ],
+    "contents": {
+      "data": [
+        {
+          "title": "",
+          "content": ""
+        }
+      ]
+    },
+    "isAvailable": true,
+    "quantityExpress": 2,
+    "benefits": {
+      "defaultCashbackPercent": 0,
+      "friendsCashbackPercent": 5,
+      "defaultBonusAmount": 0,
+      "friendsBonusAmount": 66
+    },
+    "discountAmount": null,
+    "isNew": false,
+    "cashback": "",
+    "notify": null,
+    "groupId": 1,
+    "sellerLabel": null,
+    "isPromotional": false,
+    "hasPromotion": false,
+    "isExpressAvailable": true,
+    "isLocal": false,
+    "linkRel": null,
+    "isVerified": false,
+    "verifiedLabel": null,
+    "nutrition": {
+      "fats": "19,9",
+      "kcal": "220",
+      "carbs": "7,2",
+      "protein": "14,3"
+    },
+    "ingredients": "Шпинат, брынза, яйцо, рисовая и амарантовая мука, псиллиум , гималайская розовая соль, чеснок, сливки, кокосовое масло, кунжут, сливки, пармезан",
+    "storageConditions": "Хранить при температуре -18 ℃. После вскрытия хранить не более 3-х суток.",
+    "characteristics": [
+      {
+        "id": "1",
+        "name": "Без глютена",
+        "iconPng": "https://arbuz.kz/image/s3/arbuz-kz-characteristics/img_url__1-bez_glyutena.png?_c=1739163490"
+      },
+      {
+        "id": "9",
+        "name": "Без сахара",
+        "iconPng": "https://arbuz.kz/image/s3/arbuz-kz-characteristics/img_url__9-bez_sahara.png?_c=1732789253"
+      },
+      {
+        "id": "10",
+        "name": "Глубокая заморозка",
+        "iconPng": "https://arbuz.kz/image/s3/arbuz-kz-characteristics/10-glubokaya_zamorozka.png?_c=1739163031"
+      }
+    ],
+    "topInformationBadge": "",
+    "information": "<p>Киш Kepser с брынзой и шпинатом без глютена и сахара, 160 г &mdash; готовый замороженный продукт. Нежная начинка из брынзы и шпината в хрустящей безглютеновой основе. Подходит для лёгкого обеда или полезного перекуса.</p>",
+    "rating": {
+      "value": "4,5",
+      "reviews": "3 оценки"
+    },
+    "pharmProperties": null,
+    "titleIcon": null,
+    "additionalInformation": {
+      "unitStepType": "pcs",
+      "categoryLevel3Id": "225585",
+      "categoryLevel1": "Готовая еда",
+      "categoryLevel2": "Правильное питание",
+      "categoryLevel3": "ПП-обеды",
+      "bonusesAwardedPercent": 0
+    },
+    "superAppDeeplink": "https://freedombank.onelink.me/WNLd/sl0hoznd",
+    "banners": []
+  },
+  {
+    "id": "325252",
+    "catalogId": "225630",
+    "catalogName": "Без мяса",
+    "parentCatalogId": 224944,
+    "lang": "ru",
+    "name": "Индийское карри Foodearth из пяти видов чечевицы с рисом и куркумой 300 г",
+    "producerCountry": "Индия",
+    "brandName": "Foodearth",
+    "description": "",
+    "htmlDescription": "",
+    "compound": "",
+    "uri": "/ru/almaty/catalog/item/325252-indiiskoe_karri_foodearth_iz_pyati_vidov_chechevicy_s_risom_i_kurkumoi_300_g_",
+    "image": "https://arbuz.kz/image/s3/arbuz-kz-products/image__325252-indiiskoe_karri_foodearth_iz_pyati_vidov_chechevicy_s_risom_i_kurkumoi_300_g_.jpg?w=%w&h=%h&_c=1752835006",
+    "measure": "шт",
+    "isWeighted": false,
+    "weightAvg": 0,
+    "weightMin": 1,
+    "weightMax": 7,
+    "weight": "1 шт",
+    "pieceWeightMax": 0,
+    "pieceWeightMin": 0,
+    "sellByPiece": false,
+    "quantityMinStep": 1,
+    "priceActual": 2665,
+    "priceSpecial": null,
+    "friendsDiscount": "",
+    "discount": "",
+    "pricePrevious": 0,
+    "isMain": false,
+    "isRecommended": false,
+    "recommendationType": null,
+    "articleIndex": "",
+    "articleGroup": "",
+    "barcode": "",
+    "badges": [],
+    "contents": {
+      "data": [
+        {
+          "title": "",
+          "content": ""
+        }
+      ]
+    },
+    "isAvailable": true,
+    "quantityExpress": 7,
+    "benefits": {
+      "defaultCashbackPercent": 0,
+      "friendsCashbackPercent": 5,
+      "defaultBonusAmount": 0,
+      "friendsBonusAmount": 133
+    },
+    "discountAmount": null,
+    "isNew": false,
+    "cashback": "",
+    "notify": null,
+    "groupId": 1,
+    "sellerLabel": null,
+    "isPromotional": false,
+    "hasPromotion": false,
+    "isExpressAvailable": true,
+    "isLocal": false,
+    "linkRel": null,
+    "isVerified": false,
+    "verifiedLabel": null,
+    "nutrition": {
+      "fats": "1,5",
+      "kcal": "",
+      "carbs": "23,7",
+      "protein": "3,6"
+    },
+    "ingredients": "Карри: вода, лук (14%), кокосовые сливки (8%), томаты (6%), желтый колотый горох (3%), подсолнечное масло (3%), колотая красная чечевица (3%), колотые бобы мунг (3%), колотые бенгальский горошек (2%), колотый черный горошек, чеснок, имбирь, соль, листья кориандра, порошок куркумы, тамаринд, порошок красного перца чили, семена тмина, кардамон, гвоздика. Гарнир: вода, рис (44%), порошок куркумы. Обработано на заводе по переработке орехов, арахиса, семян кунжута, молочных продуктов, семян горчицы, соевых продуктов и сельдерея.",
+    "storageConditions": "Хранить в сухом, прохладном и гигиеничном месте.",
+    "characteristics": [
+      {
+        "id": "1",
+        "name": "Без глютена",
+        "iconPng": "https://arbuz.kz/image/s3/arbuz-kz-characteristics/img_url__1-bez_glyutena.png?_c=1739163490"
+      },
+      {
+        "id": "2",
+        "name": "Органический",
+        "iconPng": "https://arbuz.kz/image/s3/arbuz-kz-characteristics/img_url__2-organic.png?_c=1739162934"
+      },
+      {
+        "id": "4",
+        "name": "Vegan",
+        "iconPng": "https://arbuz.kz/image/s3/arbuz-kz-characteristics/img_url__4-vegan.png?_c=1732789243"
+      }
+    ],
+    "topInformationBadge": "",
+    "information": "<p>Индийское карри Foodearth из пяти видов чечевицы с рисом и куркумой без ГМО и глютена, веган 300 г .<br />Индийское карри из пяти видов чечевицы &mdash; это вкусный и питательный способ насладиться едой, богатой растительным белком. Это сытное и вкусное карри состоит из пяти видов чечевицы, смеси ароматных специй, таких как тмин, кориандр, куркума и красный молотый чили, а также лука, чеснока и помидоров. Наше согревающее карри идеально сочетается с традиционным рисом басмати с куркумой. Наши удобные готовые к употреблению блюда идеально подходят для напряженных дней, поэтому у вас всегда будет под рукой здоровая, сытная еда.<br />Обработано на заводе по переработке орехов, арахиса, семян кунжута, молочных продуктов, семян горчицы, соевых продуктов и сельдерея.<br />Производитель прошел проверку американским сертифицирующим органом на соответствие требованиям органической продукции. Продукт безопасен и не содержит остатков пестицидов, минеральных удобрений, антибиотиков, гормонов роста и другой химии. Это подтверждается действующим сертификатом - USDA ORGANIC.</p>",
+    "rating": {
+      "value": "4,7",
+      "reviews": "1 оценка"
+    },
+    "pharmProperties": null,
+    "titleIcon": "https://arbuz.kz/image/s3/arbuz-kz-characteristics/img_url__2-organic.png?_c=1739162934",
+    "additionalInformation": {
+      "unitStepType": "pcs",
+      "categoryLevel3Id": "225630",
+      "categoryLevel1": "Органические товары",
+      "categoryLevel2": "Бакалея органическая",
+      "categoryLevel3": "Готовые блюда",
+      "bonusesAwardedPercent": 0
+    },
+    "superAppDeeplink": "https://freedombank.onelink.me/WNLd/f9ewji8d",
+    "banners": []
+  },
+  {
+    "id": "274054",
+    "catalogId": "225571",
+    "catalogName": "Без мяса",
+    "parentCatalogId": 225201,
+    "lang": "ru",
+    "name": "Драники Mfood.kz картофельные со сливочным соусом замороженные 180 г",
+    "producerCountry": "Казахстан",
+    "brandName": "Mfood.kz",
+    "description": "",
+    "htmlDescription": "",
+    "compound": "",
+    "uri": "/ru/almaty/catalog/item/274054-draniki_mfood_kz_kartofelnye_so_slivochnym_sousom_zamorozhennye_180_g",
+    "image": "https://arbuz.kz/image/s3/arbuz-kz-products/274054-draniki_mfood_kz_kartofelnye_so_slivochnym_sousom_180_g.jpg?w=%w&h=%h&_c=1761983875",
+    "measure": "шт",
+    "isWeighted": false,
+    "weightAvg": 0,
+    "weightMin": 1,
+    "weightMax": 3,
+    "weight": "1 шт",
+    "pieceWeightMax": 0,
+    "pieceWeightMin": 1,
+    "sellByPiece": false,
+    "quantityMinStep": 1,
+    "priceActual": 1250,
+    "priceSpecial": null,
+    "friendsDiscount": "",
+    "discount": "",
+    "pricePrevious": 0,
+    "isMain": false,
+    "isRecommended": false,
+    "recommendationType": null,
+    "articleIndex": "",
+    "articleGroup": "",
+    "barcode": "",
+    "badges": [],
+    "contents": {
+      "data": [
+        {
+          "title": "",
+          "content": ""
+        }
+      ]
+    },
+    "isAvailable": true,
+    "quantityExpress": 3,
+    "benefits": {
+      "defaultCashbackPercent": 0,
+      "friendsCashbackPercent": 5,
+      "defaultBonusAmount": 0,
+      "friendsBonusAmount": 63
+    },
+    "discountAmount": null,
+    "isNew": false,
+    "cashback": "",
+    "notify": null,
+    "groupId": 1,
+    "sellerLabel": null,
+    "isPromotional": false,
+    "hasPromotion": false,
+    "isExpressAvailable": true,
+    "isLocal": false,
+    "linkRel": null,
+    "isVerified": false,
+    "verifiedLabel": null,
+    "nutrition": null,
+    "ingredients": null,
+    "storageConditions": null,
+    "characteristics": [
+      {
+        "id": "10",
+        "name": "Глубокая заморозка",
+        "iconPng": "https://arbuz.kz/image/s3/arbuz-kz-characteristics/10-glubokaya_zamorozka.png?_c=1739163031"
+      }
+    ],
+    "topInformationBadge": "",
+    "information": "<p>Состав:&nbsp;Сливки 30%, картофель, яйцо, мука, соль, перец</p><p>Блюдо готовое, замороженное.</p>",
+    "rating": {
+      "value": "4,3",
+      "reviews": "2 оценки"
+    },
+    "pharmProperties": null,
+    "titleIcon": null,
+    "additionalInformation": {
+      "unitStepType": "pcs",
+      "categoryLevel3Id": "225571",
+      "categoryLevel1": "Готовая еда",
+      "categoryLevel2": "Вторые блюда",
+      "categoryLevel3": "Без мяса",
+      "bonusesAwardedPercent": 0
+    },
+    "superAppDeeplink": "https://freedombank.onelink.me/WNLd/i20wweoj",
+    "banners": []
+  },
+  {
+    "id": "325251",
+    "catalogId": "225630",
+    "catalogName": "Без мяса",
+    "parentCatalogId": 224944,
+    "lang": "ru",
+    "name": "Карри Foodearth из бомбейской чечевицы с рисом и куркумой 300 г",
+    "producerCountry": "Индия",
+    "brandName": "Foodearth",
+    "description": "",
+    "htmlDescription": "",
+    "compound": "",
+    "uri": "/ru/almaty/catalog/item/325251-karri_foodearth_iz_bombeiskoi_chechevicy_s_risom_i_kurkumoi_300_g_",
+    "image": "https://arbuz.kz/image/s3/arbuz-kz-products/image__325251-karri_foodearth_iz_bombeiskoi_chechevicy_s_risom_i_kurkumoi_300_g_.jpg?w=%w&h=%h&_c=1752835007",
+    "measure": "шт",
+    "isWeighted": false,
+    "weightAvg": 0,
+    "weightMin": 1,
+    "weightMax": 15,
+    "weight": "1 шт",
+    "pieceWeightMax": 0,
+    "pieceWeightMin": 0,
+    "sellByPiece": false,
+    "quantityMinStep": 1,
+    "priceActual": 2665,
+    "priceSpecial": null,
+    "friendsDiscount": "",
+    "discount": "",
+    "pricePrevious": 0,
+    "isMain": false,
+    "isRecommended": false,
+    "recommendationType": null,
+    "articleIndex": "",
+    "articleGroup": "",
+    "barcode": "",
+    "badges": [],
+    "contents": {
+      "data": [
+        {
+          "title": "",
+          "content": ""
+        }
+      ]
+    },
+    "isAvailable": true,
+    "quantityExpress": 15,
+    "benefits": {
+      "defaultCashbackPercent": 0,
+      "friendsCashbackPercent": 5,
+      "defaultBonusAmount": 0,
+      "friendsBonusAmount": 133
+    },
+    "discountAmount": null,
+    "isNew": false,
+    "cashback": "",
+    "notify": null,
+    "groupId": 1,
+    "sellerLabel": null,
+    "isPromotional": false,
+    "hasPromotion": false,
+    "isExpressAvailable": true,
+    "isLocal": false,
+    "linkRel": null,
+    "isVerified": false,
+    "verifiedLabel": null,
+    "nutrition": {
+      "fats": "2,1",
+      "kcal": "",
+      "carbs": "23,2",
+      "protein": "3,7"
+    },
+    "ingredients": "Карри: вода, кокосовые сливки (26%), томаты (11%), колотый черный горох (7%), лук (3%), чеснок (3%), белая фасоль (2%), подсолнечное масло (2%), имбирь (2%), соль, сахар, порошок чили, гарам масала (порошок чили, семена тмина, семена кориандра, корица, черный перец, гвоздика), кардамон. Гарнир: рисовая вода, рис (44%), порошок куркумы. Обработано на заводе по переработке орехов, арахиса, семян кунжута, молочных продуктов, семян горчицы, соевых продуктов и сельдерея",
+    "storageConditions": "Хранить в сухом, прохладном и гигиеничном месте.",
+    "characteristics": [
+      {
+        "id": "1",
+        "name": "Без глютена",
+        "iconPng": "https://arbuz.kz/image/s3/arbuz-kz-characteristics/img_url__1-bez_glyutena.png?_c=1739163490"
+      },
+      {
+        "id": "2",
+        "name": "Органический",
+        "iconPng": "https://arbuz.kz/image/s3/arbuz-kz-characteristics/img_url__2-organic.png?_c=1739162934"
+      },
+      {
+        "id": "4",
+        "name": "Vegan",
+        "iconPng": "https://arbuz.kz/image/s3/arbuz-kz-characteristics/img_url__4-vegan.png?_c=1732789243"
+      }
+    ],
+    "topInformationBadge": "",
+    "information": "<p>Карри Foodearth из бомбейской чечевицы с рисом и куркумой без ГМО и глютена, веган 300 г&nbsp;<br />Наш веганский Дал Махани &mdash; это вкусное и питательное готовое к употреблению блюдо, идеально подходящее для тех, кто хочет насладиться вкусной индийской кухней без необходимости готовить. Приготовленное из питательной чечевицы, томатов и трав, это блюдо богато белком, клетчаткой и необходимыми питательными веществами. Золотистый рис басмати с куркумой служит прекрасным дополнением к насыщенной сливочной текстуре Дал Махани. Сочетание ароматных специй и нежных вкусов делает это блюдо приятным и сытным выбором в любое время дня.<br />Обработано на заводе по переработке орехов, арахиса, семян кунжута, молочных продуктов, семян горчицы, соевых продуктов и сельдерея.<br />Производитель прошел проверку американским сертифицирующим органом на соответствие требованиям органической продукции.<br />Продукт безопасен и не содержит остатков пестицидов, минеральных удобрений, антибиотиков, гормонов роста и другой химии. Это подтверждается действующим сертификатом - USDA ORGANIC.</p>",
+    "rating": null,
+    "pharmProperties": null,
+    "titleIcon": "https://arbuz.kz/image/s3/arbuz-kz-characteristics/img_url__2-organic.png?_c=1739162934",
+    "additionalInformation": {
+      "unitStepType": "pcs",
+      "categoryLevel3Id": "225630",
+      "categoryLevel1": "Органические товары",
+      "categoryLevel2": "Бакалея органическая",
+      "categoryLevel3": "Готовые блюда",
+      "bonusesAwardedPercent": 0
+    },
+    "superAppDeeplink": "https://freedombank.onelink.me/WNLd/9sla4hav",
+    "banners": []
+  },
+  {
+    "id": "274059",
+    "catalogId": "225571",
+    "catalogName": "Без мяса",
+    "parentCatalogId": 225201,
+    "lang": "ru",
+    "name": "Драники Mfood.kz кабачковые со сливочным соусом замороженные 180 г",
+    "producerCountry": "Казахстан",
+    "brandName": "Mfood.kz",
+    "description": "",
+    "htmlDescription": "",
+    "compound": "",
+    "uri": "/ru/almaty/catalog/item/274059-draniki_mfood_kz_kabachkovye_so_slivochnym_sousom_zamorozhennye_180_g",
+    "image": "https://arbuz.kz/image/s3/arbuz-kz-products/274059-draniki_mfood_kz_kabachkovye_so_slivochnym_sousom_180_g.png?w=%w&h=%h&_c=1761983838",
+    "measure": "шт",
+    "isWeighted": false,
+    "weightAvg": 0,
+    "weightMin": 1,
+    "weightMax": 4,
+    "weight": "1 шт",
+    "pieceWeightMax": 0,
+    "pieceWeightMin": 1,
+    "sellByPiece": false,
+    "quantityMinStep": 1,
+    "priceActual": 1625,
+    "priceSpecial": null,
+    "friendsDiscount": "",
+    "discount": "",
+    "pricePrevious": 0,
+    "isMain": false,
+    "isRecommended": false,
+    "recommendationType": null,
+    "articleIndex": "",
+    "articleGroup": "",
+    "barcode": "",
+    "badges": [],
+    "contents": {
+      "data": [
+        {
+          "title": "",
+          "content": ""
+        }
+      ]
+    },
+    "isAvailable": true,
+    "quantityExpress": 4,
+    "benefits": {
+      "defaultCashbackPercent": 0,
+      "friendsCashbackPercent": 5,
+      "defaultBonusAmount": 0,
+      "friendsBonusAmount": 81
+    },
+    "discountAmount": null,
+    "isNew": false,
+    "cashback": "",
+    "notify": null,
+    "groupId": 1,
+    "sellerLabel": null,
+    "isPromotional": false,
+    "hasPromotion": false,
+    "isExpressAvailable": true,
+    "isLocal": false,
+    "linkRel": null,
+    "isVerified": false,
+    "verifiedLabel": null,
+    "nutrition": null,
+    "ingredients": null,
+    "storageConditions": null,
+    "characteristics": [
+      {
+        "id": "10",
+        "name": "Глубокая заморозка",
+        "iconPng": "https://arbuz.kz/image/s3/arbuz-kz-characteristics/10-glubokaya_zamorozka.png?_c=1739163031"
+      }
+    ],
+    "topInformationBadge": "",
+    "information": "<p>Состав:&nbsp;Сливки 30%, кабачок, яйцо, мука, соль, перец</p><p>Блюдо готовое, замороженное.</p>",
+    "rating": {
+      "value": "4,2",
+      "reviews": "3 оценки"
+    },
+    "pharmProperties": null,
+    "titleIcon": null,
+    "additionalInformation": {
+      "unitStepType": "pcs",
+      "categoryLevel3Id": "225571",
+      "categoryLevel1": "Готовая еда",
+      "categoryLevel2": "Вторые блюда",
+      "categoryLevel3": "Без мяса",
+      "bonusesAwardedPercent": 0
+    },
+    "superAppDeeplink": "https://freedombank.onelink.me/WNLd/pwfdw8ve",
+    "banners": []
+  },
+  {
+    "id": "320934",
+    "catalogId": "225571",
+    "catalogName": "Без мяса",
+    "parentCatalogId": 225201,
+    "lang": "ru",
+    "name": "Булгур Arbuz Select x Damdala с овощами и кинзой 200 г",
+    "producerCountry": "Казахстан",
+    "brandName": null,
+    "description": "",
+    "htmlDescription": "",
+    "compound": "",
+    "uri": "/ru/almaty/catalog/item/320934-bulgur_arbuz_select_x_damdala_s_ovoshami_i_kinzoi_200_g",
+    "image": "https://arbuz.kz/image/s3/arbuz-kz-products/file_name__f0e22b08-0843-4651-a8b1-7062b7f1cff4-320934_1_png.png?w=%w&h=%h&_c=1735283515",
+    "measure": "шт",
+    "isWeighted": false,
+    "weightAvg": 0,
+    "weightMin": 1,
+    "weightMax": 1,
+    "weight": "1 шт",
+    "pieceWeightMax": 0,
+    "pieceWeightMin": 1,
+    "sellByPiece": false,
+    "quantityMinStep": 1,
+    "priceActual": 995,
+    "priceSpecial": null,
+    "friendsDiscount": "",
+    "discount": "",
+    "pricePrevious": 0,
+    "isMain": false,
+    "isRecommended": false,
+    "recommendationType": null,
+    "articleIndex": "",
+    "articleGroup": "",
+    "barcode": "",
+    "badges": [],
+    "contents": {
+      "data": [
+        {
+          "title": "",
+          "content": ""
+        }
+      ]
+    },
+    "isAvailable": true,
+    "quantityExpress": 1,
+    "benefits": {
+      "defaultCashbackPercent": 0,
+      "friendsCashbackPercent": 5,
+      "defaultBonusAmount": 0,
+      "friendsBonusAmount": 50
+    },
+    "discountAmount": null,
+    "isNew": false,
+    "cashback": "",
+    "notify": null,
+    "groupId": 1,
+    "sellerLabel": null,
+    "isPromotional": false,
+    "hasPromotion": false,
+    "isExpressAvailable": true,
+    "isLocal": false,
+    "linkRel": null,
+    "isVerified": false,
+    "verifiedLabel": null,
+    "nutrition": {
+      "fats": "17,3",
+      "kcal": "328,8",
+      "carbs": "39,1",
+      "protein": "6,4"
+    },
+    "ingredients": "Крупа булгур, кабачки, морковь, перец болгарский, чили полугорький, масло оливковое, масло подсолнечное, соль морская, перец черный молотый, кориандр, зелень кинза",
+    "storageConditions": "6 дней, +4&deg;С",
+    "characteristics": null,
+    "topInformationBadge": "",
+    "information": "Легкое и питательное блюдо, приготовленное из нежного булгура с яркими свежими овощами и ароматной кинзой. Идеальный выбор для здорового обеда или гарнира, которое порадует вас своим вкусом и яркостью.",
+    "rating": {
+      "value": "4,2",
+      "reviews": "1 оценка"
+    },
+    "pharmProperties": null,
+    "titleIcon": null,
+    "additionalInformation": {
+      "unitStepType": "pcs",
+      "categoryLevel3Id": "225571",
+      "categoryLevel1": "Готовая еда",
+      "categoryLevel2": "Вторые блюда",
+      "categoryLevel3": "Без мяса",
+      "bonusesAwardedPercent": 0
+    },
+    "superAppDeeplink": "https://freedombank.onelink.me/WNLd/qtnrwu4a",
+    "banners": []
+  },
+  {
+    "id": "325253",
+    "catalogId": "225630",
+    "catalogName": "Без мяса",
+    "parentCatalogId": 224944,
+    "lang": "ru",
+    "name": "Овощное бириани Foodearth 250 г",
+    "producerCountry": "Индия",
+    "brandName": "Foodearth",
+    "description": "",
+    "htmlDescription": "",
+    "compound": "",
+    "uri": "/ru/almaty/catalog/item/325253-ovoshnoe_biriani_foodearth_250_g_",
+    "image": "https://arbuz.kz/image/s3/arbuz-kz-products/image__325253-ovoshnoe_biriani_foodearth_250_g_.jpg?w=%w&h=%h&_c=1752835005",
+    "measure": "шт",
+    "isWeighted": false,
+    "weightAvg": 0,
+    "weightMin": 1,
+    "weightMax": 5,
+    "weight": "1 шт",
+    "pieceWeightMax": 0,
+    "pieceWeightMin": 0,
+    "sellByPiece": false,
+    "quantityMinStep": 1,
+    "priceActual": 2655,
+    "priceSpecial": null,
+    "friendsDiscount": "",
+    "discount": "",
+    "pricePrevious": 0,
+    "isMain": false,
+    "isRecommended": false,
+    "recommendationType": null,
+    "articleIndex": "",
+    "articleGroup": "",
+    "barcode": "",
+    "badges": [],
+    "contents": {
+      "data": [
+        {
+          "title": "",
+          "content": ""
+        }
+      ]
+    },
+    "isAvailable": true,
+    "quantityExpress": 5,
+    "benefits": {
+      "defaultCashbackPercent": 0,
+      "friendsCashbackPercent": 5,
+      "defaultBonusAmount": 0,
+      "friendsBonusAmount": 133
+    },
+    "discountAmount": null,
+    "isNew": false,
+    "cashback": "",
+    "notify": null,
+    "groupId": 1,
+    "sellerLabel": null,
+    "isPromotional": false,
+    "hasPromotion": false,
+    "isExpressAvailable": true,
+    "isLocal": false,
+    "linkRel": null,
+    "isVerified": false,
+    "verifiedLabel": null,
+    "nutrition": {
+      "fats": "2,3",
+      "kcal": "",
+      "carbs": "33,2",
+      "protein": "4,6"
+    },
+    "ingredients": "Вода, рис (21%), лук (15%), картофель (9%), морковь (9%), томаты (7%), французская фасоль (5%), зеленый горошек (3%), подсолнечное масло (2%), чеснок (2%), имбирь, соль, гарам масала (порошок чили, семена тмина, семена кориандра, корица, черный перец, гвоздика), зеленый перец чили, порошок куркумы. Обработано на заводе по переработке орехов, арахиса, семян кунжута, молочных продуктов, семян горчицы, соевых продуктов и сельдерея.",
+    "storageConditions": "Хранить в сухом, прохладном и гигиеничном месте.",
+    "characteristics": [
+      {
+        "id": "1",
+        "name": "Без глютена",
+        "iconPng": "https://arbuz.kz/image/s3/arbuz-kz-characteristics/img_url__1-bez_glyutena.png?_c=1739163490"
+      },
+      {
+        "id": "2",
+        "name": "Органический",
+        "iconPng": "https://arbuz.kz/image/s3/arbuz-kz-characteristics/img_url__2-organic.png?_c=1739162934"
+      },
+      {
+        "id": "4",
+        "name": "Vegan",
+        "iconPng": "https://arbuz.kz/image/s3/arbuz-kz-characteristics/img_url__4-vegan.png?_c=1732789243"
+      }
+    ],
+    "topInformationBadge": "",
+    "information": "<p>Овощное бириани Foodearth без ГМО и глютена, веган 250 г.&nbsp;&nbsp;<br />Овощной бириани &mdash; традиционное индийское блюдо, приготовленное из длиннозерного риса басмати, смеси овощей и ароматных специй. Ингредиенты укладываются слоями и готовятся медленно, позволяя вкусам объединиться. В результате получается ароматное блюдо &laquo;все в одном&raquo;, приготовленное без лишних хлопот. Обработано на заводе по переработке орехов, арахиса, семян кунжута, молочных продуктов, семян горчицы, соевых продуктов и сельдерея.<br />Производитель прошел проверку американским сертифицирующим органом на соответствие требованиям органической продукции. Продукт безопасен и не содержит остатков пестицидов, минеральных удобрений, антибиотиков, гормонов роста и другой химии. Это подтверждается действующим сертификатом - USDA ORGANIC.</p>",
+    "rating": {
+      "value": "5,0",
+      "reviews": "1 оценка"
+    },
+    "pharmProperties": null,
+    "titleIcon": "https://arbuz.kz/image/s3/arbuz-kz-characteristics/img_url__2-organic.png?_c=1739162934",
+    "additionalInformation": {
+      "unitStepType": "pcs",
+      "categoryLevel3Id": "225630",
+      "categoryLevel1": "Органические товары",
+      "categoryLevel2": "Бакалея органическая",
+      "categoryLevel3": "Готовые блюда",
+      "bonusesAwardedPercent": 0
+    },
+    "superAppDeeplink": "https://freedombank.onelink.me/WNLd/jiflpgi2",
+    "banners": []
+  },
+  {
+    "id": "274057",
+    "catalogId": "225571",
+    "catalogName": "Без мяса",
+    "parentCatalogId": 225201,
+    "lang": "ru",
+    "name": "Драники Mfood.kz морковные со сливочным соусом замороженные 180 г",
+    "producerCountry": "Казахстан",
+    "brandName": "Mfood.kz",
+    "description": "",
+    "htmlDescription": "",
+    "compound": "",
+    "uri": "/ru/almaty/catalog/item/274057-draniki_mfood_kz_morkovnye_so_slivochnym_sousom_zamorozhennye_180_g",
+    "image": "https://arbuz.kz/image/s3/arbuz-kz-products/274057-draniki_mfood_kz_morkovnye_so_slivochnym_sousom_180_g.jpg?w=%w&h=%h&_c=1762005268",
+    "measure": "шт",
+    "isWeighted": false,
+    "weightAvg": 0,
+    "weightMin": 1,
+    "weightMax": 4,
+    "weight": "1 шт",
+    "pieceWeightMax": 0,
+    "pieceWeightMin": 1,
+    "sellByPiece": false,
+    "quantityMinStep": 1,
+    "priceActual": 1190,
+    "priceSpecial": null,
+    "friendsDiscount": "",
+    "discount": "",
+    "pricePrevious": 0,
+    "isMain": false,
+    "isRecommended": false,
+    "recommendationType": null,
+    "articleIndex": "",
+    "articleGroup": "",
+    "barcode": "",
+    "badges": [],
+    "contents": {
+      "data": [
+        {
+          "title": "",
+          "content": ""
+        }
+      ]
+    },
+    "isAvailable": true,
+    "quantityExpress": 4,
+    "benefits": {
+      "defaultCashbackPercent": 0,
+      "friendsCashbackPercent": 5,
+      "defaultBonusAmount": 0,
+      "friendsBonusAmount": 60
+    },
+    "discountAmount": null,
+    "isNew": false,
+    "cashback": "",
+    "notify": null,
+    "groupId": 1,
+    "sellerLabel": null,
+    "isPromotional": false,
+    "hasPromotion": false,
+    "isExpressAvailable": true,
+    "isLocal": false,
+    "linkRel": null,
+    "isVerified": false,
+    "verifiedLabel": null,
+    "nutrition": null,
+    "ingredients": null,
+    "storageConditions": null,
+    "characteristics": [
+      {
+        "id": "10",
+        "name": "Глубокая заморозка",
+        "iconPng": "https://arbuz.kz/image/s3/arbuz-kz-characteristics/10-glubokaya_zamorozka.png?_c=1739163031"
+      }
+    ],
+    "topInformationBadge": "",
+    "information": "<p>Состав:&nbsp;Сливки 30%, морковь, яйцо, мука, соль, перец</p><p>Блюдо готовое, замороженное.</p>",
+    "rating": null,
+    "pharmProperties": null,
+    "titleIcon": null,
+    "additionalInformation": {
+      "unitStepType": "pcs",
+      "categoryLevel3Id": "225571",
+      "categoryLevel1": "Готовая еда",
+      "categoryLevel2": "Вторые блюда",
+      "categoryLevel3": "Без мяса",
+      "bonusesAwardedPercent": 0
+    },
+    "superAppDeeplink": "https://freedombank.onelink.me/WNLd/pp39y919",
+    "banners": []
+  }
+]

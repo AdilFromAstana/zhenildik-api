@@ -1,0 +1,113 @@
+[
+  {
+    "id": "104877499",
+    "configSku": "104877499",
+    "title": "Vici палочки сурими 250 г",
+    "brand": "Vici",
+    "categoryId": "03840",
+    "hasVariants": false,
+    "loanAvailable": false,
+    "shopLink": "/p/vici-palochki-surimi-250-g-104877499/?c=710000000",
+    "unitPrice": 2359,
+    "unitSalePrice": 2359,
+    "unitPriceBeforeDiscount": 2945,
+    "discount": 20,
+    "priceFormatted": "2 359 ₸",
+    "createdTime": "2022-05-19T05:05:29.097Z",
+    "stickers": [
+      "magnum_offer_available"
+    ],
+    "previewImages": [
+      {
+        "small": "https://resources.cdn-kaspi.kz/img/m/p/hb2/h5b/85467678179358.jpg?format=preview-small",
+        "medium": "https://resources.cdn-kaspi.kz/img/m/p/hb2/h5b/85467678179358.jpg?format=preview-medium",
+        "large": "https://resources.cdn-kaspi.kz/img/m/p/hb2/h5b/85467678179358.jpg?format=preview-large"
+      },
+      {
+        "small": "https://resources.cdn-kaspi.kz/img/m/p/h12/hda/85467678244894.jpg?format=preview-small",
+        "medium": "https://resources.cdn-kaspi.kz/img/m/p/h12/hda/85467678244894.jpg?format=preview-medium",
+        "large": "https://resources.cdn-kaspi.kz/img/m/p/h12/hda/85467678244894.jpg?format=preview-large"
+      },
+      {
+        "small": "https://resources.cdn-kaspi.kz/img/m/p/he5/h4d/85467678310430.jpg?format=preview-small",
+        "medium": "https://resources.cdn-kaspi.kz/img/m/p/he5/h4d/85467678310430.jpg?format=preview-medium",
+        "large": "https://resources.cdn-kaspi.kz/img/m/p/he5/h4d/85467678310430.jpg?format=preview-large"
+      }
+    ],
+    "teasers": [],
+    "creditMonthlyPrice": 787,
+    "monthlyInstallment": {
+      "id": 3,
+      "installment": true,
+      "formattedPerMonth": "787 ₸"
+    },
+    "reviewsLink": "/p/vici-palochki-surimi-250-g-104877499/?c=710000000&tab=reviews",
+    "weight": 0.26,
+    "unit": {
+      "type": "PIECES",
+      "increment": 1,
+      "measurementLiteral": "шт",
+      "countingLiteral": "шт"
+    },
+    "rating": 0,
+    "reviewsQuantity": 0,
+    "stock": 1,
+    "currency": "KZT",
+    "mods": "",
+    "deliveryDuration": "TODAY",
+    "shortNameText": "",
+    "category": [
+      "Продукты питания",
+      "Рыба, морепродукты",
+      "Рыбные полуфабрикаты"
+    ],
+    "categoryRu": [
+      "Продукты питания",
+      "Рыба, морепродукты",
+      "Рыбные полуфабрикаты"
+    ],
+    "categoryCodes": [
+      "Frozen semi-finished fish products",
+      "Seafood",
+      "Food",
+      "Categories"
+    ],
+    "groups": [],
+    "promo": [
+      {
+        "code": "magnum 0012",
+        "text": null,
+        "type": "LOAN",
+        "priority": 12,
+        "owner": "KASPI",
+        "bonusType": "",
+        "img": {
+          "alt": null,
+          "large": {
+            "src": "https://resources.cdn-kaspi.kz/yml/static/assets/badges/l12.svg?v=1",
+            "width": 55,
+            "height": 31
+          },
+          "medium": {
+            "src": "https://resources.cdn-kaspi.kz/yml/static/assets/badges/l12.svg?v=1",
+            "width": 40,
+            "height": 22
+          },
+          "small": {
+            "src": "https://resources.cdn-kaspi.kz/yml/static/assets/badges/l12.svg?v=1",
+            "width": 40,
+            "height": 22
+          }
+        }
+      }
+    ],
+    "majorMerchants": [
+      "Magnum"
+    ],
+    "deliveryZones": [
+      "magnum_f_zone",
+      "Magnum_ZONE3",
+      "Magnum_ZONE5"
+    ]
+  }
+]

@@ -1,0 +1,101 @@
+[
+  {
+    "id": "278541",
+    "catalogId": "224953",
+    "catalogName": "Шоколадная и арахисовая паста",
+    "parentCatalogId": 224653,
+    "lang": "ru",
+    "name": "Паста Clearspring органическая миндальная нежная 170 г",
+    "producerCountry": "Англия",
+    "brandName": "Clearspring",
+    "description": "",
+    "htmlDescription": "",
+    "compound": "",
+    "uri": "/ru/almaty/catalog/item/278541-pasta_clearspring_organicheskaya_mindalnaya_nezhnaya_170_g",
+    "image": "https://arbuz.kz/image/s3/arbuz-kz-products/file_name__b6b337f6-d57c-4059-a4e6-6afe9e866ffb-img_5200_jpg.jpg?w=%w&h=%h&_c=1728562655",
+    "measure": "шт",
+    "isWeighted": false,
+    "weightAvg": 0,
+    "weightMin": 1,
+    "weightMax": 5,
+    "weight": "1 шт",
+    "pieceWeightMax": 0,
+    "pieceWeightMin": 1,
+    "sellByPiece": false,
+    "quantityMinStep": 1,
+    "priceActual": 6616,
+    "priceSpecial": null,
+    "friendsDiscount": "",
+    "discount": "",
+    "pricePrevious": 0,
+    "isMain": false,
+    "isRecommended": false,
+    "recommendationType": null,
+    "articleIndex": "",
+    "articleGroup": "",
+    "barcode": "",
+    "badges": [],
+    "contents": {
+      "data": [
+        {
+          "title": "",
+          "content": ""
+        }
+      ]
+    },
+    "isAvailable": true,
+    "quantityExpress": 5,
+    "benefits": {
+      "defaultCashbackPercent": 0,
+      "friendsCashbackPercent": 5,
+      "defaultBonusAmount": 0,
+      "friendsBonusAmount": 331
+    },
+    "discountAmount": null,
+    "isNew": false,
+    "cashback": "",
+    "notify": null,
+    "groupId": 1,
+    "sellerLabel": null,
+    "isPromotional": false,
+    "hasPromotion": false,
+    "isExpressAvailable": true,
+    "isLocal": false,
+    "linkRel": null,
+    "isVerified": false,
+    "verifiedLabel": null,
+    "nutrition": null,
+    "ingredients": "Органический миндаль 100%.",
+    "storageConditions": null,
+    "characteristics": [
+      {
+        "id": "2",
+        "name": "Органический",
+        "iconPng": "https://arbuz.kz/image/s3/arbuz-kz-characteristics/img_url__2-organic.png?_c=1739162934"
+      },
+      {
+        "id": "4",
+        "name": "Vegan",
+        "iconPng": "https://arbuz.kz/image/s3/arbuz-kz-characteristics/img_url__4-vegan.png?_c=1732789243"
+      }
+    ],
+    "topInformationBadge": "",
+    "information": "<p>Миндаль обжаривают, а затем измельчают до густой кремовой пасты. Вы можете съесть прямо из банки, добавить ложку в кашу или завтрак или посыпать сырыми хрустящими овощными салатами.<br />&nbsp;</p>",
+    "rating": {
+      "value": "4,8",
+      "reviews": "2 оценки"
+    },
+    "pharmProperties": null,
+    "titleIcon": "https://arbuz.kz/image/s3/arbuz-kz-characteristics/img_url__2-organic.png?_c=1739162934",
+    "additionalInformation": {
+      "unitStepType": "pcs",
+      "categoryLevel3Id": "224953",
+      "categoryLevel1": "Органические товары",
+      "categoryLevel2": "Сладости и перекусы",
+      "categoryLevel3": "Шоколадная и арахисовая паста",
+      "bonusesAwardedPercent": 0
+    },
+    "superAppDeeplink": "https://freedombank.onelink.me/WNLd/udtollo6",
+    "banners": []
+  }
+]

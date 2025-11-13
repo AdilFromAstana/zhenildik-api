@@ -1,0 +1,1032 @@
+[
+  {
+    "id": "308338",
+    "catalogId": "225137",
+    "catalogName": "Курица охлаждённая",
+    "parentCatalogId": 225173,
+    "lang": "ru",
+    "name": "Филе цыпленка Arbuz Select охлажденное кг",
+    "producerCountry": "Казахстан",
+    "brandName": "Arbuz Select",
+    "description": "",
+    "htmlDescription": "",
+    "compound": "",
+    "uri": "/ru/almaty/catalog/item/308338-file_cyplenka_arbuz_select_ohlazhdennoe_kg",
+    "image": "https://arbuz.kz/image/s3/arbuz-kz-products/32d12271-88d5-47b6-aa0a-01f56e953ed2-19_png.png?w=%w&h=%h&_c=1716465214",
+    "measure": "кг",
+    "isWeighted": true,
+    "weightAvg": 0,
+    "weightMin": 0.9,
+    "weightMax": 50,
+    "weight": "0,9 кг",
+    "pieceWeightMax": 0,
+    "pieceWeightMin": 0.9,
+    "sellByPiece": false,
+    "quantityMinStep": 0.9,
+    "priceActual": 2499,
+    "priceSpecial": null,
+    "friendsDiscount": "",
+    "discount": "−18%",
+    "pricePrevious": 3030,
+    "isMain": false,
+    "isRecommended": false,
+    "recommendationType": null,
+    "articleIndex": "",
+    "articleGroup": "",
+    "barcode": "",
+    "badges": [
+      {
+        "text": "−18%",
+        "backgroundColor": "#4F4F4F",
+        "textColor": "#FFFFFF",
+        "basketHidden": true,
+        "priority": 2,
+        "position": "top",
+        "type": "discount"
+      }
+    ],
+    "contents": {
+      "data": [
+        {
+          "title": "",
+          "content": ""
+        }
+      ]
+    },
+    "isAvailable": true,
+    "quantityExpress": 170.305,
+    "benefits": {
+      "defaultCashbackPercent": 0,
+      "friendsCashbackPercent": 5,
+      "defaultBonusAmount": 0,
+      "friendsBonusAmount": 125
+    },
+    "discountAmount": null,
+    "isNew": false,
+    "cashback": "",
+    "notify": null,
+    "groupId": 1,
+    "sellerLabel": null,
+    "isPromotional": false,
+    "hasPromotion": false,
+    "isExpressAvailable": true,
+    "isLocal": false,
+    "linkRel": null,
+    "isVerified": false,
+    "verifiedLabel": null,
+    "nutrition": {
+      "fats": "1,8",
+      "kcal": "120",
+      "carbs": "0,2",
+      "protein": "24,1"
+    },
+    "ingredients": "Филе цыпленка бройлера",
+    "storageConditions": "5 дней, от 0&deg;C до +2&deg;C",
+    "characteristics": [
+      {
+        "id": "7",
+        "name": "Охлажденный продукт",
+        "iconPng": "https://arbuz.kz/image/s3/arbuz-kz-characteristics/7-ohlazhdennyi_produkt.png?_c=1702450685"
+      },
+      {
+        "id": "14",
+        "name": "Без антибиотиков",
+        "iconPng": "https://arbuz.kz/image/s3/arbuz-kz-characteristics/img_url__14-bez_antibiotikov.png?_c=1739517304"
+      }
+    ],
+    "topInformationBadge": "",
+    "information": "<p>Птицефабрика, расположенная в Алматинской области, стремится строго следовать экологическим стандартам производства. Не используя антибиотики, она контролирует полный цикл производства продукции, который соответствует самым строгим нормам HALAL.</p>",
+    "rating": {
+      "value": "4,8",
+      "reviews": "276 оценок"
+    },
+    "pharmProperties": null,
+    "titleIcon": null,
+    "additionalInformation": {
+      "unitStepType": "kg",
+      "categoryLevel3Id": "225137",
+      "categoryLevel1": "Мясо и птица",
+      "categoryLevel2": "Курица, индейка и птица",
+      "categoryLevel3": "Курица охлаждённая",
+      "bonusesAwardedPercent": 0
+    },
+    "superAppDeeplink": "https://freedombank.onelink.me/WNLd/y8vrvtxi",
+    "banners": []
+  },
+  {
+    "id": "239309",
+    "catalogId": "225137",
+    "catalogName": "Курица охлаждённая",
+    "parentCatalogId": 225173,
+    "lang": "ru",
+    "name": "Филе Кус Вкус Цыпленка бройлера охлажденное на подложке, кг",
+    "producerCountry": "Казахстан",
+    "brandName": "Кус Вкус",
+    "description": "",
+    "htmlDescription": "",
+    "compound": "",
+    "uri": "/ru/almaty/catalog/item/239309-file_kus_vkus_cyplenka_broilera_ohlazhdennoe_na_podlozhke_kg",
+    "image": "https://arbuz.kz/image/s3/arbuz-kz-products/file_name__13c63551-ae8e-430e-a9a9-630fc71f605c-239309-002_jpg.jpg?w=%w&h=%h&_c=1739346521",
+    "measure": "шт",
+    "isWeighted": true,
+    "weightAvg": 0,
+    "weightMin": 1,
+    "weightMax": 6,
+    "weight": "0,8 кг",
+    "pieceWeightMax": 1,
+    "pieceWeightMin": 0.8,
+    "sellByPiece": true,
+    "quantityMinStep": 1,
+    "priceActual": 2355,
+    "priceSpecial": null,
+    "friendsDiscount": "",
+    "discount": "−17%",
+    "pricePrevious": 2828,
+    "isMain": false,
+    "isRecommended": false,
+    "recommendationType": null,
+    "articleIndex": "",
+    "articleGroup": "",
+    "barcode": "",
+    "badges": [
+      {
+        "text": "−17%",
+        "backgroundColor": "#4F4F4F",
+        "textColor": "#FFFFFF",
+        "basketHidden": true,
+        "priority": 2,
+        "position": "top",
+        "type": "discount"
+      }
+    ],
+    "contents": {
+      "data": [
+        {
+          "title": "",
+          "content": ""
+        }
+      ]
+    },
+    "isAvailable": true,
+    "quantityExpress": 55.916,
+    "benefits": {
+      "defaultCashbackPercent": 0,
+      "friendsCashbackPercent": 5,
+      "defaultBonusAmount": 0,
+      "friendsBonusAmount": 118
+    },
+    "discountAmount": null,
+    "isNew": false,
+    "cashback": "",
+    "notify": null,
+    "groupId": 1,
+    "sellerLabel": null,
+    "isPromotional": false,
+    "hasPromotion": false,
+    "isExpressAvailable": true,
+    "isLocal": false,
+    "linkRel": null,
+    "isVerified": false,
+    "verifiedLabel": null,
+    "nutrition": {
+      "fats": "2,5",
+      "kcal": "113",
+      "carbs": "",
+      "protein": "22"
+    },
+    "ingredients": null,
+    "storageConditions": "<p>7 дней, от&nbsp;0&deg;С до&nbsp;+2&deg;С</p>",
+    "characteristics": [
+      {
+        "id": "7",
+        "name": "Охлажденный продукт",
+        "iconPng": "https://arbuz.kz/image/s3/arbuz-kz-characteristics/7-ohlazhdennyi_produkt.png?_c=1702450685"
+      }
+    ],
+    "topInformationBadge": "Цена за штуку указана с учетом максимального веса. Итоговая стоимость может отличаться и указывается в накладной.",
+    "information": "<p>Вес: ~ 800-1000&nbsp;г.<br /><br />Куриное филе &mdash; один из универсальных продуктов, которое можно приготовить различными способами: отварить, поджарить, потушить, запечь, приготовить на&nbsp;гриле или в&nbsp;коптильне. Из куриного филе готовят фарш для приготовления котлет или запеканок, можно мелко нарезать филе, добавить приправы, яйцо и&nbsp;майонез (любой соус по вкусу), репчатый лук и&nbsp;немного муки, перемешать и обжарить в виде оладьев. Идеальными компаньонами куриного филе традиционно считаются приготовленные на пару брокколи и&nbsp;цветная капуста, салат из&nbsp;зелени или рис.</p>",
+    "rating": {
+      "value": "4,9",
+      "reviews": "166 оценок"
+    },
+    "pharmProperties": null,
+    "titleIcon": null,
+    "additionalInformation": {
+      "unitStepType": "pcs-kg",
+      "categoryLevel3Id": "225137",
+      "categoryLevel1": "Мясо и птица",
+      "categoryLevel2": "Курица, индейка и птица",
+      "categoryLevel3": "Курица охлаждённая",
+      "bonusesAwardedPercent": 0
+    },
+    "superAppDeeplink": "https://freedombank.onelink.me/WNLd/6pusmzon",
+    "banners": []
+  },
+  {
+    "id": "309905",
+    "catalogId": "225137",
+    "catalogName": "Курица охлаждённая",
+    "parentCatalogId": 225173,
+    "lang": "ru",
+    "name": "Филе бедра Кус Вкус цыпленка бройлера охлажденное на подложке, кг",
+    "producerCountry": "Казахстан",
+    "brandName": null,
+    "description": "",
+    "htmlDescription": "",
+    "compound": "",
+    "uri": "/ru/almaty/catalog/item/309905-file_bedra_kus_vkus_cyplenka_broilera_ohlazhdennoe_na_podlozhke_kg",
+    "image": "https://arbuz.kz/image/s3/arbuz-kz-products/file_name__c3be8436-d27e-47f1-bfe5-9a4776ed3998-309905-file_bedra_kus_vkus_cyplenka_broilera_ohlazhdennoe_na_podlozhke_kg_webp.webp?w=%w&h=%h&_c=1747131030",
+    "measure": "шт",
+    "isWeighted": true,
+    "weightAvg": 0,
+    "weightMin": 1,
+    "weightMax": 16,
+    "weight": "0,9 кг",
+    "pieceWeightMax": 1.2,
+    "pieceWeightMin": 0.9,
+    "sellByPiece": true,
+    "quantityMinStep": 1,
+    "priceActual": 3594,
+    "priceSpecial": null,
+    "friendsDiscount": "",
+    "discount": "",
+    "pricePrevious": 0,
+    "isMain": false,
+    "isRecommended": false,
+    "recommendationType": null,
+    "articleIndex": "",
+    "articleGroup": "",
+    "barcode": "",
+    "badges": [],
+    "contents": {
+      "data": [
+        {
+          "title": "",
+          "content": ""
+        }
+      ]
+    },
+    "isAvailable": true,
+    "quantityExpress": 43.208,
+    "benefits": {
+      "defaultCashbackPercent": 0,
+      "friendsCashbackPercent": 5,
+      "defaultBonusAmount": 0,
+      "friendsBonusAmount": 150
+    },
+    "discountAmount": null,
+    "isNew": false,
+    "cashback": "",
+    "notify": null,
+    "groupId": 1,
+    "sellerLabel": null,
+    "isPromotional": false,
+    "hasPromotion": false,
+    "isExpressAvailable": true,
+    "isLocal": false,
+    "linkRel": null,
+    "isVerified": false,
+    "verifiedLabel": null,
+    "nutrition": {
+      "fats": "14",
+      "kcal": "190",
+      "carbs": "0",
+      "protein": "16"
+    },
+    "ingredients": "Филе бедра ЦБ, на подложке, охл.",
+    "storageConditions": "8 суток при температуре от 0..+2&deg;C.",
+    "characteristics": [
+      {
+        "id": "7",
+        "name": "Охлажденный продукт",
+        "iconPng": "https://arbuz.kz/image/s3/arbuz-kz-characteristics/7-ohlazhdennyi_produkt.png?_c=1702450685"
+      }
+    ],
+    "topInformationBadge": "Цена за штуку указана с учетом максимального веса. Итоговая стоимость может отличаться и указывается в накладной.",
+    "information": "Вес: ~900-1200 гр<br /><br />Охлажденнре филе бедра - это мясо обладает сочным и нежным вкусом, а также содержит достаточное количество белка, что делает его популярным продуктом в различных кулинарных рецептах. Внешне филе бедра курицы может быть немного темнее, чем грудка, и содержит небольшое количество жира, что придает ему дополнительную сочность при приготовлении. Оно может использоваться для приготовления множества блюд, включая жареное, запеченное, тушеное, или в качестве начинки для бургеров и сэндвичей.",
+    "rating": {
+      "value": "4,9",
+      "reviews": "70 оценок"
+    },
+    "pharmProperties": null,
+    "titleIcon": null,
+    "additionalInformation": {
+      "unitStepType": "pcs-kg",
+      "categoryLevel3Id": "225137",
+      "categoryLevel1": "Мясо и птица",
+      "categoryLevel2": "Курица, индейка и птица",
+      "categoryLevel3": "Курица охлаждённая",
+      "bonusesAwardedPercent": 0
+    },
+    "superAppDeeplink": "https://freedombank.onelink.me/WNLd/4j1igp70",
+    "banners": []
+  },
+  {
+    "id": "239305",
+    "catalogId": "225137",
+    "catalogName": "Курица охлаждённая",
+    "parentCatalogId": 225173,
+    "lang": "ru",
+    "name": "Голень Кус Вкус Цыпленка бройлера охлажденная на подложке, кг",
+    "producerCountry": "Казахстан",
+    "brandName": "Кус Вкус",
+    "description": "",
+    "htmlDescription": "",
+    "compound": "",
+    "uri": "/ru/almaty/catalog/item/239305-golen_kus_vkus_cyplenka_broilera_ohlazhdennaya_na_podlozhke_kg",
+    "image": "https://arbuz.kz/image/s3/arbuz-kz-products/file_name__7e751079-d878-4b24-8711-4ba9e340786d-239305-002_jpg.jpg?w=%w&h=%h&_c=1739346172",
+    "measure": "шт",
+    "isWeighted": true,
+    "weightAvg": 0,
+    "weightMin": 1,
+    "weightMax": 10,
+    "weight": "0,8 кг",
+    "pieceWeightMax": 0.9,
+    "pieceWeightMin": 0.8,
+    "sellByPiece": true,
+    "quantityMinStep": 1,
+    "priceActual": 1642.5,
+    "priceSpecial": null,
+    "friendsDiscount": "",
+    "discount": "",
+    "pricePrevious": 0,
+    "isMain": false,
+    "isRecommended": false,
+    "recommendationType": null,
+    "articleIndex": "",
+    "articleGroup": "",
+    "barcode": "",
+    "badges": [],
+    "contents": {
+      "data": [
+        {
+          "title": "",
+          "content": ""
+        }
+      ]
+    },
+    "isAvailable": true,
+    "quantityExpress": 11.606,
+    "benefits": {
+      "defaultCashbackPercent": 0,
+      "friendsCashbackPercent": 5,
+      "defaultBonusAmount": 0,
+      "friendsBonusAmount": 91
+    },
+    "discountAmount": null,
+    "isNew": false,
+    "cashback": "",
+    "notify": null,
+    "groupId": 1,
+    "sellerLabel": null,
+    "isPromotional": false,
+    "hasPromotion": false,
+    "isExpressAvailable": true,
+    "isLocal": false,
+    "linkRel": null,
+    "isVerified": false,
+    "verifiedLabel": null,
+    "nutrition": {
+      "fats": "7",
+      "kcal": "140",
+      "carbs": "",
+      "protein": "18"
+    },
+    "ingredients": null,
+    "storageConditions": "Хранить при температуре от 0 С до +2 С",
+    "characteristics": [
+      {
+        "id": "6",
+        "name": "Халал",
+        "iconPng": "https://arbuz.kz/image/s3/arbuz-kz-characteristics/6-halal.png?_c=1702450629"
+      },
+      {
+        "id": "7",
+        "name": "Охлажденный продукт",
+        "iconPng": "https://arbuz.kz/image/s3/arbuz-kz-characteristics/7-ohlazhdennyi_produkt.png?_c=1702450685"
+      }
+    ],
+    "topInformationBadge": "Цена за штуку указана с учетом максимального веса. Итоговая стоимость может отличаться и указывается в накладной.",
+    "information": "<p>Вес: ~ 800-900&nbsp;г.<br /><br />Голень куриная &ndash; универсальный продукт, на её основе можно приготовить бульоны и супы. Её жарят, запекают, готовят на пару, подают с рисом, гречкой, картофелем и овощами, делают различные гуляши, подливки и закуски.</p>",
+    "rating": {
+      "value": "4,8",
+      "reviews": "93 оценки"
+    },
+    "pharmProperties": null,
+    "titleIcon": null,
+    "additionalInformation": {
+      "unitStepType": "pcs-kg",
+      "categoryLevel3Id": "225137",
+      "categoryLevel1": "Мясо и птица",
+      "categoryLevel2": "Курица, индейка и птица",
+      "categoryLevel3": "Курица охлаждённая",
+      "bonusesAwardedPercent": 0
+    },
+    "superAppDeeplink": "https://freedombank.onelink.me/WNLd/mmgkbwua",
+    "banners": []
+  },
+  {
+    "id": "308341",
+    "catalogId": "225137",
+    "catalogName": "Курица охлаждённая",
+    "parentCatalogId": 225173,
+    "lang": "ru",
+    "name": "Бедро цыпленка Arbuz Select охлажденное кг",
+    "producerCountry": "Казахстан",
+    "brandName": "Arbuz Select",
+    "description": "",
+    "htmlDescription": "",
+    "compound": "",
+    "uri": "/ru/almaty/catalog/item/308341-bedro_cyplenka_arbuz_select_ohlazhdennoe_kg",
+    "image": "https://arbuz.kz/image/s3/arbuz-kz-products/f2b07893-ba03-4795-ad6f-62684f30232d-29_png.png?w=%w&h=%h&_c=1716894775",
+    "measure": "кг",
+    "isWeighted": true,
+    "weightAvg": 0,
+    "weightMin": 0.7,
+    "weightMax": 20,
+    "weight": "0,7 кг",
+    "pieceWeightMax": 0,
+    "pieceWeightMin": 0.7,
+    "sellByPiece": false,
+    "quantityMinStep": 0.7,
+    "priceActual": 2205,
+    "priceSpecial": null,
+    "friendsDiscount": "",
+    "discount": "",
+    "pricePrevious": 0,
+    "isMain": false,
+    "isRecommended": false,
+    "recommendationType": null,
+    "articleIndex": "",
+    "articleGroup": "",
+    "barcode": "",
+    "badges": [],
+    "contents": {
+      "data": [
+        {
+          "title": "",
+          "content": ""
+        }
+      ]
+    },
+    "isAvailable": true,
+    "quantityExpress": 65.024,
+    "benefits": {
+      "defaultCashbackPercent": 0,
+      "friendsCashbackPercent": 5,
+      "defaultBonusAmount": 0,
+      "friendsBonusAmount": 110
+    },
+    "discountAmount": null,
+    "isNew": false,
+    "cashback": "",
+    "notify": null,
+    "groupId": 1,
+    "sellerLabel": null,
+    "isPromotional": false,
+    "hasPromotion": false,
+    "isExpressAvailable": true,
+    "isLocal": false,
+    "linkRel": null,
+    "isVerified": false,
+    "verifiedLabel": null,
+    "nutrition": {
+      "fats": "14,2",
+      "kcal": "204",
+      "carbs": "0,09",
+      "protein": "16,3"
+    },
+    "ingredients": "Бедро цыпленка бройлера",
+    "storageConditions": "5 дней, от 0&deg;C до +2&deg;C",
+    "characteristics": [
+      {
+        "id": "7",
+        "name": "Охлажденный продукт",
+        "iconPng": "https://arbuz.kz/image/s3/arbuz-kz-characteristics/7-ohlazhdennyi_produkt.png?_c=1702450685"
+      }
+    ],
+    "topInformationBadge": "",
+    "information": "<p>Птицефабрика, расположенная в Алматинской области, стремится строго следовать экологическим стандартам производства. Не используя антибиотики, она контролирует полный цикл производства продукции, который соответствует самым строгим нормам HALAL.</p>",
+    "rating": {
+      "value": "4,8",
+      "reviews": "84 оценки"
+    },
+    "pharmProperties": null,
+    "titleIcon": null,
+    "additionalInformation": {
+      "unitStepType": "kg",
+      "categoryLevel3Id": "225137",
+      "categoryLevel1": "Мясо и птица",
+      "categoryLevel2": "Курица, индейка и птица",
+      "categoryLevel3": "Курица охлаждённая",
+      "bonusesAwardedPercent": 0
+    },
+    "superAppDeeplink": "https://freedombank.onelink.me/WNLd/jbjxogvs",
+    "banners": []
+  },
+  {
+    "id": "239304",
+    "catalogId": "225137",
+    "catalogName": "Курица охлаждённая",
+    "parentCatalogId": 225173,
+    "lang": "ru",
+    "name": "Бедро Кус Вкус Цыпленка бройлера на подложке охлажденное, кг",
+    "producerCountry": "Казахстан",
+    "brandName": "Кус Вкус",
+    "description": "",
+    "htmlDescription": "",
+    "compound": "",
+    "uri": "/ru/almaty/catalog/item/239304-bedro_kus_vkus_cyplenka_broilera_na_podlozhke_ohlazhdennoe_kg",
+    "image": "https://arbuz.kz/image/s3/arbuz-kz-products/file_name__281051d8-040a-46d5-a1e8-79c904a57b80-239304-002_jpg.jpg?w=%w&h=%h&_c=1738577515",
+    "measure": "шт",
+    "isWeighted": true,
+    "weightAvg": 0,
+    "weightMin": 1,
+    "weightMax": 16,
+    "weight": "0,7 кг",
+    "pieceWeightMax": 1,
+    "pieceWeightMin": 0.7,
+    "sellByPiece": true,
+    "quantityMinStep": 1,
+    "priceActual": 1921,
+    "priceSpecial": null,
+    "friendsDiscount": "",
+    "discount": "",
+    "pricePrevious": 0,
+    "isMain": false,
+    "isRecommended": false,
+    "recommendationType": null,
+    "articleIndex": "",
+    "articleGroup": "",
+    "barcode": "",
+    "badges": [],
+    "contents": {
+      "data": [
+        {
+          "title": "",
+          "content": ""
+        }
+      ]
+    },
+    "isAvailable": true,
+    "quantityExpress": 18.576,
+    "benefits": {
+      "defaultCashbackPercent": 0,
+      "friendsCashbackPercent": 5,
+      "defaultBonusAmount": 0,
+      "friendsBonusAmount": 96
+    },
+    "discountAmount": null,
+    "isNew": false,
+    "cashback": "",
+    "notify": null,
+    "groupId": 1,
+    "sellerLabel": null,
+    "isPromotional": false,
+    "hasPromotion": false,
+    "isExpressAvailable": true,
+    "isLocal": false,
+    "linkRel": null,
+    "isVerified": false,
+    "verifiedLabel": null,
+    "nutrition": {
+      "fats": "8",
+      "kcal": "140",
+      "carbs": "",
+      "protein": "18"
+    },
+    "ingredients": null,
+    "storageConditions": "Хранить при температуре от 0 С до + 2 С",
+    "characteristics": [
+      {
+        "id": "7",
+        "name": "Охлажденный продукт",
+        "iconPng": "https://arbuz.kz/image/s3/arbuz-kz-characteristics/7-ohlazhdennyi_produkt.png?_c=1702450685"
+      }
+    ],
+    "topInformationBadge": "Цена за штуку указана с учетом максимального веса. Итоговая стоимость может отличаться и указывается в накладной.",
+    "information": "<p>Вес: ~ 700-1000&nbsp;г.<br /><br />Куриные бедра готовят различными способами &ndash; отваривают, жарят, варят, запекают на гриле, готовят на пару. Куриные бедра без кости удобно фаршировать любой начинкой, из них получается отменный шашлык. Куриные бедра можно использовать для приготовления куриного фарша, начинок для пирогов и блинчиков.</p>",
+    "rating": {
+      "value": "4,9",
+      "reviews": "61 оценка"
+    },
+    "pharmProperties": null,
+    "titleIcon": null,
+    "additionalInformation": {
+      "unitStepType": "pcs-kg",
+      "categoryLevel3Id": "225137",
+      "categoryLevel1": "Мясо и птица",
+      "categoryLevel2": "Курица, индейка и птица",
+      "categoryLevel3": "Курица охлаждённая",
+      "bonusesAwardedPercent": 0
+    },
+    "superAppDeeplink": "https://freedombank.onelink.me/WNLd/jt3jif7f",
+    "banners": []
+  },
+  {
+    "id": "239303",
+    "catalogId": "225137",
+    "catalogName": "Курица охлаждённая",
+    "parentCatalogId": 225173,
+    "lang": "ru",
+    "name": "Цыпленок бройлера Кус Вкус первой категории охлажденный на подложке, кг",
+    "producerCountry": "Казахстан",
+    "brandName": "Кус Вкус",
+    "description": "",
+    "htmlDescription": "",
+    "compound": "",
+    "uri": "/ru/almaty/catalog/item/239303-cyplenok_broilera_kus_vkus_pervoi_kategorii_ohlazhdennyi_na_podlozhke_kg",
+    "image": "https://arbuz.kz/image/s3/arbuz-kz-products/file_name__e37fa3b2-4311-48c8-9f28-749cb8fa6539-dsc_2441_jpg.jpg?w=%w&h=%h&_c=1747046561",
+    "measure": "шт",
+    "isWeighted": true,
+    "weightAvg": 0,
+    "weightMin": 1,
+    "weightMax": 5,
+    "weight": "1,3 кг",
+    "pieceWeightMax": 1.6,
+    "pieceWeightMin": 1.3,
+    "sellByPiece": true,
+    "quantityMinStep": 1,
+    "priceActual": 3192,
+    "priceSpecial": null,
+    "friendsDiscount": "",
+    "discount": "",
+    "pricePrevious": 0,
+    "isMain": false,
+    "isRecommended": false,
+    "recommendationType": null,
+    "articleIndex": "",
+    "articleGroup": "",
+    "barcode": "",
+    "badges": [],
+    "contents": {
+      "data": [
+        {
+          "title": "",
+          "content": ""
+        }
+      ]
+    },
+    "isAvailable": true,
+    "quantityExpress": 11.97,
+    "benefits": {
+      "defaultCashbackPercent": 0,
+      "friendsCashbackPercent": 5,
+      "defaultBonusAmount": 0,
+      "friendsBonusAmount": 100
+    },
+    "discountAmount": null,
+    "isNew": false,
+    "cashback": "",
+    "notify": null,
+    "groupId": 1,
+    "sellerLabel": null,
+    "isPromotional": false,
+    "hasPromotion": false,
+    "isExpressAvailable": true,
+    "isLocal": false,
+    "linkRel": null,
+    "isVerified": false,
+    "verifiedLabel": null,
+    "nutrition": {
+      "fats": "14",
+      "kcal": "190",
+      "carbs": "",
+      "protein": "16"
+    },
+    "ingredients": null,
+    "storageConditions": "Хранить при температуре от 0 С до +2 С",
+    "characteristics": [
+      {
+        "id": "7",
+        "name": "Охлажденный продукт",
+        "iconPng": "https://arbuz.kz/image/s3/arbuz-kz-characteristics/7-ohlazhdennyi_produkt.png?_c=1702450685"
+      }
+    ],
+    "topInformationBadge": "Цена за штуку указана с учетом максимального веса. Итоговая стоимость может отличаться и указывается в накладной.",
+    "information": "<p>Вес: ~1300-1600 гр<br /><br />Цыпленок бройлер&nbsp;&mdash; это продукт для приготовления множества блюд: супов и&nbsp;бульонов, вторых блюд и&nbsp;даже закусок. Цыпленка можно обжаривать на&nbsp;сковороде, запекать в&nbsp;духовке, готовить на&nbsp;гриле или мангале. А&nbsp;отварное мясо&nbsp;&mdash; лучший диетический продукт.</p>",
+    "rating": {
+      "value": "4,8",
+      "reviews": "78 оценок"
+    },
+    "pharmProperties": null,
+    "titleIcon": null,
+    "additionalInformation": {
+      "unitStepType": "pcs-kg",
+      "categoryLevel3Id": "225137",
+      "categoryLevel1": "Мясо и птица",
+      "categoryLevel2": "Курица, индейка и птица",
+      "categoryLevel3": "Курица охлаждённая",
+      "bonusesAwardedPercent": 0
+    },
+    "superAppDeeplink": "https://freedombank.onelink.me/WNLd/4hbiiyky",
+    "banners": []
+  },
+  {
+    "id": "239306",
+    "catalogId": "225137",
+    "catalogName": "Курица охлаждённая",
+    "parentCatalogId": 225173,
+    "lang": "ru",
+    "name": "Крыло Кус Вкус Цыпленка бройлера охлажденное на подложке, кг",
+    "producerCountry": "Казахстан",
+    "brandName": "Кус Вкус",
+    "description": "",
+    "htmlDescription": "",
+    "compound": "",
+    "uri": "/ru/almaty/catalog/item/239306-krylo_kus_vkus_cyplenka_broilera_ohlazhdennoe_na_podlozhke_kg",
+    "image": "https://arbuz.kz/image/s3/arbuz-kz-products/file_name__0c077f06-4f9b-4ebc-801c-f3287b5d5274-239306-002_jpg.jpg?w=%w&h=%h&_c=1739346207",
+    "measure": "шт",
+    "isWeighted": true,
+    "weightAvg": 0,
+    "weightMin": 1,
+    "weightMax": 6,
+    "weight": "0,7 кг",
+    "pieceWeightMax": 1,
+    "pieceWeightMin": 0.7,
+    "sellByPiece": true,
+    "quantityMinStep": 1,
+    "priceActual": 2557,
+    "priceSpecial": null,
+    "friendsDiscount": "",
+    "discount": "",
+    "pricePrevious": 0,
+    "isMain": false,
+    "isRecommended": false,
+    "recommendationType": null,
+    "articleIndex": "",
+    "articleGroup": "",
+    "barcode": "",
+    "badges": [],
+    "contents": {
+      "data": [
+        {
+          "title": "",
+          "content": ""
+        }
+      ]
+    },
+    "isAvailable": true,
+    "quantityExpress": 6.63,
+    "benefits": {
+      "defaultCashbackPercent": 0,
+      "friendsCashbackPercent": 5,
+      "defaultBonusAmount": 0,
+      "friendsBonusAmount": 128
+    },
+    "discountAmount": null,
+    "isNew": false,
+    "cashback": "",
+    "notify": null,
+    "groupId": 1,
+    "sellerLabel": null,
+    "isPromotional": false,
+    "hasPromotion": false,
+    "isExpressAvailable": true,
+    "isLocal": false,
+    "linkRel": null,
+    "isVerified": false,
+    "verifiedLabel": null,
+    "nutrition": {
+      "fats": "10",
+      "kcal": "160",
+      "carbs": "",
+      "protein": "17"
+    },
+    "ingredients": null,
+    "storageConditions": "Хранить при&nbsp; температуре от 0 &deg;С до + 2 &deg;С",
+    "characteristics": [
+      {
+        "id": "6",
+        "name": "Халал",
+        "iconPng": "https://arbuz.kz/image/s3/arbuz-kz-characteristics/6-halal.png?_c=1702450629"
+      },
+      {
+        "id": "7",
+        "name": "Охлажденный продукт",
+        "iconPng": "https://arbuz.kz/image/s3/arbuz-kz-characteristics/7-ohlazhdennyi_produkt.png?_c=1702450685"
+      }
+    ],
+    "topInformationBadge": "Цена за штуку указана с учетом максимального веса. Итоговая стоимость может отличаться и указывается в накладной.",
+    "information": "<p>Вес: ~700-1000 гр<br /><br />Рецептов приготовления этого продукта великое множество. Из куриных крылышек готовят первые или вторые блюда, салаты, холодные или горячие закуски. Их варят и жарят, тушат и запекают. Для приготовления крылышек часто пользуются различными маринадами и обмазками, крылышки готовят на гриле. Самая популярная &ndash; это медовая обмазка, при жарении она образует красивую хрустящую корочку. Крылышки прекрасно подходят для барбекю.</p>",
+    "rating": {
+      "value": "4,9",
+      "reviews": "32 оценки"
+    },
+    "pharmProperties": null,
+    "titleIcon": null,
+    "additionalInformation": {
+      "unitStepType": "pcs-kg",
+      "categoryLevel3Id": "225137",
+      "categoryLevel1": "Мясо и птица",
+      "categoryLevel2": "Курица, индейка и птица",
+      "categoryLevel3": "Курица охлаждённая",
+      "bonusesAwardedPercent": 0
+    },
+    "superAppDeeplink": "https://freedombank.onelink.me/WNLd/p63w6fxn",
+    "banners": []
+  },
+  {
+    "id": "326351",
+    "catalogId": "225137",
+    "catalogName": "Курица охлаждённая",
+    "parentCatalogId": 225173,
+    "lang": "ru",
+    "name": "Четвертина задняя Кус Вкус цыпленка-бройлера на подложке охлажденная, кг",
+    "producerCountry": "Казахстан",
+    "brandName": "Кус Вкус",
+    "description": "",
+    "htmlDescription": "",
+    "compound": "",
+    "uri": "/ru/almaty/catalog/item/326351-chetvertina_zadnyaya_kus_vkus_cyplenka-broilera_na_podlozhke_ohlazhdennaya_kg",
+    "image": "https://arbuz.kz/image/s3/arbuz-kz-products/file_name__e0efa42e-bbc0-48cf-949f-5c515cc30f51-dsc_2437_jpg.jpg?w=%w&h=%h&_c=1747046633",
+    "measure": "кг",
+    "isWeighted": true,
+    "weightAvg": 0,
+    "weightMin": 1,
+    "weightMax": 9.86,
+    "weight": "1 кг",
+    "pieceWeightMax": 0,
+    "pieceWeightMin": 1,
+    "sellByPiece": false,
+    "quantityMinStep": 1,
+    "priceActual": 2995,
+    "priceSpecial": null,
+    "friendsDiscount": "",
+    "discount": "",
+    "pricePrevious": 0,
+    "isMain": false,
+    "isRecommended": false,
+    "recommendationType": null,
+    "articleIndex": "",
+    "articleGroup": "",
+    "barcode": "",
+    "badges": [],
+    "contents": {
+      "data": [
+        {
+          "title": "",
+          "content": ""
+        }
+      ]
+    },
+    "isAvailable": true,
+    "quantityExpress": 10.432,
+    "benefits": {
+      "defaultCashbackPercent": 0,
+      "friendsCashbackPercent": 5,
+      "defaultBonusAmount": 0,
+      "friendsBonusAmount": 150
+    },
+    "discountAmount": null,
+    "isNew": false,
+    "cashback": "",
+    "notify": null,
+    "groupId": 1,
+    "sellerLabel": null,
+    "isPromotional": false,
+    "hasPromotion": false,
+    "isExpressAvailable": true,
+    "isLocal": false,
+    "linkRel": null,
+    "isVerified": false,
+    "verifiedLabel": null,
+    "nutrition": {
+      "fats": "22",
+      "kcal": "280",
+      "carbs": "0",
+      "protein": "22"
+    },
+    "ingredients": "Четвертина задняя цыплёнка-бройлера",
+    "storageConditions": "Хранить при температуре от 0 &deg;С до +4 &deg;С",
+    "characteristics": [
+      {
+        "id": "7",
+        "name": "Охлажденный продукт",
+        "iconPng": "https://arbuz.kz/image/s3/arbuz-kz-characteristics/7-ohlazhdennyi_produkt.png?_c=1702450685"
+      }
+    ],
+    "topInformationBadge": "",
+    "information": "Сочная и мясистая задняя четвертина цыплёнка-бройлера торговой марки Кус Вкус &mdash; это отличный выбор для запекания, жарки или тушения. Натуральное охлаждённое мясо на кости отличается насыщенным вкусом и нежной текстурой, что делает его идеальным для приготовления домашних блюд.&nbsp;",
+    "rating": {
+      "value": "4,8",
+      "reviews": "5 оценок"
+    },
+    "pharmProperties": null,
+    "titleIcon": null,
+    "additionalInformation": {
+      "unitStepType": "kg",
+      "categoryLevel3Id": "225137",
+      "categoryLevel1": "Мясо и птица",
+      "categoryLevel2": "Курица, индейка и птица",
+      "categoryLevel3": "Курица охлаждённая",
+      "bonusesAwardedPercent": 0
+    },
+    "superAppDeeplink": "https://freedombank.onelink.me/WNLd/ka9wcfp8",
+    "banners": []
+  },
+  {
+    "id": "308344",
+    "catalogId": "225137",
+    "catalogName": "Курица охлаждённая",
+    "parentCatalogId": 225173,
+    "lang": "ru",
+    "name": "Крылышки цыпленка Arbuz Select охлажденные кг",
+    "producerCountry": "Казахстан",
+    "brandName": "Arbuz Select",
+    "description": "",
+    "htmlDescription": "",
+    "compound": "",
+    "uri": "/ru/almaty/catalog/item/308344-krylyshki_cyplenka_arbuz_select_ohlazhdennye_kg",
+    "image": "https://arbuz.kz/image/s3/arbuz-kz-products/27d69479-ab65-4650-9e8a-d3a7800b6aef-27_png.png?w=%w&h=%h&_c=1716894703",
+    "measure": "кг",
+    "isWeighted": true,
+    "weightAvg": 0,
+    "weightMin": 0.7,
+    "weightMax": 20,
+    "weight": "0,7 кг",
+    "pieceWeightMax": 0,
+    "pieceWeightMin": 0.7,
+    "sellByPiece": false,
+    "quantityMinStep": 0.7,
+    "priceActual": 2385,
+    "priceSpecial": null,
+    "friendsDiscount": "",
+    "discount": "",
+    "pricePrevious": 0,
+    "isMain": false,
+    "isRecommended": false,
+    "recommendationType": null,
+    "articleIndex": "",
+    "articleGroup": "",
+    "barcode": "",
+    "badges": [],
+    "contents": {
+      "data": [
+        {
+          "title": "",
+          "content": ""
+        }
+      ]
+    },
+    "isAvailable": true,
+    "quantityExpress": 65.998,
+    "benefits": {
+      "defaultCashbackPercent": 0,
+      "friendsCashbackPercent": 5,
+      "defaultBonusAmount": 0,
+      "friendsBonusAmount": 119
+    },
+    "discountAmount": null,
+    "isNew": false,
+    "cashback": "",
+    "notify": null,
+    "groupId": 1,
+    "sellerLabel": null,
+    "isPromotional": false,
+    "hasPromotion": false,
+    "isExpressAvailable": true,
+    "isLocal": false,
+    "linkRel": null,
+    "isVerified": false,
+    "verifiedLabel": null,
+    "nutrition": {
+      "fats": "14,9",
+      "kcal": "216",
+      "carbs": "0,3",
+      "protein": "17,1"
+    },
+    "ingredients": "Крыло цыпленка бройлера",
+    "storageConditions": "5 дней, от 0&deg;C до +2&deg;C",
+    "characteristics": [
+      {
+        "id": "7",
+        "name": "Охлажденный продукт",
+        "iconPng": "https://arbuz.kz/image/s3/arbuz-kz-characteristics/7-ohlazhdennyi_produkt.png?_c=1702450685"
+      },
+      {
+        "id": "14",
+        "name": "Без антибиотиков",
+        "iconPng": "https://arbuz.kz/image/s3/arbuz-kz-characteristics/img_url__14-bez_antibiotikov.png?_c=1739517304"
+      }
+    ],
+    "topInformationBadge": "",
+    "information": "<p>Птицефабрика, расположенная в Алматинской области, стремится строго следовать экологическим стандартам производства. Не используя антибиотики, она контролирует полный цикл производства продукции, который соответствует самым строгим нормам HALAL.</p>",
+    "rating": {
+      "value": "4,7",
+      "reviews": "70 оценок"
+    },
+    "pharmProperties": null,
+    "titleIcon": null,
+    "additionalInformation": {
+      "unitStepType": "kg",
+      "categoryLevel3Id": "225137",
+      "categoryLevel1": "Мясо и птица",
+      "categoryLevel2": "Курица, индейка и птица",
+      "categoryLevel3": "Курица охлаждённая",
+      "bonusesAwardedPercent": 0
+    },
+    "superAppDeeplink": "https://freedombank.onelink.me/WNLd/yzsyroca",
+    "banners": []
+  }
+]
