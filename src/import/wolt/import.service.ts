@@ -6,7 +6,7 @@ import { User } from 'src/users/entities/user.entity';
 import { Location as LocationEntity } from 'src/locations/location.entity';
 import { Offer } from 'src/offers/entities/offer.entity';
 import { OfferChannel } from 'src/offer-channels/offer-channel.entity';
-import { WoltDealDto, WoltItemDto } from './dto/wolt-import.dto';
+import { WoltDealDto, WoltItemDto } from '../wolt/dto/wolt-import.dto';
 import { BenefitKind } from 'src/offers/enums/benefit-kind.enum';
 import { OfferScope } from 'src/offers/enums/offer-scope.enum';
 import { OfferChannelCode } from 'src/offer-channels/offer-channel.enum';

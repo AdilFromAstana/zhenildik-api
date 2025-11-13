@@ -11,7 +11,12 @@ import { OffersModule } from './offers/offers.module';
 import { LocationsModule } from './locations/locations.module';
 import { ModerationModule } from './moderation/moderation.module';
 import { OfferChannelsModule } from './offer-channels/offer-channels.module';
-import { ImportModule } from './import/import.module';
+import { ProductsModule } from './products/products.module';
+import { MerchantsModule } from './merchants/merchants.module';
+import { ProductLinkModule } from './product-links/product-link.module';
+import { PriceHistoryModule } from './price-history/price-history.module';
+import { ImportModule as WoltImportModule } from './import/wolt/import.module';
+import { ArbuzModule } from './import/arbuz/arbuz.module';
 
 @Module({
   imports: [
@@ -42,7 +47,13 @@ import { ImportModule } from './import/import.module';
     LocationsModule,
     ModerationModule,
     OfferChannelsModule,
-    ImportModule,
+    WoltImportModule,
+
+    ProductsModule,
+    MerchantsModule,
+    ProductLinkModule,
+    PriceHistoryModule,
+    ArbuzModule,
   ],
 })
-export class AppModule { }
+export class AppModule {}
