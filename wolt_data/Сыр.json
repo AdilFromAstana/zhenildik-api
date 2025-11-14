@@ -1,6 +1,6 @@
 [
   {
-    "id": "840c123056f97a09f2204280",
+    "id": "3d22371c20f4f80adb187525",
     "advertising_info": null,
     "alcohol_permille": 0,
     "allowed_delivery_methods": [
@@ -23,15 +23,15 @@
         "end_time": 86400000
       }
     ],
-    "barcode_gtin": "08683130057735",
+    "barcode_gtin": "04607004892691",
     "caffeine_info": null,
     "can_be_promoted": {
       "basket": true,
       "venue": true,
       "credits": true
     },
-    "checksum": "3fef198f6c780532bc2692532e10cf2b",
-    "description": "Классический сливочный пломбир\"Золотой Стандарт\"от Инмарко в вафельном стаканчике. Традиционный вкус мороженого.",
+    "checksum": "e238f2c95b5c1d61966fd7973199f17c",
+    "description": "",
     "deposit": null,
     "dietary_preferences": [],
     "disabled_info": null,
@@ -39,8 +39,8 @@
     "has_extra_info": true,
     "images": [
       {
-        "url": "https://imageproxy.wolt.com/assets/6888be10a3eb62eeb9561e1b",
-        "blurhash": "LfSiT=j[.AbFnga|bdj?xtfPRja}"
+        "url": "https://imageproxy.wolt.com/assets/6888bbb323fa16f725a975a6",
+        "blurhash": "LQRysht7~qM{R*ays:of~pR%9Fxu"
       }
     ],
     "is_cutlery": false,
@@ -50,25 +50,25 @@
     "lowest_price_v2": null,
     "max_quantity_per_purchase": null,
     "min_quantity_per_purchase": null,
-    "name": "Мороженое Инмарко Золотой Стандарт Стаканчик Пломбир",
+    "name": "Hochland Фетакса Классическая  В Рассоле, 480Гр",
     "options": [],
     "original_price": null,
     "item_price_discount_validity_period": null,
-    "price": 66500,
+    "price": 344000,
     "product_hierarchy_tags": [
-      "UNKNOWN"
+      "PERISHABLE"
     ],
-    "purchasable_balance": 55,
+    "purchasable_balance": 5,
     "restrictions": [],
     "return_policy": null,
     "sell_by_weight_config": null,
-    "should_display_purchasable_balance": false,
+    "should_display_purchasable_balance": true,
     "tags": [],
-    "unit_info": "80 г",
+    "unit_info": "480 г",
     "unit_price": {
       "base": 1,
       "original_price": null,
-      "price": 831250,
+      "price": 716667,
       "unit": "kilogram"
     },
     "variant": null,
@@ -82,7 +82,7 @@
     }
   },
   {
-    "id": "cc9aa3675e3db1faac864dba",
+    "id": "a7842260ed7828939eef5e4a",
     "advertising_info": null,
     "alcohol_permille": 0,
     "allowed_delivery_methods": [
@@ -105,15 +105,15 @@
         "end_time": 86400000
       }
     ],
-    "barcode_gtin": "08683130060292",
+    "barcode_gtin": "08606002113155",
     "caffeine_info": null,
     "can_be_promoted": {
       "basket": true,
       "venue": true,
       "credits": true
     },
-    "checksum": "d1ee9354e18f7391fe4f4b2c8a318e4f",
-    "description": "Сливочный пломбир\"Золотой Стандарт\"от Инмарко с вареной сгущенкой в вафельном стаканчике.",
+    "checksum": "1246ada240deee32c2afc7eb7b8e5d24",
+    "description": "Брынза President — рассольный сыр, который обладает свежим кисломолочным, в меру соленым вкусом. Это идеальный ингредиент для холодных и горячих блюд, особенно салатов, а также для использования в выпечке. В салате Брынза идеально держит форму и не размокает.",
     "deposit": null,
     "dietary_preferences": [],
     "disabled_info": null,
@@ -121,8 +121,8 @@
     "has_extra_info": true,
     "images": [
       {
-        "url": "https://imageproxy.wolt.com/assets/6888bf1ba3eb62eeb9563eb0",
-        "blurhash": "LoSiQzju%%oes+fQWFj@kCj@aeay"
+        "url": "https://imageproxy.wolt.com/assets/6888babd1f0cac713af63124",
+        "blurhash": "LaRypWax_4t7tSj[Riae?bj[D%WU"
       }
     ],
     "is_cutlery": false,
@@ -132,25 +132,25 @@
     "lowest_price_v2": null,
     "max_quantity_per_purchase": null,
     "min_quantity_per_purchase": null,
-    "name": "Мороженое Инмарко Золотой Стандарт Стаканчик Пломбир Со Сгущенкой",
+    "name": "President Сыр Рассольный Брынза, 500Гр",
     "options": [],
     "original_price": null,
     "item_price_discount_validity_period": null,
-    "price": 66500,
+    "price": 453000,
     "product_hierarchy_tags": [
-      "UNKNOWN"
+      "PERISHABLE"
     ],
-    "purchasable_balance": 36,
+    "purchasable_balance": 2,
     "restrictions": [],
     "return_policy": null,
     "sell_by_weight_config": null,
-    "should_display_purchasable_balance": false,
+    "should_display_purchasable_balance": true,
     "tags": [],
-    "unit_info": "80 г",
+    "unit_info": "500 г",
     "unit_price": {
       "base": 1,
       "original_price": null,
-      "price": 831250,
+      "price": 906000,
       "unit": "kilogram"
     },
     "variant": null,
@@ -164,7 +164,7 @@
     }
   },
   {
-    "id": "a93513b29cf52ac00f22f38d",
+    "id": "fd5a4fe77163d98828ed88de",
     "advertising_info": null,
     "alcohol_permille": 0,
     "allowed_delivery_methods": [
@@ -187,15 +187,15 @@
         "end_time": 86400000
       }
     ],
-    "barcode_gtin": "08683130060278",
+    "barcode_gtin": "08000430135268",
     "caffeine_info": null,
     "can_be_promoted": {
       "basket": true,
       "venue": true,
       "credits": true
     },
-    "checksum": "27852a1b07a99fcec176e3da4676103f",
-    "description": "Сливочный пломбир\"Золотой Стандарт\"от Инмарко с черничным наполнителем в вафельном стаканчике.",
+    "checksum": "74568e3f6ed36bac57e2b879e6cd9dca",
+    "description": "Традиционный свежий итальянский сыр молочно- белого цвета. Благодаря форме в виде колбаски сыр удобен для нарезки и идеален для заправки салата капрезе.",
     "deposit": null,
     "dietary_preferences": [],
     "disabled_info": null,
@@ -203,8 +203,8 @@
     "has_extra_info": true,
     "images": [
       {
-        "url": "https://imageproxy.wolt.com/assets/6888bf01a3eb62eeb956392a",
-        "blurhash": "LZSr_sax.At7s*fPWsfktRj[RPWC"
+        "url": "https://imageproxy.wolt.com/assets/6888bb6823fa16f725a972a2",
+        "blurhash": "LTRfh5jt~qoyWZofoIRj_2j@DjWC"
       }
     ],
     "is_cutlery": false,
@@ -214,25 +214,25 @@
     "lowest_price_v2": null,
     "max_quantity_per_purchase": null,
     "min_quantity_per_purchase": null,
-    "name": "Мороженое Инмарко Золотой Стандарт Стаканчик Пломбир С Черникой",
+    "name": "Galbani Сыр Моцарелла Макси, 250Гр",
     "options": [],
     "original_price": null,
     "item_price_discount_validity_period": null,
-    "price": 66500,
+    "price": 277500,
     "product_hierarchy_tags": [
-      "UNKNOWN"
+      "PERISHABLE"
     ],
-    "purchasable_balance": 22,
+    "purchasable_balance": 3,
     "restrictions": [],
     "return_policy": null,
     "sell_by_weight_config": null,
-    "should_display_purchasable_balance": false,
+    "should_display_purchasable_balance": true,
     "tags": [],
-    "unit_info": "80 г",
+    "unit_info": "250 г",
     "unit_price": {
       "base": 1,
       "original_price": null,
-      "price": 831250,
+      "price": 1110000,
       "unit": "kilogram"
     },
     "variant": null,
@@ -246,7 +246,171 @@
     }
   },
   {
-    "id": "fd2b088ff059ae80baf36a5a",
+    "id": "eb2b99911e62937eedad76d3",
+    "advertising_info": null,
+    "alcohol_permille": 0,
+    "allowed_delivery_methods": [
+      "eatin",
+      "takeaway",
+      "homedelivery"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 0,
+        "end_time": 86400000
+      }
+    ],
+    "barcode_gtin": "04811084003957",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "340528ecc4c90cc9d4daccb960820b6c",
+    "description": "Беловежские Сыры",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": true,
+    "images": [
+      {
+        "url": "https://imageproxy.wolt.com/assets/6888bb0123fa16f725a969fb",
+        "blurhash": "LiR:H7ax?dt8Rjoft7Ri%OofM_Rj"
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": true,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "Сыр Мягкий Белая Брынза 250Гр",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 158000,
+    "product_hierarchy_tags": [
+      "PERISHABLE"
+    ],
+    "purchasable_balance": 2,
+    "restrictions": [],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": true,
+    "tags": [],
+    "unit_info": "250 г",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 632000,
+      "unit": "kilogram"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 12,
+    "vat_percentage_decimal": "12.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    }
+  },
+  {
+    "id": "0197860e99008e6fea289833",
+    "advertising_info": null,
+    "alcohol_permille": 0,
+    "allowed_delivery_methods": [
+      "eatin",
+      "takeaway",
+      "homedelivery"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 0,
+        "end_time": 86400000
+      }
+    ],
+    "barcode_gtin": "04811084001458",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "ec275e4078ccbb092e96c10df78fa9ab",
+    "description": "Беловежские Сыры",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": true,
+    "images": [
+      {
+        "url": "https://imageproxy.wolt.com/assets/6888bbc923fa16f725a97941",
+        "blurhash": "LdQTGvbH~WoKWCazs:j@~WjZD%bH"
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": true,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "Сыр Мягкий Белая Фета 250Гр",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 158000,
+    "product_hierarchy_tags": [
+      "PERISHABLE"
+    ],
+    "purchasable_balance": 4,
+    "restrictions": [],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": true,
+    "tags": [],
+    "unit_info": "250 г",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 632000,
+      "unit": "kilogram"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 12,
+    "vat_percentage_decimal": "12.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    }
+  },
+  {
+    "id": "f91517960f4ae09832e8dace",
     "advertising_info": null,
     "alcohol_permille": 0,
     "allowed_delivery_methods": [
@@ -269,15 +433,15 @@
         "end_time": 86400000
       }
     ],
-    "barcode_gtin": "08683130061732",
+    "barcode_gtin": "07640166790365",
     "caffeine_info": null,
     "can_be_promoted": {
       "basket": true,
       "venue": true,
       "credits": true
     },
-    "checksum": "9930695ba24909bf03da226dc0ed82f1",
-    "description": "Пломбир сливочный в вафельном рожке с шоколадной пропиткой внутри",
+    "checksum": "cd9fb226aa3c1b3f0575f0f23cd2e500",
+    "description": "",
     "deposit": null,
     "dietary_preferences": [],
     "disabled_info": null,
@@ -285,8 +449,8 @@
     "has_extra_info": true,
     "images": [
       {
-        "url": "https://imageproxy.wolt.com/assets/6888be0ba3eb62eeb9561d40",
-        "blurhash": "LqRfOMb1%hW9n$a}WYjZ.AfNROog"
+        "url": "https://imageproxy.wolt.com/assets/6888bb2c1f0cac713af63a5f",
+        "blurhash": "LfR3cwWB~WxtR.ays+of%2j[IoWC"
       }
     ],
     "is_cutlery": false,
@@ -296,25 +460,25 @@
     "lowest_price_v2": null,
     "max_quantity_per_purchase": null,
     "min_quantity_per_purchase": null,
-    "name": "Мороженое Золотой Стандарт Большой Рожок 90Гр",
+    "name": "Züger Сыр Моцарелла В Рассоле 125Гр (заморож)",
     "options": [],
     "original_price": null,
     "item_price_discount_validity_period": null,
-    "price": 82500,
+    "price": 124500,
     "product_hierarchy_tags": [
-      "UNKNOWN"
+      "PERISHABLE"
     ],
-    "purchasable_balance": 39,
+    "purchasable_balance": 6,
     "restrictions": [],
     "return_policy": null,
     "sell_by_weight_config": null,
-    "should_display_purchasable_balance": false,
+    "should_display_purchasable_balance": true,
     "tags": [],
-    "unit_info": "90 г",
+    "unit_info": "125 г",
     "unit_price": {
       "base": 1,
       "original_price": null,
-      "price": 916667,
+      "price": 996000,
       "unit": "kilogram"
     },
     "variant": null,
@@ -328,13 +492,13 @@
     }
   },
   {
-    "id": "e5a1a7313b41e7e17c205b29",
+    "id": "d607cc4e442968c12049bc42",
     "advertising_info": null,
     "alcohol_permille": 0,
     "allowed_delivery_methods": [
-      "eatin",
+      "homedelivery",
       "takeaway",
-      "homedelivery"
+      "eatin"
     ],
     "available_times": [
       {
@@ -351,15 +515,15 @@
         "end_time": 86400000
       }
     ],
-    "barcode_gtin": "08683130063200",
+    "barcode_gtin": "07640166792512",
     "caffeine_info": null,
     "can_be_promoted": {
       "basket": true,
       "venue": true,
       "credits": true
     },
-    "checksum": "66af148f9fc7c647ff55cfa3932bba9f",
-    "description": "Эскимо классическое: пломбир сливочный  в щоколадной глазури из натурального темного шоколада",
+    "checksum": "999c47410bcfa2fa3c169f9d43d3a1f1",
+    "description": "",
     "deposit": null,
     "dietary_preferences": [],
     "disabled_info": null,
@@ -367,8 +531,8 @@
     "has_extra_info": true,
     "images": [
       {
-        "url": "https://imageproxy.wolt.com/assets/6888be0ba3eb62eeb9561d3c",
-        "blurhash": "LuQ]sER:-;s+jEaxbIj[?ws+IUR."
+        "url": "https://imageproxy.wolt.com/assets/6888bb3b1f0cac713af63d09",
+        "blurhash": "LhRC}MWV~qt6Rpays+kCo#jZV@W="
       }
     ],
     "is_cutlery": false,
@@ -378,25 +542,25 @@
     "lowest_price_v2": null,
     "max_quantity_per_purchase": null,
     "min_quantity_per_purchase": null,
-    "name": "Мороженое Золотой Стандарт Эскимо 65Гр",
+    "name": "Züger Сыр Моцарелла Тертый 200Г (замороженный)",
     "options": [],
     "original_price": null,
     "item_price_discount_validity_period": null,
-    "price": 63000,
+    "price": 257000,
     "product_hierarchy_tags": [
-      "UNKNOWN"
+      "PERISHABLE"
     ],
-    "purchasable_balance": 23,
+    "purchasable_balance": 4,
     "restrictions": [],
     "return_policy": null,
     "sell_by_weight_config": null,
-    "should_display_purchasable_balance": false,
+    "should_display_purchasable_balance": true,
     "tags": [],
-    "unit_info": "65 г",
+    "unit_info": "200 г",
     "unit_price": {
       "base": 1,
       "original_price": null,
-      "price": 969231,
+      "price": 1285000,
       "unit": "kilogram"
     },
     "variant": null,
@@ -410,13 +574,13 @@
     }
   },
   {
-    "id": "8b37776ad461f38b58381d6f",
+    "id": "187da8cc22617695b8941413",
     "advertising_info": null,
     "alcohol_permille": 0,
     "allowed_delivery_methods": [
-      "eatin",
+      "homedelivery",
       "takeaway",
-      "homedelivery"
+      "eatin"
     ],
     "available_times": [
       {
@@ -433,15 +597,15 @@
         "end_time": 86400000
       }
     ],
-    "barcode_gtin": "08683130065723",
+    "barcode_gtin": "04810898000442",
     "caffeine_info": null,
     "can_be_promoted": {
       "basket": true,
       "venue": true,
       "credits": true
     },
-    "checksum": "e98dbdcede3f21f23eb98b545cf345c6",
-    "description": "Мороженое Золотой Стандарт 65 гр (сливочное мороженое с шоколадным печеньем)печеньем",
+    "checksum": "4cbc42c5575d8ff5109a1a133f4ab5d6",
+    "description": "СЫР МОЦАРЕЛЛА ПИЦЦА BONFESTO 40%  250 ГР",
     "deposit": null,
     "dietary_preferences": [],
     "disabled_info": null,
@@ -449,8 +613,8 @@
     "has_extra_info": true,
     "images": [
       {
-        "url": "https://imageproxy.wolt.com/assets/688b98fba3eb62eeb95c20e8",
-        "blurhash": "LvQ9y4W[%Ls,t4aya#od?wnzM|WE"
+        "url": "https://imageproxy.wolt.com/assets/6888b90a1f0cac713af5fe73",
+        "blurhash": "LcSiQ$ad.At8axaxj]ofyEfkMwjZ"
       }
     ],
     "is_cutlery": false,
@@ -460,587 +624,13 @@
     "lowest_price_v2": null,
     "max_quantity_per_purchase": null,
     "min_quantity_per_purchase": null,
-    "name": "Мороженое Золотой Стандарт Сендвич 65Гр",
+    "name": "Сыр Моцарелла Пицца Bonfesto 40% 250 Гр",
     "options": [],
     "original_price": null,
     "item_price_discount_validity_period": null,
-    "price": 81500,
+    "price": 195000,
     "product_hierarchy_tags": [
-      "UNKNOWN"
-    ],
-    "purchasable_balance": 64,
-    "restrictions": [],
-    "return_policy": null,
-    "sell_by_weight_config": null,
-    "should_display_purchasable_balance": false,
-    "tags": [],
-    "unit_info": "65 г",
-    "unit_price": {
-      "base": 1,
-      "original_price": null,
-      "price": 1253846,
-      "unit": "kilogram"
-    },
-    "variant": null,
-    "vat_category_code": null,
-    "vat_percentage": 12,
-    "vat_percentage_decimal": "12.0",
-    "external_compliance_link": null,
-    "consent_info": {
-      "ask_consent": false,
-      "blur_image": false
-    }
-  },
-  {
-    "id": "ce739c5eef1ef898cf3b5a8c",
-    "advertising_info": null,
-    "alcohol_permille": 0,
-    "allowed_delivery_methods": [
-      "eatin",
-      "takeaway",
-      "homedelivery"
-    ],
-    "available_times": [
-      {
-        "days": [
-          1,
-          2,
-          3,
-          4,
-          5,
-          6,
-          7
-        ],
-        "start_time": 0,
-        "end_time": 86400000
-      }
-    ],
-    "barcode_gtin": "04620021192889",
-    "caffeine_info": null,
-    "can_be_promoted": {
-      "basket": true,
-      "venue": true,
-      "credits": true
-    },
-    "checksum": "2ebf6a0567802894080e1e3f6e66e655",
-    "description": "Мороженое 48 КОПЕЕК Пломбир брикет БЗМЖ, 210 г (без заменителя молочного жира) никого не оставит равнодушным и понравится как взрослым, так и детям. Изысканное лакомство с приятным сливочным вкусом оценят настоящие гурманы. Пломбир характеризуется нежным послевкусием, твердой и плотной консистенцией и при этом буквально тает во рту. Мороженое быстро освежит в жаркий солнечный день, поднимет настроение, наполнит энергией и подарит заряд бодрости. Продукт можно подавать порционно или в сочетании со сладким печеньем, а также добавлять в кофейные напитки, фруктовые или ягодные салаты, заправлять какао-пудрой, кокосовой стружкой или дробленым орехом. Его может употреблять как самостоятельное лакомство, а также применять в качестве составляющей для создания разнообразных блюд, среди которых холодные коктейли, вафельные десерты, кофейный фондан, парфе и суфле. Пломбир создан на основе свежего коровьего молока, за счет чего обогащен белком и содержит полезные для роста и развития костей и суставов минеральные компоненты. Высококачественный состав из сливок и масла безопасен для детского организма, а яркий привлекательный дизайн упаковки не позволит пройти мимо. Хранить такой продукт следует в морозильной камере при температуре не выше -18 градусов. Приобрести мороженое 48 КОПЕЕК пломбир брикет БЗМЖ, 210 г (без заменителя молочного жира) можно в торговом центре METRO. Обращаем ваше внимание, что в состав мороженого не входят заменители молочного жира.",
-    "deposit": null,
-    "dietary_preferences": [],
-    "disabled_info": null,
-    "fulfillment_lead_time": null,
-    "has_extra_info": true,
-    "images": [
-      {
-        "url": "https://imageproxy.wolt.com/assets/6888be0ca3eb62eeb9561d76",
-        "blurhash": "L9KwUW00EL%$=|IqOExa00~o~pD$"
-      }
-    ],
-    "is_cutlery": false,
-    "is_no_contact_delivery_allowed": true,
-    "is_wolt_plus_only": false,
-    "lowest_price": null,
-    "lowest_price_v2": null,
-    "max_quantity_per_purchase": null,
-    "min_quantity_per_purchase": null,
-    "name": "48 Копеек Брик Пломбир 210Г",
-    "options": [],
-    "original_price": null,
-    "item_price_discount_validity_period": null,
-    "price": 163000,
-    "product_hierarchy_tags": [
-      "UNKNOWN"
-    ],
-    "purchasable_balance": 9,
-    "restrictions": [],
-    "return_policy": null,
-    "sell_by_weight_config": null,
-    "should_display_purchasable_balance": false,
-    "tags": [],
-    "unit_info": "210 г",
-    "unit_price": {
-      "base": 1,
-      "original_price": null,
-      "price": 776190,
-      "unit": "kilogram"
-    },
-    "variant": null,
-    "vat_category_code": null,
-    "vat_percentage": 12,
-    "vat_percentage_decimal": "12.0",
-    "external_compliance_link": null,
-    "consent_info": {
-      "ask_consent": false,
-      "blur_image": false
-    }
-  },
-  {
-    "id": "d6f9e82094890c9846e39e3c",
-    "advertising_info": null,
-    "alcohol_permille": 0,
-    "allowed_delivery_methods": [
-      "eatin",
-      "takeaway",
-      "homedelivery"
-    ],
-    "available_times": [
-      {
-        "days": [
-          1,
-          2,
-          3,
-          4,
-          5,
-          6,
-          7
-        ],
-        "start_time": 0,
-        "end_time": 86400000
-      }
-    ],
-    "barcode_gtin": "08683130060254",
-    "caffeine_info": null,
-    "can_be_promoted": {
-      "basket": true,
-      "venue": true,
-      "credits": true
-    },
-    "checksum": "34f29c797b19f617f4043c567c10e3c9",
-    "description": "Шоколадный пломбир\"Золотой Стандарт\"от Инмарко в классическом вафельном стаканчике. Насыщенный вкус шоколада в сочетании с традиционным сливочным пломбиром. Упаковка 80г.",
-    "deposit": null,
-    "dietary_preferences": [],
-    "disabled_info": null,
-    "fulfillment_lead_time": null,
-    "has_extra_info": true,
-    "images": [
-      {
-        "url": "https://imageproxy.wolt.com/assets/688b98faa3eb62eeb95c20e0",
-        "blurhash": "LrSFw%ju.Aoes+a|WFj@tQj@RQay"
-      }
-    ],
-    "is_cutlery": false,
-    "is_no_contact_delivery_allowed": true,
-    "is_wolt_plus_only": false,
-    "lowest_price": null,
-    "lowest_price_v2": null,
-    "max_quantity_per_purchase": null,
-    "min_quantity_per_purchase": null,
-    "name": "Мороженое Инмарко Золотой Стандарт Стаканчик Пломбир Шоколадный, 80Гр",
-    "options": [],
-    "original_price": null,
-    "item_price_discount_validity_period": null,
-    "price": 66500,
-    "product_hierarchy_tags": [
-      "UNKNOWN"
-    ],
-    "purchasable_balance": 34,
-    "restrictions": [],
-    "return_policy": null,
-    "sell_by_weight_config": null,
-    "should_display_purchasable_balance": false,
-    "tags": [],
-    "unit_info": "80 г",
-    "unit_price": {
-      "base": 1,
-      "original_price": null,
-      "price": 831250,
-      "unit": "kilogram"
-    },
-    "variant": null,
-    "vat_category_code": null,
-    "vat_percentage": 12,
-    "vat_percentage_decimal": "12.0",
-    "external_compliance_link": null,
-    "consent_info": {
-      "ask_consent": false,
-      "blur_image": false
-    }
-  },
-  {
-    "id": "962c7681d5cb21069ac1d02b",
-    "advertising_info": null,
-    "alcohol_permille": 0,
-    "allowed_delivery_methods": [
-      "eatin",
-      "takeaway",
-      "homedelivery"
-    ],
-    "available_times": [
-      {
-        "days": [
-          1,
-          2,
-          3,
-          4,
-          5,
-          6,
-          7
-        ],
-        "start_time": 0,
-        "end_time": 86400000
-      }
-    ],
-    "barcode_gtin": "08683130065716",
-    "caffeine_info": null,
-    "can_be_promoted": {
-      "basket": true,
-      "venue": true,
-      "credits": true
-    },
-    "checksum": "3a8f2db46e038f44d4a09eb4eecca7bd",
-    "description": "Классический пломбир\"Золотой Стандарт\"в форме брикета на вафлях. Традиционный сливочный вкус, удобный для домашнего потребления.",
-    "deposit": null,
-    "dietary_preferences": [],
-    "disabled_info": null,
-    "fulfillment_lead_time": null,
-    "has_extra_info": true,
-    "images": [
-      {
-        "url": "https://imageproxy.wolt.com/assets/68a44d943b13bfd3a589262d",
-        "blurhash": "LgRMI{t6-=RRx9k9WZe=.AWBRPof"
-      }
-    ],
-    "is_cutlery": false,
-    "is_no_contact_delivery_allowed": true,
-    "is_wolt_plus_only": false,
-    "lowest_price": null,
-    "lowest_price_v2": null,
-    "max_quantity_per_purchase": null,
-    "min_quantity_per_purchase": null,
-    "name": "Мороженое Золотой Стандарт Брикет На Вафлях",
-    "options": [],
-    "original_price": null,
-    "item_price_discount_validity_period": null,
-    "price": 75000,
-    "product_hierarchy_tags": [
-      "UNKNOWN"
-    ],
-    "purchasable_balance": 25,
-    "restrictions": [],
-    "return_policy": null,
-    "sell_by_weight_config": null,
-    "should_display_purchasable_balance": false,
-    "tags": [],
-    "unit_info": "80 г",
-    "unit_price": {
-      "base": 1,
-      "original_price": null,
-      "price": 937500,
-      "unit": "kilogram"
-    },
-    "variant": null,
-    "vat_category_code": null,
-    "vat_percentage": 12,
-    "vat_percentage_decimal": "12.0",
-    "external_compliance_link": null,
-    "consent_info": {
-      "ask_consent": false,
-      "blur_image": false
-    }
-  },
-  {
-    "id": "a227e0d2bbbdf2591e8f7420",
-    "advertising_info": null,
-    "alcohol_permille": 0,
-    "allowed_delivery_methods": [
-      "eatin",
-      "takeaway",
-      "homedelivery"
-    ],
-    "available_times": [
-      {
-        "days": [
-          1,
-          2,
-          3,
-          4,
-          5,
-          6,
-          7
-        ],
-        "start_time": 0,
-        "end_time": 86400000
-      }
-    ],
-    "barcode_gtin": "05000159483025",
-    "caffeine_info": null,
-    "can_be_promoted": {
-      "basket": true,
-      "venue": true,
-      "credits": true
-    },
-    "checksum": "48908c4e0daa29564ab284a2cd52cee8",
-    "description": "Bounty Мороженое батончик",
-    "deposit": null,
-    "dietary_preferences": [],
-    "disabled_info": null,
-    "fulfillment_lead_time": null,
-    "has_extra_info": true,
-    "images": [
-      {
-        "url": "https://imageproxy.wolt.com/assets/688b9e07a3eb62eeb95c478c",
-        "blurhash": "LCPjZA01-n?u5Ytn4o9F}=010O-;"
-      }
-    ],
-    "is_cutlery": false,
-    "is_no_contact_delivery_allowed": true,
-    "is_wolt_plus_only": false,
-    "lowest_price": null,
-    "lowest_price_v2": null,
-    "max_quantity_per_purchase": null,
-    "min_quantity_per_purchase": null,
-    "name": "Bounty Ice Bar 39.1Gr",
-    "options": [],
-    "original_price": null,
-    "item_price_discount_validity_period": null,
-    "price": 60000,
-    "product_hierarchy_tags": [
-      "UNKNOWN"
-    ],
-    "purchasable_balance": 28,
-    "restrictions": [],
-    "return_policy": null,
-    "sell_by_weight_config": null,
-    "should_display_purchasable_balance": false,
-    "tags": [],
-    "unit_info": "39 г",
-    "unit_price": {
-      "base": 1,
-      "original_price": null,
-      "price": 1538462,
-      "unit": "kilogram"
-    },
-    "variant": null,
-    "vat_category_code": null,
-    "vat_percentage": 12,
-    "vat_percentage_decimal": "12.0",
-    "external_compliance_link": null,
-    "consent_info": {
-      "ask_consent": false,
-      "blur_image": false
-    }
-  },
-  {
-    "id": "436c1af9c9250c5788aba1cf",
-    "advertising_info": null,
-    "alcohol_permille": 0,
-    "allowed_delivery_methods": [
-      "eatin",
-      "takeaway",
-      "homedelivery"
-    ],
-    "available_times": [
-      {
-        "days": [
-          1,
-          2,
-          3,
-          4,
-          5,
-          6,
-          7
-        ],
-        "start_time": 0,
-        "end_time": 86400000
-      }
-    ],
-    "barcode_gtin": "04870233466456",
-    "caffeine_info": null,
-    "can_be_promoted": {
-      "basket": true,
-      "venue": true,
-      "credits": true
-    },
-    "checksum": "1e6bdb312803d432972803c71f62f146",
-    "description": "шоколадное мороженое в вафельном стаканчике",
-    "deposit": null,
-    "dietary_preferences": [],
-    "disabled_info": null,
-    "fulfillment_lead_time": null,
-    "has_extra_info": true,
-    "images": [
-      {
-        "url": "https://imageproxy.wolt.com/assets/688b98fca3eb62eeb95c2102",
-        "blurhash": "LoRfUvj]_Nj?axfPoff8kCf6aej["
-      }
-    ],
-    "is_cutlery": false,
-    "is_no_contact_delivery_allowed": true,
-    "is_wolt_plus_only": false,
-    "lowest_price": null,
-    "lowest_price_v2": null,
-    "max_quantity_per_purchase": null,
-    "min_quantity_per_purchase": null,
-    "name": "Бомба Шоколад, Вафельный Стаканчик 90Г",
-    "options": [],
-    "original_price": null,
-    "item_price_discount_validity_period": null,
-    "price": 29000,
-    "product_hierarchy_tags": [
-      "UNKNOWN"
-    ],
-    "purchasable_balance": 16,
-    "restrictions": [],
-    "return_policy": null,
-    "sell_by_weight_config": null,
-    "should_display_purchasable_balance": false,
-    "tags": [],
-    "unit_info": "90 г",
-    "unit_price": {
-      "base": 1,
-      "original_price": null,
-      "price": 322222,
-      "unit": "kilogram"
-    },
-    "variant": null,
-    "vat_category_code": null,
-    "vat_percentage": 12,
-    "vat_percentage_decimal": "12.0",
-    "external_compliance_link": null,
-    "consent_info": {
-      "ask_consent": false,
-      "blur_image": false
-    }
-  },
-  {
-    "id": "68536fec7d35d8ba7ad78134",
-    "advertising_info": null,
-    "alcohol_permille": 0,
-    "allowed_delivery_methods": [
-      "eatin",
-      "takeaway",
-      "homedelivery"
-    ],
-    "available_times": [
-      {
-        "days": [
-          1,
-          2,
-          3,
-          4,
-          5,
-          6,
-          7
-        ],
-        "start_time": 0,
-        "end_time": 86400000
-      }
-    ],
-    "barcode_gtin": "04605922025092",
-    "caffeine_info": null,
-    "can_be_promoted": {
-      "basket": true,
-      "venue": true,
-      "credits": true
-    },
-    "checksum": "b3ce05b8f65e2f0cf777bec76b5c83fb",
-    "description": "Snickers мороженое эскимо 65г",
-    "deposit": null,
-    "dietary_preferences": [],
-    "disabled_info": null,
-    "fulfillment_lead_time": null,
-    "has_extra_info": true,
-    "images": [
-      {
-        "url": "https://imageproxy.wolt.com/assets/688b9cb323fa16f725afb45a",
-        "blurhash": "LXRfh4fk~qodf6%MkCDi-;ofD*Rj"
-      }
-    ],
-    "is_cutlery": false,
-    "is_no_contact_delivery_allowed": true,
-    "is_wolt_plus_only": false,
-    "lowest_price": null,
-    "lowest_price_v2": null,
-    "max_quantity_per_purchase": null,
-    "min_quantity_per_purchase": null,
-    "name": "Snickers Мороженое Эскимо 65Г",
-    "options": [],
-    "original_price": null,
-    "item_price_discount_validity_period": null,
-    "price": 93000,
-    "product_hierarchy_tags": [
-      "UNKNOWN"
-    ],
-    "purchasable_balance": 24,
-    "restrictions": [],
-    "return_policy": null,
-    "sell_by_weight_config": null,
-    "should_display_purchasable_balance": false,
-    "tags": [],
-    "unit_info": "73 г",
-    "unit_price": {
-      "base": 1,
-      "original_price": null,
-      "price": 1273973,
-      "unit": "kilogram"
-    },
-    "variant": null,
-    "vat_category_code": null,
-    "vat_percentage": 12,
-    "vat_percentage_decimal": "12.0",
-    "external_compliance_link": null,
-    "consent_info": {
-      "ask_consent": false,
-      "blur_image": false
-    }
-  },
-  {
-    "id": "087994f7c252e59312e23fd3",
-    "advertising_info": null,
-    "alcohol_permille": 0,
-    "allowed_delivery_methods": [
-      "eatin",
-      "takeaway",
-      "homedelivery"
-    ],
-    "available_times": [
-      {
-        "days": [
-          1,
-          2,
-          3,
-          4,
-          5,
-          6,
-          7
-        ],
-        "start_time": 0,
-        "end_time": 86400000
-      }
-    ],
-    "barcode_gtin": "05000159484657",
-    "caffeine_info": null,
-    "can_be_promoted": {
-      "basket": true,
-      "venue": true,
-      "credits": true
-    },
-    "checksum": "bff72c2c267316a701bb8410c95ae65a",
-    "description": "Twix мороженое батончик",
-    "deposit": null,
-    "dietary_preferences": [],
-    "disabled_info": null,
-    "fulfillment_lead_time": null,
-    "has_extra_info": true,
-    "images": [
-      {
-        "url": "https://imageproxy.wolt.com/assets/688b9dc023fa16f725afc089",
-        "blurhash": "LER2-^8wyD?w#P^+DN8^?^8wDN%h"
-      }
-    ],
-    "is_cutlery": false,
-    "is_no_contact_delivery_allowed": true,
-    "is_wolt_plus_only": false,
-    "lowest_price": null,
-    "lowest_price_v2": null,
-    "max_quantity_per_purchase": null,
-    "min_quantity_per_purchase": null,
-    "name": "Twix Ice Bar 40Gr",
-    "options": [],
-    "original_price": null,
-    "item_price_discount_validity_period": null,
-    "price": 60000,
-    "product_hierarchy_tags": [
-      "UNKNOWN"
+      "PERISHABLE"
     ],
     "purchasable_balance": 11,
     "restrictions": [],
@@ -1048,11 +638,11 @@
     "sell_by_weight_config": null,
     "should_display_purchasable_balance": false,
     "tags": [],
-    "unit_info": "40 г",
+    "unit_info": "250 г",
     "unit_price": {
       "base": 1,
       "original_price": null,
-      "price": 1500000,
+      "price": 780000,
       "unit": "kilogram"
     },
     "variant": null,
@@ -1066,13 +656,13 @@
     }
   },
   {
-    "id": "ed21c14dd6c2cc584a18ce7b",
+    "id": "674a31dd24b4f9a0821669bb",
     "advertising_info": null,
     "alcohol_permille": 0,
     "allowed_delivery_methods": [
-      "eatin",
+      "homedelivery",
       "takeaway",
-      "homedelivery"
+      "eatin"
     ],
     "available_times": [
       {
@@ -1089,15 +679,15 @@
         "end_time": 86400000
       }
     ],
-    "barcode_gtin": "04870233461185",
+    "barcode_gtin": "04810898003115",
     "caffeine_info": null,
     "can_be_promoted": {
       "basket": true,
       "venue": true,
       "credits": true
     },
-    "checksum": "72c3d7c4d583ee6a8caad2ab9dc80fcb",
-    "description": "Эскимо сливочное с шоколадным трюфелем, покрытое соусом из красного апельсина и горячим шоколадом",
+    "checksum": "006c7c50b488b90ca65361d25af27275",
+    "description": "СЫР МОЦАРЕЛЛА  BONFESTO  45% 100ГР ( 1 ШАРИК)",
     "deposit": null,
     "dietary_preferences": [],
     "disabled_info": null,
@@ -1105,8 +695,8 @@
     "has_extra_info": true,
     "images": [
       {
-        "url": "https://imageproxy.wolt.com/assets/6888bf09a3eb62eeb9563b3b",
-        "blurhash": "LhR{rmj[_NoLoffQWVjakCfQaejt"
+        "url": "https://imageproxy.wolt.com/assets/6888bf00a3eb62eeb95638f7",
+        "blurhash": "LrRyc^ae?wozocj[a$aet8j[Rjax"
       }
     ],
     "is_cutlery": false,
@@ -1116,25 +706,107 @@
     "lowest_price_v2": null,
     "max_quantity_per_purchase": null,
     "min_quantity_per_purchase": null,
-    "name": "Bahroma Трюфель-Красный Апельсин В Шоколаде, Эскимо 75Г",
+    "name": "Сыр Моцарелла  Bonfesto  45% 100Гр (Шарик)",
     "options": [],
     "original_price": null,
     "item_price_discount_validity_period": null,
-    "price": 72000,
+    "price": 121000,
     "product_hierarchy_tags": [
-      "UNKNOWN"
+      "PERISHABLE"
     ],
-    "purchasable_balance": 14,
+    "purchasable_balance": 2,
+    "restrictions": [],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": true,
+    "tags": [],
+    "unit_info": "100 г",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 1210000,
+      "unit": "kilogram"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 12,
+    "vat_percentage_decimal": "12.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    }
+  },
+  {
+    "id": "ed1bb9c833c71711c0374e83",
+    "advertising_info": null,
+    "alcohol_permille": 0,
+    "allowed_delivery_methods": [
+      "homedelivery",
+      "takeaway",
+      "eatin"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 0,
+        "end_time": 86400000
+      }
+    ],
+    "barcode_gtin": "00745314201438",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "0c2bd0b84c57f91b6f5c9696299ac30f",
+    "description": "Адыгейский чечил - косичка копченная: Косичка копченого адыгейского чечила - это настоящий деликатес, созданный для ценителей изысканных вкусов. Процесс копчения придает сыру глубокий аромат и неповторимый вкус, делая его идеальным компаньоном к вину или аперитиву, и другим блюдам. Нежная текстура и богатый вкус сделают этот продукт незабываемым угощением на любом столе.",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": true,
+    "images": [
+      {
+        "url": "https://imageproxy.wolt.com/assets/6888c4881f0cac713af6e4c8",
+        "blurhash": "LJSs1[j[_NozM_ay%Mj[o#fkV?ax"
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": true,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "Адыгейский Чечил - Косичка Белая 100 Г",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 83000,
+    "product_hierarchy_tags": [
+      "PERISHABLE"
+    ],
+    "purchasable_balance": 13,
     "restrictions": [],
     "return_policy": null,
     "sell_by_weight_config": null,
     "should_display_purchasable_balance": false,
     "tags": [],
-    "unit_info": "75 г",
+    "unit_info": "100 г",
     "unit_price": {
       "base": 1,
       "original_price": null,
-      "price": 960000,
+      "price": 830000,
       "unit": "kilogram"
     },
     "variant": null,
@@ -1148,13 +820,13 @@
     }
   },
   {
-    "id": "5919c8909e1552b0259114c0",
+    "id": "6ecf080596d287aa4a43f8fd",
     "advertising_info": null,
     "alcohol_permille": 0,
     "allowed_delivery_methods": [
-      "eatin",
+      "homedelivery",
       "takeaway",
-      "homedelivery"
+      "eatin"
     ],
     "available_times": [
       {
@@ -1171,15 +843,15 @@
         "end_time": 86400000
       }
     ],
-    "barcode_gtin": "04620021193541",
+    "barcode_gtin": "04607004892998",
     "caffeine_info": null,
     "can_be_promoted": {
       "basket": true,
       "venue": true,
       "credits": true
     },
-    "checksum": "02a93754d1f396b58b8eea795f34de43",
-    "description": "Alpen Gold эскимо",
+    "checksum": "e6929ccd32dc206f50bdb4c6059a9dde",
+    "description": "Погрузитесь в мир изысканного вкуса и легкости с сыром\"Hochland Фетакса легкая в рассоле мягкий\"в упаковке весом 275 грамм. Этот продукт представляет собой уникальное сочетание мягкости и нежной текстуры, обогащенное легкостью в составе, что делает его идеальным выбором для тех, кто ценит заботу о своем здоровье и великолепный вкус.\"Фетакса легкая\"от\"Hochland\"- это не просто сыр, это заботливо созданный продукт с учетом потребностей тех, кто следит за своим питанием. Содержание жира оптимизировано, сохраняя при этом неповторимый вкус и текстуру мягкой феты. Этот сыр в рассоле сталкнет вас с удивительным сочетанием вкусов и легкостью в каждом кусочке. Упаковка весом 275 грамм обеспечивает удобство использования и хранения.\"Hochland Фетакса легкая в рассоле\"идеально подходит для создания легких салатов, закусок, бутербродов и горячих блюд. Его мягкость и свежий вкус придают каждому блюду изысканность, сохраняя при этом баланс нежности и диетической легкости. Этот сыр отлично сочетается с свежими овощами, зеленью и легкими соусами, создавая блюда, полные свежести и аромата. Он поднимет ваш опыт кулинарного искусства на новый уровень, добавляя ваши кулинарные творения неповторимый вкус. Используйте его в салатах, питах, буррито или просто нарежьте на угощение к хлебу.\"Фетакса легкая в рассоле\"от\"Hochland\"- это легкий путь к наслаждению великолепным вкусом. Разнообразьте свой рацион с этим изысканным продуктом, наслаждайтесь каждым кусочком и ощущайте легкость в каждом угощении.",
     "deposit": null,
     "dietary_preferences": [],
     "disabled_info": null,
@@ -1187,8 +859,8 @@
     "has_extra_info": true,
     "images": [
       {
-        "url": "https://imageproxy.wolt.com/assets/688b9e6ab2b18bf1da5388f6",
-        "blurhash": "LUSF;Kj[~qkCn#fQbcfQxufQM{fQ"
+        "url": "https://imageproxy.wolt.com/assets/6828be3da8eb0e0a8f880eb2",
+        "blurhash": "LUPZ+GS6~psjo#WVRjoK^+awM{og"
       }
     ],
     "is_cutlery": false,
@@ -1198,25 +870,25 @@
     "lowest_price_v2": null,
     "max_quantity_per_purchase": null,
     "min_quantity_per_purchase": null,
-    "name": "Alpen Gold, Эскимо 90Мл",
+    "name": "Фетакса сыр мягкий в рассоле лёгкий 275г",
     "options": [],
     "original_price": null,
     "item_price_discount_validity_period": null,
-    "price": 111000,
+    "price": 210500,
     "product_hierarchy_tags": [
-      "UNKNOWN"
+      "PERISHABLE"
     ],
-    "purchasable_balance": 27,
+    "purchasable_balance": 11,
     "restrictions": [],
     "return_policy": null,
     "sell_by_weight_config": null,
     "should_display_purchasable_balance": false,
     "tags": [],
-    "unit_info": "58 г",
+    "unit_info": "275 г",
     "unit_price": {
       "base": 1,
       "original_price": null,
-      "price": 1913793,
+      "price": 765455,
       "unit": "kilogram"
     },
     "variant": null,
@@ -1230,13 +902,13 @@
     }
   },
   {
-    "id": "5d57d83b958d1ecb368d2c21",
+    "id": "47879f057334bf6946b20c9f",
     "advertising_info": null,
     "alcohol_permille": 0,
     "allowed_delivery_methods": [
-      "eatin",
+      "homedelivery",
       "takeaway",
-      "homedelivery"
+      "eatin"
     ],
     "available_times": [
       {
@@ -1253,15 +925,15 @@
         "end_time": 86400000
       }
     ],
-    "barcode_gtin": "05000159397360",
+    "barcode_gtin": "07640166790815",
     "caffeine_info": null,
     "can_be_promoted": {
       "basket": true,
       "venue": true,
       "credits": true
     },
-    "checksum": "829683199e5c48aceef0d68a2247dd41",
-    "description": "Mars мороженое батончик",
+    "checksum": "91a4a45d9d7f9ade59d46b76ca7422c2",
+    "description": "",
     "deposit": null,
     "dietary_preferences": [],
     "disabled_info": null,
@@ -1269,8 +941,8 @@
     "has_extra_info": true,
     "images": [
       {
-        "url": "https://imageproxy.wolt.com/assets/688b9dbf23fa16f725afc072",
-        "blurhash": "LHP6%800cF.9D*%g8_H?_N004T-;"
+        "url": "https://imageproxy.wolt.com/assets/6888baa11f0cac713af62c3c",
+        "blurhash": "LlR3f+WC~Wt7R.ays+j[xZj@Rkay"
       }
     ],
     "is_cutlery": false,
@@ -1280,25 +952,25 @@
     "lowest_price_v2": null,
     "max_quantity_per_purchase": null,
     "min_quantity_per_purchase": null,
-    "name": "Mars Ice Bar 41.8Gr",
+    "name": "Züger Сыр Моцарелла Мини В Рассоле 150Г (замороженный)",
     "options": [],
     "original_price": null,
     "item_price_discount_validity_period": null,
-    "price": 60000,
+    "price": 214500,
     "product_hierarchy_tags": [
-      "UNKNOWN"
+      "PERISHABLE"
     ],
-    "purchasable_balance": 21,
+    "purchasable_balance": 4,
     "restrictions": [],
     "return_policy": null,
     "sell_by_weight_config": null,
-    "should_display_purchasable_balance": false,
+    "should_display_purchasable_balance": true,
     "tags": [],
-    "unit_info": "41 г",
+    "unit_info": "200 г",
     "unit_price": {
       "base": 1,
       "original_price": null,
-      "price": 1463415,
+      "price": 1072500,
       "unit": "kilogram"
     },
     "variant": null,
@@ -1312,7 +984,7 @@
     }
   },
   {
-    "id": "f4d26cf9000beb7560d8de9c",
+    "id": "3427216f93def58c8eea5499",
     "advertising_info": null,
     "alcohol_permille": 0,
     "allowed_delivery_methods": [
@@ -1335,15 +1007,15 @@
         "end_time": 86400000
       }
     ],
-    "barcode_gtin": "04620021192902",
+    "barcode_gtin": "08000430133035",
     "caffeine_info": null,
     "can_be_promoted": {
       "basket": true,
       "venue": true,
       "credits": true
     },
-    "checksum": "b9d4992744c13fe766f88cb8d425f5af",
-    "description": "48 копеек стакан шоколадный",
+    "checksum": "22d19f5caed1be274f0b3f7153aed120",
+    "description": "Традиционный итальянский сыр молочно-белого цвета представлен в самой популярной шаровидной форме. Идеально сочетается со свежими овощами и соусом песто.",
     "deposit": null,
     "dietary_preferences": [],
     "disabled_info": null,
@@ -1351,8 +1023,8 @@
     "has_extra_info": true,
     "images": [
       {
-        "url": "https://imageproxy.wolt.com/assets/6888be571f0cac713af65ea4",
-        "blurhash": "L$RfRgj[?wj[kCa|f5j?s-jtWCaz"
+        "url": "https://imageproxy.wolt.com/assets/688b9e79b2b18bf1da538a70",
+        "blurhash": "LdQ]ymja_Mbun-kCX5V@-;fPIUjv"
       }
     ],
     "is_cutlery": false,
@@ -1362,107 +1034,25 @@
     "lowest_price_v2": null,
     "max_quantity_per_purchase": null,
     "min_quantity_per_purchase": null,
-    "name": "48 Копеек Шоколад, Стакан 160Мл",
+    "name": "Galbani Сыр Моцарелла, 125Гр",
     "options": [],
     "original_price": null,
     "item_price_discount_validity_period": null,
-    "price": 75500,
+    "price": 154500,
     "product_hierarchy_tags": [
-      "UNKNOWN"
+      "PERISHABLE"
     ],
-    "purchasable_balance": 24,
+    "purchasable_balance": 4,
     "restrictions": [],
     "return_policy": null,
     "sell_by_weight_config": null,
-    "should_display_purchasable_balance": false,
-    "tags": [],
-    "unit_info": "88 г",
-    "unit_price": {
-      "base": 1,
-      "original_price": null,
-      "price": 857955,
-      "unit": "kilogram"
-    },
-    "variant": null,
-    "vat_category_code": null,
-    "vat_percentage": 12,
-    "vat_percentage_decimal": "12.0",
-    "external_compliance_link": null,
-    "consent_info": {
-      "ask_consent": false,
-      "blur_image": false
-    }
-  },
-  {
-    "id": "0b11c40c09caa352dd7e0ce0",
-    "advertising_info": null,
-    "alcohol_permille": 0,
-    "allowed_delivery_methods": [
-      "eatin",
-      "takeaway",
-      "homedelivery"
-    ],
-    "available_times": [
-      {
-        "days": [
-          1,
-          2,
-          3,
-          4,
-          5,
-          6,
-          7
-        ],
-        "start_time": 0,
-        "end_time": 86400000
-      }
-    ],
-    "barcode_gtin": "04870004909045",
-    "caffeine_info": null,
-    "can_be_promoted": {
-      "basket": true,
-      "venue": true,
-      "credits": true
-    },
-    "checksum": "159749e0e4fb23eafa8c6231c897e677",
-    "description": "Рожок ванильное мороженое с кусочками черного печенья и шоколадным соусом в черном рожке",
-    "deposit": null,
-    "dietary_preferences": [],
-    "disabled_info": null,
-    "fulfillment_lead_time": null,
-    "has_extra_info": true,
-    "images": [
-      {
-        "url": "https://imageproxy.wolt.com/assets/688b98fca3eb62eeb95c20fe",
-        "blurhash": "LhRfh5ay~qs;ofayWBj[f7fkbFay"
-      }
-    ],
-    "is_cutlery": false,
-    "is_no_contact_delivery_allowed": true,
-    "is_wolt_plus_only": false,
-    "lowest_price": null,
-    "lowest_price_v2": null,
-    "max_quantity_per_purchase": null,
-    "min_quantity_per_purchase": null,
-    "name": "Бомба Черное Печенье, Рожок 125Г",
-    "options": [],
-    "original_price": null,
-    "item_price_discount_validity_period": null,
-    "price": 55000,
-    "product_hierarchy_tags": [
-      "UNKNOWN"
-    ],
-    "purchasable_balance": 34,
-    "restrictions": [],
-    "return_policy": null,
-    "sell_by_weight_config": null,
-    "should_display_purchasable_balance": false,
+    "should_display_purchasable_balance": true,
     "tags": [],
     "unit_info": "125 г",
     "unit_price": {
       "base": 1,
       "original_price": null,
-      "price": 440000,
+      "price": 1236000,
       "unit": "kilogram"
     },
     "variant": null,
@@ -1476,7 +1066,89 @@
     }
   },
   {
-    "id": "f9e52184bae22078b6f1cb04",
+    "id": "0bdd8f419f5cb03c0f14d500",
+    "advertising_info": null,
+    "alcohol_permille": 0,
+    "allowed_delivery_methods": [
+      "homedelivery",
+      "takeaway",
+      "eatin"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 0,
+        "end_time": 86400000
+      }
+    ],
+    "barcode_gtin": "04870210770194",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "8c0188615aacb197ced2ebfb2e654a34",
+    "description": "Село Лесное Сыр Сулугуни 250г",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": true,
+    "images": [
+      {
+        "url": "https://imageproxy.wolt.com/assets/6852afd98baf0fa6c39a60e1",
+        "blurhash": "LsQc-cfk~Xn+s=fQWTbGxwjuROa{"
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": true,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "Село Лесное Сыр Сулугуни 250г",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 180000,
+    "product_hierarchy_tags": [
+      "PERISHABLE"
+    ],
+    "purchasable_balance": 2,
+    "restrictions": [],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": true,
+    "tags": [],
+    "unit_info": "250 г",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 720000,
+      "unit": "kilogram"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 12,
+    "vat_percentage_decimal": "12.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    }
+  },
+  {
+    "id": "d667444ab0ba826ad8cf74df",
     "advertising_info": null,
     "alcohol_permille": 0,
     "allowed_delivery_methods": [
@@ -1499,15 +1171,15 @@
         "end_time": 86400000
       }
     ],
-    "barcode_gtin": "04870004906990",
+    "barcode_gtin": "04607004890673",
     "caffeine_info": null,
     "can_be_promoted": {
       "basket": true,
       "venue": true,
       "credits": true
     },
-    "checksum": "9e2efc65477c776a3a888654290b7e05",
-    "description": "Эскимо вафельный Mix",
+    "checksum": "3c697b7a7205082879572e17bad328cb",
+    "description": "Нежная взбитая консистенция и сливочный вкус натурального молока и сливок. Альпийский рецепт, который стал мировой классикой, сделав Альметте незаменимым ингредиентом множества кулинарных блюд: от соусов и гарниров до самых нежных и изысканных десертов. Сыр «Альметте» позволяет готовить блюда ресторанного уровня в домашних условиях.",
     "deposit": null,
     "dietary_preferences": [],
     "disabled_info": null,
@@ -1515,8 +1187,8 @@
     "has_extra_info": true,
     "images": [
       {
-        "url": "https://imageproxy.wolt.com/assets/688b98fba3eb62eeb95c20eb",
-        "blurhash": "LXSF*4j[_NoLoffPaxbHozj@V@ay"
+        "url": "https://imageproxy.wolt.com/assets/688b99b723fa16f725af7c3e",
+        "blurhash": "LbSFz^j[_4ofxsfPRlfktRfkRjay"
       }
     ],
     "is_cutlery": false,
@@ -1526,25 +1198,1007 @@
     "lowest_price_v2": null,
     "max_quantity_per_purchase": null,
     "min_quantity_per_purchase": null,
-    "name": "Бомба Вафельный Mix Ваниль, Эскимо 90Г",
+    "name": "Hochland Альметте Сливочный Творожный Сыр, 150Г",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 133000,
+    "product_hierarchy_tags": [
+      "PERISHABLE"
+    ],
+    "purchasable_balance": 10,
+    "restrictions": [],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": false,
+    "tags": [],
+    "unit_info": "150 г",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 886667,
+      "unit": "kilogram"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 12,
+    "vat_percentage_decimal": "12.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    }
+  },
+  {
+    "id": "813d236026c37cfc4c06da03",
+    "advertising_info": null,
+    "alcohol_permille": 0,
+    "allowed_delivery_methods": [
+      "eatin",
+      "takeaway",
+      "homedelivery"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 0,
+        "end_time": 86400000
+      }
+    ],
+    "barcode_gtin": "04607004892578",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "860ddc4766f16b647395125646c340ae",
+    "description": "Хохланд «Для Кулинарии» – специализированный творожный сыр, предназначенный для ежедневного использования в домашней кулинарии.\n\nХохланд «Для Кулинарии» создан на основе творожного сыра из профессиональной линейки Hochland Professional, который в течение многих лет является продуктом №1 у рестораторов России.\n\nЭто универсальный продукт, идеальный для приготовления сладких и несладких, горячих и холодных блюд.\n\nТворожный сыр Хохланд «Для Кулинарии» – это легкий путь к идеальному результату!",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": true,
+    "images": [
+      {
+        "url": "https://imageproxy.wolt.com/assets/6888bba3a3eb62eeb955f4b5",
+        "blurhash": "L,NdH|Rk~qxaaet7WVRP?bofWBay"
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": true,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": 5,
+    "min_quantity_per_purchase": null,
+    "name": "Hochland Творожный Сыр, 180Гр",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 168500,
+    "product_hierarchy_tags": [
+      "PERISHABLE"
+    ],
+    "purchasable_balance": 7,
+    "restrictions": [],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": true,
+    "tags": [],
+    "unit_info": "180 г",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 936111,
+      "unit": "kilogram"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 12,
+    "vat_percentage_decimal": "12.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    }
+  },
+  {
+    "id": "11df1d0c9eb8c31aa56a3441",
+    "advertising_info": null,
+    "alcohol_permille": 0,
+    "allowed_delivery_methods": [
+      "eatin",
+      "takeaway",
+      "homedelivery"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 0,
+        "end_time": 86400000
+      }
+    ],
+    "barcode_gtin": "04607004891373",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "adc4076d51781c42b1c784037534fc64",
+    "description": "Мягкий творожный сыр с тонким сливочным ароматом аппетитно дополнит бутерброды, сэндвичи или хрустящие хлебцы.",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": true,
+    "images": [
+      {
+        "url": "https://imageproxy.wolt.com/assets/688b99bd23fa16f725af7d17",
+        "blurhash": "LjPGmhNH~q-nNHWBaeozx[jsn%bI"
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": true,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "Hochland Сыр Творожный Сливочный, 140 Г.",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 137500,
+    "product_hierarchy_tags": [
+      "PERISHABLE"
+    ],
+    "purchasable_balance": 20,
+    "restrictions": [],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": false,
+    "tags": [],
+    "unit_info": "140 г",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 982143,
+      "unit": "kilogram"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 12,
+    "vat_percentage_decimal": "12.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    }
+  },
+  {
+    "id": "b0457da02a317b77b2c260bb",
+    "advertising_info": null,
+    "alcohol_permille": 0,
+    "allowed_delivery_methods": [
+      "homedelivery",
+      "takeaway",
+      "eatin"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 0,
+        "end_time": 86400000
+      }
+    ],
+    "barcode_gtin": "04810898002682",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "bbdc0ccb0fafb63c53575dda5d2f41f9",
+    "description": "НЕЖНЫЙ СЛИВОЧНЫЙ КРЕМЧИЗ В СОЧЕТАНИИ С АРОМАТНЫМИ КУСОЧКАМИ ГРИБОВ\r\nОБЛАДАЕТ МЯГКОЙ ПОДАТЛИВОЙ КОНСИСТЕНЦИЕЙ ЛЕГКО НАМАЗЫВАЕТСЯ И МОЖЕТ ИСПОЛЬЗОВАТЬСЯ ДЛЯ ПРИГОТОВЛЕНИЯ БРУСКЕТТ ЗАКУСОК САЛАТОВ СОУСОВ И ГОРЯЧИХ БЛЮД",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": true,
+    "images": [
+      {
+        "url": "https://imageproxy.wolt.com/assets/67814d3add4f3770dfb8f9f1",
+        "blurhash": "LsRVqUR*%ho0WAj[j[f6.TofRObH"
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": true,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "Сыр Bonfesto Творожный Кремчиз С Наполнителем Грибы, 65%, 140 Г",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 108500,
+    "product_hierarchy_tags": [
+      "PERISHABLE"
+    ],
+    "purchasable_balance": 1,
+    "restrictions": [],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": true,
+    "tags": [],
+    "unit_info": "140 г",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 775000,
+      "unit": "kilogram"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 12,
+    "vat_percentage_decimal": "12.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    }
+  },
+  {
+    "id": "ab89f3eed9105379c2fd6838",
+    "advertising_info": null,
+    "alcohol_permille": 0,
+    "allowed_delivery_methods": [
+      "homedelivery",
+      "takeaway",
+      "eatin"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 0,
+        "end_time": 86400000
+      }
+    ],
+    "barcode_gtin": "04607004891397",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "e111a841f8f389e354b748310a09fd72",
+    "description": "Творожный сыр Hochland с зеленью – это нежный сыр из натуральных ингредиентов с добавлением кусочков ароматной зелени. Варианты использования творожного сыра безграничны: его можно намазать на бутерброд, на его основе можно приготовить нежный соус для мяса или рыбы, а также использовать в качестве начинки для различных закусок.\nМассовая доля жира в сухом веществе не менее 60%.",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": true,
+    "images": [
+      {
+        "url": "https://imageproxy.wolt.com/assets/6888bb77a3eb62eeb955ed60",
+        "blurhash": "LrNdjsRk~XxtInWBWBt7%Mj[s;bG"
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": true,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "Hochland Сыр Творожный  С Зеленью, 140 Г.",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 134500,
+    "product_hierarchy_tags": [
+      "PERISHABLE"
+    ],
+    "purchasable_balance": 3,
+    "restrictions": [],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": true,
+    "tags": [],
+    "unit_info": "140 г",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 960714,
+      "unit": "kilogram"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 12,
+    "vat_percentage_decimal": "12.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    }
+  },
+  {
+    "id": "d17ebf836691fee95764175d",
+    "advertising_info": null,
+    "alcohol_permille": 0,
+    "allowed_delivery_methods": [
+      "eatin",
+      "takeaway",
+      "homedelivery"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 0,
+        "end_time": 86400000
+      }
+    ],
+    "barcode_gtin": "04607004891694",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "ae00b364c25e4ca4755a1e852809170a",
+    "description": "Мягкий творожный сыр с тонким сливочным ароматом аппетитно дополнит бутерброды, сэндвичи или хрустящие хлебцы.",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": true,
+    "images": [
+      {
+        "url": "https://imageproxy.wolt.com/assets/6888bad21f0cac713af6339c",
+        "blurhash": "LjPGmhNH~q-nNHWBaeozxujsn%bI"
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": true,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "Hochland Сыр Творожный Сливочный, 220Гр",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 183500,
+    "product_hierarchy_tags": [
+      "PERISHABLE"
+    ],
+    "purchasable_balance": 12,
+    "restrictions": [],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": false,
+    "tags": [],
+    "unit_info": "220 г",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 834091,
+      "unit": "kilogram"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 12,
+    "vat_percentage_decimal": "12.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    }
+  },
+  {
+    "id": "46e3091ee646be8de5ba3a0d",
+    "advertising_info": null,
+    "alcohol_permille": 0,
+    "allowed_delivery_methods": [
+      "homedelivery",
+      "takeaway",
+      "eatin"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 0,
+        "end_time": 86400000
+      }
+    ],
+    "barcode_gtin": "08002795000205",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "f14ad5bb738f07de8dd4b53ace3090f3",
+    "description": "",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": true,
+    "images": [
+      {
+        "url": "https://imageproxy.wolt.com/assets/6888b9011f0cac713af5fdf0",
+        "blurhash": "LYR:B1a#_Ns.n~azWXoJ%Ma}M{oJ"
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": true,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "Сыр Маскарпоне Sterilgarda Банка 500Г",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 481000,
+    "product_hierarchy_tags": [
+      "PERISHABLE"
+    ],
+    "purchasable_balance": 2,
+    "restrictions": [],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": true,
+    "tags": [],
+    "unit_info": "500 г",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 962000,
+      "unit": "kilogram"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 12,
+    "vat_percentage_decimal": "12.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    }
+  },
+  {
+    "id": "158fd3521a8a39e7fbfb0c3a",
+    "advertising_info": null,
+    "alcohol_permille": 0,
+    "allowed_delivery_methods": [
+      "homedelivery",
+      "takeaway",
+      "eatin"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 0,
+        "end_time": 86400000
+      }
+    ],
+    "barcode_gtin": "04810898000497",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "a8a214b7be9dca3946a342b66ce8aec4",
+    "description": "СЫР  МЯГКИЙ МАСКАРПОНЕ BONFESTO 78% 250 ГР",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": true,
+    "images": [
+      {
+        "url": "https://imageproxy.wolt.com/assets/688b99bf23fa16f725af7d91",
+        "blurhash": "LpRC*xoe_4WCRiayogj[%gayM_oL"
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": true,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "Сыр  Мягкий Маскарпоне Bonfesto 78% 250 Гр",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 243000,
+    "product_hierarchy_tags": [
+      "PERISHABLE"
+    ],
+    "purchasable_balance": 10,
+    "restrictions": [],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": false,
+    "tags": [],
+    "unit_info": "250 г",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 972000,
+      "unit": "kilogram"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 12,
+    "vat_percentage_decimal": "12.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    }
+  },
+  {
+    "id": "13be172f1471dc9fada9bca7",
+    "advertising_info": null,
+    "alcohol_permille": 0,
+    "allowed_delivery_methods": [
+      "homedelivery",
+      "takeaway",
+      "eatin"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 0,
+        "end_time": 86400000
+      }
+    ],
+    "barcode_gtin": "04810898002644",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "e0d83a1f3983c17d52f1843617985559",
+    "description": "Cream Cheese Bonfesto с наполнителем «Овощи гриль» – мягкий творожный сыр кремообразной консистенции. Благодаря своей мягкой податливой консистенции он легко намазывается на хлеб и идеально подходит для приготовления любимых брускетт и других блюд.",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": true,
+    "images": [
+      {
+        "url": "https://imageproxy.wolt.com/assets/68ac82d76815835c18a5f9ce",
+        "blurhash": "LPRyywkC~qn+kCayoLj[?bjZD%bH"
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": true,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "Bonfesto творожный сыр Cream Cheese «Овощи гриль» 140 г",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 108000,
+    "product_hierarchy_tags": [
+      "PERISHABLE"
+    ],
+    "purchasable_balance": 4,
+    "restrictions": [],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": true,
+    "tags": [],
+    "unit_info": "160 г",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 675000,
+      "unit": "kilogram"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 12,
+    "vat_percentage_decimal": "12.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    }
+  },
+  {
+    "id": "3191584ab600905384a59b1a",
+    "advertising_info": null,
+    "alcohol_permille": 0,
+    "allowed_delivery_methods": [
+      "homedelivery",
+      "takeaway",
+      "eatin"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 0,
+        "end_time": 86400000
+      }
+    ],
+    "barcode_gtin": "04870244251034",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "e35cf9440500ed4085ef763a761774fe",
+    "description": "Рисовые палочки быстрого приготовления",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": true,
+    "images": [
+      {
+        "url": "https://imageproxy.wolt.com/assets/68666a3c402a9a5536bd22da",
+        "blurhash": "LfSPRuof?daejXjZfmW=x]f6M_f*"
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": true,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": 5,
+    "min_quantity_per_purchase": null,
+    "name": "DF Tokpokki Крем-Сыр 160г",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 169000,
+    "product_hierarchy_tags": [
+      "PERISHABLE"
+    ],
+    "purchasable_balance": 1,
+    "restrictions": [],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": true,
+    "tags": [],
+    "unit_info": "160 г",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 1056250,
+      "unit": "kilogram"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 12,
+    "vat_percentage_decimal": "12.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    }
+  },
+  {
+    "id": "05f040980edff3ad4e67e7df",
+    "advertising_info": null,
+    "alcohol_permille": 0,
+    "allowed_delivery_methods": [
+      "homedelivery",
+      "takeaway",
+      "eatin"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 0,
+        "end_time": 86400000
+      }
+    ],
+    "barcode_gtin": "00745314201407",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "cb22acd5c07223319fc52ef9c8990cec",
+    "description": "Адыгейский чечил - косичка копченная: Косичка копченого адыгейского чечила - это настоящий деликатес, созданный для ценителей изысканных вкусов. Процесс копчения придает сыру глубокий аромат и неповторимый вкус, делая его идеальным компаньоном к вину или аперитиву, и другим блюдам. Нежная текстура и богатый вкус сделают этот продукт незабываемым угощением на любом столе.",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": true,
+    "images": [
+      {
+        "url": "https://imageproxy.wolt.com/assets/6888c45a23fa16f725a9f1ad",
+        "blurhash": "LQSigNay?wt7Rjayxuj[kXj[aJWB"
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": true,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "Адыгейский Чечил - Косичка Копченная 100 Г",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 83000,
+    "product_hierarchy_tags": [
+      "PERISHABLE"
+    ],
+    "purchasable_balance": 1,
+    "restrictions": [],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": true,
+    "tags": [],
+    "unit_info": "100 г",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 830000,
+      "unit": "kilogram"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 12,
+    "vat_percentage_decimal": "12.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    }
+  },
+  {
+    "id": "df093b592df437875ea485ae",
+    "advertising_info": null,
+    "alcohol_permille": 0,
+    "allowed_delivery_methods": [
+      "homedelivery",
+      "takeaway",
+      "eatin"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 0,
+        "end_time": 86400000
+      }
+    ],
+    "barcode_gtin": "04870132003608",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "c1909c99a785be16379847ef12840eaf",
+    "description": "молоко цельное коровье, молоко обезжиренное, закваска термофильных культур, молокосвертывающий фермент микробиологического происхождения, кальций хлористый, соль поваренная пищевая.",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": true,
+    "images": [
+      {
+        "url": "https://imageproxy.wolt.com/assets/68552ce6dbd9c0cb4a5c68a5",
+        "blurhash": "LLSidIa}_Nt7S5a}s,jZx^fkMwax"
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": true,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "Сыр чечил из коровьего молока (копченный) 45% 100г.",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 97500,
+    "product_hierarchy_tags": [
+      "PERISHABLE"
+    ],
+    "purchasable_balance": 3,
+    "restrictions": [],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": true,
+    "tags": [],
+    "unit_info": "100 г",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 975000,
+      "unit": "kilogram"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 12,
+    "vat_percentage_decimal": "12.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    }
+  },
+  {
+    "id": "11ec06cf2b310ebdd36b94b9",
+    "advertising_info": null,
+    "alcohol_permille": 0,
+    "allowed_delivery_methods": [
+      "homedelivery",
+      "takeaway",
+      "eatin"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 0,
+        "end_time": 86400000
+      }
+    ],
+    "barcode_gtin": "04870052009902",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "3a2ae3226a2942dd1761ed65efcfd4c6",
+    "description": "Село Лесное Сыр Чиссбер Соломка 50г",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": true,
+    "images": [
+      {
+        "url": "https://imageproxy.wolt.com/assets/6852afd98baf0fa6c39a60e0",
+        "blurhash": "LzSi53azyZofaefRoffPtSf6RPba"
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": true,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "Село Лесное Сыр Чиссбер Соломка 50г",
     "options": [],
     "original_price": null,
     "item_price_discount_validity_period": null,
     "price": 39000,
-    "product_hierarchy_tags": [
-      "UNKNOWN"
-    ],
-    "purchasable_balance": 29,
+    "product_hierarchy_tags": [],
+    "purchasable_balance": 11,
     "restrictions": [],
     "return_policy": null,
     "sell_by_weight_config": null,
     "should_display_purchasable_balance": false,
     "tags": [],
-    "unit_info": "90 г",
+    "unit_info": "50 г",
     "unit_price": {
       "base": 1,
       "original_price": null,
-      "price": 433333,
+      "price": 780000,
       "unit": "kilogram"
     },
     "variant": null,
@@ -1558,7 +2212,335 @@
     }
   },
   {
-    "id": "271755027dc4f56adff22ade",
+    "id": "18b20714d5ddc3c77c0e63b3",
+    "advertising_info": null,
+    "alcohol_permille": 0,
+    "allowed_delivery_methods": [
+      "homedelivery",
+      "takeaway",
+      "eatin"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 0,
+        "end_time": 86400000
+      }
+    ],
+    "barcode_gtin": "08022284001490",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "a6e9126110071815c99c83719da89e5a",
+    "description": "",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": true,
+    "images": [
+      {
+        "url": "https://imageproxy.wolt.com/assets/6888bb5023fa16f725a96e68",
+        "blurhash": "LSSidFay?wt8jDfPkEfkxvj[M_ae"
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": true,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "Сыр Твердый Грана Падано 200Г",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 535500,
+    "product_hierarchy_tags": [
+      "PERISHABLE"
+    ],
+    "purchasable_balance": 4,
+    "restrictions": [],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": true,
+    "tags": [],
+    "unit_info": "200 г",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 2677500,
+      "unit": "kilogram"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 12,
+    "vat_percentage_decimal": "12.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    }
+  },
+  {
+    "id": "db0bf1a579c3ac23e857996e",
+    "advertising_info": null,
+    "alcohol_permille": 0,
+    "allowed_delivery_methods": [
+      "homedelivery",
+      "takeaway",
+      "eatin"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 0,
+        "end_time": 86400000
+      }
+    ],
+    "barcode_gtin": "08022284002008",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "238db7a09c1d47a3397adfb6eef92e48",
+    "description": "",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": true,
+    "images": [
+      {
+        "url": "https://imageproxy.wolt.com/assets/6888bb5e23fa16f725a970df",
+        "blurhash": "LlQcbhad?vkDxuM{WCx]_Nt8D%WB"
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": true,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "Сыр Твердый Гран Альбьеро 200Г",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 436000,
+    "product_hierarchy_tags": [
+      "PERISHABLE"
+    ],
+    "purchasable_balance": 3,
+    "restrictions": [],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": true,
+    "tags": [],
+    "unit_info": "200 г",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 2180000,
+      "unit": "kilogram"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 12,
+    "vat_percentage_decimal": "12.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    }
+  },
+  {
+    "id": "9ed152366be544bf8f6b15be",
+    "advertising_info": null,
+    "alcohol_permille": 0,
+    "allowed_delivery_methods": [
+      "homedelivery",
+      "takeaway",
+      "eatin"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 0,
+        "end_time": 86400000
+      }
+    ],
+    "barcode_gtin": "08002004261168",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "1c921cf102a8bc11a64f258cf99d4a18",
+    "description": "",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": true,
+    "images": [
+      {
+        "url": "https://imageproxy.wolt.com/assets/688b99a623fa16f725af7a08",
+        "blurhash": "L+R.}dWB.At7RkfQt6fQxwj[ROWC"
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": true,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "Biraghi Сыр Тертый Гран Бираги 300Г",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 677500,
+    "product_hierarchy_tags": [
+      "PERISHABLE"
+    ],
+    "purchasable_balance": 1,
+    "restrictions": [],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": true,
+    "tags": [],
+    "unit_info": "300 г",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 2258333,
+      "unit": "kilogram"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 12,
+    "vat_percentage_decimal": "12.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    }
+  },
+  {
+    "id": "13e1b90453362f879a8f482d",
+    "advertising_info": null,
+    "alcohol_permille": 0,
+    "allowed_delivery_methods": [
+      "homedelivery",
+      "takeaway",
+      "eatin"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 0,
+        "end_time": 86400000
+      }
+    ],
+    "barcode_gtin": "05701638113661",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "d7ab9725f5811832fab4a15b190ec8bb",
+    "description": "",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": true,
+    "images": [
+      {
+        "url": "https://imageproxy.wolt.com/assets/688b9e1eb2b18bf1da53824e",
+        "blurhash": "L:QvLAae?wozn%j[W;WU%3fQNFjb"
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": true,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "Dairyland Сыр Бри С Белой Плесенью 125 Гр",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 212000,
+    "product_hierarchy_tags": [
+      "PERISHABLE"
+    ],
+    "purchasable_balance": 2,
+    "restrictions": [],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": true,
+    "tags": [],
+    "unit_info": "125 г",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 1696000,
+      "unit": "kilogram"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 12,
+    "vat_percentage_decimal": "12.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    }
+  },
+  {
+    "id": "794adad11a12c5c6c07c98e0",
     "advertising_info": null,
     "alcohol_permille": 0,
     "allowed_delivery_methods": [
@@ -1581,15 +2563,15 @@
         "end_time": 86400000
       }
     ],
-    "barcode_gtin": "04870233461246",
+    "barcode_gtin": "04870220601013",
     "caffeine_info": null,
     "can_be_promoted": {
       "basket": true,
       "venue": true,
       "credits": true
     },
-    "checksum": "dc7922630b8627df06525d8acdc7d324",
-    "description": "Мишка на полюсе эскимо пломбир-зефир в горячем шоколаде",
+    "checksum": "cce0a9e4a9494fa15e4d399dbf847b2f",
+    "description": "ТМ Мелодия Вкуса",
     "deposit": null,
     "dietary_preferences": [],
     "disabled_info": null,
@@ -1597,8 +2579,8 @@
     "has_extra_info": true,
     "images": [
       {
-        "url": "https://imageproxy.wolt.com/assets/688b98fca3eb62eeb95c2109",
-        "blurhash": "LdRpB_j[~pofkDayjEj[WCfQoej["
+        "url": "https://imageproxy.wolt.com/assets/688b99bf23fa16f725af7d74",
+        "blurhash": "LoRV^Kj[_NofoLaya}j[tRfRRPay"
       }
     ],
     "is_cutlery": false,
@@ -1608,25 +2590,25 @@
     "lowest_price_v2": null,
     "max_quantity_per_purchase": null,
     "min_quantity_per_purchase": null,
-    "name": "Мишка На Полюсе Зефир В Шоколаде, Эскимо 75Г",
+    "name": "Цу Айвенго Со Вкусом Топлёного Молока 50%  Сыр Твёрдый (Фасованный) 200Гр",
     "options": [],
     "original_price": null,
     "item_price_discount_validity_period": null,
-    "price": 52000,
+    "price": 177500,
     "product_hierarchy_tags": [
-      "UNKNOWN"
+      "PERISHABLE"
     ],
-    "purchasable_balance": 20,
+    "purchasable_balance": 3,
     "restrictions": [],
     "return_policy": null,
     "sell_by_weight_config": null,
-    "should_display_purchasable_balance": false,
+    "should_display_purchasable_balance": true,
     "tags": [],
-    "unit_info": "75 г",
+    "unit_info": "200 г",
     "unit_price": {
       "base": 1,
       "original_price": null,
-      "price": 693333,
+      "price": 887500,
       "unit": "kilogram"
     },
     "variant": null,
@@ -1640,7 +2622,7 @@
     }
   },
   {
-    "id": "ddce15643c7024380de4e235",
+    "id": "9e5dddb5330650915b08ee19",
     "advertising_info": null,
     "alcohol_permille": 0,
     "allowed_delivery_methods": [
@@ -1663,15 +2645,15 @@
         "end_time": 86400000
       }
     ],
-    "barcode_gtin": "04620021193107",
+    "barcode_gtin": "04870220601037",
     "caffeine_info": null,
     "can_be_promoted": {
       "basket": true,
       "venue": true,
       "credits": true
     },
-    "checksum": "85b97223e6be87c8efc3dd08b8e34194",
-    "description": "Oreo рожок",
+    "checksum": "456050f9f636e3e6f9fdbb385ff551b3",
+    "description": "",
     "deposit": null,
     "dietary_preferences": [],
     "disabled_info": null,
@@ -1679,8 +2661,8 @@
     "has_extra_info": true,
     "images": [
       {
-        "url": "https://imageproxy.wolt.com/assets/688b98dfa3eb62eeb95c1ce2",
-        "blurhash": "LLSY{roe~pofIUfQ%Maz%LfRIVfP"
+        "url": "https://imageproxy.wolt.com/assets/688b99a623fa16f725af7a06",
+        "blurhash": "LBE30X9%t-V?~V9bxZt8V=IpwFxU"
       }
     ],
     "is_cutlery": false,
@@ -1690,25 +2672,25 @@
     "lowest_price_v2": null,
     "max_quantity_per_purchase": null,
     "min_quantity_per_purchase": null,
-    "name": "Oreo Рожок, 120Мл",
+    "name": "Цу Гауда Экстра 45% Сыр Твёрдый (Фасованный). Тм Мелодия Вкуса",
     "options": [],
     "original_price": null,
     "item_price_discount_validity_period": null,
-    "price": 99000,
+    "price": 178000,
     "product_hierarchy_tags": [
-      "UNKNOWN"
+      "PERISHABLE"
     ],
-    "purchasable_balance": 20,
+    "purchasable_balance": 7,
     "restrictions": [],
     "return_policy": null,
     "sell_by_weight_config": null,
-    "should_display_purchasable_balance": false,
+    "should_display_purchasable_balance": true,
     "tags": [],
-    "unit_info": "72 г",
+    "unit_info": "200 г",
     "unit_price": {
       "base": 1,
       "original_price": null,
-      "price": 1375000,
+      "price": 890000,
       "unit": "kilogram"
     },
     "variant": null,
@@ -1722,7 +2704,7 @@
     }
   },
   {
-    "id": "c0ff2e4cc58c6816ba2569db",
+    "id": "03aadd19451f1bbc832e0952",
     "advertising_info": null,
     "alcohol_permille": 0,
     "allowed_delivery_methods": [
@@ -1745,15 +2727,15 @@
         "end_time": 86400000
       }
     ],
-    "barcode_gtin": "04620021191868",
+    "barcode_gtin": "04870220601020",
     "caffeine_info": null,
     "can_be_promoted": {
       "basket": true,
       "venue": true,
       "credits": true
     },
-    "checksum": "f52dce5681c13c404114dcb42533e09e",
-    "description": "Milka ванильное мороженое и молочный шоколад",
+    "checksum": "c6a54968765e84d7f415d0bd32e3e1cc",
+    "description": "",
     "deposit": null,
     "dietary_preferences": [],
     "disabled_info": null,
@@ -1761,8 +2743,8 @@
     "has_extra_info": true,
     "images": [
       {
-        "url": "https://imageproxy.wolt.com/assets/688b9b0223fa16f725af9530",
-        "blurhash": "LbRp5#of?uaxoffQayju_MaxDikC"
+        "url": "https://imageproxy.wolt.com/assets/688b99a623fa16f725af79f9",
+        "blurhash": "L6F=?ntpK+Iq%5$|9EIu00~mHq=:"
       }
     ],
     "is_cutlery": false,
@@ -1772,25 +2754,25 @@
     "lowest_price_v2": null,
     "max_quantity_per_purchase": null,
     "min_quantity_per_purchase": null,
-    "name": "Милка Сливочное, Эскимо 62Г",
+    "name": "Цу Голландский 45% Сыр Твёрдый (Фасованный). Тм Мелодия Вкуса",
     "options": [],
     "original_price": null,
     "item_price_discount_validity_period": null,
-    "price": 130000,
+    "price": 178000,
     "product_hierarchy_tags": [
-      "UNKNOWN"
+      "PERISHABLE"
     ],
-    "purchasable_balance": 37,
+    "purchasable_balance": 10,
     "restrictions": [],
     "return_policy": null,
     "sell_by_weight_config": null,
     "should_display_purchasable_balance": false,
     "tags": [],
-    "unit_info": "62 г",
+    "unit_info": "200 г",
     "unit_price": {
       "base": 1,
       "original_price": null,
-      "price": 2096774,
+      "price": 890000,
       "unit": "kilogram"
     },
     "variant": null,
@@ -1804,7 +2786,7 @@
     }
   },
   {
-    "id": "f4cb0b15b3263078bfba7b9f",
+    "id": "9002f39d50fe134eb16cea5f",
     "advertising_info": null,
     "alcohol_permille": 0,
     "allowed_delivery_methods": [
@@ -1827,15 +2809,15 @@
         "end_time": 86400000
       }
     ],
-    "barcode_gtin": "04870233466753",
+    "barcode_gtin": "02807040011168",
     "caffeine_info": null,
     "can_be_promoted": {
       "basket": true,
       "venue": true,
       "credits": true
     },
-    "checksum": "6b3a8c47ea2f8428dd90d05721f40ab9",
-    "description": "Эскимо сливочное с тертым фундуком с шоколадным соусом в молочном шоколаде",
+    "checksum": "6a16c91639d4906ba76406b4ec2e0b90",
+    "description": "Сыр Ламбер знаменит не только своим изысканным сливочным вкусом и уникальной формой, но и высоким содержанием белка.\nЗавтрак – это источник жизненных сил и возможность сделать свой день немного особенным, начав его именно так, как нужно вам. Благодаря завтраку с сыром Ламбер, безупречно вкусному и питательному – вы готовы к новому дню морально и физически.\nЛамбер – это настоящий сыр, производимый из натурального молока. Именно поэтому он такой вкусный, и каждый его кусочек 30г содержит столько же белка, сколько целый стакан молока.\nВот почему Ламбер – на все случаи завтрака!\n\n● Из 100% натурального молока\n●Не содержит растительных жиров, трансжиров и заменителей молочного жира\n●Более выраженный сливочный вкус и нежная текстура\n●Семейный формат позволит воплотить все кулинарные идеи\n●Сыр Ламбер хорош как самостоятельное блюдо,а также для приготовления бутербродов, закусок, холодных и горячих блюд.",
     "deposit": null,
     "dietary_preferences": [],
     "disabled_info": null,
@@ -1843,8 +2825,8 @@
     "has_extra_info": true,
     "images": [
       {
-        "url": "https://imageproxy.wolt.com/assets/67ee9179bf70ad65b45930f0",
-        "blurhash": "LYR{*{j[~XoMX-fQn3jur?f6S#bH"
+        "url": "https://imageproxy.wolt.com/assets/6888bf741f0cac713af66dc4",
+        "blurhash": "L~Q+Ndo0.mWYxva|Rjj@tma}Vsj@"
       }
     ],
     "is_cutlery": false,
@@ -1854,21 +2836,185 @@
     "lowest_price_v2": null,
     "max_quantity_per_purchase": null,
     "min_quantity_per_purchase": null,
-    "name": "Bahroma Эскимо Сливочное Лесной Орех-Шоколад В Шоколаде, 75Г",
+    "name": "Сыр\"Ламбер\"55% 1Кг Сливочный",
     "options": [],
     "original_price": null,
     "item_price_discount_validity_period": null,
-    "price": 72500,
+    "price": 819000,
     "product_hierarchy_tags": [
-      "UNKNOWN"
+      "PERISHABLE"
     ],
-    "purchasable_balance": 31,
+    "purchasable_balance": 13,
     "restrictions": [],
     "return_policy": null,
     "sell_by_weight_config": null,
     "should_display_purchasable_balance": false,
     "tags": [],
-    "unit_info": "75 г",
+    "unit_info": "1 кг",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 819000,
+      "unit": "kilogram"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 12,
+    "vat_percentage_decimal": "12.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    }
+  },
+  {
+    "id": "331fc1ca0f8e774ba45f03fe",
+    "advertising_info": null,
+    "alcohol_permille": 0,
+    "allowed_delivery_methods": [
+      "eatin",
+      "takeaway",
+      "homedelivery"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 0,
+        "end_time": 86400000
+      }
+    ],
+    "barcode_gtin": "02804720000009",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "ea9596290d24f353defaa3dd662319c7",
+    "description": "Ламбер – это настоящий сыр, производимый из натурального молока. Именно поэтому он такой вкусный, и каждый его кусочек 30г содержит столько же белка, сколько целый стакан молока.\nСыр Ламбер хорош как самостоятельное блюдо, а также для приготовления бутербродов, закусок, холодных и горячих блюд. Импровизируйте и наслаждайтесь!\n\n●Из 100% натурального молока\n●Не содержит растительных жиров, трансжиров и заменителей молочного жира\n●Классический сливочный вкус\n●Семейный формат позволит воплотить все кулинарные идеи",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": true,
+    "images": [
+      {
+        "url": "https://imageproxy.wolt.com/assets/6888c2e6a3eb62eeb956a26e",
+        "blurhash": "L~R2lKjF.TX9x]fkRQjZtlbHV?fi"
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": true,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "Сыр\"Ламбер\"50% 1Кг",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 742000,
+    "product_hierarchy_tags": [
+      "PERISHABLE"
+    ],
+    "purchasable_balance": 13,
+    "restrictions": [],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": false,
+    "tags": [],
+    "unit_info": "1 кг",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 742000,
+      "unit": "kilogram"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 12,
+    "vat_percentage_decimal": "12.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    }
+  },
+  {
+    "id": "bab34944965a7ff51d76bd29",
+    "advertising_info": null,
+    "alcohol_permille": 0,
+    "allowed_delivery_methods": [
+      "homedelivery",
+      "takeaway",
+      "eatin"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 0,
+        "end_time": 86400000
+      }
+    ],
+    "barcode_gtin": "04607070737124",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "67249177b0cceb44795fc72e8228b53d",
+    "description": "Мягкий, сливочный полутвердый сыр с деликатным вкусом. Отлично плавится и хорошо сочетается с фруктами и орехами.",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": true,
+    "images": [
+      {
+        "url": "https://imageproxy.wolt.com/assets/67e4026ad025c6733684b84b",
+        "blurhash": "LoRW3eWB_4xaWYjtoJayo#j[V?ay"
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": true,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "Сыр Белебеевский 45% Слайс 120г",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 116000,
+    "product_hierarchy_tags": [
+      "PERISHABLE"
+    ],
+    "purchasable_balance": 2,
+    "restrictions": [],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": true,
+    "tags": [],
+    "unit_info": "120 г",
     "unit_price": {
       "base": 1,
       "original_price": null,
@@ -1886,13 +3032,13 @@
     }
   },
   {
-    "id": "edae72616cb9843256d1d851",
+    "id": "cb44cbf8319bd0e323ae1478",
     "advertising_info": null,
     "alcohol_permille": 0,
     "allowed_delivery_methods": [
-      "eatin",
+      "homedelivery",
       "takeaway",
-      "homedelivery"
+      "eatin"
     ],
     "available_times": [
       {
@@ -1909,15 +3055,15 @@
         "end_time": 86400000
       }
     ],
-    "barcode_gtin": "04870233466944",
+    "barcode_gtin": "04607070735960",
     "caffeine_info": null,
     "can_be_promoted": {
       "basket": true,
       "venue": true,
       "credits": true
     },
-    "checksum": "26706fc8ae3451cfb5f0ebfcf5a3d4e0",
-    "description": "фисташковое мороженое в вафельном стаканчике",
+    "checksum": "cb618535f13c2bd35b3c67f94fabe28b",
+    "description": "Сыр обладает эластичной консистенцией и характерными для тильзитера и маасдама сладковато-фруктовыми нотками во вкусе. Он хорошо плавится, что делает его отличным выбором для горячих блюд, таких как запеканки или горячие бутерброды.",
     "deposit": null,
     "dietary_preferences": [],
     "disabled_info": null,
@@ -1925,8 +3071,8 @@
     "has_extra_info": true,
     "images": [
       {
-        "url": "https://imageproxy.wolt.com/assets/6888bf17a3eb62eeb9563e35",
-        "blurhash": "LwRfa*ae?wt7tQayRjoMV[ayoej]"
+        "url": "https://imageproxy.wolt.com/assets/67e4026ad025c6733684b849",
+        "blurhash": "LhRysdWU_4xakCjujZaykXj[aJay"
       }
     ],
     "is_cutlery": false,
@@ -1936,25 +3082,25 @@
     "lowest_price_v2": null,
     "max_quantity_per_purchase": null,
     "min_quantity_per_purchase": null,
-    "name": "Бомба Фисташка, Вафельный Стаканчик 90Г",
+    "name": "Белебеевский Сыр Благородный Дуэт  50% 190г",
     "options": [],
     "original_price": null,
     "item_price_discount_validity_period": null,
-    "price": 29000,
+    "price": 173000,
     "product_hierarchy_tags": [
-      "UNKNOWN"
+      "PERISHABLE"
     ],
-    "purchasable_balance": 23,
+    "purchasable_balance": 2,
     "restrictions": [],
     "return_policy": null,
     "sell_by_weight_config": null,
-    "should_display_purchasable_balance": false,
+    "should_display_purchasable_balance": true,
     "tags": [],
-    "unit_info": "90 г",
+    "unit_info": "190 г",
     "unit_price": {
       "base": 1,
       "original_price": null,
-      "price": 322222,
+      "price": 910526,
       "unit": "kilogram"
     },
     "variant": null,
@@ -1968,499 +3114,7 @@
     }
   },
   {
-    "id": "6449ef10693a4824ca27d570",
-    "advertising_info": null,
-    "alcohol_permille": 0,
-    "allowed_delivery_methods": [
-      "eatin",
-      "takeaway",
-      "homedelivery"
-    ],
-    "available_times": [
-      {
-        "days": [
-          1,
-          2,
-          3,
-          4,
-          5,
-          6,
-          7
-        ],
-        "start_time": 0,
-        "end_time": 86400000
-      }
-    ],
-    "barcode_gtin": "04620021193121",
-    "caffeine_info": null,
-    "can_be_promoted": {
-      "basket": true,
-      "venue": true,
-      "credits": true
-    },
-    "checksum": "af4f97e5918c536a7199cfb84779c046",
-    "description": "Oreo эскимо",
-    "deposit": null,
-    "dietary_preferences": [],
-    "disabled_info": null,
-    "fulfillment_lead_time": null,
-    "has_extra_info": true,
-    "images": [
-      {
-        "url": "https://imageproxy.wolt.com/assets/6888ba4c1f0cac713af61eea",
-        "blurhash": "LfRpB{j[~pj?offQayfQt7fPRjfk"
-      }
-    ],
-    "is_cutlery": false,
-    "is_no_contact_delivery_allowed": true,
-    "is_wolt_plus_only": false,
-    "lowest_price": null,
-    "lowest_price_v2": null,
-    "max_quantity_per_purchase": null,
-    "min_quantity_per_purchase": null,
-    "name": "Oreo Эскимо, 90Мл",
-    "options": [],
-    "original_price": null,
-    "item_price_discount_validity_period": null,
-    "price": 94000,
-    "product_hierarchy_tags": [
-      "UNKNOWN"
-    ],
-    "purchasable_balance": 17,
-    "restrictions": [],
-    "return_policy": null,
-    "sell_by_weight_config": null,
-    "should_display_purchasable_balance": false,
-    "tags": [],
-    "unit_info": "56 г",
-    "unit_price": {
-      "base": 1,
-      "original_price": null,
-      "price": 1678571,
-      "unit": "kilogram"
-    },
-    "variant": null,
-    "vat_category_code": null,
-    "vat_percentage": 12,
-    "vat_percentage_decimal": "12.0",
-    "external_compliance_link": null,
-    "consent_info": {
-      "ask_consent": false,
-      "blur_image": false
-    }
-  },
-  {
-    "id": "ad833bcd53fea6970b714018",
-    "advertising_info": null,
-    "alcohol_permille": 0,
-    "allowed_delivery_methods": [
-      "eatin",
-      "takeaway",
-      "homedelivery"
-    ],
-    "available_times": [
-      {
-        "days": [
-          1,
-          2,
-          3,
-          4,
-          5,
-          6,
-          7
-        ],
-        "start_time": 0,
-        "end_time": 86400000
-      }
-    ],
-    "barcode_gtin": "04870209412432",
-    "caffeine_info": null,
-    "can_be_promoted": {
-      "basket": true,
-      "venue": true,
-      "credits": true
-    },
-    "checksum": "fbd82f142ef218084ef4f28e432f9622",
-    "description": "Мишка на полюсе сэндвич пломбир на сдобном печенье с кусочками шоколада",
-    "deposit": null,
-    "dietary_preferences": [],
-    "disabled_info": null,
-    "fulfillment_lead_time": null,
-    "has_extra_info": true,
-    "images": [
-      {
-        "url": "https://imageproxy.wolt.com/assets/6888be26a3eb62eeb95622d4",
-        "blurhash": "LYRyyxj[~Wf+ogjZaxbHx]fkM_ay"
-      }
-    ],
-    "is_cutlery": false,
-    "is_no_contact_delivery_allowed": true,
-    "is_wolt_plus_only": false,
-    "lowest_price": null,
-    "lowest_price_v2": null,
-    "max_quantity_per_purchase": null,
-    "min_quantity_per_purchase": null,
-    "name": "Мишка На Полюсе Ваниль В Сбодном Печенье, Сэндвич 85Г",
-    "options": [],
-    "original_price": null,
-    "item_price_discount_validity_period": null,
-    "price": 56000,
-    "product_hierarchy_tags": [
-      "UNKNOWN"
-    ],
-    "purchasable_balance": 48,
-    "restrictions": [],
-    "return_policy": null,
-    "sell_by_weight_config": null,
-    "should_display_purchasable_balance": false,
-    "tags": [],
-    "unit_info": "85 г",
-    "unit_price": {
-      "base": 1,
-      "original_price": null,
-      "price": 658824,
-      "unit": "kilogram"
-    },
-    "variant": null,
-    "vat_category_code": null,
-    "vat_percentage": 12,
-    "vat_percentage_decimal": "12.0",
-    "external_compliance_link": null,
-    "consent_info": {
-      "ask_consent": false,
-      "blur_image": false
-    }
-  },
-  {
-    "id": "92fbbc9858b99e305e2bba6a",
-    "advertising_info": null,
-    "alcohol_permille": 0,
-    "allowed_delivery_methods": [
-      "eatin",
-      "takeaway",
-      "homedelivery"
-    ],
-    "available_times": [
-      {
-        "days": [
-          1,
-          2,
-          3,
-          4,
-          5,
-          6,
-          7
-        ],
-        "start_time": 0,
-        "end_time": 86400000
-      }
-    ],
-    "barcode_gtin": "04870233466470",
-    "caffeine_info": null,
-    "can_be_promoted": {
-      "basket": true,
-      "venue": true,
-      "credits": true
-    },
-    "checksum": "ca0f497872cc257d854e9e316112ac4c",
-    "description": "Клубничное мороженое в вафельном стаканчике",
-    "deposit": null,
-    "dietary_preferences": [],
-    "disabled_info": null,
-    "fulfillment_lead_time": null,
-    "has_extra_info": true,
-    "images": [
-      {
-        "url": "https://imageproxy.wolt.com/assets/688b98faa3eb62eeb95c20e1",
-        "blurhash": "LeSiEcj[.mbIoMfkW:jZtRf6RPj["
-      }
-    ],
-    "is_cutlery": false,
-    "is_no_contact_delivery_allowed": true,
-    "is_wolt_plus_only": false,
-    "lowest_price": null,
-    "lowest_price_v2": null,
-    "max_quantity_per_purchase": null,
-    "min_quantity_per_purchase": null,
-    "name": "Бомба Клубничное, Вафельный Стаканчик 90Г",
-    "options": [],
-    "original_price": null,
-    "item_price_discount_validity_period": null,
-    "price": 29000,
-    "product_hierarchy_tags": [
-      "UNKNOWN"
-    ],
-    "purchasable_balance": 36,
-    "restrictions": [],
-    "return_policy": null,
-    "sell_by_weight_config": null,
-    "should_display_purchasable_balance": false,
-    "tags": [],
-    "unit_info": "90 г",
-    "unit_price": {
-      "base": 1,
-      "original_price": null,
-      "price": 322222,
-      "unit": "kilogram"
-    },
-    "variant": null,
-    "vat_category_code": null,
-    "vat_percentage": 12,
-    "vat_percentage_decimal": "12.0",
-    "external_compliance_link": null,
-    "consent_info": {
-      "ask_consent": false,
-      "blur_image": false
-    }
-  },
-  {
-    "id": "8a793211d81be21f348286f1",
-    "advertising_info": null,
-    "alcohol_permille": 0,
-    "allowed_delivery_methods": [
-      "eatin",
-      "takeaway",
-      "homedelivery"
-    ],
-    "available_times": [
-      {
-        "days": [
-          1,
-          2,
-          3,
-          4,
-          5,
-          6,
-          7
-        ],
-        "start_time": 0,
-        "end_time": 86400000
-      }
-    ],
-    "barcode_gtin": "04870209410704",
-    "caffeine_info": null,
-    "can_be_promoted": {
-      "basket": true,
-      "venue": true,
-      "credits": true
-    },
-    "checksum": "66ce9033a94ccc9ae1a7f327677f0ddf",
-    "description": "Мишка на полюсе эскимо пломбир на сливках",
-    "deposit": null,
-    "dietary_preferences": [],
-    "disabled_info": null,
-    "fulfillment_lead_time": null,
-    "has_extra_info": true,
-    "images": [
-      {
-        "url": "https://imageproxy.wolt.com/assets/688b9ab8b2b18bf1da535e73",
-        "blurhash": "LRR{#@Ip~q^*NIa#xZoIohf7adj["
-      }
-    ],
-    "is_cutlery": false,
-    "is_no_contact_delivery_allowed": true,
-    "is_wolt_plus_only": false,
-    "lowest_price": null,
-    "lowest_price_v2": null,
-    "max_quantity_per_purchase": null,
-    "min_quantity_per_purchase": null,
-    "name": "Мишка На Полюсе Пломбир Ваниль, Эскимо 70Г",
-    "options": [],
-    "original_price": null,
-    "item_price_discount_validity_period": null,
-    "price": 43000,
-    "product_hierarchy_tags": [
-      "UNKNOWN"
-    ],
-    "purchasable_balance": 34,
-    "restrictions": [],
-    "return_policy": null,
-    "sell_by_weight_config": null,
-    "should_display_purchasable_balance": false,
-    "tags": [],
-    "unit_info": "70 г",
-    "unit_price": {
-      "base": 1,
-      "original_price": null,
-      "price": 614286,
-      "unit": "kilogram"
-    },
-    "variant": null,
-    "vat_category_code": null,
-    "vat_percentage": 12,
-    "vat_percentage_decimal": "12.0",
-    "external_compliance_link": null,
-    "consent_info": {
-      "ask_consent": false,
-      "blur_image": false
-    }
-  },
-  {
-    "id": "362389d3f6cc199bbe9967ee",
-    "advertising_info": null,
-    "alcohol_permille": 0,
-    "allowed_delivery_methods": [
-      "eatin",
-      "takeaway",
-      "homedelivery"
-    ],
-    "available_times": [
-      {
-        "days": [
-          1,
-          2,
-          3,
-          4,
-          5,
-          6,
-          7
-        ],
-        "start_time": 0,
-        "end_time": 86400000
-      }
-    ],
-    "barcode_gtin": "04620021193725",
-    "caffeine_info": null,
-    "can_be_promoted": {
-      "basket": true,
-      "venue": true,
-      "credits": true
-    },
-    "checksum": "47a655c666221d7d222bdd16adb64d06",
-    "description": "Milka сливочное мороженое и лесные ягоды",
-    "deposit": null,
-    "dietary_preferences": [],
-    "disabled_info": null,
-    "fulfillment_lead_time": null,
-    "has_extra_info": true,
-    "images": [
-      {
-        "url": "https://imageproxy.wolt.com/assets/688b98dfa3eb62eeb95c1cdb",
-        "blurhash": "L@N,iKogSie-oLayWVoL_MaxjEj]"
-      }
-    ],
-    "is_cutlery": false,
-    "is_no_contact_delivery_allowed": true,
-    "is_wolt_plus_only": false,
-    "lowest_price": null,
-    "lowest_price_v2": null,
-    "max_quantity_per_purchase": null,
-    "min_quantity_per_purchase": null,
-    "name": "Milka Лесные Ягоды, Эскимо 64Г",
-    "options": [],
-    "original_price": null,
-    "item_price_discount_validity_period": null,
-    "price": 131500,
-    "product_hierarchy_tags": [
-      "UNKNOWN"
-    ],
-    "purchasable_balance": 22,
-    "restrictions": [],
-    "return_policy": null,
-    "sell_by_weight_config": null,
-    "should_display_purchasable_balance": false,
-    "tags": [],
-    "unit_info": "64 г",
-    "unit_price": {
-      "base": 1,
-      "original_price": null,
-      "price": 2054688,
-      "unit": "kilogram"
-    },
-    "variant": null,
-    "vat_category_code": null,
-    "vat_percentage": 12,
-    "vat_percentage_decimal": "12.0",
-    "external_compliance_link": null,
-    "consent_info": {
-      "ask_consent": false,
-      "blur_image": false
-    }
-  },
-  {
-    "id": "ea7210ad42c6925ca9473919",
-    "advertising_info": null,
-    "alcohol_permille": 0,
-    "allowed_delivery_methods": [
-      "eatin",
-      "takeaway",
-      "homedelivery"
-    ],
-    "available_times": [
-      {
-        "days": [
-          1,
-          2,
-          3,
-          4,
-          5,
-          6,
-          7
-        ],
-        "start_time": 0,
-        "end_time": 86400000
-      }
-    ],
-    "barcode_gtin": "04870004906914",
-    "caffeine_info": null,
-    "can_be_promoted": {
-      "basket": true,
-      "venue": true,
-      "credits": true
-    },
-    "checksum": "7386fee977437cbb91a8194ac4ca88c1",
-    "description": "Эскимо с шоколадным печеньем",
-    "deposit": null,
-    "dietary_preferences": [],
-    "disabled_info": null,
-    "fulfillment_lead_time": null,
-    "has_extra_info": true,
-    "images": [
-      {
-        "url": "https://imageproxy.wolt.com/assets/6888bf01a3eb62eeb9563925",
-        "blurhash": "LUS6PmfQ~ps:ogfQaef7t7j[Rjay"
-      }
-    ],
-    "is_cutlery": false,
-    "is_no_contact_delivery_allowed": true,
-    "is_wolt_plus_only": false,
-    "lowest_price": null,
-    "lowest_price_v2": null,
-    "max_quantity_per_purchase": null,
-    "min_quantity_per_purchase": null,
-    "name": "Бомба Черное Печенье, Рожок 90Г",
-    "options": [],
-    "original_price": null,
-    "item_price_discount_validity_period": null,
-    "price": 43000,
-    "product_hierarchy_tags": [
-      "UNKNOWN"
-    ],
-    "purchasable_balance": 27,
-    "restrictions": [],
-    "return_policy": null,
-    "sell_by_weight_config": null,
-    "should_display_purchasable_balance": false,
-    "tags": [],
-    "unit_info": "90 г",
-    "unit_price": {
-      "base": 1,
-      "original_price": null,
-      "price": 477778,
-      "unit": "kilogram"
-    },
-    "variant": null,
-    "vat_category_code": null,
-    "vat_percentage": 12,
-    "vat_percentage_decimal": "12.0",
-    "external_compliance_link": null,
-    "consent_info": {
-      "ask_consent": false,
-      "blur_image": false
-    }
-  },
-  {
-    "id": "f6ba3e992ec1a9c1cc3dfef9",
+    "id": "4bab87050b3c444da13d6934",
     "advertising_info": null,
     "alcohol_permille": 0,
     "allowed_delivery_methods": [
@@ -2483,15 +3137,15 @@
         "end_time": 86400000
       }
     ],
-    "barcode_gtin": "04870233468474",
+    "barcode_gtin": "04690228109065",
     "caffeine_info": null,
     "can_be_promoted": {
       "basket": true,
       "venue": true,
       "credits": true
     },
-    "checksum": "ac2d3e2149edc900f453dc0a20027395",
-    "description": "Эскимо сливочное халвичное с ореховой халвой в двойно шоколаде",
+    "checksum": "e11b4effe4a97750a181e5b3651a6659",
+    "description": "Сыр Ламбер Лёгкий - новинка от бренда Ламбер в удобном формате 230г. Это баланс сливочного и нежного вкуса и всего 30% жирности. Он прекрасно подойдет тем, кто хочет правильно питаться и не идти на компромисс по вкусу сыра.\nС сыром Ламбер Light питаться правильно так просто и вкусно!\nВсе сыры в линейке Ламбер - настоящие сыры из натурального молока, которые создаются естественным способом: сыр прессуется под собственным весом, придавая неповторимую нежность текстуре и вкусу.\nКакой Ламбер вы выберете на завтрак сегодня? Ламбер 50%, Легкий, Гурмэ, Тильзитер или Голландский?\n\n• Сбалансированный и нежный вкус сыра Ламбер\n• На 28% меньше кКал по сравнению с Ламбер 50%.\n• Из 100% натурального молока\n• Без растительных жиров, трансжиров и ЗМЖ",
     "deposit": null,
     "dietary_preferences": [],
     "disabled_info": null,
@@ -2499,8 +3153,8 @@
     "has_extra_info": true,
     "images": [
       {
-        "url": "https://imageproxy.wolt.com/assets/67b5d9fb04d30738d74a10cf",
-        "blurhash": "LaRyvnj[~qoftlfQROjtsnfkR+f6"
+        "url": "https://imageproxy.wolt.com/assets/6888c1401f0cac713af6a0d0",
+        "blurhash": "LsQJ1HoMlVR+XObHWZaz?caynMoL"
       }
     ],
     "is_cutlery": false,
@@ -2510,341 +3164,13 @@
     "lowest_price_v2": null,
     "max_quantity_per_purchase": null,
     "min_quantity_per_purchase": null,
-    "name": "Bahroma Мороженое эскимо халва двойном шоколаде 75 г",
+    "name": "Пп Ламбер Сыр Легкий 30% 230Г",
     "options": [],
     "original_price": null,
     "item_price_discount_validity_period": null,
-    "price": 86500,
+    "price": 237000,
     "product_hierarchy_tags": [
-      "UNKNOWN"
-    ],
-    "purchasable_balance": 29,
-    "restrictions": [],
-    "return_policy": null,
-    "sell_by_weight_config": null,
-    "should_display_purchasable_balance": false,
-    "tags": [],
-    "unit_info": "75 г",
-    "unit_price": {
-      "base": 1,
-      "original_price": null,
-      "price": 1153333,
-      "unit": "kilogram"
-    },
-    "variant": null,
-    "vat_category_code": null,
-    "vat_percentage": 12,
-    "vat_percentage_decimal": "12.0",
-    "external_compliance_link": null,
-    "consent_info": {
-      "ask_consent": false,
-      "blur_image": false
-    }
-  },
-  {
-    "id": "b1ae4fbc0dfb6e4334fafe71",
-    "advertising_info": null,
-    "alcohol_permille": 0,
-    "allowed_delivery_methods": [
-      "eatin",
-      "takeaway",
-      "homedelivery"
-    ],
-    "available_times": [
-      {
-        "days": [
-          1,
-          2,
-          3,
-          4,
-          5,
-          6,
-          7
-        ],
-        "start_time": 0,
-        "end_time": 86400000
-      }
-    ],
-    "barcode_gtin": "04870209412456",
-    "caffeine_info": null,
-    "can_be_promoted": {
-      "basket": true,
-      "venue": true,
-      "credits": true
-    },
-    "checksum": "df37792f70d27354a3e960e0f6077cd0",
-    "description": "Мишка на полюсе сэндвич на шоколадном печенье с орехами",
-    "deposit": null,
-    "dietary_preferences": [],
-    "disabled_info": null,
-    "fulfillment_lead_time": null,
-    "has_extra_info": true,
-    "images": [
-      {
-        "url": "https://imageproxy.wolt.com/assets/688b9ab8b2b18bf1da535e72",
-        "blurhash": "L+P%Iujs~qbbogjtWAa|afa}f5js"
-      }
-    ],
-    "is_cutlery": false,
-    "is_no_contact_delivery_allowed": true,
-    "is_wolt_plus_only": false,
-    "lowest_price": null,
-    "lowest_price_v2": null,
-    "max_quantity_per_purchase": null,
-    "min_quantity_per_purchase": null,
-    "name": "Мишка На Полюсе Шоколад В Сдобном Печенье, Сэндвич 85Г",
-    "options": [],
-    "original_price": null,
-    "item_price_discount_validity_period": null,
-    "price": 57500,
-    "product_hierarchy_tags": [
-      "UNKNOWN"
-    ],
-    "purchasable_balance": 20,
-    "restrictions": [],
-    "return_policy": null,
-    "sell_by_weight_config": null,
-    "should_display_purchasable_balance": false,
-    "tags": [],
-    "unit_info": "85 г",
-    "unit_price": {
-      "base": 1,
-      "original_price": null,
-      "price": 676471,
-      "unit": "kilogram"
-    },
-    "variant": null,
-    "vat_category_code": null,
-    "vat_percentage": 12,
-    "vat_percentage_decimal": "12.0",
-    "external_compliance_link": null,
-    "consent_info": {
-      "ask_consent": false,
-      "blur_image": false
-    }
-  },
-  {
-    "id": "a944d6b338a76a2052222701",
-    "advertising_info": null,
-    "alcohol_permille": 0,
-    "allowed_delivery_methods": [
-      "eatin",
-      "takeaway",
-      "homedelivery"
-    ],
-    "available_times": [
-      {
-        "days": [
-          1,
-          2,
-          3,
-          4,
-          5,
-          6,
-          7
-        ],
-        "start_time": 0,
-        "end_time": 86400000
-      }
-    ],
-    "barcode_gtin": "04870209412319",
-    "caffeine_info": null,
-    "can_be_promoted": {
-      "basket": true,
-      "venue": true,
-      "credits": true
-    },
-    "checksum": "9b5721f73420add36fa650687b98344b",
-    "description": "Мишка на полюсе сахарный стаканчик пломбир крем-брюле",
-    "deposit": null,
-    "dietary_preferences": [],
-    "disabled_info": null,
-    "fulfillment_lead_time": null,
-    "has_extra_info": true,
-    "images": [
-      {
-        "url": "https://imageproxy.wolt.com/assets/6888c00123fa16f725a9990e",
-        "blurhash": "LjRMYtj[~qfkkXfPjEfks,a}R-jZ"
-      }
-    ],
-    "is_cutlery": false,
-    "is_no_contact_delivery_allowed": true,
-    "is_wolt_plus_only": false,
-    "lowest_price": null,
-    "lowest_price_v2": null,
-    "max_quantity_per_purchase": null,
-    "min_quantity_per_purchase": null,
-    "name": "Мишка На Полюсе Сахарный Стакан Крем-Брюле, 70Г",
-    "options": [],
-    "original_price": null,
-    "item_price_discount_validity_period": null,
-    "price": 41000,
-    "product_hierarchy_tags": [
-      "UNKNOWN"
-    ],
-    "purchasable_balance": 27,
-    "restrictions": [],
-    "return_policy": null,
-    "sell_by_weight_config": null,
-    "should_display_purchasable_balance": false,
-    "tags": [],
-    "unit_info": "70 г",
-    "unit_price": {
-      "base": 1,
-      "original_price": null,
-      "price": 585714,
-      "unit": "kilogram"
-    },
-    "variant": null,
-    "vat_category_code": null,
-    "vat_percentage": 12,
-    "vat_percentage_decimal": "12.0",
-    "external_compliance_link": null,
-    "consent_info": {
-      "ask_consent": false,
-      "blur_image": false
-    }
-  },
-  {
-    "id": "546df0b2ecac9b2fbffaf95c",
-    "advertising_info": null,
-    "alcohol_permille": 0,
-    "allowed_delivery_methods": [
-      "eatin",
-      "takeaway",
-      "homedelivery"
-    ],
-    "available_times": [
-      {
-        "days": [
-          1,
-          2,
-          3,
-          4,
-          5,
-          6,
-          7
-        ],
-        "start_time": 0,
-        "end_time": 86400000
-      }
-    ],
-    "barcode_gtin": "08690637578953",
-    "caffeine_info": null,
-    "can_be_promoted": {
-      "basket": true,
-      "venue": true,
-      "credits": true
-    },
-    "checksum": "204627422e05e876f0695d3e7b08b739",
-    "description": "Набор из 6 мини-эскимо\"Магнат Double\". Ассорти из трех вкусов:\"Шоколад\",\"Черный тутовник\"(ежевика) и\"Карамель\". Каждый вид представлен в двойной шоколадной оболочке.",
-    "deposit": null,
-    "dietary_preferences": [],
-    "disabled_info": null,
-    "fulfillment_lead_time": null,
-    "has_extra_info": true,
-    "images": [
-      {
-        "url": "https://imageproxy.wolt.com/assets/688b98dea3eb62eeb95c1cc5",
-        "blurhash": "L@P6%6f5_NWYf5j@flWC%NbHM{oJ"
-      }
-    ],
-    "is_cutlery": false,
-    "is_no_contact_delivery_allowed": true,
-    "is_wolt_plus_only": false,
-    "lowest_price": null,
-    "lowest_price_v2": null,
-    "max_quantity_per_purchase": null,
-    "min_quantity_per_purchase": null,
-    "name": "Mагнат Mini Double (Мини-Пак Ассорти) Шоколад X2, Черный Тутовникx2, Карамельx2",
-    "options": [],
-    "original_price": null,
-    "item_price_discount_validity_period": null,
-    "price": 436000,
-    "product_hierarchy_tags": [
-      "UNKNOWN"
-    ],
-    "purchasable_balance": 8,
-    "restrictions": [],
-    "return_policy": null,
-    "sell_by_weight_config": null,
-    "should_display_purchasable_balance": false,
-    "tags": [],
-    "unit_info": "327 г",
-    "unit_price": {
-      "base": 1,
-      "original_price": null,
-      "price": 1333333,
-      "unit": "kilogram"
-    },
-    "variant": null,
-    "vat_category_code": null,
-    "vat_percentage": 12,
-    "vat_percentage_decimal": "12.0",
-    "external_compliance_link": null,
-    "consent_info": {
-      "ask_consent": false,
-      "blur_image": false
-    }
-  },
-  {
-    "id": "b791d8fdfbf9e09c99dffcf7",
-    "advertising_info": null,
-    "alcohol_permille": 0,
-    "allowed_delivery_methods": [
-      "eatin",
-      "takeaway",
-      "homedelivery"
-    ],
-    "available_times": [
-      {
-        "days": [
-          1,
-          2,
-          3,
-          4,
-          5,
-          6,
-          7
-        ],
-        "start_time": 0,
-        "end_time": 86400000
-      }
-    ],
-    "barcode_gtin": "08690637687419",
-    "caffeine_info": null,
-    "can_be_promoted": {
-      "basket": true,
-      "venue": true,
-      "credits": true
-    },
-    "checksum": "a7dee0e3065b1b67a815e653150f6a80",
-    "description": "Мороженое со вкусом ванили и молочного шоколада.",
-    "deposit": null,
-    "dietary_preferences": [],
-    "disabled_info": null,
-    "fulfillment_lead_time": null,
-    "has_extra_info": true,
-    "images": [
-      {
-        "url": "https://imageproxy.wolt.com/assets/688b9b8c23fa16f725af9fbe",
-        "blurhash": "L@Pj0^jYx]RkaxazazfQ_NbIM_t6"
-      }
-    ],
-    "is_cutlery": false,
-    "is_no_contact_delivery_allowed": true,
-    "is_wolt_plus_only": false,
-    "lowest_price": null,
-    "lowest_price_v2": null,
-    "max_quantity_per_purchase": null,
-    "min_quantity_per_purchase": null,
-    "name": "Мороженое Maгнат Classic, 73Г",
-    "options": [],
-    "original_price": null,
-    "item_price_discount_validity_period": null,
-    "price": 108500,
-    "product_hierarchy_tags": [
-      "UNKNOWN"
+      "PERISHABLE"
     ],
     "purchasable_balance": 18,
     "restrictions": [],
@@ -2852,11 +3178,11 @@
     "sell_by_weight_config": null,
     "should_display_purchasable_balance": false,
     "tags": [],
-    "unit_info": "73 г",
+    "unit_info": "230 г",
     "unit_price": {
       "base": 1,
       "original_price": null,
-      "price": 1486301,
+      "price": 1030435,
       "unit": "kilogram"
     },
     "variant": null,
@@ -2870,7 +3196,331 @@
     }
   },
   {
-    "id": "7b39d9ae9bd519c168cc2c80",
+    "id": "b7aef409b9f416f0cd054485",
+    "advertising_info": null,
+    "alcohol_permille": 0,
+    "allowed_delivery_methods": [
+      "homedelivery",
+      "takeaway",
+      "eatin"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 0,
+        "end_time": 86400000
+      }
+    ],
+    "barcode_gtin": "03161712946660",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "362955a32769769c55accdd3e6933f1c",
+    "description": "Сыр ILE DE FRANCE GERARD CAMEMBERT  белой плесенью",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": true,
+    "images": [
+      {
+        "url": "https://imageproxy.wolt.com/assets/67f3af324c92ea2cbf060250",
+        "blurhash": "L$Ps^ifQ_4oLWVjtofay%Mj[V@WU"
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": true,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "ILE DE FRANCE GERARD CAMEMBERT 50% сыр с белой плесенью 125г",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 349000,
+    "product_hierarchy_tags": [
+      "PERISHABLE"
+    ],
+    "purchasable_balance": 2,
+    "restrictions": [],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": true,
+    "tags": [],
+    "unit_info": "125 г",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 2792000,
+      "unit": "kilogram"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 12,
+    "vat_percentage_decimal": "12.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    }
+  },
+  {
+    "id": "86ddb334a8eb0da1784e6310",
+    "advertising_info": null,
+    "alcohol_permille": 0,
+    "allowed_delivery_methods": [
+      "homedelivery",
+      "takeaway",
+      "eatin"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 0,
+        "end_time": 86400000
+      }
+    ],
+    "barcode_gtin": "04810268053764",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "160fde9fa80d91ff010d2ad1a21bf43b",
+    "description": "Классический полутвёрдый сыр с мягким, чуть кисловатым вкусом и эластичной консистенцией. Универсален в использовании — хорош как в бутербродах, так и в горячих блюдах. Отличается нежной структурой и умеренной солёностью.",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": true,
+    "images": [
+      {
+        "url": "https://imageproxy.wolt.com/assets/67f625784c92ea2cbf063c24",
+        "blurhash": "LkSiT,f5%%ogoJfQbIa|o$fkV?f6"
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": true,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "Белорусский сыр полутвёрдый\"Пошехонский\"45% – нарезка 300г",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 251000,
+    "product_hierarchy_tags": [],
+    "purchasable_balance": 8,
+    "restrictions": [],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": false,
+    "tags": [],
+    "unit_info": "250 мл",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 1004000,
+      "unit": "litre"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 12,
+    "vat_percentage_decimal": "12.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    }
+  },
+  {
+    "id": "c9ce5e61bff8bbdf4a5e77a7",
+    "advertising_info": null,
+    "alcohol_permille": 0,
+    "allowed_delivery_methods": [
+      "homedelivery",
+      "takeaway",
+      "eatin"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 0,
+        "end_time": 86400000
+      }
+    ],
+    "barcode_gtin": "04810268053689",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "645fbc6bc157fcd209e7aadfedf687c7",
+    "description": "Полутвёрдый сыр с мягким, слегка кисловатым вкусом и ароматом сметаны. Легко нарезается, хорошо сочетается с хлебом, овощами и фруктами. Отличный выбор для лёгких закусок и сырных тарелок.",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": true,
+    "images": [
+      {
+        "url": "https://imageproxy.wolt.com/assets/67f625784c92ea2cbf063c20",
+        "blurhash": "LkSiT,f5.AogoJfQa~a}o$fkV?ay"
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": true,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "Белорусский сыр полутвёрдый\"Сметанковый\"50% – нарезка 300г",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 251000,
+    "product_hierarchy_tags": [
+      "PERISHABLE"
+    ],
+    "purchasable_balance": 4,
+    "restrictions": [],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": true,
+    "tags": [],
+    "unit_info": "250 мл",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 1004000,
+      "unit": "litre"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 12,
+    "vat_percentage_decimal": "12.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    }
+  },
+  {
+    "id": "ecc0866affac0ab948e72b1f",
+    "advertising_info": null,
+    "alcohol_permille": 0,
+    "allowed_delivery_methods": [
+      "homedelivery",
+      "takeaway",
+      "eatin"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 0,
+        "end_time": 86400000
+      }
+    ],
+    "barcode_gtin": "04810268053702",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "619162f2e970fbf9604f2738dbd6158f",
+    "description": "Популярный полутвёрдый сыр с насыщенным вкусом и характерной пикантной ноткой. Отлично подходит для тостов, салатов и запеканок. Хорошо плавится и сохраняет структуру при термической обработке.",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": true,
+    "images": [
+      {
+        "url": "https://imageproxy.wolt.com/assets/67f625784c92ea2cbf063c21",
+        "blurhash": null
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": true,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "Белорусский сыр полутвёрдый\"Российский молодой\"50% – нарезка 300г",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 251000,
+    "product_hierarchy_tags": [],
+    "purchasable_balance": 10,
+    "restrictions": [],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": false,
+    "tags": [],
+    "unit_info": "250 мл",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 1004000,
+      "unit": "litre"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 12,
+    "vat_percentage_decimal": "12.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    }
+  },
+  {
+    "id": "aa5695c6359c7d786f5c403c",
     "advertising_info": null,
     "alcohol_permille": 0,
     "allowed_delivery_methods": [
@@ -2893,15 +3543,15 @@
         "end_time": 86400000
       }
     ],
-    "barcode_gtin": "08690637719769",
+    "barcode_gtin": "04870220601006",
     "caffeine_info": null,
     "can_be_promoted": {
       "basket": true,
       "venue": true,
       "credits": true
     },
-    "checksum": "c639fec27b8050d4c405fcae038704c8",
-    "description": "Молочное шоколадное мороженое (47%) с соусом какао (28%) и покрытием из молочного шоколада (25%)",
+    "checksum": "b75ea668ef3b8468f6bcd0c92d250afb",
+    "description": "",
     "deposit": null,
     "dietary_preferences": [],
     "disabled_info": null,
@@ -2909,8 +3559,8 @@
     "has_extra_info": true,
     "images": [
       {
-        "url": "https://imageproxy.wolt.com/assets/688b9b2d23fa16f725af9a88",
-        "blurhash": "L?QJ7dn$-qRkaej[jbay?^bIIns:"
+        "url": "https://imageproxy.wolt.com/assets/6863adecb01f9a7835152e9d",
+        "blurhash": "L#Q]vWj[_NayoKaya}j[offQWBj@"
       }
     ],
     "is_cutlery": false,
@@ -2920,13 +3570,13 @@
     "lowest_price_v2": null,
     "max_quantity_per_purchase": null,
     "min_quantity_per_purchase": null,
-    "name": "Мороженое Mагнат Двойной Шоколад, 80Г",
+    "name": "Цу Сметанковый Сыр Твердый 50% (Фасованный). Тм Мелодия Вкуса",
     "options": [],
     "original_price": null,
     "item_price_discount_validity_period": null,
-    "price": 108500,
+    "price": 178000,
     "product_hierarchy_tags": [
-      "UNKNOWN"
+      "PERISHABLE"
     ],
     "purchasable_balance": 8,
     "restrictions": [],
@@ -2934,11 +3584,11 @@
     "sell_by_weight_config": null,
     "should_display_purchasable_balance": false,
     "tags": [],
-    "unit_info": "81 г",
+    "unit_info": "200 г",
     "unit_price": {
       "base": 1,
       "original_price": null,
-      "price": 1339506,
+      "price": 890000,
       "unit": "kilogram"
     },
     "variant": null,
@@ -2952,89 +3602,7 @@
     }
   },
   {
-    "id": "249c02d1ef8c0a5cb2af4019",
-    "advertising_info": null,
-    "alcohol_permille": 0,
-    "allowed_delivery_methods": [
-      "homedelivery",
-      "eatin",
-      "takeaway"
-    ],
-    "available_times": [
-      {
-        "days": [
-          1,
-          2,
-          3,
-          4,
-          5,
-          6,
-          7
-        ],
-        "start_time": 0,
-        "end_time": 86400000
-      }
-    ],
-    "barcode_gtin": "08683130106891",
-    "caffeine_info": null,
-    "can_be_promoted": {
-      "basket": true,
-      "venue": true,
-      "credits": true
-    },
-    "checksum": "b13feca00b537fe03cb0ed8c4182c95d",
-    "description": "Молочное шоколадное мороженое (47%) с соусом какао (28%) и покрытием из молочного шоколада (25%)",
-    "deposit": null,
-    "dietary_preferences": [],
-    "disabled_info": null,
-    "fulfillment_lead_time": null,
-    "has_extra_info": true,
-    "images": [
-      {
-        "url": "https://imageproxy.wolt.com/assets/6888b937b5d5dd451812e5b8",
-        "blurhash": "L?QJ7dn$-qRkaej[jbay?^bIIns:"
-      }
-    ],
-    "is_cutlery": false,
-    "is_no_contact_delivery_allowed": true,
-    "is_wolt_plus_only": false,
-    "lowest_price": null,
-    "lowest_price_v2": null,
-    "max_quantity_per_purchase": null,
-    "min_quantity_per_purchase": null,
-    "name": "Мороженое Mагнат Двойной Шоколад, 80Г",
-    "options": [],
-    "original_price": null,
-    "item_price_discount_validity_period": null,
-    "price": 108500,
-    "product_hierarchy_tags": [
-      "UNKNOWN"
-    ],
-    "purchasable_balance": 12,
-    "restrictions": [],
-    "return_policy": null,
-    "sell_by_weight_config": null,
-    "should_display_purchasable_balance": false,
-    "tags": [],
-    "unit_info": "81 г",
-    "unit_price": {
-      "base": 1,
-      "original_price": null,
-      "price": 1339506,
-      "unit": "kilogram"
-    },
-    "variant": null,
-    "vat_category_code": null,
-    "vat_percentage": 12,
-    "vat_percentage_decimal": "12.0",
-    "external_compliance_link": null,
-    "consent_info": {
-      "ask_consent": false,
-      "blur_image": false
-    }
-  },
-  {
-    "id": "c60068ff472c45243e8e2e1f",
+    "id": "0de01c3f89b951903d0c3509",
     "advertising_info": null,
     "alcohol_permille": 0,
     "allowed_delivery_methods": [
@@ -3057,15 +3625,15 @@
         "end_time": 86400000
       }
     ],
-    "barcode_gtin": "04870233467576",
+    "barcode_gtin": "03161712996146",
     "caffeine_info": null,
     "can_be_promoted": {
       "basket": true,
       "venue": true,
       "credits": true
     },
-    "checksum": "faa9c269c78d1c65909af52c54cb1530",
-    "description": "Рожок сливочное мороженое с грецким орехом, черносливом и кленовым сиропом.",
+    "checksum": "9a3a25697fc56849f5af9e01c3b5d69c",
+    "description": "Сыр ILE DE FRANCE БРИ с белой плесенью",
     "deposit": null,
     "dietary_preferences": [],
     "disabled_info": null,
@@ -3073,8 +3641,8 @@
     "has_extra_info": true,
     "images": [
       {
-        "url": "https://imageproxy.wolt.com/assets/688b98fca3eb62eeb95c20fb",
-        "blurhash": "LlRymNj?_4flWFozs-M{t8j[Riay"
+        "url": "https://imageproxy.wolt.com/assets/67f3af324c92ea2cbf060253",
+        "blurhash": "LlSFeLj?.moLR.bHs,jYyEfkMef5"
       }
     ],
     "is_cutlery": false,
@@ -3084,25 +3652,25 @@
     "lowest_price_v2": null,
     "max_quantity_per_purchase": null,
     "min_quantity_per_purchase": null,
-    "name": "Bahroma Грецкий Орех С Черносливом, Рожок 105Г",
+    "name": "ILE DE FRANCE БРИ 50% сыр с белой плесенью 125г",
     "options": [],
     "original_price": null,
     "item_price_discount_validity_period": null,
-    "price": 81000,
+    "price": 399000,
     "product_hierarchy_tags": [
-      "UNKNOWN"
+      "PERISHABLE"
     ],
-    "purchasable_balance": 16,
+    "purchasable_balance": 3,
     "restrictions": [],
     "return_policy": null,
     "sell_by_weight_config": null,
-    "should_display_purchasable_balance": false,
+    "should_display_purchasable_balance": true,
     "tags": [],
-    "unit_info": "105 г",
+    "unit_info": "125 г",
     "unit_price": {
       "base": 1,
       "original_price": null,
-      "price": 771429,
+      "price": 3192000,
       "unit": "kilogram"
     },
     "variant": null,
@@ -3116,7 +3684,7 @@
     }
   },
   {
-    "id": "babbf011e70e087895da32bb",
+    "id": "6045bdd717238f52ea0877a1",
     "advertising_info": null,
     "alcohol_permille": 0,
     "allowed_delivery_methods": [
@@ -3139,15 +3707,15 @@
         "end_time": 86400000
       }
     ],
-    "barcode_gtin": "08690637687662",
+    "barcode_gtin": "04690228015441",
     "caffeine_info": null,
     "can_be_promoted": {
       "basket": true,
       "venue": true,
       "credits": true
     },
-    "checksum": "9efc13c1b14df08a3649f3135cc47f60",
-    "description": "Мороженое со вкусом ванили, покрытое молочным шоколадом и кусочками миндаля.",
+    "checksum": "8e2f2bacaa7fa1f2295706a70d0a6c07",
+    "description": "Ламбер – это настоящий сыр, производимый из натурального молока. Именно поэтому он такой вкусный, и каждый его кусочек 30г содержит столько же белка, сколько целый стакан молока.\n\nСыр Ламбер хорош как самостоятельное блюдо, а также для приготовления бутербродов, закусок, холодных и горячих блюд. Импровизируйте и наслаждайтесь!\n\n●Из 100% натурального молока\n●Не содержит растительных жиров, трансжиров и заменителей молочного жира\n●Классический сливочный вкус\n●Удобный формат упаковки",
     "deposit": null,
     "dietary_preferences": [],
     "disabled_info": null,
@@ -3155,8 +3723,8 @@
     "has_extra_info": true,
     "images": [
       {
-        "url": "https://imageproxy.wolt.com/assets/688b9caf23fa16f725afb39f",
-        "blurhash": "L@Q9o{jY%MRkaxf7j[j@?wbIM_s:"
+        "url": "https://imageproxy.wolt.com/assets/6888bee123fa16f725a99250",
+        "blurhash": "LzRxrrslyFWBoZj?fSazyZWXV?j]"
       }
     ],
     "is_cutlery": false,
@@ -3166,25 +3734,25 @@
     "lowest_price_v2": null,
     "max_quantity_per_purchase": null,
     "min_quantity_per_purchase": null,
-    "name": "Мороженое Магнат Миндаль, 75Г",
+    "name": "Сыр\"Ламбер\"50% 230 Гр",
     "options": [],
     "original_price": null,
     "item_price_discount_validity_period": null,
-    "price": 87500,
+    "price": 237000,
     "product_hierarchy_tags": [
-      "UNKNOWN"
+      "PERISHABLE"
     ],
-    "purchasable_balance": 63,
+    "purchasable_balance": 40,
     "restrictions": [],
     "return_policy": null,
     "sell_by_weight_config": null,
     "should_display_purchasable_balance": false,
     "tags": [],
-    "unit_info": "76 г",
+    "unit_info": "230 г",
     "unit_price": {
       "base": 1,
       "original_price": null,
-      "price": 1151316,
+      "price": 1030435,
       "unit": "kilogram"
     },
     "variant": null,
@@ -3198,89 +3766,7 @@
     }
   },
   {
-    "id": "9a8d360714f5ed5028406e00",
-    "advertising_info": null,
-    "alcohol_permille": 0,
-    "allowed_delivery_methods": [
-      "homedelivery",
-      "takeaway",
-      "eatin"
-    ],
-    "available_times": [
-      {
-        "days": [
-          1,
-          2,
-          3,
-          4,
-          5,
-          6,
-          7
-        ],
-        "start_time": 0,
-        "end_time": 86400000
-      }
-    ],
-    "barcode_gtin": "04870233468535",
-    "caffeine_info": null,
-    "can_be_promoted": {
-      "basket": true,
-      "venue": true,
-      "credits": true
-    },
-    "checksum": "0e53a83243d5bc0f4f69afb4adb3e840",
-    "description": "Эскимо сливочное с соусом из абрикосов в двойном шоколаде",
-    "deposit": null,
-    "dietary_preferences": [],
-    "disabled_info": null,
-    "fulfillment_lead_time": null,
-    "has_extra_info": true,
-    "images": [
-      {
-        "url": "https://imageproxy.wolt.com/assets/67b5daa92501ae1129adc4d6",
-        "blurhash": "LiSYz1j[.ToLxtfQNGjsozfQV@az"
-      }
-    ],
-    "is_cutlery": false,
-    "is_no_contact_delivery_allowed": true,
-    "is_wolt_plus_only": false,
-    "lowest_price": null,
-    "lowest_price_v2": null,
-    "max_quantity_per_purchase": null,
-    "min_quantity_per_purchase": null,
-    "name": "Bahroma Курага В Двойном Шоколаде, Эскимо 75Г",
-    "options": [],
-    "original_price": null,
-    "item_price_discount_validity_period": null,
-    "price": 85000,
-    "product_hierarchy_tags": [
-      "UNKNOWN"
-    ],
-    "purchasable_balance": 13,
-    "restrictions": [],
-    "return_policy": null,
-    "sell_by_weight_config": null,
-    "should_display_purchasable_balance": false,
-    "tags": [],
-    "unit_info": "75 г",
-    "unit_price": {
-      "base": 1,
-      "original_price": null,
-      "price": 1133333,
-      "unit": "kilogram"
-    },
-    "variant": null,
-    "vat_category_code": null,
-    "vat_percentage": 12,
-    "vat_percentage_decimal": "12.0",
-    "external_compliance_link": null,
-    "consent_info": {
-      "ask_consent": false,
-      "blur_image": false
-    }
-  },
-  {
-    "id": "74927c7ef172c1fb17a0b76f",
+    "id": "cbecc5b451e22c4abd9ef6f0",
     "advertising_info": null,
     "alcohol_permille": 0,
     "allowed_delivery_methods": [
@@ -3303,15 +3789,15 @@
         "end_time": 86400000
       }
     ],
-    "barcode_gtin": "08683130106877",
+    "barcode_gtin": "04811084002240",
     "caffeine_info": null,
     "can_be_promoted": {
       "basket": true,
       "venue": true,
       "credits": true
     },
-    "checksum": "7150a84b980ee840ef3dd27a0bc7f4ad",
-    "description": "Мороженое из белого шоколада (43%) с шоколадным соусом (25,7%), глазурью из белого шоколада (27,6%) и кусочков шоколадного печенья (3,7%)",
+    "checksum": "3d305dcf050c3ef17be7a96d33e8578b",
+    "description": "",
     "deposit": null,
     "dietary_preferences": [],
     "disabled_info": null,
@@ -3319,8 +3805,8 @@
     "has_extra_info": true,
     "images": [
       {
-        "url": "https://imageproxy.wolt.com/assets/688b9e5a23fa16f725afc655",
-        "blurhash": "LvRfXoV@kEozocayWCfR.AozacV["
+        "url": "https://imageproxy.wolt.com/assets/6888bb3e23fa16f725a96b1b",
+        "blurhash": "LRSF-EWB~qxuoeWBWXxtxvayM_oe"
       }
     ],
     "is_cutlery": false,
@@ -3330,95 +3816,13 @@
     "lowest_price_v2": null,
     "max_quantity_per_purchase": null,
     "min_quantity_per_purchase": null,
-    "name": "Мороженое Магнат Cookie, 79Г",
+    "name": "Беловежский Сыр Беловежский Пармезан Молодой 40% 200Гр",
     "options": [],
     "original_price": null,
     "item_price_discount_validity_period": null,
-    "price": 94000,
+    "price": 201000,
     "product_hierarchy_tags": [
-      "UNKNOWN"
-    ],
-    "purchasable_balance": 30,
-    "restrictions": [],
-    "return_policy": null,
-    "sell_by_weight_config": null,
-    "should_display_purchasable_balance": false,
-    "tags": [],
-    "unit_info": "79 г",
-    "unit_price": {
-      "base": 1,
-      "original_price": null,
-      "price": 1189873,
-      "unit": "kilogram"
-    },
-    "variant": null,
-    "vat_category_code": null,
-    "vat_percentage": 12,
-    "vat_percentage_decimal": "12.0",
-    "external_compliance_link": null,
-    "consent_info": {
-      "ask_consent": false,
-      "blur_image": false
-    }
-  },
-  {
-    "id": "c3c5cb54a6f35df4290851ff",
-    "advertising_info": null,
-    "alcohol_permille": 0,
-    "allowed_delivery_methods": [
-      "eatin",
-      "takeaway",
-      "homedelivery"
-    ],
-    "available_times": [
-      {
-        "days": [
-          1,
-          2,
-          3,
-          4,
-          5,
-          6,
-          7
-        ],
-        "start_time": 0,
-        "end_time": 86400000
-      }
-    ],
-    "barcode_gtin": "04870233466692",
-    "caffeine_info": null,
-    "can_be_promoted": {
-      "basket": true,
-      "venue": true,
-      "credits": true
-    },
-    "checksum": "6a65f659efe32913fd9d96c212e93728",
-    "description": "Эскимо сливочное с кусочками шоколадного маффина и вишневым соусом в молочном шоколаде",
-    "deposit": null,
-    "dietary_preferences": [],
-    "disabled_info": null,
-    "fulfillment_lead_time": null,
-    "has_extra_info": true,
-    "images": [
-      {
-        "url": "https://imageproxy.wolt.com/assets/688b98faa3eb62eeb95c20db",
-        "blurhash": "LgSPIaay?wt7tPfQRkfQtRj[RPay"
-      }
-    ],
-    "is_cutlery": false,
-    "is_no_contact_delivery_allowed": true,
-    "is_wolt_plus_only": false,
-    "lowest_price": null,
-    "lowest_price_v2": null,
-    "max_quantity_per_purchase": null,
-    "min_quantity_per_purchase": null,
-    "name": "Bahroma Вишневый Маффин, Эскимо 75Г",
-    "options": [],
-    "original_price": null,
-    "item_price_discount_validity_period": null,
-    "price": 76000,
-    "product_hierarchy_tags": [
-      "UNKNOWN"
+      "PERISHABLE"
     ],
     "purchasable_balance": 8,
     "restrictions": [],
@@ -3426,11 +3830,11 @@
     "sell_by_weight_config": null,
     "should_display_purchasable_balance": false,
     "tags": [],
-    "unit_info": "75 г",
+    "unit_info": "200 г",
     "unit_price": {
       "base": 1,
       "original_price": null,
-      "price": 1013333,
+      "price": 1005000,
       "unit": "kilogram"
     },
     "variant": null,
@@ -3444,89 +3848,7 @@
     }
   },
   {
-    "id": "6346d77025eb781f0b04fecf",
-    "advertising_info": null,
-    "alcohol_permille": 0,
-    "allowed_delivery_methods": [
-      "eatin",
-      "takeaway",
-      "homedelivery"
-    ],
-    "available_times": [
-      {
-        "days": [
-          1,
-          2,
-          3,
-          4,
-          5,
-          6,
-          7
-        ],
-        "start_time": 0,
-        "end_time": 86400000
-      }
-    ],
-    "barcode_gtin": "04620021193213",
-    "caffeine_info": null,
-    "can_be_promoted": {
-      "basket": true,
-      "venue": true,
-      "credits": true
-    },
-    "checksum": "1bb8feb9177f3cd24254ac1a6632bae9",
-    "description": "БонПари Фруктовый лед с взрывной карамелью",
-    "deposit": null,
-    "dietary_preferences": [],
-    "disabled_info": null,
-    "fulfillment_lead_time": null,
-    "has_extra_info": true,
-    "images": [
-      {
-        "url": "https://imageproxy.wolt.com/assets/688b98dda3eb62eeb95c1c9a",
-        "blurhash": "LkRyZ]WY%LnhRlbHoJf6?^oJM{bc"
-      }
-    ],
-    "is_cutlery": false,
-    "is_no_contact_delivery_allowed": true,
-    "is_wolt_plus_only": false,
-    "lowest_price": null,
-    "lowest_price_v2": null,
-    "max_quantity_per_purchase": null,
-    "min_quantity_per_purchase": null,
-    "name": "Бонпари Ураган, 54Мл",
-    "options": [],
-    "original_price": null,
-    "item_price_discount_validity_period": null,
-    "price": 56000,
-    "product_hierarchy_tags": [
-      "UNKNOWN"
-    ],
-    "purchasable_balance": 73,
-    "restrictions": [],
-    "return_policy": null,
-    "sell_by_weight_config": null,
-    "should_display_purchasable_balance": false,
-    "tags": [],
-    "unit_info": "44 г",
-    "unit_price": {
-      "base": 1,
-      "original_price": null,
-      "price": 1272727,
-      "unit": "kilogram"
-    },
-    "variant": null,
-    "vat_category_code": null,
-    "vat_percentage": 12,
-    "vat_percentage_decimal": "12.0",
-    "external_compliance_link": null,
-    "consent_info": {
-      "ask_consent": false,
-      "blur_image": false
-    }
-  },
-  {
-    "id": "39f63af41d15d242a45194b2",
+    "id": "c9ecad47d31e0fa411a602fb",
     "advertising_info": null,
     "alcohol_permille": 0,
     "allowed_delivery_methods": [
@@ -3549,15 +3871,15 @@
         "end_time": 86400000
       }
     ],
-    "barcode_gtin": "04870233468870",
+    "barcode_gtin": "04607070736882",
     "caffeine_info": null,
     "can_be_promoted": {
       "basket": true,
       "venue": true,
       "credits": true
     },
-    "checksum": "4886ef44d702e27b842ec2ac34aa2571",
-    "description": "Эскимо фруктовый лукум молочное с пюре черешни в соке гранат-черешня",
+    "checksum": "3f91d8fc775367854377e8ce1b00e846",
+    "description": "Пармезан (Parmigiano Reggiano) - легендарный итальянский твердый сыр, изготовленный из коровьего молока. Его уникальный вкус и текстура достигаются благодаря многомесячной выдержке, в течение которой он приобретает зернистую структуру и богатый, сложный аромат с нотками орехов, фруктов и травы. Идеален для натирания на пасту, добавления в супы и салаты, а также в качестве самостоятельной закуски.",
     "deposit": null,
     "dietary_preferences": [],
     "disabled_info": null,
@@ -3565,8 +3887,8 @@
     "has_extra_info": true,
     "images": [
       {
-        "url": "https://imageproxy.wolt.com/assets/6888b939b5d5dd451812e5ed",
-        "blurhash": "LXSF*5jt_Nozozayaej[o#fQV?js"
+        "url": "https://imageproxy.wolt.com/assets/67e4026ad025c6733684b84a",
+        "blurhash": "LtRV;3WB_Nt7R+fQs:fRtSj[RPWV"
       }
     ],
     "is_cutlery": false,
@@ -3576,435 +3898,25 @@
     "lowest_price_v2": null,
     "max_quantity_per_purchase": null,
     "min_quantity_per_purchase": null,
-    "name": "Bahroma Гранат-Черешня Во Фруктовой Глазури, Эскимо 75Г",
+    "name": "Cыр твердый \"Belster Parmesan\" 40% слайс 135 г",
     "options": [],
     "original_price": null,
     "item_price_discount_validity_period": null,
-    "price": 59000,
+    "price": 182000,
     "product_hierarchy_tags": [
-      "UNKNOWN"
+      "PERISHABLE"
     ],
-    "purchasable_balance": 28,
+    "purchasable_balance": 2,
     "restrictions": [],
     "return_policy": null,
     "sell_by_weight_config": null,
-    "should_display_purchasable_balance": false,
-    "tags": [],
-    "unit_info": "75 г",
-    "unit_price": {
-      "base": 1,
-      "original_price": null,
-      "price": 786667,
-      "unit": "kilogram"
-    },
-    "variant": null,
-    "vat_category_code": null,
-    "vat_percentage": 12,
-    "vat_percentage_decimal": "12.0",
-    "external_compliance_link": null,
-    "consent_info": {
-      "ask_consent": false,
-      "blur_image": false
-    }
-  },
-  {
-    "id": "0f583dbeba00148f6741be03",
-    "advertising_info": null,
-    "alcohol_permille": 0,
-    "allowed_delivery_methods": [
-      "homedelivery",
-      "takeaway",
-      "eatin"
-    ],
-    "available_times": [
-      {
-        "days": [
-          1,
-          2,
-          3,
-          4,
-          5,
-          6,
-          7
-        ],
-        "start_time": 0,
-        "end_time": 86400000
-      }
-    ],
-    "barcode_gtin": "04870233468900",
-    "caffeine_info": null,
-    "can_be_promoted": {
-      "basket": true,
-      "venue": true,
-      "credits": true
-    },
-    "checksum": "87428b66c196a715c57c4b634173db25",
-    "description": "Эскимо фруктовый лукум молочное с пюре персика в соке персик-дыня",
-    "deposit": null,
-    "dietary_preferences": [],
-    "disabled_info": null,
-    "fulfillment_lead_time": null,
-    "has_extra_info": true,
-    "images": [
-      {
-        "url": "https://imageproxy.wolt.com/assets/688b9c3223fa16f725afa7f0",
-        "blurhash": "LvRyTtRk.TxuNGWrt7sko$WBaJt7"
-      }
-    ],
-    "is_cutlery": false,
-    "is_no_contact_delivery_allowed": true,
-    "is_wolt_plus_only": false,
-    "lowest_price": null,
-    "lowest_price_v2": null,
-    "max_quantity_per_purchase": null,
-    "min_quantity_per_purchase": null,
-    "name": "Bahroma Персик-Дыня-Маракуйя Во Фруктовой Глазури, Эскимо 75Г",
-    "options": [],
-    "original_price": null,
-    "item_price_discount_validity_period": null,
-    "price": 59000,
-    "product_hierarchy_tags": [
-      "UNKNOWN"
-    ],
-    "purchasable_balance": 31,
-    "restrictions": [],
-    "return_policy": null,
-    "sell_by_weight_config": null,
-    "should_display_purchasable_balance": false,
-    "tags": [],
-    "unit_info": "75 г",
-    "unit_price": {
-      "base": 1,
-      "original_price": null,
-      "price": 786667,
-      "unit": "kilogram"
-    },
-    "variant": null,
-    "vat_category_code": null,
-    "vat_percentage": 12,
-    "vat_percentage_decimal": "12.0",
-    "external_compliance_link": null,
-    "consent_info": {
-      "ask_consent": false,
-      "blur_image": false
-    }
-  },
-  {
-    "id": "e90876236abd78a0d2e1527b",
-    "advertising_info": null,
-    "alcohol_permille": 0,
-    "allowed_delivery_methods": [
-      "eatin",
-      "takeaway",
-      "homedelivery"
-    ],
-    "available_times": [
-      {
-        "days": [
-          1,
-          2,
-          3,
-          4,
-          5,
-          6,
-          7
-        ],
-        "start_time": 0,
-        "end_time": 86400000
-      }
-    ],
-    "barcode_gtin": "04870233466432",
-    "caffeine_info": null,
-    "can_be_promoted": {
-      "basket": true,
-      "venue": true,
-      "credits": true
-    },
-    "checksum": "07531a250527e53526229dd95fb60d6d",
-    "description": "Сливочное мороженое в вафельном стаканчике",
-    "deposit": null,
-    "dietary_preferences": [],
-    "disabled_info": null,
-    "fulfillment_lead_time": null,
-    "has_extra_info": true,
-    "images": [
-      {
-        "url": "https://imageproxy.wolt.com/assets/6888bf09a3eb62eeb9563b48",
-        "blurhash": "LZRypdjb~ooyOGj[w[WBWrazjsj?"
-      }
-    ],
-    "is_cutlery": false,
-    "is_no_contact_delivery_allowed": true,
-    "is_wolt_plus_only": false,
-    "lowest_price": null,
-    "lowest_price_v2": null,
-    "max_quantity_per_purchase": 5,
-    "min_quantity_per_purchase": null,
-    "name": "Бомба Ваниль, Вафельный Стаканчик 90Г",
-    "options": [],
-    "original_price": null,
-    "item_price_discount_validity_period": null,
-    "price": 29000,
-    "product_hierarchy_tags": [
-      "UNKNOWN"
-    ],
-    "purchasable_balance": 50,
-    "restrictions": [],
-    "return_policy": null,
-    "sell_by_weight_config": null,
-    "should_display_purchasable_balance": false,
-    "tags": [],
-    "unit_info": "90 г",
-    "unit_price": {
-      "base": 1,
-      "original_price": null,
-      "price": 322222,
-      "unit": "kilogram"
-    },
-    "variant": null,
-    "vat_category_code": null,
-    "vat_percentage": 12,
-    "vat_percentage_decimal": "12.0",
-    "external_compliance_link": null,
-    "consent_info": {
-      "ask_consent": false,
-      "blur_image": false
-    }
-  },
-  {
-    "id": "17b8416886a63af9636efdbb",
-    "advertising_info": null,
-    "alcohol_permille": 0,
-    "allowed_delivery_methods": [
-      "homedelivery",
-      "takeaway",
-      "eatin"
-    ],
-    "available_times": [
-      {
-        "days": [
-          1,
-          2,
-          3,
-          4,
-          5,
-          6,
-          7
-        ],
-        "start_time": 0,
-        "end_time": 86400000
-      }
-    ],
-    "barcode_gtin": "04870233468504",
-    "caffeine_info": null,
-    "can_be_promoted": {
-      "basket": true,
-      "venue": true,
-      "credits": true
-    },
-    "checksum": "0f2d0768b3a1b4ebdf6dd781b26caa51",
-    "description": "Эскимо сливочное с соусом из сливы в двойном шоколаде",
-    "deposit": null,
-    "dietary_preferences": [],
-    "disabled_info": null,
-    "fulfillment_lead_time": null,
-    "has_extra_info": true,
-    "images": [
-      {
-        "url": "https://imageproxy.wolt.com/assets/67ee83f38c91c68431a5413c",
-        "blurhash": "LjSPLfj[?woe%1azM|j@W?fQjXaz"
-      }
-    ],
-    "is_cutlery": false,
-    "is_no_contact_delivery_allowed": true,
-    "is_wolt_plus_only": false,
-    "lowest_price": null,
-    "lowest_price_v2": null,
-    "max_quantity_per_purchase": 5,
-    "min_quantity_per_purchase": null,
-    "name": "Bahroma Чернослив В Двойном Шоколаде, Эскимо 75Г",
-    "options": [],
-    "original_price": null,
-    "item_price_discount_validity_period": null,
-    "price": 88000,
-    "product_hierarchy_tags": [
-      "UNKNOWN"
-    ],
-    "purchasable_balance": 27,
-    "restrictions": [],
-    "return_policy": null,
-    "sell_by_weight_config": null,
-    "should_display_purchasable_balance": false,
-    "tags": [],
-    "unit_info": "75 г",
-    "unit_price": {
-      "base": 1,
-      "original_price": null,
-      "price": 1173333,
-      "unit": "kilogram"
-    },
-    "variant": null,
-    "vat_category_code": null,
-    "vat_percentage": 12,
-    "vat_percentage_decimal": "12.0",
-    "external_compliance_link": null,
-    "consent_info": {
-      "ask_consent": false,
-      "blur_image": false
-    }
-  },
-  {
-    "id": "1ea5368811ca5e620ef987b6",
-    "advertising_info": null,
-    "alcohol_permille": 0,
-    "allowed_delivery_methods": [
-      "homedelivery",
-      "eatin",
-      "takeaway"
-    ],
-    "available_times": [
-      {
-        "days": [
-          1,
-          2,
-          3,
-          4,
-          5,
-          6,
-          7
-        ],
-        "start_time": 0,
-        "end_time": 86400000
-      }
-    ],
-    "barcode_gtin": "05000159343961",
-    "caffeine_info": null,
-    "can_be_promoted": {
-      "basket": true,
-      "venue": true,
-      "credits": true
-    },
-    "checksum": "3098b547a847e3c2557b762838038599",
-    "description": "Snickers мороженое батончик",
-    "deposit": null,
-    "dietary_preferences": [],
-    "disabled_info": null,
-    "fulfillment_lead_time": null,
-    "has_extra_info": true,
-    "images": [
-      {
-        "url": "https://imageproxy.wolt.com/assets/688b9dc123fa16f725afc0be",
-        "blurhash": "LEPP=f00yX?v9a.94TDh_N4n00xv"
-      }
-    ],
-    "is_cutlery": false,
-    "is_no_contact_delivery_allowed": true,
-    "is_wolt_plus_only": false,
-    "lowest_price": null,
-    "lowest_price_v2": null,
-    "max_quantity_per_purchase": 5,
-    "min_quantity_per_purchase": null,
-    "name": "Snickers Мороженое Ice Bar 48Gr",
-    "options": [],
-    "original_price": null,
-    "item_price_discount_validity_period": null,
-    "price": 60000,
-    "product_hierarchy_tags": [
-      "UNKNOWN"
-    ],
-    "purchasable_balance": 30,
-    "restrictions": [],
-    "return_policy": null,
-    "sell_by_weight_config": null,
-    "should_display_purchasable_balance": false,
-    "tags": [],
-    "unit_info": "48 г",
-    "unit_price": {
-      "base": 1,
-      "original_price": null,
-      "price": 1250000,
-      "unit": "kilogram"
-    },
-    "variant": null,
-    "vat_category_code": null,
-    "vat_percentage": 12,
-    "vat_percentage_decimal": "12.0",
-    "external_compliance_link": null,
-    "consent_info": {
-      "ask_consent": false,
-      "blur_image": false
-    }
-  },
-  {
-    "id": "0fbfa842691327ed72d1eef1",
-    "advertising_info": null,
-    "alcohol_permille": 0,
-    "allowed_delivery_methods": [
-      "eatin",
-      "takeaway",
-      "homedelivery"
-    ],
-    "available_times": [
-      {
-        "days": [
-          1,
-          2,
-          3,
-          4,
-          5,
-          6,
-          7
-        ],
-        "start_time": 0,
-        "end_time": 86400000
-      }
-    ],
-    "barcode_gtin": "04870004900622",
-    "caffeine_info": null,
-    "can_be_promoted": {
-      "basket": true,
-      "venue": true,
-      "credits": true
-    },
-    "checksum": "b8358666559c9d9b7d361cbeadbcfec3",
-    "description": "Большой рожок",
-    "deposit": null,
-    "dietary_preferences": [],
-    "disabled_info": null,
-    "fulfillment_lead_time": null,
-    "has_extra_info": true,
-    "images": [
-      {
-        "url": "https://imageproxy.wolt.com/assets/688b9ab8b2b18bf1da535e71",
-        "blurhash": "LWSPLooc_MWZj^f6j;bIV[j?oxWF"
-      }
-    ],
-    "is_cutlery": false,
-    "is_no_contact_delivery_allowed": true,
-    "is_wolt_plus_only": false,
-    "lowest_price": null,
-    "lowest_price_v2": null,
-    "max_quantity_per_purchase": null,
-    "min_quantity_per_purchase": null,
-    "name": "Бомба Сливочное С Шоколадом, Рожок 135Г",
-    "options": [],
-    "original_price": null,
-    "item_price_discount_validity_period": null,
-    "price": 55000,
-    "product_hierarchy_tags": [
-      "UNKNOWN"
-    ],
-    "purchasable_balance": 134,
-    "restrictions": [],
-    "return_policy": null,
-    "sell_by_weight_config": null,
-    "should_display_purchasable_balance": false,
+    "should_display_purchasable_balance": true,
     "tags": [],
     "unit_info": "135 г",
     "unit_price": {
       "base": 1,
       "original_price": null,
-      "price": 407407,
+      "price": 1348148,
       "unit": "kilogram"
     },
     "variant": null,
@@ -4018,7 +3930,7 @@
     }
   },
   {
-    "id": "a5e9053bead44d75bc6196e4",
+    "id": "4f88bd4a0b4ee8d3252762cd",
     "advertising_info": null,
     "alcohol_permille": 0,
     "allowed_delivery_methods": [
@@ -4041,15 +3953,15 @@
         "end_time": 86400000
       }
     ],
-    "barcode_gtin": "08683130106860",
+    "barcode_gtin": "03161712946684",
     "caffeine_info": null,
     "can_be_promoted": {
       "basket": true,
       "venue": true,
       "credits": true
     },
-    "checksum": "940d82e3f7413ae9d3fdd2c8fee9518f",
-    "description": "Ванильное молочное мороженое с молочным шоколадом,с соусом  из соленой карамели и глазурью с кусочками миндаля и карамели.",
+    "checksum": "ee2cac75936182b8420849b8de1594a0",
+    "description": "Сыр ILE DE FRANCE GERARD BLEU DOUX голубая плесень",
     "deposit": null,
     "dietary_preferences": [],
     "disabled_info": null,
@@ -4057,8 +3969,8 @@
     "has_extra_info": true,
     "images": [
       {
-        "url": "https://imageproxy.wolt.com/assets/67f64ce3de4d917cfc1f931a",
-        "blurhash": "L;Q+{9oI%MRkf5fPa}az?wa#M_t6"
+        "url": "https://imageproxy.wolt.com/assets/67f3af324c92ea2cbf060251",
+        "blurhash": "LpP?{.ay~qofRkj[t6ay%Mj[V@WC"
       }
     ],
     "is_cutlery": false,
@@ -4068,25 +3980,25 @@
     "lowest_price_v2": null,
     "max_quantity_per_purchase": null,
     "min_quantity_per_purchase": null,
-    "name": "МОРОЖЕНОЕ МАГНАТ UTOPIA КАРАМЕЛЬ",
+    "name": "ILE DE FRANCE GERARD BLEU DOUX голубая плесень 125г",
     "options": [],
     "original_price": null,
     "item_price_discount_validity_period": null,
-    "price": 92000,
+    "price": 512000,
     "product_hierarchy_tags": [
-      "UNKNOWN"
+      "PERISHABLE"
     ],
-    "purchasable_balance": 28,
+    "purchasable_balance": 2,
     "restrictions": [],
     "return_policy": null,
     "sell_by_weight_config": null,
-    "should_display_purchasable_balance": false,
+    "should_display_purchasable_balance": true,
     "tags": [],
-    "unit_info": "69 г",
+    "unit_info": "125 г",
     "unit_price": {
       "base": 1,
       "original_price": null,
-      "price": 1333333,
+      "price": 4096000,
       "unit": "kilogram"
     },
     "variant": null,
@@ -4100,7 +4012,7 @@
     }
   },
   {
-    "id": "46a5b17e522741f4e16e0d85",
+    "id": "3d789b61e60d3f7e482a8c01",
     "advertising_info": null,
     "alcohol_permille": 0,
     "allowed_delivery_methods": [
@@ -4123,15 +4035,15 @@
         "end_time": 86400000
       }
     ],
-    "barcode_gtin": "08683130106853",
+    "barcode_gtin": "04607004892660",
     "caffeine_info": null,
     "can_be_promoted": {
       "basket": true,
       "venue": true,
       "credits": true
     },
-    "checksum": "6ab4ea17d833e00fab0f0e1ba9a3a7a1",
-    "description": "Молочное мороженое\"Магнат Utopia Малина\"со вкусом ванили и с соусом из малины, ежевики и черной шелковицы с газурью из белого шоколада и кусочков красных засахаренных ягод с добавлением малины",
+    "checksum": "d43c88b0020e3c8092536801455ed88d",
+    "description": "Полутвердый сыр Grünländer производится по семейным немецким рецептам компании Hochland. Для производства используется простые  ингредиенты — отборное молоко и натуральные закваски. Сыры производятся без добавления консервантов по технологии естественного созревания.",
     "deposit": null,
     "dietary_preferences": [],
     "disabled_info": null,
@@ -4139,8 +4051,8 @@
     "has_extra_info": true,
     "images": [
       {
-        "url": "https://imageproxy.wolt.com/assets/67f64ce3de4d917cfc1f931d",
-        "blurhash": "LtRM3uWBxvjaaffQj@ay?wofRia{"
+        "url": "https://imageproxy.wolt.com/assets/67655143b2a1aa1c381a5bd3",
+        "blurhash": "LyQck%of_4R%NGj[oea{-=afIUj["
       }
     ],
     "is_cutlery": false,
@@ -4148,27 +4060,27 @@
     "is_wolt_plus_only": false,
     "lowest_price": null,
     "lowest_price_v2": null,
-    "max_quantity_per_purchase": null,
+    "max_quantity_per_purchase": 5,
     "min_quantity_per_purchase": null,
-    "name": "МОРОЖЕНОЕ МАГНАТ UTOPIA МАЛИНА",
+    "name": "Hochland Сыр Полутвердый ''Grünländer'' Цилиндр, 400Гр",
     "options": [],
     "original_price": null,
     "item_price_discount_validity_period": null,
-    "price": 92000,
+    "price": 499500,
     "product_hierarchy_tags": [
-      "UNKNOWN"
+      "PERISHABLE"
     ],
-    "purchasable_balance": 35,
+    "purchasable_balance": 8,
     "restrictions": [],
     "return_policy": null,
     "sell_by_weight_config": null,
     "should_display_purchasable_balance": false,
     "tags": [],
-    "unit_info": "69 г",
+    "unit_info": "400 г",
     "unit_price": {
       "base": 1,
       "original_price": null,
-      "price": 1333333,
+      "price": 1248750,
       "unit": "kilogram"
     },
     "variant": null,
@@ -4182,7 +4094,89 @@
     }
   },
   {
-    "id": "374e19114ce07fdbd3a82a60",
+    "id": "85a9498aa4cfa62dc7b7cbd3",
+    "advertising_info": null,
+    "alcohol_permille": 0,
+    "allowed_delivery_methods": [
+      "homedelivery",
+      "takeaway",
+      "eatin"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 0,
+        "end_time": 86400000
+      }
+    ],
+    "barcode_gtin": "04607070735779",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "af8310df81a9671349885fd967e0fe52",
+    "description": "Идеально подходит для употребления в сырных тарелках, а также в качестве ингредиента для различных блюд.",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": true,
+    "images": [
+      {
+        "url": "https://imageproxy.wolt.com/assets/67e4026ad025c6733684b848",
+        "blurhash": "LhRysdWU_4t7kCjuf6aykEfRacay"
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": true,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": 5,
+    "min_quantity_per_purchase": null,
+    "name": "Белебеевский Сыр Гауда Экстра 45% 190г",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 160000,
+    "product_hierarchy_tags": [
+      "PERISHABLE"
+    ],
+    "purchasable_balance": 3,
+    "restrictions": [],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": true,
+    "tags": [],
+    "unit_info": "190 г",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 842105,
+      "unit": "kilogram"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 12,
+    "vat_percentage_decimal": "12.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    }
+  },
+  {
+    "id": "c5b02841b56c3f84349339e7",
     "advertising_info": null,
     "alcohol_permille": 0,
     "allowed_delivery_methods": [
@@ -4205,15 +4199,15 @@
         "end_time": 86400000
       }
     ],
-    "barcode_gtin": "08690637687433",
+    "barcode_gtin": "02804721000008",
     "caffeine_info": null,
     "can_be_promoted": {
       "basket": true,
       "venue": true,
       "credits": true
     },
-    "checksum": "bcfc9a4b0a3ca9f122d9cc1b2a9297ee",
-    "description": "Сливочное мороженое (61,3%), с кусочками черного шоколада (4,4%), покрытое белым шоколадом (29,7%) с кусочками миндаля (4,6%).",
+    "checksum": "1572458c8dc281c768be83f9148d64c0",
+    "description": "Ламбер – это настоящий сыр, производимый из натурального молока. Именно поэтому он такой вкусный, и каждый его кусочек 30г содержит столько же белка, сколько целый стакан молока.\nСыр Ламбер хорош как самостоятельное блюдо, а также для приготовления бутербродов, закусок, холодных и горячих блюд. Импровизируйте и наслаждайтесь!\n\n●Из 100% натурального молока\n●Не содержит растительных жиров, трансжиров и заменителей молочного жира\n●Классический сливочный вкус\n●Семейный формат позволит воплотить все кулинарные идеи",
     "deposit": null,
     "dietary_preferences": [],
     "disabled_info": null,
@@ -4221,8 +4215,8 @@
     "has_extra_info": true,
     "images": [
       {
-        "url": "https://imageproxy.wolt.com/assets/688b9b8d23fa16f725af9fbf",
-        "blurhash": "LjR{ulWB%NozjYj[j]fP.AofMxWB"
+        "url": "https://imageproxy.wolt.com/assets/6888bed823fa16f725a99027",
+        "blurhash": "L]QlqCt4?wNLt6a#WEo0x^RlV?t6"
       }
     ],
     "is_cutlery": false,
@@ -4232,107 +4226,25 @@
     "lowest_price_v2": null,
     "max_quantity_per_purchase": null,
     "min_quantity_per_purchase": null,
-    "name": "Мороженое Магнат Белый Шоколад, 75Г",
+    "name": "Сыр\"Ламбер\"50% 0,5Кг",
     "options": [],
     "original_price": null,
     "item_price_discount_validity_period": null,
-    "price": 95000,
+    "price": 936000,
     "product_hierarchy_tags": [
-      "UNKNOWN"
+      "PERISHABLE"
     ],
-    "purchasable_balance": 99,
+    "purchasable_balance": 15,
     "restrictions": [],
     "return_policy": null,
     "sell_by_weight_config": null,
     "should_display_purchasable_balance": false,
     "tags": [],
-    "unit_info": "75 г",
+    "unit_info": "500 г",
     "unit_price": {
       "base": 1,
       "original_price": null,
-      "price": 1266667,
-      "unit": "kilogram"
-    },
-    "variant": null,
-    "vat_category_code": null,
-    "vat_percentage": 12,
-    "vat_percentage_decimal": "12.0",
-    "external_compliance_link": null,
-    "consent_info": {
-      "ask_consent": false,
-      "blur_image": false
-    }
-  },
-  {
-    "id": "ff9a7a4b5268425be03d7190",
-    "advertising_info": null,
-    "alcohol_permille": 0,
-    "allowed_delivery_methods": [
-      "eatin",
-      "takeaway",
-      "homedelivery"
-    ],
-    "available_times": [
-      {
-        "days": [
-          1,
-          2,
-          3,
-          4,
-          5,
-          6,
-          7
-        ],
-        "start_time": 0,
-        "end_time": 86400000
-      }
-    ],
-    "barcode_gtin": "08690637910821",
-    "caffeine_info": null,
-    "can_be_promoted": {
-      "basket": true,
-      "venue": true,
-      "credits": true
-    },
-    "checksum": "1a2842e85c4354601a62bec9814a5f72",
-    "description": "Молочное ванильное мороженое (62,7 %) и глазурью из молочного шоколада (32,4%) и кусочков миндаля (4,9%)/Молочное ванильное мороженое (66 %)  и глазурью из молочного шоколада (34%)/Мороженое из белого шоколада (42%) с шоколадным соусом  (23,4%) и глазурью из белого шоколада (30,9%) и кусочков шоколадного печенья (3,7%)",
-    "deposit": null,
-    "dietary_preferences": [],
-    "disabled_info": null,
-    "fulfillment_lead_time": null,
-    "has_extra_info": true,
-    "images": [
-      {
-        "url": "https://imageproxy.wolt.com/assets/688b9e9c23fa16f725afca7d",
-        "blurhash": "L:P%9JWA_4ogjrj[bIWC%Nj[M_js"
-      }
-    ],
-    "is_cutlery": false,
-    "is_no_contact_delivery_allowed": true,
-    "is_wolt_plus_only": false,
-    "lowest_price": null,
-    "lowest_price_v2": null,
-    "max_quantity_per_purchase": null,
-    "min_quantity_per_purchase": null,
-    "name": "Мороженое Магнат Mini (Мини-Пак Ассорти), Classic Х2, Миндаль Х2, Белый Шоколад Х2, 258Г",
-    "options": [],
-    "original_price": null,
-    "item_price_discount_validity_period": null,
-    "price": 455000,
-    "product_hierarchy_tags": [
-      "UNKNOWN"
-    ],
-    "purchasable_balance": 35,
-    "restrictions": [],
-    "return_policy": null,
-    "sell_by_weight_config": null,
-    "should_display_purchasable_balance": false,
-    "tags": [],
-    "unit_info": "259 г",
-    "unit_price": {
-      "base": 1,
-      "original_price": null,
-      "price": 1756757,
+      "price": 1872000,
       "unit": "kilogram"
     },
     "variant": null,

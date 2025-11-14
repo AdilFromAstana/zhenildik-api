@@ -244,6 +244,88 @@
     }
   },
   {
+    "id": "13e84b470ab9881c8537092d",
+    "advertising_info": null,
+    "alcohol_permille": 0,
+    "allowed_delivery_methods": [
+      "eatin",
+      "takeaway",
+      "homedelivery"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 0,
+        "end_time": 86400000
+      }
+    ],
+    "barcode_gtin": "04601916007020",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "11ad3d6e9128e4fe7d17a3722e1c1edb",
+    "description": "",
+    "deposit": null,
+    "dietary_preferences": [
+      "vegan"
+    ],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": true,
+    "images": [
+      {
+        "url": "https://imageproxy.wolt.com/assets/6790a2722e7be8646181b85a",
+        "blurhash": "LcSiQ+j[.Tj[tlfQRPfkogfQWBfj"
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": true,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "Хлебцы Мультизлаковые Fitstart Брусника, Имбирь И Мед 100Г",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 66000,
+    "product_hierarchy_tags": [],
+    "purchasable_balance": 3,
+    "restrictions": [],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": true,
+    "tags": [],
+    "unit_info": "100 г",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 660000,
+      "unit": "kilogram"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 12,
+    "vat_percentage_decimal": "12.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    }
+  },
+  {
     "id": "c53b659102aa1e4e1affc58b",
     "advertising_info": null,
     "alcohol_permille": 0,
@@ -1584,7 +1666,7 @@
     "item_price_discount_validity_period": null,
     "price": 55000,
     "product_hierarchy_tags": [],
-    "purchasable_balance": 33,
+    "purchasable_balance": 32,
     "restrictions": [],
     "return_policy": null,
     "sell_by_weight_config": null,
@@ -2256,6 +2338,86 @@
     }
   },
   {
+    "id": "397ba70f012ad5190037dded",
+    "advertising_info": null,
+    "alcohol_permille": 0,
+    "allowed_delivery_methods": [
+      "homedelivery",
+      "takeaway",
+      "eatin"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 0,
+        "end_time": 86400000
+      }
+    ],
+    "barcode_gtin": "04601916007556",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "abff3a6a0c44d10c33d91401f606b3f1",
+    "description": "Формула FITSTART = ПОЛЬЗА + ВКУС.Вы можете выбрать любимое занятие и при этом получать удовольствие от сбалансированного и полезного питания вместе с Fitstart. Натуральный вкус – наслаждение, подаренное природой. Польза зеленой гречки - живой микс питательных веществ и антиоксидантов для красоты и молодости. Стройность - «медленные» углеводы и клетчатка для здорового пищеварения и чувства сытости надолго. Комфорт - удобная упаковка. Идеальный перекус в офисе, дома и в дороге. Многоразовая клипса для открывания и хранения. Легкость – не более 30 калорий в одном хлебце БЕЗ ДОБАВЛЕНИЯ СОЛИ.",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": true,
+    "images": [
+      {
+        "url": "https://imageproxy.wolt.com/assets/67f3daa14c92ea2cbf060ecf",
+        "blurhash": "LRSr_wf6?wt7xuj[RPayx]j[M_ax"
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": true,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "FITSTART Хлебцы мультизлаковые Гречневые микс 90г",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 66000,
+    "product_hierarchy_tags": [],
+    "purchasable_balance": 1,
+    "restrictions": [],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": true,
+    "tags": [],
+    "unit_info": "90 г",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 733333,
+      "unit": "kilogram"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 12,
+    "vat_percentage_decimal": "12.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    }
+  },
+  {
     "id": "a4191d62686aafaad280475f",
     "advertising_info": null,
     "alcohol_permille": 0,
@@ -2565,6 +2727,252 @@
       "base": 1,
       "original_price": null,
       "price": 1225000,
+      "unit": "kilogram"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 12,
+    "vat_percentage_decimal": "12.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    }
+  },
+  {
+    "id": "34f0d51a2a08543962ad4286",
+    "advertising_info": null,
+    "alcohol_permille": 0,
+    "allowed_delivery_methods": [
+      "homedelivery",
+      "eatin",
+      "takeaway"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 0,
+        "end_time": 86400000
+      }
+    ],
+    "barcode_gtin": "04870241740029",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "e578a92e42945764bfc2eecb4d99235b",
+    "description": "EAT&FIT Творожный маффин\nс ягодным соусом",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": true,
+    "images": [
+      {
+        "url": "https://imageproxy.wolt.com/assets/688b99b723fa16f725af7c4d",
+        "blurhash": "L~Oz6{oL~qWXayazoeoLoLfQayfQ"
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": true,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "Творожный Маффин С Ягодным Соусом",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 75000,
+    "product_hierarchy_tags": [
+      "PERISHABLE"
+    ],
+    "purchasable_balance": 1,
+    "restrictions": [],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": true,
+    "tags": [],
+    "unit_info": "140 г",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 535714,
+      "unit": "kilogram"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 12,
+    "vat_percentage_decimal": "12.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    }
+  },
+  {
+    "id": "e1be512a8d485f79a62a071b",
+    "advertising_info": null,
+    "alcohol_permille": 0,
+    "allowed_delivery_methods": [
+      "homedelivery",
+      "takeaway",
+      "eatin"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 0,
+        "end_time": 86400000
+      }
+    ],
+    "barcode_gtin": "02000000000077",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "cda72be980f8fbab30622fa2fc0eb798",
+    "description": "Сливочный круассан с фисташковым кремом",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": true,
+    "images": [
+      {
+        "url": "https://imageproxy.wolt.com/assets/688b99b923fa16f725af7c8d",
+        "blurhash": "LyRVzwWX?ws:W.ozoMRi%hjZITbb"
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": true,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "Lacroiss Фисташковый Круассан 150Гр",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 92500,
+    "product_hierarchy_tags": [
+      "PERISHABLE"
+    ],
+    "purchasable_balance": 1,
+    "restrictions": [],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": true,
+    "tags": [],
+    "unit_info": "150 г",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 616667,
+      "unit": "kilogram"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 12,
+    "vat_percentage_decimal": "12.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    }
+  },
+  {
+    "id": "b3d5760bf486d50e8102ecc5",
+    "advertising_info": null,
+    "alcohol_permille": 0,
+    "allowed_delivery_methods": [
+      "homedelivery",
+      "takeaway",
+      "eatin"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 0,
+        "end_time": 86400000
+      }
+    ],
+    "barcode_gtin": "02000000000084",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "2893fdce22118e3dd13872f9cc0572cc",
+    "description": "Сливочный круассан с миндальным франжипаном",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": true,
+    "images": [
+      {
+        "url": "https://imageproxy.wolt.com/assets/688b99b923fa16f725af7c84",
+        "blurhash": "LqRfOXay?ws:R*ogs:V@%goLM_WV"
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": true,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": 5,
+    "min_quantity_per_purchase": null,
+    "name": "Lacroiss Миндальный Круассан 150Гр",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 92500,
+    "product_hierarchy_tags": [
+      "PERISHABLE"
+    ],
+    "purchasable_balance": 1,
+    "restrictions": [],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": true,
+    "tags": [],
+    "unit_info": "150 г",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 616667,
       "unit": "kilogram"
     },
     "variant": null,

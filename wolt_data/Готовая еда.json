@@ -1,5 +1,889 @@
 [
   {
+    "id": "5ab42439d62cd1fa417f128f",
+    "advertising_info": null,
+    "alcohol_permille": 0,
+    "allowed_delivery_methods": [
+      "homedelivery",
+      "eatin",
+      "takeaway"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 0,
+        "end_time": 86400000
+      }
+    ],
+    "barcode_gtin": "04870241740050",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "a6a5270be413eeadeb18b2b0846fa842",
+    "description": "EAT&FIT Ролл пшеничный \nс курицей и яйцом",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": true,
+    "images": [
+      {
+        "url": "https://imageproxy.wolt.com/assets/688b9ca123fa16f725afb200",
+        "blurhash": "L?QJG#t7?wRjayaykCkCtRWCV@of"
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": true,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "Ролл Пшеничный С Курицей И Яйцом",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 142000,
+    "product_hierarchy_tags": [
+      "PERISHABLE"
+    ],
+    "purchasable_balance": 1,
+    "restrictions": [],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": true,
+    "tags": [],
+    "unit_info": "280 г",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 507143,
+      "unit": "kilogram"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 12,
+    "vat_percentage_decimal": "12.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    }
+  },
+  {
+    "id": "2a874ebc6eec8ad4227dc69c",
+    "advertising_info": null,
+    "alcohol_permille": 0,
+    "allowed_delivery_methods": [
+      "homedelivery",
+      "takeaway",
+      "eatin"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 0,
+        "end_time": 86400000
+      }
+    ],
+    "barcode_gtin": "04870241740180",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "b0daccd51f97141d0402aa6b67adf95f",
+    "description": "Клаб сэндвич с курицей",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": true,
+    "images": [
+      {
+        "url": "https://imageproxy.wolt.com/assets/6888c03023fa16f725a9a766",
+        "blurhash": "LNH-SbR*OGxu~BskWBxa0O%2xYjt"
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": true,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "Клаб Сэндвич С Курицей",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 119000,
+    "product_hierarchy_tags": [],
+    "purchasable_balance": 1,
+    "restrictions": [],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": true,
+    "tags": [],
+    "unit_info": "280 г",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 425000,
+      "unit": "kilogram"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 12,
+    "vat_percentage_decimal": "12.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    }
+  },
+  {
+    "id": "6e2bcb13075d9456b04f0e85",
+    "advertising_info": null,
+    "alcohol_permille": 0,
+    "allowed_delivery_methods": [
+      "homedelivery",
+      "takeaway",
+      "eatin"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 0,
+        "end_time": 86400000
+      }
+    ],
+    "barcode_gtin": "02000000000015",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "28357e1fe105776d26dd9682683d94dc",
+    "description": "Натуральная Чиабатта с курицей",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": true,
+    "images": [
+      {
+        "url": "https://imageproxy.wolt.com/assets/688b9901a3eb62eeb95c21d8",
+        "blurhash": "L-QlXlbbyEaen$tRWBV@.ToMa0j?"
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": true,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "Lacroiss Панини С Курицей 250Гр",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 125000,
+    "product_hierarchy_tags": [],
+    "purchasable_balance": 2,
+    "restrictions": [],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": true,
+    "tags": [],
+    "unit_info": "250 г",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 500000,
+      "unit": "kilogram"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 12,
+    "vat_percentage_decimal": "12.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    }
+  },
+  {
+    "id": "3b5d24e20649ecc44382ed5b",
+    "advertising_info": null,
+    "alcohol_permille": 0,
+    "allowed_delivery_methods": [
+      "homedelivery",
+      "takeaway",
+      "eatin"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 0,
+        "end_time": 86400000
+      }
+    ],
+    "barcode_gtin": "02000000000053",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "f55585947a43f0a048e79a1ca7355a65",
+    "description": "Сливочный круассан с овощами и с запеченной курицей",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": true,
+    "images": [
+      {
+        "url": "https://imageproxy.wolt.com/assets/688b9da823fa16f725afbd6d",
+        "blurhash": "L$R2_Kf+?waeoMogbaV@%$jZMwkC"
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": true,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "Lacroiss Круассан С Курицей 250Гр",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 126000,
+    "product_hierarchy_tags": [],
+    "purchasable_balance": 2,
+    "restrictions": [],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": true,
+    "tags": [],
+    "unit_info": "250 г",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 504000,
+      "unit": "kilogram"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 12,
+    "vat_percentage_decimal": "12.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    }
+  },
+  {
+    "id": "91856b4c23c947f30957610c",
+    "advertising_info": null,
+    "alcohol_permille": 0,
+    "allowed_delivery_methods": [
+      "homedelivery",
+      "takeaway",
+      "eatin"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 0,
+        "end_time": 86400000
+      }
+    ],
+    "barcode_gtin": "02000000000060",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "a6850909f3df4713128b39467a8e4592",
+    "description": "Сливочный круассан с овощами и с слаьо соленой филе семги",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": true,
+    "images": [
+      {
+        "url": "https://imageproxy.wolt.com/assets/688b9c0cb2b18bf1da53765d",
+        "blurhash": "L$QvXej[?woLs:f7S2ay?vayIAj["
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": true,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "Lacroiss Круассан С Семгой 250Гр",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 159000,
+    "product_hierarchy_tags": [],
+    "purchasable_balance": 1,
+    "restrictions": [],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": true,
+    "tags": [],
+    "unit_info": "250 г",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 636000,
+      "unit": "kilogram"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 12,
+    "vat_percentage_decimal": "12.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    }
+  },
+  {
+    "id": "006b91eb5b28005b9d4cf8ac",
+    "advertising_info": null,
+    "alcohol_permille": 0,
+    "allowed_delivery_methods": [
+      "homedelivery",
+      "eatin",
+      "takeaway"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 0,
+        "end_time": 86400000
+      }
+    ],
+    "barcode_gtin": "04870241740142",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "4b17eacf4b0989c6aabe0b691c87a4ff",
+    "description": "EAT&FIT Сырники с ягодным соусом",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": true,
+    "images": [
+      {
+        "url": "https://imageproxy.wolt.com/assets/6888bee323fa16f725a9928f",
+        "blurhash": "L|Q0EnoL_NWCj]j[f6WBf+ayjYoe"
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": true,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "Сырники С Ягодным Соусом",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 108000,
+    "product_hierarchy_tags": [
+      "PERISHABLE"
+    ],
+    "purchasable_balance": 1,
+    "restrictions": [],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": true,
+    "tags": [],
+    "unit_info": "200 г",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 540000,
+      "unit": "kilogram"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 12,
+    "vat_percentage_decimal": "12.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    }
+  },
+  {
+    "id": "22094cdddf6c2dd5123a3237",
+    "advertising_info": null,
+    "alcohol_permille": 0,
+    "allowed_delivery_methods": [
+      "homedelivery",
+      "eatin",
+      "takeaway"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 0,
+        "end_time": 86400000
+      }
+    ],
+    "barcode_gtin": "06295151261798",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "c6f620e788fb408c1a0368546e177dc5",
+    "description": "Премиальная вкусоароматическая смесь «Фраппе Ваниль» от бренда The Base — это быстрый и вкусный способ создать холодные кофейные и молочные напитки с насыщенным ванильным вкусом. Просто добавьте молоко, лёд и взбейте в шейкере или блендере!                                                                                                                                                                                                                                                                                                                                                            Преимущества:\nГотовь за 20 секунд — просто добавьте молоко.\nУдобно брать с собой — для дома, офиса и путешествий.\nНатуральный состав — без глютена, без ГМО, халяль.\nПлотный зип-пакет на 500 грамм с влагозащитой. Идеален для дома, офиса и подарка.",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": true,
+    "images": [
+      {
+        "url": "https://imageproxy.wolt.com/assets/68cc04b41ba3ae9b1ce1551e",
+        "blurhash": "LbR{x$of_NWBRiaytRoftRayRPof"
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": true,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "The Base Фраппе Ваниль 500г (25 порций)",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 793000,
+    "product_hierarchy_tags": [],
+    "purchasable_balance": 3,
+    "restrictions": [],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": true,
+    "tags": [],
+    "unit_info": "500 г",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 1586000,
+      "unit": "kilogram"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 12,
+    "vat_percentage_decimal": "12.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    }
+  },
+  {
+    "id": "4dfc255da170125dcb4fb620",
+    "advertising_info": null,
+    "alcohol_permille": 0,
+    "allowed_delivery_methods": [
+      "homedelivery",
+      "eatin",
+      "takeaway"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 0,
+        "end_time": 86400000
+      }
+    ],
+    "barcode_gtin": "06295151261781",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "b1925e33acb973cb3570bd8598fc3569",
+    "description": "Премиальная вкусоароматическая смесь «Фраппе Соленая карамель» от бренда The Base — это быстрый и вкусный способ создать холодные кофейные и молочные напитки с насыщенным вкусом соленой карамели. Просто добавьте молоко, лёд и взбейте в шейкере или блендере!                                                                                                                                                                                                                                                                                                                                                            Преимущества:\nГотовь за 20 секунд — просто добавьте молоко.\nУдобно брать с собой — для дома, офиса и путешествий.\nНатуральный состав — без глютена, без ГМО, халяль.\nПлотный зип-пакет на 500 грамм с влагозащитой. Идеален для дома, офиса и подарка.",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": true,
+    "images": [
+      {
+        "url": "https://imageproxy.wolt.com/assets/68cc04b41ba3ae9b1ce1551d",
+        "blurhash": "LbR{x$of_NWBRiaytRoftRayRPof"
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": true,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "The Base Фраппе Соленая карамель 500г (25 порций)",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 793000,
+    "product_hierarchy_tags": [],
+    "purchasable_balance": 4,
+    "restrictions": [],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": true,
+    "tags": [],
+    "unit_info": "500 г",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 1586000,
+      "unit": "kilogram"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 12,
+    "vat_percentage_decimal": "12.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    }
+  },
+  {
+    "id": "226147ddc8d084704f5ca3b8",
+    "advertising_info": null,
+    "alcohol_permille": 0,
+    "allowed_delivery_methods": [
+      "homedelivery",
+      "eatin",
+      "takeaway"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 0,
+        "end_time": 86400000
+      }
+    ],
+    "barcode_gtin": "06295151261194",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "f86a116e89a8db1aa02ea68c9fae3cc5",
+    "description": "Раф апельсиновый пломбир — это изумительный вкус!                                                                                            Это не просто напиток — это десерт, который бодрит, радует и вызывает восторг с первого глотка.                                                                                                                                                                                                                           Преимущества:\nГотовь за 20 секунд — просто добавьте в кофе на Ваш вкус!\nУдобно брать с собой — для дома, офиса и путешествий                                                                                                                                                                                                                            \nНатуральный состав — без глютена, без ГМО, халяль.\nПлотный зип-пакет на 500 грамм с влагозащитой. Идеален для дома, офиса и подарка.",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": true,
+    "images": [
+      {
+        "url": "https://imageproxy.wolt.com/assets/68cc04b41ba3ae9b1ce1551c",
+        "blurhash": "LWS6Mcof_NRjRjayt8oftRayRPoL"
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": true,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "The Base Раф Апельсиновый Пломбир 500г (25 порций)",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 689000,
+    "product_hierarchy_tags": [],
+    "purchasable_balance": 4,
+    "restrictions": [],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": true,
+    "tags": [],
+    "unit_info": "500 г",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 1378000,
+      "unit": "kilogram"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 12,
+    "vat_percentage_decimal": "12.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    }
+  },
+  {
+    "id": "86e3adf07169da518f6751da",
+    "advertising_info": null,
+    "alcohol_permille": 0,
+    "allowed_delivery_methods": [
+      "homedelivery",
+      "eatin",
+      "takeaway"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 0,
+        "end_time": 86400000
+      }
+    ],
+    "barcode_gtin": "06295151261101",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "d24f72a717abd8c94166cee1cb7613ff",
+    "description": "Молочный коктейль медовая дыня — нежный вкус дыни, который освежает!\nЛёгкий и сливочный, с освежающей кислинкой —  отлично подойдёт для жаркого дня, лёгкого перекуса или полезного десерта. \n                                                                                                                                                                                                                                                  Преимущества:\nГотовь за 20 секунд — просто добавьте молоко на Ваш вкус.\nУдобно брать с собой — для дома, офиса и путешествий.                                                                                                                                                                                                                            \nНатуральный состав — без глютена, без ГМО, халяль.\nПлотный зип-пакет на 500 грамм с влагозащитой. Идеален для дома, офиса и подарка.",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": true,
+    "images": [
+      {
+        "url": "https://imageproxy.wolt.com/assets/68cc04b41ba3ae9b1ce1551b",
+        "blurhash": "LWS6Mcof_NR*Riayt8oft7ayRjof"
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": true,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "The Base Молочный коктейль Медовая Дыня 500г (17 порций)",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 820000,
+    "product_hierarchy_tags": [],
+    "purchasable_balance": 8,
+    "restrictions": [],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": false,
+    "tags": [],
+    "unit_info": "500 г",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 1640000,
+      "unit": "kilogram"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 12,
+    "vat_percentage_decimal": "12.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    }
+  },
+  {
+    "id": "2c52c32e48bd2047f641fd1f",
+    "advertising_info": null,
+    "alcohol_permille": 0,
+    "allowed_delivery_methods": [
+      "homedelivery",
+      "eatin",
+      "takeaway"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 0,
+        "end_time": 86400000
+      }
+    ],
+    "barcode_gtin": "06295151261965",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "badb520fcb8e330172b0bb3faf4f5e37",
+    "description": "Холодный чай со вкусом персика — это лёгкий и освежающий напиток с натуральным фруктовым вкусом. Идеален в жару и просто для расслабления в течение дня. Растворяется моментально — готов за пару секунд.                                                                                                                                                                                                                                                                                                              Преимущества: Готовь за 20 секунд — просто добавьте воды и льда.\nУдобно брать с собой — для дома, офиса и путешествий.                                                                                                                                                                                                                     \nНатуральный состав - без глютена, без ГМО, халяль.\nПлотный зип-пакет на 500 грамм с влагозащитой. Идеален для дома, офиса и подарка.",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": true,
+    "images": [
+      {
+        "url": "https://imageproxy.wolt.com/assets/68cc04b41ba3ae9b1ce1551f",
+        "blurhash": "LcS6JTof_4RjV?ayo#j]tSayROof"
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": true,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "The Base Чай холодный Персик 500г (25 порций)",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 715000,
+    "product_hierarchy_tags": [],
+    "purchasable_balance": 5,
+    "restrictions": [],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": true,
+    "tags": [],
+    "unit_info": "500 г",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 1430000,
+      "unit": "kilogram"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 12,
+    "vat_percentage_decimal": "12.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    }
+  },
+  {
     "id": "efef312268bf5fc256851d62",
     "advertising_info": null,
     "alcohol_permille": 0,
@@ -140,7 +1024,7 @@
     "product_hierarchy_tags": [
       "PERISHABLE"
     ],
-    "purchasable_balance": 5,
+    "purchasable_balance": 4,
     "restrictions": [],
     "return_policy": null,
     "sell_by_weight_config": null,

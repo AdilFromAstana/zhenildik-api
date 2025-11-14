@@ -56,7 +56,7 @@
     "item_price_discount_validity_period": null,
     "price": 100000,
     "product_hierarchy_tags": [],
-    "purchasable_balance": 24,
+    "purchasable_balance": 23,
     "restrictions": [],
     "return_policy": null,
     "sell_by_weight_config": null,
@@ -138,7 +138,7 @@
     "product_hierarchy_tags": [
       "PERISHABLE"
     ],
-    "purchasable_balance": 4,
+    "purchasable_balance": 1,
     "restrictions": [],
     "return_policy": null,
     "sell_by_weight_config": null,
@@ -220,7 +220,7 @@
     "product_hierarchy_tags": [
       "PERISHABLE"
     ],
-    "purchasable_balance": 3,
+    "purchasable_balance": 6,
     "restrictions": [],
     "return_policy": null,
     "sell_by_weight_config": null,
@@ -302,7 +302,7 @@
     "product_hierarchy_tags": [
       "PERISHABLE"
     ],
-    "purchasable_balance": 22,
+    "purchasable_balance": 23,
     "restrictions": [],
     "return_policy": null,
     "sell_by_weight_config": {
@@ -328,6 +328,92 @@
       "base": 1,
       "original_price": null,
       "price": 87000,
+      "unit": "kilogram"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 12,
+    "vat_percentage_decimal": "12.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    }
+  },
+  {
+    "id": "090b193de98fa935bc0a4bb1",
+    "advertising_info": null,
+    "alcohol_permille": 0,
+    "allowed_delivery_methods": [
+      "eatin",
+      "takeaway",
+      "homedelivery"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 0,
+        "end_time": 86400000
+      }
+    ],
+    "barcode_gtin": "07070536594215",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "4f9428847603741bd6a811ee8a3c7e13",
+    "description": "қырыққабат, дана",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": true,
+    "images": [
+      {
+        "url": "https://imageproxy.wolt.com/assets/6888bb361f0cac713af63c5e",
+        "blurhash": "LtRW9oax?doga{fQoMf6-rj[ITax"
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": true,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "Капуста, ~1050 g",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 22000,
+    "product_hierarchy_tags": [
+      "PERISHABLE"
+    ],
+    "purchasable_balance": 4,
+    "restrictions": [],
+    "return_policy": null,
+    "sell_by_weight_config": {
+      "grams_per_step": 1050,
+      "input_type": "number_of_items",
+      "price_per_kg": 22000
+    },
+    "should_display_purchasable_balance": true,
+    "tags": [],
+    "unit_info": "1,7 кг",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 22000,
       "unit": "kilogram"
     },
     "variant": null,
@@ -397,7 +483,7 @@
     "item_price_discount_validity_period": null,
     "price": 72000,
     "product_hierarchy_tags": [],
-    "purchasable_balance": 3,
+    "purchasable_balance": 4,
     "restrictions": [],
     "return_policy": null,
     "sell_by_weight_config": null,
@@ -561,7 +647,7 @@
     "product_hierarchy_tags": [
       "PERISHABLE"
     ],
-    "purchasable_balance": 13,
+    "purchasable_balance": 17,
     "restrictions": [],
     "return_policy": null,
     "sell_by_weight_config": null,
@@ -643,7 +729,7 @@
     "product_hierarchy_tags": [
       "PERISHABLE"
     ],
-    "purchasable_balance": 4,
+    "purchasable_balance": 2,
     "restrictions": [],
     "return_policy": null,
     "sell_by_weight_config": null,
@@ -725,7 +811,7 @@
     "product_hierarchy_tags": [
       "PERISHABLE"
     ],
-    "purchasable_balance": 2,
+    "purchasable_balance": 3,
     "restrictions": [],
     "return_policy": null,
     "sell_by_weight_config": null,
@@ -807,7 +893,7 @@
     "product_hierarchy_tags": [
       "PERISHABLE"
     ],
-    "purchasable_balance": 14,
+    "purchasable_balance": 10,
     "restrictions": [],
     "return_policy": null,
     "sell_by_weight_config": {
@@ -904,7 +990,7 @@
     "product_hierarchy_tags": [
       "PERISHABLE"
     ],
-    "purchasable_balance": 7,
+    "purchasable_balance": 6,
     "restrictions": [],
     "return_policy": null,
     "sell_by_weight_config": null,
@@ -984,7 +1070,7 @@
     "item_price_discount_validity_period": null,
     "price": 51000,
     "product_hierarchy_tags": [],
-    "purchasable_balance": 6,
+    "purchasable_balance": 4,
     "restrictions": [],
     "return_policy": null,
     "sell_by_weight_config": null,
@@ -1066,7 +1152,7 @@
     "product_hierarchy_tags": [
       "PERISHABLE"
     ],
-    "purchasable_balance": 7,
+    "purchasable_balance": 5,
     "restrictions": [],
     "return_policy": null,
     "sell_by_weight_config": null,
@@ -1148,7 +1234,7 @@
     "product_hierarchy_tags": [
       "PERISHABLE"
     ],
-    "purchasable_balance": 20,
+    "purchasable_balance": 45,
     "restrictions": [],
     "return_policy": null,
     "sell_by_weight_config": {

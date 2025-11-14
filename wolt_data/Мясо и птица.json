@@ -224,7 +224,7 @@
     "product_hierarchy_tags": [
       "PERISHABLE"
     ],
-    "purchasable_balance": 5,
+    "purchasable_balance": 3,
     "restrictions": [],
     "return_policy": null,
     "sell_by_weight_config": null,
@@ -392,11 +392,11 @@
     "product_hierarchy_tags": [
       "UNKNOWN"
     ],
-    "purchasable_balance": 8,
+    "purchasable_balance": 6,
     "restrictions": [],
     "return_policy": null,
     "sell_by_weight_config": null,
-    "should_display_purchasable_balance": false,
+    "should_display_purchasable_balance": true,
     "tags": [],
     "unit_info": "700 г",
     "unit_price": {
@@ -640,7 +640,7 @@
     "product_hierarchy_tags": [
       "UNKNOWN"
     ],
-    "purchasable_balance": 27,
+    "purchasable_balance": 26,
     "restrictions": [],
     "return_policy": null,
     "sell_by_weight_config": null,
@@ -1132,7 +1132,7 @@
     "product_hierarchy_tags": [
       "UNKNOWN"
     ],
-    "purchasable_balance": 9,
+    "purchasable_balance": 8,
     "restrictions": [],
     "return_policy": null,
     "sell_by_weight_config": null,
@@ -1296,7 +1296,7 @@
     "product_hierarchy_tags": [
       "PERISHABLE"
     ],
-    "purchasable_balance": 9,
+    "purchasable_balance": 8,
     "restrictions": [],
     "return_policy": null,
     "sell_by_weight_config": null,
@@ -1307,6 +1307,170 @@
       "base": 1,
       "original_price": null,
       "price": 604286,
+      "unit": "kilogram"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 12,
+    "vat_percentage_decimal": "12.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    }
+  },
+  {
+    "id": "601dbda55a9bf4d2706aa039",
+    "advertising_info": null,
+    "alcohol_permille": 0,
+    "allowed_delivery_methods": [
+      "homedelivery",
+      "takeaway",
+      "eatin"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 0,
+        "end_time": 86400000
+      }
+    ],
+    "barcode_gtin": "02000070800010",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "06412ebaa85974a6211e442ec010f93e",
+    "description": "Шашлык из куриного филе, замороженный и готовый к приготовлению — сочное мясо с насыщенным вкусом, прямо с гриля.",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": true,
+    "images": [
+      {
+        "url": "https://imageproxy.wolt.com/assets/67efe49798e739d976cf0a6d",
+        "blurhash": "L=QcM1j[?wfkR+azs.j[tlfQi^fk"
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": true,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "Шашлык из куриного филе, 1кг",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 463000,
+    "product_hierarchy_tags": [
+      "UNKNOWN"
+    ],
+    "purchasable_balance": 3,
+    "restrictions": [],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": true,
+    "tags": [],
+    "unit_info": "1 кг",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 463000,
+      "unit": "kilogram"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 12,
+    "vat_percentage_decimal": "12.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    }
+  },
+  {
+    "id": "d41db807c72d3f2f5b50e280",
+    "advertising_info": null,
+    "alcohol_permille": 0,
+    "allowed_delivery_methods": [
+      "homedelivery",
+      "takeaway",
+      "eatin"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 0,
+        "end_time": 86400000
+      }
+    ],
+    "barcode_gtin": "02000070700013",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "802c71e49a9e7a2b305295c49e59f1f6",
+    "description": "Шашлык из куриных крыльев, замороженный и готовый к приготовлению.",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": true,
+    "images": [
+      {
+        "url": "https://imageproxy.wolt.com/assets/67efe49798e739d976cf0a6c",
+        "blurhash": "L^P%3AfQ_Nj[WqfQoLjtx^fQRPfQ"
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": true,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "Шашлык из куриных крыльев, 1кг",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 438000,
+    "product_hierarchy_tags": [
+      "UNKNOWN"
+    ],
+    "purchasable_balance": 4,
+    "restrictions": [],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": true,
+    "tags": [],
+    "unit_info": "1 кг",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 438000,
       "unit": "kilogram"
     },
     "variant": null,

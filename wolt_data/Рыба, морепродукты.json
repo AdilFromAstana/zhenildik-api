@@ -1,5 +1,87 @@
 [
   {
+    "id": "8eac292af373b1d72feca7f9",
+    "advertising_info": null,
+    "alcohol_permille": 0,
+    "allowed_delivery_methods": [
+      "eatin",
+      "takeaway",
+      "homedelivery"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 0,
+        "end_time": 86400000
+      }
+    ],
+    "barcode_gtin": "04770190036016",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "c2d901874dde130a6b6d5e382aacc4e2",
+    "description": "Креветки ''Vici'' в рассоле из отборных морепродуктов, выловленных в холодных арктических водах. Их отличает плотная упругая консистенция, солоноватый вкус и большое количество микроэлементов, накопленных за время активного роста в естественной среде.",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": true,
+    "images": [
+      {
+        "url": "https://imageproxy.wolt.com/assets/688b9e7ab2b18bf1da538a8a",
+        "blurhash": "LXRyjJWC_Nt6azayoekB.8oeMdWC"
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": true,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": 5,
+    "min_quantity_per_purchase": null,
+    "name": "Vici Любо Есть Креветки Атлантического Океана Отверные в Рассоле, охлажденные 200г",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 237000,
+    "product_hierarchy_tags": [
+      "UNKNOWN"
+    ],
+    "purchasable_balance": 1,
+    "restrictions": [],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": true,
+    "tags": [],
+    "unit_info": "1 шт",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 237000,
+      "unit": "piece"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 12,
+    "vat_percentage_decimal": "12.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    }
+  },
+  {
     "id": "956c305d557bd499bfc5269d",
     "advertising_info": null,
     "alcohol_permille": 0,
@@ -58,7 +140,7 @@
     "product_hierarchy_tags": [
       "PERISHABLE"
     ],
-    "purchasable_balance": 1,
+    "purchasable_balance": 2,
     "restrictions": [],
     "return_policy": null,
     "sell_by_weight_config": null,
@@ -164,6 +246,88 @@
     }
   },
   {
+    "id": "1bb06ae3e0a5905f299abebd",
+    "advertising_info": null,
+    "alcohol_permille": 0,
+    "allowed_delivery_methods": [
+      "eatin",
+      "takeaway",
+      "homedelivery"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 0,
+        "end_time": 86400000
+      }
+    ],
+    "barcode_gtin": "04770190094214",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "8d4f7572628e1281a4a2d15ffe47031a",
+    "description": "Торговая марка Vici представляет ассорти из сыро-мороженых морепродуктов с варено-морожеными формованными изделиями из сурими. Для его создания используются морепродукты, выловленные в Тихом океане. Этот микс придется по душе любителям блюд с морским акцентом! Приготовьте и подавайте ассорти как самостоятельное блюдо или в составе салатов.",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": true,
+    "images": [
+      {
+        "url": "https://imageproxy.wolt.com/assets/6888bf6b1f0cac713af66b84",
+        "blurhash": "LhR3ZnWB~Wt7o#a#jEoJx^j[M_WU"
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": true,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "Vici Ассорти Из Морепродуктов, Замороженное 400Г",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 305000,
+    "product_hierarchy_tags": [
+      "UNKNOWN"
+    ],
+    "purchasable_balance": 1,
+    "restrictions": [],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": true,
+    "tags": [],
+    "unit_info": "400 г",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 762500,
+      "unit": "kilogram"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 12,
+    "vat_percentage_decimal": "12.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    }
+  },
+  {
     "id": "ffe5d2c4256a3b1d49bb129f",
     "advertising_info": null,
     "alcohol_permille": 0,
@@ -246,6 +410,88 @@
     }
   },
   {
+    "id": "54609dae0d9a48416d69d82e",
+    "advertising_info": null,
+    "alcohol_permille": 0,
+    "allowed_delivery_methods": [
+      "homedelivery",
+      "eatin",
+      "takeaway"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 0,
+        "end_time": 86400000
+      }
+    ],
+    "barcode_gtin": "04770190042802",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "b3ba7ffc9e09c69de722e21a4af1d829",
+    "description": "Осьминоги маленькие отварные в рассоле ''Любо есть'' охл. ' VICI' 200 г.",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": true,
+    "images": [
+      {
+        "url": "https://imageproxy.wolt.com/assets/6888bf6a1f0cac713af66b6a",
+        "blurhash": "LvQJZZj[~qfjozayadj[%gj[M{ay"
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": true,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "Vici Любо Есть Осьминоги Маленькие Отварные в Рассоле, охлажденные 200г",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 251000,
+    "product_hierarchy_tags": [
+      "PERISHABLE"
+    ],
+    "purchasable_balance": 1,
+    "restrictions": [],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": true,
+    "tags": [],
+    "unit_info": "1 шт",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 251000,
+      "unit": "piece"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 12,
+    "vat_percentage_decimal": "12.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    }
+  },
+  {
     "id": "4d4414b662d620a79f77d0f0",
     "advertising_info": null,
     "alcohol_permille": 0,
@@ -315,6 +561,88 @@
       "base": 1,
       "original_price": null,
       "price": 51000,
+      "unit": "piece"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 12,
+    "vat_percentage_decimal": "12.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    }
+  },
+  {
+    "id": "d33e4c86dadd578e6d146b24",
+    "advertising_info": null,
+    "alcohol_permille": 0,
+    "allowed_delivery_methods": [
+      "homedelivery",
+      "eatin",
+      "takeaway"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 0,
+        "end_time": 86400000
+      }
+    ],
+    "barcode_gtin": "04607010736576",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "b088a6e1d752847e1ab3dda3bba2a48f",
+    "description": "",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": true,
+    "images": [
+      {
+        "url": "https://imageproxy.wolt.com/assets/6888ba951f0cac713af62a23",
+        "blurhash": "LuP??uof~pR*Ipayt6oet7ayRkkC"
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": true,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": 5,
+    "min_quantity_per_purchase": null,
+    "name": "Кальмар рубленый в классическом соусе 'Балтийский Берег' 150 гр.",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 132000,
+    "product_hierarchy_tags": [
+      "UNKNOWN"
+    ],
+    "purchasable_balance": 3,
+    "restrictions": [],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": true,
+    "tags": [],
+    "unit_info": "1 шт",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 132000,
       "unit": "piece"
     },
     "variant": null,
@@ -468,7 +796,7 @@
     "product_hierarchy_tags": [
       "UNKNOWN"
     ],
-    "purchasable_balance": 2,
+    "purchasable_balance": 6,
     "restrictions": [],
     "return_policy": null,
     "sell_by_weight_config": null,
@@ -889,6 +1217,2522 @@
       "base": 1,
       "original_price": null,
       "price": 4420000,
+      "unit": "kilogram"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 12,
+    "vat_percentage_decimal": "12.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    }
+  },
+  {
+    "id": "dc4824602a39a000f507264c",
+    "advertising_info": null,
+    "alcohol_permille": 0,
+    "allowed_delivery_methods": [
+      "eatin",
+      "takeaway",
+      "homedelivery"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 0,
+        "end_time": 86400000
+      }
+    ],
+    "barcode_gtin": "04770190087391",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "3a2d3610854fba09e4ac1e4d4a4fbad3",
+    "description": "Сельдь Vici Любо есть Оригинальная филе-кусочки в масле, 200 г. Ровные кусочки филе сельди приготовленые по оригинальной рецептуре посола селедки.",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": true,
+    "images": [
+      {
+        "url": "https://imageproxy.wolt.com/assets/6888ba7d1f0cac713af62689",
+        "blurhash": "LmQmCps:~qR+kCayjZj]-:WVM|oc"
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": true,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "Vici Любо Есть Сельдь Оригинальная Филе Кусочки в Масле, охлажденная 200г",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 141500,
+    "product_hierarchy_tags": [
+      "PERISHABLE"
+    ],
+    "purchasable_balance": 2,
+    "restrictions": [],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": true,
+    "tags": [],
+    "unit_info": "1 шт",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 141500,
+      "unit": "piece"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 12,
+    "vat_percentage_decimal": "12.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    }
+  },
+  {
+    "id": "c7a2c08528f213f481647fff",
+    "advertising_info": null,
+    "alcohol_permille": 0,
+    "allowed_delivery_methods": [
+      "homedelivery",
+      "eatin",
+      "takeaway"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 0,
+        "end_time": 86400000
+      }
+    ],
+    "barcode_gtin": "04770190087407",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "d59ca1006fd5c5c988e4e327afcd3222",
+    "description": "Рыба содержит основные питательные вещества, необходимые человеку. Омега-3 жирные кислоты - для здоровой работы сердца, также богата жирорастворимыми витаминами A, D и B.",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": true,
+    "images": [
+      {
+        "url": "https://imageproxy.wolt.com/assets/688b99cd23fa16f725af7fbb",
+        "blurhash": "LkRC;]j[_4f7WqfPoLj[%3azNZkB"
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": true,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "Vici Любо Есть Сельдь Царская Филе Кусочки в Масле с Укропом, охлажденная 200г",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 141500,
+    "product_hierarchy_tags": [
+      "PERISHABLE"
+    ],
+    "purchasable_balance": 6,
+    "restrictions": [],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": true,
+    "tags": [],
+    "unit_info": "1 шт",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 141500,
+      "unit": "piece"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 12,
+    "vat_percentage_decimal": "12.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    }
+  },
+  {
+    "id": "2c060d0cb88e848f239f59f1",
+    "advertising_info": null,
+    "alcohol_permille": 0,
+    "allowed_delivery_methods": [
+      "homedelivery",
+      "eatin",
+      "takeaway"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 0,
+        "end_time": 86400000
+      }
+    ],
+    "barcode_gtin": "04770190377904",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "5cd5b5fa2762cedd5c9fb1500afe7fcc",
+    "description": "Крупное отборное филе по традиционной рецептуре посола сельди с уменьшенным количеством соли.",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": true,
+    "images": [
+      {
+        "url": "https://imageproxy.wolt.com/assets/6888ba811f0cac713af62738",
+        "blurhash": "LmQ]]2of~WWBkDWCjFofo#f6aJj["
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": true,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": 5,
+    "min_quantity_per_purchase": null,
+    "name": "Vici Сельдь Слабосоленая Филе в Масле, охлажденная 240г",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 158500,
+    "product_hierarchy_tags": [
+      "PERISHABLE"
+    ],
+    "purchasable_balance": 2,
+    "restrictions": [],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": true,
+    "tags": [],
+    "unit_info": "1 шт",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 158500,
+      "unit": "piece"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 12,
+    "vat_percentage_decimal": "12.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    }
+  },
+  {
+    "id": "f05c2a32627fff5df83e7f0b",
+    "advertising_info": null,
+    "alcohol_permille": 0,
+    "allowed_delivery_methods": [
+      "homedelivery",
+      "eatin",
+      "takeaway"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 0,
+        "end_time": 86400000
+      }
+    ],
+    "barcode_gtin": "04770190062947",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "a4e783f9d5bb5bb4077743c99e9d85f3",
+    "description": "Сельдь - это рыба, богатая витаминами, минеральными веществами, а также содержит омега жирные кислоты. Сельдь не проходит термообработку, поэтому вся польза в ней сохраняется.",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": true,
+    "images": [
+      {
+        "url": "https://imageproxy.wolt.com/assets/6888bb6023fa16f725a97139",
+        "blurhash": "LgQ,Xat6~WNHkWt6nhM|XAjsngW;"
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": true,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "Vici Сельдь Традиционная Филе Кусочки в Масле, охлажденная 400г",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 227000,
+    "product_hierarchy_tags": [
+      "PERISHABLE"
+    ],
+    "purchasable_balance": 2,
+    "restrictions": [],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": true,
+    "tags": [],
+    "unit_info": "1 шт",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 227000,
+      "unit": "piece"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 12,
+    "vat_percentage_decimal": "12.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    }
+  },
+  {
+    "id": "eeeb6c618bcba1f0a2af53d1",
+    "advertising_info": null,
+    "alcohol_permille": 0,
+    "allowed_delivery_methods": [
+      "homedelivery",
+      "eatin",
+      "takeaway"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 0,
+        "end_time": 86400000
+      }
+    ],
+    "barcode_gtin": "04770190035781",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "77de44e0d8c2ed030be36c066615619c",
+    "description": "Сельдь - это рыба, богатая витаминами, минеральными веществами, а также содержит омега жирные кислоты. Сельдь не проходит термообработку, поэтому вся польза в ней сохраняется.",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": true,
+    "images": [
+      {
+        "url": "https://imageproxy.wolt.com/assets/688b9e7bb2b18bf1da538aba",
+        "blurhash": "LnQ]=_of~pWCkDWCjYofkXf7jDj["
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": true,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "Vici Сельдь Традиционная Филе в Масле, охлажденная 240г",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 159000,
+    "product_hierarchy_tags": [
+      "PERISHABLE"
+    ],
+    "purchasable_balance": 1,
+    "restrictions": [],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": true,
+    "tags": [],
+    "unit_info": "1 шт",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 159000,
+      "unit": "piece"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 12,
+    "vat_percentage_decimal": "12.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    }
+  },
+  {
+    "id": "73ede38b28727b520c2c58bc",
+    "advertising_info": null,
+    "alcohol_permille": 0,
+    "allowed_delivery_methods": [
+      "eatin",
+      "takeaway",
+      "homedelivery"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 0,
+        "end_time": 86400000
+      }
+    ],
+    "barcode_gtin": "04870242640052",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "e5c226c2d3a7f72ff5c94df1e642e330",
+    "description": "Пресерва Сельди",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": true,
+    "images": [
+      {
+        "url": "https://imageproxy.wolt.com/assets/6888be0aa3eb62eeb9561d03",
+        "blurhash": "LsQvtHay~qogxuayM{j[%NkCM_WB"
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": true,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "Rokos Fish Селедочка К Картошечке В Масле 180г",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 136000,
+    "product_hierarchy_tags": [],
+    "purchasable_balance": 1,
+    "restrictions": [],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": true,
+    "tags": [],
+    "unit_info": "1 шт",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 136000,
+      "unit": "piece"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 12,
+    "vat_percentage_decimal": "12.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    }
+  },
+  {
+    "id": "3780384a0f5ae6dd503d7ae5",
+    "advertising_info": null,
+    "alcohol_permille": 0,
+    "allowed_delivery_methods": [
+      "eatin",
+      "takeaway",
+      "homedelivery"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 0,
+        "end_time": 86400000
+      }
+    ],
+    "barcode_gtin": "04870242640045",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "fdb51f3e1f058bcd9ba3c31fd1534344",
+    "description": "Пресерва Сельди",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": true,
+    "images": [
+      {
+        "url": "https://imageproxy.wolt.com/assets/6888be0aa3eb62eeb9561cf6",
+        "blurhash": "LsQvtHay_NofxuayM{j[%Nj]M_WB"
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": true,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "Rokos Fish Селедочка Классическая В Масле 180г",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 136000,
+    "product_hierarchy_tags": [],
+    "purchasable_balance": 4,
+    "restrictions": [],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": true,
+    "tags": [],
+    "unit_info": "1 шт",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 136000,
+      "unit": "piece"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 12,
+    "vat_percentage_decimal": "12.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    }
+  },
+  {
+    "id": "bfb99c5e6e8f79ed29243300",
+    "advertising_info": null,
+    "alcohol_permille": 0,
+    "allowed_delivery_methods": [
+      "homedelivery",
+      "eatin",
+      "takeaway"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 0,
+        "end_time": 86400000
+      }
+    ],
+    "barcode_gtin": "04680023469518",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "c634752c1580ac414d5e67ba2ecf5eea",
+    "description": "Если бы скумбрия могла говорить, она, вероятно, сказала бы: «Ура!» Потому что продукты из копченой скумбрии богаты жирными кислотами омега-3, укрепляют иммунитет, улучшают работу мозга, делают жизнь несравненно вкуснее – полезнее – восхитительнее!",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": true,
+    "images": [
+      {
+        "url": "https://imageproxy.wolt.com/assets/6888bf6a1f0cac713af66b5c",
+        "blurhash": "LCS?DVof~pt7kXfQn#ay%gfkIAay"
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": true,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": 5,
+    "min_quantity_per_purchase": null,
+    "name": "Vici Скумбрия Атлантическая Кусочки Холодного Копчения, охлажденные 250г",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 271500,
+    "product_hierarchy_tags": [
+      "PERISHABLE"
+    ],
+    "purchasable_balance": 4,
+    "restrictions": [],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": true,
+    "tags": [],
+    "unit_info": "1 шт",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 271500,
+      "unit": "piece"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 12,
+    "vat_percentage_decimal": "12.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    }
+  },
+  {
+    "id": "a50e7c0fe02c66f3a066b16a",
+    "advertising_info": null,
+    "alcohol_permille": 0,
+    "allowed_delivery_methods": [
+      "eatin",
+      "takeaway",
+      "homedelivery"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 0,
+        "end_time": 86400000
+      }
+    ],
+    "barcode_gtin": "04870242640038",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "05062c7f3e7c872f8e97eb9e6ae9e31d",
+    "description": "Пресерва Сельди",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": true,
+    "images": [
+      {
+        "url": "https://imageproxy.wolt.com/assets/6888bb4b23fa16f725a96d99",
+        "blurhash": "LrQvqBaf~qoyxuayM{j[%gkCMxWB"
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": true,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "Rokos Fish Селедочка Застольная В Масле 180г",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 136000,
+    "product_hierarchy_tags": [],
+    "purchasable_balance": 15,
+    "restrictions": [],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": false,
+    "tags": [],
+    "unit_info": "1 шт",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 136000,
+      "unit": "piece"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 12,
+    "vat_percentage_decimal": "12.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    }
+  },
+  {
+    "id": "38f8e6c25fe2b3d363c029aa",
+    "advertising_info": null,
+    "alcohol_permille": 0,
+    "allowed_delivery_methods": [
+      "eatin",
+      "takeaway",
+      "homedelivery"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 0,
+        "end_time": 86400000
+      }
+    ],
+    "barcode_gtin": "04770190082112",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "54c6db71c3d1255ec9f6c84fe8a306f5",
+    "description": "Рыба содержит основные питательные вещества, необходимые человеку. Омега-3 жирные кислоты - для здоровой работы сердца, также богата жирорастворимыми витаминами A, D и B.",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": true,
+    "images": [
+      {
+        "url": "https://imageproxy.wolt.com/assets/6888bfa7a3eb62eeb95651fc",
+        "blurhash": "LnP%V2WA~WozX9ofjERj%Nj]RjoJ"
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": true,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "Vici Любо Есть Сельдь Царская Филе Кусочки в Масле с Укропом, охлажденная 500г",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 324500,
+    "product_hierarchy_tags": [
+      "PERISHABLE"
+    ],
+    "purchasable_balance": 7,
+    "restrictions": [],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": true,
+    "tags": [],
+    "unit_info": "1 шт",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 324500,
+      "unit": "piece"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 12,
+    "vat_percentage_decimal": "12.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    }
+  },
+  {
+    "id": "dc4824602a39a000f507264c",
+    "advertising_info": null,
+    "alcohol_permille": 0,
+    "allowed_delivery_methods": [
+      "eatin",
+      "takeaway",
+      "homedelivery"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 0,
+        "end_time": 86400000
+      }
+    ],
+    "barcode_gtin": "04770190087391",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "3a2d3610854fba09e4ac1e4d4a4fbad3",
+    "description": "Сельдь Vici Любо есть Оригинальная филе-кусочки в масле, 200 г. Ровные кусочки филе сельди приготовленые по оригинальной рецептуре посола селедки.",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": true,
+    "images": [
+      {
+        "url": "https://imageproxy.wolt.com/assets/6888ba7d1f0cac713af62689",
+        "blurhash": "LmQmCps:~qR+kCayjZj]-:WVM|oc"
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": true,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "Vici Любо Есть Сельдь Оригинальная Филе Кусочки в Масле, охлажденная 200г",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 141500,
+    "product_hierarchy_tags": [
+      "PERISHABLE"
+    ],
+    "purchasable_balance": 2,
+    "restrictions": [],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": true,
+    "tags": [],
+    "unit_info": "1 шт",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 141500,
+      "unit": "piece"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 12,
+    "vat_percentage_decimal": "12.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    }
+  },
+  {
+    "id": "c7a2c08528f213f481647fff",
+    "advertising_info": null,
+    "alcohol_permille": 0,
+    "allowed_delivery_methods": [
+      "homedelivery",
+      "eatin",
+      "takeaway"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 0,
+        "end_time": 86400000
+      }
+    ],
+    "barcode_gtin": "04770190087407",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "d59ca1006fd5c5c988e4e327afcd3222",
+    "description": "Рыба содержит основные питательные вещества, необходимые человеку. Омега-3 жирные кислоты - для здоровой работы сердца, также богата жирорастворимыми витаминами A, D и B.",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": true,
+    "images": [
+      {
+        "url": "https://imageproxy.wolt.com/assets/688b99cd23fa16f725af7fbb",
+        "blurhash": "LkRC;]j[_4f7WqfPoLj[%3azNZkB"
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": true,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "Vici Любо Есть Сельдь Царская Филе Кусочки в Масле с Укропом, охлажденная 200г",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 141500,
+    "product_hierarchy_tags": [
+      "PERISHABLE"
+    ],
+    "purchasable_balance": 6,
+    "restrictions": [],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": true,
+    "tags": [],
+    "unit_info": "1 шт",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 141500,
+      "unit": "piece"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 12,
+    "vat_percentage_decimal": "12.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    }
+  },
+  {
+    "id": "2c060d0cb88e848f239f59f1",
+    "advertising_info": null,
+    "alcohol_permille": 0,
+    "allowed_delivery_methods": [
+      "homedelivery",
+      "eatin",
+      "takeaway"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 0,
+        "end_time": 86400000
+      }
+    ],
+    "barcode_gtin": "04770190377904",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "5cd5b5fa2762cedd5c9fb1500afe7fcc",
+    "description": "Крупное отборное филе по традиционной рецептуре посола сельди с уменьшенным количеством соли.",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": true,
+    "images": [
+      {
+        "url": "https://imageproxy.wolt.com/assets/6888ba811f0cac713af62738",
+        "blurhash": "LmQ]]2of~WWBkDWCjFofo#f6aJj["
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": true,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": 5,
+    "min_quantity_per_purchase": null,
+    "name": "Vici Сельдь Слабосоленая Филе в Масле, охлажденная 240г",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 158500,
+    "product_hierarchy_tags": [
+      "PERISHABLE"
+    ],
+    "purchasable_balance": 2,
+    "restrictions": [],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": true,
+    "tags": [],
+    "unit_info": "1 шт",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 158500,
+      "unit": "piece"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 12,
+    "vat_percentage_decimal": "12.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    }
+  },
+  {
+    "id": "f05c2a32627fff5df83e7f0b",
+    "advertising_info": null,
+    "alcohol_permille": 0,
+    "allowed_delivery_methods": [
+      "homedelivery",
+      "eatin",
+      "takeaway"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 0,
+        "end_time": 86400000
+      }
+    ],
+    "barcode_gtin": "04770190062947",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "a4e783f9d5bb5bb4077743c99e9d85f3",
+    "description": "Сельдь - это рыба, богатая витаминами, минеральными веществами, а также содержит омега жирные кислоты. Сельдь не проходит термообработку, поэтому вся польза в ней сохраняется.",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": true,
+    "images": [
+      {
+        "url": "https://imageproxy.wolt.com/assets/6888bb6023fa16f725a97139",
+        "blurhash": "LgQ,Xat6~WNHkWt6nhM|XAjsngW;"
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": true,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "Vici Сельдь Традиционная Филе Кусочки в Масле, охлажденная 400г",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 227000,
+    "product_hierarchy_tags": [
+      "PERISHABLE"
+    ],
+    "purchasable_balance": 2,
+    "restrictions": [],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": true,
+    "tags": [],
+    "unit_info": "1 шт",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 227000,
+      "unit": "piece"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 12,
+    "vat_percentage_decimal": "12.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    }
+  },
+  {
+    "id": "eeeb6c618bcba1f0a2af53d1",
+    "advertising_info": null,
+    "alcohol_permille": 0,
+    "allowed_delivery_methods": [
+      "homedelivery",
+      "eatin",
+      "takeaway"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 0,
+        "end_time": 86400000
+      }
+    ],
+    "barcode_gtin": "04770190035781",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "77de44e0d8c2ed030be36c066615619c",
+    "description": "Сельдь - это рыба, богатая витаминами, минеральными веществами, а также содержит омега жирные кислоты. Сельдь не проходит термообработку, поэтому вся польза в ней сохраняется.",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": true,
+    "images": [
+      {
+        "url": "https://imageproxy.wolt.com/assets/688b9e7bb2b18bf1da538aba",
+        "blurhash": "LnQ]=_of~pWCkDWCjYofkXf7jDj["
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": true,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "Vici Сельдь Традиционная Филе в Масле, охлажденная 240г",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 159000,
+    "product_hierarchy_tags": [
+      "PERISHABLE"
+    ],
+    "purchasable_balance": 1,
+    "restrictions": [],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": true,
+    "tags": [],
+    "unit_info": "1 шт",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 159000,
+      "unit": "piece"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 12,
+    "vat_percentage_decimal": "12.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    }
+  },
+  {
+    "id": "73ede38b28727b520c2c58bc",
+    "advertising_info": null,
+    "alcohol_permille": 0,
+    "allowed_delivery_methods": [
+      "eatin",
+      "takeaway",
+      "homedelivery"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 0,
+        "end_time": 86400000
+      }
+    ],
+    "barcode_gtin": "04870242640052",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "e5c226c2d3a7f72ff5c94df1e642e330",
+    "description": "Пресерва Сельди",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": true,
+    "images": [
+      {
+        "url": "https://imageproxy.wolt.com/assets/6888be0aa3eb62eeb9561d03",
+        "blurhash": "LsQvtHay~qogxuayM{j[%NkCM_WB"
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": true,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "Rokos Fish Селедочка К Картошечке В Масле 180г",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 136000,
+    "product_hierarchy_tags": [],
+    "purchasable_balance": 1,
+    "restrictions": [],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": true,
+    "tags": [],
+    "unit_info": "1 шт",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 136000,
+      "unit": "piece"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 12,
+    "vat_percentage_decimal": "12.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    }
+  },
+  {
+    "id": "3780384a0f5ae6dd503d7ae5",
+    "advertising_info": null,
+    "alcohol_permille": 0,
+    "allowed_delivery_methods": [
+      "eatin",
+      "takeaway",
+      "homedelivery"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 0,
+        "end_time": 86400000
+      }
+    ],
+    "barcode_gtin": "04870242640045",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "fdb51f3e1f058bcd9ba3c31fd1534344",
+    "description": "Пресерва Сельди",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": true,
+    "images": [
+      {
+        "url": "https://imageproxy.wolt.com/assets/6888be0aa3eb62eeb9561cf6",
+        "blurhash": "LsQvtHay_NofxuayM{j[%Nj]M_WB"
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": true,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "Rokos Fish Селедочка Классическая В Масле 180г",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 136000,
+    "product_hierarchy_tags": [],
+    "purchasable_balance": 4,
+    "restrictions": [],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": true,
+    "tags": [],
+    "unit_info": "1 шт",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 136000,
+      "unit": "piece"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 12,
+    "vat_percentage_decimal": "12.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    }
+  },
+  {
+    "id": "bfb99c5e6e8f79ed29243300",
+    "advertising_info": null,
+    "alcohol_permille": 0,
+    "allowed_delivery_methods": [
+      "homedelivery",
+      "eatin",
+      "takeaway"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 0,
+        "end_time": 86400000
+      }
+    ],
+    "barcode_gtin": "04680023469518",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "c634752c1580ac414d5e67ba2ecf5eea",
+    "description": "Если бы скумбрия могла говорить, она, вероятно, сказала бы: «Ура!» Потому что продукты из копченой скумбрии богаты жирными кислотами омега-3, укрепляют иммунитет, улучшают работу мозга, делают жизнь несравненно вкуснее – полезнее – восхитительнее!",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": true,
+    "images": [
+      {
+        "url": "https://imageproxy.wolt.com/assets/6888bf6a1f0cac713af66b5c",
+        "blurhash": "LCS?DVof~pt7kXfQn#ay%gfkIAay"
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": true,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": 5,
+    "min_quantity_per_purchase": null,
+    "name": "Vici Скумбрия Атлантическая Кусочки Холодного Копчения, охлажденные 250г",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 271500,
+    "product_hierarchy_tags": [
+      "PERISHABLE"
+    ],
+    "purchasable_balance": 4,
+    "restrictions": [],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": true,
+    "tags": [],
+    "unit_info": "1 шт",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 271500,
+      "unit": "piece"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 12,
+    "vat_percentage_decimal": "12.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    }
+  },
+  {
+    "id": "a50e7c0fe02c66f3a066b16a",
+    "advertising_info": null,
+    "alcohol_permille": 0,
+    "allowed_delivery_methods": [
+      "eatin",
+      "takeaway",
+      "homedelivery"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 0,
+        "end_time": 86400000
+      }
+    ],
+    "barcode_gtin": "04870242640038",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "05062c7f3e7c872f8e97eb9e6ae9e31d",
+    "description": "Пресерва Сельди",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": true,
+    "images": [
+      {
+        "url": "https://imageproxy.wolt.com/assets/6888bb4b23fa16f725a96d99",
+        "blurhash": "LrQvqBaf~qoyxuayM{j[%gkCMxWB"
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": true,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "Rokos Fish Селедочка Застольная В Масле 180г",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 136000,
+    "product_hierarchy_tags": [],
+    "purchasable_balance": 15,
+    "restrictions": [],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": false,
+    "tags": [],
+    "unit_info": "1 шт",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 136000,
+      "unit": "piece"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 12,
+    "vat_percentage_decimal": "12.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    }
+  },
+  {
+    "id": "38f8e6c25fe2b3d363c029aa",
+    "advertising_info": null,
+    "alcohol_permille": 0,
+    "allowed_delivery_methods": [
+      "eatin",
+      "takeaway",
+      "homedelivery"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 0,
+        "end_time": 86400000
+      }
+    ],
+    "barcode_gtin": "04770190082112",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "54c6db71c3d1255ec9f6c84fe8a306f5",
+    "description": "Рыба содержит основные питательные вещества, необходимые человеку. Омега-3 жирные кислоты - для здоровой работы сердца, также богата жирорастворимыми витаминами A, D и B.",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": true,
+    "images": [
+      {
+        "url": "https://imageproxy.wolt.com/assets/6888bfa7a3eb62eeb95651fc",
+        "blurhash": "LnP%V2WA~WozX9ofjERj%Nj]RjoJ"
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": true,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "Vici Любо Есть Сельдь Царская Филе Кусочки в Масле с Укропом, охлажденная 500г",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 324500,
+    "product_hierarchy_tags": [
+      "PERISHABLE"
+    ],
+    "purchasable_balance": 7,
+    "restrictions": [],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": true,
+    "tags": [],
+    "unit_info": "1 шт",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 324500,
+      "unit": "piece"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 12,
+    "vat_percentage_decimal": "12.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    }
+  },
+  {
+    "id": "d5e1375b3e9d959116c1c421",
+    "advertising_info": null,
+    "alcohol_permille": 0,
+    "allowed_delivery_methods": [
+      "homedelivery",
+      "eatin",
+      "takeaway"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 0,
+        "end_time": 86400000
+      }
+    ],
+    "barcode_gtin": "04610101142163",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "10a0a4608a81fe3581dc110ff2f01616",
+    "description": "Крабовые палочки «Снежный краб» — это очень нежный и сочный продукт, приготовленный на основе рыбного фарша. Они отличаются низким содержанием калорий, поэтому могут\n использоваться в качестве диетического питания. Крабовые палочки можно употреблять в самостоятельном виде или добавлять в салаты и другие блюда. Они содержат в себе большое количество белка и легко усваиваются. Имитация из сурими.",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": true,
+    "images": [
+      {
+        "url": "https://imageproxy.wolt.com/assets/688b9e32b2b18bf1da5384e6",
+        "blurhash": "L@Q+Ncof.maeX8fQn%j@xvf7NFbF"
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": true,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "Vici Крабовые Палочки Снежный Краб (Имитация из Сурими), охлажденные 200+50г",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 266000,
+    "product_hierarchy_tags": [
+      "PERISHABLE"
+    ],
+    "purchasable_balance": 3,
+    "restrictions": [],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": true,
+    "tags": [],
+    "unit_info": "1 шт",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 266000,
+      "unit": "piece"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 12,
+    "vat_percentage_decimal": "12.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    }
+  },
+  {
+    "id": "28d3b668c1b08dd5fef89436",
+    "advertising_info": null,
+    "alcohol_permille": 0,
+    "allowed_delivery_methods": [
+      "homedelivery",
+      "takeaway",
+      "eatin"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 0,
+        "end_time": 86400000
+      }
+    ],
+    "barcode_gtin": "04680020590475",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "f984c204baa42f93fa8ac09d7a42d7a4",
+    "description": "",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": true,
+    "images": [
+      {
+        "url": "https://imageproxy.wolt.com/assets/6808d7a34fd375dd128a2d68",
+        "blurhash": "LxRC#qae_4ozWDfQoefj-=j[ITf6"
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": true,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "10% БУТЕРБРОДНАЯ Икорная закуска №1 красная/чёрная банка 180г",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 89000,
+    "product_hierarchy_tags": [],
+    "purchasable_balance": 4,
+    "restrictions": [],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": true,
+    "tags": [],
+    "unit_info": "180 г",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 494444,
+      "unit": "kilogram"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 12,
+    "vat_percentage_decimal": "12.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    }
+  },
+  {
+    "id": "56d707b335ee6362cab3f7cc",
+    "advertising_info": null,
+    "alcohol_permille": 0,
+    "allowed_delivery_methods": [
+      "homedelivery",
+      "takeaway",
+      "eatin"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 0,
+        "end_time": 86400000
+      }
+    ],
+    "barcode_gtin": "04680020590123",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "3779dc3d54135cc101e6ad77e19a85a8",
+    "description": "",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": true,
+    "images": [
+      {
+        "url": "https://imageproxy.wolt.com/assets/6808d7a34fd375dd128a2d65",
+        "blurhash": "LzQcepWB_Nt7NGayt7j[-=j[IUWV"
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": true,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "10% Икорная закуска №1 красная (113г)",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 94000,
+    "product_hierarchy_tags": [],
+    "purchasable_balance": 8,
+    "restrictions": [],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": false,
+    "tags": [],
+    "unit_info": "113 г",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 831858,
+      "unit": "kilogram"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 12,
+    "vat_percentage_decimal": "12.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    }
+  },
+  {
+    "id": "44a034cf5fca9a6de21e6484",
+    "advertising_info": null,
+    "alcohol_permille": 0,
+    "allowed_delivery_methods": [
+      "homedelivery",
+      "takeaway",
+      "eatin"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 0,
+        "end_time": 86400000
+      }
+    ],
+    "barcode_gtin": "04680020590130",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "179e6041d9fdae22158e8d5a6abb5543",
+    "description": "",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": true,
+    "images": [
+      {
+        "url": "https://imageproxy.wolt.com/assets/6808d7a34fd375dd128a2d66",
+        "blurhash": "LzQT1AWB_4t7Riayt7j[-=j[IUay"
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": true,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "10% Икорная закуска №1 чёрная (113г)",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 94000,
+    "product_hierarchy_tags": [],
+    "purchasable_balance": 6,
+    "restrictions": [],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": true,
+    "tags": [],
+    "unit_info": "113 г",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 831858,
+      "unit": "kilogram"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 12,
+    "vat_percentage_decimal": "12.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    }
+  },
+  {
+    "id": "d373f49e826e57654d15ae0c",
+    "advertising_info": null,
+    "alcohol_permille": 0,
+    "allowed_delivery_methods": [
+      "homedelivery",
+      "takeaway",
+      "eatin"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 0,
+        "end_time": 86400000
+      }
+    ],
+    "barcode_gtin": "04680020590307",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "33ebf5ae8f0df9d4f84292842defa36e",
+    "description": "",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": true,
+    "images": [
+      {
+        "url": "https://imageproxy.wolt.com/assets/6808d7a34fd375dd128a2d67",
+        "blurhash": null
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": true,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "10% Тайна океана красная (150г) стакан",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 68000,
+    "product_hierarchy_tags": [],
+    "purchasable_balance": 5,
+    "restrictions": [],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": true,
+    "tags": [],
+    "unit_info": "150 г",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 453333,
+      "unit": "kilogram"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 12,
+    "vat_percentage_decimal": "12.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    }
+  },
+  {
+    "id": "e4345199c068e9c80f2bd896",
+    "advertising_info": null,
+    "alcohol_permille": 0,
+    "allowed_delivery_methods": [
+      "homedelivery",
+      "takeaway",
+      "eatin"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 0,
+        "end_time": 86400000
+      }
+    ],
+    "barcode_gtin": "04680020590055",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "f5790f973eb67b8fa93907b81e722835",
+    "description": "",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": true,
+    "images": [
+      {
+        "url": "https://imageproxy.wolt.com/assets/6808d7a34fd375dd128a2d62",
+        "blurhash": "LxQ]m8ae_NozR*j[ofay.8j[IUay"
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": true,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "10% Икорная самба красная (180г) стакан",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 67000,
+    "product_hierarchy_tags": [],
+    "purchasable_balance": 5,
+    "restrictions": [],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": true,
+    "tags": [],
+    "unit_info": "180 г",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 372222,
+      "unit": "kilogram"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 12,
+    "vat_percentage_decimal": "12.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    }
+  },
+  {
+    "id": "4626effabf5fbb87c7d888d3",
+    "advertising_info": null,
+    "alcohol_permille": 0,
+    "allowed_delivery_methods": [
+      "homedelivery",
+      "takeaway",
+      "eatin"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 0,
+        "end_time": 86400000
+      }
+    ],
+    "barcode_gtin": "04680020590062",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "ff9015cd22e6bf132d8c7d0d2cd68880",
+    "description": "",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": true,
+    "images": [
+      {
+        "url": "https://imageproxy.wolt.com/assets/6808d7a34fd375dd128a2d63",
+        "blurhash": null
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": true,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "10% Икорная самба чёрная (180г) стакан",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 67000,
+    "product_hierarchy_tags": [],
+    "purchasable_balance": 10,
+    "restrictions": [],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": false,
+    "tags": [],
+    "unit_info": "180 г",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 372222,
+      "unit": "kilogram"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 12,
+    "vat_percentage_decimal": "12.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    }
+  },
+  {
+    "id": "7108491c874e0d7a03876323",
+    "advertising_info": null,
+    "alcohol_permille": 0,
+    "allowed_delivery_methods": [
+      "homedelivery",
+      "takeaway",
+      "eatin"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 0,
+        "end_time": 86400000
+      }
+    ],
+    "barcode_gtin": "04680020590086",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "a00ce826f78e8003fb4b5b8552d87a32",
+    "description": "",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": true,
+    "images": [
+      {
+        "url": "https://imageproxy.wolt.com/assets/6808d7a34fd375dd128a2d64",
+        "blurhash": "L+Qvdxae_NozR%azs:oK%gj[Mxay"
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": true,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "10% Икорная самба красная (240г) ст/банка",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 129000,
+    "product_hierarchy_tags": [],
+    "purchasable_balance": 6,
+    "restrictions": [],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": true,
+    "tags": [],
+    "unit_info": "240 г",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 537500,
+      "unit": "kilogram"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 12,
+    "vat_percentage_decimal": "12.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    }
+  },
+  {
+    "id": "e3c79b99ac5ecae43b876e1e",
+    "advertising_info": null,
+    "alcohol_permille": 0,
+    "allowed_delivery_methods": [
+      "homedelivery",
+      "takeaway",
+      "eatin"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 0,
+        "end_time": 86400000
+      }
+    ],
+    "barcode_gtin": "04610101146291",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "da07206cbf3a54e2fdaedcda433840f1",
+    "description": "Очень вкусные крабовые палочки, изготовлены из очищенного филе белых океанских рыб и богаты полезными омега - 3 кислотами и белками.",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": true,
+    "images": [
+      {
+        "url": "https://imageproxy.wolt.com/assets/688b9bbab2b18bf1da536ae5",
+        "blurhash": "LbR3TZW=~ps+t6jZWVbH~pn$9FS5"
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": true,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "Vici Душа Океана Крабовые Палочки (Имитация Из Сурими), Замороженные 240Г",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 177000,
+    "product_hierarchy_tags": [
+      "UNKNOWN"
+    ],
+    "purchasable_balance": 1,
+    "restrictions": [],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": true,
+    "tags": [],
+    "unit_info": "240 г",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 737500,
+      "unit": "kilogram"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 12,
+    "vat_percentage_decimal": "12.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    }
+  },
+  {
+    "id": "0034b02aa4388376030fa3c2",
+    "advertising_info": null,
+    "alcohol_permille": 0,
+    "allowed_delivery_methods": [
+      "homedelivery",
+      "takeaway",
+      "eatin"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 0,
+        "end_time": 86400000
+      }
+    ],
+    "barcode_gtin": "04610101145331",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "46f61f442b55a2fa2686fffa1f87c5f2",
+    "description": "Крабовые палочки. Имитация из сурими. Замороженные.",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": true,
+    "images": [
+      {
+        "url": "https://imageproxy.wolt.com/assets/6888b940b5d5dd451812e729",
+        "blurhash": "LfQ,B%j]_Mn$r=jZX8X8_MjsDjbI"
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": true,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "Vici Крабовые Палочки Halal, Замороженные 200Г",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 169000,
+    "product_hierarchy_tags": [
+      "PERISHABLE"
+    ],
+    "purchasable_balance": 6,
+    "restrictions": [],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": true,
+    "tags": [],
+    "unit_info": "200 г",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 845000,
+      "unit": "kilogram"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 12,
+    "vat_percentage_decimal": "12.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    }
+  },
+  {
+    "id": "4e2bb1b407b0bc738f6da7c8",
+    "advertising_info": null,
+    "alcohol_permille": 0,
+    "allowed_delivery_methods": [
+      "homedelivery",
+      "takeaway",
+      "eatin"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 0,
+        "end_time": 86400000
+      }
+    ],
+    "barcode_gtin": "04610101145270",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "540c5a7a644776c8416c376c33cc3379",
+    "description": "Крабовые палочки «Снежный краб» — это очень нежный и сочный продукт, приготовленный на основе рыбного\n фарша. Они отличаются низким содержанием калорий, поэтому могут использоваться в качестве диетического питания. Крабовые палочки можно употреблять в самостоятельном виде или добавлять в салаты и другие блюда. Они содержат в себе большое количество белка и легко усваиваются. Имитация из сурими.",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": true,
+    "images": [
+      {
+        "url": "https://imageproxy.wolt.com/assets/6888b946b5d5dd451812e796",
+        "blurhash": "L^Mj%LWB~qoft7ayWBofxuj[RjWV"
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": true,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "Vici Снежный Краб Крабовые Палочки, Замороженные 500Г",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 325000,
+    "product_hierarchy_tags": [
+      "UNKNOWN"
+    ],
+    "purchasable_balance": 2,
+    "restrictions": [],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": true,
+    "tags": [],
+    "unit_info": "500 г",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 650000,
       "unit": "kilogram"
     },
     "variant": null,

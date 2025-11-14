@@ -1048,7 +1048,7 @@
     "item_price_discount_validity_period": null,
     "price": 92500,
     "product_hierarchy_tags": [],
-    "purchasable_balance": 30,
+    "purchasable_balance": 29,
     "restrictions": [],
     "return_policy": null,
     "sell_by_weight_config": null,
@@ -1952,6 +1952,326 @@
     }
   },
   {
+    "id": "0e9ae72cd6ed8b7a15fe11b6",
+    "advertising_info": null,
+    "alcohol_permille": 0,
+    "allowed_delivery_methods": [
+      "homedelivery",
+      "takeaway",
+      "eatin"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 0,
+        "end_time": 86400000
+      }
+    ],
+    "barcode_gtin": "04601916007082",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "718b1e6ecfec80deae75e4ec89dbdea7",
+    "description": "",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": true,
+    "images": [
+      {
+        "url": "https://imageproxy.wolt.com/assets/688b99be23fa16f725af7d52",
+        "blurhash": "LyQA8Tn$~oT0XTbInNn#t6a#R*oI"
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": true,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "Мистраль Гречка Ядрица 5Х80 Г",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 115000,
+    "product_hierarchy_tags": [],
+    "purchasable_balance": 2,
+    "restrictions": [],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": true,
+    "tags": [],
+    "unit_info": "400 г",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 287500,
+      "unit": "kilogram"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 12,
+    "vat_percentage_decimal": "12.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    }
+  },
+  {
+    "id": "2597dc903525da138bbc09a9",
+    "advertising_info": null,
+    "alcohol_permille": 0,
+    "allowed_delivery_methods": [
+      "eatin",
+      "takeaway",
+      "homedelivery"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 0,
+        "end_time": 86400000
+      }
+    ],
+    "barcode_gtin": "04601916007105",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "e92c6ba5c35669ff44dfc03d92f41437",
+    "description": "",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": true,
+    "images": [
+      {
+        "url": "https://imageproxy.wolt.com/assets/688b99be23fa16f725af7d46",
+        "blurhash": "LxQ0aUjY~pX9SiayskkCjsa#a}oJ"
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": true,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "Мистраль Рис Кубань 5Х80Г",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 113000,
+    "product_hierarchy_tags": [],
+    "purchasable_balance": 2,
+    "restrictions": [],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": true,
+    "tags": [],
+    "unit_info": "400 г",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 282500,
+      "unit": "kilogram"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 12,
+    "vat_percentage_decimal": "12.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    }
+  },
+  {
+    "id": "ce9f469641c44f2c03520920",
+    "advertising_info": null,
+    "alcohol_permille": 0,
+    "allowed_delivery_methods": [
+      "homedelivery",
+      "takeaway",
+      "eatin"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 0,
+        "end_time": 86400000
+      }
+    ],
+    "barcode_gtin": "04601916000342",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "c04d396d31c1411d7f7d20dd651da1e1",
+    "description": "",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": true,
+    "images": [
+      {
+        "url": "https://imageproxy.wolt.com/assets/6888bf751f0cac713af66dff",
+        "blurhash": "L;P?zIoe_NR*WEays.ofofayWBof"
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": true,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "Мистраль Рис Басмати 500 Г",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 242500,
+    "product_hierarchy_tags": [],
+    "purchasable_balance": 2,
+    "restrictions": [],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": true,
+    "tags": [],
+    "unit_info": "500 г",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 485000,
+      "unit": "kilogram"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 12,
+    "vat_percentage_decimal": "12.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    }
+  },
+  {
+    "id": "16a4a0611d963bad1978e303",
+    "advertising_info": null,
+    "alcohol_permille": 0,
+    "allowed_delivery_methods": [
+      "eatin",
+      "takeaway",
+      "homedelivery"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 0,
+        "end_time": 86400000
+      }
+    ],
+    "barcode_gtin": "04601916005965",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "3c829e6dda82f35d38b9847ab37e5603",
+    "description": "",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": true,
+    "images": [
+      {
+        "url": "https://imageproxy.wolt.com/assets/6888bf6b1f0cac713af66b8c",
+        "blurhash": "L;P%Lzay~qofkCa|aejZtRf6Rjj["
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": true,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "Мистраль Рис Жасмин Red 500 Г",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 286000,
+    "product_hierarchy_tags": [],
+    "purchasable_balance": 4,
+    "restrictions": [],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": true,
+    "tags": [],
+    "unit_info": "500 г",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 572000,
+      "unit": "kilogram"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 12,
+    "vat_percentage_decimal": "12.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    }
+  },
+  {
     "id": "d0e917a2914af179860d419d",
     "advertising_info": null,
     "alcohol_permille": 0,
@@ -2019,6 +2339,86 @@
       "base": 1,
       "original_price": null,
       "price": 129500,
+      "unit": "kilogram"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 12,
+    "vat_percentage_decimal": "12.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    }
+  },
+  {
+    "id": "7223c378af9631e5257d81b4",
+    "advertising_info": null,
+    "alcohol_permille": 0,
+    "allowed_delivery_methods": [
+      "eatin",
+      "takeaway",
+      "homedelivery"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 0,
+        "end_time": 86400000
+      }
+    ],
+    "barcode_gtin": "04601916000502",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "5e568c35c8a2567fad2c03ae6f0179d2",
+    "description": "",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": true,
+    "images": [
+      {
+        "url": "https://imageproxy.wolt.com/assets/688b99be23fa16f725af7d4b",
+        "blurhash": "L,P%L,jE~pbxbcWXnhoIkCa}aeoI"
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": true,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "Мистраль Гречка Ядрица 900 Г",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 126000,
+    "product_hierarchy_tags": [],
+    "purchasable_balance": 2,
+    "restrictions": [],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": true,
+    "tags": [],
+    "unit_info": "900 г",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 140000,
       "unit": "kilogram"
     },
     "variant": null,
@@ -2179,6 +2579,86 @@
       "base": 1,
       "original_price": null,
       "price": 384444,
+      "unit": "kilogram"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 12,
+    "vat_percentage_decimal": "12.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    }
+  },
+  {
+    "id": "f03c25604532fb97085d15cd",
+    "advertising_info": null,
+    "alcohol_permille": 0,
+    "allowed_delivery_methods": [
+      "eatin",
+      "takeaway",
+      "homedelivery"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 0,
+        "end_time": 86400000
+      }
+    ],
+    "barcode_gtin": "04601916000694",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "6e72747f1fa6c188cf93bb70bce500c4",
+    "description": "",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": true,
+    "images": [
+      {
+        "url": "https://imageproxy.wolt.com/assets/688b9e2eb2b18bf1da53844b",
+        "blurhash": "L~PZcMoJ_NSOX9ayn$oLbIayjYoL"
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": true,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "Мистраль Чечевица Красная 450 Г",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 194500,
+    "product_hierarchy_tags": [],
+    "purchasable_balance": 4,
+    "restrictions": [],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": true,
+    "tags": [],
+    "unit_info": "450 г",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 432222,
       "unit": "kilogram"
     },
     "variant": null,
@@ -3448,7 +3928,7 @@
     "item_price_discount_validity_period": null,
     "price": 45000,
     "product_hierarchy_tags": [],
-    "purchasable_balance": 12,
+    "purchasable_balance": 11,
     "restrictions": [],
     "return_policy": null,
     "sell_by_weight_config": null,
@@ -3541,6 +4021,166 @@
       "base": 1,
       "original_price": null,
       "price": 253333,
+      "unit": "kilogram"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 12,
+    "vat_percentage_decimal": "12.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    }
+  },
+  {
+    "id": "5bb40b4d9fc67fb27b91a476",
+    "advertising_info": null,
+    "alcohol_permille": 0,
+    "allowed_delivery_methods": [
+      "eatin",
+      "takeaway",
+      "homedelivery"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 0,
+        "end_time": 86400000
+      }
+    ],
+    "barcode_gtin": "04601916000496",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "dcdf2567bb6f3305af88db8f69e11db4",
+    "description": "",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": true,
+    "images": [
+      {
+        "url": "https://imageproxy.wolt.com/assets/6888b9151f0cac713af60026",
+        "blurhash": "LzP?:nn~~pSjS5WWs+s-ofa}WCn~"
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": true,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "Мистраль Рис Кубань 900 Г",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 178500,
+    "product_hierarchy_tags": [],
+    "purchasable_balance": 2,
+    "restrictions": [],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": true,
+    "tags": [],
+    "unit_info": "900 г",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 198333,
+      "unit": "kilogram"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 12,
+    "vat_percentage_decimal": "12.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    }
+  },
+  {
+    "id": "ffa1ecb364be95cd82870da7",
+    "advertising_info": null,
+    "alcohol_permille": 0,
+    "allowed_delivery_methods": [
+      "eatin",
+      "takeaway",
+      "homedelivery"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 0,
+        "end_time": 86400000
+      }
+    ],
+    "barcode_gtin": "04601916000373",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "49a460969a3bea853a1cfa4bd88a94b6",
+    "description": "",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": true,
+    "images": [
+      {
+        "url": "https://imageproxy.wolt.com/assets/6888bf91a3eb62eeb9564cbd",
+        "blurhash": "L[PQBCoe~qWBWCays:ofofayWBkB"
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": true,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "Мистраль Рис Жасмин 500Г",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 185000,
+    "product_hierarchy_tags": [],
+    "purchasable_balance": 4,
+    "restrictions": [],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": true,
+    "tags": [],
+    "unit_info": "500 г",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 370000,
       "unit": "kilogram"
     },
     "variant": null,
@@ -3862,7 +4502,7 @@
     "item_price_discount_validity_period": null,
     "price": 48000,
     "product_hierarchy_tags": [],
-    "purchasable_balance": 5,
+    "purchasable_balance": 4,
     "restrictions": [],
     "return_policy": null,
     "sell_by_weight_config": null,
@@ -4434,7 +5074,7 @@
     "item_price_discount_validity_period": null,
     "price": 89500,
     "product_hierarchy_tags": [],
-    "purchasable_balance": 13,
+    "purchasable_balance": 12,
     "restrictions": [],
     "return_policy": null,
     "sell_by_weight_config": null,
@@ -6958,7 +7598,7 @@
     "item_price_discount_validity_period": null,
     "price": 50000,
     "product_hierarchy_tags": [],
-    "purchasable_balance": 15,
+    "purchasable_balance": 13,
     "restrictions": [],
     "return_policy": null,
     "sell_by_weight_config": null,
@@ -7770,7 +8410,7 @@
     "product_hierarchy_tags": [
       "PERISHABLE"
     ],
-    "purchasable_balance": 3,
+    "purchasable_balance": 2,
     "restrictions": [],
     "return_policy": null,
     "sell_by_weight_config": null,
@@ -8252,7 +8892,7 @@
     "item_price_discount_validity_period": null,
     "price": 93000,
     "product_hierarchy_tags": [],
-    "purchasable_balance": 4,
+    "purchasable_balance": 5,
     "restrictions": [],
     "return_policy": null,
     "sell_by_weight_config": null,
@@ -9076,6 +9716,246 @@
     }
   },
   {
+    "id": "c06930e24d6adb2c596f0b9d",
+    "advertising_info": null,
+    "alcohol_permille": 0,
+    "allowed_delivery_methods": [
+      "eatin",
+      "takeaway",
+      "homedelivery"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 0,
+        "end_time": 86400000
+      }
+    ],
+    "barcode_gtin": "04601916007761",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "542f6c9efff32491672d2a9a35cdeb23",
+    "description": "",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": true,
+    "images": [
+      {
+        "url": "https://imageproxy.wolt.com/assets/6888bf6a1f0cac713af66b76",
+        "blurhash": "L_Ql??j[?wf7WFfjocjbS}fkrse:"
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": true,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "Мистраль Каша Овсяная «Заряд Энергии» 40Г",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 50000,
+    "product_hierarchy_tags": [],
+    "purchasable_balance": 2,
+    "restrictions": [],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": true,
+    "tags": [],
+    "unit_info": "40 г",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 1250000,
+      "unit": "kilogram"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 12,
+    "vat_percentage_decimal": "12.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    }
+  },
+  {
+    "id": "a35bfd1eb91e184ac92200cb",
+    "advertising_info": null,
+    "alcohol_permille": 0,
+    "allowed_delivery_methods": [
+      "eatin",
+      "takeaway",
+      "homedelivery"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 0,
+        "end_time": 86400000
+      }
+    ],
+    "barcode_gtin": "04601916006351",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "ac06c22dadfb09df28125b0099ad9a7c",
+    "description": "",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": true,
+    "images": [
+      {
+        "url": "https://imageproxy.wolt.com/assets/688b99be23fa16f725af7d5b",
+        "blurhash": "L:Q]Qdj@?^e=SibFs8n,X5fjnke;"
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": true,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "Мистраль Каша Овсяная «Малиновый Мильфей» 40Г",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 29000,
+    "product_hierarchy_tags": [],
+    "purchasable_balance": 2,
+    "restrictions": [],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": true,
+    "tags": [],
+    "unit_info": "40 г",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 725000,
+      "unit": "kilogram"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 12,
+    "vat_percentage_decimal": "12.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    }
+  },
+  {
+    "id": "bd7fc4da8ca6c6ac7dbab063",
+    "advertising_info": null,
+    "alcohol_permille": 0,
+    "allowed_delivery_methods": [
+      "homedelivery",
+      "takeaway",
+      "eatin"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 0,
+        "end_time": 86400000
+      }
+    ],
+    "barcode_gtin": "04601916007747",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "e26f6711acf9955ba241935683c2176c",
+    "description": "",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": true,
+    "images": [
+      {
+        "url": "https://imageproxy.wolt.com/assets/688b99c023fa16f725af7dac",
+        "blurhash": "L*P?]uj[~qjbWFfjocf8tPj[Rlaf"
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": true,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "Мистраль Каша Овсяная «Протеиновая» 40Г",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 57000,
+    "product_hierarchy_tags": [],
+    "purchasable_balance": 2,
+    "restrictions": [],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": true,
+    "tags": [],
+    "unit_info": "40 г",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 1425000,
+      "unit": "kilogram"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 12,
+    "vat_percentage_decimal": "12.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    }
+  },
+  {
     "id": "64fd66e23aa7300297df2293",
     "advertising_info": null,
     "alcohol_permille": 0,
@@ -9132,7 +10012,7 @@
     "item_price_discount_validity_period": null,
     "price": 50000,
     "product_hierarchy_tags": [],
-    "purchasable_balance": 1,
+    "purchasable_balance": 5,
     "restrictions": [],
     "return_policy": null,
     "sell_by_weight_config": null,
@@ -9143,6 +10023,86 @@
       "base": 1,
       "original_price": null,
       "price": 1250000,
+      "unit": "kilogram"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 12,
+    "vat_percentage_decimal": "12.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    }
+  },
+  {
+    "id": "6ede2f883ae32a6f25e63655",
+    "advertising_info": null,
+    "alcohol_permille": 0,
+    "allowed_delivery_methods": [
+      "eatin",
+      "takeaway",
+      "homedelivery"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 0,
+        "end_time": 86400000
+      }
+    ],
+    "barcode_gtin": "04601916006368",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "7295a7279f486650a54d6dad66db3ae2",
+    "description": "",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": true,
+    "images": [
+      {
+        "url": "https://imageproxy.wolt.com/assets/6888ba4f1f0cac713af61f49",
+        "blurhash": "L-Psq]j[~pjISia{sRjvxVj@R.af"
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": true,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "Мистраль Каша Овсяная «Черничный Чизкейк» 40Г",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 29000,
+    "product_hierarchy_tags": [],
+    "purchasable_balance": 2,
+    "restrictions": [],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": true,
+    "tags": [],
+    "unit_info": "40 г",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 725000,
       "unit": "kilogram"
     },
     "variant": null,
@@ -9223,6 +10183,166 @@
       "base": 1,
       "original_price": null,
       "price": 787500,
+      "unit": "kilogram"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 12,
+    "vat_percentage_decimal": "12.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    }
+  },
+  {
+    "id": "1e62cfac7593426caad17671",
+    "advertising_info": null,
+    "alcohol_permille": 0,
+    "allowed_delivery_methods": [
+      "homedelivery",
+      "takeaway",
+      "eatin"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 0,
+        "end_time": 86400000
+      }
+    ],
+    "barcode_gtin": "04601916006269",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "a8da96d7980dadd5b1e9a2709ca034be",
+    "description": "",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": true,
+    "images": [
+      {
+        "url": "https://imageproxy.wolt.com/assets/688b99c023fa16f725af7d93",
+        "blurhash": "L,Ql|BWV_Ns:W@f6n}j]bujajFbH"
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": true,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "Мистраль Хлопья Гречневые 400Г",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 125000,
+    "product_hierarchy_tags": [],
+    "purchasable_balance": 2,
+    "restrictions": [],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": true,
+    "tags": [],
+    "unit_info": "400 г",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 312500,
+      "unit": "kilogram"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 12,
+    "vat_percentage_decimal": "12.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    }
+  },
+  {
+    "id": "ccabc1a2e4b17bee290c7515",
+    "advertising_info": null,
+    "alcohol_permille": 0,
+    "allowed_delivery_methods": [
+      "eatin",
+      "takeaway",
+      "homedelivery"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 0,
+        "end_time": 86400000
+      }
+    ],
+    "barcode_gtin": "04601916006313",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "91833b0bf2c7492a37a773a9902ef92b",
+    "description": "",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": true,
+    "images": [
+      {
+        "url": "https://imageproxy.wolt.com/assets/6790a25a2e7be8646181b855",
+        "blurhash": "L:Ps@iay~qt6oLa|ayjtt7jsWAa#"
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": true,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "Мистраль Хлопья Смесь Злаковый Коктейль 400Г",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 123000,
+    "product_hierarchy_tags": [],
+    "purchasable_balance": 4,
+    "restrictions": [],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": true,
+    "tags": [],
+    "unit_info": "400 г",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 307500,
       "unit": "kilogram"
     },
     "variant": null,
@@ -9692,7 +10812,7 @@
     "item_price_discount_validity_period": null,
     "price": 189500,
     "product_hierarchy_tags": [],
-    "purchasable_balance": 4,
+    "purchasable_balance": 7,
     "restrictions": [],
     "return_policy": null,
     "sell_by_weight_config": null,
@@ -9772,7 +10892,7 @@
     "item_price_discount_validity_period": null,
     "price": 189500,
     "product_hierarchy_tags": [],
-    "purchasable_balance": 5,
+    "purchasable_balance": 4,
     "restrictions": [],
     "return_policy": null,
     "sell_by_weight_config": null,
@@ -10012,11 +11132,11 @@
     "item_price_discount_validity_period": null,
     "price": 24000,
     "product_hierarchy_tags": [],
-    "purchasable_balance": 1,
+    "purchasable_balance": 8,
     "restrictions": [],
     "return_policy": null,
     "sell_by_weight_config": null,
-    "should_display_purchasable_balance": true,
+    "should_display_purchasable_balance": false,
     "tags": [],
     "unit_info": "40 г",
     "unit_price": {
@@ -10492,7 +11612,7 @@
     "item_price_discount_validity_period": null,
     "price": 256000,
     "product_hierarchy_tags": [],
-    "purchasable_balance": 1,
+    "purchasable_balance": 7,
     "restrictions": [],
     "return_policy": null,
     "sell_by_weight_config": null,
@@ -10652,7 +11772,7 @@
     "item_price_discount_validity_period": null,
     "price": 148500,
     "product_hierarchy_tags": [],
-    "purchasable_balance": 2,
+    "purchasable_balance": 4,
     "restrictions": [],
     "return_policy": null,
     "sell_by_weight_config": null,
@@ -10732,7 +11852,7 @@
     "item_price_discount_validity_period": null,
     "price": 141500,
     "product_hierarchy_tags": [],
-    "purchasable_balance": 4,
+    "purchasable_balance": 7,
     "restrictions": [],
     "return_policy": null,
     "sell_by_weight_config": null,
@@ -10743,6 +11863,86 @@
       "base": 1,
       "original_price": null,
       "price": 589583,
+      "unit": "kilogram"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 12,
+    "vat_percentage_decimal": "12.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    }
+  },
+  {
+    "id": "714524ecbf5154c12aeb339e",
+    "advertising_info": null,
+    "alcohol_permille": 0,
+    "allowed_delivery_methods": [
+      "homedelivery",
+      "takeaway",
+      "eatin"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 0,
+        "end_time": 86400000
+      }
+    ],
+    "barcode_gtin": "04607058800710",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "9a7f85a0494f962a35b32946ec67babc",
+    "description": "Овсяные хлопья NORDIC Геркулес, 500 г изготовлены из отборного овса, отличаются высоким процентом содержания витаминов, клетчатки и минеральных веществ. \n\nИх включают в рацион для профилактики заболеваний ЖКТ, восполнения энергетических запасов организма. В составе отсутствуют ГМО компоненты и химические добавки.",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": true,
+    "images": [
+      {
+        "url": "https://imageproxy.wolt.com/assets/67f3daa14c92ea2cbf060ed3",
+        "blurhash": "LpR3NGax~qozRkayt6of%MfkMxjZ"
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": true,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "Nordic Овсяные хлопья 500г",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 228000,
+    "product_hierarchy_tags": [],
+    "purchasable_balance": 1,
+    "restrictions": [],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": true,
+    "tags": [],
+    "unit_info": "500 г",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 456000,
       "unit": "kilogram"
     },
     "variant": null,

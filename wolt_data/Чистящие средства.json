@@ -544,7 +544,7 @@
     "item_price_discount_validity_period": null,
     "price": 269000,
     "product_hierarchy_tags": [],
-    "purchasable_balance": 3,
+    "purchasable_balance": 2,
     "restrictions": [],
     "return_policy": null,
     "sell_by_weight_config": null,
@@ -624,7 +624,7 @@
     "item_price_discount_validity_period": null,
     "price": 335000,
     "product_hierarchy_tags": [],
-    "purchasable_balance": 5,
+    "purchasable_balance": 4,
     "restrictions": [],
     "return_policy": null,
     "sell_by_weight_config": null,
@@ -2740,7 +2740,7 @@
     "product_hierarchy_tags": [
       "UNKNOWN"
     ],
-    "purchasable_balance": 48,
+    "purchasable_balance": 46,
     "restrictions": [],
     "return_policy": null,
     "sell_by_weight_config": null,
@@ -4626,11 +4626,11 @@
     "product_hierarchy_tags": [
       "PERISHABLE"
     ],
-    "purchasable_balance": 5,
+    "purchasable_balance": 14,
     "restrictions": [],
     "return_policy": null,
     "sell_by_weight_config": null,
-    "should_display_purchasable_balance": true,
+    "should_display_purchasable_balance": false,
     "tags": [],
     "unit_info": "450 мл",
     "unit_price": {
@@ -4708,7 +4708,7 @@
     "product_hierarchy_tags": [
       "UNKNOWN"
     ],
-    "purchasable_balance": 9,
+    "purchasable_balance": 11,
     "restrictions": [],
     "return_policy": null,
     "sell_by_weight_config": null,
@@ -6430,7 +6430,7 @@
     "product_hierarchy_tags": [
       "UNKNOWN"
     ],
-    "purchasable_balance": 39,
+    "purchasable_balance": 38,
     "restrictions": [],
     "return_policy": null,
     "sell_by_weight_config": null,
@@ -8808,7 +8808,7 @@
     "product_hierarchy_tags": [
       "UNKNOWN"
     ],
-    "purchasable_balance": 13,
+    "purchasable_balance": 12,
     "restrictions": [],
     "return_policy": null,
     "sell_by_weight_config": null,
@@ -9382,7 +9382,7 @@
     "product_hierarchy_tags": [
       "UNKNOWN"
     ],
-    "purchasable_balance": 3,
+    "purchasable_balance": 5,
     "restrictions": [],
     "return_policy": null,
     "sell_by_weight_config": null,
@@ -12662,7 +12662,7 @@
     "product_hierarchy_tags": [
       "UNKNOWN"
     ],
-    "purchasable_balance": 3,
+    "purchasable_balance": 5,
     "restrictions": [],
     "return_policy": null,
     "sell_by_weight_config": null,

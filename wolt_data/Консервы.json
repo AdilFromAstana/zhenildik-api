@@ -1016,7 +1016,7 @@
     "item_price_discount_validity_period": null,
     "price": 201000,
     "product_hierarchy_tags": [],
-    "purchasable_balance": 4,
+    "purchasable_balance": 2,
     "restrictions": [],
     "return_policy": null,
     "sell_by_weight_config": null,
@@ -1520,6 +1520,86 @@
     }
   },
   {
+    "id": "27d702ac61d0d261fd4b92cc",
+    "advertising_info": null,
+    "alcohol_permille": 0,
+    "allowed_delivery_methods": [
+      "eatin",
+      "takeaway",
+      "homedelivery"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 0,
+        "end_time": 86400000
+      }
+    ],
+    "barcode_gtin": "04680009030336",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "40e3977134a42997c4abe2c453939f2b",
+    "description": "ДОБРОФЛОТ",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": true,
+    "images": [
+      {
+        "url": "https://imageproxy.wolt.com/assets/688b9aeca3eb62eeb95c2980",
+        "blurhash": "LwQS;%ay_NofkCj[e.e..7jtMxWV"
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": true,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "Горбуша Натуральная (Вс) 245Г",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 113000,
+    "product_hierarchy_tags": [],
+    "purchasable_balance": 2,
+    "restrictions": [],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": true,
+    "tags": [],
+    "unit_info": "245 г",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 461224,
+      "unit": "kilogram"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 12,
+    "vat_percentage_decimal": "12.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    }
+  },
+  {
     "id": "e3e7b481f77a97110b81af7a",
     "advertising_info": null,
     "alcohol_permille": 0,
@@ -1576,7 +1656,7 @@
     "item_price_discount_validity_period": null,
     "price": 193500,
     "product_hierarchy_tags": [],
-    "purchasable_balance": 1,
+    "purchasable_balance": 3,
     "restrictions": [],
     "return_policy": null,
     "sell_by_weight_config": null,
@@ -1920,6 +2000,406 @@
     }
   },
   {
+    "id": "47287af35ddd3055caf1d087",
+    "advertising_info": null,
+    "alcohol_permille": 0,
+    "allowed_delivery_methods": [
+      "eatin",
+      "takeaway",
+      "homedelivery"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 0,
+        "end_time": 86400000
+      }
+    ],
+    "barcode_gtin": "06006431000712",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "9a55df2ef84772485897de7036c417f7",
+    "description": "Только лучшая рыба, выловленная в условиях дикой природы и прошедшая самый жесткий контроль качества, становится продуктом под брендом FORTUNA",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": true,
+    "images": [
+      {
+        "url": "https://imageproxy.wolt.com/assets/6888bc291f0cac713af64a7b",
+        "blurhash": "LiRf8@oI.TXAOGR*r;t7pJWCjFof"
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": true,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "Fortuna Тунец Кусочками С Маслом 185 Г",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 305000,
+    "product_hierarchy_tags": [],
+    "purchasable_balance": 2,
+    "restrictions": [],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": true,
+    "tags": [],
+    "unit_info": "185 г",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 1648649,
+      "unit": "kilogram"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 12,
+    "vat_percentage_decimal": "12.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    }
+  },
+  {
+    "id": "8c3d9af188471d2420846a8a",
+    "advertising_info": null,
+    "alcohol_permille": 0,
+    "allowed_delivery_methods": [
+      "eatin",
+      "takeaway",
+      "homedelivery"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 0,
+        "end_time": 86400000
+      }
+    ],
+    "barcode_gtin": "06006431000729",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "264a808fffa09d12d596d2f7e6178ee2",
+    "description": "Как тунец превращается в кусочки? Тщательно отобранная филейная часть со спинки нескольких тушек обрабатывается и попадает в баночку крупными кусочками. После открытия баночки можно увидеть неизменный рисунок структуры мяса, которой отличаются только кусочки и филе. С тунцом FORTUNA легко разнообразить меню: блюда на завтрак, обед, ужин и на перекус!",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": true,
+    "images": [
+      {
+        "url": "https://imageproxy.wolt.com/assets/6888b8ed1f0cac713af5faff",
+        "blurhash": "LfPs^vW=~Ws.w]jENdbw-oWBWCoL"
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": true,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "Fortuna Тунец Кусочками 185 Г",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 294000,
+    "product_hierarchy_tags": [],
+    "purchasable_balance": 2,
+    "restrictions": [],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": true,
+    "tags": [],
+    "unit_info": "185 г",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 1589189,
+      "unit": "kilogram"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 12,
+    "vat_percentage_decimal": "12.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    }
+  },
+  {
+    "id": "4c3e1b23073e38aa96313ee4",
+    "advertising_info": null,
+    "alcohol_permille": 0,
+    "allowed_delivery_methods": [
+      "eatin",
+      "takeaway",
+      "homedelivery"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 0,
+        "end_time": 86400000
+      }
+    ],
+    "barcode_gtin": "06006431000699",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "4595512a053fb45cf1635417ec75bef2",
+    "description": "Как тунец превращается в рубленые волокна? Тщательно отобранная филейная часть со спинки нескольких тушек обрабатывается и попадает в баночку крупными кусочками. В баночках рубленого тунца FORTUNA не менее 50% крупных кусочков! После открытия баночки можно увидеть мелкие волокна мяса тунца. С тунцом FORTUNA легко разнообразить меню: блюда на завтрак, обед, ужин и на перекус!",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": true,
+    "images": [
+      {
+        "url": "https://imageproxy.wolt.com/assets/6888bb0123fa16f725a969f4",
+        "blurhash": "LiRf2ysS.mS%OZR*r;t7pJWCjFof"
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": true,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "Fortuna Тунец Рубленый С Маслом 185 Г",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 205000,
+    "product_hierarchy_tags": [],
+    "purchasable_balance": 14,
+    "restrictions": [],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": false,
+    "tags": [],
+    "unit_info": "185 г",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 1108108,
+      "unit": "kilogram"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 12,
+    "vat_percentage_decimal": "12.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    }
+  },
+  {
+    "id": "c54ce52ecee9072f5d041456",
+    "advertising_info": null,
+    "alcohol_permille": 0,
+    "allowed_delivery_methods": [
+      "eatin",
+      "takeaway",
+      "homedelivery"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 0,
+        "end_time": 86400000
+      }
+    ],
+    "barcode_gtin": "04601916010907",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "01c151517afde0a78f61dfbefc99716a",
+    "description": "Тунец с ароматом копчения — это яркое блюдо с ощущением настоящего стейка тунца на гриле с дымком. Продукт изготавливается методом холодного копчения — с добавлением натурального ароматизатора дерева гикори и соевого масла.",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": true,
+    "images": [
+      {
+        "url": "https://imageproxy.wolt.com/assets/6888bf34a3eb62eeb9564421",
+        "blurhash": "LwO:t%bH~qjZWVjYj[kCxujZayof"
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": true,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "Fortuna Тунец Кусочками С Ароматом Копчения 185 Г",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 309000,
+    "product_hierarchy_tags": [],
+    "purchasable_balance": 4,
+    "restrictions": [],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": true,
+    "tags": [],
+    "unit_info": "185 г",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 1670270,
+      "unit": "kilogram"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 12,
+    "vat_percentage_decimal": "12.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    }
+  },
+  {
+    "id": "d0671ea21e499de933af6f62",
+    "advertising_info": null,
+    "alcohol_permille": 0,
+    "allowed_delivery_methods": [
+      "eatin",
+      "takeaway",
+      "homedelivery"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 0,
+        "end_time": 86400000
+      }
+    ],
+    "barcode_gtin": "08858382000345",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "15d8049de7f849aabc49e55c10c87626",
+    "description": "Как тунец превращается в филе? Тщательно отобранная нежнейшая часть филе со спинки тушки тунца обрабатывается и попадает в баночку. После открытия баночки можно увидеть неизменный рисунок структуры мяса, которой отличаются только кусочки и филе. С тунцом FORTUNA легко разнообразить меню и приготовить блюда на завтрак, обед, ужин и на перекус!",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": true,
+    "images": [
+      {
+        "url": "https://imageproxy.wolt.com/assets/6888bf29a3eb62eeb95641b4",
+        "blurhash": "LgPsxBWX~pt6xse-NHbd-:axWBoL"
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": true,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "Fortuna Тунец Филе Yellowfin 185 Г",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 301000,
+    "product_hierarchy_tags": [],
+    "purchasable_balance": 2,
+    "restrictions": [],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": true,
+    "tags": [],
+    "unit_info": "185 г",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 1627027,
+      "unit": "kilogram"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 12,
+    "vat_percentage_decimal": "12.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    }
+  },
+  {
     "id": "57a145b9f4ed86dc7abf82ad",
     "advertising_info": null,
     "alcohol_permille": 0,
@@ -2136,7 +2616,7 @@
     "item_price_discount_validity_period": null,
     "price": 205500,
     "product_hierarchy_tags": [],
-    "purchasable_balance": 31,
+    "purchasable_balance": 30,
     "restrictions": [],
     "return_policy": null,
     "sell_by_weight_config": null,
@@ -4458,11 +4938,11 @@
     "item_price_discount_validity_period": null,
     "price": 123000,
     "product_hierarchy_tags": [],
-    "purchasable_balance": 8,
+    "purchasable_balance": 7,
     "restrictions": [],
     "return_policy": null,
     "sell_by_weight_config": null,
-    "should_display_purchasable_balance": false,
+    "should_display_purchasable_balance": true,
     "tags": [],
     "unit_info": "300 мл",
     "unit_price": {
@@ -4858,7 +5338,7 @@
     "item_price_discount_validity_period": null,
     "price": 154000,
     "product_hierarchy_tags": [],
-    "purchasable_balance": 15,
+    "purchasable_balance": 14,
     "restrictions": [],
     "return_policy": null,
     "sell_by_weight_config": null,
@@ -6550,7 +7030,7 @@
     "item_price_discount_validity_period": null,
     "price": 209000,
     "product_hierarchy_tags": [],
-    "purchasable_balance": 2,
+    "purchasable_balance": 4,
     "restrictions": [],
     "return_policy": null,
     "sell_by_weight_config": null,

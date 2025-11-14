@@ -411,7 +411,7 @@
       "BEER",
       "ALCOHOL"
     ],
-    "purchasable_balance": 215,
+    "purchasable_balance": 212,
     "restrictions": [
       {
         "type": "alcohol",
@@ -496,8 +496,8 @@
     "item_price_discount_validity_period": null,
     "price": 100000,
     "product_hierarchy_tags": [
-      "BEER",
-      "ALCOHOL"
+      "ALCOHOL",
+      "BEER"
     ],
     "purchasable_balance": 72,
     "restrictions": [
@@ -584,8 +584,8 @@
     "item_price_discount_validity_period": null,
     "price": 100000,
     "product_hierarchy_tags": [
-      "BEER",
-      "ALCOHOL"
+      "ALCOHOL",
+      "BEER"
     ],
     "purchasable_balance": 32,
     "restrictions": [
@@ -1105,10 +1105,10 @@
     "item_price_discount_validity_period": null,
     "price": 95000,
     "product_hierarchy_tags": [
-      "BEER",
-      "ALCOHOL"
+      "ALCOHOL",
+      "BEER"
     ],
-    "purchasable_balance": 116,
+    "purchasable_balance": 110,
     "restrictions": [
       {
         "type": "age_restricted",
@@ -2671,7 +2671,7 @@
     "item_price_discount_validity_period": null,
     "price": 43000,
     "product_hierarchy_tags": [],
-    "purchasable_balance": 5,
+    "purchasable_balance": 3,
     "restrictions": [
       {
         "type": "age_restricted",
@@ -2756,7 +2756,7 @@
     "item_price_discount_validity_period": null,
     "price": 43000,
     "product_hierarchy_tags": [],
-    "purchasable_balance": 18,
+    "purchasable_balance": 16,
     "restrictions": [
       {
         "type": "age_restricted",
@@ -2942,91 +2942,6 @@
       "base": 1,
       "original_price": null,
       "price": 144444,
-      "unit": "litre"
-    },
-    "variant": null,
-    "vat_category_code": null,
-    "vat_percentage": 12,
-    "vat_percentage_decimal": "12.0",
-    "external_compliance_link": null,
-    "consent_info": {
-      "ask_consent": false,
-      "blur_image": false
-    }
-  },
-  {
-    "id": "38cc0da659f633b4b1f3fa9d",
-    "advertising_info": null,
-    "alcohol_permille": 5,
-    "allowed_delivery_methods": [
-      "homedelivery",
-      "takeaway",
-      "eatin"
-    ],
-    "available_times": [
-      {
-        "days": [
-          1,
-          2,
-          3,
-          4,
-          5,
-          6,
-          7
-        ],
-        "start_time": 28800000,
-        "end_time": 81000000
-      }
-    ],
-    "barcode_gtin": "04870145005125",
-    "caffeine_info": null,
-    "can_be_promoted": {
-      "basket": true,
-      "venue": true,
-      "credits": true
-    },
-    "checksum": "b1c865c760a143953b5e94dae5f0bab8",
-    "description": "Garage 0 Fun Lemonade Peach – персиковое настроение, это сладость дня. Всего 60 ккал дарит ощущение легкости, а витамины поддерживают организм. Безалкогольный пивной напиток готов к употреблению 24/7 в любом месте, где бы вы ни были.",
-    "deposit": null,
-    "dietary_preferences": [],
-    "disabled_info": null,
-    "fulfillment_lead_time": null,
-    "has_extra_info": true,
-    "images": [
-      {
-        "url": "https://imageproxy.wolt.com/assets/6808d1e828651deece21a47d",
-        "blurhash": "LNS~hljZ.Tt7ofjtayaztRj[RPay"
-      }
-    ],
-    "is_cutlery": false,
-    "is_no_contact_delivery_allowed": true,
-    "is_wolt_plus_only": false,
-    "lowest_price": null,
-    "lowest_price_v2": null,
-    "max_quantity_per_purchase": null,
-    "min_quantity_per_purchase": null,
-    "name": "Напиток пивной Garage №0 Peach 0,33л ж.б.",
-    "options": [],
-    "original_price": null,
-    "item_price_discount_validity_period": null,
-    "price": 43000,
-    "product_hierarchy_tags": [],
-    "purchasable_balance": 2,
-    "restrictions": [
-      {
-        "type": "age_restricted",
-        "age_limit": 21
-      }
-    ],
-    "return_policy": null,
-    "sell_by_weight_config": null,
-    "should_display_purchasable_balance": true,
-    "tags": [],
-    "unit_info": "330 мл",
-    "unit_price": {
-      "base": 1,
-      "original_price": null,
-      "price": 130303,
       "unit": "litre"
     },
     "variant": null,

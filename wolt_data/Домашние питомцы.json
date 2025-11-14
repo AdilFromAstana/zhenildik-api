@@ -1,5 +1,169 @@
 [
   {
+    "id": "4d652dfc38b6ae7978efae48",
+    "advertising_info": null,
+    "alcohol_permille": 0,
+    "allowed_delivery_methods": [
+      "homedelivery",
+      "takeaway",
+      "eatin"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 0,
+        "end_time": 86400000
+      }
+    ],
+    "barcode_gtin": "04660085510373",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "41ca5d6c10cb21f214c5e5d60c81efba",
+    "description": "Сухой рацион PERFECT FIT™ \"Здоровье почек\" для взрослых кошек с лососем разработан специально для поддержания здоровья почек кошек. \n\nПоддержание функции почек\nОграниченный уровень фосфора, омега - 3 жирные кислоты и калий способствуют поддержанию здоровья почек\n\nЗдоровье мочевыводящей системы\nБаланс минералов, помогающий снижению риска формирования камней и поддержанию здоровья мочевыводящей системы\n\nПоддержание жизнненно важных функций\nНезаменимые витамины, минералы и аминокислоты для здоровья организма",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": true,
+    "images": [
+      {
+        "url": "https://imageproxy.wolt.com/assets/688b9c3423fa16f725afa82a",
+        "blurhash": "LVRypaV]~qxsj?j[j]af.7oeIBV]"
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": true,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "Perfect Fit Сухой корм для взрослых кошек «Здоровье почек», с лососем, 650г",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 304000,
+    "product_hierarchy_tags": [
+      "UNKNOWN"
+    ],
+    "purchasable_balance": 1,
+    "restrictions": [],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": true,
+    "tags": [],
+    "unit_info": "650 г",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 467692,
+      "unit": "kilogram"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 12,
+    "vat_percentage_decimal": "12.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    }
+  },
+  {
+    "id": "2f752cc0985e7ec3a2174778",
+    "advertising_info": null,
+    "alcohol_permille": 0,
+    "allowed_delivery_methods": [
+      "homedelivery",
+      "takeaway",
+      "eatin"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 0,
+        "end_time": 86400000
+      }
+    ],
+    "barcode_gtin": "08445290141811",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "3200df623db73558810cd211499ce9cf",
+    "description": "Феликс® Аппетитные кусочки — это совершенно особенный корм. У него такой аппетитный вид и аромат, словно Вы приготовили его сами. Каждый пакетик содержит нежные кусочки в сочном желе — вкуснятину, от которой кота за уши не оттащишь. Они такие же аппетитные на вкус, как и на вид! Корм является источником необходимых Омега-6 жирных кислот с правильным сочетанием минеральных веществ и витаминов, чтобы полностью удовлетворить ежедневные потребности Вашей кошки.",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": true,
+    "images": [
+      {
+        "url": "https://imageproxy.wolt.com/assets/6888c07fa3eb62eeb9566b8b",
+        "blurhash": "LpQ]+yoL~qbHjYjtbIa{xuj[M{WV"
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": true,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "Felix Аппетитные кусочки с форелью в соусе, 75г",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 24500,
+    "product_hierarchy_tags": [
+      "UNKNOWN"
+    ],
+    "purchasable_balance": 25,
+    "restrictions": [],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": false,
+    "tags": [],
+    "unit_info": "75 г",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 326667,
+      "unit": "kilogram"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 12,
+    "vat_percentage_decimal": "12.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    }
+  },
+  {
     "id": "5eeae8e98270dee233a23ed0",
     "advertising_info": null,
     "alcohol_permille": 0,
@@ -1288,7 +1452,7 @@
     "product_hierarchy_tags": [
       "UNKNOWN"
     ],
-    "purchasable_balance": 11,
+    "purchasable_balance": 10,
     "restrictions": [],
     "return_policy": null,
     "sell_by_weight_config": null,

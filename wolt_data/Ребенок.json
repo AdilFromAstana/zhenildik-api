@@ -550,7 +550,7 @@
     "product_hierarchy_tags": [
       "UNKNOWN"
     ],
-    "purchasable_balance": 3,
+    "purchasable_balance": 4,
     "restrictions": [],
     "return_policy": null,
     "sell_by_weight_config": null,
@@ -1042,7 +1042,7 @@
     "product_hierarchy_tags": [
       "UNKNOWN"
     ],
-    "purchasable_balance": 3,
+    "purchasable_balance": 4,
     "restrictions": [],
     "return_policy": null,
     "sell_by_weight_config": null,
@@ -1526,7 +1526,7 @@
     "product_hierarchy_tags": [
       "UNKNOWN"
     ],
-    "purchasable_balance": 3,
+    "purchasable_balance": 1,
     "restrictions": [],
     "return_policy": null,
     "sell_by_weight_config": null,
@@ -2346,7 +2346,7 @@
     "product_hierarchy_tags": [
       "UNKNOWN"
     ],
-    "purchasable_balance": 9,
+    "purchasable_balance": 8,
     "restrictions": [],
     "return_policy": null,
     "sell_by_weight_config": null,
@@ -3078,7 +3078,7 @@
     "product_hierarchy_tags": [
       "UNKNOWN"
     ],
-    "purchasable_balance": 63,
+    "purchasable_balance": 51,
     "restrictions": [],
     "return_policy": null,
     "sell_by_weight_config": null,
@@ -3160,7 +3160,7 @@
     "product_hierarchy_tags": [
       "UNKNOWN"
     ],
-    "purchasable_balance": 37,
+    "purchasable_balance": 33,
     "restrictions": [],
     "return_policy": null,
     "sell_by_weight_config": null,
@@ -3570,7 +3570,7 @@
     "product_hierarchy_tags": [
       "UNKNOWN"
     ],
-    "purchasable_balance": 13,
+    "purchasable_balance": 12,
     "restrictions": [],
     "return_policy": null,
     "sell_by_weight_config": null,
@@ -4086,88 +4086,6 @@
     }
   },
   {
-    "id": "6d7a1715d8f0c73f62ff77af",
-    "advertising_info": null,
-    "alcohol_permille": 0,
-    "allowed_delivery_methods": [
-      "eatin",
-      "takeaway",
-      "homedelivery"
-    ],
-    "available_times": [
-      {
-        "days": [
-          1,
-          2,
-          3,
-          4,
-          5,
-          6,
-          7
-        ],
-        "start_time": 0,
-        "end_time": 86400000
-      }
-    ],
-    "barcode_gtin": "04600338006277",
-    "caffeine_info": null,
-    "can_be_promoted": {
-      "basket": true,
-      "venue": true,
-      "credits": true
-    },
-    "checksum": "8fa5ef6fa819762899bf69f70ab85452",
-    "description": "Морс из клюквы, черники и вишни отлично утоляет жажду и разнообразит рацион ребенка. Клюква является сильным антиоксидантом, способным останавливать патологические процессы. В клюкве присутствует специфическое вещество танин – сильнейший антибиотик природного происхождения. Его способность разрушать клетки абсолютно всех патогенных микробов и бактерий доказана научно. В сочетании с множеством полезных веществ и соединений танин убивает микробы и бактерии; предотвращает развитие цинги, кариеса, стоматологических болезней; снижает жар и повышает сопротивляемость простудам. Вишневый сок используют для лечения гастритов с низкой кислотностью. Сок из вишни – это отличный антисептик, уничтожающий стафилококки и стрептококки, а также возбудителей дизентерии. Вишня богата органическими кислотами, благотворно влияющими на процесс пищеварения. В чернике много цинка и кальция, она так же содержит танин.",
-    "deposit": null,
-    "dietary_preferences": [],
-    "disabled_info": null,
-    "fulfillment_lead_time": null,
-    "has_extra_info": true,
-    "images": [
-      {
-        "url": "https://imageproxy.wolt.com/assets/688b98fda3eb62eeb95c2134",
-        "blurhash": "LrR{V^of?^WBs:ayS2j[n*a|W;ju"
-      }
-    ],
-    "is_cutlery": false,
-    "is_no_contact_delivery_allowed": true,
-    "is_wolt_plus_only": false,
-    "lowest_price": null,
-    "lowest_price_v2": null,
-    "max_quantity_per_purchase": null,
-    "min_quantity_per_purchase": null,
-    "name": "Фруто Няня Морс Клюквенно-Чернич-Вишнев (18) 0,2 Л",
-    "options": [],
-    "original_price": null,
-    "item_price_discount_validity_period": null,
-    "price": 45000,
-    "product_hierarchy_tags": [
-      "UNKNOWN"
-    ],
-    "purchasable_balance": 9,
-    "restrictions": [],
-    "return_policy": null,
-    "sell_by_weight_config": null,
-    "should_display_purchasable_balance": false,
-    "tags": [],
-    "unit_info": "200 мл",
-    "unit_price": {
-      "base": 1,
-      "original_price": null,
-      "price": 225000,
-      "unit": "litre"
-    },
-    "variant": null,
-    "vat_category_code": null,
-    "vat_percentage": 12,
-    "vat_percentage_decimal": "12.0",
-    "external_compliance_link": null,
-    "consent_info": {
-      "ask_consent": false,
-      "blur_image": false
-    }
-  },
-  {
     "id": "f78964533dc7200fa88e4c2d",
     "advertising_info": null,
     "alcohol_permille": 0,
@@ -4308,7 +4226,7 @@
     "product_hierarchy_tags": [
       "UNKNOWN"
     ],
-    "purchasable_balance": 10,
+    "purchasable_balance": 9,
     "restrictions": [],
     "return_policy": null,
     "sell_by_weight_config": null,
@@ -4636,7 +4554,7 @@
     "product_hierarchy_tags": [
       "UNKNOWN"
     ],
-    "purchasable_balance": 12,
+    "purchasable_balance": 10,
     "restrictions": [],
     "return_policy": null,
     "sell_by_weight_config": null,
@@ -5210,7 +5128,7 @@
     "product_hierarchy_tags": [
       "UNKNOWN"
     ],
-    "purchasable_balance": 7,
+    "purchasable_balance": 5,
     "restrictions": [],
     "return_policy": null,
     "sell_by_weight_config": null,
@@ -5866,7 +5784,7 @@
     "product_hierarchy_tags": [
       "UNKNOWN"
     ],
-    "purchasable_balance": 6,
+    "purchasable_balance": 3,
     "restrictions": [],
     "return_policy": null,
     "sell_by_weight_config": null,
@@ -6926,7 +6844,7 @@
     "item_price_discount_validity_period": null,
     "price": 48000,
     "product_hierarchy_tags": [],
-    "purchasable_balance": 6,
+    "purchasable_balance": 4,
     "restrictions": [],
     "return_policy": null,
     "sell_by_weight_config": null,
@@ -8566,7 +8484,7 @@
     "product_hierarchy_tags": [
       "UNKNOWN"
     ],
-    "purchasable_balance": 10,
+    "purchasable_balance": 9,
     "restrictions": [],
     "return_policy": null,
     "sell_by_weight_config": null,

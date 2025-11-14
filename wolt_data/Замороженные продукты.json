@@ -140,7 +140,7 @@
     "product_hierarchy_tags": [
       "UNKNOWN"
     ],
-    "purchasable_balance": 3,
+    "purchasable_balance": 6,
     "restrictions": [],
     "return_policy": null,
     "sell_by_weight_config": null,
@@ -550,7 +550,7 @@
     "product_hierarchy_tags": [
       "UNKNOWN"
     ],
-    "purchasable_balance": 2,
+    "purchasable_balance": 3,
     "restrictions": [],
     "return_policy": null,
     "sell_by_weight_config": null,
@@ -632,7 +632,7 @@
     "product_hierarchy_tags": [
       "UNKNOWN"
     ],
-    "purchasable_balance": 2,
+    "purchasable_balance": 5,
     "restrictions": [],
     "return_policy": null,
     "sell_by_weight_config": null,
@@ -714,7 +714,7 @@
     "product_hierarchy_tags": [
       "UNKNOWN"
     ],
-    "purchasable_balance": 2,
+    "purchasable_balance": 4,
     "restrictions": [],
     "return_policy": null,
     "sell_by_weight_config": null,
@@ -725,6 +725,88 @@
       "base": 1,
       "original_price": null,
       "price": 381250,
+      "unit": "kilogram"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 12,
+    "vat_percentage_decimal": "12.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    }
+  },
+  {
+    "id": "b098df1ce2937b4b1ee468c0",
+    "advertising_info": null,
+    "alcohol_permille": 0,
+    "allowed_delivery_methods": [
+      "eatin",
+      "takeaway",
+      "homedelivery"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 0,
+        "end_time": 86400000
+      }
+    ],
+    "barcode_gtin": "05903154547641",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "478e282ce98697ef849242fa2a32e6d2",
+    "description": "Быстрозамороженная овощная смесь Bauer\"Go Green\". Набор зеленых овощей, идеально подходящий для здорового питания, гарниров и смузи. Упаковка 400г.",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": true,
+    "images": [
+      {
+        "url": "https://imageproxy.wolt.com/assets/688b9ac0a3eb62eeb95c234e",
+        "blurhash": "L~ONE_WB~qofazj[kBays=j[WAay"
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": true,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "Bauer Смесь Зеленая Go Green, 400Г",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 163500,
+    "product_hierarchy_tags": [
+      "UNKNOWN"
+    ],
+    "purchasable_balance": 3,
+    "restrictions": [],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": true,
+    "tags": [],
+    "unit_info": "400 г",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 408750,
       "unit": "kilogram"
     },
     "variant": null,
@@ -796,7 +878,7 @@
     "product_hierarchy_tags": [
       "UNKNOWN"
     ],
-    "purchasable_balance": 2,
+    "purchasable_balance": 3,
     "restrictions": [],
     "return_policy": null,
     "sell_by_weight_config": null,
@@ -1042,7 +1124,7 @@
     "product_hierarchy_tags": [
       "UNKNOWN"
     ],
-    "purchasable_balance": 4,
+    "purchasable_balance": 2,
     "restrictions": [],
     "return_policy": null,
     "sell_by_weight_config": null,
@@ -1370,7 +1452,7 @@
     "product_hierarchy_tags": [
       "UNKNOWN"
     ],
-    "purchasable_balance": 5,
+    "purchasable_balance": 4,
     "restrictions": [],
     "return_policy": null,
     "sell_by_weight_config": null,
@@ -1452,7 +1534,7 @@
     "product_hierarchy_tags": [
       "UNKNOWN"
     ],
-    "purchasable_balance": 4,
+    "purchasable_balance": 3,
     "restrictions": [],
     "return_policy": null,
     "sell_by_weight_config": null,
@@ -1534,7 +1616,7 @@
     "product_hierarchy_tags": [
       "UNKNOWN"
     ],
-    "purchasable_balance": 7,
+    "purchasable_balance": 6,
     "restrictions": [],
     "return_policy": null,
     "sell_by_weight_config": null,
@@ -1955,88 +2037,6 @@
       "base": 1,
       "original_price": null,
       "price": 362500,
-      "unit": "kilogram"
-    },
-    "variant": null,
-    "vat_category_code": null,
-    "vat_percentage": 12,
-    "vat_percentage_decimal": "12.0",
-    "external_compliance_link": null,
-    "consent_info": {
-      "ask_consent": false,
-      "blur_image": false
-    }
-  },
-  {
-    "id": "85e27416885bd9863d44e569",
-    "advertising_info": null,
-    "alcohol_permille": 0,
-    "allowed_delivery_methods": [
-      "homedelivery",
-      "takeaway",
-      "eatin"
-    ],
-    "available_times": [
-      {
-        "days": [
-          1,
-          2,
-          3,
-          4,
-          5,
-          6,
-          7
-        ],
-        "start_time": 0,
-        "end_time": 86400000
-      }
-    ],
-    "barcode_gtin": "04607070253358",
-    "caffeine_info": null,
-    "can_be_promoted": {
-      "basket": true,
-      "venue": true,
-      "credits": true
-    },
-    "checksum": "52b2118878804d252d785c07ded547d7",
-    "description": "Быстрозамороженная брюссельская капуста\"Планета Витаминов\". Небольшие кочанчики подходят для варки, жарки и запекания в качестве гарнира. Упаковка 400г.",
-    "deposit": null,
-    "dietary_preferences": [],
-    "disabled_info": null,
-    "fulfillment_lead_time": null,
-    "has_extra_info": true,
-    "images": [
-      {
-        "url": "https://imageproxy.wolt.com/assets/6808d7a34fd375dd128a2d45",
-        "blurhash": "LHSZ2+s;~XRjWooMs:R%-rWUE0s;"
-      }
-    ],
-    "is_cutlery": false,
-    "is_no_contact_delivery_allowed": true,
-    "is_wolt_plus_only": false,
-    "lowest_price": null,
-    "lowest_price_v2": null,
-    "max_quantity_per_purchase": null,
-    "min_quantity_per_purchase": null,
-    "name": "Капуста Брюссельская, Планета Витаминов, 400г",
-    "options": [],
-    "original_price": null,
-    "item_price_discount_validity_period": null,
-    "price": 153500,
-    "product_hierarchy_tags": [
-      "UNKNOWN"
-    ],
-    "purchasable_balance": 1,
-    "restrictions": [],
-    "return_policy": null,
-    "sell_by_weight_config": null,
-    "should_display_purchasable_balance": true,
-    "tags": [],
-    "unit_info": "400 г",
-    "unit_price": {
-      "base": 1,
-      "original_price": null,
-      "price": 383750,
       "unit": "kilogram"
     },
     "variant": null,
@@ -2600,7 +2600,7 @@
     "product_hierarchy_tags": [
       "UNKNOWN"
     ],
-    "purchasable_balance": 2,
+    "purchasable_balance": 1,
     "restrictions": [],
     "return_policy": null,
     "sell_by_weight_config": null,
@@ -6046,7 +6046,7 @@
     "product_hierarchy_tags": [
       "UNKNOWN"
     ],
-    "purchasable_balance": 12,
+    "purchasable_balance": 9,
     "restrictions": [],
     "return_policy": null,
     "sell_by_weight_config": null,
@@ -7522,7 +7522,7 @@
     "product_hierarchy_tags": [
       "UNKNOWN"
     ],
-    "purchasable_balance": 2,
+    "purchasable_balance": 1,
     "restrictions": [],
     "return_policy": null,
     "sell_by_weight_config": null,

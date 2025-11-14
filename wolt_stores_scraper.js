@@ -31,7 +31,6 @@ function sleep(ms) { return new Promise(res => setTimeout(res, ms)); }
 
         // только товары Wolt
         if (!url.includes("consumer-api/consumer-assortment/v1/venues/slug")) return;
-        https://consumer-api.wolt.com/consumer-api/consumer-assortment/v1/venues/slug/wolt-market-left-bank/assortment/categories/slug/menucategory-106?language=ru
 
 
         try {
