@@ -1,0 +1,886 @@
+[
+  {
+    "original": "Джинн семена подсолнечника неочищенные черные, с морской солью 250 г",
+    "cleanTokens": [
+      "семена",
+      "подсолнечника",
+      "неочищенные",
+      "черные",
+      "с",
+      "морской",
+      "солью"
+    ],
+    "normalizedTokens": [
+      "семена",
+      "подсолнечника",
+      "неочищенные",
+      "черные",
+      "с",
+      "морской",
+      "солью",
+      "250 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "250 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Samurai семена подсолнечника неочищенные полосатые, соленые 200 г",
+    "cleanTokens": [
+      "семена",
+      "подсолнечника",
+      "неочищенные",
+      "полосатые",
+      "соленые"
+    ],
+    "normalizedTokens": [
+      "семена",
+      "подсолнечника",
+      "неочищенные",
+      "полосатые",
+      "соленые",
+      "200 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "200 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "От Мартина семена подсолнечника неочищенные черные, с морской солью 100 г",
+    "cleanTokens": [
+      "семена",
+      "подсолнечника",
+      "неочищенные",
+      "черные",
+      "с",
+      "морской",
+      "солью"
+    ],
+    "normalizedTokens": [
+      "семена",
+      "подсолнечника",
+      "неочищенные",
+      "черные",
+      "с",
+      "морской",
+      "солью",
+      "100 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "100 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "От Мартина семена подсолнечника неочищенные черные, отборные 200 г",
+    "cleanTokens": [
+      "семена",
+      "подсолнечника",
+      "неочищенные",
+      "черные",
+      "отборные"
+    ],
+    "normalizedTokens": [
+      "семена",
+      "подсолнечника",
+      "неочищенные",
+      "черные",
+      "отборные",
+      "200 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "200 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "От Мартина семена подсолнечника неочищенные полосатые, соленые 150 г",
+    "cleanTokens": [
+      "семена",
+      "подсолнечника",
+      "неочищенные",
+      "полосатые",
+      "соленые"
+    ],
+    "normalizedTokens": [
+      "семена",
+      "подсолнечника",
+      "неочищенные",
+      "полосатые",
+      "соленые",
+      "150 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "150 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "От Мартина семена подсолнечника неочищенные белые, соленые 150 г",
+    "cleanTokens": [
+      "семена",
+      "подсолнечника",
+      "неочищенные",
+      "белые",
+      "соленые"
+    ],
+    "normalizedTokens": [
+      "семена",
+      "подсолнечника",
+      "неочищенные",
+      "белые",
+      "соленые",
+      "150 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "150 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Джинн семена подсолнечника неочищенные черные, с морской солью 350 г",
+    "cleanTokens": [
+      "семена",
+      "подсолнечника",
+      "неочищенные",
+      "черные",
+      "с",
+      "морской",
+      "солью"
+    ],
+    "normalizedTokens": [
+      "семена",
+      "подсолнечника",
+      "неочищенные",
+      "черные",
+      "с",
+      "морской",
+      "солью",
+      "350 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "350 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "FitFeel семена льна очищенные пищевая добавка 200 г",
+    "cleanTokens": [
+      "семена",
+      "льна",
+      "очищенные",
+      "пищевая",
+      "добавка"
+    ],
+    "normalizedTokens": [
+      "семена",
+      "льна",
+      "очищенные",
+      "пищевая",
+      "добавка",
+      "200 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "200 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Восточный базар семена льна очищенные 400 г",
+    "cleanTokens": [
+      "семена",
+      "льна",
+      "очищенные"
+    ],
+    "normalizedTokens": [
+      "семена",
+      "льна",
+      "очищенные",
+      "400 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "400 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Samurai семена подсолнечника неочищенные черные 100 г",
+    "cleanTokens": [
+      "семена",
+      "подсолнечника",
+      "неочищенные",
+      "черные"
+    ],
+    "normalizedTokens": [
+      "семена",
+      "подсолнечника",
+      "неочищенные",
+      "черные",
+      "100 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "100 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Kuraga.kz семена льна очищенные натуральные 400 г",
+    "cleanTokens": [
+      "семена",
+      "льна",
+      "очищенные",
+      "натуральные"
+    ],
+    "normalizedTokens": [
+      "семена",
+      "льна",
+      "очищенные",
+      "натуральные",
+      "400 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "400 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Kuraga.kz семена льна очищенные натуральные 200 г",
+    "cleanTokens": [
+      "семена",
+      "льна",
+      "очищенные",
+      "натуральные"
+    ],
+    "normalizedTokens": [
+      "семена",
+      "льна",
+      "очищенные",
+      "натуральные",
+      "200 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "200 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Гранд Семачос семена подсолнечника неочищенные черные 200 г",
+    "cleanTokens": [
+      "семена",
+      "подсолнечника",
+      "неочищенные",
+      "черные"
+    ],
+    "normalizedTokens": [
+      "семена",
+      "подсолнечника",
+      "неочищенные",
+      "черные",
+      "200 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "200 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Восточный базар семена льна очищенные натуральные 200 г",
+    "cleanTokens": [
+      "семена",
+      "льна",
+      "очищенные",
+      "натуральные"
+    ],
+    "normalizedTokens": [
+      "семена",
+      "льна",
+      "очищенные",
+      "натуральные",
+      "200 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "200 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Восточный базар семечки тыквенные очищенные натуральные 200 г",
+    "cleanTokens": [
+      "тыквенные",
+      "очищенные",
+      "натуральные"
+    ],
+    "normalizedTokens": [
+      "тыквенные",
+      "очищенные",
+      "натуральные",
+      "200 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "200 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Восточный базар семена подсолнечника очищенные белые 400 г",
+    "cleanTokens": [
+      "семена",
+      "подсолнечника",
+      "очищенные",
+      "белые"
+    ],
+    "normalizedTokens": [
+      "семена",
+      "подсолнечника",
+      "очищенные",
+      "белые",
+      "400 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "400 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Джинн семена подсолнечника неочищенные отборные 100 г",
+    "cleanTokens": [
+      "семена",
+      "подсолнечника",
+      "неочищенные",
+      "отборные"
+    ],
+    "normalizedTokens": [
+      "семена",
+      "подсолнечника",
+      "неочищенные",
+      "отборные",
+      "100 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "100 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Восточный базар семечки тыквенные очищенные натуральные 400 г",
+    "cleanTokens": [
+      "тыквенные",
+      "очищенные",
+      "натуральные"
+    ],
+    "normalizedTokens": [
+      "тыквенные",
+      "очищенные",
+      "натуральные",
+      "400 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "400 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Kuraga.kz семена чиа очищенные отборные 200 г",
+    "cleanTokens": [
+      "семена",
+      "чиа",
+      "очищенные",
+      "отборные"
+    ],
+    "normalizedTokens": [
+      "семена",
+      "чиа",
+      "очищенные",
+      "отборные",
+      "200 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "200 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "FitMall семена льна очищенные пищевая добавка 500 г",
+    "cleanTokens": [
+      "семена",
+      "льна",
+      "очищенные",
+      "пищевая",
+      "добавка"
+    ],
+    "normalizedTokens": [
+      "семена",
+      "льна",
+      "очищенные",
+      "пищевая",
+      "добавка",
+      "500 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "500 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Восточный базар семена подсолнечника очищенные натуральные 200 г",
+    "cleanTokens": [
+      "семена",
+      "подсолнечника",
+      "очищенные",
+      "натуральные"
+    ],
+    "normalizedTokens": [
+      "семена",
+      "подсолнечника",
+      "очищенные",
+      "натуральные",
+      "200 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "200 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Kuraga.kz семена чиа очищенные отборные 400 г",
+    "cleanTokens": [
+      "семена",
+      "чиа",
+      "очищенные",
+      "отборные"
+    ],
+    "normalizedTokens": [
+      "семена",
+      "чиа",
+      "очищенные",
+      "отборные",
+      "400 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "400 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Kuraga.kz семена подсолнечника очищенные белые 400 г",
+    "cleanTokens": [
+      "семена",
+      "подсолнечника",
+      "очищенные",
+      "белые"
+    ],
+    "normalizedTokens": [
+      "семена",
+      "подсолнечника",
+      "очищенные",
+      "белые",
+      "400 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "400 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Synergy семечки тыквенные неочищенные натуральные 200 г",
+    "cleanTokens": [
+      "тыквенные",
+      "неочищенные",
+      "натуральные"
+    ],
+    "normalizedTokens": [
+      "тыквенные",
+      "неочищенные",
+      "натуральные",
+      "200 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "200 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "TopLife семена льна очищенные пищевая добавка 300 г",
+    "cleanTokens": [
+      "семена",
+      "льна",
+      "очищенные",
+      "пищевая",
+      "добавка"
+    ],
+    "normalizedTokens": [
+      "семена",
+      "льна",
+      "очищенные",
+      "пищевая",
+      "добавка",
+      "300 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "300 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Synergy смесь обезжиренных семян и орехов для салата 250 г",
+    "cleanTokens": [
+      "смесь",
+      "обезжиренных",
+      "семян",
+      "и",
+      "орехов",
+      "для",
+      "салата"
+    ],
+    "normalizedTokens": [
+      "смесь",
+      "обезжиренных",
+      "семян",
+      "и",
+      "орехов",
+      "для",
+      "салата",
+      "250 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "250 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Kuraga.kz семечки тыквенные очищенные отборные 400 г",
+    "cleanTokens": [
+      "тыквенные",
+      "очищенные",
+      "отборные"
+    ],
+    "normalizedTokens": [
+      "тыквенные",
+      "очищенные",
+      "отборные",
+      "400 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "400 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Гранд Семачос семена подсолнечника неочищенные черные 100 г",
+    "cleanTokens": [
+      "семена",
+      "подсолнечника",
+      "неочищенные",
+      "черные"
+    ],
+    "normalizedTokens": [
+      "семена",
+      "подсолнечника",
+      "неочищенные",
+      "черные",
+      "100 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "100 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Kuraga.kz семечки тыквенные очищенные вегетарианский продукт 200 г",
+    "cleanTokens": [
+      "тыквенные",
+      "очищенные",
+      "вегетарианский",
+      "продукт"
+    ],
+    "normalizedTokens": [
+      "тыквенные",
+      "очищенные",
+      "вегетарианский",
+      "продукт",
+      "200 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "200 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Kuraga.kz семена нута очищенные натуральные 400 г",
+    "cleanTokens": [
+      "семена",
+      "нута",
+      "очищенные",
+      "натуральные"
+    ],
+    "normalizedTokens": [
+      "семена",
+      "нута",
+      "очищенные",
+      "натуральные",
+      "400 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "400 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Synergy семена расторопши очищенные вегетарианский продукт 200 г",
+    "cleanTokens": [
+      "семена",
+      "расторопши",
+      "очищенные",
+      "вегетарианский",
+      "продукт"
+    ],
+    "normalizedTokens": [
+      "семена",
+      "расторопши",
+      "очищенные",
+      "вегетарианский",
+      "продукт",
+      "200 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "200 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Kuraga.kz семена подсолнечника очищенные белые 200 г",
+    "cleanTokens": [
+      "семена",
+      "подсолнечника",
+      "очищенные",
+      "белые"
+    ],
+    "normalizedTokens": [
+      "семена",
+      "подсолнечника",
+      "очищенные",
+      "белые",
+      "200 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "200 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Это полезно семена чиа очищенные натуральные 200 г",
+    "cleanTokens": [
+      "семена",
+      "чиа",
+      "очищенные",
+      "натуральные"
+    ],
+    "normalizedTokens": [
+      "семена",
+      "чиа",
+      "очищенные",
+      "натуральные",
+      "200 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "200 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Джинн Солнечный Великан семена подсолнечника неочищенные полосатые 300 г",
+    "cleanTokens": [
+      "солнечный",
+      "великан",
+      "семена",
+      "подсолнечника",
+      "неочищенные",
+      "полосатые"
+    ],
+    "normalizedTokens": [
+      "солнечный",
+      "великан",
+      "семена",
+      "подсолнечника",
+      "неочищенные",
+      "полосатые",
+      "300 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "300 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  }
+]

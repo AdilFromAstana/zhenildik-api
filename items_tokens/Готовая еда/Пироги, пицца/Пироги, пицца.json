@@ -1,0 +1,25 @@
+[
+  {
+    "original": "Shaurma-Food лахмаджун мясо, сыр 420 г",
+    "cleanTokens": [
+      "лахмаджун",
+      "мясо",
+      "сыр"
+    ],
+    "normalizedTokens": [
+      "лахмаджун",
+      "мясо",
+      "сыр",
+      "420 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "420 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  }
+]

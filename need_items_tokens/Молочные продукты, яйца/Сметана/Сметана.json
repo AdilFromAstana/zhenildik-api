@@ -1,0 +1,678 @@
+[
+  {
+    "original": "Сметана PRESIDENT 10% 200 г",
+    "cleanTokens": [],
+    "normalizedTokens": [
+      "10%",
+      "200 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "200 г",
+      "count": null,
+      "pack": null,
+      "percent": "10%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Сметана Зенченко и Ко 15% 200 г",
+    "cleanTokens": [],
+    "normalizedTokens": [
+      "15%",
+      "200 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "200 г",
+      "count": null,
+      "pack": null,
+      "percent": "15%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Сметана Зенченко и Ко 15% 400 г",
+    "cleanTokens": [],
+    "normalizedTokens": [
+      "15%",
+      "400 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "400 г",
+      "count": null,
+      "pack": null,
+      "percent": "15%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Сметана Зенченко и Ко 20% 400 г",
+    "cleanTokens": [],
+    "normalizedTokens": [
+      "20%",
+      "400 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "400 г",
+      "count": null,
+      "pack": null,
+      "percent": "20%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Сметана PRESIDENT 10% 400 г",
+    "cleanTokens": [],
+    "normalizedTokens": [
+      "10%",
+      "400 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "400 г",
+      "count": null,
+      "pack": null,
+      "percent": "10%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Сметана Молочный Бидончик 20% 400 г",
+    "cleanTokens": [],
+    "normalizedTokens": [
+      "20%",
+      "400 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "400 г",
+      "count": null,
+      "pack": null,
+      "percent": "20%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Сметана Зенченко и Ко 20% 200 г",
+    "cleanTokens": [],
+    "normalizedTokens": [
+      "20%",
+      "200 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "200 г",
+      "count": null,
+      "pack": null,
+      "percent": "20%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Сметана Простоквашино 20% 300 г",
+    "cleanTokens": [],
+    "normalizedTokens": [
+      "20%",
+      "300 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "300 г",
+      "count": null,
+      "pack": null,
+      "percent": "20%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Сметана PRESIDENT 25% 385 г",
+    "cleanTokens": [],
+    "normalizedTokens": [
+      "25%",
+      "385 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "385 г",
+      "count": null,
+      "pack": null,
+      "percent": "25%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Сметана Nәtige 20% 180 г",
+    "cleanTokens": [],
+    "normalizedTokens": [
+      "20%",
+      "180 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "180 г",
+      "count": null,
+      "pack": null,
+      "percent": "20%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Сметана Деп Славянка 20% 400 г",
+    "cleanTokens": [
+      "славянка"
+    ],
+    "normalizedTokens": [
+      "славянка",
+      "20%",
+      "400 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "400 г",
+      "count": null,
+      "pack": null,
+      "percent": "20%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Сметана Село Лесное 20% 360 г",
+    "cleanTokens": [],
+    "normalizedTokens": [
+      "20%",
+      "360 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "360 г",
+      "count": null,
+      "pack": null,
+      "percent": "20%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Сметана Родина 15% 400 г",
+    "cleanTokens": [],
+    "normalizedTokens": [
+      "15%",
+      "400 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "400 г",
+      "count": null,
+      "pack": null,
+      "percent": "15%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Сметана Родина 30% 400 г",
+    "cleanTokens": [],
+    "normalizedTokens": [
+      "30%",
+      "400 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "400 г",
+      "count": null,
+      "pack": null,
+      "percent": "30%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Сметана Айс 15% 400 г",
+    "cleanTokens": [],
+    "normalizedTokens": [
+      "15%",
+      "400 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "400 г",
+      "count": null,
+      "pack": null,
+      "percent": "15%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Сметана PRESIDENT 10% 380 г",
+    "cleanTokens": [],
+    "normalizedTokens": [
+      "10%",
+      "380 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "380 г",
+      "count": null,
+      "pack": null,
+      "percent": "10%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Сметана Айс 20% 400 г",
+    "cleanTokens": [],
+    "normalizedTokens": [
+      "20%",
+      "400 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "400 г",
+      "count": null,
+      "pack": null,
+      "percent": "20%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Сметана Простоквашино 25% 300 г",
+    "cleanTokens": [],
+    "normalizedTokens": [
+      "25%",
+      "300 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "300 г",
+      "count": null,
+      "pack": null,
+      "percent": "25%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Сметана Садовое 15% 500 г",
+    "cleanTokens": [],
+    "normalizedTokens": [
+      "15%",
+      "500 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "500 г",
+      "count": null,
+      "pack": null,
+      "percent": "15%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Сметана Село Лесное 15% 360 г",
+    "cleanTokens": [],
+    "normalizedTokens": [
+      "15%",
+      "360 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "360 г",
+      "count": null,
+      "pack": null,
+      "percent": "15%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Сметана Astana-Өнім 20% 400 г",
+    "cleanTokens": [],
+    "normalizedTokens": [
+      "20%",
+      "400 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "400 г",
+      "count": null,
+      "pack": null,
+      "percent": "20%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Сметана Astana-Өнім 58% 200 г",
+    "cleanTokens": [],
+    "normalizedTokens": [
+      "58%",
+      "200 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "200 г",
+      "count": null,
+      "pack": null,
+      "percent": "58%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Сметана Садовое 15% 200 г",
+    "cleanTokens": [],
+    "normalizedTokens": [
+      "15%",
+      "200 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "200 г",
+      "count": null,
+      "pack": null,
+      "percent": "15%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Сметана Деп Славянка 20% 180 г",
+    "cleanTokens": [
+      "славянка"
+    ],
+    "normalizedTokens": [
+      "славянка",
+      "20%",
+      "180 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "180 г",
+      "count": null,
+      "pack": null,
+      "percent": "20%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Сметана Nәtige 15% 180 г",
+    "cleanTokens": [],
+    "normalizedTokens": [
+      "15%",
+      "180 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "180 г",
+      "count": null,
+      "pack": null,
+      "percent": "15%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Сметана Простоквашино 20% 180 г",
+    "cleanTokens": [],
+    "normalizedTokens": [
+      "20%",
+      "180 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "180 г",
+      "count": null,
+      "pack": null,
+      "percent": "20%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Сметана Молочный Бидончик 20% 200 г",
+    "cleanTokens": [],
+    "normalizedTokens": [
+      "20%",
+      "200 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "200 г",
+      "count": null,
+      "pack": null,
+      "percent": "20%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Сметана Простоквашино 15% 180 г",
+    "cleanTokens": [],
+    "normalizedTokens": [
+      "15%",
+      "180 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "180 г",
+      "count": null,
+      "pack": null,
+      "percent": "15%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Сметана Село Лесное 20% 180 г",
+    "cleanTokens": [],
+    "normalizedTokens": [
+      "20%",
+      "180 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "180 г",
+      "count": null,
+      "pack": null,
+      "percent": "20%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Сметана Эмиль 15% 180 г",
+    "cleanTokens": [],
+    "normalizedTokens": [
+      "15%",
+      "180 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "180 г",
+      "count": null,
+      "pack": null,
+      "percent": "15%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Сметана Эмиль 25% 280 г",
+    "cleanTokens": [],
+    "normalizedTokens": [
+      "25%",
+      "280 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "280 г",
+      "count": null,
+      "pack": null,
+      "percent": "25%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Сметана Садовое 20% 200 г",
+    "cleanTokens": [],
+    "normalizedTokens": [
+      "20%",
+      "200 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "200 г",
+      "count": null,
+      "pack": null,
+      "percent": "20%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Сметана Село Лесное 15% 180 г",
+    "cleanTokens": [],
+    "normalizedTokens": [
+      "15%",
+      "180 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "180 г",
+      "count": null,
+      "pack": null,
+      "percent": "15%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Сметана Nәtige 15% 500 г",
+    "cleanTokens": [],
+    "normalizedTokens": [
+      "15%",
+      "500 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "500 г",
+      "count": null,
+      "pack": null,
+      "percent": "15%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Сметана Эмиль 20% 380 г",
+    "cleanTokens": [],
+    "normalizedTokens": [
+      "20%",
+      "380 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "380 г",
+      "count": null,
+      "pack": null,
+      "percent": "20%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Сметана Эмиль 15% 380 г",
+    "cleanTokens": [],
+    "normalizedTokens": [
+      "15%",
+      "380 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "380 г",
+      "count": null,
+      "pack": null,
+      "percent": "15%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Сметана Astana-Өнім 15% 200 г",
+    "cleanTokens": [],
+    "normalizedTokens": [
+      "15%",
+      "200 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "200 г",
+      "count": null,
+      "pack": null,
+      "percent": "15%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Сметана Эмиль 20% 180 г",
+    "cleanTokens": [],
+    "normalizedTokens": [
+      "20%",
+      "180 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "180 г",
+      "count": null,
+      "pack": null,
+      "percent": "20%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Сметана Добрая Коза из козьего молока 15% 200 г",
+    "cleanTokens": [
+      "из",
+      "козьего",
+      "молока"
+    ],
+    "normalizedTokens": [
+      "из",
+      "козьего",
+      "молока",
+      "15%",
+      "200 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "200 г",
+      "count": null,
+      "pack": null,
+      "percent": "15%",
+      "age": null,
+      "stars": null
+    }
+  }
+]

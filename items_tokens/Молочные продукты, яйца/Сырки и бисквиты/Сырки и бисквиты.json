@@ -1,0 +1,234 @@
+[
+  {
+    "original": "Плутоша творожный сырок лесная ягода 23% 40г",
+    "cleanTokens": [
+      "творожный",
+      "сырок",
+      "лесная",
+      "ягода",
+      "40г"
+    ],
+    "normalizedTokens": [
+      "творожный",
+      "сырок",
+      "лесная",
+      "ягода",
+      "23%",
+      "40г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "23%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Oreo бисквитное с молочной начинкой и кусочками печенья 27 г",
+    "cleanTokens": [
+      "бисквитное",
+      "с",
+      "молочной",
+      "начинкой",
+      "кусочками",
+      "печенья"
+    ],
+    "normalizedTokens": [
+      "бисквитное",
+      "с",
+      "молочной",
+      "начинкой",
+      "кусочками",
+      "печенья",
+      "27 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "27 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Плутоша сырок ванильный 40 г",
+    "cleanTokens": [
+      "сырок",
+      "ванильный"
+    ],
+    "normalizedTokens": [
+      "сырок",
+      "ванильный",
+      "40 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "40 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Платоша Сырок Сгущенка вареная 40 г",
+    "cleanTokens": [
+      "сырок",
+      "сгущенка",
+      "вареная"
+    ],
+    "normalizedTokens": [
+      "сырок",
+      "сгущенка",
+      "вареная",
+      "40 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "40 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Milino бисквит молочный 28 г",
+    "cleanTokens": [
+      "бисквит",
+      "молочный"
+    ],
+    "normalizedTokens": [
+      "бисквит",
+      "молочный",
+      "28 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "28 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Вердовский молочный завод сырок клубничный, банан 75 г",
+    "cleanTokens": [
+      "сырок",
+      "клубничный",
+      "банан"
+    ],
+    "normalizedTokens": [
+      "сырок",
+      "клубничный",
+      "банан",
+      "75 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "75 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Вердовский молочный завод Вини пух сырок молочный 75 г",
+    "cleanTokens": [
+      "вини",
+      "пух",
+      "сырок",
+      "молочный"
+    ],
+    "normalizedTokens": [
+      "вини",
+      "пух",
+      "сырок",
+      "молочный",
+      "75 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "75 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "JLC сырок какао 50 г",
+    "cleanTokens": [
+      "сырок",
+      "какао"
+    ],
+    "normalizedTokens": [
+      "сырок",
+      "какао",
+      "50 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "50 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "JLC сырок ванильный 50 г",
+    "cleanTokens": [
+      "сырок",
+      "ванильный"
+    ],
+    "normalizedTokens": [
+      "сырок",
+      "ванильный",
+      "50 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "50 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Ferrero бисквит клубничный 28 г",
+    "cleanTokens": [
+      "бисквит",
+      "клубничный"
+    ],
+    "normalizedTokens": [
+      "бисквит",
+      "клубничный",
+      "28 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "28 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  }
+]

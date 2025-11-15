@@ -1,0 +1,4190 @@
+[
+  {
+    "original": "MAGNUM компотная смесь Казахстан",
+    "cleanTokens": [
+      "компотная",
+      "смесь",
+      "казахстан"
+    ],
+    "normalizedTokens": [
+      "компотная",
+      "смесь",
+      "казахстан"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Восточный базар финики 200 г",
+    "cleanTokens": [
+      "финики"
+    ],
+    "normalizedTokens": [
+      "финики",
+      "200 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "200 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Восточный базар курага медовая 200 г",
+    "cleanTokens": [
+      "курага",
+      "медовая"
+    ],
+    "normalizedTokens": [
+      "курага",
+      "медовая",
+      "200 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "200 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Immune Up грушевые чипсы 25 г",
+    "cleanTokens": [
+      "грушевые"
+    ],
+    "normalizedTokens": [
+      "грушевые",
+      "25 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "25 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Восточный базар инжир 200 г",
+    "cleanTokens": [
+      "инжир"
+    ],
+    "normalizedTokens": [
+      "инжир",
+      "200 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "200 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Immune Up ананас 20 г",
+    "cleanTokens": [
+      "ананас"
+    ],
+    "normalizedTokens": [
+      "ананас",
+      "20 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "20 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Immune Up фруктовые чипсы апельсин 20 г",
+    "cleanTokens": [
+      "фруктовые",
+      "апельсин"
+    ],
+    "normalizedTokens": [
+      "фруктовые",
+      "апельсин",
+      "20 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "20 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Восточный базар клюква 200 г",
+    "cleanTokens": [
+      "клюква"
+    ],
+    "normalizedTokens": [
+      "клюква",
+      "200 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "200 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Восточный базар изюм коричневый кишмиш 200 г",
+    "cleanTokens": [
+      "изюм",
+      "коричневый",
+      "кишмиш"
+    ],
+    "normalizedTokens": [
+      "изюм",
+      "коричневый",
+      "кишмиш",
+      "200 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "200 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Абрикос банановые чипсы 300 г",
+    "cleanTokens": [
+      "банановые"
+    ],
+    "normalizedTokens": [
+      "банановые",
+      "300 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "300 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Восточный базар пастила яблочная 300 г",
+    "cleanTokens": [
+      "пастила",
+      "яблочная"
+    ],
+    "normalizedTokens": [
+      "пастила",
+      "яблочная",
+      "300 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "300 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Абрикос курага сорт сахарный 300 г",
+    "cleanTokens": [
+      "курага",
+      "сорт",
+      "сахарный"
+    ],
+    "normalizedTokens": [
+      "курага",
+      "сорт",
+      "сахарный",
+      "300 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "300 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Абрикос изюм голд желтый 300 г",
+    "cleanTokens": [
+      "изюм",
+      "голд",
+      "желтый"
+    ],
+    "normalizedTokens": [
+      "изюм",
+      "голд",
+      "желтый",
+      "300 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "300 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Абрикос цукаты 300 г",
+    "cleanTokens": [
+      "цукаты"
+    ],
+    "normalizedTokens": [
+      "цукаты",
+      "300 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "300 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Восточный базар компотная смесь 500 г",
+    "cleanTokens": [
+      "компотная",
+      "смесь"
+    ],
+    "normalizedTokens": [
+      "компотная",
+      "смесь",
+      "500 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "500 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Восточный базар Восточный базар ананас цукат 200 г 200 г",
+    "cleanTokens": [
+      "ананас",
+      "цукат"
+    ],
+    "normalizedTokens": [
+      "ананас",
+      "цукат",
+      "200 г",
+      "200 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "200 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Восточный базар папайя 200 г",
+    "cleanTokens": [
+      "папайя"
+    ],
+    "normalizedTokens": [
+      "папайя",
+      "200 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "200 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Восточный базар чернослив с косточкой 200 г",
+    "cleanTokens": [
+      "чернослив",
+      "с",
+      "косточкой"
+    ],
+    "normalizedTokens": [
+      "чернослив",
+      "с",
+      "косточкой",
+      "200 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "200 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Абрикос курага королевская 300 г",
+    "cleanTokens": [
+      "курага",
+      "королевская"
+    ],
+    "normalizedTokens": [
+      "курага",
+      "королевская",
+      "300 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "300 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Абрикос вишня цукат 300 г",
+    "cleanTokens": [
+      "вишня",
+      "цукат"
+    ],
+    "normalizedTokens": [
+      "вишня",
+      "цукат",
+      "300 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "300 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Абрикос изюм сояги темный 300 г",
+    "cleanTokens": [
+      "изюм",
+      "сояги",
+      "темный"
+    ],
+    "normalizedTokens": [
+      "изюм",
+      "сояги",
+      "темный",
+      "300 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "300 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Абрикос клюква 300 г",
+    "cleanTokens": [
+      "клюква"
+    ],
+    "normalizedTokens": [
+      "клюква",
+      "300 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "300 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Восточный базар банановые чипсы 200 г",
+    "cleanTokens": [
+      "банановые"
+    ],
+    "normalizedTokens": [
+      "банановые",
+      "200 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "200 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Абрикос пастила яблочная 300 г",
+    "cleanTokens": [
+      "пастила",
+      "яблочная"
+    ],
+    "normalizedTokens": [
+      "пастила",
+      "яблочная",
+      "300 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "300 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Восточный базар манго кубики желейные 300 г",
+    "cleanTokens": [
+      "манго",
+      "кубики",
+      "желейные"
+    ],
+    "normalizedTokens": [
+      "манго",
+      "кубики",
+      "желейные",
+      "300 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "300 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Immune Up банановые чипсы 25 г",
+    "cleanTokens": [
+      "банановые"
+    ],
+    "normalizedTokens": [
+      "банановые",
+      "25 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "25 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Immune Up чипсы тыква 20 г",
+    "cleanTokens": [
+      "тыква"
+    ],
+    "normalizedTokens": [
+      "тыква",
+      "20 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "20 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Восточный базар кокос кубики желейные 300 г",
+    "cleanTokens": [
+      "кокос",
+      "кубики",
+      "желейные"
+    ],
+    "normalizedTokens": [
+      "кокос",
+      "кубики",
+      "желейные",
+      "300 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "300 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Восточный базар вишня цукат 200 г",
+    "cleanTokens": [
+      "вишня",
+      "цукат"
+    ],
+    "normalizedTokens": [
+      "вишня",
+      "цукат",
+      "200 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "200 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Абрикос курага натуральная 300 г",
+    "cleanTokens": [
+      "курага",
+      "натуральная"
+    ],
+    "normalizedTokens": [
+      "курага",
+      "натуральная",
+      "300 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "300 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Абрикос финики меджуль королевские размер L 300 г",
+    "cleanTokens": [
+      "финики",
+      "меджуль",
+      "королевские",
+      "размер",
+      "l"
+    ],
+    "normalizedTokens": [
+      "финики",
+      "меджуль",
+      "королевские",
+      "размер",
+      "l",
+      "300 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "300 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Абрикос клубника вяленая 300 г",
+    "cleanTokens": [
+      "клубника",
+      "вяленая"
+    ],
+    "normalizedTokens": [
+      "клубника",
+      "вяленая",
+      "300 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "300 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Абрикос курага палочки 300 г",
+    "cleanTokens": [
+      "курага",
+      "палочки"
+    ],
+    "normalizedTokens": [
+      "курага",
+      "палочки",
+      "300 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "300 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Фрукт Продукт фруктовые чипсы яблоко 30 г",
+    "cleanTokens": [
+      "фруктовые",
+      "яблоко"
+    ],
+    "normalizedTokens": [
+      "фруктовые",
+      "яблоко",
+      "30 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "30 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Абрикос хурма 300 г",
+    "cleanTokens": [
+      "хурма"
+    ],
+    "normalizedTokens": [
+      "хурма",
+      "300 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "300 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Восточный базар курага палочками 200 г",
+    "cleanTokens": [
+      "курага",
+      "палочками"
+    ],
+    "normalizedTokens": [
+      "курага",
+      "палочками",
+      "200 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "200 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Абрикос персик ломтики 300 г",
+    "cleanTokens": [
+      "персик",
+      "ломтики"
+    ],
+    "normalizedTokens": [
+      "персик",
+      "ломтики",
+      "300 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "300 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Абрикос слива красная 300 г",
+    "cleanTokens": [
+      "слива",
+      "красная"
+    ],
+    "normalizedTokens": [
+      "слива",
+      "красная",
+      "300 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "300 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Zuhro Premium ананас сушеный 500 г",
+    "cleanTokens": [
+      "ананас",
+      "сушеный"
+    ],
+    "normalizedTokens": [
+      "ананас",
+      "сушеный",
+      "500 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "500 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Абрикос Финики суккари 300 г",
+    "cleanTokens": [
+      "финики",
+      "суккари"
+    ],
+    "normalizedTokens": [
+      "финики",
+      "суккари",
+      "300 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "300 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Абрикос курага сорт абрикос 300 г",
+    "cleanTokens": [
+      "курага",
+      "сорт"
+    ],
+    "normalizedTokens": [
+      "курага",
+      "сорт",
+      "300 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "300 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Абрикос финики аджва 300 г",
+    "cleanTokens": [
+      "финики",
+      "аджва"
+    ],
+    "normalizedTokens": [
+      "финики",
+      "аджва",
+      "300 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "300 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Абрикос финики меджуль королевские размер XL 300 г",
+    "cleanTokens": [
+      "финики",
+      "меджуль",
+      "королевские",
+      "размер",
+      "xl"
+    ],
+    "normalizedTokens": [
+      "финики",
+      "меджуль",
+      "королевские",
+      "размер",
+      "xl",
+      "300 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "300 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Абрикос курага монетка 300 г",
+    "cleanTokens": [
+      "курага",
+      "монетка"
+    ],
+    "normalizedTokens": [
+      "курага",
+      "монетка",
+      "300 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "300 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Абрикос пастила яблочная 300 г",
+    "cleanTokens": [
+      "пастила",
+      "яблочная"
+    ],
+    "normalizedTokens": [
+      "пастила",
+      "яблочная",
+      "300 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "300 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Абрикос слива дольки 300 г",
+    "cleanTokens": [
+      "слива",
+      "дольки"
+    ],
+    "normalizedTokens": [
+      "слива",
+      "дольки",
+      "300 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "300 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Восточный базар маракуйя 200 г",
+    "cleanTokens": [
+      "маракуйя"
+    ],
+    "normalizedTokens": [
+      "маракуйя",
+      "200 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "200 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Абрикос хурма слайсы 250 г",
+    "cleanTokens": [
+      "хурма",
+      "слайсы"
+    ],
+    "normalizedTokens": [
+      "хурма",
+      "слайсы",
+      "250 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "250 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Kong персик сушеные лепестки 500 г",
+    "cleanTokens": [
+      "персик",
+      "сушеные",
+      "лепестки"
+    ],
+    "normalizedTokens": [
+      "персик",
+      "сушеные",
+      "лепестки",
+      "500 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "500 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Immune Up финики 150 г",
+    "cleanTokens": [
+      "финики"
+    ],
+    "normalizedTokens": [
+      "финики",
+      "150 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "150 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Абрикос инжир 300 г",
+    "cleanTokens": [
+      "инжир"
+    ],
+    "normalizedTokens": [
+      "инжир",
+      "300 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "300 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Абрикос чернослив вяленый 300 г",
+    "cleanTokens": [
+      "чернослив",
+      "вяленый"
+    ],
+    "normalizedTokens": [
+      "чернослив",
+      "вяленый",
+      "300 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "300 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Фрукт Продукт фруктовые чипсы красное яблоко 30 г",
+    "cleanTokens": [
+      "фруктовые",
+      "красное",
+      "яблоко"
+    ],
+    "normalizedTokens": [
+      "фруктовые",
+      "красное",
+      "яблоко",
+      "30 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "30 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Абрикос изюм дамские пальчики желтый 300 г",
+    "cleanTokens": [
+      "изюм",
+      "дамские",
+      "пальчики",
+      "желтый"
+    ],
+    "normalizedTokens": [
+      "изюм",
+      "дамские",
+      "пальчики",
+      "желтый",
+      "300 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "300 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Восточный базар персик 200 г",
+    "cleanTokens": [
+      "персик"
+    ],
+    "normalizedTokens": [
+      "персик",
+      "200 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "200 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Kuraga.kz шиповник сушеный 200 г",
+    "cleanTokens": [
+      "шиповник",
+      "сушеный"
+    ],
+    "normalizedTokens": [
+      "шиповник",
+      "сушеный",
+      "200 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "200 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Фруктомания сушеные ананас 500 г",
+    "cleanTokens": [
+      "сушеные",
+      "ананас"
+    ],
+    "normalizedTokens": [
+      "сушеные",
+      "ананас",
+      "500 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "500 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Абрикос изюм дамские пальчики черный 300 г",
+    "cleanTokens": [
+      "изюм",
+      "дамские",
+      "пальчики",
+      "черный"
+    ],
+    "normalizedTokens": [
+      "изюм",
+      "дамские",
+      "пальчики",
+      "черный",
+      "300 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "300 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Kuraga.kz ананас кольца 500 г",
+    "cleanTokens": [
+      "ананас",
+      "кольца"
+    ],
+    "normalizedTokens": [
+      "ананас",
+      "кольца",
+      "500 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "500 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Фрукт Продукт фруктовые чипсы апельсин 30 г",
+    "cleanTokens": [
+      "фруктовые",
+      "апельсин"
+    ],
+    "normalizedTokens": [
+      "фруктовые",
+      "апельсин",
+      "30 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "30 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Абрикос манго кубики желейные 500 г",
+    "cleanTokens": [
+      "манго",
+      "кубики",
+      "желейные"
+    ],
+    "normalizedTokens": [
+      "манго",
+      "кубики",
+      "желейные",
+      "500 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "500 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Yes! Eco! фруктовые чипсы банан 40 г",
+    "cleanTokens": [
+      "eco!",
+      "фруктовые",
+      "банан"
+    ],
+    "normalizedTokens": [
+      "eco!",
+      "фруктовые",
+      "банан",
+      "40 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "40 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Юн н кубики фруктовый микс 500 г",
+    "cleanTokens": [
+      "кубики",
+      "фруктовый",
+      "микс"
+    ],
+    "normalizedTokens": [
+      "кубики",
+      "фруктовый",
+      "микс",
+      "500 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "500 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Юн н кубики вишни 500 г",
+    "cleanTokens": [
+      "кубики",
+      "вишни"
+    ],
+    "normalizedTokens": [
+      "кубики",
+      "вишни",
+      "500 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "500 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Юн н кубики персика 500 г",
+    "cleanTokens": [
+      "кубики",
+      "персика"
+    ],
+    "normalizedTokens": [
+      "кубики",
+      "персика",
+      "500 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "500 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Абрикос бананы вяленые 300 г",
+    "cleanTokens": [
+      "бананы",
+      "вяленые"
+    ],
+    "normalizedTokens": [
+      "бананы",
+      "вяленые",
+      "300 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "300 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Юн н кубики клубники 500 г",
+    "cleanTokens": [
+      "кубики",
+      "клубники"
+    ],
+    "normalizedTokens": [
+      "кубики",
+      "клубники",
+      "500 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "500 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Yes! Eco! фруктовые чипсы банан 100 г",
+    "cleanTokens": [
+      "eco!",
+      "фруктовые",
+      "банан"
+    ],
+    "normalizedTokens": [
+      "eco!",
+      "фруктовые",
+      "банан",
+      "100 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "100 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Kuraga.kz чернослив без косточки крупный 400 г",
+    "cleanTokens": [
+      "чернослив",
+      "без",
+      "косточки",
+      "крупный"
+    ],
+    "normalizedTokens": [
+      "чернослив",
+      "без",
+      "косточки",
+      "крупный",
+      "400 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "400 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Sultanshop финики аджва 1000 г",
+    "cleanTokens": [
+      "финики",
+      "аджва"
+    ],
+    "normalizedTokens": [
+      "финики",
+      "аджва",
+      "1000 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "1000 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Immune Up тропический микс ананас, апельсин, банан 20 г",
+    "cleanTokens": [
+      "тропический",
+      "микс",
+      "ананас",
+      "апельсин",
+      "банан"
+    ],
+    "normalizedTokens": [
+      "тропический",
+      "микс",
+      "ананас",
+      "апельсин",
+      "банан",
+      "20 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "20 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Kuraga.kz банановые чипсы 400 г",
+    "cleanTokens": [
+      "банановые"
+    ],
+    "normalizedTokens": [
+      "банановые",
+      "400 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "400 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Sultanshop Меджуль Королевские финики 1000 г",
+    "cleanTokens": [
+      "меджуль",
+      "королевские",
+      "финики"
+    ],
+    "normalizedTokens": [
+      "меджуль",
+      "королевские",
+      "финики",
+      "1000 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "1000 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Kuraga.kz цукаты кубики 500 г",
+    "cleanTokens": [
+      "цукаты",
+      "кубики"
+    ],
+    "normalizedTokens": [
+      "цукаты",
+      "кубики",
+      "500 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "500 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Kuraga.kz вишня 500 г",
+    "cleanTokens": [
+      "вишня"
+    ],
+    "normalizedTokens": [
+      "вишня",
+      "500 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "500 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Kuraga.kz клюква сушеная 200 г",
+    "cleanTokens": [
+      "клюква",
+      "сушеная"
+    ],
+    "normalizedTokens": [
+      "клюква",
+      "сушеная",
+      "200 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "200 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Чипсы TopLife кокос 100 г",
+    "cleanTokens": [
+      "кокос"
+    ],
+    "normalizedTokens": [
+      "кокос",
+      "100 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "100 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Kuraga.kz манго кубики 500 г",
+    "cleanTokens": [
+      "манго",
+      "кубики"
+    ],
+    "normalizedTokens": [
+      "манго",
+      "кубики",
+      "500 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "500 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Sultanshop финики Мабрум 1000 г",
+    "cleanTokens": [
+      "финики",
+      "мабрум"
+    ],
+    "normalizedTokens": [
+      "финики",
+      "мабрум",
+      "1000 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "1000 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Абрикос изюм королевский черный 300 г",
+    "cleanTokens": [
+      "изюм",
+      "королевский",
+      "черный"
+    ],
+    "normalizedTokens": [
+      "изюм",
+      "королевский",
+      "черный",
+      "300 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "300 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Абрикос папайя 300 г",
+    "cleanTokens": [
+      "папайя"
+    ],
+    "normalizedTokens": [
+      "папайя",
+      "300 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "300 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Абрикос клубника сублимированная 150 г",
+    "cleanTokens": [
+      "клубника",
+      "сублимированная"
+    ],
+    "normalizedTokens": [
+      "клубника",
+      "сублимированная",
+      "150 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "150 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Immune Up Черный изюм 200 г",
+    "cleanTokens": [
+      "черный",
+      "изюм"
+    ],
+    "normalizedTokens": [
+      "черный",
+      "изюм",
+      "200 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "200 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Фрукт Продукт фруктовые чипсы банан 30 г",
+    "cleanTokens": [
+      "фруктовые",
+      "банан"
+    ],
+    "normalizedTokens": [
+      "фруктовые",
+      "банан",
+      "30 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "30 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Kuraga.kz курага темная 400 г",
+    "cleanTokens": [
+      "курага",
+      "темная"
+    ],
+    "normalizedTokens": [
+      "курага",
+      "темная",
+      "400 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "400 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Kuraga.kz манго листики в упаковке 500 г",
+    "cleanTokens": [
+      "манго",
+      "листики",
+      "в",
+      "упаковке"
+    ],
+    "normalizedTokens": [
+      "манго",
+      "листики",
+      "в",
+      "упаковке",
+      "500 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "500 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Фрукт Продукт фруктовые чипсы ананас, апельсин, банан, груша, яблоко 7 пакетов по 30 г",
+    "cleanTokens": [
+      "фруктовые",
+      "ананас",
+      "апельсин",
+      "банан",
+      "груша",
+      "яблоко",
+      "7",
+      "пакетов",
+      "по"
+    ],
+    "normalizedTokens": [
+      "фруктовые",
+      "ананас",
+      "апельсин",
+      "банан",
+      "груша",
+      "яблоко",
+      "7",
+      "пакетов",
+      "по",
+      "30 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "30 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Восточный базар ананас сушеный 200 г",
+    "cleanTokens": [
+      "ананас",
+      "сушеный"
+    ],
+    "normalizedTokens": [
+      "ананас",
+      "сушеный",
+      "200 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "200 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Sultanshop финики суккари муфатталь 1000 г",
+    "cleanTokens": [
+      "финики",
+      "суккари",
+      "муфатталь"
+    ],
+    "normalizedTokens": [
+      "финики",
+      "суккари",
+      "муфатталь",
+      "1000 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "1000 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Фрукт Продукт фруктовые чипсы алматинское яблоко красное 24 пакета по 30 г",
+    "cleanTokens": [
+      "фруктовые",
+      "алматинское",
+      "яблоко",
+      "красное"
+    ],
+    "normalizedTokens": [
+      "фруктовые",
+      "алматинское",
+      "яблоко",
+      "красное",
+      "24 пакета по 30 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": null,
+      "pack": {
+        "packs": 24,
+        "perPack": 30,
+        "unit": "г"
+      },
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "YES! фруктовые чипсы яблоко 25 г",
+    "cleanTokens": [
+      "фруктовые",
+      "яблоко"
+    ],
+    "normalizedTokens": [
+      "фруктовые",
+      "яблоко",
+      "25 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "25 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Zuhro Premium сушеная папайя 500 г",
+    "cleanTokens": [
+      "сушеная",
+      "папайя"
+    ],
+    "normalizedTokens": [
+      "сушеная",
+      "папайя",
+      "500 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "500 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Zuhro Premium маракуйя 500 г",
+    "cleanTokens": [
+      "маракуйя"
+    ],
+    "normalizedTokens": [
+      "маракуйя",
+      "500 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "500 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Фрукт Продукт фруктовые чипсы ананас 30 г",
+    "cleanTokens": [
+      "фруктовые",
+      "ананас"
+    ],
+    "normalizedTokens": [
+      "фруктовые",
+      "ананас",
+      "30 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "30 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Абрикос помело цукат 300 г",
+    "cleanTokens": [
+      "помело",
+      "цукат"
+    ],
+    "normalizedTokens": [
+      "помело",
+      "цукат",
+      "300 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "300 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Immune Up тыква 20 г",
+    "cleanTokens": [
+      "тыква"
+    ],
+    "normalizedTokens": [
+      "тыква",
+      "20 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "20 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Абрикос курага сорт турецкий 300 г",
+    "cleanTokens": [
+      "курага",
+      "сорт",
+      "турецкий"
+    ],
+    "normalizedTokens": [
+      "курага",
+      "сорт",
+      "турецкий",
+      "300 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "300 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Правильные сладости пастилки сливовые 70 г",
+    "cleanTokens": [
+      "пастилки",
+      "сливовые"
+    ],
+    "normalizedTokens": [
+      "пастилки",
+      "сливовые",
+      "70 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "70 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Абрикос маракуйя 300 г",
+    "cleanTokens": [
+      "маракуйя"
+    ],
+    "normalizedTokens": [
+      "маракуйя",
+      "300 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "300 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Floris можжевельник 120 г",
+    "cleanTokens": [
+      "можжевельник"
+    ],
+    "normalizedTokens": [
+      "можжевельник",
+      "120 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "120 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Правильные сладости пастилки малина, яблоко 55 г",
+    "cleanTokens": [
+      "пастилки",
+      "малина",
+      "яблоко"
+    ],
+    "normalizedTokens": [
+      "пастилки",
+      "малина",
+      "яблоко",
+      "55 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "55 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "BATEEL Финики Сегай Segai с апельсиновыми цукатами 250 г",
+    "cleanTokens": [
+      "финики",
+      "сегай",
+      "segai",
+      "с",
+      "апельсиновыми",
+      "цукатами"
+    ],
+    "normalizedTokens": [
+      "финики",
+      "сегай",
+      "segai",
+      "с",
+      "апельсиновыми",
+      "цукатами",
+      "250 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "250 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Абрикос персик сушеный 300 г",
+    "cleanTokens": [
+      "персик",
+      "сушеный"
+    ],
+    "normalizedTokens": [
+      "персик",
+      "сушеный",
+      "300 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "300 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Фрутовит инжир сушеный 100 г",
+    "cleanTokens": [
+      "инжир",
+      "сушеный"
+    ],
+    "normalizedTokens": [
+      "инжир",
+      "сушеный",
+      "100 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "100 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Kuraga.kz курага сахарная 400 г",
+    "cleanTokens": [
+      "курага",
+      "сахарная"
+    ],
+    "normalizedTokens": [
+      "курага",
+      "сахарная",
+      "400 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "400 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Kuraga.kz клюква сушеная 400 г",
+    "cleanTokens": [
+      "клюква",
+      "сушеная"
+    ],
+    "normalizedTokens": [
+      "клюква",
+      "сушеная",
+      "400 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "400 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Bateel финики премиальные Меджул Medjool 250 г",
+    "cleanTokens": [
+      "финики",
+      "премиальные",
+      "меджул",
+      "medjool"
+    ],
+    "normalizedTokens": [
+      "финики",
+      "премиальные",
+      "меджул",
+      "medjool",
+      "250 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "250 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Kuraga.kz урюк крупный темный 500 г",
+    "cleanTokens": [
+      "урюк",
+      "крупный",
+      "темный"
+    ],
+    "normalizedTokens": [
+      "урюк",
+      "крупный",
+      "темный",
+      "500 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "500 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Immune Up курага 200 г",
+    "cleanTokens": [
+      "курага"
+    ],
+    "normalizedTokens": [
+      "курага",
+      "200 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "200 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Kuraga.kz финики иранские в упаковке 500 г",
+    "cleanTokens": [
+      "финики",
+      "иранские",
+      "в",
+      "упаковке"
+    ],
+    "normalizedTokens": [
+      "финики",
+      "иранские",
+      "в",
+      "упаковке",
+      "500 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "500 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Kuraga.kz вишня 250 г",
+    "cleanTokens": [
+      "вишня"
+    ],
+    "normalizedTokens": [
+      "вишня",
+      "250 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "250 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "MAGNUM подарочный набор фиников 900 г",
+    "cleanTokens": [
+      "подарочный",
+      "набор",
+      "фиников"
+    ],
+    "normalizedTokens": [
+      "подарочный",
+      "набор",
+      "фиников",
+      "900 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "900 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Kuraga.kz цукаты листики 500 г",
+    "cleanTokens": [
+      "цукаты",
+      "листики"
+    ],
+    "normalizedTokens": [
+      "цукаты",
+      "листики",
+      "500 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "500 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Kuraga.kz Манго кубики 490 г",
+    "cleanTokens": [
+      "манго",
+      "кубики"
+    ],
+    "normalizedTokens": [
+      "манго",
+      "кубики",
+      "490 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "490 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Kuraga.kz банановые чипсы 200 г",
+    "cleanTokens": [
+      "банановые"
+    ],
+    "normalizedTokens": [
+      "банановые",
+      "200 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "200 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Kuraga.kz цукаты листики 250 г",
+    "cleanTokens": [
+      "цукаты",
+      "листики"
+    ],
+    "normalizedTokens": [
+      "цукаты",
+      "листики",
+      "250 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "250 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Sultanshop финики мабрум 200 г",
+    "cleanTokens": [
+      "финики",
+      "мабрум"
+    ],
+    "normalizedTokens": [
+      "финики",
+      "мабрум",
+      "200 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "200 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Kuraga.kz урюк крупный темный 250 г",
+    "cleanTokens": [
+      "урюк",
+      "крупный",
+      "темный"
+    ],
+    "normalizedTokens": [
+      "урюк",
+      "крупный",
+      "темный",
+      "250 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "250 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Sultanshop финики сагай 1000 г",
+    "cleanTokens": [
+      "финики",
+      "сагай"
+    ],
+    "normalizedTokens": [
+      "финики",
+      "сагай",
+      "1000 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "1000 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Фрукт Продукт фруктовые чипсы ананас, апельсин, банан, груша, яблоко 14 пакетов по 30 г",
+    "cleanTokens": [
+      "фруктовые",
+      "ананас",
+      "апельсин",
+      "банан",
+      "груша",
+      "яблоко",
+      "14",
+      "пакетов",
+      "по"
+    ],
+    "normalizedTokens": [
+      "фруктовые",
+      "ананас",
+      "апельсин",
+      "банан",
+      "груша",
+      "яблоко",
+      "14",
+      "пакетов",
+      "по",
+      "30 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "30 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Абрикос папайя 500 г",
+    "cleanTokens": [
+      "папайя"
+    ],
+    "normalizedTokens": [
+      "папайя",
+      "500 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "500 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Sultanshop финики Мабрум 500 г",
+    "cleanTokens": [
+      "финики",
+      "мабрум"
+    ],
+    "normalizedTokens": [
+      "финики",
+      "мабрум",
+      "500 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "500 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Kuraga.kz инжир мелкий 250 г",
+    "cleanTokens": [
+      "инжир",
+      "мелкий"
+    ],
+    "normalizedTokens": [
+      "инжир",
+      "мелкий",
+      "250 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "250 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Floris бузина 150 г",
+    "cleanTokens": [
+      "бузина"
+    ],
+    "normalizedTokens": [
+      "бузина",
+      "150 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "150 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Kuraga.kz урюк сахарный 500 г",
+    "cleanTokens": [
+      "урюк",
+      "сахарный"
+    ],
+    "normalizedTokens": [
+      "урюк",
+      "сахарный",
+      "500 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "500 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Фрутовит финик сушеный 200 г",
+    "cleanTokens": [
+      "финик",
+      "сушеный"
+    ],
+    "normalizedTokens": [
+      "финик",
+      "сушеный",
+      "200 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "200 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Фрукт Продукт фруктовые чипсы апельсин 24 пакета по 30 г",
+    "cleanTokens": [
+      "фруктовые",
+      "апельсин"
+    ],
+    "normalizedTokens": [
+      "фруктовые",
+      "апельсин",
+      "24 пакета по 30 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": null,
+      "pack": {
+        "packs": 24,
+        "perPack": 30,
+        "unit": "г"
+      },
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Kuraga.kz курага сахарная 200 г",
+    "cleanTokens": [
+      "курага",
+      "сахарная"
+    ],
+    "normalizedTokens": [
+      "курага",
+      "сахарная",
+      "200 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "200 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Floris можжевельник синий 120 г",
+    "cleanTokens": [
+      "можжевельник",
+      "синий"
+    ],
+    "normalizedTokens": [
+      "можжевельник",
+      "синий",
+      "120 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "120 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Kuraga.kz урюк сахарный 250 г",
+    "cleanTokens": [
+      "урюк",
+      "сахарный"
+    ],
+    "normalizedTokens": [
+      "урюк",
+      "сахарный",
+      "250 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "250 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Kuraga.kz цукаты кубики 250 г",
+    "cleanTokens": [
+      "цукаты",
+      "кубики"
+    ],
+    "normalizedTokens": [
+      "цукаты",
+      "кубики",
+      "250 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "250 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Kuraga.kz инжир мелкий 500 г",
+    "cleanTokens": [
+      "инжир",
+      "мелкий"
+    ],
+    "normalizedTokens": [
+      "инжир",
+      "мелкий",
+      "500 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "500 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Jabsons банан с перцем 150 г",
+    "cleanTokens": [
+      "банан",
+      "с",
+      "перцем"
+    ],
+    "normalizedTokens": [
+      "банан",
+      "с",
+      "перцем",
+      "150 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "150 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Kuraga.kz курага светлая 400 г",
+    "cleanTokens": [
+      "курага",
+      "светлая"
+    ],
+    "normalizedTokens": [
+      "курага",
+      "светлая",
+      "400 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "400 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Kuraga.kz изюм черный крупный 500 г",
+    "cleanTokens": [
+      "изюм",
+      "черный",
+      "крупный"
+    ],
+    "normalizedTokens": [
+      "изюм",
+      "черный",
+      "крупный",
+      "500 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "500 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Правильные сладости яблоко 30 г",
+    "cleanTokens": [
+      "яблоко"
+    ],
+    "normalizedTokens": [
+      "яблоко",
+      "30 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "30 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Фрукт Продукт фруктовые чипсы груша 24 пакета по 30 г",
+    "cleanTokens": [
+      "фруктовые",
+      "груша"
+    ],
+    "normalizedTokens": [
+      "фруктовые",
+      "груша",
+      "24 пакета по 30 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": null,
+      "pack": {
+        "packs": 24,
+        "perPack": 30,
+        "unit": "г"
+      },
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Bateel финики премиальные Меджул Medjool 1000 г",
+    "cleanTokens": [
+      "финики",
+      "премиальные",
+      "меджул",
+      "medjool"
+    ],
+    "normalizedTokens": [
+      "финики",
+      "премиальные",
+      "меджул",
+      "medjool",
+      "1000 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "1000 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Immune Up тыква, груша, яблоко 60 г",
+    "cleanTokens": [
+      "тыква",
+      "груша",
+      "яблоко"
+    ],
+    "normalizedTokens": [
+      "тыква",
+      "груша",
+      "яблоко",
+      "60 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "60 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "BATEEL Финики Хидри Khidri с апельсиновыми цукатами 250 г",
+    "cleanTokens": [
+      "финики",
+      "хидри",
+      "khidri",
+      "с",
+      "апельсиновыми",
+      "цукатами"
+    ],
+    "normalizedTokens": [
+      "финики",
+      "хидри",
+      "khidri",
+      "с",
+      "апельсиновыми",
+      "цукатами",
+      "250 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "250 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Kuraga.kz курага светлая 200 г",
+    "cleanTokens": [
+      "курага",
+      "светлая"
+    ],
+    "normalizedTokens": [
+      "курага",
+      "светлая",
+      "200 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "200 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Immune Up Сушеные фрукты банан, апельсин, ананас 60 г",
+    "cleanTokens": [
+      "сушеные",
+      "фрукты",
+      "банан",
+      "апельсин",
+      "ананас"
+    ],
+    "normalizedTokens": [
+      "сушеные",
+      "фрукты",
+      "банан",
+      "апельсин",
+      "ананас",
+      "60 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "60 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Bateel финики премиальные Аджва Ajwa 500 г",
+    "cleanTokens": [
+      "финики",
+      "премиальные",
+      "аджва",
+      "ajwa"
+    ],
+    "normalizedTokens": [
+      "финики",
+      "премиальные",
+      "аджва",
+      "ajwa",
+      "500 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "500 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Bateel Kholas Холас финики с соленой макадамией 250 г",
+    "cleanTokens": [
+      "kholas",
+      "холас",
+      "финики",
+      "с",
+      "соленой",
+      "макадамией"
+    ],
+    "normalizedTokens": [
+      "kholas",
+      "холас",
+      "финики",
+      "с",
+      "соленой",
+      "макадамией",
+      "250 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "250 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Kuraga.kz Ананас кольца 250 г",
+    "cleanTokens": [
+      "ананас",
+      "кольца"
+    ],
+    "normalizedTokens": [
+      "ананас",
+      "кольца",
+      "250 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "250 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Bateel финики премиальные Хидри Khidri 500 г",
+    "cleanTokens": [
+      "финики",
+      "премиальные",
+      "хидри",
+      "khidri"
+    ],
+    "normalizedTokens": [
+      "финики",
+      "премиальные",
+      "хидри",
+      "khidri",
+      "500 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "500 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Kuraga.kz изюм черный крупный 250 г",
+    "cleanTokens": [
+      "изюм",
+      "черный",
+      "крупный"
+    ],
+    "normalizedTokens": [
+      "изюм",
+      "черный",
+      "крупный",
+      "250 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "250 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Фрутовит клюква сушеная 100 г",
+    "cleanTokens": [
+      "клюква",
+      "сушеная"
+    ],
+    "normalizedTokens": [
+      "клюква",
+      "сушеная",
+      "100 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "100 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Bateel финики премиальные segai 500 г",
+    "cleanTokens": [
+      "финики",
+      "премиальные",
+      "segai"
+    ],
+    "normalizedTokens": [
+      "финики",
+      "премиальные",
+      "segai",
+      "500 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "500 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Bateel финики премиальные wanan 1000 г",
+    "cleanTokens": [
+      "финики",
+      "премиальные",
+      "wanan"
+    ],
+    "normalizedTokens": [
+      "финики",
+      "премиальные",
+      "wanan",
+      "1000 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "1000 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Фрукт Продукт фруктовые чипсы банан 24 пакета по 30 г",
+    "cleanTokens": [
+      "фруктовые",
+      "банан"
+    ],
+    "normalizedTokens": [
+      "фруктовые",
+      "банан",
+      "24 пакета по 30 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": null,
+      "pack": {
+        "packs": 24,
+        "perPack": 30,
+        "unit": "г"
+      },
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Bateel финики премиальные Сокари Sokari 250 г",
+    "cleanTokens": [
+      "финики",
+      "премиальные",
+      "сокари",
+      "sokari"
+    ],
+    "normalizedTokens": [
+      "финики",
+      "премиальные",
+      "сокари",
+      "sokari",
+      "250 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "250 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Bateel Финики премиальные Ванан Wanan 250 г",
+    "cleanTokens": [
+      "финики",
+      "премиальные",
+      "ванан",
+      "wanan"
+    ],
+    "normalizedTokens": [
+      "финики",
+      "премиальные",
+      "ванан",
+      "wanan",
+      "250 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "250 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Bateel финики премиальные wanan 500 г",
+    "cleanTokens": [
+      "финики",
+      "премиальные",
+      "wanan"
+    ],
+    "normalizedTokens": [
+      "финики",
+      "премиальные",
+      "wanan",
+      "500 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "500 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Kuraga.kz изюм желтый 200 г",
+    "cleanTokens": [
+      "изюм",
+      "желтый"
+    ],
+    "normalizedTokens": [
+      "изюм",
+      "желтый",
+      "200 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "200 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Фрутовит финик сушеный 100 г",
+    "cleanTokens": [
+      "финик",
+      "сушеный"
+    ],
+    "normalizedTokens": [
+      "финик",
+      "сушеный",
+      "100 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "100 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "BATEEL Финики премиальные Хидри Khidri 250 г",
+    "cleanTokens": [
+      "финики",
+      "премиальные",
+      "хидри",
+      "khidri"
+    ],
+    "normalizedTokens": [
+      "финики",
+      "премиальные",
+      "хидри",
+      "khidri",
+      "250 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "250 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "BATEEL Финики премиальные Сокари Sokari 1000 г",
+    "cleanTokens": [
+      "финики",
+      "премиальные",
+      "сокари",
+      "sokari"
+    ],
+    "normalizedTokens": [
+      "финики",
+      "премиальные",
+      "сокари",
+      "sokari",
+      "1000 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "1000 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "BATEEL Финики Хидри Khidri с карамелизированным миндалем 250 г",
+    "cleanTokens": [
+      "финики",
+      "хидри",
+      "khidri",
+      "с",
+      "карамелизированным",
+      "миндалем"
+    ],
+    "normalizedTokens": [
+      "финики",
+      "хидри",
+      "khidri",
+      "с",
+      "карамелизированным",
+      "миндалем",
+      "250 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "250 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "BATEEL Финики Хидри Khidri с апельсиновыми цукатами 500 г",
+    "cleanTokens": [
+      "финики",
+      "хидри",
+      "khidri",
+      "с",
+      "апельсиновыми",
+      "цукатами"
+    ],
+    "normalizedTokens": [
+      "финики",
+      "хидри",
+      "khidri",
+      "с",
+      "апельсиновыми",
+      "цукатами",
+      "500 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "500 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Kuraga.kz курага высший сорт 200 г",
+    "cleanTokens": [
+      "курага",
+      "высший",
+      "сорт"
+    ],
+    "normalizedTokens": [
+      "курага",
+      "высший",
+      "сорт",
+      "200 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "200 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Фрукт Продукт фруктовые чипсы жёлтое яблоко 24 пакета по 30 г",
+    "cleanTokens": [
+      "фруктовые",
+      "желтое",
+      "яблоко"
+    ],
+    "normalizedTokens": [
+      "фруктовые",
+      "желтое",
+      "яблоко",
+      "24 пакета по 30 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": null,
+      "pack": {
+        "packs": 24,
+        "perPack": 30,
+        "unit": "г"
+      },
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Фрутовит цукаты манго 100 г",
+    "cleanTokens": [
+      "цукаты",
+      "манго"
+    ],
+    "normalizedTokens": [
+      "цукаты",
+      "манго",
+      "100 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "100 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Bateel финики премиальные Аджва Ajwa 250 г",
+    "cleanTokens": [
+      "финики",
+      "премиальные",
+      "аджва",
+      "ajwa"
+    ],
+    "normalizedTokens": [
+      "финики",
+      "премиальные",
+      "аджва",
+      "ajwa",
+      "250 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "250 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "BATEEL Финики премиальные Сокари Sokari 500 г",
+    "cleanTokens": [
+      "финики",
+      "премиальные",
+      "сокари",
+      "sokari"
+    ],
+    "normalizedTokens": [
+      "финики",
+      "премиальные",
+      "сокари",
+      "sokari",
+      "500 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "500 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Filipino Sun Fruit Mix 100 г",
+    "cleanTokens": [
+      "fruit",
+      "mix"
+    ],
+    "normalizedTokens": [
+      "fruit",
+      "mix",
+      "100 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "100 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Правильные сладости пастилки из фруктового пюре 55 г",
+    "cleanTokens": [
+      "пастилки",
+      "из",
+      "фруктового",
+      "пюре"
+    ],
+    "normalizedTokens": [
+      "пастилки",
+      "из",
+      "фруктового",
+      "пюре",
+      "55 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "55 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Kuraga.kz изюм желтый 400 г",
+    "cleanTokens": [
+      "изюм",
+      "желтый"
+    ],
+    "normalizedTokens": [
+      "изюм",
+      "желтый",
+      "400 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "400 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Kuraga.kz курага высший сорт 400 г",
+    "cleanTokens": [
+      "курага",
+      "высший",
+      "сорт"
+    ],
+    "normalizedTokens": [
+      "курага",
+      "высший",
+      "сорт",
+      "400 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "400 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Kuraga.kz чернослив без косточки крупный 200 г",
+    "cleanTokens": [
+      "чернослив",
+      "без",
+      "косточки",
+      "крупный"
+    ],
+    "normalizedTokens": [
+      "чернослив",
+      "без",
+      "косточки",
+      "крупный",
+      "200 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "200 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Immune Up Тропический микс банан, сушеный ананас, апельсин 20 г",
+    "cleanTokens": [
+      "тропический",
+      "микс",
+      "банан",
+      "сушеный",
+      "ананас",
+      "апельсин"
+    ],
+    "normalizedTokens": [
+      "тропический",
+      "микс",
+      "банан",
+      "сушеный",
+      "ананас",
+      "апельсин",
+      "20 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "20 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Bateel Финики премиальные Хидри Khidri 1000 г",
+    "cleanTokens": [
+      "финики",
+      "премиальные",
+      "хидри",
+      "khidri"
+    ],
+    "normalizedTokens": [
+      "финики",
+      "премиальные",
+      "хидри",
+      "khidri",
+      "1000 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "1000 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "BATEEL Финики Хидри Khidri с апельсиновыми цукатами 1000 г",
+    "cleanTokens": [
+      "финики",
+      "хидри",
+      "khidri",
+      "с",
+      "апельсиновыми",
+      "цукатами"
+    ],
+    "normalizedTokens": [
+      "финики",
+      "хидри",
+      "khidri",
+      "с",
+      "апельсиновыми",
+      "цукатами",
+      "1000 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "1000 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Kuraga.kz курага темная 200 г",
+    "cleanTokens": [
+      "курага",
+      "темная"
+    ],
+    "normalizedTokens": [
+      "курага",
+      "темная",
+      "200 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "200 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Фрукт Продукт фруктовые чипсы ананас 24 пачки по 30 г",
+    "cleanTokens": [
+      "фруктовые",
+      "ананас"
+    ],
+    "normalizedTokens": [
+      "фруктовые",
+      "ананас",
+      "24 пачки по 30 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": null,
+      "pack": {
+        "packs": 24,
+        "perPack": 30,
+        "unit": "г"
+      },
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Bateel финики премиальные segai 250 г",
+    "cleanTokens": [
+      "финики",
+      "премиальные",
+      "segai"
+    ],
+    "normalizedTokens": [
+      "финики",
+      "премиальные",
+      "segai",
+      "250 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "250 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "BATEEL Финики Сегай Segai с карамелизированным пеканом 250 г",
+    "cleanTokens": [
+      "финики",
+      "сегай",
+      "segai",
+      "с",
+      "карамелизированным",
+      "пеканом"
+    ],
+    "normalizedTokens": [
+      "финики",
+      "сегай",
+      "segai",
+      "с",
+      "карамелизированным",
+      "пеканом",
+      "250 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "250 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Kuraga.kz изюм черный 250 г",
+    "cleanTokens": [
+      "изюм",
+      "черный"
+    ],
+    "normalizedTokens": [
+      "изюм",
+      "черный",
+      "250 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "250 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Bateel финики премиальные Аджва Ajwa 1000 г",
+    "cleanTokens": [
+      "финики",
+      "премиальные",
+      "аджва",
+      "ajwa"
+    ],
+    "normalizedTokens": [
+      "финики",
+      "премиальные",
+      "аджва",
+      "ajwa",
+      "1000 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "1000 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Bateel финики премиальные segai 1000 г",
+    "cleanTokens": [
+      "финики",
+      "премиальные",
+      "segai"
+    ],
+    "normalizedTokens": [
+      "финики",
+      "премиальные",
+      "segai",
+      "1000 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "1000 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Люблю Жизнь Манго высушенный 85 г",
+    "cleanTokens": [
+      "манго",
+      "высушенный"
+    ],
+    "normalizedTokens": [
+      "манго",
+      "высушенный",
+      "85 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "85 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Bateel финики премиальные Меджул Medjool 500 г",
+    "cleanTokens": [
+      "финики",
+      "премиальные",
+      "меджул",
+      "medjool"
+    ],
+    "normalizedTokens": [
+      "финики",
+      "премиальные",
+      "меджул",
+      "medjool",
+      "500 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "500 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Floris арония 200 г",
+    "cleanTokens": [
+      "арония"
+    ],
+    "normalizedTokens": [
+      "арония",
+      "200 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "200 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Kuraga.kz изюм черный 500 г",
+    "cleanTokens": [
+      "изюм",
+      "черный"
+    ],
+    "normalizedTokens": [
+      "изюм",
+      "черный",
+      "500 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "500 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Yes! Eco! чипсы фруктовые яблоко 50 г",
+    "cleanTokens": [
+      "eco!",
+      "фруктовые",
+      "яблоко"
+    ],
+    "normalizedTokens": [
+      "eco!",
+      "фруктовые",
+      "яблоко",
+      "50 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "50 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "BATEEL Финики Хидри Khidri с засахаренной лимонной цедрой 250 г",
+    "cleanTokens": [
+      "финики",
+      "хидри",
+      "khidri",
+      "с",
+      "засахаренной",
+      "лимонной",
+      "цедрой"
+    ],
+    "normalizedTokens": [
+      "финики",
+      "хидри",
+      "khidri",
+      "с",
+      "засахаренной",
+      "лимонной",
+      "цедрой",
+      "250 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "250 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Фрутовит цукаты папайя 100 г",
+    "cleanTokens": [
+      "цукаты",
+      "папайя"
+    ],
+    "normalizedTokens": [
+      "цукаты",
+      "папайя",
+      "100 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "100 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Filipino Sun Exotic Mix 100 г",
+    "cleanTokens": [
+      "exotic",
+      "mix"
+    ],
+    "normalizedTokens": [
+      "exotic",
+      "mix",
+      "100 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "100 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  }
+]

@@ -1,0 +1,725 @@
+[
+  {
+    "original": "Ristora сухое молоко 13.3% 20 упаковок по 500 г",
+    "cleanTokens": [
+      "20",
+      "упаковок",
+      "по"
+    ],
+    "normalizedTokens": [
+      "13.3%",
+      "20",
+      "упаковок",
+      "по",
+      "500 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "500 г",
+      "count": null,
+      "pack": null,
+      "percent": "13.3%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "DeMarco White Line сухое молоко 11.4% 10000 г",
+    "cleanTokens": [
+      "white",
+      "line"
+    ],
+    "normalizedTokens": [
+      "white",
+      "line",
+      "11.4%",
+      "10000 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "10000 г",
+      "count": null,
+      "pack": null,
+      "percent": "11.4%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Konditerka.kz сухие сливки 32% 700 г",
+    "cleanTokens": [
+      "сухие"
+    ],
+    "normalizedTokens": [
+      "сухие",
+      "32%",
+      "700 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "700 г",
+      "count": null,
+      "pack": null,
+      "percent": "32%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Konditerka.kz молокосодержащий сухой продукт 25% 700 г",
+    "cleanTokens": [
+      "молокосодержащий",
+      "сухой",
+      "продукт"
+    ],
+    "normalizedTokens": [
+      "молокосодержащий",
+      "сухой",
+      "продукт",
+      "25%",
+      "700 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "700 г",
+      "count": null,
+      "pack": null,
+      "percent": "25%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Ovalette Шанти молокосодержащий сухой продукт 26% 1000 г",
+    "cleanTokens": [
+      "шанти",
+      "молокосодержащий",
+      "сухой",
+      "продукт"
+    ],
+    "normalizedTokens": [
+      "шанти",
+      "молокосодержащий",
+      "сухой",
+      "продукт",
+      "26%",
+      "1000 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "1000 г",
+      "count": null,
+      "pack": null,
+      "percent": "26%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "KaMei кобылье сухое молоко 3% 300 г",
+    "cleanTokens": [
+      "кобылье"
+    ],
+    "normalizedTokens": [
+      "кобылье",
+      "3%",
+      "300 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "300 г",
+      "count": null,
+      "pack": null,
+      "percent": "3%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "ALMAFOOD Topping сухие сливки 25.4% 1000 г",
+    "cleanTokens": [
+      "topping",
+      "сухие"
+    ],
+    "normalizedTokens": [
+      "topping",
+      "сухие",
+      "25.4%",
+      "1000 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "1000 г",
+      "count": null,
+      "pack": null,
+      "percent": "25.4%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Ristora сухое молоко 13.3% 500 г",
+    "cleanTokens": [],
+    "normalizedTokens": [
+      "13.3%",
+      "500 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "500 г",
+      "count": null,
+      "pack": null,
+      "percent": "13.3%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "TopLife сухое молоко 50.1% 200 г",
+    "cleanTokens": [],
+    "normalizedTokens": [
+      "50.1%",
+      "200 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "200 г",
+      "count": null,
+      "pack": null,
+      "percent": "50.1%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Беллакт сухое молоко 26% 300 г",
+    "cleanTokens": [],
+    "normalizedTokens": [
+      "26%",
+      "300 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "300 г",
+      "count": null,
+      "pack": null,
+      "percent": "26%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "ALMAFOOD Saturato сухие сливки 25% 1000 г",
+    "cleanTokens": [
+      "saturato",
+      "сухие"
+    ],
+    "normalizedTokens": [
+      "saturato",
+      "сухие",
+      "25%",
+      "1000 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "1000 г",
+      "count": null,
+      "pack": null,
+      "percent": "25%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Maximus сухие сливки 30% 150 г",
+    "cleanTokens": [
+      "сухие"
+    ],
+    "normalizedTokens": [
+      "сухие",
+      "30%",
+      "150 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "150 г",
+      "count": null,
+      "pack": null,
+      "percent": "30%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Fit Parad сухое молоко 19.7% 35 г",
+    "cleanTokens": [],
+    "normalizedTokens": [
+      "19.7%",
+      "35 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "35 г",
+      "count": null,
+      "pack": null,
+      "percent": "19.7%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "ARISTOCRAT Whitener сухие сливки 15% 1000",
+    "cleanTokens": [
+      "whitener",
+      "сухие",
+      "1000"
+    ],
+    "normalizedTokens": [
+      "whitener",
+      "сухие",
+      "15%",
+      "1000"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "15%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "DeMarco White Line сухие сливки 15% 1000 г",
+    "cleanTokens": [
+      "white",
+      "line",
+      "сухие"
+    ],
+    "normalizedTokens": [
+      "white",
+      "line",
+      "сухие",
+      "15%",
+      "1000 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "1000 г",
+      "count": null,
+      "pack": null,
+      "percent": "15%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Mr. Сливкин заменитель сухих сливок 30% 200 г",
+    "cleanTokens": [
+      "заменитель",
+      "сухих",
+      "сливок"
+    ],
+    "normalizedTokens": [
+      "заменитель",
+      "сухих",
+      "сливок",
+      "30%",
+      "200 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "200 г",
+      "count": null,
+      "pack": null,
+      "percent": "30%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "ALMAFOOD Topping сухое молоко 25.4% 1000 г",
+    "cleanTokens": [
+      "topping"
+    ],
+    "normalizedTokens": [
+      "topping",
+      "25.4%",
+      "1000 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "1000 г",
+      "count": null,
+      "pack": null,
+      "percent": "25.4%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "DeMarco топпинг гранулированный сухие сливки 18% 1000 г",
+    "cleanTokens": [
+      "топпинг",
+      "гранулированный",
+      "сухие"
+    ],
+    "normalizedTokens": [
+      "топпинг",
+      "гранулированный",
+      "сухие",
+      "18%",
+      "1000 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "1000 г",
+      "count": null,
+      "pack": null,
+      "percent": "18%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "DeMarco топпинг сухие сливки 18% 1000 г",
+    "cleanTokens": [
+      "топпинг",
+      "сухие"
+    ],
+    "normalizedTokens": [
+      "топпинг",
+      "сухие",
+      "18%",
+      "1000 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "1000 г",
+      "count": null,
+      "pack": null,
+      "percent": "18%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Милко Golden Milk сухие сливки 26% 20000 г",
+    "cleanTokens": [
+      "golden",
+      "milk",
+      "сухие"
+    ],
+    "normalizedTokens": [
+      "golden",
+      "milk",
+      "сухие",
+      "26%",
+      "20000 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "20000 г",
+      "count": null,
+      "pack": null,
+      "percent": "26%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "ARVANA сухое молоко 31% 300 г",
+    "cleanTokens": [],
+    "normalizedTokens": [
+      "31%",
+      "300 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "300 г",
+      "count": null,
+      "pack": null,
+      "percent": "31%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "DeMarco Вайтнер сухие сливки 18% 1000 г",
+    "cleanTokens": [
+      "вайтнер",
+      "сухие"
+    ],
+    "normalizedTokens": [
+      "вайтнер",
+      "сухие",
+      "18%",
+      "1000 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "1000 г",
+      "count": null,
+      "pack": null,
+      "percent": "18%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Polezzno сухое молоко 42% 100 г",
+    "cleanTokens": [],
+    "normalizedTokens": [
+      "42%",
+      "100 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "100 г",
+      "count": null,
+      "pack": null,
+      "percent": "42%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "ARISTOCRAT Bellа Blanca сухие сливки 10% 1000",
+    "cleanTokens": [
+      "bellа",
+      "blanca",
+      "сухие",
+      "1000"
+    ],
+    "normalizedTokens": [
+      "bellа",
+      "blanca",
+      "сухие",
+      "10%",
+      "1000"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "10%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Ristora STP-N сухие сливки 13.9% 500 г",
+    "cleanTokens": [
+      "stp-n",
+      "сухие"
+    ],
+    "normalizedTokens": [
+      "stp-n",
+      "сухие",
+      "13.9%",
+      "500 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "500 г",
+      "count": null,
+      "pack": null,
+      "percent": "13.9%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "ARISTOCRAT Topping Meggle сухие сливки 10% 1000",
+    "cleanTokens": [
+      "topping",
+      "meggle",
+      "сухие",
+      "1000"
+    ],
+    "normalizedTokens": [
+      "topping",
+      "meggle",
+      "сухие",
+      "10%",
+      "1000"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "10%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "ViLife сухое молоко 1% 60 г",
+    "cleanTokens": [],
+    "normalizedTokens": [
+      "1%",
+      "60 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "60 г",
+      "count": null,
+      "pack": null,
+      "percent": "1%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "ARISTOCRAT Topping сухие сливки 10% 1000",
+    "cleanTokens": [
+      "topping",
+      "сухие",
+      "1000"
+    ],
+    "normalizedTokens": [
+      "topping",
+      "сухие",
+      "10%",
+      "1000"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "10%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Молочный Мир сухое молоко 1.5% 25000 г",
+    "cleanTokens": [],
+    "normalizedTokens": [
+      "1.5%",
+      "25000 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "25000 г",
+      "count": null,
+      "pack": null,
+      "percent": "1.5%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Эколакт молокосодержащий сухой продукт 9% 20000 г",
+    "cleanTokens": [
+      "молокосодержащий",
+      "сухой",
+      "продукт"
+    ],
+    "normalizedTokens": [
+      "молокосодержащий",
+      "сухой",
+      "продукт",
+      "9%",
+      "20000 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "20000 г",
+      "count": null,
+      "pack": null,
+      "percent": "9%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Нео Классик молокосодержащий сухой продукт 35% 500 г",
+    "cleanTokens": [
+      "молокосодержащий",
+      "сухой",
+      "продукт"
+    ],
+    "normalizedTokens": [
+      "молокосодержащий",
+      "сухой",
+      "продукт",
+      "35%",
+      "500 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "500 г",
+      "count": null,
+      "pack": null,
+      "percent": "35%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Agro сухие сливки 9% 20000 г",
+    "cleanTokens": [
+      "сухие"
+    ],
+    "normalizedTokens": [
+      "сухие",
+      "9%",
+      "20000 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "20000 г",
+      "count": null,
+      "pack": null,
+      "percent": "9%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "HATUO верблюжье молоко сухое молоко 31.8% 300 г",
+    "cleanTokens": [
+      "верблюжье"
+    ],
+    "normalizedTokens": [
+      "верблюжье",
+      "31.8%",
+      "300 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "300 г",
+      "count": null,
+      "pack": null,
+      "percent": "31.8%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "LOCAL FOOD Саумал сухое молоко 3.6% 50",
+    "cleanTokens": [
+      "саумал",
+      "50"
+    ],
+    "normalizedTokens": [
+      "саумал",
+      "3.6%",
+      "50"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "3.6%",
+      "age": null,
+      "stars": null
+    }
+  }
+]

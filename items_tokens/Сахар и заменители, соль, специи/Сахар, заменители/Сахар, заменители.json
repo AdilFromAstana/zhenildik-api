@@ -1,0 +1,2446 @@
+[
+  {
+    "original": "Fit Parad сахарозаменитель №7 500 г",
+    "cleanTokens": [
+      "сахарозаменитель",
+      "№7"
+    ],
+    "normalizedTokens": [
+      "сахарозаменитель",
+      "№7",
+      "500 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "500 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Fit Parad сахарозаменитель №10 60 шт",
+    "cleanTokens": [
+      "сахарозаменитель",
+      "№10"
+    ],
+    "normalizedTokens": [
+      "сахарозаменитель",
+      "№10",
+      "60 шт"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": "60 шт",
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "NOVASWEET сахарозаменитель Фруктоза 250 г",
+    "cleanTokens": [
+      "сахарозаменитель",
+      "фруктоза"
+    ],
+    "normalizedTokens": [
+      "сахарозаменитель",
+      "фруктоза",
+      "250 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "250 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Fit Parad сахарозаменитель ФитПарад №7 (стевиозид, сукралоза, эритрит) дой-пак 250 г",
+    "cleanTokens": [
+      "сахарозаменитель",
+      "фитпарад",
+      "№7",
+      "стевиозид",
+      "сукралоза",
+      "эритрит",
+      "дой-пак"
+    ],
+    "normalizedTokens": [
+      "сахарозаменитель",
+      "фитпарад",
+      "№7",
+      "стевиозид",
+      "сукралоза",
+      "эритрит",
+      "дой-пак",
+      "250 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "250 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "NOVASWEET сахарозаменитель фруктоза 500 г",
+    "cleanTokens": [
+      "сахарозаменитель",
+      "фруктоза"
+    ],
+    "normalizedTokens": [
+      "сахарозаменитель",
+      "фруктоза",
+      "500 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "500 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Dr. Bühler сахарозаменитель стевия Mr.Green 300 шт",
+    "cleanTokens": [
+      "сахарозаменитель",
+      "стевия",
+      "mr.green"
+    ],
+    "normalizedTokens": [
+      "сахарозаменитель",
+      "стевия",
+      "mr.green",
+      "300 шт"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": "300 шт",
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Fit Parad сахарозаменитель №28 со вкусом карамель 30 мл",
+    "cleanTokens": [
+      "сахарозаменитель",
+      "№28",
+      "со",
+      "вкусом",
+      "карамель"
+    ],
+    "normalizedTokens": [
+      "сахарозаменитель",
+      "№28",
+      "со",
+      "вкусом",
+      "карамель",
+      "30 мл"
+    ],
+    "params": {
+      "volume": "30 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Milford сахарозаменитель Suss 1200 шт",
+    "cleanTokens": [
+      "сахарозаменитель",
+      "suss"
+    ],
+    "normalizedTokens": [
+      "сахарозаменитель",
+      "suss",
+      "1200 шт"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": "1200 шт",
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Fit Parad сахарозаменитель ФитПарад №7 (стевиозид, сукралоза, эритрит) дой-пак 100 г",
+    "cleanTokens": [
+      "сахарозаменитель",
+      "фитпарад",
+      "№7",
+      "стевиозид",
+      "сукралоза",
+      "эритрит",
+      "дой-пак"
+    ],
+    "normalizedTokens": [
+      "сахарозаменитель",
+      "фитпарад",
+      "№7",
+      "стевиозид",
+      "сукралоза",
+      "эритрит",
+      "дой-пак",
+      "100 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "100 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "PREBIOSWEET сахарозаменитель Фитнес 250 г",
+    "cleanTokens": [
+      "сахарозаменитель",
+      "фитнес"
+    ],
+    "normalizedTokens": [
+      "сахарозаменитель",
+      "фитнес",
+      "250 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "250 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Fit Parad сахарозаменитель №8 90 шт",
+    "cleanTokens": [
+      "сахарозаменитель",
+      "№8"
+    ],
+    "normalizedTokens": [
+      "сахарозаменитель",
+      "№8",
+      "90 шт"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": "90 шт",
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "FitMall сахарозаменитель эритрит дынный 500 г",
+    "cleanTokens": [
+      "сахарозаменитель",
+      "эритрит",
+      "дынный"
+    ],
+    "normalizedTokens": [
+      "сахарозаменитель",
+      "эритрит",
+      "дынный",
+      "500 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "500 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Fit Parad сахарозаменитель №14 150 г",
+    "cleanTokens": [
+      "сахарозаменитель",
+      "№14"
+    ],
+    "normalizedTokens": [
+      "сахарозаменитель",
+      "№14",
+      "150 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "150 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Fit Parad сахарозаменитель №10 300 шт",
+    "cleanTokens": [
+      "сахарозаменитель",
+      "№10"
+    ],
+    "normalizedTokens": [
+      "сахарозаменитель",
+      "№10",
+      "300 шт"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": "300 шт",
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Fit Parad сахарозаменитель №14 (стевиозид, эритрит) стики 60 штук",
+    "cleanTokens": [
+      "сахарозаменитель",
+      "№14",
+      "стевиозид",
+      "эритрит",
+      "стики",
+      "60",
+      "штук"
+    ],
+    "normalizedTokens": [
+      "сахарозаменитель",
+      "№14",
+      "стевиозид",
+      "эритрит",
+      "стики",
+      "60",
+      "штук"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Dr. Bühler сахарозаменитель Сласть 1200 шт",
+    "cleanTokens": [
+      "сахарозаменитель",
+      "сласть"
+    ],
+    "normalizedTokens": [
+      "сахарозаменитель",
+      "сласть",
+      "1200 шт"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": "1200 шт",
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Prebio Sweet сахарозаменитель Fitness 150 г",
+    "cleanTokens": [
+      "сахарозаменитель",
+      "fitness"
+    ],
+    "normalizedTokens": [
+      "сахарозаменитель",
+      "fitness",
+      "150 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "150 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Fit Parad сахарозаменитель № 31 со стевией Мята 30 мл",
+    "cleanTokens": [
+      "сахарозаменитель",
+      "№",
+      "31",
+      "со",
+      "стевией",
+      "мята"
+    ],
+    "normalizedTokens": [
+      "сахарозаменитель",
+      "№",
+      "31",
+      "со",
+      "стевией",
+      "мята",
+      "30 мл"
+    ],
+    "params": {
+      "volume": "30 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Fit Parad сахарозаменитель №10 150 г",
+    "cleanTokens": [
+      "сахарозаменитель",
+      "№10"
+    ],
+    "normalizedTokens": [
+      "сахарозаменитель",
+      "№10",
+      "150 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "150 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Fit Parad сахарозаменитель №36 со вкусом малина 30 мл",
+    "cleanTokens": [
+      "сахарозаменитель",
+      "№36",
+      "со",
+      "вкусом",
+      "малина"
+    ],
+    "normalizedTokens": [
+      "сахарозаменитель",
+      "№36",
+      "со",
+      "вкусом",
+      "малина",
+      "30 мл"
+    ],
+    "params": {
+      "volume": "30 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Fit Parad сахарозаменитель №1 150 г",
+    "cleanTokens": [
+      "сахарозаменитель",
+      "№1"
+    ],
+    "normalizedTokens": [
+      "сахарозаменитель",
+      "№1",
+      "150 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "150 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Fit Parad сахарозаменитель №23 со вкусом малины 100 шт",
+    "cleanTokens": [
+      "сахарозаменитель",
+      "№23",
+      "со",
+      "вкусом",
+      "малины"
+    ],
+    "normalizedTokens": [
+      "сахарозаменитель",
+      "№23",
+      "со",
+      "вкусом",
+      "малины",
+      "100 шт"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": "100 шт",
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Fit Parad сахарозаменитель №20 600 штук",
+    "cleanTokens": [
+      "сахарозаменитель",
+      "№20",
+      "600",
+      "штук"
+    ],
+    "normalizedTokens": [
+      "сахарозаменитель",
+      "№20",
+      "600",
+      "штук"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Fit Parad сахарозаменитель №22 со вкусом ванили 100 шт",
+    "cleanTokens": [
+      "сахарозаменитель",
+      "№22",
+      "со",
+      "вкусом",
+      "ванили"
+    ],
+    "normalizedTokens": [
+      "сахарозаменитель",
+      "№22",
+      "со",
+      "вкусом",
+      "ванили",
+      "100 шт"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": "100 шт",
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Milford сахар Тростниковый десертный 500 г",
+    "cleanTokens": [
+      "тростниковый",
+      "десертный"
+    ],
+    "normalizedTokens": [
+      "тростниковый",
+      "десертный",
+      "500 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "500 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Сласть-100 сахарозаменитель с янтарной кислотой 1200 шт",
+    "cleanTokens": [
+      "сахарозаменитель",
+      "с",
+      "янтарной",
+      "кислотой"
+    ],
+    "normalizedTokens": [
+      "сахарозаменитель",
+      "с",
+      "янтарной",
+      "кислотой",
+      "1200 шт"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": "1200 шт",
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Biscol Co. Ltd. сахарозаменитель сукразит 1200 шт",
+    "cleanTokens": [
+      "сахарозаменитель",
+      "сукразит"
+    ],
+    "normalizedTokens": [
+      "сахарозаменитель",
+      "сукразит",
+      "1200 шт"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": "1200 шт",
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Fit Parad сахарозаменитель кокосовый со стевией 100 шт",
+    "cleanTokens": [
+      "сахарозаменитель",
+      "кокосовый",
+      "со",
+      "стевией"
+    ],
+    "normalizedTokens": [
+      "сахарозаменитель",
+      "кокосовый",
+      "со",
+      "стевией",
+      "100 шт"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": "100 шт",
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Fit Parad сахарозаменитель №1 Master Shape 90 шт",
+    "cleanTokens": [
+      "сахарозаменитель",
+      "№1",
+      "master",
+      "shape"
+    ],
+    "normalizedTokens": [
+      "сахарозаменитель",
+      "№1",
+      "master",
+      "shape",
+      "90 шт"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": "90 шт",
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Fit Parad сахарозаменитель №7 на основе эритрита и стевии 90 шт",
+    "cleanTokens": [
+      "сахарозаменитель",
+      "№7",
+      "на",
+      "основе",
+      "эритрита",
+      "стевии"
+    ],
+    "normalizedTokens": [
+      "сахарозаменитель",
+      "№7",
+      "на",
+      "основе",
+      "эритрита",
+      "стевии",
+      "90 шт"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": "90 шт",
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Dr. Bühler сахарозаменитель стевия Mr.Green 150 шт",
+    "cleanTokens": [
+      "сахарозаменитель",
+      "стевия",
+      "mr.green"
+    ],
+    "normalizedTokens": [
+      "сахарозаменитель",
+      "стевия",
+      "mr.green",
+      "150 шт"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": "150 шт",
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "FitMall сахарозаменитель Эритрит 1 кг",
+    "cleanTokens": [
+      "сахарозаменитель",
+      "эритрит"
+    ],
+    "normalizedTokens": [
+      "сахарозаменитель",
+      "эритрит",
+      "1 кг"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "1 кг",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Fit Parad сахарозаменитель №10 100 г",
+    "cleanTokens": [
+      "сахарозаменитель",
+      "№10"
+    ],
+    "normalizedTokens": [
+      "сахарозаменитель",
+      "№10",
+      "100 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "100 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Fit Parad сахарозаменитель №8 250 г",
+    "cleanTokens": [
+      "сахарозаменитель",
+      "№8"
+    ],
+    "normalizedTokens": [
+      "сахарозаменитель",
+      "№8",
+      "250 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "250 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Biscol Co. Ltd. сахарозаменитель сукразит 300 шт",
+    "cleanTokens": [
+      "сахарозаменитель",
+      "сукразит"
+    ],
+    "normalizedTokens": [
+      "сахарозаменитель",
+      "сукразит",
+      "300 шт"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": "300 шт",
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Fit Parad сахарозаменитель №7 (стевиозид, сукралоза, эритрит) 180 г",
+    "cleanTokens": [
+      "сахарозаменитель",
+      "№7",
+      "стевиозид",
+      "сукралоза",
+      "эритрит"
+    ],
+    "normalizedTokens": [
+      "сахарозаменитель",
+      "№7",
+      "стевиозид",
+      "сукралоза",
+      "эритрит",
+      "180 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "180 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Fit Parad сахарозаменитель № 35 со вкусом клубника 30 мл",
+    "cleanTokens": [
+      "сахарозаменитель",
+      "№",
+      "35",
+      "со",
+      "вкусом",
+      "клубника"
+    ],
+    "normalizedTokens": [
+      "сахарозаменитель",
+      "№",
+      "35",
+      "со",
+      "вкусом",
+      "клубника",
+      "30 мл"
+    ],
+    "params": {
+      "volume": "30 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мистраль сахар Демерара тростниковый нерафинированный 500 г",
+    "cleanTokens": [
+      "демерара",
+      "тростниковый",
+      "нерафинированный"
+    ],
+    "normalizedTokens": [
+      "демерара",
+      "тростниковый",
+      "нерафинированный",
+      "500 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "500 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Fit Parad сахарозаменитель №14 100 шт",
+    "cleanTokens": [
+      "сахарозаменитель",
+      "№14"
+    ],
+    "normalizedTokens": [
+      "сахарозаменитель",
+      "№14",
+      "100 шт"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": "100 шт",
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Fit Parad сахарозаменитель №1 Master Shape 500 г",
+    "cleanTokens": [
+      "сахарозаменитель",
+      "№1",
+      "master",
+      "shape"
+    ],
+    "normalizedTokens": [
+      "сахарозаменитель",
+      "№1",
+      "master",
+      "shape",
+      "500 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "500 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мистраль сахар тростниковый Демерара в кубиках 1 кг",
+    "cleanTokens": [
+      "тростниковый",
+      "демерара",
+      "в",
+      "кубиках"
+    ],
+    "normalizedTokens": [
+      "тростниковый",
+      "демерара",
+      "в",
+      "кубиках",
+      "1 кг"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "1 кг",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Золотой тростник сахар тростниковый кусковой 450 г",
+    "cleanTokens": [
+      "тростниковый",
+      "кусковой"
+    ],
+    "normalizedTokens": [
+      "тростниковый",
+      "кусковой",
+      "450 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "450 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мистраль сахар Демерара кусковой 500 г",
+    "cleanTokens": [
+      "демерара",
+      "кусковой"
+    ],
+    "normalizedTokens": [
+      "демерара",
+      "кусковой",
+      "500 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "500 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "PREBIOSWEET сахарозаменитель пребиосвит Файбер 250 г",
+    "cleanTokens": [
+      "сахарозаменитель",
+      "пребиосвит",
+      "файбер"
+    ],
+    "normalizedTokens": [
+      "сахарозаменитель",
+      "пребиосвит",
+      "файбер",
+      "250 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "250 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Fit Parad сахарозаменитель №6 180 г",
+    "cleanTokens": [
+      "сахарозаменитель",
+      "№6"
+    ],
+    "normalizedTokens": [
+      "сахарозаменитель",
+      "№6",
+      "180 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "180 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Бискотти сахарозаменитель Сукразит 300 шт",
+    "cleanTokens": [
+      "сахарозаменитель",
+      "сукразит"
+    ],
+    "normalizedTokens": [
+      "сахарозаменитель",
+      "сукразит",
+      "300 шт"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": "300 шт",
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Prebio Sweet сахарозаменитель Stevia 150 г",
+    "cleanTokens": [
+      "сахарозаменитель",
+      "stevia"
+    ],
+    "normalizedTokens": [
+      "сахарозаменитель",
+      "stevia",
+      "150 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "150 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Milford сахарозаменитель Suss 650 шт",
+    "cleanTokens": [
+      "сахарозаменитель",
+      "suss"
+    ],
+    "normalizedTokens": [
+      "сахарозаменитель",
+      "suss",
+      "650 шт"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": "650 шт",
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Сламикс сахарозаменитель насладись всласть 1200 шт",
+    "cleanTokens": [
+      "сахарозаменитель",
+      "насладись",
+      "всласть"
+    ],
+    "normalizedTokens": [
+      "сахарозаменитель",
+      "насладись",
+      "всласть",
+      "1200 шт"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": "1200 шт",
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Milford сахарозаменитель Стевия 370 шт",
+    "cleanTokens": [
+      "сахарозаменитель",
+      "стевия"
+    ],
+    "normalizedTokens": [
+      "сахарозаменитель",
+      "стевия",
+      "370 шт"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": "370 шт",
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Fit Effectum сахарозаменитель Инулин 100 г",
+    "cleanTokens": [
+      "сахарозаменитель",
+      "инулин"
+    ],
+    "normalizedTokens": [
+      "сахарозаменитель",
+      "инулин",
+      "100 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "100 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Fit Parad сахарозаменитель №15 100 шт",
+    "cleanTokens": [
+      "сахарозаменитель",
+      "№15"
+    ],
+    "normalizedTokens": [
+      "сахарозаменитель",
+      "№15",
+      "100 шт"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": "100 шт",
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Таразский сахарный завод сахар белый в коробке 25 кг",
+    "cleanTokens": [
+      "белый",
+      "в",
+      "коробке"
+    ],
+    "normalizedTokens": [
+      "белый",
+      "в",
+      "коробке",
+      "25 кг"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "25 кг",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Fit Parad сахарозаменитель № 24 со вкусом мяты 100 шт",
+    "cleanTokens": [
+      "сахарозаменитель",
+      "№",
+      "24",
+      "со",
+      "вкусом",
+      "мяты"
+    ],
+    "normalizedTokens": [
+      "сахарозаменитель",
+      "№",
+      "24",
+      "со",
+      "вкусом",
+      "мяты",
+      "100 шт"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": "100 шт",
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мистраль сахар Демерара Тростниковый нерафинированный 900 г",
+    "cleanTokens": [
+      "демерара",
+      "тростниковый",
+      "нерафинированный"
+    ],
+    "normalizedTokens": [
+      "демерара",
+      "тростниковый",
+      "нерафинированный",
+      "900 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "900 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мистраль сахар Демерара Тростниковый нерафинированный 500 г",
+    "cleanTokens": [
+      "демерара",
+      "тростниковый",
+      "нерафинированный"
+    ],
+    "normalizedTokens": [
+      "демерара",
+      "тростниковый",
+      "нерафинированный",
+      "500 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "500 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Золотой тростник сахар тростниковый 400 г",
+    "cleanTokens": [
+      "тростниковый"
+    ],
+    "normalizedTokens": [
+      "тростниковый",
+      "400 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "400 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Fit Parad сахарозаменитель №8 180 г",
+    "cleanTokens": [
+      "сахарозаменитель",
+      "№8"
+    ],
+    "normalizedTokens": [
+      "сахарозаменитель",
+      "№8",
+      "180 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "180 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Fit Parad сахарозаменитель эритрит 400 г",
+    "cleanTokens": [
+      "сахарозаменитель",
+      "эритрит"
+    ],
+    "normalizedTokens": [
+      "сахарозаменитель",
+      "эритрит",
+      "400 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "400 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Fit Parad сахарозаменитель №16 200 г",
+    "cleanTokens": [
+      "сахарозаменитель",
+      "№16"
+    ],
+    "normalizedTokens": [
+      "сахарозаменитель",
+      "№16",
+      "200 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "200 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Fit Parad сахарозаменитель №27 со вкусом черной смородины 100 шт",
+    "cleanTokens": [
+      "сахарозаменитель",
+      "№27",
+      "со",
+      "вкусом",
+      "черной",
+      "смородины"
+    ],
+    "normalizedTokens": [
+      "сахарозаменитель",
+      "№27",
+      "со",
+      "вкусом",
+      "черной",
+      "смородины",
+      "100 шт"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": "100 шт",
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Fit Parad сахарозаменитель №20 со вкусом кокоса 100 шт",
+    "cleanTokens": [
+      "сахарозаменитель",
+      "№20",
+      "со",
+      "вкусом",
+      "кокоса"
+    ],
+    "normalizedTokens": [
+      "сахарозаменитель",
+      "№20",
+      "со",
+      "вкусом",
+      "кокоса",
+      "100 шт"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": "100 шт",
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Fit Parad сахарозаменитель №16 на основе стевии 200 г",
+    "cleanTokens": [
+      "сахарозаменитель",
+      "№16",
+      "на",
+      "основе",
+      "стевии"
+    ],
+    "normalizedTokens": [
+      "сахарозаменитель",
+      "№16",
+      "на",
+      "основе",
+      "стевии",
+      "200 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "200 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Fit Parad сахарозаменитель №8 60 шт",
+    "cleanTokens": [
+      "сахарозаменитель",
+      "№8"
+    ],
+    "normalizedTokens": [
+      "сахарозаменитель",
+      "№8",
+      "60 шт"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": "60 шт",
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "FitFeel сахарозаменитель кокосовый органический 200 г",
+    "cleanTokens": [
+      "сахарозаменитель",
+      "кокосовый",
+      "органический"
+    ],
+    "normalizedTokens": [
+      "сахарозаменитель",
+      "кокосовый",
+      "органический",
+      "200 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "200 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Сламикс сахарозаменитель насладись всласть 1200 шт",
+    "cleanTokens": [
+      "сахарозаменитель",
+      "насладись",
+      "всласть"
+    ],
+    "normalizedTokens": [
+      "сахарозаменитель",
+      "насладись",
+      "всласть",
+      "1200 шт"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": "1200 шт",
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Таразский сахарный завод сахар белый 5 кг",
+    "cleanTokens": [
+      "белый"
+    ],
+    "normalizedTokens": [
+      "белый",
+      "5 кг"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "5 кг",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Fit Parad сахарозаменитель №7 на основе эритрита и стевии 400 г",
+    "cleanTokens": [
+      "сахарозаменитель",
+      "№7",
+      "на",
+      "основе",
+      "эритрита",
+      "стевии"
+    ],
+    "normalizedTokens": [
+      "сахарозаменитель",
+      "№7",
+      "на",
+      "основе",
+      "эритрита",
+      "стевии",
+      "400 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "400 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Fit Parad сахарозаменитель №11 150 г",
+    "cleanTokens": [
+      "сахарозаменитель",
+      "№11"
+    ],
+    "normalizedTokens": [
+      "сахарозаменитель",
+      "№11",
+      "150 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "150 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Меркенский СЗ сахар белый 25 кг",
+    "cleanTokens": [
+      "белый"
+    ],
+    "normalizedTokens": [
+      "белый",
+      "25 кг"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "25 кг",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Fit Parad сахарозаменитель №10 150 г",
+    "cleanTokens": [
+      "сахарозаменитель",
+      "№10"
+    ],
+    "normalizedTokens": [
+      "сахарозаменитель",
+      "№10",
+      "150 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "150 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Milford сахар Тростниковый 500 г",
+    "cleanTokens": [
+      "тростниковый"
+    ],
+    "normalizedTokens": [
+      "тростниковый",
+      "500 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "500 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Dr. Bühler сахарозаменитель Сласть 650 шт",
+    "cleanTokens": [
+      "сахарозаменитель",
+      "сласть"
+    ],
+    "normalizedTokens": [
+      "сахарозаменитель",
+      "сласть",
+      "650 шт"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": "650 шт",
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "FitMall сахарозаменитель кокосовый 1 кг",
+    "cleanTokens": [
+      "сахарозаменитель",
+      "кокосовый"
+    ],
+    "normalizedTokens": [
+      "сахарозаменитель",
+      "кокосовый",
+      "1 кг"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "1 кг",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Сахар в стиках 3.5 кг",
+    "cleanTokens": [
+      "в",
+      "стиках"
+    ],
+    "normalizedTokens": [
+      "в",
+      "стиках",
+      "3.5 кг"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "3.5 кг",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Fit Parad сахарозаменитель №6 250 г",
+    "cleanTokens": [
+      "сахарозаменитель",
+      "№6"
+    ],
+    "normalizedTokens": [
+      "сахарозаменитель",
+      "№6",
+      "250 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "250 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Dr. Bühler сахарозаменитель Мегасласть 300 шт",
+    "cleanTokens": [
+      "сахарозаменитель",
+      "мегасласть"
+    ],
+    "normalizedTokens": [
+      "сахарозаменитель",
+      "мегасласть",
+      "300 шт"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": "300 шт",
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "PREBIOSWEET сахарозаменитель Пребиосвит Ваниль 150 г",
+    "cleanTokens": [
+      "сахарозаменитель",
+      "пребиосвит",
+      "ваниль"
+    ],
+    "normalizedTokens": [
+      "сахарозаменитель",
+      "пребиосвит",
+      "ваниль",
+      "150 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "150 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Fit Parad сахарозаменитель №3 Master Shape 500 г",
+    "cleanTokens": [
+      "сахарозаменитель",
+      "№3",
+      "master",
+      "shape"
+    ],
+    "normalizedTokens": [
+      "сахарозаменитель",
+      "№3",
+      "master",
+      "shape",
+      "500 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "500 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Polezzno сахарозаменитель Эритрит и стевия 200 г",
+    "cleanTokens": [
+      "сахарозаменитель",
+      "эритрит",
+      "стевия"
+    ],
+    "normalizedTokens": [
+      "сахарозаменитель",
+      "эритрит",
+      "стевия",
+      "200 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "200 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "DopDrops сахарозаменитель Maxi Х10 200 г",
+    "cleanTokens": [
+      "сахарозаменитель",
+      "maxi",
+      "х10"
+    ],
+    "normalizedTokens": [
+      "сахарозаменитель",
+      "maxi",
+      "х10",
+      "200 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "200 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Сламикс сахарозаменитель насладись всласть 1200 шт",
+    "cleanTokens": [
+      "сахарозаменитель",
+      "насладись",
+      "всласть"
+    ],
+    "normalizedTokens": [
+      "сахарозаменитель",
+      "насладись",
+      "всласть",
+      "1200 шт"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": "1200 шт",
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Fit Parad сахарозаменитель №6 Эритритол 90 шт",
+    "cleanTokens": [
+      "сахарозаменитель",
+      "№6",
+      "эритритол"
+    ],
+    "normalizedTokens": [
+      "сахарозаменитель",
+      "№6",
+      "эритритол",
+      "90 шт"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": "90 шт",
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "NOVASWEET сахарозаменитель 0 калорий 150 г",
+    "cleanTokens": [
+      "сахарозаменитель",
+      "0",
+      "калорий"
+    ],
+    "normalizedTokens": [
+      "сахарозаменитель",
+      "0",
+      "калорий",
+      "150 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "150 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Fit Parad сахарозаменитель №7 2 упаковки по 500 г",
+    "cleanTokens": [
+      "сахарозаменитель",
+      "№7"
+    ],
+    "normalizedTokens": [
+      "сахарозаменитель",
+      "№7",
+      "2 упаковки по 500 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": null,
+      "pack": {
+        "packs": 2,
+        "perPack": 500,
+        "unit": "г"
+      },
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Dr. Bühler сахарозаменитель Мегасласть 200 шт",
+    "cleanTokens": [
+      "сахарозаменитель",
+      "мегасласть"
+    ],
+    "normalizedTokens": [
+      "сахарозаменитель",
+      "мегасласть",
+      "200 шт"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": "200 шт",
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Milford сахар Тростниковый 300 г",
+    "cleanTokens": [
+      "тростниковый"
+    ],
+    "normalizedTokens": [
+      "тростниковый",
+      "300 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "300 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "DopDrops сахарозаменитель Эритрит 1000 г",
+    "cleanTokens": [
+      "сахарозаменитель",
+      "эритрит"
+    ],
+    "normalizedTokens": [
+      "сахарозаменитель",
+      "эритрит",
+      "1000 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "1000 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Prebio Sweet сахарозаменитель Fibre с инулином 150 г",
+    "cleanTokens": [
+      "сахарозаменитель",
+      "fibre",
+      "с",
+      "инулином"
+    ],
+    "normalizedTokens": [
+      "сахарозаменитель",
+      "fibre",
+      "с",
+      "инулином",
+      "150 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "150 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Fit Parad сахарозаменитель ФитПарад №6 (эритрит, инулин, сукралоза) стики 60 шт",
+    "cleanTokens": [
+      "сахарозаменитель",
+      "фитпарад",
+      "№6",
+      "эритрит",
+      "инулин",
+      "сукралоза",
+      "стики"
+    ],
+    "normalizedTokens": [
+      "сахарозаменитель",
+      "фитпарад",
+      "№6",
+      "эритрит",
+      "инулин",
+      "сукралоза",
+      "стики",
+      "60 шт"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": "60 шт",
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Fit Parad сахарозаменитель №15 (эритрит, сукралоза, инулин) 200 г",
+    "cleanTokens": [
+      "сахарозаменитель",
+      "№15",
+      "эритрит",
+      "сукралоза",
+      "инулин"
+    ],
+    "normalizedTokens": [
+      "сахарозаменитель",
+      "№15",
+      "эритрит",
+      "сукралоза",
+      "инулин",
+      "200 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "200 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Fit Parad сахарозаменитель №12 100 шт",
+    "cleanTokens": [
+      "сахарозаменитель",
+      "№12"
+    ],
+    "normalizedTokens": [
+      "сахарозаменитель",
+      "№12",
+      "100 шт"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": "100 шт",
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "PREBIOSWEET сахарозаменитель Фитнес 100 г",
+    "cleanTokens": [
+      "сахарозаменитель",
+      "фитнес"
+    ],
+    "normalizedTokens": [
+      "сахарозаменитель",
+      "фитнес",
+      "100 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "100 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "DopDrops сахарозаменитель Стевия Х10 200 г",
+    "cleanTokens": [
+      "сахарозаменитель",
+      "стевия",
+      "х10"
+    ],
+    "normalizedTokens": [
+      "сахарозаменитель",
+      "стевия",
+      "х10",
+      "200 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "200 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Fit Parad сахарозаменитель Аллюлоза + стевия 200 г",
+    "cleanTokens": [
+      "сахарозаменитель",
+      "аллюлоза",
+      "+",
+      "стевия"
+    ],
+    "normalizedTokens": [
+      "сахарозаменитель",
+      "аллюлоза",
+      "+",
+      "стевия",
+      "200 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "200 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Fit Parad сахарозаменитель Кокосовый со стевией 150 г",
+    "cleanTokens": [
+      "сахарозаменитель",
+      "кокосовый",
+      "со",
+      "стевией"
+    ],
+    "normalizedTokens": [
+      "сахарозаменитель",
+      "кокосовый",
+      "со",
+      "стевией",
+      "150 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "150 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Fit Feel сахарозаменитель кокосовый органический 200 г",
+    "cleanTokens": [
+      "сахарозаменитель",
+      "кокосовый",
+      "органический"
+    ],
+    "normalizedTokens": [
+      "сахарозаменитель",
+      "кокосовый",
+      "органический",
+      "200 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "200 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "DopDrops сахарозаменитель Монк Фрут 200 г",
+    "cleanTokens": [
+      "сахарозаменитель",
+      "монк",
+      "фрут"
+    ],
+    "normalizedTokens": [
+      "сахарозаменитель",
+      "монк",
+      "фрут",
+      "200 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "200 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Сламикс сахарозаменитель насладись всласть 650 шт",
+    "cleanTokens": [
+      "сахарозаменитель",
+      "насладись",
+      "всласть"
+    ],
+    "normalizedTokens": [
+      "сахарозаменитель",
+      "насладись",
+      "всласть",
+      "650 шт"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": "650 шт",
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Fit Parad сахарозаменитель №11 150 г",
+    "cleanTokens": [
+      "сахарозаменитель",
+      "№11"
+    ],
+    "normalizedTokens": [
+      "сахарозаменитель",
+      "№11",
+      "150 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "150 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Это полезно сахарозаменитель эритрит 300 г",
+    "cleanTokens": [
+      "сахарозаменитель",
+      "эритрит"
+    ],
+    "normalizedTokens": [
+      "сахарозаменитель",
+      "эритрит",
+      "300 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "300 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Fit Parad сахарозаменитель №16 200 г",
+    "cleanTokens": [
+      "сахарозаменитель",
+      "№16"
+    ],
+    "normalizedTokens": [
+      "сахарозаменитель",
+      "№16",
+      "200 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "200 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Dr. Bühler сахарозаменитель Сласть с янтарной кислотой 1200 шт",
+    "cleanTokens": [
+      "сахарозаменитель",
+      "сласть",
+      "с",
+      "янтарной",
+      "кислотой"
+    ],
+    "normalizedTokens": [
+      "сахарозаменитель",
+      "сласть",
+      "с",
+      "янтарной",
+      "кислотой",
+      "1200 шт"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": "1200 шт",
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Fit Parad сахарозаменитель №20 300 шт",
+    "cleanTokens": [
+      "сахарозаменитель",
+      "№20"
+    ],
+    "normalizedTokens": [
+      "сахарозаменитель",
+      "№20",
+      "300 шт"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": "300 шт",
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Dr. Bühler сахарозаменитель Сласть 200 шт",
+    "cleanTokens": [
+      "сахарозаменитель",
+      "сласть"
+    ],
+    "normalizedTokens": [
+      "сахарозаменитель",
+      "сласть",
+      "200 шт"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": "200 шт",
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "DopDrops сахарозаменитель Maxi Х10 1000 г",
+    "cleanTokens": [
+      "сахарозаменитель",
+      "maxi",
+      "х10"
+    ],
+    "normalizedTokens": [
+      "сахарозаменитель",
+      "maxi",
+      "х10",
+      "1000 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "1000 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  }
+]

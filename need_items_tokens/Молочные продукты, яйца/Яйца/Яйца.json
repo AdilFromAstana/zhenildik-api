@@ -1,0 +1,227 @@
+[
+  {
+    "original": "Яйцо Курочка Ряба куриное 15 шт 65-75 г",
+    "cleanTokens": [
+      "яйцо",
+      "куриное",
+      "65-75",
+      "г"
+    ],
+    "normalizedTokens": [
+      "яйцо",
+      "куриное",
+      "15 шт",
+      "65-75",
+      "г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": "15 шт",
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Яйцо Курочка Ряба куриное 15 шт 45-55 г",
+    "cleanTokens": [
+      "яйцо",
+      "куриное",
+      "45-55",
+      "г"
+    ],
+    "normalizedTokens": [
+      "яйцо",
+      "куриное",
+      "15 шт",
+      "45-55",
+      "г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": "15 шт",
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Яйцо Lo Lo куриное 10 шт 65-70 г",
+    "cleanTokens": [
+      "яйцо",
+      "куриное",
+      "65-70",
+      "г"
+    ],
+    "normalizedTokens": [
+      "яйцо",
+      "куриное",
+      "10 шт",
+      "65-70",
+      "г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": "10 шт",
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Яйцо Курочка Ряба куриное 10 шт 45-55 г",
+    "cleanTokens": [
+      "яйцо",
+      "куриное",
+      "45-55",
+      "г"
+    ],
+    "normalizedTokens": [
+      "яйцо",
+      "куриное",
+      "10 шт",
+      "45-55",
+      "г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": "10 шт",
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Яйцо Fishco перепелиное 20 шт 9-18 г",
+    "cleanTokens": [
+      "яйцо",
+      "перепелиное",
+      "9-18",
+      "г"
+    ],
+    "normalizedTokens": [
+      "яйцо",
+      "перепелиное",
+      "20 шт",
+      "9-18",
+      "г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": "20 шт",
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Яйцо Курочка Ряба куриное 15 шт 70-75 г",
+    "cleanTokens": [
+      "яйцо",
+      "куриное",
+      "70-75",
+      "г"
+    ],
+    "normalizedTokens": [
+      "яйцо",
+      "куриное",
+      "15 шт",
+      "70-75",
+      "г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": "15 шт",
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Яйцо Курочка Ряба куриное 10 шт 65-75 г",
+    "cleanTokens": [
+      "яйцо",
+      "куриное",
+      "65-75",
+      "г"
+    ],
+    "normalizedTokens": [
+      "яйцо",
+      "куриное",
+      "10 шт",
+      "65-75",
+      "г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": "10 шт",
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Яйцо Lo Lo куриное 20 шт 65-70 г",
+    "cleanTokens": [
+      "яйцо",
+      "куриное",
+      "65-70",
+      "г"
+    ],
+    "normalizedTokens": [
+      "яйцо",
+      "куриное",
+      "20 шт",
+      "65-70",
+      "г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": "20 шт",
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Яйцо Курочка Ряба куриное 10 шт 70-75 г",
+    "cleanTokens": [
+      "яйцо",
+      "куриное",
+      "70-75",
+      "г"
+    ],
+    "normalizedTokens": [
+      "яйцо",
+      "куриное",
+      "10 шт",
+      "70-75",
+      "г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": "10 шт",
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  }
+]

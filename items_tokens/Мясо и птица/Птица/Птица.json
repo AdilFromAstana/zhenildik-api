@@ -1,0 +1,1347 @@
+[
+  {
+    "original": "Акнар суп набор замороженный",
+    "cleanTokens": [
+      "суп",
+      "набор",
+      "замороженный"
+    ],
+    "normalizedTokens": [
+      "суп",
+      "набор",
+      "замороженный"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Курочка Ряба голень цыпленка замороженная",
+    "cleanTokens": [
+      "голень",
+      "цыпленка",
+      "замороженная"
+    ],
+    "normalizedTokens": [
+      "голень",
+      "цыпленка",
+      "замороженная"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Курочка Ряба печень цыпленка замороженная",
+    "cleanTokens": [
+      "печень",
+      "цыпленка",
+      "замороженная"
+    ],
+    "normalizedTokens": [
+      "печень",
+      "цыпленка",
+      "замороженная"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Кус & Вкус задняя четвертинка цыпленка бройлера охлажденная",
+    "cleanTokens": [
+      "задняя",
+      "четвертинка",
+      "цыпленка",
+      "бройлера",
+      "охлажденная"
+    ],
+    "normalizedTokens": [
+      "задняя",
+      "четвертинка",
+      "цыпленка",
+      "бройлера",
+      "охлажденная"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Chickodelli голень цыпленка замороженная",
+    "cleanTokens": [
+      "голень",
+      "цыпленка",
+      "замороженная"
+    ],
+    "normalizedTokens": [
+      "голень",
+      "цыпленка",
+      "замороженная"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Акнар шея цыпленка-бройлера замороженная",
+    "cleanTokens": [
+      "шея",
+      "цыпленка-бройлера",
+      "замороженная"
+    ],
+    "normalizedTokens": [
+      "шея",
+      "цыпленка-бройлера",
+      "замороженная"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Курочка Ряба бедро курица замороженное",
+    "cleanTokens": [
+      "бедро",
+      "курица",
+      "замороженное"
+    ],
+    "normalizedTokens": [
+      "бедро",
+      "курица",
+      "замороженное"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Кус & Вкус грудка цыпленка охлажденная",
+    "cleanTokens": [
+      "грудка",
+      "цыпленка",
+      "охлажденная"
+    ],
+    "normalizedTokens": [
+      "грудка",
+      "цыпленка",
+      "охлажденная"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Акнар четвертина замороженная",
+    "cleanTokens": [
+      "четвертина",
+      "замороженная"
+    ],
+    "normalizedTokens": [
+      "четвертина",
+      "замороженная"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Акнар печень замороженная",
+    "cleanTokens": [
+      "печень",
+      "замороженная"
+    ],
+    "normalizedTokens": [
+      "печень",
+      "замороженная"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мираторг голень цыпленка 750 г",
+    "cleanTokens": [
+      "голень",
+      "цыпленка"
+    ],
+    "normalizedTokens": [
+      "голень",
+      "цыпленка",
+      "750 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "750 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "UKPF филе цыпленка бройлера замороженное",
+    "cleanTokens": [
+      "филе",
+      "цыпленка",
+      "бройлера",
+      "замороженное"
+    ],
+    "normalizedTokens": [
+      "филе",
+      "цыпленка",
+      "бройлера",
+      "замороженное"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Акнар цыпленок табака замороженный",
+    "cleanTokens": [
+      "цыпленок",
+      "табака",
+      "замороженный"
+    ],
+    "normalizedTokens": [
+      "цыпленок",
+      "табака",
+      "замороженный"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Chickodelli тушка цыпленка замороженная",
+    "cleanTokens": [
+      "тушка",
+      "цыпленка",
+      "замороженная"
+    ],
+    "normalizedTokens": [
+      "тушка",
+      "цыпленка",
+      "замороженная"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Chickodelli бедро цыпленка замороженное",
+    "cleanTokens": [
+      "бедро",
+      "цыпленка",
+      "замороженное"
+    ],
+    "normalizedTokens": [
+      "бедро",
+      "цыпленка",
+      "замороженное"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Акнар крыло замороженное",
+    "cleanTokens": [
+      "крыло",
+      "замороженное"
+    ],
+    "normalizedTokens": [
+      "крыло",
+      "замороженное"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "UKPF сердечки цыпленка замороженные",
+    "cleanTokens": [
+      "сердечки",
+      "цыпленка",
+      "замороженные"
+    ],
+    "normalizedTokens": [
+      "сердечки",
+      "цыпленка",
+      "замороженные"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Курочка Ряба крыло цыпленка замороженное",
+    "cleanTokens": [
+      "крыло",
+      "цыпленка",
+      "замороженное"
+    ],
+    "normalizedTokens": [
+      "крыло",
+      "цыпленка",
+      "замороженное"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "MAGNUM голень куриная охлажденная",
+    "cleanTokens": [
+      "голень",
+      "куриная",
+      "охлажденная"
+    ],
+    "normalizedTokens": [
+      "голень",
+      "куриная",
+      "охлажденная"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "MAGNUM окорочок куринный охлажденный",
+    "cleanTokens": [
+      "окорочок",
+      "куринный",
+      "охлажденный"
+    ],
+    "normalizedTokens": [
+      "окорочок",
+      "куринный",
+      "охлажденный"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Курочка Ряба окорочок курицы охлажденный",
+    "cleanTokens": [
+      "окорочок",
+      "курицы",
+      "охлажденный"
+    ],
+    "normalizedTokens": [
+      "окорочок",
+      "курицы",
+      "охлажденный"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "UKPF окорочок цыпленка замороженный",
+    "cleanTokens": [
+      "окорочок",
+      "цыпленка",
+      "замороженный"
+    ],
+    "normalizedTokens": [
+      "окорочок",
+      "цыпленка",
+      "замороженный"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мираторг филе курицы замороженное 850 г",
+    "cleanTokens": [
+      "филе",
+      "курицы",
+      "замороженное"
+    ],
+    "normalizedTokens": [
+      "филе",
+      "курицы",
+      "замороженное",
+      "850 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "850 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Курочка Ряба тушка цыпленка охлажденная",
+    "cleanTokens": [
+      "тушка",
+      "цыпленка",
+      "охлажденная"
+    ],
+    "normalizedTokens": [
+      "тушка",
+      "цыпленка",
+      "охлажденная"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "UKPF бедро цыпленка замороженное",
+    "cleanTokens": [
+      "бедро",
+      "цыпленка",
+      "замороженное"
+    ],
+    "normalizedTokens": [
+      "бедро",
+      "цыпленка",
+      "замороженное"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Акнар голень замороженная",
+    "cleanTokens": [
+      "голень",
+      "замороженная"
+    ],
+    "normalizedTokens": [
+      "голень",
+      "замороженная"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Курочка Ряба полутушка цыпленка охлажденная",
+    "cleanTokens": [
+      "полутушка",
+      "цыпленка",
+      "охлажденная"
+    ],
+    "normalizedTokens": [
+      "полутушка",
+      "цыпленка",
+      "охлажденная"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Акнар грудка охлажденная",
+    "cleanTokens": [
+      "грудка",
+      "охлажденная"
+    ],
+    "normalizedTokens": [
+      "грудка",
+      "охлажденная"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Alfoor тушка курицы замороженная",
+    "cleanTokens": [
+      "тушка",
+      "курицы",
+      "замороженная"
+    ],
+    "normalizedTokens": [
+      "тушка",
+      "курицы",
+      "замороженная"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "MAGNUM бедро куриное охлажденное",
+    "cleanTokens": [
+      "бедро",
+      "куриное",
+      "охлажденное"
+    ],
+    "normalizedTokens": [
+      "бедро",
+      "куриное",
+      "охлажденное"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Chickodelli грудка цыпленка замороженная",
+    "cleanTokens": [
+      "грудка",
+      "цыпленка",
+      "замороженная"
+    ],
+    "normalizedTokens": [
+      "грудка",
+      "цыпленка",
+      "замороженная"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Курочка Ряба грудка курицы охлажденная",
+    "cleanTokens": [
+      "грудка",
+      "курицы",
+      "охлажденная"
+    ],
+    "normalizedTokens": [
+      "грудка",
+      "курицы",
+      "охлажденная"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Акнар голень охлажденная",
+    "cleanTokens": [
+      "голень",
+      "охлажденная"
+    ],
+    "normalizedTokens": [
+      "голень",
+      "охлажденная"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "MAGNUM филе куриное охлажденное",
+    "cleanTokens": [
+      "филе",
+      "куриное",
+      "охлажденное"
+    ],
+    "normalizedTokens": [
+      "филе",
+      "куриное",
+      "охлажденное"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "UKPF крыло цыпленка замороженное",
+    "cleanTokens": [
+      "крыло",
+      "цыпленка",
+      "замороженное"
+    ],
+    "normalizedTokens": [
+      "крыло",
+      "цыпленка",
+      "замороженное"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мираторг бедро курицы 750 г",
+    "cleanTokens": [
+      "бедро",
+      "курицы"
+    ],
+    "normalizedTokens": [
+      "бедро",
+      "курицы",
+      "750 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "750 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Акнар рагу из цыпленка бройлера замороженное",
+    "cleanTokens": [
+      "рагу",
+      "из",
+      "цыпленка",
+      "бройлера",
+      "замороженное"
+    ],
+    "normalizedTokens": [
+      "рагу",
+      "из",
+      "цыпленка",
+      "бройлера",
+      "замороженное"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "UKPF цыпленок табака замороженный",
+    "cleanTokens": [
+      "цыпленок",
+      "табака",
+      "замороженный"
+    ],
+    "normalizedTokens": [
+      "цыпленок",
+      "табака",
+      "замороженный"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Акнар филе охлажденное",
+    "cleanTokens": [
+      "филе",
+      "охлажденное"
+    ],
+    "normalizedTokens": [
+      "филе",
+      "охлажденное"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мираторг крыло курицы замороженное 750 г",
+    "cleanTokens": [
+      "крыло",
+      "курицы",
+      "замороженное"
+    ],
+    "normalizedTokens": [
+      "крыло",
+      "курицы",
+      "замороженное",
+      "750 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "750 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Chickodelli крыло куриное замороженное",
+    "cleanTokens": [
+      "крыло",
+      "куриное",
+      "замороженное"
+    ],
+    "normalizedTokens": [
+      "крыло",
+      "куриное",
+      "замороженное"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Курочка Ряба крыло цыпленка бройлера охлажденное",
+    "cleanTokens": [
+      "крыло",
+      "цыпленка",
+      "бройлера",
+      "охлажденное"
+    ],
+    "normalizedTokens": [
+      "крыло",
+      "цыпленка",
+      "бройлера",
+      "охлажденное"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мираторг Крыло курицы (плечевая часть) 750 г",
+    "cleanTokens": [
+      "крыло",
+      "курицы",
+      "плечевая",
+      "часть"
+    ],
+    "normalizedTokens": [
+      "крыло",
+      "курицы",
+      "плечевая",
+      "часть",
+      "750 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "750 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "UKPF тушка цыпленка замороженная",
+    "cleanTokens": [
+      "тушка",
+      "цыпленка",
+      "замороженная"
+    ],
+    "normalizedTokens": [
+      "тушка",
+      "цыпленка",
+      "замороженная"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "MAGNUM крыло куриное охлажденное",
+    "cleanTokens": [
+      "крыло",
+      "куриное",
+      "охлажденное"
+    ],
+    "normalizedTokens": [
+      "крыло",
+      "куриное",
+      "охлажденное"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Alfoor плечевая часть крыла тушки цыплят бройлеров замороженная",
+    "cleanTokens": [
+      "плечевая",
+      "часть",
+      "крыла",
+      "тушки",
+      "цыплят",
+      "бройлеров",
+      "замороженная"
+    ],
+    "normalizedTokens": [
+      "плечевая",
+      "часть",
+      "крыла",
+      "тушки",
+      "цыплят",
+      "бройлеров",
+      "замороженная"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Акнар бедро охлажденное",
+    "cleanTokens": [
+      "бедро",
+      "охлажденное"
+    ],
+    "normalizedTokens": [
+      "бедро",
+      "охлажденное"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Акнар окорочка охлажденная",
+    "cleanTokens": [
+      "окорочка",
+      "охлажденная"
+    ],
+    "normalizedTokens": [
+      "окорочка",
+      "охлажденная"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Акнар бедро замороженное",
+    "cleanTokens": [
+      "бедро",
+      "замороженное"
+    ],
+    "normalizedTokens": [
+      "бедро",
+      "замороженное"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Qualiko тушка цыпленка бройлера 1 сорт замороженная 1100 г",
+    "cleanTokens": [
+      "тушка",
+      "цыпленка",
+      "бройлера",
+      "1",
+      "сорт",
+      "замороженная"
+    ],
+    "normalizedTokens": [
+      "тушка",
+      "цыпленка",
+      "бройлера",
+      "1",
+      "сорт",
+      "замороженная",
+      "1100 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "1100 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Qualiko голень замороженная 2500 г",
+    "cleanTokens": [
+      "голень",
+      "замороженная"
+    ],
+    "normalizedTokens": [
+      "голень",
+      "замороженная",
+      "2500 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "2500 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "MAGNUM суповой набор куриный",
+    "cleanTokens": [
+      "суповой",
+      "набор",
+      "куриный"
+    ],
+    "normalizedTokens": [
+      "суповой",
+      "набор",
+      "куриный"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "UKPF печень куриная замороженная",
+    "cleanTokens": [
+      "печень",
+      "куриная",
+      "замороженная"
+    ],
+    "normalizedTokens": [
+      "печень",
+      "куриная",
+      "замороженная"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Акнар окорочка замороженная",
+    "cleanTokens": [
+      "окорочка",
+      "замороженная"
+    ],
+    "normalizedTokens": [
+      "окорочка",
+      "замороженная"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Qualiko голень дэли замороженная 1000 г",
+    "cleanTokens": [
+      "голень",
+      "дэли",
+      "замороженная"
+    ],
+    "normalizedTokens": [
+      "голень",
+      "дэли",
+      "замороженная",
+      "1000 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "1000 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Акнар полутушка замороженная",
+    "cleanTokens": [
+      "полутушка",
+      "замороженная"
+    ],
+    "normalizedTokens": [
+      "полутушка",
+      "замороженная"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Акнар тушка потрошеная замороженная",
+    "cleanTokens": [
+      "тушка",
+      "потрошеная",
+      "замороженная"
+    ],
+    "normalizedTokens": [
+      "тушка",
+      "потрошеная",
+      "замороженная"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "UKPF голень цыпленка замороженная",
+    "cleanTokens": [
+      "голень",
+      "цыпленка",
+      "замороженная"
+    ],
+    "normalizedTokens": [
+      "голень",
+      "цыпленка",
+      "замороженная"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Акнар грудка замороженная",
+    "cleanTokens": [
+      "грудка",
+      "замороженная"
+    ],
+    "normalizedTokens": [
+      "грудка",
+      "замороженная"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Акнар филе замороженное",
+    "cleanTokens": [
+      "филе",
+      "замороженное"
+    ],
+    "normalizedTokens": [
+      "филе",
+      "замороженное"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Qualiko голень бескостное мясо замороженное 2500 г",
+    "cleanTokens": [
+      "голень",
+      "бескостное",
+      "замороженное"
+    ],
+    "normalizedTokens": [
+      "голень",
+      "бескостное",
+      "замороженное",
+      "2500 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "2500 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  }
+]

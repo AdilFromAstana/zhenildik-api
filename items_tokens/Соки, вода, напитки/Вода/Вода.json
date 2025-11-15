@@ -1,0 +1,2887 @@
+[
+  {
+    "original": "Samal артезианская water негазированная 1 л",
+    "cleanTokens": [
+      "артезианская",
+      "water",
+      "негазированная"
+    ],
+    "normalizedTokens": [
+      "артезианская",
+      "water",
+      "негазированная",
+      "1 л"
+    ],
+    "params": {
+      "volume": "1 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Samal артезианская water негазированная 1.5 л",
+    "cleanTokens": [
+      "артезианская",
+      "water",
+      "негазированная"
+    ],
+    "normalizedTokens": [
+      "артезианская",
+      "water",
+      "негазированная",
+      "1.5 л"
+    ],
+    "params": {
+      "volume": "1.5 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Алекс минеральная Saryagash газированная 1 л",
+    "cleanTokens": [
+      "минеральная",
+      "saryagash",
+      "газированная"
+    ],
+    "normalizedTokens": [
+      "минеральная",
+      "saryagash",
+      "газированная",
+      "1 л"
+    ],
+    "params": {
+      "volume": "1 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "TASSAY premium негазированная 1.5 л",
+    "cleanTokens": [
+      "premium",
+      "негазированная"
+    ],
+    "normalizedTokens": [
+      "premium",
+      "негазированная",
+      "1.5 л"
+    ],
+    "params": {
+      "volume": "1.5 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "TASSAY минеральная natural газированная 1.5 л",
+    "cleanTokens": [
+      "минеральная",
+      "natural",
+      "газированная"
+    ],
+    "normalizedTokens": [
+      "минеральная",
+      "natural",
+      "газированная",
+      "1.5 л"
+    ],
+    "params": {
+      "volume": "1.5 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "TASSAY premium негазированная 1 л",
+    "cleanTokens": [
+      "premium",
+      "негазированная"
+    ],
+    "normalizedTokens": [
+      "premium",
+      "негазированная",
+      "1 л"
+    ],
+    "params": {
+      "volume": "1 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Ессентуки лечебно-столовая №4 газированная 1 л",
+    "cleanTokens": [
+      "лечебно-столовая",
+      "№4",
+      "газированная"
+    ],
+    "normalizedTokens": [
+      "лечебно-столовая",
+      "№4",
+      "газированная",
+      "1 л"
+    ],
+    "params": {
+      "volume": "1 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Borjomi лечебно-столовая газированная 0.75 л",
+    "cleanTokens": [
+      "лечебно-столовая",
+      "газированная"
+    ],
+    "normalizedTokens": [
+      "лечебно-столовая",
+      "газированная",
+      "0.75 л"
+    ],
+    "params": {
+      "volume": "0.75 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Cool Waters артезианская газированная 2 л",
+    "cleanTokens": [
+      "артезианская",
+      "газированная"
+    ],
+    "normalizedTokens": [
+      "артезианская",
+      "газированная",
+      "2 л"
+    ],
+    "params": {
+      "volume": "2 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Borjomi лечебно-столовая газированная 1 л",
+    "cleanTokens": [
+      "лечебно-столовая",
+      "газированная"
+    ],
+    "normalizedTokens": [
+      "лечебно-столовая",
+      "газированная",
+      "1 л"
+    ],
+    "params": {
+      "volume": "1 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "TASSAY premium негазированная 0.5 л",
+    "cleanTokens": [
+      "premium",
+      "негазированная"
+    ],
+    "normalizedTokens": [
+      "premium",
+      "негазированная",
+      "0.5 л"
+    ],
+    "params": {
+      "volume": "0.5 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Qulager-Burabay минеральная газированная 1 л",
+    "cleanTokens": [
+      "минеральная",
+      "газированная"
+    ],
+    "normalizedTokens": [
+      "минеральная",
+      "газированная",
+      "1 л"
+    ],
+    "params": {
+      "volume": "1 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Borjomi лечебно-столовая газированная 0.5 л",
+    "cleanTokens": [
+      "лечебно-столовая",
+      "газированная"
+    ],
+    "normalizedTokens": [
+      "лечебно-столовая",
+      "газированная",
+      "0.5 л"
+    ],
+    "params": {
+      "volume": "0.5 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Асем-Ай Сарыағаш негазированная 1 л",
+    "cleanTokens": [
+      "сарыағаш",
+      "негазированная"
+    ],
+    "normalizedTokens": [
+      "сарыағаш",
+      "негазированная",
+      "1 л"
+    ],
+    "params": {
+      "volume": "1 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "TASSAY минеральная natural газированная 1 л",
+    "cleanTokens": [
+      "минеральная",
+      "natural",
+      "газированная"
+    ],
+    "normalizedTokens": [
+      "минеральная",
+      "natural",
+      "газированная",
+      "1 л"
+    ],
+    "params": {
+      "volume": "1 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "TURAN природная питьевая негазированная 0.5 л",
+    "cleanTokens": [
+      "природная",
+      "питьевая",
+      "негазированная"
+    ],
+    "normalizedTokens": [
+      "природная",
+      "питьевая",
+      "негазированная",
+      "0.5 л"
+    ],
+    "params": {
+      "volume": "0.5 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Набеглави лечебно-столовая газированная 0.5 л",
+    "cleanTokens": [
+      "лечебно-столовая",
+      "газированная"
+    ],
+    "normalizedTokens": [
+      "лечебно-столовая",
+      "газированная",
+      "0.5 л"
+    ],
+    "params": {
+      "volume": "0.5 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "ASU лимон негазированная 1 л",
+    "cleanTokens": [
+      "лимон",
+      "негазированная"
+    ],
+    "normalizedTokens": [
+      "лимон",
+      "негазированная",
+      "1 л"
+    ],
+    "params": {
+      "volume": "1 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "TURAN природная питьевая негазированная 1 л",
+    "cleanTokens": [
+      "природная",
+      "питьевая",
+      "негазированная"
+    ],
+    "normalizedTokens": [
+      "природная",
+      "питьевая",
+      "негазированная",
+      "1 л"
+    ],
+    "params": {
+      "volume": "1 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Bonaqua минеральная газированная 1 л",
+    "cleanTokens": [
+      "минеральная",
+      "газированная"
+    ],
+    "normalizedTokens": [
+      "минеральная",
+      "газированная",
+      "1 л"
+    ],
+    "params": {
+      "volume": "1 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "ASU клубника-киви негазированная 1 л",
+    "cleanTokens": [
+      "клубника-киви",
+      "негазированная"
+    ],
+    "normalizedTokens": [
+      "клубника-киви",
+      "негазированная",
+      "1 л"
+    ],
+    "params": {
+      "volume": "1 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Sierra питьевая негазированная 5 л",
+    "cleanTokens": [
+      "питьевая",
+      "негазированная"
+    ],
+    "normalizedTokens": [
+      "питьевая",
+      "негазированная",
+      "5 л"
+    ],
+    "params": {
+      "volume": "5 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "ASU питьевая негазированная 1 л",
+    "cleanTokens": [
+      "питьевая",
+      "негазированная"
+    ],
+    "normalizedTokens": [
+      "питьевая",
+      "негазированная",
+      "1 л"
+    ],
+    "params": {
+      "volume": "1 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "TURAN природная питьевая газированная 1 л",
+    "cleanTokens": [
+      "природная",
+      "питьевая",
+      "газированная"
+    ],
+    "normalizedTokens": [
+      "природная",
+      "питьевая",
+      "газированная",
+      "1 л"
+    ],
+    "params": {
+      "volume": "1 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Bonaqua питьевая негазированная 1 л",
+    "cleanTokens": [
+      "питьевая",
+      "негазированная"
+    ],
+    "normalizedTokens": [
+      "питьевая",
+      "негазированная",
+      "1 л"
+    ],
+    "params": {
+      "volume": "1 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "TURAN природная питьевая газированная 1.5 л",
+    "cleanTokens": [
+      "природная",
+      "питьевая",
+      "газированная"
+    ],
+    "normalizedTokens": [
+      "природная",
+      "питьевая",
+      "газированная",
+      "1.5 л"
+    ],
+    "params": {
+      "volume": "1.5 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Samal артезианская water газированная 1.5 л",
+    "cleanTokens": [
+      "артезианская",
+      "water",
+      "газированная"
+    ],
+    "normalizedTokens": [
+      "артезианская",
+      "water",
+      "газированная",
+      "1.5 л"
+    ],
+    "params": {
+      "volume": "1.5 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "ASU минеральная газированная 1.5 л",
+    "cleanTokens": [
+      "минеральная",
+      "газированная"
+    ],
+    "normalizedTokens": [
+      "минеральная",
+      "газированная",
+      "1.5 л"
+    ],
+    "params": {
+      "volume": "1.5 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "ASU дневная норма негазированная 1.5 л",
+    "cleanTokens": [
+      "дневная",
+      "норма",
+      "негазированная"
+    ],
+    "normalizedTokens": [
+      "дневная",
+      "норма",
+      "негазированная",
+      "1.5 л"
+    ],
+    "params": {
+      "volume": "1.5 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Ессентуки лечебная №17 газированная 0.45 л",
+    "cleanTokens": [
+      "лечебная",
+      "№17",
+      "газированная"
+    ],
+    "normalizedTokens": [
+      "лечебная",
+      "№17",
+      "газированная",
+      "0.45 л"
+    ],
+    "params": {
+      "volume": "0.45 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Qulager-Burabay минеральная газированная 1.5 л",
+    "cleanTokens": [
+      "минеральная",
+      "газированная"
+    ],
+    "normalizedTokens": [
+      "минеральная",
+      "газированная",
+      "1.5 л"
+    ],
+    "params": {
+      "volume": "1.5 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "TASSAY минеральная natural газированная 0.5 л",
+    "cleanTokens": [
+      "минеральная",
+      "natural",
+      "газированная"
+    ],
+    "normalizedTokens": [
+      "минеральная",
+      "natural",
+      "газированная",
+      "0.5 л"
+    ],
+    "params": {
+      "volume": "0.5 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Bonaqua питьевая негазированная 0.5 л",
+    "cleanTokens": [
+      "питьевая",
+      "негазированная"
+    ],
+    "normalizedTokens": [
+      "питьевая",
+      "негазированная",
+      "0.5 л"
+    ],
+    "params": {
+      "volume": "0.5 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "ASU столовая газированная 1 л",
+    "cleanTokens": [
+      "столовая",
+      "газированная"
+    ],
+    "normalizedTokens": [
+      "столовая",
+      "газированная",
+      "1 л"
+    ],
+    "params": {
+      "volume": "1 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Ессентуки лечебно-столовая №4 газированная 0.45 л",
+    "cleanTokens": [
+      "лечебно-столовая",
+      "№4",
+      "газированная"
+    ],
+    "normalizedTokens": [
+      "лечебно-столовая",
+      "№4",
+      "газированная",
+      "0.45 л"
+    ],
+    "params": {
+      "volume": "0.45 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "ASU персик негазированная 1 л",
+    "cleanTokens": [
+      "персик",
+      "негазированная"
+    ],
+    "normalizedTokens": [
+      "персик",
+      "негазированная",
+      "1 л"
+    ],
+    "params": {
+      "volume": "1 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Bonaqua питьевая негазированная 5 л",
+    "cleanTokens": [
+      "питьевая",
+      "негазированная"
+    ],
+    "normalizedTokens": [
+      "питьевая",
+      "негазированная",
+      "5 л"
+    ],
+    "params": {
+      "volume": "5 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Borjomi лечебно-столовая природная газированная 0.33 л",
+    "cleanTokens": [
+      "лечебно-столовая",
+      "природная",
+      "газированная"
+    ],
+    "normalizedTokens": [
+      "лечебно-столовая",
+      "природная",
+      "газированная",
+      "0.33 л"
+    ],
+    "params": {
+      "volume": "0.33 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "TURAN природная питьевая негазированная 1.5 л",
+    "cleanTokens": [
+      "природная",
+      "питьевая",
+      "негазированная"
+    ],
+    "normalizedTokens": [
+      "природная",
+      "питьевая",
+      "негазированная",
+      "1.5 л"
+    ],
+    "params": {
+      "volume": "1.5 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "TASSAY premium негазированная 0.25 л",
+    "cleanTokens": [
+      "premium",
+      "негазированная"
+    ],
+    "normalizedTokens": [
+      "premium",
+      "негазированная",
+      "0.25 л"
+    ],
+    "params": {
+      "volume": "0.25 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Cool Waters артезианская газированная 1.5 л",
+    "cleanTokens": [
+      "артезианская",
+      "газированная"
+    ],
+    "normalizedTokens": [
+      "артезианская",
+      "газированная",
+      "1.5 л"
+    ],
+    "params": {
+      "volume": "1.5 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Samal артезианская water газированная 1 л",
+    "cleanTokens": [
+      "артезианская",
+      "water",
+      "газированная"
+    ],
+    "normalizedTokens": [
+      "артезианская",
+      "water",
+      "газированная",
+      "1 л"
+    ],
+    "params": {
+      "volume": "1 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "ASU лимон негазированная 0.5 л",
+    "cleanTokens": [
+      "лимон",
+      "негазированная"
+    ],
+    "normalizedTokens": [
+      "лимон",
+      "негазированная",
+      "0.5 л"
+    ],
+    "params": {
+      "volume": "0.5 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Samal питьевая негазированная 2 л",
+    "cleanTokens": [
+      "питьевая",
+      "негазированная"
+    ],
+    "normalizedTokens": [
+      "питьевая",
+      "негазированная",
+      "2 л"
+    ],
+    "params": {
+      "volume": "2 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "ASU апельсин газированная 1 л",
+    "cleanTokens": [
+      "апельсин",
+      "газированная"
+    ],
+    "normalizedTokens": [
+      "апельсин",
+      "газированная",
+      "1 л"
+    ],
+    "params": {
+      "volume": "1 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Cool Waters артезианская негазированная 0.5 л",
+    "cleanTokens": [
+      "артезианская",
+      "негазированная"
+    ],
+    "normalizedTokens": [
+      "артезианская",
+      "негазированная",
+      "0.5 л"
+    ],
+    "params": {
+      "volume": "0.5 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Shymbulak Water горная негазированная 0.5 л",
+    "cleanTokens": [
+      "горная",
+      "негазированная"
+    ],
+    "normalizedTokens": [
+      "горная",
+      "негазированная",
+      "0.5 л"
+    ],
+    "params": {
+      "volume": "0.5 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Samal артезианская water газированная 0.5 л",
+    "cleanTokens": [
+      "артезианская",
+      "water",
+      "газированная"
+    ],
+    "normalizedTokens": [
+      "артезианская",
+      "water",
+      "газированная",
+      "0.5 л"
+    ],
+    "params": {
+      "volume": "0.5 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "TASSAY малина негазированная 1 л",
+    "cleanTokens": [
+      "малина",
+      "негазированная"
+    ],
+    "normalizedTokens": [
+      "малина",
+      "негазированная",
+      "1 л"
+    ],
+    "params": {
+      "volume": "1 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "ASU дневная норма негазированная 0.5 л",
+    "cleanTokens": [
+      "дневная",
+      "норма",
+      "негазированная"
+    ],
+    "normalizedTokens": [
+      "дневная",
+      "норма",
+      "негазированная",
+      "0.5 л"
+    ],
+    "params": {
+      "volume": "0.5 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "TASSAY минеральная газированная 0.25 л",
+    "cleanTokens": [
+      "минеральная",
+      "газированная"
+    ],
+    "normalizedTokens": [
+      "минеральная",
+      "газированная",
+      "0.25 л"
+    ],
+    "params": {
+      "volume": "0.25 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Bonaqua питьевая негазированная 1.5 л",
+    "cleanTokens": [
+      "питьевая",
+      "негазированная"
+    ],
+    "normalizedTokens": [
+      "питьевая",
+      "негазированная",
+      "1.5 л"
+    ],
+    "params": {
+      "volume": "1.5 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "TASSAY малина газированная 1 л",
+    "cleanTokens": [
+      "малина",
+      "газированная"
+    ],
+    "normalizedTokens": [
+      "малина",
+      "газированная",
+      "1 л"
+    ],
+    "params": {
+      "volume": "1 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Cool Waters артезианская негазированная 1 л",
+    "cleanTokens": [
+      "артезианская",
+      "негазированная"
+    ],
+    "normalizedTokens": [
+      "артезианская",
+      "негазированная",
+      "1 л"
+    ],
+    "params": {
+      "volume": "1 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "TASSAY лимон негазированная 1 л",
+    "cleanTokens": [
+      "лимон",
+      "негазированная"
+    ],
+    "normalizedTokens": [
+      "лимон",
+      "негазированная",
+      "1 л"
+    ],
+    "params": {
+      "volume": "1 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "TASSAY клубника негазированная 1 л",
+    "cleanTokens": [
+      "клубника",
+      "негазированная"
+    ],
+    "normalizedTokens": [
+      "клубника",
+      "негазированная",
+      "1 л"
+    ],
+    "params": {
+      "volume": "1 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Нарзан природной газации 1 л",
+    "cleanTokens": [
+      "природной",
+      "газации"
+    ],
+    "normalizedTokens": [
+      "природной",
+      "газации",
+      "1 л"
+    ],
+    "params": {
+      "volume": "1 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Нарзан природная газация 0.5 л",
+    "cleanTokens": [
+      "природная",
+      "газация"
+    ],
+    "normalizedTokens": [
+      "природная",
+      "газация",
+      "0.5 л"
+    ],
+    "params": {
+      "volume": "0.5 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "ASU клубника-киви негазированная 0.5 л",
+    "cleanTokens": [
+      "клубника-киви",
+      "негазированная"
+    ],
+    "normalizedTokens": [
+      "клубника-киви",
+      "негазированная",
+      "0.5 л"
+    ],
+    "params": {
+      "volume": "0.5 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "TASSAY клубника газированная 1 л",
+    "cleanTokens": [
+      "клубника",
+      "газированная"
+    ],
+    "normalizedTokens": [
+      "клубника",
+      "газированная",
+      "1 л"
+    ],
+    "params": {
+      "volume": "1 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Samal артезианская water негазированная 0.5 л",
+    "cleanTokens": [
+      "артезианская",
+      "water",
+      "негазированная"
+    ],
+    "normalizedTokens": [
+      "артезианская",
+      "water",
+      "негазированная",
+      "0.5 л"
+    ],
+    "params": {
+      "volume": "0.5 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Sierra питьевая негазированная 0.5 л",
+    "cleanTokens": [
+      "питьевая",
+      "негазированная"
+    ],
+    "normalizedTokens": [
+      "питьевая",
+      "негазированная",
+      "0.5 л"
+    ],
+    "params": {
+      "volume": "0.5 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Cool Waters артезианская негазированная 1.5 л",
+    "cleanTokens": [
+      "артезианская",
+      "негазированная"
+    ],
+    "normalizedTokens": [
+      "артезианская",
+      "негазированная",
+      "1.5 л"
+    ],
+    "params": {
+      "volume": "1.5 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Borjomi лечебно-столовая газированная 0.33 л",
+    "cleanTokens": [
+      "лечебно-столовая",
+      "газированная"
+    ],
+    "normalizedTokens": [
+      "лечебно-столовая",
+      "газированная",
+      "0.33 л"
+    ],
+    "params": {
+      "volume": "0.33 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "ASU персик негазированная 0.5 л",
+    "cleanTokens": [
+      "персик",
+      "негазированная"
+    ],
+    "normalizedTokens": [
+      "персик",
+      "негазированная",
+      "0.5 л"
+    ],
+    "params": {
+      "volume": "0.5 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Алекс минеральная Saryagash газированная 0.5 л",
+    "cleanTokens": [
+      "минеральная",
+      "saryagash",
+      "газированная"
+    ],
+    "normalizedTokens": [
+      "минеральная",
+      "saryagash",
+      "газированная",
+      "0.5 л"
+    ],
+    "params": {
+      "volume": "0.5 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "TURAN природная питьевая негазированная 0.5 л",
+    "cleanTokens": [
+      "природная",
+      "питьевая",
+      "негазированная"
+    ],
+    "normalizedTokens": [
+      "природная",
+      "питьевая",
+      "негазированная",
+      "0.5 л"
+    ],
+    "params": {
+      "volume": "0.5 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "ASU минеральная газированная 0.5 л",
+    "cleanTokens": [
+      "минеральная",
+      "газированная"
+    ],
+    "normalizedTokens": [
+      "минеральная",
+      "газированная",
+      "0.5 л"
+    ],
+    "params": {
+      "volume": "0.5 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Cool Waters артезианская газированная 1 л",
+    "cleanTokens": [
+      "артезианская",
+      "газированная"
+    ],
+    "normalizedTokens": [
+      "артезианская",
+      "газированная",
+      "1 л"
+    ],
+    "params": {
+      "volume": "1 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Gorji лечебно-столовая Нагутская-26 газированная 1 л",
+    "cleanTokens": [
+      "лечебно-столовая",
+      "нагутская-26",
+      "газированная"
+    ],
+    "normalizedTokens": [
+      "лечебно-столовая",
+      "нагутская-26",
+      "газированная",
+      "1 л"
+    ],
+    "params": {
+      "volume": "1 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Arzu Life Fitness негазированная 1.02 л",
+    "cleanTokens": [
+      "life",
+      "fitness",
+      "негазированная"
+    ],
+    "normalizedTokens": [
+      "life",
+      "fitness",
+      "негазированная",
+      "1.02 л"
+    ],
+    "params": {
+      "volume": "1.02 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Набеглави лечебно-столовая газированная 0.5 л",
+    "cleanTokens": [
+      "лечебно-столовая",
+      "газированная"
+    ],
+    "normalizedTokens": [
+      "лечебно-столовая",
+      "газированная",
+      "0.5 л"
+    ],
+    "params": {
+      "volume": "0.5 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Woto озонированная негазированная 0.5 л",
+    "cleanTokens": [
+      "озонированная",
+      "негазированная"
+    ],
+    "normalizedTokens": [
+      "озонированная",
+      "негазированная",
+      "0.5 л"
+    ],
+    "params": {
+      "volume": "0.5 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Green Park питьевая негазированная 1 л",
+    "cleanTokens": [
+      "питьевая",
+      "негазированная"
+    ],
+    "normalizedTokens": [
+      "питьевая",
+      "негазированная",
+      "1 л"
+    ],
+    "params": {
+      "volume": "1 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Chortoq питьевая газированная 1.5 л",
+    "cleanTokens": [
+      "питьевая",
+      "газированная"
+    ],
+    "normalizedTokens": [
+      "питьевая",
+      "газированная",
+      "1.5 л"
+    ],
+    "params": {
+      "volume": "1.5 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Sierra питьевая негазированная 1 л",
+    "cleanTokens": [
+      "питьевая",
+      "негазированная"
+    ],
+    "normalizedTokens": [
+      "питьевая",
+      "негазированная",
+      "1 л"
+    ],
+    "params": {
+      "volume": "1 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Green Park питьевая негазированная 5 л",
+    "cleanTokens": [
+      "питьевая",
+      "негазированная"
+    ],
+    "normalizedTokens": [
+      "питьевая",
+      "негазированная",
+      "5 л"
+    ],
+    "params": {
+      "volume": "5 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Samal питьевая негазированная 0.25 л",
+    "cleanTokens": [
+      "питьевая",
+      "негазированная"
+    ],
+    "normalizedTokens": [
+      "питьевая",
+      "негазированная",
+      "0.25 л"
+    ],
+    "params": {
+      "volume": "0.25 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Borjomi лечебно-столовая природная газированная 12 бутылок по 0.33 л",
+    "cleanTokens": [
+      "лечебно-столовая",
+      "природная",
+      "газированная",
+      "12",
+      "бутылок",
+      "по"
+    ],
+    "normalizedTokens": [
+      "лечебно-столовая",
+      "природная",
+      "газированная",
+      "12",
+      "бутылок",
+      "по",
+      "0.33 л"
+    ],
+    "params": {
+      "volume": "0.33 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "TASSAY premium негазированная 0.5 л",
+    "cleanTokens": [
+      "premium",
+      "негазированная"
+    ],
+    "normalizedTokens": [
+      "premium",
+      "негазированная",
+      "0.5 л"
+    ],
+    "params": {
+      "volume": "0.5 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Donat Mg лечебно-столовая газированная 1 л",
+    "cleanTokens": [
+      "лечебно-столовая",
+      "газированная"
+    ],
+    "normalizedTokens": [
+      "лечебно-столовая",
+      "газированная",
+      "1 л"
+    ],
+    "params": {
+      "volume": "1 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Алекс минеральная Saryagash негазированная 0.5 л",
+    "cleanTokens": [
+      "минеральная",
+      "saryagash",
+      "негазированная"
+    ],
+    "normalizedTokens": [
+      "минеральная",
+      "saryagash",
+      "негазированная",
+      "0.5 л"
+    ],
+    "params": {
+      "volume": "0.5 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Cool Waters артезианская газированная 0.5 л",
+    "cleanTokens": [
+      "артезианская",
+      "газированная"
+    ],
+    "normalizedTokens": [
+      "артезианская",
+      "газированная",
+      "0.5 л"
+    ],
+    "params": {
+      "volume": "0.5 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Серноводская йод+фтор газированная 0.5 л",
+    "cleanTokens": [
+      "йод+фтор",
+      "газированная"
+    ],
+    "normalizedTokens": [
+      "йод+фтор",
+      "газированная",
+      "0.5 л"
+    ],
+    "params": {
+      "volume": "0.5 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "San Pellegrino минеральная газированная 0.75 л",
+    "cleanTokens": [
+      "минеральная",
+      "газированная"
+    ],
+    "normalizedTokens": [
+      "минеральная",
+      "газированная",
+      "0.75 л"
+    ],
+    "params": {
+      "volume": "0.75 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "TURAN природная питьевая негазированная 0.25 л",
+    "cleanTokens": [
+      "природная",
+      "питьевая",
+      "негазированная"
+    ],
+    "normalizedTokens": [
+      "природная",
+      "питьевая",
+      "негазированная",
+      "0.25 л"
+    ],
+    "params": {
+      "volume": "0.25 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Perrier минеральная газированная 0.33 л",
+    "cleanTokens": [
+      "минеральная",
+      "газированная"
+    ],
+    "normalizedTokens": [
+      "минеральная",
+      "газированная",
+      "0.33 л"
+    ],
+    "params": {
+      "volume": "0.33 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Riks содовая вода газированная 0.5 л",
+    "cleanTokens": [
+      "содовая",
+      "газированная"
+    ],
+    "normalizedTokens": [
+      "содовая",
+      "газированная",
+      "0.5 л"
+    ],
+    "params": {
+      "volume": "0.5 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Arzu LifeFitness негазированная 0.52 л",
+    "cleanTokens": [
+      "lifefitness",
+      "негазированная"
+    ],
+    "normalizedTokens": [
+      "lifefitness",
+      "негазированная",
+      "0.52 л"
+    ],
+    "params": {
+      "volume": "0.52 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Arzu земляника негазированная 1 л",
+    "cleanTokens": [
+      "земляника",
+      "негазированная"
+    ],
+    "normalizedTokens": [
+      "земляника",
+      "негазированная",
+      "1 л"
+    ],
+    "params": {
+      "volume": "1 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Arzu LifeFitness газированная 0.5 л",
+    "cleanTokens": [
+      "lifefitness",
+      "газированная"
+    ],
+    "normalizedTokens": [
+      "lifefitness",
+      "газированная",
+      "0.5 л"
+    ],
+    "params": {
+      "volume": "0.5 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Qulager-Burabay минеральная газированная 0.5 л",
+    "cleanTokens": [
+      "минеральная",
+      "газированная"
+    ],
+    "normalizedTokens": [
+      "минеральная",
+      "газированная",
+      "0.5 л"
+    ],
+    "params": {
+      "volume": "0.5 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Асем-Ай Сарыағаш газированная 0.5 л",
+    "cleanTokens": [
+      "сарыағаш",
+      "газированная"
+    ],
+    "normalizedTokens": [
+      "сарыағаш",
+      "газированная",
+      "0.5 л"
+    ],
+    "params": {
+      "volume": "0.5 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Perrier минеральная газированная 0.75 л",
+    "cleanTokens": [
+      "минеральная",
+      "газированная"
+    ],
+    "normalizedTokens": [
+      "минеральная",
+      "газированная",
+      "0.75 л"
+    ],
+    "params": {
+      "volume": "0.75 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Bohemia Healing Marienbad Waters лечебно-столовая Zajecicka Horka газированная 0.5 л",
+    "cleanTokens": [
+      "лечебно-столовая",
+      "zajecicka",
+      "horka",
+      "газированная"
+    ],
+    "normalizedTokens": [
+      "лечебно-столовая",
+      "zajecicka",
+      "horka",
+      "газированная",
+      "0.5 л"
+    ],
+    "params": {
+      "volume": "0.5 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "VITA питьевая негазированная 1 л",
+    "cleanTokens": [
+      "питьевая",
+      "негазированная"
+    ],
+    "normalizedTokens": [
+      "питьевая",
+      "негазированная",
+      "1 л"
+    ],
+    "params": {
+      "volume": "1 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Acqua Panna минеральная негазированная 0.75 л",
+    "cleanTokens": [
+      "минеральная",
+      "негазированная"
+    ],
+    "normalizedTokens": [
+      "минеральная",
+      "негазированная",
+      "0.75 л"
+    ],
+    "params": {
+      "volume": "0.75 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Chortoq минеральная газированная 1 л",
+    "cleanTokens": [
+      "минеральная",
+      "газированная"
+    ],
+    "normalizedTokens": [
+      "минеральная",
+      "газированная",
+      "1 л"
+    ],
+    "params": {
+      "volume": "1 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "ASU мята негазированная 0.5 л",
+    "cleanTokens": [
+      "мята",
+      "негазированная"
+    ],
+    "normalizedTokens": [
+      "мята",
+      "негазированная",
+      "0.5 л"
+    ],
+    "params": {
+      "volume": "0.5 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Vittel минеральная негазированная 0.5 л",
+    "cleanTokens": [
+      "минеральная",
+      "негазированная"
+    ],
+    "normalizedTokens": [
+      "минеральная",
+      "негазированная",
+      "0.5 л"
+    ],
+    "params": {
+      "volume": "0.5 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Qulager-Burabay минеральная газированная 0.5 л",
+    "cleanTokens": [
+      "минеральная",
+      "газированная"
+    ],
+    "normalizedTokens": [
+      "минеральная",
+      "газированная",
+      "0.5 л"
+    ],
+    "params": {
+      "volume": "0.5 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Chortoq минеральная газированная 0.75 л",
+    "cleanTokens": [
+      "минеральная",
+      "газированная"
+    ],
+    "normalizedTokens": [
+      "минеральная",
+      "газированная",
+      "0.75 л"
+    ],
+    "params": {
+      "volume": "0.75 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "VITA питьевая негазированная 0.5 л",
+    "cleanTokens": [
+      "питьевая",
+      "негазированная"
+    ],
+    "normalizedTokens": [
+      "питьевая",
+      "негазированная",
+      "0.5 л"
+    ],
+    "params": {
+      "volume": "0.5 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "TASSAY минеральная Excellent негазированная 0.75 л",
+    "cleanTokens": [
+      "минеральная",
+      "excellent",
+      "негазированная"
+    ],
+    "normalizedTokens": [
+      "минеральная",
+      "excellent",
+      "негазированная",
+      "0.75 л"
+    ],
+    "params": {
+      "volume": "0.75 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Acqua Panna минеральная негазированная 0.25 л",
+    "cleanTokens": [
+      "минеральная",
+      "негазированная"
+    ],
+    "normalizedTokens": [
+      "минеральная",
+      "негазированная",
+      "0.25 л"
+    ],
+    "params": {
+      "volume": "0.25 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "TASSAY минеральная Emerald газированная 0.75 л",
+    "cleanTokens": [
+      "минеральная",
+      "emerald",
+      "газированная"
+    ],
+    "normalizedTokens": [
+      "минеральная",
+      "emerald",
+      "газированная",
+      "0.75 л"
+    ],
+    "params": {
+      "volume": "0.75 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "TASSAY premium негазированная 0.75 л",
+    "cleanTokens": [
+      "premium",
+      "негазированная"
+    ],
+    "normalizedTokens": [
+      "premium",
+      "негазированная",
+      "0.75 л"
+    ],
+    "params": {
+      "volume": "0.75 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Vittel минеральная негазированная 0.75 л",
+    "cleanTokens": [
+      "минеральная",
+      "негазированная"
+    ],
+    "normalizedTokens": [
+      "минеральная",
+      "негазированная",
+      "0.75 л"
+    ],
+    "params": {
+      "volume": "0.75 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "TASSAY минеральная natural газированная 0.75 л",
+    "cleanTokens": [
+      "минеральная",
+      "natural",
+      "газированная"
+    ],
+    "normalizedTokens": [
+      "минеральная",
+      "natural",
+      "газированная",
+      "0.75 л"
+    ],
+    "params": {
+      "volume": "0.75 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "TASSAY минеральная natural газированная 0.5 л",
+    "cleanTokens": [
+      "минеральная",
+      "natural",
+      "газированная"
+    ],
+    "normalizedTokens": [
+      "минеральная",
+      "natural",
+      "газированная",
+      "0.5 л"
+    ],
+    "params": {
+      "volume": "0.5 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Chortoq минеральая газированная 0.33 л",
+    "cleanTokens": [
+      "минеральая",
+      "газированная"
+    ],
+    "normalizedTokens": [
+      "минеральая",
+      "газированная",
+      "0.33 л"
+    ],
+    "params": {
+      "volume": "0.33 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Miglior premium негазированная 0.5 л",
+    "cleanTokens": [
+      "premium",
+      "негазированная"
+    ],
+    "normalizedTokens": [
+      "premium",
+      "негазированная",
+      "0.5 л"
+    ],
+    "params": {
+      "volume": "0.5 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Miglior premium негазированная 0.75 л",
+    "cleanTokens": [
+      "premium",
+      "негазированная"
+    ],
+    "normalizedTokens": [
+      "premium",
+      "негазированная",
+      "0.75 л"
+    ],
+    "params": {
+      "volume": "0.75 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "ASU Crystal питьевая негазированная 0.5 л",
+    "cleanTokens": [
+      "crystal",
+      "питьевая",
+      "негазированная"
+    ],
+    "normalizedTokens": [
+      "crystal",
+      "питьевая",
+      "негазированная",
+      "0.5 л"
+    ],
+    "params": {
+      "volume": "0.5 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Borjomi лечебно-столовая природная газированная 12 бутылок по 0.5 л",
+    "cleanTokens": [
+      "лечебно-столовая",
+      "природная",
+      "газированная",
+      "12",
+      "бутылок",
+      "по"
+    ],
+    "normalizedTokens": [
+      "лечебно-столовая",
+      "природная",
+      "газированная",
+      "12",
+      "бутылок",
+      "по",
+      "0.5 л"
+    ],
+    "params": {
+      "volume": "0.5 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Miglior premium газированная 0.25 л",
+    "cleanTokens": [
+      "premium",
+      "газированная"
+    ],
+    "normalizedTokens": [
+      "premium",
+      "газированная",
+      "0.25 л"
+    ],
+    "params": {
+      "volume": "0.25 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "San Pellegrino минеральная газированная 0.25 л",
+    "cleanTokens": [
+      "минеральная",
+      "газированная"
+    ],
+    "normalizedTokens": [
+      "минеральная",
+      "газированная",
+      "0.25 л"
+    ],
+    "params": {
+      "volume": "0.25 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Samal артезианская water негазированная 0.25 л",
+    "cleanTokens": [
+      "артезианская",
+      "water",
+      "негазированная"
+    ],
+    "normalizedTokens": [
+      "артезианская",
+      "water",
+      "негазированная",
+      "0.25 л"
+    ],
+    "params": {
+      "volume": "0.25 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Добрый доктор лечебно-столовая Ессентуки №4 газированная 0.45 л",
+    "cleanTokens": [
+      "лечебно-столовая",
+      "№4",
+      "газированная"
+    ],
+    "normalizedTokens": [
+      "лечебно-столовая",
+      "№4",
+      "газированная",
+      "0.45 л"
+    ],
+    "params": {
+      "volume": "0.45 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Miglior premium газированная 0.5 л",
+    "cleanTokens": [
+      "premium",
+      "газированная"
+    ],
+    "normalizedTokens": [
+      "premium",
+      "газированная",
+      "0.5 л"
+    ],
+    "params": {
+      "volume": "0.5 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Vittel минеральная негазированная 0.33 л",
+    "cleanTokens": [
+      "минеральная",
+      "негазированная"
+    ],
+    "normalizedTokens": [
+      "минеральная",
+      "негазированная",
+      "0.33 л"
+    ],
+    "params": {
+      "volume": "0.33 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Samal детская негазированная 0.25 л",
+    "cleanTokens": [
+      "детская",
+      "негазированная"
+    ],
+    "normalizedTokens": [
+      "детская",
+      "негазированная",
+      "0.25 л"
+    ],
+    "params": {
+      "volume": "0.25 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Набеглави лечебно-столовая газированная 0.2 л",
+    "cleanTokens": [
+      "лечебно-столовая",
+      "газированная"
+    ],
+    "normalizedTokens": [
+      "лечебно-столовая",
+      "газированная",
+      "0.2 л"
+    ],
+    "params": {
+      "volume": "0.2 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Arzu LifeFitness негазированная 0.25 л",
+    "cleanTokens": [
+      "lifefitness",
+      "негазированная"
+    ],
+    "normalizedTokens": [
+      "lifefitness",
+      "негазированная",
+      "0.25 л"
+    ],
+    "params": {
+      "volume": "0.25 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Arzu LifeFitness негазированная 0.5 л",
+    "cleanTokens": [
+      "lifefitness",
+      "негазированная"
+    ],
+    "normalizedTokens": [
+      "lifefitness",
+      "негазированная",
+      "0.5 л"
+    ],
+    "params": {
+      "volume": "0.5 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Miglior premium газированная 0.75 л",
+    "cleanTokens": [
+      "premium",
+      "газированная"
+    ],
+    "normalizedTokens": [
+      "premium",
+      "газированная",
+      "0.75 л"
+    ],
+    "params": {
+      "volume": "0.75 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "San Pellegrino Special Edition газированная 0.75 л",
+    "cleanTokens": [
+      "special",
+      "edition",
+      "газированная"
+    ],
+    "normalizedTokens": [
+      "special",
+      "edition",
+      "газированная",
+      "0.75 л"
+    ],
+    "params": {
+      "volume": "0.75 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Jermuk минеральная вода газированная 0.33 л",
+    "cleanTokens": [
+      "минеральная",
+      "газированная"
+    ],
+    "normalizedTokens": [
+      "минеральная",
+      "газированная",
+      "0.33 л"
+    ],
+    "params": {
+      "volume": "0.33 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Набеглави лечебно-столовая газированная 0.33 л",
+    "cleanTokens": [
+      "лечебно-столовая",
+      "газированная"
+    ],
+    "normalizedTokens": [
+      "лечебно-столовая",
+      "газированная",
+      "0.33 л"
+    ],
+    "params": {
+      "volume": "0.33 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Samal Marwin негазированная 0.5 л",
+    "cleanTokens": [
+      "marwin",
+      "негазированная"
+    ],
+    "normalizedTokens": [
+      "marwin",
+      "негазированная",
+      "0.5 л"
+    ],
+    "params": {
+      "volume": "0.5 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Samal Marwin газированная 0.5 л",
+    "cleanTokens": [
+      "marwin",
+      "газированная"
+    ],
+    "normalizedTokens": [
+      "marwin",
+      "газированная",
+      "0.5 л"
+    ],
+    "params": {
+      "volume": "0.5 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Arzu лимон негазированная 0.5 л",
+    "cleanTokens": [
+      "лимон",
+      "негазированная"
+    ],
+    "normalizedTokens": [
+      "лимон",
+      "негазированная",
+      "0.5 л"
+    ],
+    "params": {
+      "volume": "0.5 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Samal артезианская water газированная 0.5 л",
+    "cleanTokens": [
+      "артезианская",
+      "water",
+      "газированная"
+    ],
+    "normalizedTokens": [
+      "артезианская",
+      "water",
+      "газированная",
+      "0.5 л"
+    ],
+    "params": {
+      "volume": "0.5 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  }
+]

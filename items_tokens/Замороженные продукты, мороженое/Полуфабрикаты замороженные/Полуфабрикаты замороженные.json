@@ -1,0 +1,1795 @@
+[
+  {
+    "original": "Народные колбасы пельмени Восточные 1000 г",
+    "cleanTokens": [
+      "пельмени",
+      "восточные"
+    ],
+    "normalizedTokens": [
+      "пельмени",
+      "восточные",
+      "1000 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "1000 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Максимальный размах вареники картофель 400 г",
+    "cleanTokens": [
+      "вареники",
+      "картофель"
+    ],
+    "normalizedTokens": [
+      "вареники",
+      "картофель",
+      "400 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "400 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Родина пельмени говядина 450 г",
+    "cleanTokens": [
+      "пельмени",
+      "говядина"
+    ],
+    "normalizedTokens": [
+      "пельмени",
+      "говядина",
+      "450 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "450 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Даяр тесто без начинки 540 г",
+    "cleanTokens": [
+      "тесто",
+      "без",
+      "начинки"
+    ],
+    "normalizedTokens": [
+      "тесто",
+      "без",
+      "начинки",
+      "540 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "540 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Богатырь тесто слоёное бездрожжевое 900 г",
+    "cleanTokens": [
+      "тесто",
+      "слоеное",
+      "бездрожжевое"
+    ],
+    "normalizedTokens": [
+      "тесто",
+      "слоеное",
+      "бездрожжевое",
+      "900 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "900 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Рубиком вареники с картофелем 450 г",
+    "cleanTokens": [
+      "вареники",
+      "с",
+      "картофелем"
+    ],
+    "normalizedTokens": [
+      "вареники",
+      "с",
+      "картофелем",
+      "450 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "450 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Максимальный размах тесто слоёное пресное 450 г",
+    "cleanTokens": [
+      "тесто",
+      "слоеное",
+      "пресное"
+    ],
+    "normalizedTokens": [
+      "тесто",
+      "слоеное",
+      "пресное",
+      "450 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "450 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Максимальный размах тесто без начинки 800 г",
+    "cleanTokens": [
+      "тесто",
+      "без",
+      "начинки"
+    ],
+    "normalizedTokens": [
+      "тесто",
+      "без",
+      "начинки",
+      "800 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "800 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "ҰЛЫТАУ Ет-сүт пельмени говядина 500 г",
+    "cleanTokens": [
+      "пельмени",
+      "говядина"
+    ],
+    "normalizedTokens": [
+      "пельмени",
+      "говядина",
+      "500 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "500 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Родина пельмени говядина, свинина 450 г",
+    "cleanTokens": [
+      "пельмени",
+      "говядина",
+      "свинина"
+    ],
+    "normalizedTokens": [
+      "пельмени",
+      "говядина",
+      "свинина",
+      "450 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "450 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "РАХМЕТ Мусульманские пельмени говядина, курица, баранина 700 г",
+    "cleanTokens": [
+      "мусульманские",
+      "пельмени",
+      "говядина",
+      "курица",
+      "баранина"
+    ],
+    "normalizedTokens": [
+      "мусульманские",
+      "пельмени",
+      "говядина",
+      "курица",
+      "баранина",
+      "700 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "700 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "MAGNUM голубцы с курицей и рисом 250 г",
+    "cleanTokens": [
+      "голубцы",
+      "с",
+      "курицей",
+      "и",
+      "рисом"
+    ],
+    "normalizedTokens": [
+      "голубцы",
+      "с",
+      "курицей",
+      "и",
+      "рисом",
+      "250 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "250 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "ҰЛЫТАУ Ет-сүт вареники картофель 500 г",
+    "cleanTokens": [
+      "вареники",
+      "картофель"
+    ],
+    "normalizedTokens": [
+      "вареники",
+      "картофель",
+      "500 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "500 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "ADAL FOOD пельмени говядина 450 г",
+    "cleanTokens": [
+      "пельмени",
+      "говядина"
+    ],
+    "normalizedTokens": [
+      "пельмени",
+      "говядина",
+      "450 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "450 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Даяр жайма 810 г",
+    "cleanTokens": [
+      "жайма"
+    ],
+    "normalizedTokens": [
+      "жайма",
+      "810 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "810 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Максимальный размах Пельмени говяжьи 400 г",
+    "cleanTokens": [
+      "пельмени",
+      "говяжьи"
+    ],
+    "normalizedTokens": [
+      "пельмени",
+      "говяжьи",
+      "400 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "400 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "РАХМЕТ Мусульманские пельмени говядина, баранина 350 г",
+    "cleanTokens": [
+      "мусульманские",
+      "пельмени",
+      "говядина",
+      "баранина"
+    ],
+    "normalizedTokens": [
+      "мусульманские",
+      "пельмени",
+      "говядина",
+      "баранина",
+      "350 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "350 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мираторг пельмени говядина, курица 700 г",
+    "cleanTokens": [
+      "пельмени",
+      "говядина",
+      "курица"
+    ],
+    "normalizedTokens": [
+      "пельмени",
+      "говядина",
+      "курица",
+      "700 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "700 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Беккер и К пельмени говядина, курица 800 г",
+    "cleanTokens": [
+      "пельмени",
+      "говядина",
+      "курица"
+    ],
+    "normalizedTokens": [
+      "пельмени",
+      "говядина",
+      "курица",
+      "800 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "800 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Богатырь пельмени говядина, свинина 900 г",
+    "cleanTokens": [
+      "пельмени",
+      "говядина",
+      "свинина"
+    ],
+    "normalizedTokens": [
+      "пельмени",
+      "говядина",
+      "свинина",
+      "900 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "900 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Максимальный размах вареники картофель 800 г",
+    "cleanTokens": [
+      "вареники",
+      "картофель"
+    ],
+    "normalizedTokens": [
+      "вареники",
+      "картофель",
+      "800 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "800 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Максимальный размах вареники с картофелем 800 г",
+    "cleanTokens": [
+      "вареники",
+      "с",
+      "картофелем"
+    ],
+    "normalizedTokens": [
+      "вареники",
+      "с",
+      "картофелем",
+      "800 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "800 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Красноярские колбасы Мусульманские пельмени говядина 1000 г",
+    "cleanTokens": [
+      "мусульманские",
+      "пельмени",
+      "говядина"
+    ],
+    "normalizedTokens": [
+      "мусульманские",
+      "пельмени",
+      "говядина",
+      "1000 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "1000 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Рубиком пельмени говяжьи 1000 г",
+    "cleanTokens": [
+      "пельмени",
+      "говяжьи"
+    ],
+    "normalizedTokens": [
+      "пельмени",
+      "говяжьи",
+      "1000 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "1000 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "MAGNUM голубцы с говяжьим фаршем и рисом 250 г",
+    "cleanTokens": [
+      "голубцы",
+      "с",
+      "говяжьим",
+      "фаршем",
+      "и",
+      "рисом"
+    ],
+    "normalizedTokens": [
+      "голубцы",
+      "с",
+      "говяжьим",
+      "фаршем",
+      "и",
+      "рисом",
+      "250 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "250 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Максимальный размах Пельмени говяжьи люкс 800 г",
+    "cleanTokens": [
+      "пельмени",
+      "говяжьи",
+      "люкс"
+    ],
+    "normalizedTokens": [
+      "пельмени",
+      "говяжьи",
+      "люкс",
+      "800 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "800 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "MAGNUM тесто сдобное дрожжевое 500 г",
+    "cleanTokens": [
+      "тесто",
+      "сдобное",
+      "дрожжевое"
+    ],
+    "normalizedTokens": [
+      "тесто",
+      "сдобное",
+      "дрожжевое",
+      "500 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "500 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "ADAL FOOD тесто для мант 500 г",
+    "cleanTokens": [
+      "тесто",
+      "для",
+      "мант"
+    ],
+    "normalizedTokens": [
+      "тесто",
+      "для",
+      "мант",
+      "500 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "500 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "YasMi тесто для пиццы 500 г",
+    "cleanTokens": [
+      "тесто",
+      "для",
+      "пиццы"
+    ],
+    "normalizedTokens": [
+      "тесто",
+      "для",
+      "пиццы",
+      "500 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "500 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Максимальный размах пельмени говяжьи 800 г",
+    "cleanTokens": [
+      "пельмени",
+      "говяжьи"
+    ],
+    "normalizedTokens": [
+      "пельмени",
+      "говяжьи",
+      "800 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "800 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мираторг пельмени из мраморной говядины 400 г",
+    "cleanTokens": [
+      "пельмени",
+      "из",
+      "мраморной",
+      "говядины"
+    ],
+    "normalizedTokens": [
+      "пельмени",
+      "из",
+      "мраморной",
+      "говядины",
+      "400 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "400 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "MAGNUM тесто без начинки 500 г",
+    "cleanTokens": [
+      "тесто",
+      "без",
+      "начинки"
+    ],
+    "normalizedTokens": [
+      "тесто",
+      "без",
+      "начинки",
+      "500 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "500 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Родина голубцы говядина, свинина, капуста 500 г",
+    "cleanTokens": [
+      "голубцы",
+      "говядина",
+      "свинина",
+      "капуста"
+    ],
+    "normalizedTokens": [
+      "голубцы",
+      "говядина",
+      "свинина",
+      "капуста",
+      "500 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "500 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Максимальный размах Пельмени Халал 800 г",
+    "cleanTokens": [
+      "пельмени",
+      "халал"
+    ],
+    "normalizedTokens": [
+      "пельмени",
+      "халал",
+      "800 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "800 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Красноярские колбасы вареники картофель 1000 г",
+    "cleanTokens": [
+      "вареники",
+      "картофель"
+    ],
+    "normalizedTokens": [
+      "вареники",
+      "картофель",
+      "1000 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "1000 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "ADAL FOOD пельмени цветные курица 450 г",
+    "cleanTokens": [
+      "пельмени",
+      "цветные",
+      "курица"
+    ],
+    "normalizedTokens": [
+      "пельмени",
+      "цветные",
+      "курица",
+      "450 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "450 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Максимальный размах Пельмени Хан 400 г",
+    "cleanTokens": [
+      "пельмени",
+      "хан"
+    ],
+    "normalizedTokens": [
+      "пельмени",
+      "хан",
+      "400 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "400 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Максимальный размах тесто слоёное дрожжевое 450 г",
+    "cleanTokens": [
+      "тесто",
+      "слоеное",
+      "дрожжевое"
+    ],
+    "normalizedTokens": [
+      "тесто",
+      "слоеное",
+      "дрожжевое",
+      "450 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "450 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мираторг вареники картофель, грибы 600 г",
+    "cleanTokens": [
+      "вареники",
+      "картофель",
+      "грибы"
+    ],
+    "normalizedTokens": [
+      "вареники",
+      "картофель",
+      "грибы",
+      "600 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "600 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "ADAL FOOD манты говядина, картофель 450 г",
+    "cleanTokens": [
+      "манты",
+      "говядина",
+      "картофель"
+    ],
+    "normalizedTokens": [
+      "манты",
+      "говядина",
+      "картофель",
+      "450 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "450 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "ADAL FOOD манты говядина, тыква 450 г",
+    "cleanTokens": [
+      "манты",
+      "говядина",
+      "тыква"
+    ],
+    "normalizedTokens": [
+      "манты",
+      "говядина",
+      "тыква",
+      "450 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "450 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "YasMi тесто для мант 500 г",
+    "cleanTokens": [
+      "тесто",
+      "для",
+      "мант"
+    ],
+    "normalizedTokens": [
+      "тесто",
+      "для",
+      "мант",
+      "500 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "500 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Рубиком пельмени говяжьи 500 г",
+    "cleanTokens": [
+      "пельмени",
+      "говяжьи"
+    ],
+    "normalizedTokens": [
+      "пельмени",
+      "говяжьи",
+      "500 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "500 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "YasMi тесто песочное 500 г",
+    "cleanTokens": [
+      "тесто",
+      "песочное"
+    ],
+    "normalizedTokens": [
+      "тесто",
+      "песочное",
+      "500 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "500 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Максимальный размах Пельмени Мұсылмандық 800 г",
+    "cleanTokens": [
+      "пельмени",
+      "мұсылмандық"
+    ],
+    "normalizedTokens": [
+      "пельмени",
+      "мұсылмандық",
+      "800 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "800 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Красноярские колбасы Кокчетавские пельмени говядина 1000 г",
+    "cleanTokens": [
+      "кокчетавские",
+      "пельмени",
+      "говядина"
+    ],
+    "normalizedTokens": [
+      "кокчетавские",
+      "пельмени",
+      "говядина",
+      "1000 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "1000 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Qualiko попкорн курица 300 г",
+    "cleanTokens": [
+      "попкорн",
+      "курица"
+    ],
+    "normalizedTokens": [
+      "попкорн",
+      "курица",
+      "300 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "300 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "YasMi тесто для бешбармака 500 г",
+    "cleanTokens": [
+      "тесто",
+      "для",
+      "бешбармака"
+    ],
+    "normalizedTokens": [
+      "тесто",
+      "для",
+      "бешбармака",
+      "500 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "500 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мираторг пельмени телятина, говядина, курица 700 г",
+    "cleanTokens": [
+      "пельмени",
+      "телятина",
+      "говядина",
+      "курица"
+    ],
+    "normalizedTokens": [
+      "пельмени",
+      "телятина",
+      "говядина",
+      "курица",
+      "700 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "700 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мираторг пельмени говядина, свинина, курица, телятина 700 г",
+    "cleanTokens": [
+      "пельмени",
+      "говядина",
+      "свинина",
+      "курица",
+      "телятина"
+    ],
+    "normalizedTokens": [
+      "пельмени",
+      "говядина",
+      "свинина",
+      "курица",
+      "телятина",
+      "700 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "700 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мираторг пельмени говядина, свинина 700 г",
+    "cleanTokens": [
+      "пельмени",
+      "говядина",
+      "свинина"
+    ],
+    "normalizedTokens": [
+      "пельмени",
+      "говядина",
+      "свинина",
+      "700 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "700 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Максимальный размах тесто слоеное дрожжевое 1кг",
+    "cleanTokens": [
+      "тесто",
+      "слоеное",
+      "дрожжевое",
+      "1кг"
+    ],
+    "normalizedTokens": [
+      "тесто",
+      "слоеное",
+      "дрожжевое",
+      "1кг"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Рубиком пельмени сибирские 500 г",
+    "cleanTokens": [
+      "пельмени",
+      "сибирские"
+    ],
+    "normalizedTokens": [
+      "пельмени",
+      "сибирские",
+      "500 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "500 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Беккер и К вареники картофель и жареный лук 370 г",
+    "cleanTokens": [
+      "вареники",
+      "картофель",
+      "и",
+      "жареный",
+      "лук"
+    ],
+    "normalizedTokens": [
+      "вареники",
+      "картофель",
+      "и",
+      "жареный",
+      "лук",
+      "370 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "370 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Рубиком манты домашние 650 г",
+    "cleanTokens": [
+      "манты",
+      "домашние"
+    ],
+    "normalizedTokens": [
+      "манты",
+      "домашние",
+      "650 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "650 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Народные колбасы пельмени Особые 400 г",
+    "cleanTokens": [
+      "пельмени",
+      "особые"
+    ],
+    "normalizedTokens": [
+      "пельмени",
+      "особые",
+      "400 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "400 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Родина манты говядина 500 г",
+    "cleanTokens": [
+      "манты",
+      "говядина"
+    ],
+    "normalizedTokens": [
+      "манты",
+      "говядина",
+      "500 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "500 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Богатырь пельмени говядина, курица 900 г",
+    "cleanTokens": [
+      "пельмени",
+      "говядина",
+      "курица"
+    ],
+    "normalizedTokens": [
+      "пельмени",
+      "говядина",
+      "курица",
+      "900 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "900 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Первомайский пельмени Бөпешки с говядиной 400 г",
+    "cleanTokens": [
+      "пельмени",
+      "бөпешки",
+      "с",
+      "говядиной"
+    ],
+    "normalizedTokens": [
+      "пельмени",
+      "бөпешки",
+      "с",
+      "говядиной",
+      "400 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "400 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Родина манты говядина, свинина 500 г",
+    "cleanTokens": [
+      "манты",
+      "говядина",
+      "свинина"
+    ],
+    "normalizedTokens": [
+      "манты",
+      "говядина",
+      "свинина",
+      "500 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "500 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Народные колбасы пельмени Вкусные 400 г",
+    "cleanTokens": [
+      "пельмени",
+      "вкусные"
+    ],
+    "normalizedTokens": [
+      "пельмени",
+      "вкусные",
+      "400 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "400 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Максимальный размах хинкали кавказские говядина, баранина 800 г",
+    "cleanTokens": [
+      "хинкали",
+      "кавказские",
+      "говядина",
+      "баранина"
+    ],
+    "normalizedTokens": [
+      "хинкали",
+      "кавказские",
+      "говядина",
+      "баранина",
+      "800 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "800 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Беккер и К манты говядина, баранина, тыква 900 г",
+    "cleanTokens": [
+      "манты",
+      "говядина",
+      "баранина",
+      "тыква"
+    ],
+    "normalizedTokens": [
+      "манты",
+      "говядина",
+      "баранина",
+      "тыква",
+      "900 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "900 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Беккер и К манты говядина, баранина 900 г",
+    "cleanTokens": [
+      "манты",
+      "говядина",
+      "баранина"
+    ],
+    "normalizedTokens": [
+      "манты",
+      "говядина",
+      "баранина",
+      "900 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "900 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Народные колбасы пельмени говядина, курица 1000 г",
+    "cleanTokens": [
+      "пельмени",
+      "говядина",
+      "курица"
+    ],
+    "normalizedTokens": [
+      "пельмени",
+      "говядина",
+      "курица",
+      "1000 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "1000 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Первомайские Деликатесы манты говядина 430 г",
+    "cleanTokens": [
+      "манты",
+      "говядина"
+    ],
+    "normalizedTokens": [
+      "манты",
+      "говядина",
+      "430 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "430 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мираторг пельмени говядина, курица 700 г",
+    "cleanTokens": [
+      "пельмени",
+      "говядина",
+      "курица"
+    ],
+    "normalizedTokens": [
+      "пельмени",
+      "говядина",
+      "курица",
+      "700 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "700 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Максимальный размах пельмени домашние говядина 1000 г",
+    "cleanTokens": [
+      "пельмени",
+      "домашние",
+      "говядина"
+    ],
+    "normalizedTokens": [
+      "пельмени",
+      "домашние",
+      "говядина",
+      "1000 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "1000 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "ҰЛЫТАУ Ет-сүт манты говядина 500 г",
+    "cleanTokens": [
+      "манты",
+      "говядина"
+    ],
+    "normalizedTokens": [
+      "манты",
+      "говядина",
+      "500 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "500 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Максимальный размах пельмени говядина, баранина 800 г",
+    "cleanTokens": [
+      "пельмени",
+      "говядина",
+      "баранина"
+    ],
+    "normalizedTokens": [
+      "пельмени",
+      "говядина",
+      "баранина",
+      "800 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "800 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мираторг пельмени говядина, курица 700 г",
+    "cleanTokens": [
+      "пельмени",
+      "говядина",
+      "курица"
+    ],
+    "normalizedTokens": [
+      "пельмени",
+      "говядина",
+      "курица",
+      "700 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "700 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "ADAL FOOD тесто бешбармачное 500 г",
+    "cleanTokens": [
+      "тесто",
+      "бешбармачное"
+    ],
+    "normalizedTokens": [
+      "тесто",
+      "бешбармачное",
+      "500 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "500 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Родина голубцы капуста, говядина 500 г",
+    "cleanTokens": [
+      "голубцы",
+      "капуста",
+      "говядина"
+    ],
+    "normalizedTokens": [
+      "голубцы",
+      "капуста",
+      "говядина",
+      "500 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "500 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Максимальный размах тесто Yu Jayma для бешбармака 520 г",
+    "cleanTokens": [
+      "тесто",
+      "yu",
+      "jayma",
+      "для",
+      "бешбармака"
+    ],
+    "normalizedTokens": [
+      "тесто",
+      "yu",
+      "jayma",
+      "для",
+      "бешбармака",
+      "520 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "520 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Максимальный размах Менiн Казахстаным пельмени говядина 700 г",
+    "cleanTokens": [
+      "менiн",
+      "казахстаным",
+      "пельмени",
+      "говядина"
+    ],
+    "normalizedTokens": [
+      "менiн",
+      "казахстаным",
+      "пельмени",
+      "говядина",
+      "700 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "700 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мираторг хинкали по-грузински говядина 700 г",
+    "cleanTokens": [
+      "хинкали",
+      "по-грузински",
+      "говядина"
+    ],
+    "normalizedTokens": [
+      "хинкали",
+      "по-грузински",
+      "говядина",
+      "700 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "700 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мираторг пельмени Le Gourmet с соусом демиглас 700 г",
+    "cleanTokens": [
+      "пельмени",
+      "le",
+      "gourmet",
+      "с",
+      "соусом",
+      "демиглас"
+    ],
+    "normalizedTokens": [
+      "пельмени",
+      "le",
+      "gourmet",
+      "с",
+      "соусом",
+      "демиглас",
+      "700 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "700 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Первомайские Деликатесы манты с говядиной и курдюком 420 г",
+    "cleanTokens": [
+      "манты",
+      "с",
+      "говядиной",
+      "и",
+      "курдюком"
+    ],
+    "normalizedTokens": [
+      "манты",
+      "с",
+      "говядиной",
+      "и",
+      "курдюком",
+      "420 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "420 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  }
+]

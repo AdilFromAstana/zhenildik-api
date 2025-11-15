@@ -1,0 +1,1233 @@
+[
+  {
+    "original": "Айс Нагыз масло сливочное 72.5% 180 г",
+    "cleanTokens": [
+      "нагыз",
+      "сливочное"
+    ],
+    "normalizedTokens": [
+      "нагыз",
+      "сливочное",
+      "72.5%",
+      "180 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "180 г",
+      "count": null,
+      "pack": null,
+      "percent": "72.5%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "МАСЛО-ДЕЛ Петропавловское Коровье масло 82.5% 180 г",
+    "cleanTokens": [
+      "петропавловское",
+      "коровье"
+    ],
+    "normalizedTokens": [
+      "петропавловское",
+      "коровье",
+      "82.5%",
+      "180 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "180 г",
+      "count": null,
+      "pack": null,
+      "percent": "82.5%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Новый день масло Традиционное 82.5% 200 г",
+    "cleanTokens": [
+      "традиционное"
+    ],
+    "normalizedTokens": [
+      "традиционное",
+      "82.5%",
+      "200 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "200 г",
+      "count": null,
+      "pack": null,
+      "percent": "82.5%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Верхний Услон масло традиционное 82.5%",
+    "cleanTokens": [
+      "традиционное"
+    ],
+    "normalizedTokens": [
+      "традиционное",
+      "82.5%"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "82.5%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Новый день спред Любимое 82% 200 г",
+    "cleanTokens": [
+      "спред",
+      "любимое"
+    ],
+    "normalizedTokens": [
+      "спред",
+      "любимое",
+      "82%",
+      "200 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "200 г",
+      "count": null,
+      "pack": null,
+      "percent": "82%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Щедрое лето маргарин сливочный 72% 500 г",
+    "cleanTokens": [
+      "сливочный"
+    ],
+    "normalizedTokens": [
+      "сливочный",
+      "72%",
+      "500 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "500 г",
+      "count": null,
+      "pack": null,
+      "percent": "72%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "3 желания Пампушка маргарин сливочный 55% 450 г",
+    "cleanTokens": [
+      "пампушка",
+      "сливочный"
+    ],
+    "normalizedTokens": [
+      "пампушка",
+      "сливочный",
+      "55%",
+      "450 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "450 г",
+      "count": null,
+      "pack": null,
+      "percent": "55%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "PRESIDENT масло сливочное, соленое 80% 200 г",
+    "cleanTokens": [
+      "сливочное",
+      "соленое"
+    ],
+    "normalizedTokens": [
+      "сливочное",
+      "соленое",
+      "80%",
+      "200 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "200 г",
+      "count": null,
+      "pack": null,
+      "percent": "80%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "ГорМолЗавод масло сливочное 72.5% 400 г",
+    "cleanTokens": [
+      "сливочное"
+    ],
+    "normalizedTokens": [
+      "сливочное",
+      "72.5%",
+      "400 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "400 г",
+      "count": null,
+      "pack": null,
+      "percent": "72.5%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Nәtige масло Крестьянское несоленое 72.5% 250 г",
+    "cleanTokens": [
+      "крестьянское",
+      "несоленое"
+    ],
+    "normalizedTokens": [
+      "крестьянское",
+      "несоленое",
+      "72.5%",
+      "250 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "250 г",
+      "count": null,
+      "pack": null,
+      "percent": "72.5%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Rama маргарин Classic 60% 225 г",
+    "cleanTokens": [
+      "classic"
+    ],
+    "normalizedTokens": [
+      "classic",
+      "60%",
+      "225 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "225 г",
+      "count": null,
+      "pack": null,
+      "percent": "60%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Biogorod масло гхи сливочное топленое 99% 250 мл",
+    "cleanTokens": [
+      "гхи",
+      "сливочное",
+      "топленое"
+    ],
+    "normalizedTokens": [
+      "гхи",
+      "сливочное",
+      "топленое",
+      "99%",
+      "250 мл"
+    ],
+    "params": {
+      "volume": "250 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "99%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Щедрое лето маргарин сливочный 72% 200 г",
+    "cleanTokens": [
+      "сливочный"
+    ],
+    "normalizedTokens": [
+      "сливочный",
+      "72%",
+      "200 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "200 г",
+      "count": null,
+      "pack": null,
+      "percent": "72%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Новый день спред Крестьянка 72.5% 200 г",
+    "cleanTokens": [
+      "спред",
+      "крестьянка"
+    ],
+    "normalizedTokens": [
+      "спред",
+      "крестьянка",
+      "72.5%",
+      "200 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "200 г",
+      "count": null,
+      "pack": null,
+      "percent": "72.5%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Нағыз масло крестьянское сливочное 72.5% 500 г",
+    "cleanTokens": [
+      "крестьянское",
+      "сливочное"
+    ],
+    "normalizedTokens": [
+      "крестьянское",
+      "сливочное",
+      "72.5%",
+      "500 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "500 г",
+      "count": null,
+      "pack": null,
+      "percent": "72.5%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Щедрое лето маргарин сливочный 72% 1000 г",
+    "cleanTokens": [
+      "сливочный"
+    ],
+    "normalizedTokens": [
+      "сливочный",
+      "72%",
+      "1000 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "1000 г",
+      "count": null,
+      "pack": null,
+      "percent": "72%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Простоквашино масло сливочное 72.5% 180 г",
+    "cleanTokens": [
+      "сливочное"
+    ],
+    "normalizedTokens": [
+      "сливочное",
+      "72.5%",
+      "180 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "180 г",
+      "count": null,
+      "pack": null,
+      "percent": "72.5%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Rama маргарин Classic 60% 450 г",
+    "cleanTokens": [
+      "classic"
+    ],
+    "normalizedTokens": [
+      "classic",
+      "60%",
+      "450 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "450 г",
+      "count": null,
+      "pack": null,
+      "percent": "60%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Садовое масло натуральное сливочное 72.5%",
+    "cleanTokens": [
+      "натуральное",
+      "сливочное"
+    ],
+    "normalizedTokens": [
+      "натуральное",
+      "сливочное",
+      "72.5%"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "72.5%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Ясь Белоус масло сливочное 82.5% 180 г",
+    "cleanTokens": [
+      "сливочное"
+    ],
+    "normalizedTokens": [
+      "сливочное",
+      "82.5%",
+      "180 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "180 г",
+      "count": null,
+      "pack": null,
+      "percent": "82.5%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Biogorod масло гхи сливочное топленое 99% 720 мл",
+    "cleanTokens": [
+      "гхи",
+      "сливочное",
+      "топленое"
+    ],
+    "normalizedTokens": [
+      "гхи",
+      "сливочное",
+      "топленое",
+      "99%",
+      "720 мл"
+    ],
+    "params": {
+      "volume": "720 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "99%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Щедрое лето маргарин домашний 60% 500 г",
+    "cleanTokens": [
+      "домашний"
+    ],
+    "normalizedTokens": [
+      "домашний",
+      "60%",
+      "500 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "500 г",
+      "count": null,
+      "pack": null,
+      "percent": "60%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Новый день масло Крестьянское 72.5% 200 г",
+    "cleanTokens": [
+      "крестьянское"
+    ],
+    "normalizedTokens": [
+      "крестьянское",
+      "72.5%",
+      "200 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "200 г",
+      "count": null,
+      "pack": null,
+      "percent": "72.5%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Простоквашино масло традиционное, сливочное 82% 180 г",
+    "cleanTokens": [
+      "традиционное",
+      "сливочное"
+    ],
+    "normalizedTokens": [
+      "традиционное",
+      "сливочное",
+      "82%",
+      "180 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "180 г",
+      "count": null,
+      "pack": null,
+      "percent": "82%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Biogorod масло гхи сливочное топленое 99% 450 мл",
+    "cleanTokens": [
+      "гхи",
+      "сливочное",
+      "топленое"
+    ],
+    "normalizedTokens": [
+      "гхи",
+      "сливочное",
+      "топленое",
+      "99%",
+      "450 мл"
+    ],
+    "params": {
+      "volume": "450 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "99%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Astana-Өнім масло Вологодское 82.5% 200 г",
+    "cleanTokens": [
+      "вологодское"
+    ],
+    "normalizedTokens": [
+      "вологодское",
+      "82.5%",
+      "200 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "200 г",
+      "count": null,
+      "pack": null,
+      "percent": "82.5%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Садовое масло сливочное шоколадное 62%",
+    "cleanTokens": [
+      "сливочное",
+      "шоколадное"
+    ],
+    "normalizedTokens": [
+      "сливочное",
+      "шоколадное",
+      "62%"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "62%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "PRESIDENT масло сливочное несоленое 60% 200 г",
+    "cleanTokens": [
+      "сливочное",
+      "несоленое"
+    ],
+    "normalizedTokens": [
+      "сливочное",
+      "несоленое",
+      "60%",
+      "200 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "200 г",
+      "count": null,
+      "pack": null,
+      "percent": "60%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Astana-Өнім масло Вологодское 82.5% 350 г",
+    "cleanTokens": [
+      "вологодское"
+    ],
+    "normalizedTokens": [
+      "вологодское",
+      "82.5%",
+      "350 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "350 г",
+      "count": null,
+      "pack": null,
+      "percent": "82.5%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Вкус Благости масло гхи топленое, традиционное 99% 225 г",
+    "cleanTokens": [
+      "гхи",
+      "топленое",
+      "традиционное"
+    ],
+    "normalizedTokens": [
+      "гхи",
+      "топленое",
+      "традиционное",
+      "99%",
+      "225 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "225 г",
+      "count": null,
+      "pack": null,
+      "percent": "99%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "PRESIDENT масло сливочное, несоленое 82% 1000 г",
+    "cleanTokens": [
+      "сливочное",
+      "несоленое"
+    ],
+    "normalizedTokens": [
+      "сливочное",
+      "несоленое",
+      "82%",
+      "1000 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "1000 г",
+      "count": null,
+      "pack": null,
+      "percent": "82%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Astana-Өнім масло Вологодское 82.5% 1000 г",
+    "cleanTokens": [
+      "вологодское"
+    ],
+    "normalizedTokens": [
+      "вологодское",
+      "82.5%",
+      "1000 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "1000 г",
+      "count": null,
+      "pack": null,
+      "percent": "82.5%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "МОЯ ФЕРМА масло гхи топленое 99% 250 г",
+    "cleanTokens": [
+      "гхи",
+      "топленое"
+    ],
+    "normalizedTokens": [
+      "гхи",
+      "топленое",
+      "99%",
+      "250 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "250 г",
+      "count": null,
+      "pack": null,
+      "percent": "99%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Новый день масло сливочное Традиционное 82.5% 250 г",
+    "cleanTokens": [
+      "сливочное",
+      "традиционное"
+    ],
+    "normalizedTokens": [
+      "сливочное",
+      "традиционное",
+      "82.5%",
+      "250 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "250 г",
+      "count": null,
+      "pack": null,
+      "percent": "82.5%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Вкус Благости масло гхи топленое 99% 800 г",
+    "cleanTokens": [
+      "гхи",
+      "топленое"
+    ],
+    "normalizedTokens": [
+      "гхи",
+      "топленое",
+      "99%",
+      "800 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "800 г",
+      "count": null,
+      "pack": null,
+      "percent": "99%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Ясь Белоус масло сливочное крестьянское 72.5% 180 г",
+    "cleanTokens": [
+      "сливочное",
+      "крестьянское"
+    ],
+    "normalizedTokens": [
+      "сливочное",
+      "крестьянское",
+      "72.5%",
+      "180 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "180 г",
+      "count": null,
+      "pack": null,
+      "percent": "72.5%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Новый день масло сливочное Крестьянское 72.5% 250 г",
+    "cleanTokens": [
+      "сливочное",
+      "крестьянское"
+    ],
+    "normalizedTokens": [
+      "сливочное",
+      "крестьянское",
+      "72.5%",
+      "250 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "250 г",
+      "count": null,
+      "pack": null,
+      "percent": "72.5%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Вкус Благости масло гхи топленое с чёрным шоколадом 99% 225 г",
+    "cleanTokens": [
+      "гхи",
+      "топленое",
+      "с",
+      "черным",
+      "шоколадом"
+    ],
+    "normalizedTokens": [
+      "гхи",
+      "топленое",
+      "с",
+      "черным",
+      "шоколадом",
+      "99%",
+      "225 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "225 г",
+      "count": null,
+      "pack": null,
+      "percent": "99%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Дары Памира масло гхи топленое 97% 200 г",
+    "cleanTokens": [
+      "гхи",
+      "топленое"
+    ],
+    "normalizedTokens": [
+      "гхи",
+      "топленое",
+      "97%",
+      "200 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "200 г",
+      "count": null,
+      "pack": null,
+      "percent": "97%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Дары Памира масло гхи традиционное, топленое 99% 400 г",
+    "cleanTokens": [
+      "гхи",
+      "традиционное",
+      "топленое"
+    ],
+    "normalizedTokens": [
+      "гхи",
+      "традиционное",
+      "топленое",
+      "99%",
+      "400 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "400 г",
+      "count": null,
+      "pack": null,
+      "percent": "99%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Вкус Благости масло гхи топленое с чесноком и укропом 99% 210 г",
+    "cleanTokens": [
+      "гхи",
+      "топленое",
+      "с",
+      "чесноком",
+      "и",
+      "укропом"
+    ],
+    "normalizedTokens": [
+      "гхи",
+      "топленое",
+      "с",
+      "чесноком",
+      "и",
+      "укропом",
+      "99%",
+      "210 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "210 г",
+      "count": null,
+      "pack": null,
+      "percent": "99%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Goodtraditions масло гхи 99% 150 г",
+    "cleanTokens": [
+      "гхи"
+    ],
+    "normalizedTokens": [
+      "гхи",
+      "99%",
+      "150 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "150 г",
+      "count": null,
+      "pack": null,
+      "percent": "99%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Вкус Благости масло гхи топленое со специями 99% 210 г",
+    "cleanTokens": [
+      "гхи",
+      "топленое",
+      "со",
+      "специями"
+    ],
+    "normalizedTokens": [
+      "гхи",
+      "топленое",
+      "со",
+      "специями",
+      "99%",
+      "210 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "210 г",
+      "count": null,
+      "pack": null,
+      "percent": "99%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Вкус Благости масло с паприкой 99% 750 г",
+    "cleanTokens": [
+      "с",
+      "паприкой"
+    ],
+    "normalizedTokens": [
+      "с",
+      "паприкой",
+      "99%",
+      "750 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "750 г",
+      "count": null,
+      "pack": null,
+      "percent": "99%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Вкус Благости масло топленое гхи с чесноком и солью 99% 210 г",
+    "cleanTokens": [
+      "топленое",
+      "гхи",
+      "с",
+      "чесноком",
+      "и",
+      "солью"
+    ],
+    "normalizedTokens": [
+      "топленое",
+      "гхи",
+      "с",
+      "чесноком",
+      "и",
+      "солью",
+      "99%",
+      "210 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "210 г",
+      "count": null,
+      "pack": null,
+      "percent": "99%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Дары Памира масло гхи топленое 99% 200 г",
+    "cleanTokens": [
+      "гхи",
+      "топленое"
+    ],
+    "normalizedTokens": [
+      "гхи",
+      "топленое",
+      "99%",
+      "200 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "200 г",
+      "count": null,
+      "pack": null,
+      "percent": "99%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Вкус Благости масло гхи топленое шоколадное с арахисом 47.2% 240 г",
+    "cleanTokens": [
+      "гхи",
+      "топленое",
+      "шоколадное",
+      "с",
+      "арахисом"
+    ],
+    "normalizedTokens": [
+      "гхи",
+      "топленое",
+      "шоколадное",
+      "с",
+      "арахисом",
+      "47.2%",
+      "240 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "240 г",
+      "count": null,
+      "pack": null,
+      "percent": "47.2%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "PRESIDENT масло Gastronomique 82% 250 г",
+    "cleanTokens": [
+      "gastronomique"
+    ],
+    "normalizedTokens": [
+      "gastronomique",
+      "82%",
+      "250 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "250 г",
+      "count": null,
+      "pack": null,
+      "percent": "82%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Вкус Благости Масло Гхи Тибетских монахов 99% 900 г",
+    "cleanTokens": [
+      "гхи",
+      "тибетских",
+      "монахов"
+    ],
+    "normalizedTokens": [
+      "гхи",
+      "тибетских",
+      "монахов",
+      "99%",
+      "900 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "900 г",
+      "count": null,
+      "pack": null,
+      "percent": "99%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Вкус Благости масло Гхи Тибетских монахов 99% 300 г",
+    "cleanTokens": [
+      "гхи",
+      "тибетских",
+      "монахов"
+    ],
+    "normalizedTokens": [
+      "гхи",
+      "тибетских",
+      "монахов",
+      "99%",
+      "300 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "300 г",
+      "count": null,
+      "pack": null,
+      "percent": "99%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Вкус Благости масло гхи топленое с копчёной паприкой 99% 210 г",
+    "cleanTokens": [
+      "гхи",
+      "топленое",
+      "с",
+      "копченой",
+      "паприкой"
+    ],
+    "normalizedTokens": [
+      "гхи",
+      "топленое",
+      "с",
+      "копченой",
+      "паприкой",
+      "99%",
+      "210 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "210 г",
+      "count": null,
+      "pack": null,
+      "percent": "99%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Вкус Благости масло шоколадное 99% 250 г",
+    "cleanTokens": [
+      "шоколадное"
+    ],
+    "normalizedTokens": [
+      "шоколадное",
+      "99%",
+      "250 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "250 г",
+      "count": null,
+      "pack": null,
+      "percent": "99%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Вкус Благости масло гхи 99% 1800 г",
+    "cleanTokens": [
+      "гхи"
+    ],
+    "normalizedTokens": [
+      "гхи",
+      "99%",
+      "1800 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "1800 г",
+      "count": null,
+      "pack": null,
+      "percent": "99%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Вкус Благости масло топленое гхи с розмарином 99% 210 г",
+    "cleanTokens": [
+      "топленое",
+      "гхи",
+      "с",
+      "розмарином"
+    ],
+    "normalizedTokens": [
+      "топленое",
+      "гхи",
+      "с",
+      "розмарином",
+      "99%",
+      "210 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "210 г",
+      "count": null,
+      "pack": null,
+      "percent": "99%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Вкус Благости масло топленое шоколад, арахис, гималайская соль 99% 210 г",
+    "cleanTokens": [
+      "топленое",
+      "шоколад",
+      "арахис",
+      "гималайская",
+      "соль"
+    ],
+    "normalizedTokens": [
+      "топленое",
+      "шоколад",
+      "арахис",
+      "гималайская",
+      "соль",
+      "99%",
+      "210 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "210 г",
+      "count": null,
+      "pack": null,
+      "percent": "99%",
+      "age": null,
+      "stars": null
+    }
+  }
+]

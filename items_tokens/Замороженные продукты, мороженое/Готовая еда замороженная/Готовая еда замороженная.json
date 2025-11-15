@@ -1,0 +1,143 @@
+[
+  {
+    "original": "MAGNUM пицца 500 г",
+    "cleanTokens": [
+      "пицца"
+    ],
+    "normalizedTokens": [
+      "пицца",
+      "500 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "500 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мираторг пицца пепперони 350 г",
+    "cleanTokens": [
+      "пицца",
+      "пепперони"
+    ],
+    "normalizedTokens": [
+      "пицца",
+      "пепперони",
+      "350 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "350 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мираторг корн-дог 250 г",
+    "cleanTokens": [
+      "корн-дог"
+    ],
+    "normalizedTokens": [
+      "корн-дог",
+      "250 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "250 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мираторг мини-пицца 250 г",
+    "cleanTokens": [
+      "мини-пицца"
+    ],
+    "normalizedTokens": [
+      "мини-пицца",
+      "250 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "250 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "MAGNUM пицца 500 г",
+    "cleanTokens": [
+      "пицца"
+    ],
+    "normalizedTokens": [
+      "пицца",
+      "500 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "500 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мираторг пицца маргарита 340 г",
+    "cleanTokens": [
+      "пицца",
+      "маргарита"
+    ],
+    "normalizedTokens": [
+      "пицца",
+      "маргарита",
+      "340 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "340 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мираторг пицца 4 сыра 390 г",
+    "cleanTokens": [
+      "пицца",
+      "4",
+      "сыра"
+    ],
+    "normalizedTokens": [
+      "пицца",
+      "4",
+      "сыра",
+      "390 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "390 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  }
+]

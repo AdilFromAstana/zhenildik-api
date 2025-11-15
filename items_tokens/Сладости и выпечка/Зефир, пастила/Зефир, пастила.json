@@ -1,0 +1,2634 @@
+[
+  {
+    "original": "Zerfer маршмеллоу Jam черника, дыня 90 г",
+    "cleanTokens": [
+      "маршмеллоу",
+      "jam",
+      "черника",
+      "дыня"
+    ],
+    "normalizedTokens": [
+      "маршмеллоу",
+      "jam",
+      "черника",
+      "дыня",
+      "90 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "90 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Zerfer маршмеллоу Trio фруктовый 90 г",
+    "cleanTokens": [
+      "маршмеллоу",
+      "trio",
+      "фруктовый"
+    ],
+    "normalizedTokens": [
+      "маршмеллоу",
+      "trio",
+      "фруктовый",
+      "90 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "90 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Белёвский продукт пастила заварная яблочная 250 г",
+    "cleanTokens": [
+      "заварная",
+      "яблочная"
+    ],
+    "normalizedTokens": [
+      "заварная",
+      "яблочная",
+      "250 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "250 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Пастилушка пастила ассорти вкусов 1000 г",
+    "cleanTokens": [
+      "ассорти",
+      "вкусов"
+    ],
+    "normalizedTokens": [
+      "ассорти",
+      "вкусов",
+      "1000 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "1000 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "ЯММИ пастила ассорти 500 г",
+    "cleanTokens": [
+      "ассорти"
+    ],
+    "normalizedTokens": [
+      "ассорти",
+      "500 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "500 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Пастилушка пастила ассорти 800 г",
+    "cleanTokens": [
+      "ассорти"
+    ],
+    "normalizedTokens": [
+      "ассорти",
+      "800 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "800 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Пастила яблоко 300 г",
+    "cleanTokens": [
+      "яблоко"
+    ],
+    "normalizedTokens": [
+      "яблоко",
+      "300 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "300 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Belucci зефир ванильный 260 г",
+    "cleanTokens": [
+      "ванильный"
+    ],
+    "normalizedTokens": [
+      "ванильный",
+      "260 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "260 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Zerfer маршмеллоу Duo сливки, клубника 90 г",
+    "cleanTokens": [
+      "маршмеллоу",
+      "duo",
+      "сливки",
+      "клубника"
+    ],
+    "normalizedTokens": [
+      "маршмеллоу",
+      "duo",
+      "сливки",
+      "клубника",
+      "90 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "90 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Ура-пастила! пастила фруктовая 800 г",
+    "cleanTokens": [
+      "фруктовая"
+    ],
+    "normalizedTokens": [
+      "фруктовая",
+      "800 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "800 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Bitey пастила яблоко 20 г",
+    "cleanTokens": [
+      "яблоко"
+    ],
+    "normalizedTokens": [
+      "яблоко",
+      "20 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "20 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Вкусвилл пастила кусочки ягодно-фруктовые из малины и яблок 30 г",
+    "cleanTokens": [
+      "кусочки",
+      "ягодно-фруктовые",
+      "из",
+      "малины",
+      "яблок"
+    ],
+    "normalizedTokens": [
+      "кусочки",
+      "ягодно-фруктовые",
+      "из",
+      "малины",
+      "яблок",
+      "30 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "30 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Восторг сахарная вата Банан-клубника 50 г",
+    "cleanTokens": [
+      "сахарная",
+      "вата",
+      "банан-клубника"
+    ],
+    "normalizedTokens": [
+      "сахарная",
+      "вата",
+      "банан-клубника",
+      "50 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "50 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Mfood.kz пастила фруктовая облепиха 35 г",
+    "cleanTokens": [
+      "фруктовая",
+      "облепиха"
+    ],
+    "normalizedTokens": [
+      "фруктовая",
+      "облепиха",
+      "35 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "35 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Juicy Drop маршмеллоу Raspberry 100 г",
+    "cleanTokens": [
+      "маршмеллоу",
+      "raspberry"
+    ],
+    "normalizedTokens": [
+      "маршмеллоу",
+      "raspberry",
+      "100 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "100 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Mfood.kz пастила фруктовая смородина 35 г",
+    "cleanTokens": [
+      "фруктовая",
+      "смородина"
+    ],
+    "normalizedTokens": [
+      "фруктовая",
+      "смородина",
+      "35 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "35 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Bitey пастила дюшес 20 г",
+    "cleanTokens": [
+      "дюшес"
+    ],
+    "normalizedTokens": [
+      "дюшес",
+      "20 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "20 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Bitey пастила барбарис 20 г",
+    "cleanTokens": [
+      "барбарис"
+    ],
+    "normalizedTokens": [
+      "барбарис",
+      "20 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "20 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Mfood.kz пастила фруктовая яблоко 35 г",
+    "cleanTokens": [
+      "фруктовая",
+      "яблоко"
+    ],
+    "normalizedTokens": [
+      "фруктовая",
+      "яблоко",
+      "35 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "35 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Mfood.kz пастила фруктовая абрикос 35 г",
+    "cleanTokens": [
+      "фруктовая",
+      "абрикос"
+    ],
+    "normalizedTokens": [
+      "фруктовая",
+      "абрикос",
+      "35 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "35 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Mfood.kz пастила фруктовая клубника 35 г",
+    "cleanTokens": [
+      "фруктовая",
+      "клубника"
+    ],
+    "normalizedTokens": [
+      "фруктовая",
+      "клубника",
+      "35 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "35 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Vidal маршмеллоу Veggie Mallow 150 г",
+    "cleanTokens": [
+      "маршмеллоу",
+      "veggie",
+      "mallow"
+    ],
+    "normalizedTokens": [
+      "маршмеллоу",
+      "veggie",
+      "mallow",
+      "150 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "150 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Bitey пастила манго 20 г",
+    "cleanTokens": [
+      "манго"
+    ],
+    "normalizedTokens": [
+      "манго",
+      "20 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "20 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Juicy Drop маршмеллоу Cola 100 г",
+    "cleanTokens": [
+      "маршмеллоу",
+      "cola"
+    ],
+    "normalizedTokens": [
+      "маршмеллоу",
+      "cola",
+      "100 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "100 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Восторг сахарная вата Банан и вишня 50 г",
+    "cleanTokens": [
+      "сахарная",
+      "вата",
+      "банан",
+      "вишня"
+    ],
+    "normalizedTokens": [
+      "сахарная",
+      "вата",
+      "банан",
+      "вишня",
+      "50 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "50 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Восторг сахарная вата Банан, вишня, яблоко 50 г",
+    "cleanTokens": [
+      "сахарная",
+      "вата",
+      "банан",
+      "вишня",
+      "яблоко"
+    ],
+    "normalizedTokens": [
+      "сахарная",
+      "вата",
+      "банан",
+      "вишня",
+      "яблоко",
+      "50 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "50 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Bitey пастила лесные ягоды 20 г",
+    "cleanTokens": [
+      "лесные",
+      "ягоды"
+    ],
+    "normalizedTokens": [
+      "лесные",
+      "ягоды",
+      "20 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "20 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Vitok пастила полезная конфета клюква-брусника 500 г",
+    "cleanTokens": [
+      "полезная",
+      "конфета",
+      "клюква-брусника"
+    ],
+    "normalizedTokens": [
+      "полезная",
+      "конфета",
+      "клюква-брусника",
+      "500 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "500 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Vitok пастила полезная конфета яблоко-слива 500 г",
+    "cleanTokens": [
+      "полезная",
+      "конфета",
+      "яблоко-слива"
+    ],
+    "normalizedTokens": [
+      "полезная",
+      "конфета",
+      "яблоко-слива",
+      "500 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "500 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Mallow Joy маршмеллоу аромат черники и малины 25 г",
+    "cleanTokens": [
+      "маршмеллоу",
+      "аромат",
+      "черники",
+      "малины"
+    ],
+    "normalizedTokens": [
+      "маршмеллоу",
+      "аромат",
+      "черники",
+      "малины",
+      "25 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "25 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Nut Vinograd пастила ананас и яблоко 15 г",
+    "cleanTokens": [
+      "ананас",
+      "яблоко"
+    ],
+    "normalizedTokens": [
+      "ананас",
+      "яблоко",
+      "15 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "15 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Белёвский продукт пастила заварная ассорти 250 г",
+    "cleanTokens": [
+      "заварная",
+      "ассорти"
+    ],
+    "normalizedTokens": [
+      "заварная",
+      "ассорти",
+      "250 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "250 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Пастилушка пастила яблоко-апельсин 800 г",
+    "cleanTokens": [
+      "яблоко-апельсин"
+    ],
+    "normalizedTokens": [
+      "яблоко-апельсин",
+      "800 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "800 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Правильные сладости пастила ананас груша без сахара 70 г",
+    "cleanTokens": [
+      "правильные",
+      "ананас",
+      "груша",
+      "без",
+      "сахара"
+    ],
+    "normalizedTokens": [
+      "правильные",
+      "ананас",
+      "груша",
+      "без",
+      "сахара",
+      "70 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "70 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Правильные сладости пастила яблоко, малина 15 г",
+    "cleanTokens": [
+      "правильные",
+      "яблоко",
+      "малина"
+    ],
+    "normalizedTokens": [
+      "правильные",
+      "яблоко",
+      "малина",
+      "15 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "15 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Правильные сладости пастила Сливовая лента 15 г",
+    "cleanTokens": [
+      "правильные",
+      "сливовая",
+      "лента"
+    ],
+    "normalizedTokens": [
+      "правильные",
+      "сливовая",
+      "лента",
+      "15 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "15 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Правильные сладости пастила вишня, смородина 70 г",
+    "cleanTokens": [
+      "правильные",
+      "вишня",
+      "смородина"
+    ],
+    "normalizedTokens": [
+      "правильные",
+      "вишня",
+      "смородина",
+      "70 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "70 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Правильные сладости пастила малина 15 г",
+    "cleanTokens": [
+      "правильные",
+      "малина"
+    ],
+    "normalizedTokens": [
+      "правильные",
+      "малина",
+      "15 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "15 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Nut Vinograd пастила фруктовая Ассорти без сахара из смородины, черники, ананаса, лимона и лайма 200 г",
+    "cleanTokens": [
+      "фруктовая",
+      "ассорти",
+      "без",
+      "сахара",
+      "из",
+      "смородины",
+      "черники",
+      "ананаса",
+      "лимона",
+      "лайма"
+    ],
+    "normalizedTokens": [
+      "фруктовая",
+      "ассорти",
+      "без",
+      "сахара",
+      "из",
+      "смородины",
+      "черники",
+      "ананаса",
+      "лимона",
+      "лайма",
+      "200 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "200 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Haribo маршмеллоу Pink&White 70 г",
+    "cleanTokens": [
+      "маршмеллоу",
+      "pink&white"
+    ],
+    "normalizedTokens": [
+      "маршмеллоу",
+      "pink&white",
+      "70 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "70 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Nut Vinograd пастила клубника и яблоко 15 г",
+    "cleanTokens": [
+      "клубника",
+      "яблоко"
+    ],
+    "normalizedTokens": [
+      "клубника",
+      "яблоко",
+      "15 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "15 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Натуральный белёвский продукт зефир фисташковый 200 г",
+    "cleanTokens": [
+      "натуральный",
+      "фисташковый"
+    ],
+    "normalizedTokens": [
+      "натуральный",
+      "фисташковый",
+      "200 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "200 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Фрутилад пастила чернослив яблоко 30 г",
+    "cleanTokens": [
+      "чернослив",
+      "яблоко"
+    ],
+    "normalizedTokens": [
+      "чернослив",
+      "яблоко",
+      "30 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "30 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Пастилушка пастила фруктовые шарики в какао 600 г",
+    "cleanTokens": [
+      "фруктовые",
+      "шарики",
+      "в",
+      "какао"
+    ],
+    "normalizedTokens": [
+      "фруктовые",
+      "шарики",
+      "в",
+      "какао",
+      "600 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "600 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "FINI маршмеллоу Clouds Taco-Diana 80 г",
+    "cleanTokens": [
+      "маршмеллоу",
+      "clouds",
+      "taco-diana"
+    ],
+    "normalizedTokens": [
+      "маршмеллоу",
+      "clouds",
+      "taco-diana",
+      "80 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "80 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Handy Candy пастила фруктово-ягодная пастила без сахара 630 г",
+    "cleanTokens": [
+      "фруктово-ягодная",
+      "без",
+      "сахара"
+    ],
+    "normalizedTokens": [
+      "фруктово-ягодная",
+      "без",
+      "сахара",
+      "630 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "630 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Nut Vinograd пастила ананас и яблоко 15 г",
+    "cleanTokens": [
+      "ананас",
+      "яблоко"
+    ],
+    "normalizedTokens": [
+      "ананас",
+      "яблоко",
+      "15 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "15 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Правильные сладости пастила яблоко 26 г",
+    "cleanTokens": [
+      "правильные",
+      "яблоко"
+    ],
+    "normalizedTokens": [
+      "правильные",
+      "яблоко",
+      "26 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "26 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "FINI маршмеллоу Clouds Taco-Twisty 80 г",
+    "cleanTokens": [
+      "маршмеллоу",
+      "clouds",
+      "taco-twisty"
+    ],
+    "normalizedTokens": [
+      "маршмеллоу",
+      "clouds",
+      "taco-twisty",
+      "80 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "80 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Yummy пастила фруктовая абрикос 250 г",
+    "cleanTokens": [
+      "фруктовая",
+      "абрикос"
+    ],
+    "normalizedTokens": [
+      "фруктовая",
+      "абрикос",
+      "250 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "250 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Pusheen маршмеллоу малина и ваниль 125 г",
+    "cleanTokens": [
+      "маршмеллоу",
+      "малина",
+      "ваниль"
+    ],
+    "normalizedTokens": [
+      "маршмеллоу",
+      "малина",
+      "ваниль",
+      "125 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "125 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "NA! Nature Addicts пастила черная смородина и асаи 35 г",
+    "cleanTokens": [
+      "черная",
+      "смородина",
+      "асаи"
+    ],
+    "normalizedTokens": [
+      "черная",
+      "смородина",
+      "асаи",
+      "35 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "35 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "NA! Nature Addicts пастила клубничная 35 г",
+    "cleanTokens": [
+      "клубничная"
+    ],
+    "normalizedTokens": [
+      "клубничная",
+      "35 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "35 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "NA! Nature Addicts пастила малиновая 35 г",
+    "cleanTokens": [
+      "малиновая"
+    ],
+    "normalizedTokens": [
+      "малиновая",
+      "35 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "35 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Nut Vinograd пастила ассорти (ананас, лимон, смородина, черника) 400 г",
+    "cleanTokens": [
+      "ассорти",
+      "ананас",
+      "лимон",
+      "смородина",
+      "черника"
+    ],
+    "normalizedTokens": [
+      "ассорти",
+      "ананас",
+      "лимон",
+      "смородина",
+      "черника",
+      "400 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "400 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Trolli суфле персик 150 г",
+    "cleanTokens": [
+      "суфле",
+      "персик"
+    ],
+    "normalizedTokens": [
+      "суфле",
+      "персик",
+      "150 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "150 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Cheng Zhi Hua маршмеллоу зефирные пампушки 70 г",
+    "cleanTokens": [
+      "маршмеллоу",
+      "зефирные",
+      "пампушки"
+    ],
+    "normalizedTokens": [
+      "маршмеллоу",
+      "зефирные",
+      "пампушки",
+      "70 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "70 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Shengzhuhua маршмеллоу со вкусом йогурта 120 г",
+    "cleanTokens": [
+      "маршмеллоу",
+      "со",
+      "вкусом",
+      "йогурта"
+    ],
+    "normalizedTokens": [
+      "маршмеллоу",
+      "со",
+      "вкусом",
+      "йогурта",
+      "120 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "120 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Фрукт Продукт пастила апельсин 12 пакетов по 25 г",
+    "cleanTokens": [
+      "апельсин",
+      "12",
+      "пакетов",
+      "по"
+    ],
+    "normalizedTokens": [
+      "апельсин",
+      "12",
+      "пакетов",
+      "по",
+      "25 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "25 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "YumEarth пастила малина 16 г",
+    "cleanTokens": [
+      "малина"
+    ],
+    "normalizedTokens": [
+      "малина",
+      "16 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "16 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Yes! Eco! пастила натуральная клубничная 50 г",
+    "cleanTokens": [
+      "натуральная",
+      "клубничная"
+    ],
+    "normalizedTokens": [
+      "натуральная",
+      "клубничная",
+      "50 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "50 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Пастилушка пастила яблоко-дыня 800 г",
+    "cleanTokens": [
+      "яблоко-дыня"
+    ],
+    "normalizedTokens": [
+      "яблоко-дыня",
+      "800 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "800 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Zerfer маршмеллоу Solo 65 г",
+    "cleanTokens": [
+      "маршмеллоу",
+      "solo"
+    ],
+    "normalizedTokens": [
+      "маршмеллоу",
+      "solo",
+      "65 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "65 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Yes! Eco! пастила натуральная ассорти 100 г",
+    "cleanTokens": [
+      "натуральная",
+      "ассорти"
+    ],
+    "normalizedTokens": [
+      "натуральная",
+      "ассорти",
+      "100 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "100 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Фрутилад пастила пастила яблоко малина 30 г",
+    "cleanTokens": [
+      "яблоко",
+      "малина"
+    ],
+    "normalizedTokens": [
+      "яблоко",
+      "малина",
+      "30 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "30 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Правильные сладости пастила яблоко 90 г",
+    "cleanTokens": [
+      "правильные",
+      "яблоко"
+    ],
+    "normalizedTokens": [
+      "правильные",
+      "яблоко",
+      "90 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "90 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Cheng Zhi Hua маршмеллоу зефирные пампушки 70 г",
+    "cleanTokens": [
+      "маршмеллоу",
+      "зефирные",
+      "пампушки"
+    ],
+    "normalizedTokens": [
+      "маршмеллоу",
+      "зефирные",
+      "пампушки",
+      "70 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "70 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Yummy пастила фруктовая малина 250 г",
+    "cleanTokens": [
+      "фруктовая",
+      "малина"
+    ],
+    "normalizedTokens": [
+      "фруктовая",
+      "малина",
+      "250 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "250 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Mallow Joy маршмеллоу синий трактор 25 г",
+    "cleanTokens": [
+      "маршмеллоу",
+      "синий",
+      "трактор"
+    ],
+    "normalizedTokens": [
+      "маршмеллоу",
+      "синий",
+      "трактор",
+      "25 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "25 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Nut Vinograd пастила ассорти 400 г",
+    "cleanTokens": [
+      "ассорти"
+    ],
+    "normalizedTokens": [
+      "ассорти",
+      "400 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "400 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Yes! Eco! пастила натуральная ассорти 50 г",
+    "cleanTokens": [
+      "натуральная",
+      "ассорти"
+    ],
+    "normalizedTokens": [
+      "натуральная",
+      "ассорти",
+      "50 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "50 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "FINI маршмеллоу Popcorn Sweet  80 г",
+    "cleanTokens": [
+      "маршмеллоу",
+      "popcorn",
+      "sweet"
+    ],
+    "normalizedTokens": [
+      "маршмеллоу",
+      "popcorn",
+      "sweet",
+      "80 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "80 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Пастилушка пастила яблоко-груша 800 г",
+    "cleanTokens": [
+      "яблоко-груша"
+    ],
+    "normalizedTokens": [
+      "яблоко-груша",
+      "800 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "800 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Nut Vinograd фруктовые пластинки абрикос 15 г",
+    "cleanTokens": [
+      "фруктовые",
+      "пластинки",
+      "абрикос"
+    ],
+    "normalizedTokens": [
+      "фруктовые",
+      "пластинки",
+      "абрикос",
+      "15 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "15 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Правильные сладости пастила Яблочная лента 15 г",
+    "cleanTokens": [
+      "правильные",
+      "яблочная",
+      "лента"
+    ],
+    "normalizedTokens": [
+      "правильные",
+      "яблочная",
+      "лента",
+      "15 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "15 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Yummy пастила фруктовая барбарис 250 г",
+    "cleanTokens": [
+      "фруктовая",
+      "барбарис"
+    ],
+    "normalizedTokens": [
+      "фруктовая",
+      "барбарис",
+      "250 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "250 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Пастилушка пастила яблоко 800 г",
+    "cleanTokens": [
+      "яблоко"
+    ],
+    "normalizedTokens": [
+      "яблоко",
+      "800 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "800 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Натуральный белёвский продукт зефир в шоколаде манговый 200 г",
+    "cleanTokens": [
+      "натуральный",
+      "в",
+      "шоколаде",
+      "манговый"
+    ],
+    "normalizedTokens": [
+      "натуральный",
+      "в",
+      "шоколаде",
+      "манговый",
+      "200 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "200 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Nut Vinograd фруктовые пластинки вишня 15 г",
+    "cleanTokens": [
+      "фруктовые",
+      "пластинки",
+      "вишня"
+    ],
+    "normalizedTokens": [
+      "фруктовые",
+      "пластинки",
+      "вишня",
+      "15 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "15 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Bulgari Agostino srl маршмеллоу микс 150 г",
+    "cleanTokens": [
+      "маршмеллоу",
+      "микс"
+    ],
+    "normalizedTokens": [
+      "маршмеллоу",
+      "микс",
+      "150 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "150 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Guandy маршмеллоу мини 200 г",
+    "cleanTokens": [
+      "маршмеллоу",
+      "мини"
+    ],
+    "normalizedTokens": [
+      "маршмеллоу",
+      "мини",
+      "200 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "200 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Правильные сладости пастила манго 15 г",
+    "cleanTokens": [
+      "правильные",
+      "манго"
+    ],
+    "normalizedTokens": [
+      "правильные",
+      "манго",
+      "15 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "15 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Galagancha пастила медовая с таежными ягодами 190 г",
+    "cleanTokens": [
+      "медовая",
+      "с",
+      "таежными",
+      "ягодами"
+    ],
+    "normalizedTokens": [
+      "медовая",
+      "с",
+      "таежными",
+      "ягодами",
+      "190 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "190 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Galagancha пастила медовая с облепихой 190 г",
+    "cleanTokens": [
+      "медовая",
+      "с",
+      "облепихой"
+    ],
+    "normalizedTokens": [
+      "медовая",
+      "с",
+      "облепихой",
+      "190 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "190 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "FINI маршмеллоу Blue Logs 80 г",
+    "cleanTokens": [
+      "маршмеллоу",
+      "blue",
+      "logs"
+    ],
+    "normalizedTokens": [
+      "маршмеллоу",
+      "blue",
+      "logs",
+      "80 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "80 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Маленькие радости пастила с клубникой, бананом и мёдом 95 г",
+    "cleanTokens": [
+      "с",
+      "клубникой",
+      "бананом",
+      "медом"
+    ],
+    "normalizedTokens": [
+      "с",
+      "клубникой",
+      "бананом",
+      "медом",
+      "95 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "95 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Пастилушка пастила яблоко-вишня 800 г",
+    "cleanTokens": [
+      "яблоко-вишня"
+    ],
+    "normalizedTokens": [
+      "яблоко-вишня",
+      "800 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "800 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Guandy маршмеллоу классик 200 г",
+    "cleanTokens": [
+      "маршмеллоу",
+      "классик"
+    ],
+    "normalizedTokens": [
+      "маршмеллоу",
+      "классик",
+      "200 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "200 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Маленькие радости пастила с манго, яблоком и мёдом 95 г",
+    "cleanTokens": [
+      "с",
+      "манго",
+      "яблоком",
+      "медом"
+    ],
+    "normalizedTokens": [
+      "с",
+      "манго",
+      "яблоком",
+      "медом",
+      "95 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "95 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Nut Vinograd пастила фруктовая Ассорти без сахара из абрикоса, сливы, яблока, вишни 200 г",
+    "cleanTokens": [
+      "фруктовая",
+      "ассорти",
+      "без",
+      "сахара",
+      "из",
+      "абрикоса",
+      "сливы",
+      "яблока",
+      "вишни"
+    ],
+    "normalizedTokens": [
+      "фруктовая",
+      "ассорти",
+      "без",
+      "сахара",
+      "из",
+      "абрикоса",
+      "сливы",
+      "яблока",
+      "вишни",
+      "200 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "200 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "FINI маршмеллоу Strawberry and Cream 75 г",
+    "cleanTokens": [
+      "маршмеллоу",
+      "strawberry",
+      "and",
+      "cream"
+    ],
+    "normalizedTokens": [
+      "маршмеллоу",
+      "strawberry",
+      "and",
+      "cream",
+      "75 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "75 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Yummy пастила фруктовая вишня 250 г",
+    "cleanTokens": [
+      "фруктовая",
+      "вишня"
+    ],
+    "normalizedTokens": [
+      "фруктовая",
+      "вишня",
+      "250 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "250 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Фрукт Продукт пастила яблоко 12 пакетов по 25 г",
+    "cleanTokens": [
+      "яблоко",
+      "12",
+      "пакетов",
+      "по"
+    ],
+    "normalizedTokens": [
+      "яблоко",
+      "12",
+      "пакетов",
+      "по",
+      "25 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "25 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Yummy пастила фруктовая яблоко 250 г",
+    "cleanTokens": [
+      "фруктовая",
+      "яблоко"
+    ],
+    "normalizedTokens": [
+      "фруктовая",
+      "яблоко",
+      "250 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "250 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Yummy пастила фруктовая манго 250 г",
+    "cleanTokens": [
+      "фруктовая",
+      "манго"
+    ],
+    "normalizedTokens": [
+      "фруктовая",
+      "манго",
+      "250 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "250 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Trolli маршмеллоу банан 150 г",
+    "cleanTokens": [
+      "маршмеллоу",
+      "банан"
+    ],
+    "normalizedTokens": [
+      "маршмеллоу",
+      "банан",
+      "150 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "150 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Haribo маршмеллоу Pink&White 150 г",
+    "cleanTokens": [
+      "маршмеллоу",
+      "pink&white"
+    ],
+    "normalizedTokens": [
+      "маршмеллоу",
+      "pink&white",
+      "150 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "150 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "FINI маршмеллоу Clouds Cool фруктовое 80 г",
+    "cleanTokens": [
+      "маршмеллоу",
+      "clouds",
+      "cool",
+      "фруктовое"
+    ],
+    "normalizedTokens": [
+      "маршмеллоу",
+      "clouds",
+      "cool",
+      "фруктовое",
+      "80 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "80 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "МАК-Иваново ООО зефир Три кота 15 г",
+    "cleanTokens": [
+      "три",
+      "кота"
+    ],
+    "normalizedTokens": [
+      "три",
+      "кота",
+      "15 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "15 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Nut Vinograd фруктовые пластинки яблоко 15 г",
+    "cleanTokens": [
+      "фруктовые",
+      "пластинки",
+      "яблоко"
+    ],
+    "normalizedTokens": [
+      "фруктовые",
+      "пластинки",
+      "яблоко",
+      "15 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "15 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Shengzhuhua маршмеллоу апельсин 120 г",
+    "cleanTokens": [
+      "маршмеллоу",
+      "апельсин"
+    ],
+    "normalizedTokens": [
+      "маршмеллоу",
+      "апельсин",
+      "120 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "120 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Yes! Eco! пастила натуральная малина 100 г",
+    "cleanTokens": [
+      "натуральная",
+      "малина"
+    ],
+    "normalizedTokens": [
+      "натуральная",
+      "малина",
+      "100 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "100 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Фрукт Продукт пастила груша 12 пакетов по 25 г",
+    "cleanTokens": [
+      "груша",
+      "12",
+      "пакетов",
+      "по"
+    ],
+    "normalizedTokens": [
+      "груша",
+      "12",
+      "пакетов",
+      "по",
+      "25 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "25 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Trolli суфле Apple Mallow с яблочным вкусом 150 г",
+    "cleanTokens": [
+      "суфле",
+      "apple",
+      "mallow",
+      "с",
+      "яблочным",
+      "вкусом"
+    ],
+    "normalizedTokens": [
+      "суфле",
+      "apple",
+      "mallow",
+      "с",
+      "яблочным",
+      "вкусом",
+      "150 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "150 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Galagancha пастила медовая с черной смородиной 190 г",
+    "cleanTokens": [
+      "медовая",
+      "с",
+      "черной",
+      "смородиной"
+    ],
+    "normalizedTokens": [
+      "медовая",
+      "с",
+      "черной",
+      "смородиной",
+      "190 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "190 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "NA! Nature Addicts пастила Kirsche 35 г",
+    "cleanTokens": [
+      "kirsche"
+    ],
+    "normalizedTokens": [
+      "kirsche",
+      "35 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "35 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Cheng Zhi Hua маршмеллоу со вкусом лимона 120 г",
+    "cleanTokens": [
+      "маршмеллоу",
+      "со",
+      "вкусом",
+      "лимона"
+    ],
+    "normalizedTokens": [
+      "маршмеллоу",
+      "со",
+      "вкусом",
+      "лимона",
+      "120 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "120 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Фрутилад пастила яблоко банан 30 г",
+    "cleanTokens": [
+      "яблоко",
+      "банан"
+    ],
+    "normalizedTokens": [
+      "яблоко",
+      "банан",
+      "30 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "30 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Yes! Eco! пастила натуральная малиновая 50 г",
+    "cleanTokens": [
+      "натуральная",
+      "малиновая"
+    ],
+    "normalizedTokens": [
+      "натуральная",
+      "малиновая",
+      "50 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "50 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Правильные сладости пастилки яблочные 70 г",
+    "cleanTokens": [
+      "правильные",
+      "пастилки",
+      "яблочные"
+    ],
+    "normalizedTokens": [
+      "правильные",
+      "пастилки",
+      "яблочные",
+      "70 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "70 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Cheng Zhi Hua маршмеллоу смайлики 70 г",
+    "cleanTokens": [
+      "маршмеллоу",
+      "смайлики"
+    ],
+    "normalizedTokens": [
+      "маршмеллоу",
+      "смайлики",
+      "70 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "70 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Haribo маршмеллоу Pink&White 70 г",
+    "cleanTokens": [
+      "маршмеллоу",
+      "pink&white"
+    ],
+    "normalizedTokens": [
+      "маршмеллоу",
+      "pink&white",
+      "70 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "70 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "YumEarth пастила клубника 16 г",
+    "cleanTokens": [
+      "клубника"
+    ],
+    "normalizedTokens": [
+      "клубника",
+      "16 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "16 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Nut Vinograd пастила черника и яблоко 15 г",
+    "cleanTokens": [
+      "черника",
+      "яблоко"
+    ],
+    "normalizedTokens": [
+      "черника",
+      "яблоко",
+      "15 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "15 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "FINI маршмеллоу Marshmallow Finitronc ваниль 80 г",
+    "cleanTokens": [
+      "маршмеллоу",
+      "marshmallow",
+      "finitronc",
+      "ваниль"
+    ],
+    "normalizedTokens": [
+      "маршмеллоу",
+      "marshmallow",
+      "finitronc",
+      "ваниль",
+      "80 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "80 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Haribo маршмеллоу Chamallows Party со вкусом клубники 70 г",
+    "cleanTokens": [
+      "маршмеллоу",
+      "chamallows",
+      "party",
+      "со",
+      "вкусом",
+      "клубники"
+    ],
+    "normalizedTokens": [
+      "маршмеллоу",
+      "chamallows",
+      "party",
+      "со",
+      "вкусом",
+      "клубники",
+      "70 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "70 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Правильные сладости пастила без сахара слива 70 г",
+    "cleanTokens": [
+      "правильные",
+      "без",
+      "сахара",
+      "слива"
+    ],
+    "normalizedTokens": [
+      "правильные",
+      "без",
+      "сахара",
+      "слива",
+      "70 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "70 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Yes! Eco! пастила натуральная клубника 100 г",
+    "cleanTokens": [
+      "натуральная",
+      "клубника"
+    ],
+    "normalizedTokens": [
+      "натуральная",
+      "клубника",
+      "100 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "100 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  }
+]

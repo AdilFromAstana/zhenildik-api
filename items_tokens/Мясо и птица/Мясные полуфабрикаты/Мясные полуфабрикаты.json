@@ -1,0 +1,681 @@
+[
+  {
+    "original": "MAGNUM тефтели из говядины с рисом 400 г",
+    "cleanTokens": [
+      "тефтели",
+      "из",
+      "говядины",
+      "с",
+      "рисом"
+    ],
+    "normalizedTokens": [
+      "тефтели",
+      "из",
+      "говядины",
+      "с",
+      "рисом",
+      "400 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "400 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Boszhan котлета для бургера замороженная 600 г",
+    "cleanTokens": [
+      "котлета",
+      "для",
+      "бургера",
+      "замороженная"
+    ],
+    "normalizedTokens": [
+      "котлета",
+      "для",
+      "бургера",
+      "замороженная",
+      "600 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "600 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Boszhan сет идеальный бургер на 5х 875 г",
+    "cleanTokens": [
+      "сет",
+      "идеальный",
+      "бургер",
+      "на",
+      "5х"
+    ],
+    "normalizedTokens": [
+      "сет",
+      "идеальный",
+      "бургер",
+      "на",
+      "5х",
+      "875 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "875 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "MAGNUM шницель куриный рубленый 300 г",
+    "cleanTokens": [
+      "шницель",
+      "куриный",
+      "рубленый"
+    ],
+    "normalizedTokens": [
+      "шницель",
+      "куриный",
+      "рубленый",
+      "300 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "300 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Первомайские Деликатесы фрикадельки 430 г",
+    "cleanTokens": [
+      "фрикадельки"
+    ],
+    "normalizedTokens": [
+      "фрикадельки",
+      "430 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "430 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "KAZBEEF котлета из мраморной говядины 260 г",
+    "cleanTokens": [
+      "котлета",
+      "из",
+      "мраморной",
+      "говядины"
+    ],
+    "normalizedTokens": [
+      "котлета",
+      "из",
+      "мраморной",
+      "говядины",
+      "260 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "260 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Красноярские колбасы котлеты из говядины 1000 г",
+    "cleanTokens": [
+      "котлеты",
+      "из",
+      "говядины"
+    ],
+    "normalizedTokens": [
+      "котлеты",
+      "из",
+      "говядины",
+      "1000 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "1000 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "ADAL FOOD котлеты говяжьи 450 г",
+    "cleanTokens": [
+      "котлеты",
+      "говяжьи"
+    ],
+    "normalizedTokens": [
+      "котлеты",
+      "говяжьи",
+      "450 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "450 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Родина фрикадельки 400 г",
+    "cleanTokens": [
+      "фрикадельки"
+    ],
+    "normalizedTokens": [
+      "фрикадельки",
+      "400 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "400 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Родина тефтели говядина 500 г",
+    "cleanTokens": [
+      "тефтели",
+      "говядина"
+    ],
+    "normalizedTokens": [
+      "тефтели",
+      "говядина",
+      "500 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "500 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Qualiko котлеты курица 310 г",
+    "cleanTokens": [
+      "котлеты",
+      "курица"
+    ],
+    "normalizedTokens": [
+      "котлеты",
+      "курица",
+      "310 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "310 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Красноярские колбасы наггетсы куриные 500 г",
+    "cleanTokens": [
+      "наггетсы",
+      "куриные"
+    ],
+    "normalizedTokens": [
+      "наггетсы",
+      "куриные",
+      "500 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "500 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "ҰЛЫТАУ Ет-сүт фрикадельки 500 г",
+    "cleanTokens": [
+      "фрикадельки"
+    ],
+    "normalizedTokens": [
+      "фрикадельки",
+      "500 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "500 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Qualiko бедро цыпленка бройлера 2500 г",
+    "cleanTokens": [
+      "бедро",
+      "цыпленка",
+      "бройлера"
+    ],
+    "normalizedTokens": [
+      "бедро",
+      "цыпленка",
+      "бройлера",
+      "2500 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "2500 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Qualiko котлеты куриные для бургера 1000 г",
+    "cleanTokens": [
+      "котлеты",
+      "куриные",
+      "для",
+      "бургера"
+    ],
+    "normalizedTokens": [
+      "котлеты",
+      "куриные",
+      "для",
+      "бургера",
+      "1000 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "1000 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Qualiko крылышки 2500 г",
+    "cleanTokens": [
+      "крылышки"
+    ],
+    "normalizedTokens": [
+      "крылышки",
+      "2500 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "2500 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "ҰЛЫТАУ Ет-сүт котлеты 500 г",
+    "cleanTokens": [
+      "котлеты"
+    ],
+    "normalizedTokens": [
+      "котлеты",
+      "500 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "500 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Qualiko филе замороженое 2500 г",
+    "cleanTokens": [
+      "филе",
+      "замороженое"
+    ],
+    "normalizedTokens": [
+      "филе",
+      "замороженое",
+      "2500 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "2500 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Qualiko крыло цыпленка бройлера 2500 г",
+    "cleanTokens": [
+      "крыло",
+      "цыпленка",
+      "бройлера"
+    ],
+    "normalizedTokens": [
+      "крыло",
+      "цыпленка",
+      "бройлера",
+      "2500 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "2500 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "ҰЛЫТАУ Ет-сүт тефтели 500 г",
+    "cleanTokens": [
+      "тефтели"
+    ],
+    "normalizedTokens": [
+      "тефтели",
+      "500 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "500 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мираторг Crispy крылышки 400 г",
+    "cleanTokens": [
+      "crispy",
+      "крылышки"
+    ],
+    "normalizedTokens": [
+      "crispy",
+      "крылышки",
+      "400 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "400 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "MAGNUM топленый жир говяжий замороженный 500 г",
+    "cleanTokens": [
+      "топленый",
+      "жир",
+      "говяжий",
+      "замороженный"
+    ],
+    "normalizedTokens": [
+      "топленый",
+      "жир",
+      "говяжий",
+      "замороженный",
+      "500 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "500 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Qualiko котлеты для бургера 1000 г",
+    "cleanTokens": [
+      "котлеты",
+      "для",
+      "бургера"
+    ],
+    "normalizedTokens": [
+      "котлеты",
+      "для",
+      "бургера",
+      "1000 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "1000 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Первомайский тефтели из мяса курицы 430 г",
+    "cleanTokens": [
+      "тефтели",
+      "из",
+      "мяса",
+      "курицы"
+    ],
+    "normalizedTokens": [
+      "тефтели",
+      "из",
+      "мяса",
+      "курицы",
+      "430 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "430 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "ADAL FOOD котлеты куриные 450 г",
+    "cleanTokens": [
+      "котлеты",
+      "куриные"
+    ],
+    "normalizedTokens": [
+      "котлеты",
+      "куриные",
+      "450 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "450 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Беккер и К котлеты восточные от Беккера 630 г",
+    "cleanTokens": [
+      "беккер",
+      "к",
+      "котлеты",
+      "восточные",
+      "от",
+      "беккера"
+    ],
+    "normalizedTokens": [
+      "беккер",
+      "к",
+      "котлеты",
+      "восточные",
+      "от",
+      "беккера",
+      "630 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "630 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Беккер и К тефтели говяжьи от Беккера 600 г",
+    "cleanTokens": [
+      "беккер",
+      "к",
+      "тефтели",
+      "говяжьи",
+      "от",
+      "беккера"
+    ],
+    "normalizedTokens": [
+      "беккер",
+      "к",
+      "тефтели",
+      "говяжьи",
+      "от",
+      "беккера",
+      "600 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "600 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мираторг котлеты родео для бургеров из мраморной говядины замороженные 360 г",
+    "cleanTokens": [
+      "котлеты",
+      "родео",
+      "для",
+      "бургеров",
+      "из",
+      "мраморной",
+      "говядины",
+      "замороженные"
+    ],
+    "normalizedTokens": [
+      "котлеты",
+      "родео",
+      "для",
+      "бургеров",
+      "из",
+      "мраморной",
+      "говядины",
+      "замороженные",
+      "360 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "360 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мираторг котлеты для бургеров из мраморной говядины классические замороженные 360 г",
+    "cleanTokens": [
+      "котлеты",
+      "для",
+      "бургеров",
+      "из",
+      "мраморной",
+      "говядины",
+      "классические",
+      "замороженные"
+    ],
+    "normalizedTokens": [
+      "котлеты",
+      "для",
+      "бургеров",
+      "из",
+      "мраморной",
+      "говядины",
+      "классические",
+      "замороженные",
+      "360 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "360 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  }
+]

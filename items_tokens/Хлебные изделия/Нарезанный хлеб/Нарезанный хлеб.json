@@ -1,0 +1,121 @@
+[
+  {
+    "original": "Романовский продукт Отрубной батон 350 г",
+    "cleanTokens": [
+      "отрубной",
+      "батон"
+    ],
+    "normalizedTokens": [
+      "отрубной",
+      "батон",
+      "350 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "350 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Vitalnan хлеб Скандинавский цельнозерновой 300 г",
+    "cleanTokens": [
+      "скандинавский",
+      "цельнозерновой"
+    ],
+    "normalizedTokens": [
+      "скандинавский",
+      "цельнозерновой",
+      "300 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "300 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Vitalnan хлеб цельнозерновой рожь с изюмом 300 г",
+    "cleanTokens": [
+      "цельнозерновой",
+      "рожь",
+      "с",
+      "изюмом"
+    ],
+    "normalizedTokens": [
+      "цельнозерновой",
+      "рожь",
+      "с",
+      "изюмом",
+      "300 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "300 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Vitalnan хлеб Полезная рожь цельнозерновой 300 г",
+    "cleanTokens": [
+      "полезная",
+      "рожь",
+      "цельнозерновой"
+    ],
+    "normalizedTokens": [
+      "полезная",
+      "рожь",
+      "цельнозерновой",
+      "300 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "300 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Vitalnan хлеб Шведский цельнозерновой натуральная закваска без дрожжей 300 г",
+    "cleanTokens": [
+      "шведский",
+      "цельнозерновой",
+      "натуральная",
+      "закваска",
+      "без",
+      "дрожжей"
+    ],
+    "normalizedTokens": [
+      "шведский",
+      "цельнозерновой",
+      "натуральная",
+      "закваска",
+      "без",
+      "дрожжей",
+      "300 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "300 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  }
+]

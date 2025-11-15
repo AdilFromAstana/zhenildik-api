@@ -1,0 +1,3698 @@
+[
+  {
+    "id": "01b24aa386a6fbf4b4218d28",
+    "advertising_info": null,
+    "alcohol_permille": 0,
+    "allowed_delivery_methods": [
+      "eatin",
+      "takeaway",
+      "homedelivery"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 0,
+        "end_time": 86400000
+      }
+    ],
+    "barcode_gtin": "05449000321787",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "3a01168935f49d6a964993fb8f6eaf03",
+    "description": "Насладитесь сочным вишневым вкусом Piko. Пейте Piko на завтрак или в перерывах в течение дня. Идеальный размер для семейного завтрака. Охладите перед употреблением для максимального удовольствия. Добавьте в корзину прямо сейчас!",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": true,
+    "images": [
+      {
+        "url": "https://imageproxy.wolt.com/assets/6808e2ca6f972db77b4cd7de",
+        "blurhash": "LSSY?aay_NtRjaf7kCj[%Mj[IUWB"
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": true,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "PIKO Сок ВИШНЯ 1L",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 88500,
+    "product_hierarchy_tags": [],
+    "purchasable_balance": 20,
+    "restrictions": [],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": false,
+    "tags": [],
+    "unit_info": "1 шт",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 88500,
+      "unit": "piece"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 12,
+    "vat_percentage_decimal": "12.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    },
+    "categories": [
+      "Соки, вода, напитки",
+      "Соки, морсы"
+    ]
+  },
+  {
+    "id": "8ba32949e6f4647814d205ae",
+    "advertising_info": null,
+    "alcohol_permille": 0,
+    "allowed_delivery_methods": [
+      "eatin",
+      "takeaway",
+      "homedelivery"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 0,
+        "end_time": 86400000
+      }
+    ],
+    "barcode_gtin": "05449000321770",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "51fcaf296744258177df1cae3285f9d9",
+    "description": "Насладитесь сочным ананасовым вкусом Piko. Пейте Piko на завтрак или в перерывах в течение дня. Идеальный размер для семейного завтрака. Охладите перед употреблением для максимального удовольствия. Добавьте в корзину прямо сейчас!",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": true,
+    "images": [
+      {
+        "url": "https://imageproxy.wolt.com/assets/6808e2ca6f972db77b4cd7dd",
+        "blurhash": "LSSY{oay_4t8j?fQj]f8%Mj[IUWB"
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": true,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "PIKO Сок АНАНАС 1L",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 88500,
+    "product_hierarchy_tags": [],
+    "purchasable_balance": 26,
+    "restrictions": [],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": false,
+    "tags": [],
+    "unit_info": "1 шт",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 88500,
+      "unit": "piece"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 12,
+    "vat_percentage_decimal": "12.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    },
+    "categories": [
+      "Соки, вода, напитки",
+      "Соки, морсы"
+    ]
+  },
+  {
+    "id": "49ff52c73045c56f77ccde92",
+    "advertising_info": null,
+    "alcohol_permille": 0,
+    "allowed_delivery_methods": [
+      "homedelivery",
+      "takeaway",
+      "eatin"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 0,
+        "end_time": 86400000
+      }
+    ],
+    "barcode_gtin": "04870002328107",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "fe0fc76a86a28384fccdc039f2a04559",
+    "description": "Персиковый нектар\"Солнечный Сок\"в экономичной упаковке 1,9 литра. Сладкий, ароматный напиток с высоким содержанием фруктовой части.",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": true,
+    "images": [
+      {
+        "url": "https://imageproxy.wolt.com/assets/688b9ac5a3eb62eeb95c2444",
+        "blurhash": "LeSFz^j[?wkBkDfkjEjZt7jtRja|"
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": true,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "Нектар Солнечный Сок Персик 1,9 л",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 118500,
+    "product_hierarchy_tags": [],
+    "purchasable_balance": 10,
+    "restrictions": [],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": false,
+    "tags": [],
+    "unit_info": "1 шт",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 118500,
+      "unit": "piece"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 12,
+    "vat_percentage_decimal": "12.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    },
+    "categories": [
+      "Соки, вода, напитки",
+      "Соки, морсы"
+    ]
+  },
+  {
+    "id": "ea97fdd4e51e1277cf4d9835",
+    "advertising_info": null,
+    "alcohol_permille": 0,
+    "allowed_delivery_methods": [
+      "homedelivery",
+      "takeaway",
+      "eatin"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 0,
+        "end_time": 86400000
+      }
+    ],
+    "barcode_gtin": "04870002322242",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "ccacbb2ee79613cc8cf001d41940247c",
+    "description": "Нектар\"Солнечный Сок\"со вкусом тропических фруктов (мультифрукт) в упаковке 1,9 литра. Сладкий, экзотический вкус.",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": true,
+    "images": [
+      {
+        "url": "https://imageproxy.wolt.com/assets/688b9c9f23fa16f725afb1c4",
+        "blurhash": "LiSF%~j]?wa{bdfQn#jZt6ayR*j["
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": true,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "Нектар Солнечный Сок Тропик 1,9 л",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 115500,
+    "product_hierarchy_tags": [],
+    "purchasable_balance": 20,
+    "restrictions": [],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": false,
+    "tags": [],
+    "unit_info": "1 шт",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 115500,
+      "unit": "piece"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 12,
+    "vat_percentage_decimal": "12.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    },
+    "categories": [
+      "Соки, вода, напитки",
+      "Соки, морсы"
+    ]
+  },
+  {
+    "id": "9be2a1296d505592f6916705",
+    "advertising_info": null,
+    "alcohol_permille": 0,
+    "allowed_delivery_methods": [
+      "homedelivery",
+      "takeaway",
+      "eatin"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 0,
+        "end_time": 86400000
+      }
+    ],
+    "barcode_gtin": "04600494661754",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "bd0059d303b2157a07db4405e9d2877b",
+    "description": "Напиток\"Апельсиновое Манго\"с мякотью - сочетание нежного бархатного манго и спелого апельсина — микс для гурманов. Яркий вкус, соединяющий апельсиновый сок и сок манго - почувствуй вкус любви!\n\n●Сокосодержащий напиток\"Апельсиновое Манго\"с мякотью\n●Без добавления красителей и консервантов\n●Сочетание нежного бархатного манго и сочного апельсина",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": true,
+    "images": [
+      {
+        "url": "https://imageproxy.wolt.com/assets/688b99b523fa16f725af7bfa",
+        "blurhash": "LfS$ZBjY%%bckBj[jHaytSfkROjY"
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": true,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "Фруктовый сад Сок Апельсин - манго - мандарин 1.93л",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 146500,
+    "product_hierarchy_tags": [],
+    "purchasable_balance": 6,
+    "restrictions": [],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": true,
+    "tags": [],
+    "unit_info": "1 шт",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 146500,
+      "unit": "piece"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 12,
+    "vat_percentage_decimal": "12.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    },
+    "categories": [
+      "Соки, вода, напитки",
+      "Соки, морсы"
+    ]
+  },
+  {
+    "id": "8e91af2137aed2a3c8e80239",
+    "advertising_info": null,
+    "alcohol_permille": 0,
+    "allowed_delivery_methods": [
+      "eatin",
+      "takeaway",
+      "homedelivery"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 0,
+        "end_time": 86400000
+      }
+    ],
+    "barcode_gtin": "04680019562124",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "10013afd0272647f136bfa3faf0d3b2b",
+    "description": "Сок «Грейпфрут». Объем: 200 мл. Для питания детей старше 12-х месяцев. С мякотью.",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": true,
+    "images": [
+      {
+        "url": "https://imageproxy.wolt.com/assets/688b99ae23fa16f725af7b69",
+        "blurhash": "LhSYv_j[.mj[o|fQaKfQozfQV@fQ"
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": true,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "Сады Придонья Il Primo Сок Грейпфрутовый С Мякотью Восстановленный, 0,2Л",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 64000,
+    "product_hierarchy_tags": [],
+    "purchasable_balance": 86,
+    "restrictions": [],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": false,
+    "tags": [],
+    "unit_info": "1 шт",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 64000,
+      "unit": "piece"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 12,
+    "vat_percentage_decimal": "12.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    },
+    "categories": [
+      "Соки, вода, напитки",
+      "Соки, морсы"
+    ]
+  },
+  {
+    "id": "d708637f40e658636961b73e",
+    "advertising_info": null,
+    "alcohol_permille": 0,
+    "allowed_delivery_methods": [
+      "eatin",
+      "takeaway",
+      "homedelivery"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 0,
+        "end_time": 86400000
+      }
+    ],
+    "barcode_gtin": "04607163091560",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "166699ea26ecabab3e77025c47584e1c",
+    "description": "Сок восстановленный, осветленный, без сахара, для детского питания.",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": true,
+    "images": [
+      {
+        "url": "https://imageproxy.wolt.com/assets/688b99ac23fa16f725af7b06",
+        "blurhash": "LSSZ2%j[^-oexHjtNZayWUa|o3j["
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": true,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "Сады Придонья Сок Яблочный Прямого Отжима Осветленный, 1Л",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 95000,
+    "product_hierarchy_tags": [],
+    "purchasable_balance": 26,
+    "restrictions": [],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": false,
+    "tags": [],
+    "unit_info": "1 шт",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 95000,
+      "unit": "piece"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 12,
+    "vat_percentage_decimal": "12.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    },
+    "categories": [
+      "Соки, вода, напитки",
+      "Соки, морсы"
+    ]
+  },
+  {
+    "id": "ddc66885099aa8dd8b115c33",
+    "advertising_info": null,
+    "alcohol_permille": 0,
+    "allowed_delivery_methods": [
+      "eatin",
+      "takeaway",
+      "homedelivery"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 0,
+        "end_time": 86400000
+      }
+    ],
+    "barcode_gtin": "04607163091591",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "47e1374317e0cbaa02220a04d7791b0a",
+    "description": "Сок Сады Придонья Яблочно-абрикосовый с мякотью, 1л.Восстановленный. Без добавления сахара. Для питания детей дошкольного и школьного возраста. Не содержит ГМО. Стерилизован и асептически расфасован. Гомогенизирован",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": true,
+    "images": [
+      {
+        "url": "https://imageproxy.wolt.com/assets/688b99ae23fa16f725af7b5e",
+        "blurhash": "LZSY{lj??dogozfkaef6t7j[Rjay"
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": true,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "Сады Придонья Сок Яблочно-Абрикосовый С Мякотью Восстановленный, 1Л",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 92000,
+    "product_hierarchy_tags": [],
+    "purchasable_balance": 12,
+    "restrictions": [],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": false,
+    "tags": [],
+    "unit_info": "1 шт",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 92000,
+      "unit": "piece"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 12,
+    "vat_percentage_decimal": "12.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    },
+    "categories": [
+      "Соки, вода, напитки",
+      "Соки, морсы"
+    ]
+  },
+  {
+    "id": "e337bfc806e0edfa1d3ea0cf",
+    "advertising_info": null,
+    "alcohol_permille": 0,
+    "allowed_delivery_methods": [
+      "eatin",
+      "takeaway",
+      "homedelivery"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 0,
+        "end_time": 86400000
+      }
+    ],
+    "barcode_gtin": "04607163091577",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "5dcaea83724064e6b02ad86ae88131ec",
+    "description": "Возможно, Вы не понаслышке знакомы с аллергией и Ваша иммунная система чересчур активно реагирует (увы!) на многие вкусные вещи... Тогда Вам нужно нечто особенное — например, сок «Зелёное яблоко». Он производится только из зелёных сортов донских яблок. Северный Синап, Избранница, Курский Золотой — сок из этих яблок обладает самыми низкими аллергенными свойствами, поэтому хорошо переносится, подходит всем без исключения и имеет приятный освежающий кисло-сладкий вкус. Особый состав делает этот продукт подходящим и для диабетиков.",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": true,
+    "images": [
+      {
+        "url": "https://imageproxy.wolt.com/assets/688b99a223fa16f725af7961",
+        "blurhash": "LPSs84j[?dofs:fQWVf7%NjtM_ay"
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": true,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "Сады Придонья Сок Яблочный Из Зеленых Яблок Осветленный Восстановленный, 1Л",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 92000,
+    "product_hierarchy_tags": [],
+    "purchasable_balance": 17,
+    "restrictions": [],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": false,
+    "tags": [],
+    "unit_info": "1 шт",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 92000,
+      "unit": "piece"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 12,
+    "vat_percentage_decimal": "12.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    },
+    "categories": [
+      "Соки, вода, напитки",
+      "Соки, морсы"
+    ]
+  },
+  {
+    "id": "a4bd61bee5d12a8bca9b72bd",
+    "advertising_info": null,
+    "alcohol_permille": 0,
+    "allowed_delivery_methods": [
+      "eatin",
+      "takeaway",
+      "homedelivery"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 0,
+        "end_time": 86400000
+      }
+    ],
+    "barcode_gtin": "04630009187882",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "62313f9b7f1fe9dd2d994a41aef664c7",
+    "description": "Сок для здорового питания для детей и взрослых, производится по особой рецептуре, с приоритетным использованием собственного сырья.",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": true,
+    "images": [
+      {
+        "url": "https://imageproxy.wolt.com/assets/688b99ac23fa16f725af7b15",
+        "blurhash": "LYSPX@j[?dj[t7fQRjj@bIfQjYjt"
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": true,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": 12,
+    "min_quantity_per_purchase": null,
+    "name": "Сады Придонья Сок Мультиовощной Восстановленный С Солью, 1Л",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 99500,
+    "product_hierarchy_tags": [],
+    "purchasable_balance": 15,
+    "restrictions": [],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": false,
+    "tags": [],
+    "unit_info": "1 шт",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 99500,
+      "unit": "piece"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 12,
+    "vat_percentage_decimal": "12.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    },
+    "categories": [
+      "Соки, вода, напитки",
+      "Соки, морсы"
+    ]
+  },
+  {
+    "id": "9cdedf6723ffbaa7f17a60f1",
+    "advertising_info": null,
+    "alcohol_permille": 0,
+    "allowed_delivery_methods": [
+      "eatin",
+      "takeaway",
+      "homedelivery"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 0,
+        "end_time": 86400000
+      }
+    ],
+    "barcode_gtin": "04680019560854",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "5187c7405c3b1aeea7a459a2bdc27815",
+    "description": "Томатный сок с мякотью `Сады Придонья` отличается насыщенным вкусом и приятным ароматом. Для его изготовления используются только отборные спелые помидоры и соль, в составе нет консервантов и искусственных красителей. Продукт можно употреблять в качестве самостоятельного напитка, а также применять в маринадах.",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": true,
+    "images": [
+      {
+        "url": "https://imageproxy.wolt.com/assets/6888c0961f0cac713af682c5",
+        "blurhash": "LaSF;Ij[_4bHtQfjV@f6ogfQWAfj"
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": true,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "Сады Придонья Сок Томатный С Солью С Мякотью Восстановленный, 1Л",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 92000,
+    "product_hierarchy_tags": [],
+    "purchasable_balance": 19,
+    "restrictions": [],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": false,
+    "tags": [],
+    "unit_info": "1 шт",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 92000,
+      "unit": "piece"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 12,
+    "vat_percentage_decimal": "12.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    },
+    "categories": [
+      "Соки, вода, напитки",
+      "Соки, морсы"
+    ]
+  },
+  {
+    "id": "e1a35ed51346408c6244915f",
+    "advertising_info": null,
+    "alcohol_permille": 0,
+    "allowed_delivery_methods": [
+      "eatin",
+      "takeaway",
+      "homedelivery"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 0,
+        "end_time": 86400000
+      }
+    ],
+    "barcode_gtin": "04680019562919",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "08aff1fae5e100379fa89a6168bcd5d5",
+    "description": "Морковь особенно полезна детям, так как содержит бета-каротин, который попадая в организм превращается в витамин А, способствующий росту, а также укрепляет сетчатку глаз. Вместе с яблочным соком и пюре получился вкусный и очень витаминный дуэт.",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": true,
+    "images": [
+      {
+        "url": "https://imageproxy.wolt.com/assets/6888bf841f0cac713af67112",
+        "blurhash": "LdS6Vvj]^-jYxafQR*j[flfQf5a}"
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": true,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": 12,
+    "min_quantity_per_purchase": null,
+    "name": "Сады Придонья Сок Морковно-Яблочный Восстановленный С Мякотью, 1Л",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 92000,
+    "product_hierarchy_tags": [],
+    "purchasable_balance": 21,
+    "restrictions": [],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": false,
+    "tags": [],
+    "unit_info": "1 шт",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 92000,
+      "unit": "piece"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 12,
+    "vat_percentage_decimal": "12.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    },
+    "categories": [
+      "Соки, вода, напитки",
+      "Соки, морсы"
+    ]
+  },
+  {
+    "id": "5e96759e3ed10efe60f4e3c1",
+    "advertising_info": null,
+    "alcohol_permille": 0,
+    "allowed_delivery_methods": [
+      "eatin",
+      "takeaway",
+      "homedelivery"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 0,
+        "end_time": 86400000
+      }
+    ],
+    "barcode_gtin": "04607163091607",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "b2ecfb7588b381b7733800a63ffe2963",
+    "description": "Яблочно-вишневый сок полезен для укрепления иммунной и сердечно-сосудистой системы. Пектиновые вещества, содержащиеся в яблоках, способствуют более легкому опорожнению кишечника и заживлению тканей, а сок вишни известен своими бактерицидными свойствами. Он полезен при малокровии, поскольку в нем есть фолиевая кислота и железо. Вишневый сок способствует укреплению сна, восстановлению структуры волос и улучшению настроения.",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": true,
+    "images": [
+      {
+        "url": "https://imageproxy.wolt.com/assets/688b99ae23fa16f725af7b87",
+        "blurhash": "LbSF@OkC?daxt6fQWBj@s;fPR%j["
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": true,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "Сады Придонья Сок Яблочно-Вишневый Осветленный Восстановленный, 1Л",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 92000,
+    "product_hierarchy_tags": [],
+    "purchasable_balance": 24,
+    "restrictions": [],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": false,
+    "tags": [],
+    "unit_info": "1 шт",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 92000,
+      "unit": "piece"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 12,
+    "vat_percentage_decimal": "12.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    },
+    "categories": [
+      "Соки, вода, напитки",
+      "Соки, морсы"
+    ]
+  },
+  {
+    "id": "bf87e2397a9d395fe979290f",
+    "advertising_info": null,
+    "alcohol_permille": 0,
+    "allowed_delivery_methods": [
+      "eatin",
+      "takeaway",
+      "homedelivery"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 0,
+        "end_time": 86400000
+      }
+    ],
+    "barcode_gtin": "04680019562148",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "cc51788a9b0b96c39b34b1477297879a",
+    "description": "Бренд IL Primo предлагает восстановленный ананасовый сок, для приготовления которого использованы плоды сорта Smooth Cayenne из Кении — самые сочные, ароматные и полезные. Вкус напитка нежный, освежающий, с легкой кислинкой, без лишней приторности. Продукт не содержит сахара, изготовлен из концентрированного ананасового сока и расфасован в удобные герметичные стеклянные бутылочки, что позволяет сохранять вкус неизменным до года. После вскрытия упаковки сок необходимо употребить в течение суток.",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": true,
+    "images": [
+      {
+        "url": "https://imageproxy.wolt.com/assets/688b99a223fa16f725af7953",
+        "blurhash": "LWS$fTj].Aj?tRfQV?fRtSfQROfR"
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": true,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "Сады Придонья Il Primo Сок Ананасовый Восстановленный, 0,2Л",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 53000,
+    "product_hierarchy_tags": [],
+    "purchasable_balance": 35,
+    "restrictions": [],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": false,
+    "tags": [],
+    "unit_info": "1 шт",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 53000,
+      "unit": "piece"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 12,
+    "vat_percentage_decimal": "12.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    },
+    "categories": [
+      "Соки, вода, напитки",
+      "Соки, морсы"
+    ]
+  },
+  {
+    "id": "fe79c4c6820c571141d72613",
+    "advertising_info": null,
+    "alcohol_permille": 0,
+    "allowed_delivery_methods": [
+      "eatin",
+      "takeaway",
+      "homedelivery"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 0,
+        "end_time": 86400000
+      }
+    ],
+    "barcode_gtin": "09002515427212",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "692f01a2e01a9a9e68a50c7ba6f033bf",
+    "description": "Персиковый сок (или нектар) Pago в стеклянной бутылочке (С/Б) объемом 0,2 литра. Премиальный продукт с густой текстурой и натуральным вкусом персика.",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": true,
+    "images": [
+      {
+        "url": "https://imageproxy.wolt.com/assets/688b9ac5a3eb62eeb95c244c",
+        "blurhash": "LpR:A_j[?wj[kBfQjbfQf,fQjFju"
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": true,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "Pago сок Персик С/Б 0,2Л",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 98000,
+    "product_hierarchy_tags": [],
+    "purchasable_balance": 7,
+    "restrictions": [],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": true,
+    "tags": [],
+    "unit_info": "1 шт",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 98000,
+      "unit": "piece"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 12,
+    "vat_percentage_decimal": "12.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    },
+    "categories": [
+      "Соки, вода, напитки",
+      "Соки, морсы"
+    ]
+  },
+  {
+    "id": "09c1c7a59f3cda7f6109178e",
+    "advertising_info": null,
+    "alcohol_permille": 0,
+    "allowed_delivery_methods": [
+      "eatin",
+      "takeaway",
+      "homedelivery"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 0,
+        "end_time": 86400000
+      }
+    ],
+    "barcode_gtin": "04607163091584",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "dd50d078cf224c1e5aade37fc77072f3",
+    "description": "Сок восстановленный, осветленный, без сахара, для детского питания.",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": true,
+    "images": [
+      {
+        "url": "https://imageproxy.wolt.com/assets/6888bb5323fa16f725a96ef4",
+        "blurhash": "LXSY{mj[?dj[t7fQWBays;fRR%ay"
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": true,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "Сады Придонья Сок Яблочно-Персиковый С Мякотью Восстановленный, 1Л",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 92000,
+    "product_hierarchy_tags": [],
+    "purchasable_balance": 16,
+    "restrictions": [],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": false,
+    "tags": [],
+    "unit_info": "1 шт",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 92000,
+      "unit": "piece"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 12,
+    "vat_percentage_decimal": "12.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    },
+    "categories": [
+      "Соки, вода, напитки",
+      "Соки, морсы"
+    ]
+  },
+  {
+    "id": "b964beccd96fa43fe2cead49",
+    "advertising_info": null,
+    "alcohol_permille": 0,
+    "allowed_delivery_methods": [
+      "eatin",
+      "takeaway",
+      "homedelivery"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 0,
+        "end_time": 86400000
+      }
+    ],
+    "barcode_gtin": "04607163093014",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "e0d0e9c07125d803e18782a5343da2ea",
+    "description": "Яблочно-виноградный сок ''Сады Придонья'' 0,5 л. Лёгкий, прозрачный, сладкий — именно такой сок получается из яблок и белого винограда. Он отлично утоляет жажду в жаркое время года и дарит бодрость в холодные зимние вечера. Сок белого винограда очень деликатен (не вызывает вздутия живота и повышенного газообразования), поэтому хорошо подходит в качестве десертного напитка взрослым и детям.",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": true,
+    "images": [
+      {
+        "url": "https://imageproxy.wolt.com/assets/688b99ae23fa16f725af7b6e",
+        "blurhash": "LXSY~tj[?dj[s;fQWUayt7juRjay"
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": true,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "Сады Придонья Сок Яблочно-Виноградный Осветленный Восстановленный, 1Л",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 92000,
+    "product_hierarchy_tags": [],
+    "purchasable_balance": 24,
+    "restrictions": [],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": false,
+    "tags": [],
+    "unit_info": "1 шт",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 92000,
+      "unit": "piece"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 12,
+    "vat_percentage_decimal": "12.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    },
+    "categories": [
+      "Соки, вода, напитки",
+      "Соки, морсы"
+    ]
+  },
+  {
+    "id": "ce24a522678fc06ec8a53f53",
+    "advertising_info": null,
+    "alcohol_permille": 0,
+    "allowed_delivery_methods": [
+      "eatin",
+      "takeaway",
+      "homedelivery"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 0,
+        "end_time": 86400000
+      }
+    ],
+    "barcode_gtin": "04680019565408",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "89abdec3005222bb306dde14cc5311a3",
+    "description": "Томатный сок с мякотью `Сады Придонья` отличается насыщенным вкусом и приятным ароматом. Для его изготовления используются только отборные спелые помидоры и соль, в составе нет консервантов и искусственных красителей. Продукт можно употреблять в качестве самостоятельного напитка, а также применять в маринадах.",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": true,
+    "images": [
+      {
+        "url": "https://imageproxy.wolt.com/assets/688b99ab23fa16f725af7af5",
+        "blurhash": "LyRW0TWB^-t7t7fkV@ayogj[adWV"
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": true,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": 6,
+    "min_quantity_per_purchase": null,
+    "name": "Сады Придонья Сок Томатный С Солью С Мякотью Восстановленный, 2Л",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 171000,
+    "product_hierarchy_tags": [],
+    "purchasable_balance": 5,
+    "restrictions": [],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": true,
+    "tags": [],
+    "unit_info": "1 шт",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 171000,
+      "unit": "piece"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 12,
+    "vat_percentage_decimal": "12.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    },
+    "categories": [
+      "Соки, вода, напитки",
+      "Соки, морсы"
+    ]
+  },
+  {
+    "id": "a231d384e1c873e5a33b3c15",
+    "advertising_info": null,
+    "alcohol_permille": 0,
+    "allowed_delivery_methods": [
+      "eatin",
+      "takeaway",
+      "homedelivery"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 0,
+        "end_time": 86400000
+      }
+    ],
+    "barcode_gtin": "04607163092574",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "7a75098bdc92cbed7e5af7f6844c7d7f",
+    "description": "Настоящий томатный сок без соли — истинная находка для тех, кто следит за своим самочувствием! Чистый вкус спелых помидоров, не искажённый другими добавками, прекрасно оттенит любые мясные блюда в Вашем меню. Большое количество ликопина, который содержится в томате, благотворно сказывается на мужском здоровье. В соке много полезного калия и нет поваренной соли — вот формула успеха для тех, кто хочет легко и вкусно избавиться от мешающих нормальной жизни отёков. К тому же, трудно придумать менее калорийный продукт — Ваша фигура будет довольна этим выбором!",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": true,
+    "images": [
+      {
+        "url": "https://imageproxy.wolt.com/assets/6888bbb023fa16f725a974fd",
+        "blurhash": "LbSPX?js?dogt7j[V[aykWfkadf6"
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": true,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": 12,
+    "min_quantity_per_purchase": null,
+    "name": "Сады Придонья Сок Томатный Восстановленный, 1Л",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 92000,
+    "product_hierarchy_tags": [],
+    "purchasable_balance": 5,
+    "restrictions": [],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": true,
+    "tags": [],
+    "unit_info": "1 шт",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 92000,
+      "unit": "piece"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 12,
+    "vat_percentage_decimal": "12.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    },
+    "categories": [
+      "Соки, вода, напитки",
+      "Соки, морсы"
+    ]
+  },
+  {
+    "id": "864b98c55bd56624c32da3f2",
+    "advertising_info": null,
+    "alcohol_permille": 0,
+    "allowed_delivery_methods": [
+      "eatin",
+      "takeaway",
+      "homedelivery"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 0,
+        "end_time": 86400000
+      }
+    ],
+    "barcode_gtin": "04607163093038",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "cb568614d15b31013d524d74ad5c56ae",
+    "description": "Сок Сады Придонья Яблоко-груша с мякотью — это натуральный продукт, приготовленный из зеленых сортов яблок, выращенных в собственных хозяйствах компании, и ароматного пюре из медово-сладких желтых груш. Густой, умеренно сладкий напиток наполнен вкусом спелых деревенских фруктов; он прекрасно утоляет жажду и насыщает в перерывах между приемами пищи. Производится без добавления сахара. Не содержит консервантов, красителей, ароматизаторов и ГМО. Подходит для питания детей от 3 лет. Перед употреблением рекомендуется взболтать.",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": true,
+    "images": [
+      {
+        "url": "https://imageproxy.wolt.com/assets/688b99ae23fa16f725af7b6c",
+        "blurhash": "LXSY~tj[?dj[t7fQWBjZt7fRR%ay"
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": true,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "Сады Придонья Сок Яблочно-Грушевый С Мякотью Восстановленный, 1Л",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 88500,
+    "product_hierarchy_tags": [],
+    "purchasable_balance": 25,
+    "restrictions": [],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": false,
+    "tags": [],
+    "unit_info": "1 шт",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 88500,
+      "unit": "piece"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 12,
+    "vat_percentage_decimal": "12.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    },
+    "categories": [
+      "Соки, вода, напитки",
+      "Соки, морсы"
+    ]
+  },
+  {
+    "id": "fdf701f9b7ed5b180c4e5dfc",
+    "advertising_info": null,
+    "alcohol_permille": 0,
+    "allowed_delivery_methods": [
+      "eatin",
+      "takeaway",
+      "homedelivery"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 0,
+        "end_time": 86400000
+      }
+    ],
+    "barcode_gtin": "04680019562049",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "3e21fcb41fdc4e5e9c3cea555ca397dc",
+    "description": "Без глотка апельсинового сока трудно представить бодрое утро! Почувствовать себя обновленным и свежим поможет продукция бренда IL Primo! Этот восстановленный сок с мякотью приготовлен из натурального концентрированного, выжатого из бразильских плодов сорта Pera. Напиток отличается приятными кисло-сладкими оттенками вкуса и свежим, радостным ароматом. Не содержит сахара, низкокалорийный, заключен в привлекательную стеклянную бутылочку, которую приятно держать в руках и удобно хранить.",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": true,
+    "images": [
+      {
+        "url": "https://imageproxy.wolt.com/assets/6888bb5c23fa16f725a97088",
+        "blurhash": "LYS~hhj[yZj]bvfQnhfQo$fQV=fP"
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": true,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "Сады Придонья Il Primo Сок Апельсиновый Восстановленный, 0,2Л",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 58000,
+    "product_hierarchy_tags": [],
+    "purchasable_balance": 45,
+    "restrictions": [],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": false,
+    "tags": [],
+    "unit_info": "1 шт",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 58000,
+      "unit": "piece"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 12,
+    "vat_percentage_decimal": "12.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    },
+    "categories": [
+      "Соки, вода, напитки",
+      "Соки, морсы"
+    ]
+  },
+  {
+    "id": "71e0b9d668d6145916a2a99c",
+    "advertising_info": null,
+    "alcohol_permille": 0,
+    "allowed_delivery_methods": [
+      "eatin",
+      "takeaway",
+      "homedelivery"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 0,
+        "end_time": 86400000
+      }
+    ],
+    "barcode_gtin": "04680019562100",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "a5bddb21ccf60d4d9e51603934d0f9f5",
+    "description": "Сок IL PRIMO Мультифрукт с мякотью 0,2л",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": true,
+    "images": [
+      {
+        "url": "https://imageproxy.wolt.com/assets/688b99ae23fa16f725af7b73",
+        "blurhash": "LmS=-aj[*0j[bvfQnhfQkDfQadfQ"
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": true,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "Сады Придонья Il Primo Сок Мультифруктовый С Мякотью Восстановленный, 0,2Л",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 53000,
+    "product_hierarchy_tags": [],
+    "purchasable_balance": 22,
+    "restrictions": [],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": false,
+    "tags": [],
+    "unit_info": "1 шт",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 53000,
+      "unit": "piece"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 12,
+    "vat_percentage_decimal": "12.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    },
+    "categories": [
+      "Соки, вода, напитки",
+      "Соки, морсы"
+    ]
+  },
+  {
+    "id": "d24166ef75745bbdbb302f00",
+    "advertising_info": null,
+    "alcohol_permille": 0,
+    "allowed_delivery_methods": [
+      "eatin",
+      "takeaway",
+      "homedelivery"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 0,
+        "end_time": 86400000
+      }
+    ],
+    "barcode_gtin": "04680019562162",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "1eb7443e65bb01ef4200726875e86010",
+    "description": "Сок IL Primo томатный с солью с мякотью - это напиток премиального качества для тех, кто стремится насладиться изысканным вкусом. Подходит для питания детей старше 12-и месяцев.",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": true,
+    "images": [
+      {
+        "url": "https://imageproxy.wolt.com/assets/688b99ac23fa16f725af7b3b",
+        "blurhash": "LpR{fHj[?^j[t7fQRjfQt7fQRkfQ"
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": true,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "Сады Придонья Il Primo Сок Томатный С Солью С Мякотью Восстановленный, 0,2Л",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 47000,
+    "product_hierarchy_tags": [],
+    "purchasable_balance": 5,
+    "restrictions": [],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": true,
+    "tags": [],
+    "unit_info": "1 шт",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 47000,
+      "unit": "piece"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 12,
+    "vat_percentage_decimal": "12.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    },
+    "categories": [
+      "Соки, вода, напитки",
+      "Соки, морсы"
+    ]
+  },
+  {
+    "id": "f2838865272790724c919417",
+    "advertising_info": null,
+    "alcohol_permille": 0,
+    "allowed_delivery_methods": [
+      "eatin",
+      "takeaway",
+      "homedelivery"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 0,
+        "end_time": 86400000
+      }
+    ],
+    "barcode_gtin": "04680019565361",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "53f2fafe8dbc7788a639140faab54654",
+    "description": "Яблочно-виноградный сок ''Сады Придонья'' 0,5 л. Лёгкий, прозрачный, сладкий — именно такой сок получается из яблок и белого винограда. Он отлично утоляет жажду в жаркое время года и дарит бодрость в холодные зимние вечера. Сок белого винограда очень деликатен (не вызывает вздутия живота и повышенного газообразования), поэтому хорошо подходит в качестве десертного напитка взрослым и детям.",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": true,
+    "images": [
+      {
+        "url": "https://imageproxy.wolt.com/assets/688b9ad7a3eb62eeb95c26d0",
+        "blurhash": "LtRftPWB^-t7ofj[WUayt7j[R%WU"
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": true,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": 6,
+    "min_quantity_per_purchase": null,
+    "name": "Сады Придонья Сок Яблочно-Виноградный Осветленный Восстановленный, 2Л",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 171000,
+    "product_hierarchy_tags": [],
+    "purchasable_balance": 10,
+    "restrictions": [],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": false,
+    "tags": [],
+    "unit_info": "1 шт",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 171000,
+      "unit": "piece"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 12,
+    "vat_percentage_decimal": "12.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    },
+    "categories": [
+      "Соки, вода, напитки",
+      "Соки, морсы"
+    ]
+  },
+  {
+    "id": "6d0680bfe71cfcf2dc461822",
+    "advertising_info": null,
+    "alcohol_permille": 0,
+    "allowed_delivery_methods": [
+      "eatin",
+      "takeaway",
+      "homedelivery"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 0,
+        "end_time": 86400000
+      }
+    ],
+    "barcode_gtin": "04607163093076",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "715726140d5862a54b6174066f1e2571",
+    "description": "Сок из чёрной смородины и яблока подарит настоящее удовольствие, а также повысит Ваш иммунитет и сопротивляемость организма различным заболеванием. Чёрная смородина превзошла все ягоды по количеству находящихся в ней витаминов, минералов и других полезных веществ, это одна из самых лучших садовых ягод. Ароматная, с особенным и неповторимым вкусом она необычна и признана учеными самой полезной для здоровья ягодой.",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": true,
+    "images": [
+      {
+        "url": "https://imageproxy.wolt.com/assets/688b99ac23fa16f725af7b35",
+        "blurhash": "LbS6Vwof^-axxZa|R*j@t7fPRjfk"
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": true,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": 12,
+    "min_quantity_per_purchase": null,
+    "name": "Сады Придонья Сок Из Яблок И Чёрной Смородины Осветленный Восстановленный, 1Л",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 92000,
+    "product_hierarchy_tags": [],
+    "purchasable_balance": 33,
+    "restrictions": [],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": false,
+    "tags": [],
+    "unit_info": "1 шт",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 92000,
+      "unit": "piece"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 12,
+    "vat_percentage_decimal": "12.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    },
+    "categories": [
+      "Соки, вода, напитки",
+      "Соки, морсы"
+    ]
+  },
+  {
+    "id": "81a7faf2f6728779f18ec74e",
+    "advertising_info": null,
+    "alcohol_permille": 0,
+    "allowed_delivery_methods": [
+      "eatin",
+      "takeaway",
+      "homedelivery"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 0,
+        "end_time": 86400000
+      }
+    ],
+    "barcode_gtin": "05449000145949",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "6e8fadbc3385a9816b0d620580113a5f",
+    "description": "Апельсиновый сок Piko ''Апельсин'', с насыщенным вкусом, вкусно освежает и утоляет жажду. Наполнит витаминами и зарядит яркой энергией с приятными фруктовыми нотками на целый день.",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": true,
+    "images": [
+      {
+        "url": "https://imageproxy.wolt.com/assets/6808e28437ab058cca2666e9",
+        "blurhash": "LTSia8ay?wt7azayofj[%Mj[IUWB"
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": true,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "Piko Сок Апельсин 1 Л Т/П",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 93500,
+    "product_hierarchy_tags": [],
+    "purchasable_balance": 20,
+    "restrictions": [],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": false,
+    "tags": [],
+    "unit_info": "1 шт",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 93500,
+      "unit": "piece"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 12,
+    "vat_percentage_decimal": "12.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    },
+    "categories": [
+      "Соки, вода, напитки",
+      "Соки, морсы"
+    ]
+  },
+  {
+    "id": "dc4f5b22f3ca67664944be72",
+    "advertising_info": null,
+    "alcohol_permille": 0,
+    "allowed_delivery_methods": [
+      "homedelivery",
+      "takeaway",
+      "eatin"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 0,
+        "end_time": 86400000
+      }
+    ],
+    "barcode_gtin": "04607042431333",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "71d79949373e497e266f6c1ca9392f55",
+    "description": "",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": true,
+    "images": [
+      {
+        "url": "https://imageproxy.wolt.com/wolt-prod-production-wm-catalog-images/products/27e4e167-03f4-46ea-a2e2-83b48238466b_PPBRY-39353.jpg",
+        "blurhash": null
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": true,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "Добрый Сок Мультифрукт 2 л",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 176500,
+    "product_hierarchy_tags": [],
+    "purchasable_balance": 9,
+    "restrictions": [],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": false,
+    "tags": [],
+    "unit_info": "1 шт",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 176500,
+      "unit": "piece"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 12,
+    "vat_percentage_decimal": "12.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    },
+    "categories": [
+      "Соки, вода, напитки",
+      "Соки, морсы"
+    ]
+  },
+  {
+    "id": "56ba73bde8f36928c636199a",
+    "advertising_info": null,
+    "alcohol_permille": 0,
+    "allowed_delivery_methods": [
+      "homedelivery",
+      "takeaway",
+      "eatin"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 0,
+        "end_time": 86400000
+      }
+    ],
+    "barcode_gtin": "04607042439193",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "024b9803acabdf4339528b20d7ea79c5",
+    "description": "Натуральный томатный сок Rich объемом 1 литр. Произведен из спелых томатов, часто с добавлением соли. Классический насыщенный вкус.",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": true,
+    "images": [
+      {
+        "url": "https://imageproxy.wolt.com/assets/688b99af23fa16f725af7b95",
+        "blurhash": "LJSs1[ay_NxuNdbHxZjZ%Lj[IVWB"
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": true,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "Rich Сок Томатный 1 л",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 94000,
+    "product_hierarchy_tags": [],
+    "purchasable_balance": 14,
+    "restrictions": [],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": false,
+    "tags": [],
+    "unit_info": "1 шт",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 94000,
+      "unit": "piece"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 12,
+    "vat_percentage_decimal": "12.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    },
+    "categories": [
+      "Соки, вода, напитки",
+      "Соки, морсы"
+    ]
+  },
+  {
+    "id": "9c461fe6b1e10d1d5f5b9d10",
+    "advertising_info": null,
+    "alcohol_permille": 0,
+    "allowed_delivery_methods": [
+      "homedelivery",
+      "takeaway",
+      "eatin"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 0,
+        "end_time": 86400000
+      }
+    ],
+    "barcode_gtin": "04601512005307",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "6b9eec71300dd53a967ccc1a8dae7ac3",
+    "description": "Сок J7 из зеленых яблок (или нектар) объемом 970 мл. Освежающий вкус с приятной кислинкой зеленых яблок.",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": true,
+    "images": [
+      {
+        "url": "https://imageproxy.wolt.com/assets/688b9ac5a3eb62eeb95c2450",
+        "blurhash": "LbSF;HkC_4e:sqaySdoMRiayt8oM"
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": true,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "J7 Сок Зеленое Яблоко 970мл",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 116000,
+    "product_hierarchy_tags": [],
+    "purchasable_balance": 18,
+    "restrictions": [],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": false,
+    "tags": [],
+    "unit_info": "1 шт",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 116000,
+      "unit": "piece"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 12,
+    "vat_percentage_decimal": "12.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    },
+    "categories": [
+      "Соки, вода, напитки",
+      "Соки, морсы"
+    ]
+  },
+  {
+    "id": "694c4b740170c2243aaa2434",
+    "advertising_info": null,
+    "alcohol_permille": 0,
+    "allowed_delivery_methods": [
+      "eatin",
+      "takeaway",
+      "homedelivery"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 0,
+        "end_time": 86400000
+      }
+    ],
+    "barcode_gtin": "05449000145895",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "ad0bb77962b5775fec5334a3b873f09d",
+    "description": "Натуральный яблочный нектар ''Piko''! Вкусный, а самое главное полезный, он отлично утоляет жажду и насытит Вас своим натуральным яблочным вкусом.",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": true,
+    "images": [
+      {
+        "url": "https://imageproxy.wolt.com/assets/6808e28437ab058cca2666e6",
+        "blurhash": "LOSigOay_4t7RjayxaoL%Mj[IUWB"
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": true,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "Piko Сок Яблоко 1 Л Т/П",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 87500,
+    "product_hierarchy_tags": [],
+    "purchasable_balance": 12,
+    "restrictions": [],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": false,
+    "tags": [],
+    "unit_info": "1 шт",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 87500,
+      "unit": "piece"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 12,
+    "vat_percentage_decimal": "12.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    },
+    "categories": [
+      "Соки, вода, напитки",
+      "Соки, морсы"
+    ]
+  },
+  {
+    "id": "7abc17899a0792adf3be628d",
+    "advertising_info": null,
+    "alcohol_permille": 0,
+    "allowed_delivery_methods": [
+      "homedelivery",
+      "takeaway",
+      "eatin"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 0,
+        "end_time": 86400000
+      }
+    ],
+    "barcode_gtin": "04870233561335",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "ec4244eea0657edc39f3a61e37262ce1",
+    "description": "Сок томатный – очень вкусный и питательный овощной сок, который одинаково хорош как в самостоятельном виде, так и в составе различных блюд.",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": true,
+    "images": [
+      {
+        "url": "https://imageproxy.wolt.com/assets/68498ed6d9ec7ea7c3f49b90",
+        "blurhash": "LnR.}oWB?^t7bHfQoLj[x]j[R5ae"
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": true,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "БАНКИ ШЕФ Томатный сок 950мл",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 182000,
+    "product_hierarchy_tags": [],
+    "purchasable_balance": 4,
+    "restrictions": [],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": true,
+    "tags": [],
+    "unit_info": "950 мл",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 191579,
+      "unit": "litre"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 12,
+    "vat_percentage_decimal": "12.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    },
+    "categories": [
+      "Соки, вода, напитки",
+      "Соки, морсы"
+    ]
+  },
+  {
+    "id": "64fc3565ebde550ca316d6f1",
+    "advertising_info": null,
+    "alcohol_permille": 0,
+    "allowed_delivery_methods": [
+      "homedelivery",
+      "takeaway",
+      "eatin"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 0,
+        "end_time": 86400000
+      }
+    ],
+    "barcode_gtin": "04870233562042",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "320e51dd3a1f22aaf58dc0c86f75a5e1",
+    "description": "Абрикосовый сок - настоящий эликсир жизни, способный улучшить репродуктивную функцию, предотвратить развитие онкологических заболеваний и эффективно противостоять негативному воздействию неблагополучной экологии, благоприятно воздействует на состояние кожи и фигуры.",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": true,
+    "images": [
+      {
+        "url": "https://imageproxy.wolt.com/assets/68498ed6d9ec7ea7c3f49b94",
+        "blurhash": "LoR{fGWB?^tRa|fQoLj[x]j[R5WB"
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": true,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "БАНКИ ШЕФ Абрикосовый сок 950мл",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 201000,
+    "product_hierarchy_tags": [],
+    "purchasable_balance": 3,
+    "restrictions": [],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": true,
+    "tags": [],
+    "unit_info": "950 мл",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 211579,
+      "unit": "litre"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 12,
+    "vat_percentage_decimal": "12.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    },
+    "categories": [
+      "Соки, вода, напитки",
+      "Соки, морсы"
+    ]
+  },
+  {
+    "id": "0d3bc1dee27197ee3b212677",
+    "advertising_info": null,
+    "alcohol_permille": 0,
+    "allowed_delivery_methods": [
+      "homedelivery",
+      "takeaway",
+      "eatin"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 0,
+        "end_time": 86400000
+      }
+    ],
+    "barcode_gtin": "04870233562059",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "62ecaabbcdf1ac7cf79a8087b6db9898",
+    "description": "Яблочный сок без добавления сахара. В составе только яблоки и никаких консервантов.",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": true,
+    "images": [
+      {
+        "url": "https://imageproxy.wolt.com/assets/68498ed6d9ec7ea7c3f49b95",
+        "blurhash": "LoR{obWB?wt7o2fQbHbHxvj[ROWB"
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": true,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "БАНКИ ШЕФ Яблочный сок 950мл",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 201000,
+    "product_hierarchy_tags": [],
+    "purchasable_balance": 2,
+    "restrictions": [],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": true,
+    "tags": [],
+    "unit_info": "950 мл",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 211579,
+      "unit": "litre"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 12,
+    "vat_percentage_decimal": "12.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    },
+    "categories": [
+      "Соки, вода, напитки",
+      "Соки, морсы"
+    ]
+  },
+  {
+    "id": "bf222d6c24a53f86aa41f9eb",
+    "advertising_info": null,
+    "alcohol_permille": 0,
+    "allowed_delivery_methods": [
+      "eatin",
+      "takeaway",
+      "homedelivery"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 0,
+        "end_time": 86400000
+      }
+    ],
+    "barcode_gtin": "04680019562087",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "ff4eb95c8c9ab771b5aadd18336210e2",
+    "description": "Сок IL Primo яблочный из зеленых яблок осветленный - это напиток премиального качества для тех, кто стремится насладиться изысканным вкусом. Подходит для питания детей старше 12-и месяцев.",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": true,
+    "images": [
+      {
+        "url": "https://imageproxy.wolt.com/assets/688b99ad23fa16f725af7b51",
+        "blurhash": "LmS$S_j[%%j[kWfQjEfQaifQk9fQ"
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": true,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": 5,
+    "min_quantity_per_purchase": null,
+    "name": "Сады Придонья Il Primo Сок Яблочный Из Зеленых Яблок Осветленный Восстановленный, 0,2Л",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 47000,
+    "product_hierarchy_tags": [],
+    "purchasable_balance": 16,
+    "restrictions": [],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": false,
+    "tags": [],
+    "unit_info": "1 шт",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 47000,
+      "unit": "piece"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 12,
+    "vat_percentage_decimal": "12.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    },
+    "categories": [
+      "Соки, вода, напитки",
+      "Соки, морсы"
+    ]
+  },
+  {
+    "id": "4cbb43fd2573428be683b39b",
+    "advertising_info": null,
+    "alcohol_permille": 0,
+    "allowed_delivery_methods": [
+      "eatin",
+      "takeaway",
+      "homedelivery"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 0,
+        "end_time": 86400000
+      }
+    ],
+    "barcode_gtin": "04680019565262",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "a4db7a4d349096a29bc3d46b9e93e378",
+    "description": "Возможно, Вы не понаслышке знакомы с аллергией и Ваша иммунная система чересчур активно реагирует (увы!) на многие вкусные вещи... Тогда Вам нужно нечто особенное — например, сок «Зелёное яблоко». Он производится только из зелёных сортов донских яблок. Северный Синап, Избранница, Курский Золотой — сок из этих яблок обладает самыми низкими аллергенными свойствами, поэтому хорошо переносится, подходит всем без исключения и имеет приятный освежающий кисло-сладкий вкус. Особый состав делает этот продукт подходящим и для диабетиков.",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": true,
+    "images": [
+      {
+        "url": "https://imageproxy.wolt.com/assets/688b99ae23fa16f725af7b63",
+        "blurhash": "LrRpL7j[^-oLoMj[W.ayogj[WBax"
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": true,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": 6,
+    "min_quantity_per_purchase": null,
+    "name": "Сады Придонья Сок Яблочный Из Зеленых Яблок Осветленный Восстановленный, 2Л",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 171000,
+    "product_hierarchy_tags": [],
+    "purchasable_balance": 27,
+    "restrictions": [],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": false,
+    "tags": [],
+    "unit_info": "1 шт",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 171000,
+      "unit": "piece"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 12,
+    "vat_percentage_decimal": "12.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    },
+    "categories": [
+      "Соки, вода, напитки",
+      "Соки, морсы"
+    ]
+  },
+  {
+    "id": "21da92e3f0ca29455d83f6ea",
+    "advertising_info": null,
+    "alcohol_permille": 0,
+    "allowed_delivery_methods": [
+      "eatin",
+      "takeaway",
+      "homedelivery"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 0,
+        "end_time": 86400000
+      }
+    ],
+    "barcode_gtin": "04680019565309",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "c5a3054f1092cd3483154f09e14d927a",
+    "description": "Сады Придонья мультифруктовый с мякотью восстановленный 2 л",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": true,
+    "images": [
+      {
+        "url": "https://imageproxy.wolt.com/assets/688b99ac23fa16f725af7b0f",
+        "blurhash": "LvRypQja?dkCoyj[aeayj]j[axax"
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": true,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "Сады Придонья Сок Мультифруктовый С Мякотью Восстановленный, 2Л",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 171000,
+    "product_hierarchy_tags": [],
+    "purchasable_balance": 40,
+    "restrictions": [],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": false,
+    "tags": [],
+    "unit_info": "1 шт",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 171000,
+      "unit": "piece"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 12,
+    "vat_percentage_decimal": "12.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    },
+    "categories": [
+      "Соки, вода, напитки",
+      "Соки, морсы"
+    ]
+  },
+  {
+    "id": "213abc0178481323b934ffae",
+    "advertising_info": null,
+    "alcohol_permille": 0,
+    "allowed_delivery_methods": [
+      "homedelivery",
+      "eatin",
+      "takeaway"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 0,
+        "end_time": 86400000
+      }
+    ],
+    "barcode_gtin": "04660028373379",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "ebe74d60746e1553478c9f54c35f4f34",
+    "description": "Натуральный томатный сок, произведенный из свежих и спелых помидоров высокого качества.",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": true,
+    "images": [
+      {
+        "url": "https://imageproxy.wolt.com/assets/68a86c7b10ec70798b774847",
+        "blurhash": "LJS?ALof?wjstRfQV@j@xvf6M_fk"
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": true,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "Сады Кубани Сок Томатный с солью 1000мл",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 96000,
+    "product_hierarchy_tags": [],
+    "purchasable_balance": 24,
+    "restrictions": [],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": false,
+    "tags": [],
+    "unit_info": "250 мл",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 384000,
+      "unit": "litre"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 12,
+    "vat_percentage_decimal": "12.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    },
+    "categories": [
+      "Соки, вода, напитки",
+      "Соки, морсы"
+    ]
+  },
+  {
+    "id": "c154a1f4a60096282473ac9d",
+    "advertising_info": null,
+    "alcohol_permille": 0,
+    "allowed_delivery_methods": [
+      "homedelivery",
+      "eatin",
+      "takeaway"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 0,
+        "end_time": 86400000
+      }
+    ],
+    "barcode_gtin": "04660028373324",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "ff8afc5fb5cacc1ec15891f5e8fb9760",
+    "description": "Нектар сады кубани яблоко – это натуральный фруктовый напиток с насыщенным вкусом спелых яблок.",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": true,
+    "images": [
+      {
+        "url": "https://imageproxy.wolt.com/assets/68a86c7b10ec70798b774844",
+        "blurhash": "LIS$r#of^-j[oMfQodfPs=a{W9j["
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": true,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "Сады Кубани Сок Яблочный 1000мл",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 89000,
+    "product_hierarchy_tags": [],
+    "purchasable_balance": 21,
+    "restrictions": [],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": false,
+    "tags": [],
+    "unit_info": "250 мл",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 356000,
+      "unit": "litre"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 12,
+    "vat_percentage_decimal": "12.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    },
+    "categories": [
+      "Соки, вода, напитки",
+      "Соки, морсы"
+    ]
+  },
+  {
+    "id": "d31420d6ba75f9554ba74d33",
+    "advertising_info": null,
+    "alcohol_permille": 0,
+    "allowed_delivery_methods": [
+      "homedelivery",
+      "eatin",
+      "takeaway"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 0,
+        "end_time": 86400000
+      }
+    ],
+    "barcode_gtin": "04607014826419",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "708bba28b2436d070fa419b1558f7979",
+    "description": "Сок садочок мультивитамин - это напиток, который содержит смесь соков из различных фруктов, а также обогащен витаминами.",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": true,
+    "images": [
+      {
+        "url": "https://imageproxy.wolt.com/assets/68a86c7b10ec70798b77483c",
+        "blurhash": "LoRC_CbH~qoMs.fQWEfQo}jZVsX7"
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": true,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "Садочок Сок Яблоко‑Клубника Черноплодная рябина 950мл",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 96000,
+    "product_hierarchy_tags": [],
+    "purchasable_balance": 19,
+    "restrictions": [],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": false,
+    "tags": [],
+    "unit_info": "250 мл",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 384000,
+      "unit": "litre"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 12,
+    "vat_percentage_decimal": "12.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    },
+    "categories": [
+      "Соки, вода, напитки",
+      "Соки, морсы"
+    ]
+  },
+  {
+    "id": "4f5b6ac256d6724e0ce55f1b",
+    "advertising_info": null,
+    "alcohol_permille": 0,
+    "allowed_delivery_methods": [
+      "homedelivery",
+      "eatin",
+      "takeaway"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 0,
+        "end_time": 86400000
+      }
+    ],
+    "barcode_gtin": "04607014826518",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "18e6865ea857f93599a0175815b54c0a",
+    "description": "Идеальное сочетание сладкой яблочной ноты и кисло-сладкого вкуса вишни. каждый глоток наполнен яркими оттенками лета и свежести, дарящими неповторимое удовольствие. ощутите на языке сочность яблок и нежность вишни - это идеальный выбор для ценителей натуральных вкусов.",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": true,
+    "images": [
+      {
+        "url": "https://imageproxy.wolt.com/assets/68a86c7b10ec70798b77483d",
+        "blurhash": "LuRC[3oe_4WCjbayf$j[t8azV?kB"
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": true,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "Садочок Сок Яблоко‑Вишня Черноплодная рябина 950мл",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 96000,
+    "product_hierarchy_tags": [],
+    "purchasable_balance": 22,
+    "restrictions": [],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": false,
+    "tags": [],
+    "unit_info": "250 мл",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 384000,
+      "unit": "litre"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 12,
+    "vat_percentage_decimal": "12.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    },
+    "categories": [
+      "Соки, вода, напитки",
+      "Соки, морсы"
+    ]
+  },
+  {
+    "id": "11710ea6d34e88f91605b63b",
+    "advertising_info": null,
+    "alcohol_permille": 0,
+    "allowed_delivery_methods": [
+      "eatin",
+      "takeaway",
+      "homedelivery"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 0,
+        "end_time": 86400000
+      }
+    ],
+    "barcode_gtin": "08002270766886",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "b8fafa39b4b3f395c0ff2212ba231ede",
+    "description": "Освежающий лимонад с натуральным соком лимона и газированной водой.",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": true,
+    "images": [
+      {
+        "url": "https://imageproxy.wolt.com/assets/688b9e9723fa16f725afc9c6",
+        "blurhash": "LpR{upj[?wa#WWfQoejtxrj@M~az"
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": true,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": 5,
+    "min_quantity_per_purchase": null,
+    "name": "San Pellegrino сокосодержащий напиток Limonata, 330 мл",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 112500,
+    "product_hierarchy_tags": [],
+    "purchasable_balance": 32,
+    "restrictions": [],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": false,
+    "tags": [],
+    "unit_info": "330 мл",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 340909,
+      "unit": "litre"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 12,
+    "vat_percentage_decimal": "12.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    },
+    "categories": [
+      "Соки, вода, напитки",
+      "Соки, морсы"
+    ]
+  },
+  {
+    "id": "6e477453e2146e21dac58c5d",
+    "advertising_info": null,
+    "alcohol_permille": 0,
+    "allowed_delivery_methods": [
+      "eatin",
+      "takeaway",
+      "homedelivery"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 0,
+        "end_time": 86400000
+      }
+    ],
+    "barcode_gtin": "04870002328299",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "44c30823eeff37ab569385f907ede62d",
+    "description": "В DaDa Экстра Витамины мы сочетаем понятные, всем знакомые и популярные фрукты и ягоды и усиливаем пользу витаминов с помощью экстрактов: ромашки, шиповника, малина и получаем уникальные миксы с повышенной пользой экстрактов и фруктов.",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": true,
+    "images": [
+      {
+        "url": "https://imageproxy.wolt.com/assets/6888bb5423fa16f725a96f0d",
+        "blurhash": "LYSFz}j]_Nn%xafPRjbHt7ayRjj["
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": true,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "Dada Экстра Витамины Ягодный Морс 0,95Л",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 80500,
+    "product_hierarchy_tags": [],
+    "purchasable_balance": 17,
+    "restrictions": [],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": false,
+    "tags": [],
+    "unit_info": "1 шт",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 80500,
+      "unit": "piece"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 12,
+    "vat_percentage_decimal": "12.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    },
+    "categories": [
+      "Соки, вода, напитки",
+      "Соки, морсы"
+    ]
+  },
+  {
+    "id": "1c491b4feacaf66133b081c1",
+    "advertising_info": null,
+    "alcohol_permille": 0,
+    "allowed_delivery_methods": [
+      "eatin",
+      "takeaway",
+      "homedelivery"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 0,
+        "end_time": 86400000
+      }
+    ],
+    "barcode_gtin": "04870002329296",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "d14decbf0c317878637f0676612df123",
+    "description": "В DaDa Экстра Витамины мы сочетаем понятные, всем знакомые и популярные фрукты и ягоды и усиливаем пользу витаминов с помощью экстрактов: ромашки, шиповника, малина и получаем уникальные миксы с повышенной пользой экстрактов и фруктов.",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": true,
+    "images": [
+      {
+        "url": "https://imageproxy.wolt.com/assets/6888bb5d23fa16f725a97093",
+        "blurhash": "LlRMYwkC~padt7jZR*bIofa{WBj["
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": true,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "Dada Экстра Витамины Ягодный Морс 1,9Л",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 141500,
+    "product_hierarchy_tags": [],
+    "purchasable_balance": 19,
+    "restrictions": [],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": false,
+    "tags": [],
+    "unit_info": "1 шт",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 141500,
+      "unit": "piece"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 12,
+    "vat_percentage_decimal": "12.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    },
+    "categories": [
+      "Соки, вода, напитки",
+      "Соки, морсы"
+    ]
+  },
+  {
+    "id": "751492c9708b443132b961bc",
+    "advertising_info": null,
+    "alcohol_permille": 0,
+    "allowed_delivery_methods": [
+      "eatin",
+      "takeaway",
+      "homedelivery"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 0,
+        "end_time": 86400000
+      }
+    ],
+    "barcode_gtin": "05449000187499",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "1713dd6de1433ac9fc9b9d3a5002e882",
+    "description": "Насладитесь сочным вкусом Piko Морс. Пейте Piko на завтрак или в перерывах в течение дня. Идеальный размер для семейного завтрака. Охладите перед употреблением для максимального удовольствия. Добавьте в корзину прямо сейчас!",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": true,
+    "images": [
+      {
+        "url": "https://imageproxy.wolt.com/assets/67b84987f4c0e01be0713061",
+        "blurhash": "LOSidHay_Nt7bIf6oej[%gj[IAWB"
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": true,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "Piko Морс 1Л",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 88500,
+    "product_hierarchy_tags": [],
+    "purchasable_balance": 68,
+    "restrictions": [],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": false,
+    "tags": [],
+    "unit_info": "1 шт",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 88500,
+      "unit": "piece"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 12,
+    "vat_percentage_decimal": "12.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    },
+    "categories": [
+      "Соки, вода, напитки",
+      "Соки, морсы"
+    ]
+  }
+]

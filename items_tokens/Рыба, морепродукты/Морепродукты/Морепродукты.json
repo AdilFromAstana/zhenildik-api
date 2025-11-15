@@ -1,0 +1,268 @@
+[
+  {
+    "original": "Vici креветки варено-мороженые по-средиземноморски 500 г",
+    "cleanTokens": [
+      "креветки",
+      "варено-мороженые",
+      "по-средиземноморски"
+    ],
+    "normalizedTokens": [
+      "креветки",
+      "варено-мороженые",
+      "по-средиземноморски",
+      "500 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "500 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Vici креветки свежемороженный по-азиатски 500 г",
+    "cleanTokens": [
+      "креветки",
+      "свежемороженный",
+      "по-азиатски"
+    ],
+    "normalizedTokens": [
+      "креветки",
+      "свежемороженный",
+      "по-азиатски",
+      "500 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "500 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Mukhit Seafood краб свежемороженный 1000 г",
+    "cleanTokens": [
+      "краб",
+      "свежемороженный"
+    ],
+    "normalizedTokens": [
+      "краб",
+      "свежемороженный",
+      "1000 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "1000 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Mukhit Seafood лобстер свежемороженный 220 г",
+    "cleanTokens": [
+      "лобстер",
+      "свежемороженный"
+    ],
+    "normalizedTokens": [
+      "лобстер",
+      "свежемороженный",
+      "220 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "220 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Mukhit Seafood краб варено-мороженый 800 г",
+    "cleanTokens": [
+      "краб",
+      "варено-мороженый"
+    ],
+    "normalizedTokens": [
+      "краб",
+      "варено-мороженый",
+      "800 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "800 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "AC морской коктейль свежемороженный 500 г",
+    "cleanTokens": [
+      "морской",
+      "коктейль",
+      "свежемороженный"
+    ],
+    "normalizedTokens": [
+      "морской",
+      "коктейль",
+      "свежемороженный",
+      "500 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "500 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Mukhit Seafood лобстер свежемороженный 500 г",
+    "cleanTokens": [
+      "лобстер",
+      "свежемороженный"
+    ],
+    "normalizedTokens": [
+      "лобстер",
+      "свежемороженный",
+      "500 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "500 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Mukhit Seafood осьминоги свежемороженные 1000 г",
+    "cleanTokens": [
+      "осьминоги",
+      "свежемороженные"
+    ],
+    "normalizedTokens": [
+      "осьминоги",
+      "свежемороженные",
+      "1000 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "1000 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Vici Ассорти сыро-мороженое 800 г",
+    "cleanTokens": [
+      "ассорти",
+      "сыро-мороженое"
+    ],
+    "normalizedTokens": [
+      "ассорти",
+      "сыро-мороженое",
+      "800 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "800 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "VICI морской коктейль варено-мороженый 500 г",
+    "cleanTokens": [
+      "морской",
+      "коктейль",
+      "варено-мороженый"
+    ],
+    "normalizedTokens": [
+      "морской",
+      "коктейль",
+      "варено-мороженый",
+      "500 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "500 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "АС Креветки в панцире 500 г",
+    "cleanTokens": [
+      "ас",
+      "креветки",
+      "в",
+      "панцире"
+    ],
+    "normalizedTokens": [
+      "ас",
+      "креветки",
+      "в",
+      "панцире",
+      "500 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "500 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "EliteFish креветки 21/25 свежемороженные 1800 г",
+    "cleanTokens": [
+      "креветки",
+      "21/25",
+      "свежемороженные"
+    ],
+    "normalizedTokens": [
+      "креветки",
+      "21/25",
+      "свежемороженные",
+      "1800 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "1800 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  }
+]

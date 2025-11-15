@@ -1,0 +1,1480 @@
+[
+  {
+    "original": "TopLife кокосовая стружка 150 г",
+    "cleanTokens": [
+      "кокосовая",
+      "стружка"
+    ],
+    "normalizedTokens": [
+      "кокосовая",
+      "стружка",
+      "150 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "150 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Вафельный рожок для мороженного, Цветной 27шт/110мм",
+    "cleanTokens": [
+      "вафельный",
+      "рожок",
+      "мороженного",
+      "цветной",
+      "27шт/110мм"
+    ],
+    "normalizedTokens": [
+      "вафельный",
+      "рожок",
+      "мороженного",
+      "цветной",
+      "27шт/110мм"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Decoland вафельная бумага плотная 0.6 мм 320 г",
+    "cleanTokens": [
+      "вафельная",
+      "бумага",
+      "плотная",
+      "0.6",
+      "мм"
+    ],
+    "normalizedTokens": [
+      "вафельная",
+      "бумага",
+      "плотная",
+      "0.6",
+      "мм",
+      "320 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "320 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Print-Eat Slim сахарная бумага 795 г",
+    "cleanTokens": [
+      "slim",
+      "сахарная",
+      "бумага"
+    ],
+    "normalizedTokens": [
+      "slim",
+      "сахарная",
+      "бумага",
+      "795 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "795 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Konditerka.kz посыпка вермишель разноцветная 1000 г",
+    "cleanTokens": [
+      "посыпка",
+      "вермишель",
+      "разноцветная"
+    ],
+    "normalizedTokens": [
+      "посыпка",
+      "вермишель",
+      "разноцветная",
+      "1000 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "1000 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Konditerka.kz вафельная крошка пресная 3-5 мм 300 г",
+    "cleanTokens": [
+      "вафельная",
+      "крошка",
+      "пресная",
+      "3-5",
+      "мм"
+    ],
+    "normalizedTokens": [
+      "вафельная",
+      "крошка",
+      "пресная",
+      "3-5",
+      "мм",
+      "300 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "300 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "GUZMAN пищевой краситель 10 г",
+    "cleanTokens": [
+      "пищевой",
+      "краситель"
+    ],
+    "normalizedTokens": [
+      "пищевой",
+      "краситель",
+      "10 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "10 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Sultanshop вафельная бумага 320 г",
+    "cleanTokens": [
+      "вафельная",
+      "бумага"
+    ],
+    "normalizedTokens": [
+      "вафельная",
+      "бумага",
+      "320 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "320 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "GUZMAN голубой блеск пищевой краситель 10 г",
+    "cleanTokens": [
+      "голубой",
+      "блеск",
+      "пищевой",
+      "краситель"
+    ],
+    "normalizedTokens": [
+      "голубой",
+      "блеск",
+      "пищевой",
+      "краситель",
+      "10 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "10 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "GUZMAN белый пищевой краситель 15 г",
+    "cleanTokens": [
+      "белый",
+      "пищевой",
+      "краситель"
+    ],
+    "normalizedTokens": [
+      "белый",
+      "пищевой",
+      "краситель",
+      "15 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "15 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "GUZMAN пищевой краситель 10 г",
+    "cleanTokens": [
+      "пищевой",
+      "краситель"
+    ],
+    "normalizedTokens": [
+      "пищевой",
+      "краситель",
+      "10 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "10 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "GUZMAN бронзовый блеск пищевой краситель 10 г",
+    "cleanTokens": [
+      "бронзовый",
+      "блеск",
+      "пищевой",
+      "краситель"
+    ],
+    "normalizedTokens": [
+      "бронзовый",
+      "блеск",
+      "пищевой",
+      "краситель",
+      "10 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "10 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Konditerka.kz посыпка шарики разноцветные 1000 г",
+    "cleanTokens": [
+      "посыпка",
+      "шарики",
+      "разноцветные"
+    ],
+    "normalizedTokens": [
+      "посыпка",
+      "шарики",
+      "разноцветные",
+      "1000 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "1000 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Konditerka.kz сахарная пудра Бархатная 1000 г",
+    "cleanTokens": [
+      "сахарная",
+      "пудра",
+      "бархатная"
+    ],
+    "normalizedTokens": [
+      "сахарная",
+      "пудра",
+      "бархатная",
+      "1000 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "1000 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Konditerka.kz вафельная крошка сладкая 3-5 мм 300 г",
+    "cleanTokens": [
+      "вафельная",
+      "крошка",
+      "сладкая",
+      "3-5",
+      "мм"
+    ],
+    "normalizedTokens": [
+      "вафельная",
+      "крошка",
+      "сладкая",
+      "3-5",
+      "мм",
+      "300 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "300 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Konditerka.kz посыпка звёзды разноцветные 1000 г",
+    "cleanTokens": [
+      "посыпка",
+      "звезды",
+      "разноцветные"
+    ],
+    "normalizedTokens": [
+      "посыпка",
+      "звезды",
+      "разноцветные",
+      "1000 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "1000 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Konditerka.kz посыпка вермишель коричневая 1000 г",
+    "cleanTokens": [
+      "посыпка",
+      "вермишель",
+      "коричневая"
+    ],
+    "normalizedTokens": [
+      "посыпка",
+      "вермишель",
+      "коричневая",
+      "1000 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "1000 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Konditerka.kz посыпка шарики коричневые 1000 г",
+    "cleanTokens": [
+      "посыпка",
+      "шарики",
+      "коричневые"
+    ],
+    "normalizedTokens": [
+      "посыпка",
+      "шарики",
+      "коричневые",
+      "1000 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "1000 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "GUZMAN пищевой краситель 10 г",
+    "cleanTokens": [
+      "пищевой",
+      "краситель"
+    ],
+    "normalizedTokens": [
+      "пищевой",
+      "краситель",
+      "10 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "10 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "GUZMAN лазурный берег пищевой краситель 5 г",
+    "cleanTokens": [
+      "лазурный",
+      "берег",
+      "пищевой",
+      "краситель"
+    ],
+    "normalizedTokens": [
+      "лазурный",
+      "берег",
+      "пищевой",
+      "краситель",
+      "5 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "5 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Decoland вафельная бумага тонкая 25 листов",
+    "cleanTokens": [
+      "вафельная",
+      "бумага",
+      "тонкая",
+      "25",
+      "листов"
+    ],
+    "normalizedTokens": [
+      "вафельная",
+      "бумага",
+      "тонкая",
+      "25",
+      "листов"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Konditerka.kz арахисовые лепестки 500 г",
+    "cleanTokens": [
+      "арахисовые",
+      "лепестки"
+    ],
+    "normalizedTokens": [
+      "арахисовые",
+      "лепестки",
+      "500 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "500 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Колибри вафельный рожок 110 мм 340 шт",
+    "cleanTokens": [
+      "вафельный",
+      "рожок",
+      "110",
+      "мм"
+    ],
+    "normalizedTokens": [
+      "вафельный",
+      "рожок",
+      "110",
+      "мм",
+      "340 шт"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": "340 шт",
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "GUZMAN пищевой краситель 10 г",
+    "cleanTokens": [
+      "пищевой",
+      "краситель"
+    ],
+    "normalizedTokens": [
+      "пищевой",
+      "краситель",
+      "10 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "10 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "GUZMAN тёмно-синий пищевой краситель 5 г",
+    "cleanTokens": [
+      "темно-синий",
+      "пищевой",
+      "краситель"
+    ],
+    "normalizedTokens": [
+      "темно-синий",
+      "пищевой",
+      "краситель",
+      "5 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "5 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "GUZMAN серебряный блеск пищевой краситель 10 г",
+    "cleanTokens": [
+      "серебряный",
+      "блеск",
+      "пищевой",
+      "краситель"
+    ],
+    "normalizedTokens": [
+      "серебряный",
+      "блеск",
+      "пищевой",
+      "краситель",
+      "10 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "10 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "GUZMAN голубой небесный пищевой краситель 5 г",
+    "cleanTokens": [
+      "голубой",
+      "небесный",
+      "пищевой",
+      "краситель"
+    ],
+    "normalizedTokens": [
+      "голубой",
+      "небесный",
+      "пищевой",
+      "краситель",
+      "5 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "5 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Polezzno Кокосовая стружка 100 г",
+    "cleanTokens": [
+      "кокосовая",
+      "стружка"
+    ],
+    "normalizedTokens": [
+      "кокосовая",
+      "стружка",
+      "100 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "100 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "GUZMAN оранжевый пищевой краситель 5 г",
+    "cleanTokens": [
+      "оранжевый",
+      "пищевой",
+      "краситель"
+    ],
+    "normalizedTokens": [
+      "оранжевый",
+      "пищевой",
+      "краситель",
+      "5 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "5 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "GUZMAN жёлтый электрик пищевой краситель 5 г",
+    "cleanTokens": [
+      "желтый",
+      "электрик",
+      "пищевой",
+      "краситель"
+    ],
+    "normalizedTokens": [
+      "желтый",
+      "электрик",
+      "пищевой",
+      "краситель",
+      "5 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "5 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "GUZMAN розовый блеск пищевой краситель 10 г",
+    "cleanTokens": [
+      "розовый",
+      "блеск",
+      "пищевой",
+      "краситель"
+    ],
+    "normalizedTokens": [
+      "розовый",
+      "блеск",
+      "пищевой",
+      "краситель",
+      "10 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "10 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "GUZMAN тархун пищевой краситель 5 г",
+    "cleanTokens": [
+      "тархун",
+      "пищевой",
+      "краситель"
+    ],
+    "normalizedTokens": [
+      "тархун",
+      "пищевой",
+      "краситель",
+      "5 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "5 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "GUZMAN пищевой краситель 10 г",
+    "cleanTokens": [
+      "пищевой",
+      "краситель"
+    ],
+    "normalizedTokens": [
+      "пищевой",
+      "краситель",
+      "10 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "10 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "GUZMAN пищевой краситель 10 г",
+    "cleanTokens": [
+      "пищевой",
+      "краситель"
+    ],
+    "normalizedTokens": [
+      "пищевой",
+      "краситель",
+      "10 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "10 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "GUZMAN коричневый ореховый пищевой краситель 5 г",
+    "cleanTokens": [
+      "коричневый",
+      "ореховый",
+      "пищевой",
+      "краситель"
+    ],
+    "normalizedTokens": [
+      "коричневый",
+      "ореховый",
+      "пищевой",
+      "краситель",
+      "5 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "5 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "GUZMAN пищевой краситель 10 г",
+    "cleanTokens": [
+      "пищевой",
+      "краситель"
+    ],
+    "normalizedTokens": [
+      "пищевой",
+      "краситель",
+      "10 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "10 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "GUZMAN бургунди пищевой краситель 5 г",
+    "cleanTokens": [
+      "бургунди",
+      "пищевой",
+      "краситель"
+    ],
+    "normalizedTokens": [
+      "бургунди",
+      "пищевой",
+      "краситель",
+      "5 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "5 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Decoland вафельная бумага 0.6 мм 320 г",
+    "cleanTokens": [
+      "вафельная",
+      "бумага",
+      "0.6",
+      "мм"
+    ],
+    "normalizedTokens": [
+      "вафельная",
+      "бумага",
+      "0.6",
+      "мм",
+      "320 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "320 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "GUZMAN пищевой краситель 10 г",
+    "cleanTokens": [
+      "пищевой",
+      "краситель"
+    ],
+    "normalizedTokens": [
+      "пищевой",
+      "краситель",
+      "10 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "10 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "GUZMAN пищевой краситель 10 г",
+    "cleanTokens": [
+      "пищевой",
+      "краситель"
+    ],
+    "normalizedTokens": [
+      "пищевой",
+      "краситель",
+      "10 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "10 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "GUZMAN пищевой краситель 10 г",
+    "cleanTokens": [
+      "пищевой",
+      "краситель"
+    ],
+    "normalizedTokens": [
+      "пищевой",
+      "краситель",
+      "10 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "10 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "GUZMAN фиолетовый пищевой краситель 5 г",
+    "cleanTokens": [
+      "фиолетовый",
+      "пищевой",
+      "краситель"
+    ],
+    "normalizedTokens": [
+      "фиолетовый",
+      "пищевой",
+      "краситель",
+      "5 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "5 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "GUZMAN зеленый блеск пищевой краситель 10 г",
+    "cleanTokens": [
+      "зеленый",
+      "блеск",
+      "пищевой",
+      "краситель"
+    ],
+    "normalizedTokens": [
+      "зеленый",
+      "блеск",
+      "пищевой",
+      "краситель",
+      "10 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "10 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "GUZMAN пищевой краситель 10 г",
+    "cleanTokens": [
+      "пищевой",
+      "краситель"
+    ],
+    "normalizedTokens": [
+      "пищевой",
+      "краситель",
+      "10 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "10 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "GUZMAN тиффани пищевой краситель 5 г",
+    "cleanTokens": [
+      "тиффани",
+      "пищевой",
+      "краситель"
+    ],
+    "normalizedTokens": [
+      "тиффани",
+      "пищевой",
+      "краситель",
+      "5 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "5 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "GUZMAN жёлтый пищевой краситель 5 г",
+    "cleanTokens": [
+      "желтый",
+      "пищевой",
+      "краситель"
+    ],
+    "normalizedTokens": [
+      "желтый",
+      "пищевой",
+      "краситель",
+      "5 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "5 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "GUZMAN пищевой краситель 10 г",
+    "cleanTokens": [
+      "пищевой",
+      "краситель"
+    ],
+    "normalizedTokens": [
+      "пищевой",
+      "краситель",
+      "10 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "10 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "GUZMAN малиново-розовый пищевой краситель 5 г",
+    "cleanTokens": [
+      "малиново-розовый",
+      "пищевой",
+      "краситель"
+    ],
+    "normalizedTokens": [
+      "малиново-розовый",
+      "пищевой",
+      "краситель",
+      "5 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "5 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "GUZMAN жёлтый яичный пищевой краситель 5 г",
+    "cleanTokens": [
+      "желтый",
+      "яичный",
+      "пищевой",
+      "краситель"
+    ],
+    "normalizedTokens": [
+      "желтый",
+      "яичный",
+      "пищевой",
+      "краситель",
+      "5 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "5 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "GUZMAN пищевой краситель оливковый 5 г",
+    "cleanTokens": [
+      "пищевой",
+      "краситель",
+      "оливковый"
+    ],
+    "normalizedTokens": [
+      "пищевой",
+      "краситель",
+      "оливковый",
+      "5 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "5 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "GUZMAN пищевой краситель 10 г",
+    "cleanTokens": [
+      "пищевой",
+      "краситель"
+    ],
+    "normalizedTokens": [
+      "пищевой",
+      "краситель",
+      "10 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "10 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "GUZMAN пищевой краситель 10 г",
+    "cleanTokens": [
+      "пищевой",
+      "краситель"
+    ],
+    "normalizedTokens": [
+      "пищевой",
+      "краситель",
+      "10 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "10 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "GUZMAN пищевой краситель 10 г",
+    "cleanTokens": [
+      "пищевой",
+      "краситель"
+    ],
+    "normalizedTokens": [
+      "пищевой",
+      "краситель",
+      "10 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "10 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "CALLEBAUT капсулы для трюфелей из белого шоколада 240 г",
+    "cleanTokens": [
+      "капсулы",
+      "трюфелей",
+      "из",
+      "белого",
+      "шоколада"
+    ],
+    "normalizedTokens": [
+      "капсулы",
+      "трюфелей",
+      "из",
+      "белого",
+      "шоколада",
+      "240 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "240 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "GUZMAN тёмно-коричневый пищевой краситель 5 г",
+    "cleanTokens": [
+      "темно-коричневый",
+      "пищевой",
+      "краситель"
+    ],
+    "normalizedTokens": [
+      "темно-коричневый",
+      "пищевой",
+      "краситель",
+      "5 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "5 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "GUZMAN пищевой краситель 10 г",
+    "cleanTokens": [
+      "пищевой",
+      "краситель"
+    ],
+    "normalizedTokens": [
+      "пищевой",
+      "краситель",
+      "10 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "10 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "GUZMAN зелёный рождественский пищевой краситель 5 г",
+    "cleanTokens": [
+      "зеленый",
+      "рождественский",
+      "пищевой",
+      "краситель"
+    ],
+    "normalizedTokens": [
+      "зеленый",
+      "рождественский",
+      "пищевой",
+      "краситель",
+      "5 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "5 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "GUZMAN пищевой краситель 10 г",
+    "cleanTokens": [
+      "пищевой",
+      "краситель"
+    ],
+    "normalizedTokens": [
+      "пищевой",
+      "краситель",
+      "10 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "10 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "GUZMAN красный томатный пищевой краситель 5 г",
+    "cleanTokens": [
+      "красный",
+      "томатный",
+      "пищевой",
+      "краситель"
+    ],
+    "normalizedTokens": [
+      "красный",
+      "томатный",
+      "пищевой",
+      "краситель",
+      "5 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "5 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "GUZMAN пищевой краситель 10 г",
+    "cleanTokens": [
+      "пищевой",
+      "краситель"
+    ],
+    "normalizedTokens": [
+      "пищевой",
+      "краситель",
+      "10 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "10 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "GUZMAN лайм пищевой краситель 5 г",
+    "cleanTokens": [
+      "лайм",
+      "пищевой",
+      "краситель"
+    ],
+    "normalizedTokens": [
+      "лайм",
+      "пищевой",
+      "краситель",
+      "5 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "5 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "GUZMAN пищевой краситель 10 г",
+    "cleanTokens": [
+      "пищевой",
+      "краситель"
+    ],
+    "normalizedTokens": [
+      "пищевой",
+      "краситель",
+      "10 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "10 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "GUZMAN пищевой краситель серый 5 г",
+    "cleanTokens": [
+      "пищевой",
+      "краситель",
+      "серый"
+    ],
+    "normalizedTokens": [
+      "пищевой",
+      "краситель",
+      "серый",
+      "5 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "5 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "GUZMAN зелёное яблоко пищевой краситель 5 г",
+    "cleanTokens": [
+      "зеленое",
+      "яблоко",
+      "пищевой",
+      "краситель"
+    ],
+    "normalizedTokens": [
+      "зеленое",
+      "яблоко",
+      "пищевой",
+      "краситель",
+      "5 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "5 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  }
+]

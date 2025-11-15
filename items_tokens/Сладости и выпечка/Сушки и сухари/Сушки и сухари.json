@@ -1,0 +1,266 @@
+[
+  {
+    "original": "БКК сушки Малютка чайные 500 г",
+    "cleanTokens": [
+      "малютка",
+      "чайные"
+    ],
+    "normalizedTokens": [
+      "малютка",
+      "чайные",
+      "500 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "500 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Трапеза сухари сдобные ванильные 350 г",
+    "cleanTokens": [
+      "сдобные",
+      "ванильные"
+    ],
+    "normalizedTokens": [
+      "сдобные",
+      "ванильные",
+      "350 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "350 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "БКК сушки Малютка 500 г",
+    "cleanTokens": [
+      "малютка"
+    ],
+    "normalizedTokens": [
+      "малютка",
+      "500 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "500 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Трапеза сушки Челночок 350 г",
+    "cleanTokens": [
+      "челночок"
+    ],
+    "normalizedTokens": [
+      "челночок",
+      "350 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "350 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Трапеза сухари сдобные молочные 350 г",
+    "cleanTokens": [
+      "сдобные",
+      "молочные"
+    ],
+    "normalizedTokens": [
+      "сдобные",
+      "молочные",
+      "350 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "350 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Трапеза сухари сдобные с маком 350 г",
+    "cleanTokens": [
+      "сдобные",
+      "с",
+      "маком"
+    ],
+    "normalizedTokens": [
+      "сдобные",
+      "с",
+      "маком",
+      "350 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "350 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "БКК сушки Малютка ванильные 500 г",
+    "cleanTokens": [
+      "малютка",
+      "ванильные"
+    ],
+    "normalizedTokens": [
+      "малютка",
+      "ванильные",
+      "500 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "500 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "БКК баранки Сдобные без добавок 450 г",
+    "cleanTokens": [
+      "баранки",
+      "сдобные",
+      "без",
+      "добавок"
+    ],
+    "normalizedTokens": [
+      "баранки",
+      "сдобные",
+      "без",
+      "добавок",
+      "450 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "450 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "БКК баранки С маком 450 г",
+    "cleanTokens": [
+      "баранки",
+      "с",
+      "маком"
+    ],
+    "normalizedTokens": [
+      "баранки",
+      "с",
+      "маком",
+      "450 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "450 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "БКК сушки Малютка с маком 500 г",
+    "cleanTokens": [
+      "малютка",
+      "с",
+      "маком"
+    ],
+    "normalizedTokens": [
+      "малютка",
+      "с",
+      "маком",
+      "500 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "500 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "БКК сушки Малютка в сахарной глазури 500 г",
+    "cleanTokens": [
+      "малютка",
+      "в",
+      "сахарной",
+      "глазури"
+    ],
+    "normalizedTokens": [
+      "малютка",
+      "в",
+      "сахарной",
+      "глазури",
+      "500 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "500 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "БКК баранки К чаю 450 г",
+    "cleanTokens": [
+      "баранки",
+      "к",
+      "чаю"
+    ],
+    "normalizedTokens": [
+      "баранки",
+      "к",
+      "чаю",
+      "450 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "450 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  }
+]

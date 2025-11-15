@@ -1,0 +1,2090 @@
+[
+  {
+    "original": "Быстров Овсяная ассорти для гурманов 228 г",
+    "cleanTokens": [
+      "овсяная",
+      "ассорти",
+      "для",
+      "гурманов"
+    ],
+    "normalizedTokens": [
+      "овсяная",
+      "ассорти",
+      "для",
+      "гурманов",
+      "228 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "228 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Быстров каша овсяная клубника с молоком 40 г",
+    "cleanTokens": [
+      "каша",
+      "овсяная",
+      "клубника",
+      "с",
+      "молоком"
+    ],
+    "normalizedTokens": [
+      "каша",
+      "овсяная",
+      "клубника",
+      "с",
+      "молоком",
+      "40 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "40 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Гарнец Овсяная манка 400 г",
+    "cleanTokens": [
+      "овсяная",
+      "манка"
+    ],
+    "normalizedTokens": [
+      "овсяная",
+      "манка",
+      "400 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "400 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Yelli каша овсяная земляника и чиа 60 г",
+    "cleanTokens": [
+      "каша",
+      "овсяная",
+      "земляника",
+      "и",
+      "чиа"
+    ],
+    "normalizedTokens": [
+      "каша",
+      "овсяная",
+      "земляника",
+      "и",
+      "чиа",
+      "60 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "60 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Fit Effectum с зародышами пшеницы и топинамбуром 25 г",
+    "cleanTokens": [
+      "с",
+      "зародышами",
+      "пшеницы",
+      "и",
+      "топинамбуром"
+    ],
+    "normalizedTokens": [
+      "с",
+      "зародышами",
+      "пшеницы",
+      "и",
+      "топинамбуром",
+      "25 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "25 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Сташевское овсяные хлопья из голозерного овса без глютена 375 г",
+    "cleanTokens": [
+      "овсяные",
+      "из",
+      "голозерного",
+      "овса",
+      "без",
+      "глютена"
+    ],
+    "normalizedTokens": [
+      "овсяные",
+      "из",
+      "голозерного",
+      "овса",
+      "без",
+      "глютена",
+      "375 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "375 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Yelli каша кукурузная 120 г",
+    "cleanTokens": [
+      "каша",
+      "кукурузная"
+    ],
+    "normalizedTokens": [
+      "каша",
+      "кукурузная",
+      "120 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "120 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Yelli каша полбяная клюква и ягоды годжи 60 г",
+    "cleanTokens": [
+      "каша",
+      "полбяная",
+      "клюква",
+      "и",
+      "ягоды",
+      "годжи"
+    ],
+    "normalizedTokens": [
+      "каша",
+      "полбяная",
+      "клюква",
+      "и",
+      "ягоды",
+      "годжи",
+      "60 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "60 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "ЯСНО СОЛНЫШКО каша овсяная с абрикосом и черносливом 300 г",
+    "cleanTokens": [
+      "каша",
+      "овсяная",
+      "с",
+      "абрикосом",
+      "и",
+      "черносливом"
+    ],
+    "normalizedTokens": [
+      "каша",
+      "овсяная",
+      "с",
+      "абрикосом",
+      "и",
+      "черносливом",
+      "300 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "300 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Быстров Овсяная с клубникой 240 г",
+    "cleanTokens": [
+      "овсяная",
+      "с",
+      "клубникой"
+    ],
+    "normalizedTokens": [
+      "овсяная",
+      "с",
+      "клубникой",
+      "240 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "240 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "ЯСНО СОЛНЫШКО каша овсяная груша и изюм 300 г",
+    "cleanTokens": [
+      "каша",
+      "овсяная",
+      "груша",
+      "и",
+      "изюм"
+    ],
+    "normalizedTokens": [
+      "каша",
+      "овсяная",
+      "груша",
+      "и",
+      "изюм",
+      "300 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "300 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Yelli каша из поленты абрикос и арония 60 г",
+    "cleanTokens": [
+      "каша",
+      "из",
+      "поленты",
+      "абрикос",
+      "и",
+      "арония"
+    ],
+    "normalizedTokens": [
+      "каша",
+      "из",
+      "поленты",
+      "абрикос",
+      "и",
+      "арония",
+      "60 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "60 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Самарский Здоровяк каша овсяная, пшеничная с тыквой и шиповником 240 г",
+    "cleanTokens": [
+      "каша",
+      "овсяная",
+      "пшеничная",
+      "с",
+      "тыквой",
+      "и",
+      "шиповником"
+    ],
+    "normalizedTokens": [
+      "каша",
+      "овсяная",
+      "пшеничная",
+      "с",
+      "тыквой",
+      "и",
+      "шиповником",
+      "240 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "240 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мистраль каша овсяная, пшеничная, ячменная, гречневая, ржаная 400 г",
+    "cleanTokens": [
+      "каша",
+      "овсяная",
+      "пшеничная",
+      "ячменная",
+      "гречневая",
+      "ржаная"
+    ],
+    "normalizedTokens": [
+      "каша",
+      "овсяная",
+      "пшеничная",
+      "ячменная",
+      "гречневая",
+      "ржаная",
+      "400 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "400 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мистраль каша овсяная манго-персик 240 г",
+    "cleanTokens": [
+      "каша",
+      "овсяная",
+      "манго-персик"
+    ],
+    "normalizedTokens": [
+      "каша",
+      "овсяная",
+      "манго-персик",
+      "240 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "240 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мистраль каша овсяная 400 г",
+    "cleanTokens": [
+      "каша",
+      "овсяная"
+    ],
+    "normalizedTokens": [
+      "каша",
+      "овсяная",
+      "400 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "400 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Самарский Здоровяк каша гречневая, рисовая безглютеновая 240 г",
+    "cleanTokens": [
+      "каша",
+      "гречневая",
+      "рисовая",
+      "безглютеновая"
+    ],
+    "normalizedTokens": [
+      "каша",
+      "гречневая",
+      "рисовая",
+      "безглютеновая",
+      "240 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "240 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Масляный король каша пшеничная с зародышами пшеницы 300 г",
+    "cleanTokens": [
+      "каша",
+      "пшеничная",
+      "с",
+      "зародышами",
+      "пшеницы"
+    ],
+    "normalizedTokens": [
+      "каша",
+      "пшеничная",
+      "с",
+      "зародышами",
+      "пшеницы",
+      "300 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "300 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Эндакси каша манная, рисовая 450 г",
+    "cleanTokens": [
+      "каша",
+      "манная",
+      "рисовая"
+    ],
+    "normalizedTokens": [
+      "каша",
+      "манная",
+      "рисовая",
+      "450 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "450 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Эндакси каша манная, кукурузная 450 г",
+    "cleanTokens": [
+      "каша",
+      "манная",
+      "кукурузная"
+    ],
+    "normalizedTokens": [
+      "каша",
+      "манная",
+      "кукурузная",
+      "450 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "450 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Быстров Овсяная с лесными ягодами 40 г саше 1 шт",
+    "cleanTokens": [
+      "овсяная",
+      "с",
+      "лесными",
+      "ягодами",
+      "саше"
+    ],
+    "normalizedTokens": [
+      "овсяная",
+      "с",
+      "лесными",
+      "ягодами",
+      "40 г",
+      "саше",
+      "1 шт"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "40 г",
+      "count": "1 шт",
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Самарский Здоровяк Кейс-детокс из каш снижение веса 5 пакетов по 200 г",
+    "cleanTokens": [
+      "кейс-детокс",
+      "из",
+      "каш",
+      "снижение",
+      "веса",
+      "5",
+      "пакетов",
+      "по"
+    ],
+    "normalizedTokens": [
+      "кейс-детокс",
+      "из",
+      "каш",
+      "снижение",
+      "веса",
+      "5",
+      "пакетов",
+      "по",
+      "200 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "200 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Самарский Здоровяк Каша с пробиотиками и красным клевером 240 г",
+    "cleanTokens": [
+      "каша",
+      "с",
+      "пробиотиками",
+      "и",
+      "красным",
+      "клевером"
+    ],
+    "normalizedTokens": [
+      "каша",
+      "с",
+      "пробиотиками",
+      "и",
+      "красным",
+      "клевером",
+      "240 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "240 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Самарский Здоровяк Каша пшенично-рисовая с пробиотиками 240 г",
+    "cleanTokens": [
+      "каша",
+      "пшенично-рисовая",
+      "с",
+      "пробиотиками"
+    ],
+    "normalizedTokens": [
+      "каша",
+      "пшенично-рисовая",
+      "с",
+      "пробиотиками",
+      "240 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "240 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Леовит Худеем за неделю Пудинг с шоколадом саше 5 шт",
+    "cleanTokens": [
+      "худеем",
+      "за",
+      "неделю",
+      "пудинг",
+      "с",
+      "шоколадом",
+      "саше"
+    ],
+    "normalizedTokens": [
+      "худеем",
+      "за",
+      "неделю",
+      "пудинг",
+      "с",
+      "шоколадом",
+      "саше",
+      "5 шт"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": "5 шт",
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Самарский Здоровяк Каша пшенично-рисовая со льном 240 г",
+    "cleanTokens": [
+      "каша",
+      "пшенично-рисовая",
+      "со",
+      "льном"
+    ],
+    "normalizedTokens": [
+      "каша",
+      "пшенично-рисовая",
+      "со",
+      "льном",
+      "240 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "240 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Алфит Плюс каша льняная Диета 400 г",
+    "cleanTokens": [
+      "каша",
+      "льняная",
+      "диета"
+    ],
+    "normalizedTokens": [
+      "каша",
+      "льняная",
+      "диета",
+      "400 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "400 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Русский Продукт каша геркулес 35 г",
+    "cleanTokens": [
+      "каша",
+      "геркулес"
+    ],
+    "normalizedTokens": [
+      "каша",
+      "геркулес",
+      "35 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "35 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Русский Продукт каша геркулес с лесными ягодами 35 г",
+    "cleanTokens": [
+      "каша",
+      "геркулес",
+      "с",
+      "лесными",
+      "ягодами"
+    ],
+    "normalizedTokens": [
+      "каша",
+      "геркулес",
+      "с",
+      "лесными",
+      "ягодами",
+      "35 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "35 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Здоровая еда. Organic №25 Йодированная каша пшеничная, ячменная 200 г",
+    "cleanTokens": [
+      "№25",
+      "йодированная",
+      "каша",
+      "пшеничная",
+      "ячменная"
+    ],
+    "normalizedTokens": [
+      "№25",
+      "йодированная",
+      "каша",
+      "пшеничная",
+      "ячменная",
+      "200 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "200 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Русский Продукт каша геркулес 35 г",
+    "cleanTokens": [
+      "каша",
+      "геркулес"
+    ],
+    "normalizedTokens": [
+      "каша",
+      "геркулес",
+      "35 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "35 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Алфит Плюс каша льняная с гречневыми хлопьями 400 г",
+    "cleanTokens": [
+      "каша",
+      "льняная",
+      "с",
+      "гречневыми",
+      "хлопьями"
+    ],
+    "normalizedTokens": [
+      "каша",
+      "льняная",
+      "с",
+      "гречневыми",
+      "хлопьями",
+      "400 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "400 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Русский Продукт каша геркулес с абрикосом 35 г",
+    "cleanTokens": [
+      "каша",
+      "геркулес",
+      "с",
+      "абрикосом"
+    ],
+    "normalizedTokens": [
+      "каша",
+      "геркулес",
+      "с",
+      "абрикосом",
+      "35 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "35 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Русский Продукт каша геркулес 35 г",
+    "cleanTokens": [
+      "каша",
+      "геркулес"
+    ],
+    "normalizedTokens": [
+      "каша",
+      "геркулес",
+      "35 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "35 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Самарский Здоровяк каша овсяная, пшеничная с пергой 240 г",
+    "cleanTokens": [
+      "каша",
+      "овсяная",
+      "пшеничная",
+      "с",
+      "пергой"
+    ],
+    "normalizedTokens": [
+      "каша",
+      "овсяная",
+      "пшеничная",
+      "с",
+      "пергой",
+      "240 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "240 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Русский Продукт каша геркулес с тыквой и тыквенными семечками 35 г",
+    "cleanTokens": [
+      "каша",
+      "геркулес",
+      "с",
+      "тыквой",
+      "и",
+      "тыквенными",
+      "семечками"
+    ],
+    "normalizedTokens": [
+      "каша",
+      "геркулес",
+      "с",
+      "тыквой",
+      "и",
+      "тыквенными",
+      "семечками",
+      "35 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "35 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Русский Продукт каша геркулес с шоколадом 35 г",
+    "cleanTokens": [
+      "каша",
+      "геркулес",
+      "с",
+      "шоколадом"
+    ],
+    "normalizedTokens": [
+      "каша",
+      "геркулес",
+      "с",
+      "шоколадом",
+      "35 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "35 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Русский Продукт каша геркулес с малиной 35 г",
+    "cleanTokens": [
+      "каша",
+      "геркулес",
+      "с",
+      "малиной"
+    ],
+    "normalizedTokens": [
+      "каша",
+      "геркулес",
+      "с",
+      "малиной",
+      "35 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "35 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Самарский Здоровяк каша пшеничная с хитозаном 240 г",
+    "cleanTokens": [
+      "каша",
+      "пшеничная",
+      "с",
+      "хитозаном"
+    ],
+    "normalizedTokens": [
+      "каша",
+      "пшеничная",
+      "с",
+      "хитозаном",
+      "240 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "240 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Здоровая еда. Organic №37 Ламинария каша пшеничная 200 г",
+    "cleanTokens": [
+      "№37",
+      "ламинария",
+      "каша",
+      "пшеничная"
+    ],
+    "normalizedTokens": [
+      "№37",
+      "ламинария",
+      "каша",
+      "пшеничная",
+      "200 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "200 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Самарский Здоровяк каша кукурузная, пшеничная, с овсом 240 г",
+    "cleanTokens": [
+      "каша",
+      "кукурузная",
+      "пшеничная",
+      "с",
+      "овсом"
+    ],
+    "normalizedTokens": [
+      "каша",
+      "кукурузная",
+      "пшеничная",
+      "с",
+      "овсом",
+      "240 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "240 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Русский Продукт каша геркулес с яблоком 35 г",
+    "cleanTokens": [
+      "каша",
+      "геркулес",
+      "с",
+      "яблоком"
+    ],
+    "normalizedTokens": [
+      "каша",
+      "геркулес",
+      "с",
+      "яблоком",
+      "35 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "35 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Самарский Здоровяк №56 каша мультизерновая 240 г",
+    "cleanTokens": [
+      "№56",
+      "каша",
+      "мультизерновая"
+    ],
+    "normalizedTokens": [
+      "№56",
+      "каша",
+      "мультизерновая",
+      "240 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "240 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Здоровая еда. Organic №16 Волшебное зернышко каша кукурузная 200 г",
+    "cleanTokens": [
+      "№16",
+      "волшебное",
+      "зернышко",
+      "каша",
+      "кукурузная"
+    ],
+    "normalizedTokens": [
+      "№16",
+      "волшебное",
+      "зернышко",
+      "каша",
+      "кукурузная",
+      "200 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "200 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Русский Продукт каша геркулес 35 г",
+    "cleanTokens": [
+      "каша",
+      "геркулес"
+    ],
+    "normalizedTokens": [
+      "каша",
+      "геркулес",
+      "35 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "35 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Здоровая еда. Organic №33 Облепиховая каша пшеничная 200 г",
+    "cleanTokens": [
+      "№33",
+      "облепиховая",
+      "каша",
+      "пшеничная"
+    ],
+    "normalizedTokens": [
+      "№33",
+      "облепиховая",
+      "каша",
+      "пшеничная",
+      "200 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "200 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Здоровая еда. Organic №21 Энергичный День каша рисовая 200 г",
+    "cleanTokens": [
+      "№21",
+      "энергичный",
+      "день",
+      "каша",
+      "рисовая"
+    ],
+    "normalizedTokens": [
+      "№21",
+      "энергичный",
+      "день",
+      "каша",
+      "рисовая",
+      "200 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "200 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Здоровая еда. Organic №8 Чистый источник каша гречневая 200 г",
+    "cleanTokens": [
+      "№8",
+      "чистый",
+      "источник",
+      "каша",
+      "гречневая"
+    ],
+    "normalizedTokens": [
+      "№8",
+      "чистый",
+      "источник",
+      "каша",
+      "гречневая",
+      "200 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "200 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Алфит Плюс каша льняная с мукой расторопши 400 г",
+    "cleanTokens": [
+      "каша",
+      "льняная",
+      "с",
+      "мукой",
+      "расторопши"
+    ],
+    "normalizedTokens": [
+      "каша",
+      "льняная",
+      "с",
+      "мукой",
+      "расторопши",
+      "400 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "400 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Русский Продукт каша геркулес с зернами конопли и папайей 35 г",
+    "cleanTokens": [
+      "каша",
+      "геркулес",
+      "с",
+      "зернами",
+      "конопли",
+      "и",
+      "папайей"
+    ],
+    "normalizedTokens": [
+      "каша",
+      "геркулес",
+      "с",
+      "зернами",
+      "конопли",
+      "и",
+      "папайей",
+      "35 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "35 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Здоровая еда. Organic №5 Радость движения каша пшеничная 200 г",
+    "cleanTokens": [
+      "№5",
+      "радость",
+      "движения",
+      "каша",
+      "пшеничная"
+    ],
+    "normalizedTokens": [
+      "№5",
+      "радость",
+      "движения",
+      "каша",
+      "пшеничная",
+      "200 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "200 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Здоровая еда. Organic №30 Пшенично-Льняная каша пшеничная 200 г",
+    "cleanTokens": [
+      "№30",
+      "пшенично-льняная",
+      "каша",
+      "пшеничная"
+    ],
+    "normalizedTokens": [
+      "№30",
+      "пшенично-льняная",
+      "каша",
+      "пшеничная",
+      "200 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "200 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Здоровая еда. Organic №27 Янтарная каша пшеничная 200 г",
+    "cleanTokens": [
+      "№27",
+      "янтарная",
+      "каша",
+      "пшеничная"
+    ],
+    "normalizedTokens": [
+      "№27",
+      "янтарная",
+      "каша",
+      "пшеничная",
+      "200 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "200 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Самарский Здоровяк каша пшенично-овсяная с расторопшей, льном, топинамбуром и смородиной 240 г",
+    "cleanTokens": [
+      "каша",
+      "пшенично-овсяная",
+      "с",
+      "расторопшей",
+      "льном",
+      "топинамбуром",
+      "и",
+      "смородиной"
+    ],
+    "normalizedTokens": [
+      "каша",
+      "пшенично-овсяная",
+      "с",
+      "расторопшей",
+      "льном",
+      "топинамбуром",
+      "и",
+      "смородиной",
+      "240 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "240 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Здоровая еда. Organic №15 Царь-Каша каша полбяная 200 г",
+    "cleanTokens": [
+      "№15",
+      "царь-каша",
+      "каша",
+      "полбяная"
+    ],
+    "normalizedTokens": [
+      "№15",
+      "царь-каша",
+      "каша",
+      "полбяная",
+      "200 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "200 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Champ каша овсяная, льняная с малиной 40 г",
+    "cleanTokens": [
+      "каша",
+      "овсяная",
+      "льняная",
+      "с",
+      "малиной"
+    ],
+    "normalizedTokens": [
+      "каша",
+      "овсяная",
+      "льняная",
+      "с",
+      "малиной",
+      "40 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "40 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Здоровая еда. Organic №18 Прозрение каша пшеничная 200 г",
+    "cleanTokens": [
+      "№18",
+      "прозрение",
+      "каша",
+      "пшеничная"
+    ],
+    "normalizedTokens": [
+      "№18",
+      "прозрение",
+      "каша",
+      "пшеничная",
+      "200 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "200 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Здоровая еда. Organic №6 Активное долголетие каша пшеничная 200 г",
+    "cleanTokens": [
+      "№6",
+      "активное",
+      "долголетие",
+      "каша",
+      "пшеничная"
+    ],
+    "normalizedTokens": [
+      "№6",
+      "активное",
+      "долголетие",
+      "каша",
+      "пшеничная",
+      "200 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "200 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Здоровая еда. Organic каша пшеничная 200 г",
+    "cleanTokens": [
+      "каша",
+      "пшеничная"
+    ],
+    "normalizedTokens": [
+      "каша",
+      "пшеничная",
+      "200 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "200 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Самарский Здоровяк каша пшеничная со спирулиной и ламинарией 240 г",
+    "cleanTokens": [
+      "каша",
+      "пшеничная",
+      "со",
+      "спирулиной",
+      "и",
+      "ламинарией"
+    ],
+    "normalizedTokens": [
+      "каша",
+      "пшеничная",
+      "со",
+      "спирулиной",
+      "и",
+      "ламинарией",
+      "240 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "240 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Самарский Здоровяк каша гречневая, пшеничная с расторопшей и топинамбуром 240 г",
+    "cleanTokens": [
+      "каша",
+      "гречневая",
+      "пшеничная",
+      "с",
+      "расторопшей",
+      "и",
+      "топинамбуром"
+    ],
+    "normalizedTokens": [
+      "каша",
+      "гречневая",
+      "пшеничная",
+      "с",
+      "расторопшей",
+      "и",
+      "топинамбуром",
+      "240 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "240 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Здоровая еда. Organic №19 Родник каша пшеничная 200 г",
+    "cleanTokens": [
+      "№19",
+      "родник",
+      "каша",
+      "пшеничная"
+    ],
+    "normalizedTokens": [
+      "№19",
+      "родник",
+      "каша",
+      "пшеничная",
+      "200 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "200 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Здоровая еда. Organic №2 Знахарь каша пшеничная 200 г",
+    "cleanTokens": [
+      "№2",
+      "знахарь",
+      "каша",
+      "пшеничная"
+    ],
+    "normalizedTokens": [
+      "№2",
+      "знахарь",
+      "каша",
+      "пшеничная",
+      "200 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "200 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Champ каша овсяная, льняная с черникой 40 г",
+    "cleanTokens": [
+      "каша",
+      "овсяная",
+      "льняная",
+      "с",
+      "черникой"
+    ],
+    "normalizedTokens": [
+      "каша",
+      "овсяная",
+      "льняная",
+      "с",
+      "черникой",
+      "40 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "40 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Алфит Плюс каша льняная с кунжутом 400 г",
+    "cleanTokens": [
+      "каша",
+      "льняная",
+      "с",
+      "кунжутом"
+    ],
+    "normalizedTokens": [
+      "каша",
+      "льняная",
+      "с",
+      "кунжутом",
+      "400 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "400 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Здоровая еда. Organic №1 Омолаживающая каша пшеничная 200 г",
+    "cleanTokens": [
+      "№1",
+      "омолаживающая",
+      "каша",
+      "пшеничная"
+    ],
+    "normalizedTokens": [
+      "№1",
+      "омолаживающая",
+      "каша",
+      "пшеничная",
+      "200 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "200 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Русский Продукт каша геркулес с земляникой 35 г",
+    "cleanTokens": [
+      "каша",
+      "геркулес",
+      "с",
+      "земляникой"
+    ],
+    "normalizedTokens": [
+      "каша",
+      "геркулес",
+      "с",
+      "земляникой",
+      "35 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "35 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Русский Продукт каша геркулес с клубникой 35 г",
+    "cleanTokens": [
+      "каша",
+      "геркулес",
+      "с",
+      "клубникой"
+    ],
+    "normalizedTokens": [
+      "каша",
+      "геркулес",
+      "с",
+      "клубникой",
+      "35 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "35 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Здоровая еда. Organic Улыбка №10 каша пшеничная 200 г",
+    "cleanTokens": [
+      "улыбка",
+      "№10",
+      "каша",
+      "пшеничная"
+    ],
+    "normalizedTokens": [
+      "улыбка",
+      "№10",
+      "каша",
+      "пшеничная",
+      "200 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "200 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Здоровая еда. Organic №38 Стевия каша пшенная, гречневая, ячменная 200 г",
+    "cleanTokens": [
+      "№38",
+      "стевия",
+      "каша",
+      "пшенная",
+      "гречневая",
+      "ячменная"
+    ],
+    "normalizedTokens": [
+      "№38",
+      "стевия",
+      "каша",
+      "пшенная",
+      "гречневая",
+      "ячменная",
+      "200 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "200 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Fit Effectum Клубника 35 г",
+    "cleanTokens": [
+      "клубника"
+    ],
+    "normalizedTokens": [
+      "клубника",
+      "35 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "35 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Русский Продукт каша геркулес с одуванчиком и медом 35 г",
+    "cleanTokens": [
+      "каша",
+      "геркулес",
+      "с",
+      "одуванчиком",
+      "и",
+      "медом"
+    ],
+    "normalizedTokens": [
+      "каша",
+      "геркулес",
+      "с",
+      "одуванчиком",
+      "и",
+      "медом",
+      "35 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "35 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Самарский Здоровяк каша овсяная, пшеничная с виноградной косточкой 240 г",
+    "cleanTokens": [
+      "каша",
+      "овсяная",
+      "пшеничная",
+      "с",
+      "виноградной",
+      "косточкой"
+    ],
+    "normalizedTokens": [
+      "каша",
+      "овсяная",
+      "пшеничная",
+      "с",
+      "виноградной",
+      "косточкой",
+      "240 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "240 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Fit Effectum Черника 35 г",
+    "cleanTokens": [
+      "черника"
+    ],
+    "normalizedTokens": [
+      "черника",
+      "35 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "35 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Здоровая еда. Organic №22 Женская каша пшеничная 200 г",
+    "cleanTokens": [
+      "№22",
+      "женская",
+      "каша",
+      "пшеничная"
+    ],
+    "normalizedTokens": [
+      "№22",
+      "женская",
+      "каша",
+      "пшеничная",
+      "200 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "200 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мистраль Овсяная Ассорти из ягодных вкусов 6*40 г",
+    "cleanTokens": [
+      "овсяная",
+      "ассорти",
+      "из",
+      "ягодных",
+      "вкусов",
+      "6*40",
+      "г"
+    ],
+    "normalizedTokens": [
+      "овсяная",
+      "ассорти",
+      "из",
+      "ягодных",
+      "вкусов",
+      "6*40",
+      "г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Самарский Здоровяк каша овсяная, пшеничная с облепихой и арбузным семечком 240 г",
+    "cleanTokens": [
+      "каша",
+      "овсяная",
+      "пшеничная",
+      "с",
+      "облепихой",
+      "и",
+      "арбузным",
+      "семечком"
+    ],
+    "normalizedTokens": [
+      "каша",
+      "овсяная",
+      "пшеничная",
+      "с",
+      "облепихой",
+      "и",
+      "арбузным",
+      "семечком",
+      "240 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "240 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Самарский Здоровяк Каша пшеничная с кунжутом и амарантом 240 г",
+    "cleanTokens": [
+      "каша",
+      "пшеничная",
+      "с",
+      "кунжутом",
+      "и",
+      "амарантом"
+    ],
+    "normalizedTokens": [
+      "каша",
+      "пшеничная",
+      "с",
+      "кунжутом",
+      "и",
+      "амарантом",
+      "240 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "240 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Fit Effectum Белые грибы 25 г",
+    "cleanTokens": [
+      "белые",
+      "грибы"
+    ],
+    "normalizedTokens": [
+      "белые",
+      "грибы",
+      "25 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "25 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Русский Продукт каша овсяная, ячменная, ржаная, пшеничная с черносливом 35 г",
+    "cleanTokens": [
+      "каша",
+      "овсяная",
+      "ячменная",
+      "ржаная",
+      "пшеничная",
+      "с",
+      "черносливом"
+    ],
+    "normalizedTokens": [
+      "каша",
+      "овсяная",
+      "ячменная",
+      "ржаная",
+      "пшеничная",
+      "с",
+      "черносливом",
+      "35 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "35 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  }
+]

@@ -13,10 +13,11 @@ import { ModerationModule } from './moderation/moderation.module';
 import { OfferChannelsModule } from './offer-channels/offer-channels.module';
 import { ProductsModule } from './products/products.module';
 import { MerchantsModule } from './merchants/merchants.module';
-import { ProductLinkModule } from './product-links/product-link.module';
 import { PriceHistoryModule } from './price-history/price-history.module';
 import { ImportModule as WoltImportModule } from './import/wolt/import.module';
 import { ArbuzModule } from './import/arbuz/arbuz.module';
+import { ProductCategoriesModule } from './product-categories/product-categories.module';
+import { ProductOffersModule } from './product-offers/product-offers.module';
 
 @Module({
   imports: [
@@ -51,9 +52,10 @@ import { ArbuzModule } from './import/arbuz/arbuz.module';
 
     ProductsModule,
     MerchantsModule,
-    ProductLinkModule,
+    ProductOffersModule,
     PriceHistoryModule,
     ArbuzModule,
+    ProductCategoriesModule,
   ],
 })
 export class AppModule {}

@@ -1,0 +1,629 @@
+[
+  {
+    "original": "MAGNUM бараньи ребра мелкокусковая нарезка",
+    "cleanTokens": [
+      "бараньи",
+      "ребра",
+      "мелкокусковая",
+      "нарезка"
+    ],
+    "normalizedTokens": [
+      "бараньи",
+      "ребра",
+      "мелкокусковая",
+      "нарезка"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "MAGNUM говядина грудинка крупнокусковая нарезка",
+    "cleanTokens": [
+      "говядина",
+      "грудинка",
+      "крупнокусковая",
+      "нарезка"
+    ],
+    "normalizedTokens": [
+      "говядина",
+      "грудинка",
+      "крупнокусковая",
+      "нарезка"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "MAGNUM суп набор из баранины крупнокусковая нарезка 10% мяса 90% кости",
+    "cleanTokens": [
+      "суп",
+      "набор",
+      "из",
+      "баранины",
+      "крупнокусковая",
+      "нарезка",
+      "10%",
+      "мяса",
+      "кости"
+    ],
+    "normalizedTokens": [
+      "суп",
+      "набор",
+      "из",
+      "баранины",
+      "крупнокусковая",
+      "нарезка",
+      "10%",
+      "мяса",
+      "90%",
+      "кости"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "90%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "MAGNUM бедро баранины крупнокусковая нарезка",
+    "cleanTokens": [
+      "бедро",
+      "баранины",
+      "крупнокусковая",
+      "нарезка"
+    ],
+    "normalizedTokens": [
+      "бедро",
+      "баранины",
+      "крупнокусковая",
+      "нарезка"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "MAGNUM баранина нарезка на плов",
+    "cleanTokens": [
+      "баранина",
+      "нарезка",
+      "на",
+      "плов"
+    ],
+    "normalizedTokens": [
+      "баранина",
+      "нарезка",
+      "на",
+      "плов"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Черкизово окорок свиной бескостный замороженный",
+    "cleanTokens": [
+      "окорок",
+      "свиной",
+      "бескостный",
+      "замороженный"
+    ],
+    "normalizedTokens": [
+      "окорок",
+      "свиной",
+      "бескостный",
+      "замороженный"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "MAGNUM говядина шея крупнокусковая нарезка",
+    "cleanTokens": [
+      "говядина",
+      "шея",
+      "крупнокусковая",
+      "нарезка"
+    ],
+    "normalizedTokens": [
+      "говядина",
+      "шея",
+      "крупнокусковая",
+      "нарезка"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Черкизово лопатка свиная бескостная замороженная",
+    "cleanTokens": [
+      "лопатка",
+      "свиная",
+      "бескостная",
+      "замороженная"
+    ],
+    "normalizedTokens": [
+      "лопатка",
+      "свиная",
+      "бескостная",
+      "замороженная"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "MAGNUM говядина тазобедренный отруб",
+    "cleanTokens": [
+      "говядина",
+      "тазобедренный",
+      "отруб"
+    ],
+    "normalizedTokens": [
+      "говядина",
+      "тазобедренный",
+      "отруб"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Черкизово шейка свиная замороженная",
+    "cleanTokens": [
+      "шейка",
+      "свиная",
+      "замороженная"
+    ],
+    "normalizedTokens": [
+      "шейка",
+      "свиная",
+      "замороженная"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "MAGNUM баранина нарезка на шашлык",
+    "cleanTokens": [
+      "баранина",
+      "нарезка",
+      "на",
+      "шашлык"
+    ],
+    "normalizedTokens": [
+      "баранина",
+      "нарезка",
+      "на",
+      "шашлык"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "MAGNUM говядина нарезка для мант",
+    "cleanTokens": [
+      "говядина",
+      "нарезка",
+      "для",
+      "мант"
+    ],
+    "normalizedTokens": [
+      "говядина",
+      "нарезка",
+      "для",
+      "мант"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "MAGNUM баранья спинка крупнокусковая нарезка",
+    "cleanTokens": [
+      "баранья",
+      "спинка",
+      "крупнокусковая",
+      "нарезка"
+    ],
+    "normalizedTokens": [
+      "баранья",
+      "спинка",
+      "крупнокусковая",
+      "нарезка"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Черкизово карбонад свиной замороженный",
+    "cleanTokens": [
+      "карбонад",
+      "свиной",
+      "замороженный"
+    ],
+    "normalizedTokens": [
+      "карбонад",
+      "свиной",
+      "замороженный"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Черкизово вырезка свиная замороженная",
+    "cleanTokens": [
+      "вырезка",
+      "свиная",
+      "замороженная"
+    ],
+    "normalizedTokens": [
+      "вырезка",
+      "свиная",
+      "замороженная"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "MAGNUM баранина корейка крупнокусковая нарезка",
+    "cleanTokens": [
+      "баранина",
+      "корейка",
+      "крупнокусковая",
+      "нарезка"
+    ],
+    "normalizedTokens": [
+      "баранина",
+      "корейка",
+      "крупнокусковая",
+      "нарезка"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "MAGNUM мясо для фарша говяжье",
+    "cleanTokens": [
+      "для",
+      "фарша",
+      "говяжье"
+    ],
+    "normalizedTokens": [
+      "для",
+      "фарша",
+      "говяжье"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "MAGNUM баранина нарезка на манты",
+    "cleanTokens": [
+      "баранина",
+      "нарезка",
+      "на",
+      "манты"
+    ],
+    "normalizedTokens": [
+      "баранина",
+      "нарезка",
+      "на",
+      "манты"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "MAGNUM говядина лытка для холодца",
+    "cleanTokens": [
+      "говядина",
+      "лытка",
+      "для",
+      "холодца"
+    ],
+    "normalizedTokens": [
+      "говядина",
+      "лытка",
+      "для",
+      "холодца"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "MAGNUM казы конина",
+    "cleanTokens": [
+      "казы",
+      "конина"
+    ],
+    "normalizedTokens": [
+      "казы",
+      "конина"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "MAGNUM баранина нога крупнокусковая нарезка",
+    "cleanTokens": [
+      "баранина",
+      "нога",
+      "крупнокусковая",
+      "нарезка"
+    ],
+    "normalizedTokens": [
+      "баранина",
+      "нога",
+      "крупнокусковая",
+      "нарезка"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "KAZBEEF мякоть лопатки из мраморной говядины",
+    "cleanTokens": [
+      "мякоть",
+      "лопатки",
+      "из",
+      "мраморной",
+      "говядины"
+    ],
+    "normalizedTokens": [
+      "мякоть",
+      "лопатки",
+      "из",
+      "мраморной",
+      "говядины"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "MAGNUM жая конина",
+    "cleanTokens": [
+      "жая",
+      "конина"
+    ],
+    "normalizedTokens": [
+      "жая",
+      "конина"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "MAGNUM баранина лопатка на кости",
+    "cleanTokens": [
+      "баранина",
+      "лопатка",
+      "на",
+      "кости"
+    ],
+    "normalizedTokens": [
+      "баранина",
+      "лопатка",
+      "на",
+      "кости"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "KAZBEEF грудинка на кости из мраморной говядины",
+    "cleanTokens": [
+      "грудинка",
+      "на",
+      "кости",
+      "из",
+      "мраморной",
+      "говядины"
+    ],
+    "normalizedTokens": [
+      "грудинка",
+      "на",
+      "кости",
+      "из",
+      "мраморной",
+      "говядины"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "KAZBEEF ребра для гриля из мраморной говядины",
+    "cleanTokens": [
+      "ребра",
+      "для",
+      "гриля",
+      "из",
+      "мраморной",
+      "говядины"
+    ],
+    "normalizedTokens": [
+      "ребра",
+      "для",
+      "гриля",
+      "из",
+      "мраморной",
+      "говядины"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  }
+]

@@ -1,0 +1,1687 @@
+[
+  {
+    "original": "Дядя Ваня корнишоны по-французски 460 г",
+    "cleanTokens": [
+      "корнишоны",
+      "по-французски"
+    ],
+    "normalizedTokens": [
+      "корнишоны",
+      "по-французски",
+      "460 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "460 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Globus томаты черри 720 мл",
+    "cleanTokens": [
+      "томаты",
+      "черри"
+    ],
+    "normalizedTokens": [
+      "томаты",
+      "черри",
+      "720 мл"
+    ],
+    "params": {
+      "volume": "720 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Дядя Ваня икра из кабачков 460 г",
+    "cleanTokens": [
+      "икра",
+      "из",
+      "кабачков"
+    ],
+    "normalizedTokens": [
+      "икра",
+      "из",
+      "кабачков",
+      "460 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "460 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Bonduelle огурцы по-дижонски с медом и семенами горчицы 720 мл",
+    "cleanTokens": [
+      "огурцы",
+      "по-дижонски",
+      "с",
+      "медом",
+      "и",
+      "семенами",
+      "горчицы"
+    ],
+    "normalizedTokens": [
+      "огурцы",
+      "по-дижонски",
+      "с",
+      "медом",
+      "и",
+      "семенами",
+      "горчицы",
+      "720 мл"
+    ],
+    "params": {
+      "volume": "720 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Цин-Каз салат осенний 700 г",
+    "cleanTokens": [
+      "салат",
+      "осенний"
+    ],
+    "normalizedTokens": [
+      "салат",
+      "осенний",
+      "700 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "700 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Солёныч морковь по-корейски 450 г",
+    "cleanTokens": [
+      "морковь",
+      "по-корейски"
+    ],
+    "normalizedTokens": [
+      "морковь",
+      "по-корейски",
+      "450 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "450 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Lorado огурцы маринованные 6-9 см 680 г",
+    "cleanTokens": [
+      "огурцы",
+      "маринованные",
+      "6-9",
+      "см"
+    ],
+    "normalizedTokens": [
+      "огурцы",
+      "маринованные",
+      "6-9",
+      "см",
+      "680 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "680 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "AC маринованная морская капуста Классическая 380 г",
+    "cleanTokens": [
+      "маринованная",
+      "морская",
+      "капуста",
+      "классическая"
+    ],
+    "normalizedTokens": [
+      "маринованная",
+      "морская",
+      "капуста",
+      "классическая",
+      "380 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "380 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Primario огурцы маринованные 3-6 см 700 г",
+    "cleanTokens": [
+      "огурцы",
+      "маринованные",
+      "3-6",
+      "см"
+    ],
+    "normalizedTokens": [
+      "огурцы",
+      "маринованные",
+      "3-6",
+      "см",
+      "700 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "700 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Marinelle икра баклажановая нежная 510 г",
+    "cleanTokens": [
+      "икра",
+      "баклажановая",
+      "нежная"
+    ],
+    "normalizedTokens": [
+      "икра",
+      "баклажановая",
+      "нежная",
+      "510 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "510 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Солёныч пелюстка квашеная острая 850 г",
+    "cleanTokens": [
+      "пелюстка",
+      "квашеная",
+      "острая"
+    ],
+    "normalizedTokens": [
+      "пелюстка",
+      "квашеная",
+      "острая",
+      "850 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "850 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "MAGNUM помидоры зеленые бочковые 500 г",
+    "cleanTokens": [
+      "помидоры",
+      "зеленые",
+      "бочковые"
+    ],
+    "normalizedTokens": [
+      "помидоры",
+      "зеленые",
+      "бочковые",
+      "500 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "500 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Marinelle икра кабачковая нежная 510 г",
+    "cleanTokens": [
+      "икра",
+      "кабачковая",
+      "нежная"
+    ],
+    "normalizedTokens": [
+      "икра",
+      "кабачковая",
+      "нежная",
+      "510 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "510 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Globus томаты в томатном соке с базиликом 680 г",
+    "cleanTokens": [
+      "томаты",
+      "в",
+      "томатном",
+      "соке",
+      "с",
+      "базиликом"
+    ],
+    "normalizedTokens": [
+      "томаты",
+      "в",
+      "томатном",
+      "соке",
+      "с",
+      "базиликом",
+      "680 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "680 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Дядя Ваня томаты в томатном соке 680 мл",
+    "cleanTokens": [
+      "томаты",
+      "в",
+      "томатном",
+      "соке"
+    ],
+    "normalizedTokens": [
+      "томаты",
+      "в",
+      "томатном",
+      "соке",
+      "680 мл"
+    ],
+    "params": {
+      "volume": "680 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Primario огурцы маринованные 700 г",
+    "cleanTokens": [
+      "огурцы",
+      "маринованные"
+    ],
+    "normalizedTokens": [
+      "огурцы",
+      "маринованные",
+      "700 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "700 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Дядя Ваня икра из баклажанов по-балкански 460 г",
+    "cleanTokens": [
+      "икра",
+      "из",
+      "баклажанов",
+      "по-балкански"
+    ],
+    "normalizedTokens": [
+      "икра",
+      "из",
+      "баклажанов",
+      "по-балкански",
+      "460 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "460 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Дядя Ваня перец халапеньо 350 г",
+    "cleanTokens": [
+      "перец",
+      "халапеньо"
+    ],
+    "normalizedTokens": [
+      "перец",
+      "халапеньо",
+      "350 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "350 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "MAGNUM капуста квашеная в маринаде 500 г",
+    "cleanTokens": [
+      "капуста",
+      "квашеная",
+      "в",
+      "маринаде"
+    ],
+    "normalizedTokens": [
+      "капуста",
+      "квашеная",
+      "в",
+      "маринаде",
+      "500 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "500 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Marinelle икра овощная любительская 500 мл",
+    "cleanTokens": [
+      "икра",
+      "овощная",
+      "любительская"
+    ],
+    "normalizedTokens": [
+      "икра",
+      "овощная",
+      "любительская",
+      "500 мл"
+    ],
+    "params": {
+      "volume": "500 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Дядя Ваня лечо закарпатское 680 г",
+    "cleanTokens": [
+      "лечо",
+      "закарпатское"
+    ],
+    "normalizedTokens": [
+      "лечо",
+      "закарпатское",
+      "680 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "680 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Дядя Ваня ассорти овощное 720 мл",
+    "cleanTokens": [
+      "ассорти",
+      "овощное"
+    ],
+    "normalizedTokens": [
+      "ассорти",
+      "овощное",
+      "720 мл"
+    ],
+    "params": {
+      "volume": "720 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Globus ассорти из томатов и огурцов 680 г",
+    "cleanTokens": [
+      "ассорти",
+      "из",
+      "томатов",
+      "и",
+      "огурцов"
+    ],
+    "normalizedTokens": [
+      "ассорти",
+      "из",
+      "томатов",
+      "и",
+      "огурцов",
+      "680 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "680 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "MAGNUM огурцы соленые 500 г",
+    "cleanTokens": [
+      "огурцы",
+      "соленые"
+    ],
+    "normalizedTokens": [
+      "огурцы",
+      "соленые",
+      "500 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "500 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Дядя Ваня огурчики маринованные 950 г",
+    "cleanTokens": [
+      "огурчики",
+      "маринованные"
+    ],
+    "normalizedTokens": [
+      "огурчики",
+      "маринованные",
+      "950 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "950 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Primario патиссоны 700 г",
+    "cleanTokens": [
+      "патиссоны"
+    ],
+    "normalizedTokens": [
+      "патиссоны",
+      "700 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "700 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Дядя Ваня томаты маринованные 680 г",
+    "cleanTokens": [
+      "томаты",
+      "маринованные"
+    ],
+    "normalizedTokens": [
+      "томаты",
+      "маринованные",
+      "680 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "680 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Marinelle томаты деликатесные 720 мл",
+    "cleanTokens": [
+      "томаты",
+      "деликатесные"
+    ],
+    "normalizedTokens": [
+      "томаты",
+      "деликатесные",
+      "720 мл"
+    ],
+    "params": {
+      "volume": "720 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Globus огурцы маринованные 1500 мл",
+    "cleanTokens": [
+      "огурцы",
+      "маринованные"
+    ],
+    "normalizedTokens": [
+      "огурцы",
+      "маринованные",
+      "1500 мл"
+    ],
+    "params": {
+      "volume": "1500 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Primario ассорти №7 томаты, огурцы, патиссоны 700 г",
+    "cleanTokens": [
+      "ассорти",
+      "№7",
+      "томаты",
+      "огурцы",
+      "патиссоны"
+    ],
+    "normalizedTokens": [
+      "ассорти",
+      "№7",
+      "томаты",
+      "огурцы",
+      "патиссоны",
+      "700 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "700 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Дядя Ваня корнишоны по-французски 680 мл",
+    "cleanTokens": [
+      "корнишоны",
+      "по-французски"
+    ],
+    "normalizedTokens": [
+      "корнишоны",
+      "по-французски",
+      "680 мл"
+    ],
+    "params": {
+      "volume": "680 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Vici капуста морская в маринаде 150 г",
+    "cleanTokens": [
+      "капуста",
+      "морская",
+      "в",
+      "маринаде"
+    ],
+    "normalizedTokens": [
+      "капуста",
+      "морская",
+      "в",
+      "маринаде",
+      "150 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "150 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Дядя Ваня огурчики маринованные 1800 мл",
+    "cleanTokens": [
+      "огурчики",
+      "маринованные"
+    ],
+    "normalizedTokens": [
+      "огурчики",
+      "маринованные",
+      "1800 мл"
+    ],
+    "params": {
+      "volume": "1800 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Цин-Каз перец в масле с чесноком и зеленью 680 г",
+    "cleanTokens": [
+      "перец",
+      "в",
+      "масле",
+      "с",
+      "чесноком",
+      "и",
+      "зеленью"
+    ],
+    "normalizedTokens": [
+      "перец",
+      "в",
+      "масле",
+      "с",
+      "чесноком",
+      "и",
+      "зеленью",
+      "680 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "680 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Дядя Ваня по-тоскански 460 г",
+    "cleanTokens": [
+      "по-тоскански"
+    ],
+    "normalizedTokens": [
+      "по-тоскански",
+      "460 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "460 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Дядя Ваня закусочка венгерская 460 г",
+    "cleanTokens": [
+      "закусочка",
+      "венгерская"
+    ],
+    "normalizedTokens": [
+      "закусочка",
+      "венгерская",
+      "460 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "460 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Солёныч капуста квашеная пикантная 850 г",
+    "cleanTokens": [
+      "капуста",
+      "квашеная",
+      "пикантная"
+    ],
+    "normalizedTokens": [
+      "капуста",
+      "квашеная",
+      "пикантная",
+      "850 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "850 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Vici морская капуста в маринаде классическая 150 г",
+    "cleanTokens": [
+      "морская",
+      "капуста",
+      "в",
+      "маринаде",
+      "классическая"
+    ],
+    "normalizedTokens": [
+      "морская",
+      "капуста",
+      "в",
+      "маринаде",
+      "классическая",
+      "150 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "150 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Lorado корнишоны премиум 1-4 см 370 мл",
+    "cleanTokens": [
+      "корнишоны",
+      "премиум",
+      "1-4",
+      "см"
+    ],
+    "normalizedTokens": [
+      "корнишоны",
+      "премиум",
+      "1-4",
+      "см",
+      "370 мл"
+    ],
+    "params": {
+      "volume": "370 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Bonduelle отборный перец в густом томатном соусе 500 мл",
+    "cleanTokens": [
+      "отборный",
+      "перец",
+      "в",
+      "густом",
+      "томатном",
+      "соусе"
+    ],
+    "normalizedTokens": [
+      "отборный",
+      "перец",
+      "в",
+      "густом",
+      "томатном",
+      "соусе",
+      "500 мл"
+    ],
+    "params": {
+      "volume": "500 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Primario томаты маринованные слабокислые 2000 г",
+    "cleanTokens": [
+      "томаты",
+      "маринованные",
+      "слабокислые"
+    ],
+    "normalizedTokens": [
+      "томаты",
+      "маринованные",
+      "слабокислые",
+      "2000 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "2000 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Vici морская капуста по-корейски 150 г",
+    "cleanTokens": [
+      "морская",
+      "капуста",
+      "по-корейски"
+    ],
+    "normalizedTokens": [
+      "морская",
+      "капуста",
+      "по-корейски",
+      "150 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "150 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Vici морская капуста в маринаде 240 г",
+    "cleanTokens": [
+      "морская",
+      "капуста",
+      "в",
+      "маринаде"
+    ],
+    "normalizedTokens": [
+      "морская",
+      "капуста",
+      "в",
+      "маринаде",
+      "240 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "240 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Globus огурчики соленые старорусские 850 г",
+    "cleanTokens": [
+      "огурчики",
+      "соленые",
+      "старорусские"
+    ],
+    "normalizedTokens": [
+      "огурчики",
+      "соленые",
+      "старорусские",
+      "850 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "850 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Дядя Ваня восточные маринованные 680 мл",
+    "cleanTokens": [
+      "восточные",
+      "маринованные"
+    ],
+    "normalizedTokens": [
+      "восточные",
+      "маринованные",
+      "680 мл"
+    ],
+    "params": {
+      "volume": "680 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Globus огурчики Дунайский лес с ягодами можжевельника 500 мл",
+    "cleanTokens": [
+      "огурчики",
+      "дунайский",
+      "лес",
+      "с",
+      "ягодами",
+      "можжевельника"
+    ],
+    "normalizedTokens": [
+      "огурчики",
+      "дунайский",
+      "лес",
+      "с",
+      "ягодами",
+      "можжевельника",
+      "500 мл"
+    ],
+    "params": {
+      "volume": "500 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Дядя Ваня кабачки в аджике по-тбилисски 460 г",
+    "cleanTokens": [
+      "кабачки",
+      "в",
+      "аджике",
+      "по-тбилисски"
+    ],
+    "normalizedTokens": [
+      "кабачки",
+      "в",
+      "аджике",
+      "по-тбилисски",
+      "460 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "460 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Дядя Ваня одесские 350 г",
+    "cleanTokens": [
+      "одесские"
+    ],
+    "normalizedTokens": [
+      "одесские",
+      "350 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "350 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Brand Oil томаты вяленые по-итальянски с пряными травами 250 мл",
+    "cleanTokens": [
+      "томаты",
+      "вяленые",
+      "по-итальянски",
+      "с",
+      "пряными",
+      "травами"
+    ],
+    "normalizedTokens": [
+      "томаты",
+      "вяленые",
+      "по-итальянски",
+      "с",
+      "пряными",
+      "травами",
+      "250 мл"
+    ],
+    "params": {
+      "volume": "250 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Brand Oil томаты вяленые по-французски с дижонской горчицей 250 мл",
+    "cleanTokens": [
+      "томаты",
+      "вяленые",
+      "по-французски",
+      "с",
+      "дижонской",
+      "горчицей"
+    ],
+    "normalizedTokens": [
+      "томаты",
+      "вяленые",
+      "по-французски",
+      "с",
+      "дижонской",
+      "горчицей",
+      "250 мл"
+    ],
+    "params": {
+      "volume": "250 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Lorado корнишоны маринованные с добавлением меда 370 мл",
+    "cleanTokens": [
+      "корнишоны",
+      "маринованные",
+      "с",
+      "добавлением",
+      "меда"
+    ],
+    "normalizedTokens": [
+      "корнишоны",
+      "маринованные",
+      "с",
+      "добавлением",
+      "меда",
+      "370 мл"
+    ],
+    "params": {
+      "volume": "370 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "KYKNOS томат в собственном соку 400 г",
+    "cleanTokens": [
+      "томат",
+      "в",
+      "собственном",
+      "соку"
+    ],
+    "normalizedTokens": [
+      "томат",
+      "в",
+      "собственном",
+      "соку",
+      "400 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "400 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Солёныч капуста китайская квашеная острая 450 г",
+    "cleanTokens": [
+      "капуста",
+      "китайская",
+      "квашеная",
+      "острая"
+    ],
+    "normalizedTokens": [
+      "капуста",
+      "китайская",
+      "квашеная",
+      "острая",
+      "450 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "450 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "AC витаминный салат из морской капусты 380 г",
+    "cleanTokens": [
+      "витаминный",
+      "салат",
+      "из",
+      "морской",
+      "капусты"
+    ],
+    "normalizedTokens": [
+      "витаминный",
+      "салат",
+      "из",
+      "морской",
+      "капусты",
+      "380 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "380 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "KYKNOS томаты черри в собственном соку 400 г",
+    "cleanTokens": [
+      "томаты",
+      "черри",
+      "в",
+      "собственном",
+      "соку"
+    ],
+    "normalizedTokens": [
+      "томаты",
+      "черри",
+      "в",
+      "собственном",
+      "соку",
+      "400 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "400 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Скатерть-Самобранка ассорти корнишоны, томаты черри 720 мл",
+    "cleanTokens": [
+      "ассорти",
+      "корнишоны",
+      "томаты",
+      "черри"
+    ],
+    "normalizedTokens": [
+      "ассорти",
+      "корнишоны",
+      "томаты",
+      "черри",
+      "720 мл"
+    ],
+    "params": {
+      "volume": "720 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "KYKNOS томат в собственном соку 370 г",
+    "cleanTokens": [
+      "томат",
+      "в",
+      "собственном",
+      "соку"
+    ],
+    "normalizedTokens": [
+      "томат",
+      "в",
+      "собственном",
+      "соку",
+      "370 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "370 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Цин-Каз салат огуречный 700 г",
+    "cleanTokens": [
+      "салат",
+      "огуречный"
+    ],
+    "normalizedTokens": [
+      "салат",
+      "огуречный",
+      "700 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "700 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Солёныч салат витаминный в маринаде 450 г",
+    "cleanTokens": [
+      "салат",
+      "витаминный",
+      "в",
+      "маринаде"
+    ],
+    "normalizedTokens": [
+      "салат",
+      "витаминный",
+      "в",
+      "маринаде",
+      "450 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "450 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "KYKNOS томаты резаные 400 г",
+    "cleanTokens": [
+      "томаты",
+      "резаные"
+    ],
+    "normalizedTokens": [
+      "томаты",
+      "резаные",
+      "400 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "400 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Солёныч огурцы соленые 550 г",
+    "cleanTokens": [
+      "огурцы",
+      "соленые"
+    ],
+    "normalizedTokens": [
+      "огурцы",
+      "соленые",
+      "550 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "550 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "San Marcos перец халапеньо 210 г",
+    "cleanTokens": [
+      "перец",
+      "халапеньо"
+    ],
+    "normalizedTokens": [
+      "перец",
+      "халапеньо",
+      "210 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "210 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "KYKNOS томаты протертые в собственном соку 500 мл",
+    "cleanTokens": [
+      "томаты",
+      "протертые",
+      "в",
+      "собственном",
+      "соку"
+    ],
+    "normalizedTokens": [
+      "томаты",
+      "протертые",
+      "в",
+      "собственном",
+      "соку",
+      "500 мл"
+    ],
+    "params": {
+      "volume": "500 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Bibigo Sliced Kimchi кимчи 150 г",
+    "cleanTokens": [
+      "sliced",
+      "kimchi",
+      "кимчи"
+    ],
+    "normalizedTokens": [
+      "sliced",
+      "kimchi",
+      "кимчи",
+      "150 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "150 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Дядя Ваня перец чили 340 г",
+    "cleanTokens": [
+      "перец",
+      "чили"
+    ],
+    "normalizedTokens": [
+      "перец",
+      "чили",
+      "340 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "340 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Daesang кимчи готовое острое 80 г",
+    "cleanTokens": [
+      "кимчи",
+      "готовое",
+      "острое"
+    ],
+    "normalizedTokens": [
+      "кимчи",
+      "готовое",
+      "острое",
+      "80 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "80 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Hwageum Food танмуджи 350 г",
+    "cleanTokens": [
+      "танмуджи"
+    ],
+    "normalizedTokens": [
+      "танмуджи",
+      "350 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "350 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Daesang жаренный консервированный кимчи 160 г",
+    "cleanTokens": [
+      "жаренный",
+      "консервированный",
+      "кимчи"
+    ],
+    "normalizedTokens": [
+      "жаренный",
+      "консервированный",
+      "кимчи",
+      "160 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "160 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Mutti мелконарезанные в томатном соке 400 мл",
+    "cleanTokens": [
+      "мелконарезанные",
+      "в",
+      "томатном",
+      "соке"
+    ],
+    "normalizedTokens": [
+      "мелконарезанные",
+      "в",
+      "томатном",
+      "соке",
+      "400 мл"
+    ],
+    "params": {
+      "volume": "400 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Almito пепперони зеленый в рассоле 250 мл",
+    "cleanTokens": [
+      "пепперони",
+      "зеленый",
+      "в",
+      "рассоле"
+    ],
+    "normalizedTokens": [
+      "пепперони",
+      "зеленый",
+      "в",
+      "рассоле",
+      "250 мл"
+    ],
+    "params": {
+      "volume": "250 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Mutti очищенные целые в томатном соке 400 мл",
+    "cleanTokens": [
+      "очищенные",
+      "целые",
+      "в",
+      "томатном",
+      "соке"
+    ],
+    "normalizedTokens": [
+      "очищенные",
+      "целые",
+      "в",
+      "томатном",
+      "соке",
+      "400 мл"
+    ],
+    "params": {
+      "volume": "400 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  }
+]

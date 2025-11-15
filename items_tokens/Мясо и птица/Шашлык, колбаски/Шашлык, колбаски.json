@@ -1,0 +1,463 @@
+[
+  {
+    "original": "Boszhan колбаски для жарки баранина 150 г",
+    "cleanTokens": [
+      "для",
+      "жарки",
+      "баранина"
+    ],
+    "normalizedTokens": [
+      "для",
+      "жарки",
+      "баранина",
+      "150 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "150 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Boszhan колбаски для жарки баранина 450 г",
+    "cleanTokens": [
+      "для",
+      "жарки",
+      "баранина"
+    ],
+    "normalizedTokens": [
+      "для",
+      "жарки",
+      "баранина",
+      "450 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "450 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Qualiko шашлык бедра цыпленка бройлера Айдахо маринованные замороженные 1000 г",
+    "cleanTokens": [
+      "бедра",
+      "цыпленка",
+      "бройлера",
+      "айдахо",
+      "маринованные",
+      "замороженные"
+    ],
+    "normalizedTokens": [
+      "бедра",
+      "цыпленка",
+      "бройлера",
+      "айдахо",
+      "маринованные",
+      "замороженные",
+      "1000 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "1000 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Рубиком колбаски для жарки дачные свиные",
+    "cleanTokens": [
+      "для",
+      "жарки",
+      "дачные",
+      "свиные"
+    ],
+    "normalizedTokens": [
+      "для",
+      "жарки",
+      "дачные",
+      "свиные"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мираторг колбаски для жарки чевапчичи из мраморной говядины 300 г",
+    "cleanTokens": [
+      "для",
+      "жарки",
+      "чевапчичи",
+      "из",
+      "мраморной",
+      "говядины"
+    ],
+    "normalizedTokens": [
+      "для",
+      "жарки",
+      "чевапчичи",
+      "из",
+      "мраморной",
+      "говядины",
+      "300 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "300 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "ADAL FOOD колбаски для жарки гриль 450 г",
+    "cleanTokens": [
+      "для",
+      "жарки",
+      "гриль"
+    ],
+    "normalizedTokens": [
+      "для",
+      "жарки",
+      "гриль",
+      "450 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "450 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "MAGNUM шашлык из куриных крыльев",
+    "cleanTokens": [
+      "из",
+      "куриных",
+      "крыльев"
+    ],
+    "normalizedTokens": [
+      "из",
+      "куриных",
+      "крыльев"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Рубиком колбаски для жарки куриные",
+    "cleanTokens": [
+      "для",
+      "жарки",
+      "куриные"
+    ],
+    "normalizedTokens": [
+      "для",
+      "жарки",
+      "куриные"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "ADAL FOOD колбаски для жарки колбаски гриль 450 г",
+    "cleanTokens": [
+      "для",
+      "жарки",
+      "гриль"
+    ],
+    "normalizedTokens": [
+      "для",
+      "жарки",
+      "гриль",
+      "450 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "450 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Qualiko шашлык крылышки цыпленка бройлера маринованные сладкий чили замороженные 1000 г",
+    "cleanTokens": [
+      "крылышки",
+      "цыпленка",
+      "бройлера",
+      "маринованные",
+      "сладкий",
+      "чили",
+      "замороженные"
+    ],
+    "normalizedTokens": [
+      "крылышки",
+      "цыпленка",
+      "бройлера",
+      "маринованные",
+      "сладкий",
+      "чили",
+      "замороженные",
+      "1000 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "1000 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "ADAL FOOD колбаски для жарки колбаски гриль 450 г",
+    "cleanTokens": [
+      "для",
+      "жарки",
+      "гриль"
+    ],
+    "normalizedTokens": [
+      "для",
+      "жарки",
+      "гриль",
+      "450 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "450 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Shaurma-Food шашлык из окорочков 1000 г",
+    "cleanTokens": [
+      "из",
+      "окорочков"
+    ],
+    "normalizedTokens": [
+      "из",
+      "окорочков",
+      "1000 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "1000 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "MAGNUM шашлык из баранины",
+    "cleanTokens": [
+      "из",
+      "баранины"
+    ],
+    "normalizedTokens": [
+      "из",
+      "баранины"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Максимальный размах колбаски для жарки пражские 1000 г",
+    "cleanTokens": [
+      "для",
+      "жарки",
+      "пражские"
+    ],
+    "normalizedTokens": [
+      "для",
+      "жарки",
+      "пражские",
+      "1000 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "1000 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Shaurma-Food шашлык крылышки куриные 1000 г",
+    "cleanTokens": [
+      "крылышки",
+      "куриные"
+    ],
+    "normalizedTokens": [
+      "крылышки",
+      "куриные",
+      "1000 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "1000 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Qualiko шашлык томат и базилик 1000 г",
+    "cleanTokens": [
+      "томат",
+      "базилик"
+    ],
+    "normalizedTokens": [
+      "томат",
+      "базилик",
+      "1000 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "1000 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Shaurma-Food шашлык филе курицы 1000 г",
+    "cleanTokens": [
+      "филе",
+      "курицы"
+    ],
+    "normalizedTokens": [
+      "филе",
+      "курицы",
+      "1000 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "1000 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "MAGNUM шашлык баранина мякоть",
+    "cleanTokens": [
+      "баранина",
+      "мякоть"
+    ],
+    "normalizedTokens": [
+      "баранина",
+      "мякоть"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Максимальный размах колбаски для жарки пражские 500 г",
+    "cleanTokens": [
+      "для",
+      "жарки",
+      "пражские"
+    ],
+    "normalizedTokens": [
+      "для",
+      "жарки",
+      "пражские",
+      "500 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "500 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Shaurma-Food шашлык утка 1000 г",
+    "cleanTokens": [
+      "утка"
+    ],
+    "normalizedTokens": [
+      "утка",
+      "1000 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "1000 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  }
+]

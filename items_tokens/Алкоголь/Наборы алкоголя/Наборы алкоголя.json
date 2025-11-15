@@ -1,0 +1,565 @@
+[
+  {
+    "original": "Perrier Jouet Belle Epoque шампанское 12% 750 мл",
+    "cleanTokens": [
+      "belle",
+      "epoque",
+      "шампанское"
+    ],
+    "normalizedTokens": [
+      "belle",
+      "epoque",
+      "шампанское",
+      "12%",
+      "750 мл"
+    ],
+    "params": {
+      "volume": "750 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "12%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Drumshanbo Gunpowder Irish Gin джин 43% 0.7 л",
+    "cleanTokens": [
+      "irish",
+      "gin",
+      "джин"
+    ],
+    "normalizedTokens": [
+      "irish",
+      "gin",
+      "джин",
+      "43%",
+      "0.7 л"
+    ],
+    "params": {
+      "volume": "0.7 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "43%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Perrier Jouet Blanc de Blancs вино 12% 750 мл",
+    "cleanTokens": [
+      "blanc",
+      "de",
+      "blancs",
+      "вино"
+    ],
+    "normalizedTokens": [
+      "blanc",
+      "de",
+      "blancs",
+      "вино",
+      "12%",
+      "750 мл"
+    ],
+    "params": {
+      "volume": "750 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "12%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Царская водка 40% 0.7 л",
+    "cleanTokens": [
+      "водка"
+    ],
+    "normalizedTokens": [
+      "водка",
+      "40%",
+      "0.7 л"
+    ],
+    "params": {
+      "volume": "0.7 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "40%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Коньяк Proshyan Армянский Поздравительный 40% 0.5 л",
+    "cleanTokens": [
+      "коньяк",
+      "армянский",
+      "поздравительный"
+    ],
+    "normalizedTokens": [
+      "коньяк",
+      "армянский",
+      "поздравительный",
+      "40%",
+      "0.5 л"
+    ],
+    "params": {
+      "volume": "0.5 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "40%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Mclain виски 40% 750 мл",
+    "cleanTokens": [
+      "виски"
+    ],
+    "normalizedTokens": [
+      "виски",
+      "40%",
+      "750 мл"
+    ],
+    "params": {
+      "volume": "750 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "40%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Grants виски 40% 0.7 л",
+    "cleanTokens": [
+      "grants",
+      "виски"
+    ],
+    "normalizedTokens": [
+      "grants",
+      "виски",
+      "40%",
+      "0.7 л"
+    ],
+    "params": {
+      "volume": "0.7 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "40%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Jameson виски 40% 700 мл",
+    "cleanTokens": [
+      "виски"
+    ],
+    "normalizedTokens": [
+      "виски",
+      "40%",
+      "700 мл"
+    ],
+    "params": {
+      "volume": "700 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "40%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Metaxa 5 stars вермут 38% 0.7 л",
+    "cleanTokens": [
+      "5",
+      "stars",
+      "вермут"
+    ],
+    "normalizedTokens": [
+      "5",
+      "stars",
+      "вермут",
+      "38%",
+      "0.7 л"
+    ],
+    "params": {
+      "volume": "0.7 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "38%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Bacardi ром 40% 0.7 л, Schweppes тоник 330 мл 2 шт",
+    "cleanTokens": [
+      "ром",
+      "0.7",
+      "л",
+      "schweppes",
+      "тоник"
+    ],
+    "normalizedTokens": [
+      "ром",
+      "40%",
+      "0.7 л",
+      "schweppes",
+      "тоник",
+      "330 мл",
+      "2 шт"
+    ],
+    "params": {
+      "volume": "330 мл",
+      "weight": null,
+      "count": "2 шт",
+      "pack": null,
+      "percent": "40%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Green Steppe Winter водка 40% 0.5 л",
+    "cleanTokens": [
+      "winter",
+      "водка"
+    ],
+    "normalizedTokens": [
+      "winter",
+      "водка",
+      "40%",
+      "0.5 л"
+    ],
+    "params": {
+      "volume": "0.5 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "40%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Johnnie Walker Black Label 12 YO 40% 0.7 л",
+    "cleanTokens": [
+      "black",
+      "label"
+    ],
+    "normalizedTokens": [
+      "black",
+      "label",
+      "12 YO",
+      "40%",
+      "0.7 л"
+    ],
+    "params": {
+      "volume": "0.7 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "40%",
+      "age": "12 YO",
+      "stars": null
+    }
+  },
+  {
+    "original": "Paulaner пиво 5.5% 1500 мл",
+    "cleanTokens": [
+      "пиво"
+    ],
+    "normalizedTokens": [
+      "пиво",
+      "5.5%",
+      "1500 мл"
+    ],
+    "params": {
+      "volume": "1500 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "5.5%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Dewar`s 8 YO виски 40% 0.7 л",
+    "cleanTokens": [
+      "виски"
+    ],
+    "normalizedTokens": [
+      "8 YO",
+      "виски",
+      "40%",
+      "0.7 л"
+    ],
+    "params": {
+      "volume": "0.7 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "40%",
+      "age": "8 YO",
+      "stars": null
+    }
+  },
+  {
+    "original": "Monkey Shoulder виски 40% 700 мл",
+    "cleanTokens": [
+      "виски"
+    ],
+    "normalizedTokens": [
+      "виски",
+      "40%",
+      "700 мл"
+    ],
+    "params": {
+      "volume": "700 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "40%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Jack Daniels Tennessee Apple виски 35% 0.7 л",
+    "cleanTokens": [
+      "tennessee",
+      "apple",
+      "виски"
+    ],
+    "normalizedTokens": [
+      "tennessee",
+      "apple",
+      "виски",
+      "35%",
+      "0.7 л"
+    ],
+    "params": {
+      "volume": "0.7 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "35%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Glenfiddich 12 YO виски 40% 0.7 л",
+    "cleanTokens": [
+      "виски"
+    ],
+    "normalizedTokens": [
+      "12 YO",
+      "виски",
+      "40%",
+      "0.7 л"
+    ],
+    "params": {
+      "volume": "0.7 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "40%",
+      "age": "12 YO",
+      "stars": null
+    }
+  },
+  {
+    "original": "Beluga Noble Russian Vodka водка 40% 0.7 л",
+    "cleanTokens": [
+      "noble",
+      "russian",
+      "vodka",
+      "водка"
+    ],
+    "normalizedTokens": [
+      "noble",
+      "russian",
+      "vodka",
+      "водка",
+      "40%",
+      "0.7 л"
+    ],
+    "params": {
+      "volume": "0.7 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "40%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Tullamore D.e.w. виски 40% 0.7 л",
+    "cleanTokens": [
+      "виски"
+    ],
+    "normalizedTokens": [
+      "виски",
+      "40%",
+      "0.7 л"
+    ],
+    "params": {
+      "volume": "0.7 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "40%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Mumm шампанское 12.5% 750 мл,  2 бокала",
+    "cleanTokens": [
+      "шампанское",
+      "2",
+      "бокала"
+    ],
+    "normalizedTokens": [
+      "шампанское",
+      "12.5%",
+      "750 мл",
+      "2",
+      "бокала"
+    ],
+    "params": {
+      "volume": "750 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "12.5%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Tullamore D.e.w. виски 40% 0.7 л",
+    "cleanTokens": [
+      "виски"
+    ],
+    "normalizedTokens": [
+      "виски",
+      "40%",
+      "0.7 л"
+    ],
+    "params": {
+      "volume": "0.7 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "40%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Green Steppe Summer водка 40% 0.5 л",
+    "cleanTokens": [
+      "summer",
+      "водка"
+    ],
+    "normalizedTokens": [
+      "summer",
+      "водка",
+      "40%",
+      "0.5 л"
+    ],
+    "params": {
+      "volume": "0.5 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "40%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Grant`s Triple Wood викси 40% 0.7 л",
+    "cleanTokens": [
+      "triple",
+      "wood",
+      "викси"
+    ],
+    "normalizedTokens": [
+      "triple",
+      "wood",
+      "викси",
+      "40%",
+      "0.7 л"
+    ],
+    "params": {
+      "volume": "0.7 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "40%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Johnnie Walker виски 40% 0.7 л",
+    "cleanTokens": [
+      "виски"
+    ],
+    "normalizedTokens": [
+      "виски",
+      "40%",
+      "0.7 л"
+    ],
+    "params": {
+      "volume": "0.7 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "40%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Ballantines Finest виски 40% 0.7 л",
+    "cleanTokens": [
+      "ballantines",
+      "finest",
+      "виски"
+    ],
+    "normalizedTokens": [
+      "ballantines",
+      "finest",
+      "виски",
+      "40%",
+      "0.7 л"
+    ],
+    "params": {
+      "volume": "0.7 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "40%",
+      "age": null,
+      "stars": null
+    }
+  }
+]

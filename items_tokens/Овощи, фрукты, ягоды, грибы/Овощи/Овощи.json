@@ -1,0 +1,1488 @@
+[
+  {
+    "original": "MAGNUM кабачки Казахстан",
+    "cleanTokens": [
+      "кабачки",
+      "казахстан"
+    ],
+    "normalizedTokens": [
+      "кабачки",
+      "казахстан"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "MAGNUM картофель отборный в сетке Казахстан",
+    "cleanTokens": [
+      "картофель",
+      "отборный",
+      "в",
+      "сетке",
+      "казахстан"
+    ],
+    "normalizedTokens": [
+      "картофель",
+      "отборный",
+      "в",
+      "сетке",
+      "казахстан"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "MAGNUM баклажан Казахстан",
+    "cleanTokens": [
+      "баклажан",
+      "казахстан"
+    ],
+    "normalizedTokens": [
+      "баклажан",
+      "казахстан"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "MAGNUM помидор на ветке",
+    "cleanTokens": [
+      "помидор",
+      "на",
+      "ветке"
+    ],
+    "normalizedTokens": [
+      "помидор",
+      "на",
+      "ветке"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "MAGNUM кукуруза Казахстан",
+    "cleanTokens": [
+      "кукуруза",
+      "казахстан"
+    ],
+    "normalizedTokens": [
+      "кукуруза",
+      "казахстан"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "MAGNUM картофель красный Казахстан",
+    "cleanTokens": [
+      "картофель",
+      "красный",
+      "казахстан"
+    ],
+    "normalizedTokens": [
+      "картофель",
+      "красный",
+      "казахстан"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "MAGNUM редис Казахстан 100 г",
+    "cleanTokens": [
+      "редис",
+      "казахстан"
+    ],
+    "normalizedTokens": [
+      "редис",
+      "казахстан",
+      "100 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "100 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "MAGNUM лук репчатый красный Казахстан",
+    "cleanTokens": [
+      "лук",
+      "репчатый",
+      "красный",
+      "казахстан"
+    ],
+    "normalizedTokens": [
+      "лук",
+      "репчатый",
+      "красный",
+      "казахстан"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "MAGNUM mix брокколи, цветная капуста Казахстан",
+    "cleanTokens": [
+      "mix",
+      "брокколи",
+      "цветная",
+      "капуста",
+      "казахстан"
+    ],
+    "normalizedTokens": [
+      "mix",
+      "брокколи",
+      "цветная",
+      "капуста",
+      "казахстан"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "MAGNUM брокколи Казахстан",
+    "cleanTokens": [
+      "брокколи",
+      "казахстан"
+    ],
+    "normalizedTokens": [
+      "брокколи",
+      "казахстан"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "MAGNUM перец полугорький красный Казахстан",
+    "cleanTokens": [
+      "перец",
+      "полугорький",
+      "красный",
+      "казахстан"
+    ],
+    "normalizedTokens": [
+      "перец",
+      "полугорький",
+      "красный",
+      "казахстан"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "MAGNUM перец полугорький зеленый Казахстан",
+    "cleanTokens": [
+      "перец",
+      "полугорький",
+      "зеленый",
+      "казахстан"
+    ],
+    "normalizedTokens": [
+      "перец",
+      "полугорький",
+      "зеленый",
+      "казахстан"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "MAGNUM редька Казахстан",
+    "cleanTokens": [
+      "редька",
+      "казахстан"
+    ],
+    "normalizedTokens": [
+      "редька",
+      "казахстан"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "MAGNUM картофель крупный Казахстан",
+    "cleanTokens": [
+      "картофель",
+      "крупный",
+      "казахстан"
+    ],
+    "normalizedTokens": [
+      "картофель",
+      "крупный",
+      "казахстан"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "MAGNUM томаты розовые Ташкент",
+    "cleanTokens": [
+      "томаты",
+      "розовые",
+      "ташкент"
+    ],
+    "normalizedTokens": [
+      "томаты",
+      "розовые",
+      "ташкент"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "MAGNUM лук репчатый Казахстан",
+    "cleanTokens": [
+      "лук",
+      "репчатый",
+      "казахстан"
+    ],
+    "normalizedTokens": [
+      "лук",
+      "репчатый",
+      "казахстан"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "MAGNUM перец светофор красный Китай",
+    "cleanTokens": [
+      "перец",
+      "светофор",
+      "красный",
+      "китай"
+    ],
+    "normalizedTokens": [
+      "перец",
+      "светофор",
+      "красный",
+      "китай"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "MAGNUM перец горький стручковый красный Казахстан",
+    "cleanTokens": [
+      "перец",
+      "горький",
+      "стручковый",
+      "красный",
+      "казахстан"
+    ],
+    "normalizedTokens": [
+      "перец",
+      "горький",
+      "стручковый",
+      "красный",
+      "казахстан"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "MAGNUM тыква очищенная Казахстан",
+    "cleanTokens": [
+      "тыква",
+      "очищенная",
+      "казахстан"
+    ],
+    "normalizedTokens": [
+      "тыква",
+      "очищенная",
+      "казахстан"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "MAGNUM морковь немытая в сетке Казахстан",
+    "cleanTokens": [
+      "морковь",
+      "немытая",
+      "в",
+      "сетке",
+      "казахстан"
+    ],
+    "normalizedTokens": [
+      "морковь",
+      "немытая",
+      "в",
+      "сетке",
+      "казахстан"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "MAGNUM перец светофор желтый Китай",
+    "cleanTokens": [
+      "перец",
+      "светофор",
+      "желтый",
+      "китай"
+    ],
+    "normalizedTokens": [
+      "перец",
+      "светофор",
+      "желтый",
+      "китай"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "MAGNUM корень имбиря",
+    "cleanTokens": [
+      "корень",
+      "имбиря"
+    ],
+    "normalizedTokens": [
+      "корень",
+      "имбиря"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "MAGNUM тыква японка Казахстан",
+    "cleanTokens": [
+      "тыква",
+      "японка",
+      "казахстан"
+    ],
+    "normalizedTokens": [
+      "тыква",
+      "японка",
+      "казахстан"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "MAGNUM брокколи Казахстан",
+    "cleanTokens": [
+      "брокколи",
+      "казахстан"
+    ],
+    "normalizedTokens": [
+      "брокколи",
+      "казахстан"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "MAGNUM картофель сладкий Китай",
+    "cleanTokens": [
+      "картофель",
+      "сладкий",
+      "китай"
+    ],
+    "normalizedTokens": [
+      "картофель",
+      "сладкий",
+      "китай"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "MAGNUM морковь желтая Узбекистан",
+    "cleanTokens": [
+      "морковь",
+      "желтая",
+      "узбекистан"
+    ],
+    "normalizedTokens": [
+      "морковь",
+      "желтая",
+      "узбекистан"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "MAGNUM помидор черри Казахстан 500 г",
+    "cleanTokens": [
+      "помидор",
+      "черри",
+      "казахстан"
+    ],
+    "normalizedTokens": [
+      "помидор",
+      "черри",
+      "казахстан",
+      "500 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "500 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "MAGNUM перец светофор ассорти цветов Казахстан",
+    "cleanTokens": [
+      "перец",
+      "светофор",
+      "ассорти",
+      "цветов",
+      "казахстан"
+    ],
+    "normalizedTokens": [
+      "перец",
+      "светофор",
+      "ассорти",
+      "цветов",
+      "казахстан"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "MAGNUM капуста пекинская Казахстан",
+    "cleanTokens": [
+      "капуста",
+      "пекинская",
+      "казахстан"
+    ],
+    "normalizedTokens": [
+      "капуста",
+      "пекинская",
+      "казахстан"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "MAGNUM помидор черри желтый Казахстан",
+    "cleanTokens": [
+      "помидор",
+      "черри",
+      "желтый",
+      "казахстан"
+    ],
+    "normalizedTokens": [
+      "помидор",
+      "черри",
+      "желтый",
+      "казахстан"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "MAGNUM капуста цветная Казахстан",
+    "cleanTokens": [
+      "капуста",
+      "цветная",
+      "казахстан"
+    ],
+    "normalizedTokens": [
+      "капуста",
+      "цветная",
+      "казахстан"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "MAGNUM лук белый Казахстан",
+    "cleanTokens": [
+      "лук",
+      "белый",
+      "казахстан"
+    ],
+    "normalizedTokens": [
+      "лук",
+      "белый",
+      "казахстан"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "MAGNUM перец светофор зеленый Китай",
+    "cleanTokens": [
+      "перец",
+      "светофор",
+      "зеленый",
+      "китай"
+    ],
+    "normalizedTokens": [
+      "перец",
+      "светофор",
+      "зеленый",
+      "китай"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "MAGNUM капуста пак-чой Казахстан",
+    "cleanTokens": [
+      "капуста",
+      "пак-чой",
+      "казахстан"
+    ],
+    "normalizedTokens": [
+      "капуста",
+      "пак-чой",
+      "казахстан"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "MAGNUM помидор+огурец Казахстан",
+    "cleanTokens": [
+      "помидор+огурец",
+      "казахстан"
+    ],
+    "normalizedTokens": [
+      "помидор+огурец",
+      "казахстан"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "MAGNUM картофель отборный в сетке Казахстан",
+    "cleanTokens": [
+      "картофель",
+      "отборный",
+      "в",
+      "сетке",
+      "казахстан"
+    ],
+    "normalizedTokens": [
+      "картофель",
+      "отборный",
+      "в",
+      "сетке",
+      "казахстан"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "MAGNUM дайкон Ташкент",
+    "cleanTokens": [
+      "дайкон",
+      "ташкент"
+    ],
+    "normalizedTokens": [
+      "дайкон",
+      "ташкент"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Farm Star кукуруза сладкая вареная Казахстан 300 г",
+    "cleanTokens": [
+      "кукуруза",
+      "сладкая",
+      "вареная",
+      "казахстан"
+    ],
+    "normalizedTokens": [
+      "кукуруза",
+      "сладкая",
+      "вареная",
+      "казахстан",
+      "300 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "300 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "MAGNUM капуста цветная Казахстан",
+    "cleanTokens": [
+      "капуста",
+      "цветная",
+      "казахстан"
+    ],
+    "normalizedTokens": [
+      "капуста",
+      "цветная",
+      "казахстан"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "MAGNUM капуста краснокочанная Казахстан",
+    "cleanTokens": [
+      "капуста",
+      "краснокочанная",
+      "казахстан"
+    ],
+    "normalizedTokens": [
+      "капуста",
+      "краснокочанная",
+      "казахстан"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Jidek_kz огурец миринда Казахстан 1 кг",
+    "cleanTokens": [
+      "огурец",
+      "миринда",
+      "казахстан"
+    ],
+    "normalizedTokens": [
+      "огурец",
+      "миринда",
+      "казахстан",
+      "1 кг"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "1 кг",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Jidek_kz лук репчатый Казахстан 1 кг",
+    "cleanTokens": [
+      "лук",
+      "репчатый",
+      "казахстан"
+    ],
+    "normalizedTokens": [
+      "лук",
+      "репчатый",
+      "казахстан",
+      "1 кг"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "1 кг",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Jidek_kz помидор розовый Казахстан 1 кг",
+    "cleanTokens": [
+      "помидор",
+      "розовый",
+      "казахстан"
+    ],
+    "normalizedTokens": [
+      "помидор",
+      "розовый",
+      "казахстан",
+      "1 кг"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "1 кг",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Jidek_kz перец полугорький Казахстан 1 кг",
+    "cleanTokens": [
+      "перец",
+      "полугорький",
+      "казахстан"
+    ],
+    "normalizedTokens": [
+      "перец",
+      "полугорький",
+      "казахстан",
+      "1 кг"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "1 кг",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Jidek_kz капуста белокочанная Казахстан 1 кг",
+    "cleanTokens": [
+      "капуста",
+      "белокочанная",
+      "казахстан"
+    ],
+    "normalizedTokens": [
+      "капуста",
+      "белокочанная",
+      "казахстан",
+      "1 кг"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "1 кг",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Jidek_kz капуста пекинская Казахстан 1 кг",
+    "cleanTokens": [
+      "капуста",
+      "пекинская",
+      "казахстан"
+    ],
+    "normalizedTokens": [
+      "капуста",
+      "пекинская",
+      "казахстан",
+      "1 кг"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "1 кг",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Jidek_kz помидор тепличный Казахстан 1 кг",
+    "cleanTokens": [
+      "помидор",
+      "тепличный",
+      "казахстан"
+    ],
+    "normalizedTokens": [
+      "помидор",
+      "тепличный",
+      "казахстан",
+      "1 кг"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "1 кг",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Jidek_kz тыква Казахстан 1 кг",
+    "cleanTokens": [
+      "тыква",
+      "казахстан"
+    ],
+    "normalizedTokens": [
+      "тыква",
+      "казахстан",
+      "1 кг"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "1 кг",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Jidek_kz капуста цветная Китай 1 кг",
+    "cleanTokens": [
+      "капуста",
+      "цветная",
+      "китай"
+    ],
+    "normalizedTokens": [
+      "капуста",
+      "цветная",
+      "китай",
+      "1 кг"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "1 кг",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Jidek_kz кабачок Казахстан 1 кг",
+    "cleanTokens": [
+      "кабачок",
+      "казахстан"
+    ],
+    "normalizedTokens": [
+      "кабачок",
+      "казахстан",
+      "1 кг"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "1 кг",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Jidek_kz брокколи Китай 1 кг",
+    "cleanTokens": [
+      "брокколи",
+      "китай"
+    ],
+    "normalizedTokens": [
+      "брокколи",
+      "китай",
+      "1 кг"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "1 кг",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Jidek_kz чеснок Китай 1 кг",
+    "cleanTokens": [
+      "чеснок",
+      "китай"
+    ],
+    "normalizedTokens": [
+      "чеснок",
+      "китай",
+      "1 кг"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "1 кг",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Mangosteen.kz помидор черри Нидерланды 250 г",
+    "cleanTokens": [
+      "помидор",
+      "черри",
+      "нидерланды"
+    ],
+    "normalizedTokens": [
+      "помидор",
+      "черри",
+      "нидерланды",
+      "250 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "250 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Eat Me кукуруза бейби Перу 125 г",
+    "cleanTokens": [
+      "кукуруза",
+      "бейби",
+      "перу"
+    ],
+    "normalizedTokens": [
+      "кукуруза",
+      "бейби",
+      "перу",
+      "125 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "125 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Mangosteen.kz спаржа Перу 0.45 кг",
+    "cleanTokens": [
+      "спаржа",
+      "перу"
+    ],
+    "normalizedTokens": [
+      "спаржа",
+      "перу",
+      "0.45 кг"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "0.45 кг",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Mangosteen.kz лук шалот Франция 250 г",
+    "cleanTokens": [
+      "лук",
+      "шалот",
+      "франция"
+    ],
+    "normalizedTokens": [
+      "лук",
+      "шалот",
+      "франция",
+      "250 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "250 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Jidek_kz лук репчатый красный Казахстан 1 кг",
+    "cleanTokens": [
+      "лук",
+      "репчатый",
+      "красный",
+      "казахстан"
+    ],
+    "normalizedTokens": [
+      "лук",
+      "репчатый",
+      "красный",
+      "казахстан",
+      "1 кг"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "1 кг",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Mangosteen.kz Батат США",
+    "cleanTokens": [
+      "батат",
+      "сша"
+    ],
+    "normalizedTokens": [
+      "батат",
+      "сша"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Mangosteen.kz помидоры черри коричневые Нидерланды 0.25 кг",
+    "cleanTokens": [
+      "помидоры",
+      "черри",
+      "коричневые",
+      "нидерланды"
+    ],
+    "normalizedTokens": [
+      "помидоры",
+      "черри",
+      "коричневые",
+      "нидерланды",
+      "0.25 кг"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "0.25 кг",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Total Herbs фасоль Нидерланды 250 г",
+    "cleanTokens": [
+      "фасоль",
+      "нидерланды"
+    ],
+    "normalizedTokens": [
+      "фасоль",
+      "нидерланды",
+      "250 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "250 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Mangosteen.kz морковь бейби Перу 0.2 кг",
+    "cleanTokens": [
+      "морковь",
+      "бейби",
+      "перу"
+    ],
+    "normalizedTokens": [
+      "морковь",
+      "бейби",
+      "перу",
+      "0.2 кг"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "0.2 кг",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Total Herbs горох Кения 250 г",
+    "cleanTokens": [
+      "горох",
+      "кения"
+    ],
+    "normalizedTokens": [
+      "горох",
+      "кения",
+      "250 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "250 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Mangosteen.kz помидор черри Нидерланды 250 г",
+    "cleanTokens": [
+      "помидор",
+      "черри",
+      "нидерланды"
+    ],
+    "normalizedTokens": [
+      "помидор",
+      "черри",
+      "нидерланды",
+      "250 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "250 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Mangosteen.kz цукини Нидерланды 1 кг",
+    "cleanTokens": [
+      "цукини",
+      "нидерланды"
+    ],
+    "normalizedTokens": [
+      "цукини",
+      "нидерланды",
+      "1 кг"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "1 кг",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Aya Looye помидоры черри медовые Нидерланды 0.18 кг",
+    "cleanTokens": [
+      "помидоры",
+      "черри",
+      "медовые",
+      "нидерланды"
+    ],
+    "normalizedTokens": [
+      "помидоры",
+      "черри",
+      "медовые",
+      "нидерланды",
+      "0.18 кг"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "0.18 кг",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Jidek_kz дайкон Китай 1 кг",
+    "cleanTokens": [
+      "дайкон",
+      "китай"
+    ],
+    "normalizedTokens": [
+      "дайкон",
+      "китай",
+      "1 кг"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "1 кг",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  }
+]

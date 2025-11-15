@@ -1,0 +1,660 @@
+[
+  {
+    "original": "mrs. Green базилик зеленый Казахстан 80 г",
+    "cleanTokens": [
+      "базилик",
+      "зеленый",
+      "казахстан"
+    ],
+    "normalizedTokens": [
+      "базилик",
+      "зеленый",
+      "казахстан",
+      "80 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "80 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Mrs. Green Fitness салат батавия, руккола, шпинат, мангольд Казахстан 120 г",
+    "cleanTokens": [
+      "fitness",
+      "салат",
+      "батавия",
+      "руккола",
+      "шпинат",
+      "мангольд",
+      "казахстан"
+    ],
+    "normalizedTokens": [
+      "fitness",
+      "салат",
+      "батавия",
+      "руккола",
+      "шпинат",
+      "мангольд",
+      "казахстан",
+      "120 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "120 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "MAGNUM петрушка кудрявая Казахстан",
+    "cleanTokens": [
+      "петрушка",
+      "кудрявая",
+      "казахстан"
+    ],
+    "normalizedTokens": [
+      "петрушка",
+      "кудрявая",
+      "казахстан"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "mrs. Green салат лолло росса Казахстан 150 г",
+    "cleanTokens": [
+      "салат",
+      "лолло",
+      "росса",
+      "казахстан"
+    ],
+    "normalizedTokens": [
+      "салат",
+      "лолло",
+      "росса",
+      "казахстан",
+      "150 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "150 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "MAGNUM зелень стебель сельдерея Китай",
+    "cleanTokens": [
+      "стебель",
+      "сельдерея",
+      "китай"
+    ],
+    "normalizedTokens": [
+      "стебель",
+      "сельдерея",
+      "китай"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "MAGNUM Лук порей Казахстан",
+    "cleanTokens": [
+      "лук",
+      "порей",
+      "казахстан"
+    ],
+    "normalizedTokens": [
+      "лук",
+      "порей",
+      "казахстан"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "MAGNUM салат лолло росса Узбекистан",
+    "cleanTokens": [
+      "салат",
+      "лолло",
+      "росса",
+      "узбекистан"
+    ],
+    "normalizedTokens": [
+      "салат",
+      "лолло",
+      "росса",
+      "узбекистан"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "mrs. Green руккола дикая Казахстан 80 г",
+    "cleanTokens": [
+      "руккола",
+      "дикая",
+      "казахстан"
+    ],
+    "normalizedTokens": [
+      "руккола",
+      "дикая",
+      "казахстан",
+      "80 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "80 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "BeGreen зелень руккола, лолло росса, латук, шпинат Казахстан 130 г",
+    "cleanTokens": [
+      "руккола",
+      "лолло",
+      "росса",
+      "латук",
+      "шпинат",
+      "казахстан"
+    ],
+    "normalizedTokens": [
+      "руккола",
+      "лолло",
+      "росса",
+      "латук",
+      "шпинат",
+      "казахстан",
+      "130 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "130 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "mrs. Green салат фризе зеленый Казахстан 150 г",
+    "cleanTokens": [
+      "салат",
+      "фризе",
+      "зеленый",
+      "казахстан"
+    ],
+    "normalizedTokens": [
+      "салат",
+      "фризе",
+      "зеленый",
+      "казахстан",
+      "150 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "150 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "mrs. Green салатный микс хрустящий нежный Казахстан 120 г",
+    "cleanTokens": [
+      "салатный",
+      "микс",
+      "хрустящий",
+      "нежный",
+      "казахстан"
+    ],
+    "normalizedTokens": [
+      "салатный",
+      "микс",
+      "хрустящий",
+      "нежный",
+      "казахстан",
+      "120 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "120 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "mrs. Green Family салатный микс Казахстан 120 г",
+    "cleanTokens": [
+      "family",
+      "салатный",
+      "микс",
+      "казахстан"
+    ],
+    "normalizedTokens": [
+      "family",
+      "салатный",
+      "микс",
+      "казахстан",
+      "120 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "120 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "BeGreen зелень шпинат, кинза, лолло росса, латук Казахстан 130 г",
+    "cleanTokens": [
+      "шпинат",
+      "кинза",
+      "лолло",
+      "росса",
+      "латук",
+      "казахстан"
+    ],
+    "normalizedTokens": [
+      "шпинат",
+      "кинза",
+      "лолло",
+      "росса",
+      "латук",
+      "казахстан",
+      "130 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "130 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Mrs. Green зелень лолло росса, батавия Казахстан 120 г",
+    "cleanTokens": [
+      "лолло",
+      "росса",
+      "батавия",
+      "казахстан"
+    ],
+    "normalizedTokens": [
+      "лолло",
+      "росса",
+      "батавия",
+      "казахстан",
+      "120 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "120 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "mrs. Green Трио салат Казахстан 150 г",
+    "cleanTokens": [
+      "трио",
+      "салат",
+      "казахстан"
+    ],
+    "normalizedTokens": [
+      "трио",
+      "салат",
+      "казахстан",
+      "150 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "150 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "mrs. Green смесь батавия, красный ромен Казахстан 120 г",
+    "cleanTokens": [
+      "смесь",
+      "батавия",
+      "красный",
+      "ромен",
+      "казахстан"
+    ],
+    "normalizedTokens": [
+      "смесь",
+      "батавия",
+      "красный",
+      "ромен",
+      "казахстан",
+      "120 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "120 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Jidek_kz латук Узбекистан 15 г",
+    "cleanTokens": [
+      "латук",
+      "узбекистан"
+    ],
+    "normalizedTokens": [
+      "латук",
+      "узбекистан",
+      "15 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "15 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Jidek_kz стебель сельдерея Китай 1 кг",
+    "cleanTokens": [
+      "стебель",
+      "сельдерея",
+      "китай"
+    ],
+    "normalizedTokens": [
+      "стебель",
+      "сельдерея",
+      "китай",
+      "1 кг"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "1 кг",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Jidek_kz салат айсберг 1 кг",
+    "cleanTokens": [
+      "салат",
+      "айсберг"
+    ],
+    "normalizedTokens": [
+      "салат",
+      "айсберг",
+      "1 кг"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "1 кг",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Fresh365 руккола Италия 125 г",
+    "cleanTokens": [
+      "руккола",
+      "италия"
+    ],
+    "normalizedTokens": [
+      "руккола",
+      "италия",
+      "125 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "125 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Lucas салат романо Испания 600 г",
+    "cleanTokens": [
+      "салат",
+      "романо",
+      "испания"
+    ],
+    "normalizedTokens": [
+      "салат",
+      "романо",
+      "испания",
+      "600 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "600 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Fresh365 мангольд Италия 122 г",
+    "cleanTokens": [
+      "мангольд",
+      "италия"
+    ],
+    "normalizedTokens": [
+      "мангольд",
+      "италия",
+      "122 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "122 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Fresh365 шпинат Италия 125 г",
+    "cleanTokens": [
+      "шпинат",
+      "италия"
+    ],
+    "normalizedTokens": [
+      "шпинат",
+      "италия",
+      "125 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "125 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Total Herbs базилик Казахстан 1000 г",
+    "cleanTokens": [
+      "базилик",
+      "казахстан"
+    ],
+    "normalizedTokens": [
+      "базилик",
+      "казахстан",
+      "1000 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "1000 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Total Herbs мята Нидерланды 1000 г",
+    "cleanTokens": [
+      "мята",
+      "нидерланды"
+    ],
+    "normalizedTokens": [
+      "мята",
+      "нидерланды",
+      "1000 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "1000 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Fresh365 корн Азербайджан 125 г",
+    "cleanTokens": [
+      "корн",
+      "азербайджан"
+    ],
+    "normalizedTokens": [
+      "корн",
+      "азербайджан",
+      "125 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "125 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Total Herbs тимьян Казахстан 1000 г",
+    "cleanTokens": [
+      "тимьян",
+      "казахстан"
+    ],
+    "normalizedTokens": [
+      "тимьян",
+      "казахстан",
+      "1000 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "1000 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Total Herbs розмарин Казахстан 1000 г",
+    "cleanTokens": [
+      "розмарин",
+      "казахстан"
+    ],
+    "normalizedTokens": [
+      "розмарин",
+      "казахстан",
+      "1000 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "1000 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  }
+]

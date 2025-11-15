@@ -1,0 +1,1538 @@
+[
+  {
+    "original": "Холодный чай Fuse-tea черный лимон 1 л",
+    "cleanTokens": [
+      "черный",
+      "лимон"
+    ],
+    "normalizedTokens": [
+      "черный",
+      "лимон",
+      "1 л"
+    ],
+    "params": {
+      "volume": "1 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Холодный чай Maxi чай черный персик 1.2 л",
+    "cleanTokens": [
+      "maxi",
+      "черный",
+      "персик"
+    ],
+    "normalizedTokens": [
+      "maxi",
+      "черный",
+      "персик",
+      "1.2 л"
+    ],
+    "params": {
+      "volume": "1.2 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Холодный чай Ai Tea белый натуральный 1 л",
+    "cleanTokens": [
+      "белый",
+      "натуральный"
+    ],
+    "normalizedTokens": [
+      "белый",
+      "натуральный",
+      "1 л"
+    ],
+    "params": {
+      "volume": "1 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Холодный чай Ai Tea белый лайм, лимон, жасмин 1 л",
+    "cleanTokens": [
+      "белый",
+      "лайм",
+      "лимон",
+      "жасмин"
+    ],
+    "normalizedTokens": [
+      "белый",
+      "лайм",
+      "лимон",
+      "жасмин",
+      "1 л"
+    ],
+    "params": {
+      "volume": "1 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Холодный чай Fuse-tea черный манго, ананас 0.5 л",
+    "cleanTokens": [
+      "черный",
+      "манго",
+      "ананас"
+    ],
+    "normalizedTokens": [
+      "черный",
+      "манго",
+      "ананас",
+      "0.5 л"
+    ],
+    "params": {
+      "volume": "0.5 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Холодный чай Ai Tea черный клубника, киви 1 л",
+    "cleanTokens": [
+      "черный",
+      "клубника",
+      "киви"
+    ],
+    "normalizedTokens": [
+      "черный",
+      "клубника",
+      "киви",
+      "1 л"
+    ],
+    "params": {
+      "volume": "1 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Холодный чай Fuse-tea черный арбуз 1 л",
+    "cleanTokens": [
+      "черный",
+      "арбуз"
+    ],
+    "normalizedTokens": [
+      "черный",
+      "арбуз",
+      "1 л"
+    ],
+    "params": {
+      "volume": "1 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Холодный чай Ai Tea белый апельсин, помело 1 л",
+    "cleanTokens": [
+      "белый",
+      "апельсин",
+      "помело"
+    ],
+    "normalizedTokens": [
+      "белый",
+      "апельсин",
+      "помело",
+      "1 л"
+    ],
+    "params": {
+      "volume": "1 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Холодный чай Ai Tea зеленый манго, маракуйя 0.45 л",
+    "cleanTokens": [
+      "зеленый",
+      "манго",
+      "маракуйя"
+    ],
+    "normalizedTokens": [
+      "зеленый",
+      "манго",
+      "маракуйя",
+      "0.45 л"
+    ],
+    "params": {
+      "volume": "0.45 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Холодный чай Ai Tea белый натуральный 0.45 л",
+    "cleanTokens": [
+      "белый",
+      "натуральный"
+    ],
+    "normalizedTokens": [
+      "белый",
+      "натуральный",
+      "0.45 л"
+    ],
+    "params": {
+      "volume": "0.45 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Холодный чай Ai Tea черный клубника, киви 0.45 л",
+    "cleanTokens": [
+      "черный",
+      "клубника",
+      "киви"
+    ],
+    "normalizedTokens": [
+      "черный",
+      "клубника",
+      "киви",
+      "0.45 л"
+    ],
+    "params": {
+      "volume": "0.45 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Холодный чай Maxi чай зеленый лимон 0.45 л",
+    "cleanTokens": [
+      "maxi",
+      "зеленый",
+      "лимон"
+    ],
+    "normalizedTokens": [
+      "maxi",
+      "зеленый",
+      "лимон",
+      "0.45 л"
+    ],
+    "params": {
+      "volume": "0.45 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Холодный чай Maxi чай черный клубника 0.45 л",
+    "cleanTokens": [
+      "maxi",
+      "черный",
+      "клубника"
+    ],
+    "normalizedTokens": [
+      "maxi",
+      "черный",
+      "клубника",
+      "0.45 л"
+    ],
+    "params": {
+      "volume": "0.45 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Холодный чай Ai Tea черный натуральный 0.45 л",
+    "cleanTokens": [
+      "черный",
+      "натуральный"
+    ],
+    "normalizedTokens": [
+      "черный",
+      "натуральный",
+      "0.45 л"
+    ],
+    "params": {
+      "volume": "0.45 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Холодный чай Fuse-tea Манго и ромашка 0.5 л",
+    "cleanTokens": [
+      "манго",
+      "и",
+      "ромашка"
+    ],
+    "normalizedTokens": [
+      "манго",
+      "и",
+      "ромашка",
+      "0.5 л"
+    ],
+    "params": {
+      "volume": "0.5 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Холодный чай Fuse-tea черный персик 0.5 л",
+    "cleanTokens": [
+      "черный",
+      "персик"
+    ],
+    "normalizedTokens": [
+      "черный",
+      "персик",
+      "0.5 л"
+    ],
+    "params": {
+      "volume": "0.5 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Холодный чай Ai Tea белый лайм, лимон, жасмин 0.45 л",
+    "cleanTokens": [
+      "белый",
+      "лайм",
+      "лимон",
+      "жасмин"
+    ],
+    "normalizedTokens": [
+      "белый",
+      "лайм",
+      "лимон",
+      "жасмин",
+      "0.45 л"
+    ],
+    "params": {
+      "volume": "0.45 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Холодный чай Ai Tea зеленый апельсин, помело 0.45 л",
+    "cleanTokens": [
+      "зеленый",
+      "апельсин",
+      "помело"
+    ],
+    "normalizedTokens": [
+      "зеленый",
+      "апельсин",
+      "помело",
+      "0.45 л"
+    ],
+    "params": {
+      "volume": "0.45 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Холодный чай Fuse-tea Лимон 0.5 л",
+    "cleanTokens": [
+      "лимон"
+    ],
+    "normalizedTokens": [
+      "лимон",
+      "0.5 л"
+    ],
+    "params": {
+      "volume": "0.5 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Холодный чай Fuse-tea Ягодный 0.5 л",
+    "cleanTokens": [
+      "ягодный"
+    ],
+    "normalizedTokens": [
+      "ягодный",
+      "0.5 л"
+    ],
+    "params": {
+      "volume": "0.5 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Холодный чай Tassay Ice Tea Персик 1 л",
+    "cleanTokens": [
+      "ice",
+      "tea",
+      "персик"
+    ],
+    "normalizedTokens": [
+      "ice",
+      "tea",
+      "персик",
+      "1 л"
+    ],
+    "params": {
+      "volume": "1 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Холодный чай TASSAY зеленый ананас, маракуйя 1 л",
+    "cleanTokens": [
+      "зеленый",
+      "ананас",
+      "маракуйя"
+    ],
+    "normalizedTokens": [
+      "зеленый",
+      "ананас",
+      "маракуйя",
+      "1 л"
+    ],
+    "params": {
+      "volume": "1 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Холодный чай Fuse-tea белый манго, ананас 0.45 л",
+    "cleanTokens": [
+      "белый",
+      "манго",
+      "ананас"
+    ],
+    "normalizedTokens": [
+      "белый",
+      "манго",
+      "ананас",
+      "0.45 л"
+    ],
+    "params": {
+      "volume": "0.45 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Холодный чай Fuse-tea зеленый ромашка, манго 0.45 л",
+    "cleanTokens": [
+      "зеленый",
+      "ромашка",
+      "манго"
+    ],
+    "normalizedTokens": [
+      "зеленый",
+      "ромашка",
+      "манго",
+      "0.45 л"
+    ],
+    "params": {
+      "volume": "0.45 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Холодный чай Maxi чай черный персик 0.45 л",
+    "cleanTokens": [
+      "maxi",
+      "черный",
+      "персик"
+    ],
+    "normalizedTokens": [
+      "maxi",
+      "черный",
+      "персик",
+      "0.45 л"
+    ],
+    "params": {
+      "volume": "0.45 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Холодный чай Maxi чай черный малина 0.45 л",
+    "cleanTokens": [
+      "maxi",
+      "черный",
+      "малина"
+    ],
+    "normalizedTokens": [
+      "maxi",
+      "черный",
+      "малина",
+      "0.45 л"
+    ],
+    "params": {
+      "volume": "0.45 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Холодный чай Maxi чай черный лесные ягоды 0.45 л",
+    "cleanTokens": [
+      "maxi",
+      "черный",
+      "лесные",
+      "ягоды"
+    ],
+    "normalizedTokens": [
+      "maxi",
+      "черный",
+      "лесные",
+      "ягоды",
+      "0.45 л"
+    ],
+    "params": {
+      "volume": "0.45 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Холодный чай MAGNUM красный каркаде 0.5 л",
+    "cleanTokens": [
+      "красный",
+      "каркаде"
+    ],
+    "normalizedTokens": [
+      "красный",
+      "каркаде",
+      "0.5 л"
+    ],
+    "params": {
+      "volume": "0.5 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Холодный чай Fuse-tea черный клубника, дыня 1 л",
+    "cleanTokens": [
+      "черный",
+      "клубника",
+      "дыня"
+    ],
+    "normalizedTokens": [
+      "черный",
+      "клубника",
+      "дыня",
+      "1 л"
+    ],
+    "params": {
+      "volume": "1 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Холодный чай Piala Ice Tea зеленый лимон 0.96 л",
+    "cleanTokens": [
+      "зеленый",
+      "лимон"
+    ],
+    "normalizedTokens": [
+      "зеленый",
+      "лимон",
+      "0.96 л"
+    ],
+    "params": {
+      "volume": "0.96 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Холодный чай Fuse-tea черный персик 0.45 л",
+    "cleanTokens": [
+      "черный",
+      "персик"
+    ],
+    "normalizedTokens": [
+      "черный",
+      "персик",
+      "0.45 л"
+    ],
+    "params": {
+      "volume": "0.45 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Холодный чай Ai Tea белый мандарин, лаванда 1 л",
+    "cleanTokens": [
+      "белый",
+      "мандарин",
+      "лаванда"
+    ],
+    "normalizedTokens": [
+      "белый",
+      "мандарин",
+      "лаванда",
+      "1 л"
+    ],
+    "params": {
+      "volume": "1 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Холодный чай Ai Tea белый ревень 0.45 л",
+    "cleanTokens": [
+      "белый",
+      "ревень"
+    ],
+    "normalizedTokens": [
+      "белый",
+      "ревень",
+      "0.45 л"
+    ],
+    "params": {
+      "volume": "0.45 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Холодный чай Ai Tea белый мандарин, лаванда 0.45 л",
+    "cleanTokens": [
+      "белый",
+      "мандарин",
+      "лаванда"
+    ],
+    "normalizedTokens": [
+      "белый",
+      "мандарин",
+      "лаванда",
+      "0.45 л"
+    ],
+    "params": {
+      "volume": "0.45 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Холодный чай Ai Tea черный гуава, тропические фрукты 0.45 л",
+    "cleanTokens": [
+      "черный",
+      "гуава",
+      "тропические",
+      "фрукты"
+    ],
+    "normalizedTokens": [
+      "черный",
+      "гуава",
+      "тропические",
+      "фрукты",
+      "0.45 л"
+    ],
+    "params": {
+      "volume": "0.45 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Холодный чай Ai Tea белый ревень 1 л",
+    "cleanTokens": [
+      "белый",
+      "ревень"
+    ],
+    "normalizedTokens": [
+      "белый",
+      "ревень",
+      "1 л"
+    ],
+    "params": {
+      "volume": "1 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Холодный чай Ai Tea черный гуава, тропические фрукты 1 л",
+    "cleanTokens": [
+      "черный",
+      "гуава",
+      "тропические",
+      "фрукты"
+    ],
+    "normalizedTokens": [
+      "черный",
+      "гуава",
+      "тропические",
+      "фрукты",
+      "1 л"
+    ],
+    "params": {
+      "volume": "1 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Холодный чай Piala Ice Tea зеленый лимон 0.5 л",
+    "cleanTokens": [
+      "зеленый",
+      "лимон"
+    ],
+    "normalizedTokens": [
+      "зеленый",
+      "лимон",
+      "0.5 л"
+    ],
+    "params": {
+      "volume": "0.5 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Холодный чай Boncha черный апельсин, мята 0.45 л",
+    "cleanTokens": [
+      "черный",
+      "апельсин",
+      "мята"
+    ],
+    "normalizedTokens": [
+      "черный",
+      "апельсин",
+      "мята",
+      "0.45 л"
+    ],
+    "params": {
+      "volume": "0.45 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Холодный чай Boncha зеленый лимон, грейпфрут 0.45 л",
+    "cleanTokens": [
+      "зеленый",
+      "лимон",
+      "грейпфрут"
+    ],
+    "normalizedTokens": [
+      "зеленый",
+      "лимон",
+      "грейпфрут",
+      "0.45 л"
+    ],
+    "params": {
+      "volume": "0.45 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Холодный чай Boncha черный персик 0.45 л",
+    "cleanTokens": [
+      "черный",
+      "персик"
+    ],
+    "normalizedTokens": [
+      "черный",
+      "персик",
+      "0.45 л"
+    ],
+    "params": {
+      "volume": "0.45 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Холодный чай Fuse-tea черный клубника, дыня 500мл",
+    "cleanTokens": [
+      "черный",
+      "клубника",
+      "дыня",
+      "500мл"
+    ],
+    "normalizedTokens": [
+      "черный",
+      "клубника",
+      "дыня",
+      "500 л"
+    ],
+    "params": {
+      "volume": "500 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Shaurma-Food Ice Tea 0.4 л",
+    "cleanTokens": [
+      "ice",
+      "tea"
+    ],
+    "normalizedTokens": [
+      "ice",
+      "tea",
+      "0.4 л"
+    ],
+    "params": {
+      "volume": "0.4 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Холодный чай Piala Ice Tea черный персик, дыня 0.5 л",
+    "cleanTokens": [
+      "черный",
+      "персик",
+      "дыня"
+    ],
+    "normalizedTokens": [
+      "черный",
+      "персик",
+      "дыня",
+      "0.5 л"
+    ],
+    "params": {
+      "volume": "0.5 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Холодный чай Piala Ice Tea зеленый персик 1 л",
+    "cleanTokens": [
+      "зеленый",
+      "персик"
+    ],
+    "normalizedTokens": [
+      "зеленый",
+      "персик",
+      "1 л"
+    ],
+    "params": {
+      "volume": "1 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Холодный чай Arizona черный малина 0.68 л",
+    "cleanTokens": [
+      "черный",
+      "малина"
+    ],
+    "normalizedTokens": [
+      "черный",
+      "малина",
+      "0.68 л"
+    ],
+    "params": {
+      "volume": "0.68 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Холодный чай Arizona зеленый женьшень 0.68 л",
+    "cleanTokens": [
+      "зеленый",
+      "женьшень"
+    ],
+    "normalizedTokens": [
+      "зеленый",
+      "женьшень",
+      "0.68 л"
+    ],
+    "params": {
+      "volume": "0.68 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Холодный чай Arizona черный клубника 0.68 л",
+    "cleanTokens": [
+      "черный",
+      "клубника"
+    ],
+    "normalizedTokens": [
+      "черный",
+      "клубника",
+      "0.68 л"
+    ],
+    "params": {
+      "volume": "0.68 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Холодный чай Arizona черный лимон 0.68 л",
+    "cleanTokens": [
+      "черный",
+      "лимон"
+    ],
+    "normalizedTokens": [
+      "черный",
+      "лимон",
+      "0.68 л"
+    ],
+    "params": {
+      "volume": "0.68 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Холодный чай Arizona черный натуральный 0.65 л",
+    "cleanTokens": [
+      "черный",
+      "натуральный"
+    ],
+    "normalizedTokens": [
+      "черный",
+      "натуральный",
+      "0.65 л"
+    ],
+    "params": {
+      "volume": "0.65 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Холодный чай MECO черный гранат, виноград 0.4 л",
+    "cleanTokens": [
+      "черный",
+      "гранат",
+      "виноград"
+    ],
+    "normalizedTokens": [
+      "черный",
+      "гранат",
+      "виноград",
+      "0.4 л"
+    ],
+    "params": {
+      "volume": "0.4 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Холодный чай Arizona Arnold Palmer Strawberry Half&Half Iced Tea Lemonade черный клубника 0.68 л",
+    "cleanTokens": [
+      "arnold",
+      "palmer",
+      "strawberry",
+      "half&half",
+      "iced",
+      "tea",
+      "lemonade",
+      "черный",
+      "клубника"
+    ],
+    "normalizedTokens": [
+      "arnold",
+      "palmer",
+      "strawberry",
+      "half&half",
+      "iced",
+      "tea",
+      "lemonade",
+      "черный",
+      "клубника",
+      "0.68 л"
+    ],
+    "params": {
+      "volume": "0.68 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Холодный чай Arizona Arnold Palmer Zero HALF&HALF Iced Tea Lemonade 0.68 л",
+    "cleanTokens": [
+      "arnold",
+      "palmer",
+      "zero",
+      "half&half",
+      "iced",
+      "tea",
+      "lemonade"
+    ],
+    "normalizedTokens": [
+      "arnold",
+      "palmer",
+      "zero",
+      "half&half",
+      "iced",
+      "tea",
+      "lemonade",
+      "0.68 л"
+    ],
+    "params": {
+      "volume": "0.68 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Холодный чай Arizona RX Energy Herbal Tonic 0.68 л",
+    "cleanTokens": [
+      "rx",
+      "energy",
+      "herbal",
+      "tonic"
+    ],
+    "normalizedTokens": [
+      "rx",
+      "energy",
+      "herbal",
+      "tonic",
+      "0.68 л"
+    ],
+    "params": {
+      "volume": "0.68 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Холодный чай Arizona Peach Tea 0.68 л",
+    "cleanTokens": [
+      "peach",
+      "tea"
+    ],
+    "normalizedTokens": [
+      "peach",
+      "tea",
+      "0.68 л"
+    ],
+    "params": {
+      "volume": "0.68 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Холодный чай Piala Ice Tea зеленый лимон, лемонграсс 0.5 л",
+    "cleanTokens": [
+      "зеленый",
+      "лимон",
+      "лемонграсс"
+    ],
+    "normalizedTokens": [
+      "зеленый",
+      "лимон",
+      "лемонграсс",
+      "0.5 л"
+    ],
+    "params": {
+      "volume": "0.5 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Холодный чай MECO черный личи, маракуйя 0.4 л",
+    "cleanTokens": [
+      "черный",
+      "личи",
+      "маракуйя"
+    ],
+    "normalizedTokens": [
+      "черный",
+      "личи",
+      "маракуйя",
+      "0.4 л"
+    ],
+    "params": {
+      "volume": "0.4 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Холодный чай Arizona Cowboy Cocktail Fruit Punch Fruit Juice Cocktail 0.68 л",
+    "cleanTokens": [
+      "cowboy",
+      "cocktail",
+      "fruit",
+      "punch",
+      "fruit",
+      "juice",
+      "cocktail"
+    ],
+    "normalizedTokens": [
+      "cowboy",
+      "cocktail",
+      "fruit",
+      "punch",
+      "fruit",
+      "juice",
+      "cocktail",
+      "0.68 л"
+    ],
+    "params": {
+      "volume": "0.68 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Холодный чай MECO черный ягодный 0.4 л",
+    "cleanTokens": [
+      "черный",
+      "ягодный"
+    ],
+    "normalizedTokens": [
+      "черный",
+      "ягодный",
+      "0.4 л"
+    ],
+    "params": {
+      "volume": "0.4 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Холодный чай Arizona Lemonade with All Natural Flavors 0.68 л",
+    "cleanTokens": [
+      "lemonade",
+      "with",
+      "all",
+      "natural",
+      "flavors"
+    ],
+    "normalizedTokens": [
+      "lemonade",
+      "with",
+      "all",
+      "natural",
+      "flavors",
+      "0.68 л"
+    ],
+    "params": {
+      "volume": "0.68 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Холодный чай Arizona Watermelon Fruit Juice Cocktail 0.68 л",
+    "cleanTokens": [
+      "watermelon",
+      "fruit",
+      "juice",
+      "cocktail"
+    ],
+    "normalizedTokens": [
+      "watermelon",
+      "fruit",
+      "juice",
+      "cocktail",
+      "0.68 л"
+    ],
+    "params": {
+      "volume": "0.68 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Холодный чай Arizona Green Tea Cucumber with Citrus 0.68 л",
+    "cleanTokens": [
+      "green",
+      "tea",
+      "cucumber",
+      "with",
+      "citrus"
+    ],
+    "normalizedTokens": [
+      "green",
+      "tea",
+      "cucumber",
+      "with",
+      "citrus",
+      "0.68 л"
+    ],
+    "params": {
+      "volume": "0.68 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Холодный чай Arizona черный фруктовый 0.68 л",
+    "cleanTokens": [
+      "черный",
+      "фруктовый"
+    ],
+    "normalizedTokens": [
+      "черный",
+      "фруктовый",
+      "0.68 л"
+    ],
+    "params": {
+      "volume": "0.68 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Холодный чай MECO черный абрикос 0.4 л",
+    "cleanTokens": [
+      "черный",
+      "абрикос"
+    ],
+    "normalizedTokens": [
+      "черный",
+      "абрикос",
+      "0.4 л"
+    ],
+    "params": {
+      "volume": "0.4 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Холодный чай Arizona Orangeade with All Natural Flavors 0.68 л",
+    "cleanTokens": [
+      "orangeade",
+      "with",
+      "all",
+      "natural",
+      "flavors"
+    ],
+    "normalizedTokens": [
+      "orangeade",
+      "with",
+      "all",
+      "natural",
+      "flavors",
+      "0.68 л"
+    ],
+    "params": {
+      "volume": "0.68 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Холодный чай MECO черный лайм 0.4 л",
+    "cleanTokens": [
+      "черный",
+      "лайм"
+    ],
+    "normalizedTokens": [
+      "черный",
+      "лайм",
+      "0.4 л"
+    ],
+    "params": {
+      "volume": "0.4 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Холодный чай MECO черный грейпфрут 0.4 л",
+    "cleanTokens": [
+      "черный",
+      "грейпфрут"
+    ],
+    "normalizedTokens": [
+      "черный",
+      "грейпфрут",
+      "0.4 л"
+    ],
+    "params": {
+      "volume": "0.4 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  }
+]

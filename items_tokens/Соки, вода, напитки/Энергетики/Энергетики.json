@@ -1,0 +1,1240 @@
+[
+  {
+    "original": "Gorilla Ultimate 450 мл",
+    "cleanTokens": [
+      "ultimate"
+    ],
+    "normalizedTokens": [
+      "ultimate",
+      "450 мл"
+    ],
+    "params": {
+      "volume": "450 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Red Bull Energy Drink 355 мл",
+    "cleanTokens": [
+      "energy",
+      "drink"
+    ],
+    "normalizedTokens": [
+      "energy",
+      "drink",
+      "355 мл"
+    ],
+    "params": {
+      "volume": "355 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Flash Up Energy 450 мл",
+    "cleanTokens": [
+      "energy"
+    ],
+    "normalizedTokens": [
+      "energy",
+      "450 мл"
+    ],
+    "params": {
+      "volume": "450 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Lavina Turbo 450 мл",
+    "cleanTokens": [
+      "turbo"
+    ],
+    "normalizedTokens": [
+      "turbo",
+      "450 мл"
+    ],
+    "params": {
+      "volume": "450 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Lavina Red Storm гранат 450 мл",
+    "cleanTokens": [
+      "red",
+      "storm",
+      "гранат"
+    ],
+    "normalizedTokens": [
+      "red",
+      "storm",
+      "гранат",
+      "450 мл"
+    ],
+    "params": {
+      "volume": "450 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Red Bull Energy Drink 473 мл",
+    "cleanTokens": [
+      "energy",
+      "drink"
+    ],
+    "normalizedTokens": [
+      "energy",
+      "drink",
+      "473 мл"
+    ],
+    "params": {
+      "volume": "473 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Adrenaline Rush Абсолютная энергия 449 мл",
+    "cleanTokens": [
+      "rush",
+      "абсолютная",
+      "энергия"
+    ],
+    "normalizedTokens": [
+      "rush",
+      "абсолютная",
+      "энергия",
+      "449 мл"
+    ],
+    "params": {
+      "volume": "449 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Red Bull Tropical 250 мл",
+    "cleanTokens": [
+      "tropical"
+    ],
+    "normalizedTokens": [
+      "tropical",
+      "250 мл"
+    ],
+    "params": {
+      "volume": "250 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Gorilla арбуз и дыня 450 мл",
+    "cleanTokens": [
+      "арбуз",
+      "и",
+      "дыня"
+    ],
+    "normalizedTokens": [
+      "арбуз",
+      "и",
+      "дыня",
+      "450 мл"
+    ],
+    "params": {
+      "volume": "450 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Red Bull The Summer Edition со вкусом черники 250 мл",
+    "cleanTokens": [
+      "the",
+      "summer",
+      "edition",
+      "со",
+      "вкусом",
+      "черники"
+    ],
+    "normalizedTokens": [
+      "the",
+      "summer",
+      "edition",
+      "со",
+      "вкусом",
+      "черники",
+      "250 мл"
+    ],
+    "params": {
+      "volume": "250 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Flash Up ананас, персик 450 мл",
+    "cleanTokens": [
+      "ананас",
+      "персик"
+    ],
+    "normalizedTokens": [
+      "ананас",
+      "персик",
+      "450 мл"
+    ],
+    "params": {
+      "volume": "450 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Flash Up клубника, мохито 450 мл",
+    "cleanTokens": [
+      "клубника",
+      "мохито"
+    ],
+    "normalizedTokens": [
+      "клубника",
+      "мохито",
+      "450 мл"
+    ],
+    "params": {
+      "volume": "450 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Volt Energy голубика, гранат 450 мл",
+    "cleanTokens": [
+      "голубика",
+      "гранат"
+    ],
+    "normalizedTokens": [
+      "голубика",
+      "гранат",
+      "450 мл"
+    ],
+    "params": {
+      "volume": "450 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Red Bull Watermelon 250 мл",
+    "cleanTokens": [
+      "watermelon"
+    ],
+    "normalizedTokens": [
+      "watermelon",
+      "250 мл"
+    ],
+    "params": {
+      "volume": "250 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Gorilla напиток энергетический 450 мл",
+    "cleanTokens": [
+      "напиток",
+      "энергетический"
+    ],
+    "normalizedTokens": [
+      "напиток",
+      "энергетический",
+      "450 мл"
+    ],
+    "params": {
+      "volume": "450 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Zet Energy Generation 450 мл",
+    "cleanTokens": [
+      "generation"
+    ],
+    "normalizedTokens": [
+      "generation",
+      "450 мл"
+    ],
+    "params": {
+      "volume": "450 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Lit Energy Original 450 мл",
+    "cleanTokens": [
+      "original"
+    ],
+    "normalizedTokens": [
+      "original",
+      "450 мл"
+    ],
+    "params": {
+      "volume": "450 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Lit Energy Blueberry 450 мл",
+    "cleanTokens": [
+      "blueberry"
+    ],
+    "normalizedTokens": [
+      "blueberry",
+      "450 мл"
+    ],
+    "params": {
+      "volume": "450 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Lit Energy Classic 450 мл",
+    "cleanTokens": [
+      "classic"
+    ],
+    "normalizedTokens": [
+      "classic",
+      "450 мл"
+    ],
+    "params": {
+      "volume": "450 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Flash Up Energy Bubble Gum 450 мл",
+    "cleanTokens": [
+      "energy",
+      "bubble",
+      "gum"
+    ],
+    "normalizedTokens": [
+      "energy",
+      "bubble",
+      "gum",
+      "450 мл"
+    ],
+    "params": {
+      "volume": "450 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Monster Energy Classic 500 мл",
+    "cleanTokens": [
+      "classic"
+    ],
+    "normalizedTokens": [
+      "classic",
+      "500 мл"
+    ],
+    "params": {
+      "volume": "500 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Lit Energy Peach Mango 450 мл",
+    "cleanTokens": [
+      "peach",
+      "mango"
+    ],
+    "normalizedTokens": [
+      "peach",
+      "mango",
+      "450 мл"
+    ],
+    "params": {
+      "volume": "450 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Monster Energy апельсин, лимон 500 мл",
+    "cleanTokens": [
+      "апельсин",
+      "лимон"
+    ],
+    "normalizedTokens": [
+      "апельсин",
+      "лимон",
+      "500 мл"
+    ],
+    "params": {
+      "volume": "500 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Abben Vita Energy Apple Mix 450 мл",
+    "cleanTokens": [
+      "vita",
+      "energy",
+      "apple",
+      "mix"
+    ],
+    "normalizedTokens": [
+      "vita",
+      "energy",
+      "apple",
+      "mix",
+      "450 мл"
+    ],
+    "params": {
+      "volume": "450 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Abben Hard Energy Power of Natural Energy 450 мл",
+    "cleanTokens": [
+      "hard",
+      "energy",
+      "power",
+      "of",
+      "natural",
+      "energy"
+    ],
+    "normalizedTokens": [
+      "hard",
+      "energy",
+      "power",
+      "of",
+      "natural",
+      "energy",
+      "450 мл"
+    ],
+    "params": {
+      "volume": "450 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Flash Up Morning cakes 450 мл",
+    "cleanTokens": [
+      "morning",
+      "cakes"
+    ],
+    "normalizedTokens": [
+      "morning",
+      "cakes",
+      "450 мл"
+    ],
+    "params": {
+      "volume": "450 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Adrenaline Rush Абсолютная энергия 250 мл",
+    "cleanTokens": [
+      "rush",
+      "абсолютная",
+      "энергия"
+    ],
+    "normalizedTokens": [
+      "rush",
+      "абсолютная",
+      "энергия",
+      "250 мл"
+    ],
+    "params": {
+      "volume": "250 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Monster Energy Punch Energy 500 мл",
+    "cleanTokens": [
+      "punch",
+      "energy"
+    ],
+    "normalizedTokens": [
+      "punch",
+      "energy",
+      "500 мл"
+    ],
+    "params": {
+      "volume": "500 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Lit Energy Mango Coconut 450 мл",
+    "cleanTokens": [
+      "mango",
+      "coconut"
+    ],
+    "normalizedTokens": [
+      "mango",
+      "coconut",
+      "450 мл"
+    ],
+    "params": {
+      "volume": "450 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Monster Energy Манго Локо 500 мл",
+    "cleanTokens": [
+      "манго",
+      "локо"
+    ],
+    "normalizedTokens": [
+      "манго",
+      "локо",
+      "500 мл"
+    ],
+    "params": {
+      "volume": "500 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Volt Energy Original 450 мл",
+    "cleanTokens": [
+      "original"
+    ],
+    "normalizedTokens": [
+      "original",
+      "450 мл"
+    ],
+    "params": {
+      "volume": "450 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Abben Vita Energy Berry Mix 450 мл",
+    "cleanTokens": [
+      "vita",
+      "energy",
+      "berry",
+      "mix"
+    ],
+    "normalizedTokens": [
+      "vita",
+      "energy",
+      "berry",
+      "mix",
+      "450 мл"
+    ],
+    "params": {
+      "volume": "450 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Gorilla Juice + Energy Peach 450 мл",
+    "cleanTokens": [
+      "juice",
+      "+",
+      "energy",
+      "peach"
+    ],
+    "normalizedTokens": [
+      "juice",
+      "+",
+      "energy",
+      "peach",
+      "450 мл"
+    ],
+    "params": {
+      "volume": "450 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Gorilla Mango, coconut 330 мл",
+    "cleanTokens": [
+      "mango",
+      "coconut"
+    ],
+    "normalizedTokens": [
+      "mango",
+      "coconut",
+      "330 мл"
+    ],
+    "params": {
+      "volume": "330 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Flash Up Night Movie 450 мл",
+    "cleanTokens": [
+      "night",
+      "movie"
+    ],
+    "normalizedTokens": [
+      "night",
+      "movie",
+      "450 мл"
+    ],
+    "params": {
+      "volume": "450 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Энергетический напиток Gorilla Classic 330 мл",
+    "cleanTokens": [
+      "энергетический",
+      "напиток",
+      "classic"
+    ],
+    "normalizedTokens": [
+      "энергетический",
+      "напиток",
+      "classic",
+      "330 мл"
+    ],
+    "params": {
+      "volume": "330 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Энергетический напиток Red Bull Winter Edition 250 мл",
+    "cleanTokens": [
+      "энергетический",
+      "напиток",
+      "winter",
+      "edition"
+    ],
+    "normalizedTokens": [
+      "энергетический",
+      "напиток",
+      "winter",
+      "edition",
+      "250 мл"
+    ],
+    "params": {
+      "volume": "250 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Monster Energy Ultra Rosa  500 мл",
+    "cleanTokens": [
+      "ultra",
+      "rosa"
+    ],
+    "normalizedTokens": [
+      "ultra",
+      "rosa",
+      "500 мл"
+    ],
+    "params": {
+      "volume": "500 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Gorilla Dragon Fruit Pineapple 450 мл",
+    "cleanTokens": [
+      "dragon",
+      "fruit",
+      "pineapple"
+    ],
+    "normalizedTokens": [
+      "dragon",
+      "fruit",
+      "pineapple",
+      "450 мл"
+    ],
+    "params": {
+      "volume": "450 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Gorilla Energy Drink Pomegranate 450 мл",
+    "cleanTokens": [
+      "energy",
+      "drink",
+      "pomegranate"
+    ],
+    "normalizedTokens": [
+      "energy",
+      "drink",
+      "pomegranate",
+      "450 мл"
+    ],
+    "params": {
+      "volume": "450 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Tarantina Cherimoya 450 мл",
+    "cleanTokens": [
+      "cherimoya"
+    ],
+    "normalizedTokens": [
+      "cherimoya",
+      "450 мл"
+    ],
+    "params": {
+      "volume": "450 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Tarantina Classic 450 мл",
+    "cleanTokens": [
+      "classic"
+    ],
+    "normalizedTokens": [
+      "classic",
+      "450 мл"
+    ],
+    "params": {
+      "volume": "450 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Gorilla Kiwi Cactus 450 мл",
+    "cleanTokens": [
+      "kiwi",
+      "cactus"
+    ],
+    "normalizedTokens": [
+      "kiwi",
+      "cactus",
+      "450 мл"
+    ],
+    "params": {
+      "volume": "450 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Powercell Cherry 450 мл",
+    "cleanTokens": [
+      "cherry"
+    ],
+    "normalizedTokens": [
+      "cherry",
+      "450 мл"
+    ],
+    "params": {
+      "volume": "450 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Monster Energy клубника 500 мл",
+    "cleanTokens": [
+      "клубника"
+    ],
+    "normalizedTokens": [
+      "клубника",
+      "500 мл"
+    ],
+    "params": {
+      "volume": "500 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Энергетический напиток Red Bull Krating daeng 250 мл",
+    "cleanTokens": [
+      "энергетический",
+      "напиток",
+      "krating",
+      "daeng"
+    ],
+    "normalizedTokens": [
+      "энергетический",
+      "напиток",
+      "krating",
+      "daeng",
+      "250 мл"
+    ],
+    "params": {
+      "volume": "250 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Lit Energy Berry Coconut 450 мл",
+    "cleanTokens": [
+      "berry",
+      "coconut"
+    ],
+    "normalizedTokens": [
+      "berry",
+      "coconut",
+      "450 мл"
+    ],
+    "params": {
+      "volume": "450 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Monster Energy Ultra Peachy Keen 500 мл",
+    "cleanTokens": [
+      "ultra",
+      "peachy",
+      "keen"
+    ],
+    "normalizedTokens": [
+      "ultra",
+      "peachy",
+      "keen",
+      "500 мл"
+    ],
+    "params": {
+      "volume": "500 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Monster Energy Monarch Juiced 500 мл",
+    "cleanTokens": [
+      "monarch",
+      "juiced"
+    ],
+    "normalizedTokens": [
+      "monarch",
+      "juiced",
+      "500 мл"
+    ],
+    "params": {
+      "volume": "500 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Lit Energy Granat 450 мл",
+    "cleanTokens": [
+      "granat"
+    ],
+    "normalizedTokens": [
+      "granat",
+      "450 мл"
+    ],
+    "params": {
+      "volume": "450 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Lit Energy Cola 450 мл",
+    "cleanTokens": [
+      "cola"
+    ],
+    "normalizedTokens": [
+      "cola",
+      "450 мл"
+    ],
+    "params": {
+      "volume": "450 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Monster Energy Cosmic Peach Nitro 500 мл",
+    "cleanTokens": [
+      "cosmic",
+      "peach",
+      "nitro"
+    ],
+    "normalizedTokens": [
+      "cosmic",
+      "peach",
+      "nitro",
+      "500 мл"
+    ],
+    "params": {
+      "volume": "500 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Энергетический напиток Lit Energy Original 250 мл",
+    "cleanTokens": [
+      "энергетический",
+      "напиток",
+      "original"
+    ],
+    "normalizedTokens": [
+      "энергетический",
+      "напиток",
+      "original",
+      "250 мл"
+    ],
+    "params": {
+      "volume": "250 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Powercell Energy Drink 450 мл",
+    "cleanTokens": [
+      "energy",
+      "drink"
+    ],
+    "normalizedTokens": [
+      "energy",
+      "drink",
+      "450 мл"
+    ],
+    "params": {
+      "volume": "450 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Red Bull голубика 250 мл",
+    "cleanTokens": [
+      "голубика"
+    ],
+    "normalizedTokens": [
+      "голубика",
+      "250 мл"
+    ],
+    "params": {
+      "volume": "250 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Lit Energy Classic 250 мл",
+    "cleanTokens": [
+      "classic"
+    ],
+    "normalizedTokens": [
+      "classic",
+      "250 мл"
+    ],
+    "params": {
+      "volume": "250 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Monster Energy The Doctor 500 мл",
+    "cleanTokens": [
+      "the",
+      "doctor"
+    ],
+    "normalizedTokens": [
+      "the",
+      "doctor",
+      "500 мл"
+    ],
+    "params": {
+      "volume": "500 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Monster Energy Punch Energy 500 мл",
+    "cleanTokens": [
+      "punch",
+      "energy"
+    ],
+    "normalizedTokens": [
+      "punch",
+      "energy",
+      "500 мл"
+    ],
+    "params": {
+      "volume": "500 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  }
+]

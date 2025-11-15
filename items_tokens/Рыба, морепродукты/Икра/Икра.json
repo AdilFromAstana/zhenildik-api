@@ -1,0 +1,311 @@
+[
+  {
+    "original": "SEALVER FISH икра трески 130 г",
+    "cleanTokens": [
+      "трески"
+    ],
+    "normalizedTokens": [
+      "трески",
+      "130 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "130 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "AC Золото востока икра красная лосось 100 г",
+    "cleanTokens": [
+      "золото",
+      "востока",
+      "красная",
+      "лосось"
+    ],
+    "normalizedTokens": [
+      "золото",
+      "востока",
+      "красная",
+      "лосось",
+      "100 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "100 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "AC Восточный резерв икра красная лосось 100 г",
+    "cleanTokens": [
+      "восточный",
+      "резерв",
+      "красная",
+      "лосось"
+    ],
+    "normalizedTokens": [
+      "восточный",
+      "резерв",
+      "красная",
+      "лосось",
+      "100 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "100 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Обкомовская икра красная лососевая зернистая 95 г",
+    "cleanTokens": [
+      "красная",
+      "лососевая",
+      "зернистая"
+    ],
+    "normalizedTokens": [
+      "красная",
+      "лососевая",
+      "зернистая",
+      "95 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "95 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Обкомовская икра красная лососевая зернистая 200 г",
+    "cleanTokens": [
+      "красная",
+      "лососевая",
+      "зернистая"
+    ],
+    "normalizedTokens": [
+      "красная",
+      "лососевая",
+      "зернистая",
+      "200 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "200 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "AC Золото востока икра красная лосось 130 г",
+    "cleanTokens": [
+      "золото",
+      "востока",
+      "красная",
+      "лосось"
+    ],
+    "normalizedTokens": [
+      "золото",
+      "востока",
+      "красная",
+      "лосось",
+      "130 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "130 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Обкомовская икра красная лососевая зернистая 140 г",
+    "cleanTokens": [
+      "красная",
+      "лососевая",
+      "зернистая"
+    ],
+    "normalizedTokens": [
+      "красная",
+      "лососевая",
+      "зернистая",
+      "140 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "140 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Обкомовская икра красная лососевая зернистая 140 г",
+    "cleanTokens": [
+      "красная",
+      "лососевая",
+      "зернистая"
+    ],
+    "normalizedTokens": [
+      "красная",
+      "лососевая",
+      "зернистая",
+      "140 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "140 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Икорная закуска Ас икра черная из морских водорослей со сливочным кремом 180 г",
+    "cleanTokens": [
+      "икорная",
+      "закуска",
+      "ас",
+      "черная",
+      "из",
+      "морских",
+      "водорослей",
+      "со",
+      "сливочным",
+      "кремом"
+    ],
+    "normalizedTokens": [
+      "икорная",
+      "закуска",
+      "ас",
+      "черная",
+      "из",
+      "морских",
+      "водорослей",
+      "со",
+      "сливочным",
+      "кремом",
+      "180 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "180 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "AC Золото востока икра красная лосось 200 г",
+    "cleanTokens": [
+      "золото",
+      "востока",
+      "красная",
+      "лосось"
+    ],
+    "normalizedTokens": [
+      "золото",
+      "востока",
+      "красная",
+      "лосось",
+      "200 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "200 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Астраханская икра осетровая 56.8 г",
+    "cleanTokens": [
+      "астраханская",
+      "осетровая"
+    ],
+    "normalizedTokens": [
+      "астраханская",
+      "осетровая",
+      "56.8 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "56.8 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Астраханское золото икра щуки 113 г",
+    "cleanTokens": [
+      "щуки"
+    ],
+    "normalizedTokens": [
+      "щуки",
+      "113 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "113 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Астраханская икра осетровая 125 г",
+    "cleanTokens": [
+      "астраханская",
+      "осетровая"
+    ],
+    "normalizedTokens": [
+      "астраханская",
+      "осетровая",
+      "125 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "125 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  }
+]

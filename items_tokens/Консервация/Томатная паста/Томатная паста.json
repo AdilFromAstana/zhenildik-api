@@ -1,0 +1,42 @@
+[
+  {
+    "original": "КУБЛЕЙ томатная паста умеренно острая 270 г",
+    "cleanTokens": [
+      "умеренно",
+      "острая"
+    ],
+    "normalizedTokens": [
+      "умеренно",
+      "острая",
+      "270 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "270 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "3 желания томатная паста неострая 500 г",
+    "cleanTokens": [
+      "неострая"
+    ],
+    "normalizedTokens": [
+      "неострая",
+      "500 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "500 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  }
+]

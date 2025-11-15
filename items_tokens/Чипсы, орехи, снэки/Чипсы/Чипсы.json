@@ -1,0 +1,3131 @@
+[
+  {
+    "original": "Чипсы Cheetos кукурузные Сыр 50 г",
+    "cleanTokens": [
+      "кукурузные",
+      "сыр"
+    ],
+    "normalizedTokens": [
+      "кукурузные",
+      "сыр",
+      "50 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "50 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Чипсы Lay’s картофельные Паприка 70 г",
+    "cleanTokens": [
+      "картофельные",
+      "паприка"
+    ],
+    "normalizedTokens": [
+      "картофельные",
+      "паприка",
+      "70 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "70 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Чипсы Lay’s картофельные Паприка 140 г",
+    "cleanTokens": [
+      "картофельные",
+      "паприка"
+    ],
+    "normalizedTokens": [
+      "картофельные",
+      "паприка",
+      "140 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "140 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Чипсы Grizzly картофельные Паприка 110 г",
+    "cleanTokens": [
+      "картофельные",
+      "паприка"
+    ],
+    "normalizedTokens": [
+      "картофельные",
+      "паприка",
+      "110 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "110 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Чипсы Doritos кукурузные СЫР НАЧО 70 г",
+    "cleanTokens": [
+      "кукурузные",
+      "сыр",
+      "начо"
+    ],
+    "normalizedTokens": [
+      "кукурузные",
+      "сыр",
+      "начо",
+      "70 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "70 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Чипсы Cheetos кукурузные Сыр 85 г",
+    "cleanTokens": [
+      "кукурузные",
+      "сыр"
+    ],
+    "normalizedTokens": [
+      "кукурузные",
+      "сыр",
+      "85 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "85 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Чипсы Pringles картофельные Original 165 г",
+    "cleanTokens": [
+      "картофельные",
+      "original"
+    ],
+    "normalizedTokens": [
+      "картофельные",
+      "original",
+      "165 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "165 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Чипсы Grizzly картофельные Шашлык 110 г",
+    "cleanTokens": [
+      "картофельные",
+      "шашлык"
+    ],
+    "normalizedTokens": [
+      "картофельные",
+      "шашлык",
+      "110 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "110 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Чипсы Lay’s картофельные Из печи Нежный сыр с зеленью 85 г",
+    "cleanTokens": [
+      "картофельные",
+      "из",
+      "печи",
+      "нежный",
+      "сыр",
+      "с",
+      "зеленью"
+    ],
+    "normalizedTokens": [
+      "картофельные",
+      "из",
+      "печи",
+      "нежный",
+      "сыр",
+      "с",
+      "зеленью",
+      "85 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "85 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Чипсы Lay’s картофельные стейк рибай 140 г",
+    "cleanTokens": [
+      "картофельные",
+      "стейк",
+      "рибай"
+    ],
+    "normalizedTokens": [
+      "картофельные",
+      "стейк",
+      "рибай",
+      "140 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "140 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Чипсы Lay’s картофельные малосольные огурчики с укропом 140 г",
+    "cleanTokens": [
+      "картофельные",
+      "малосольные",
+      "огурчики",
+      "с",
+      "укропом"
+    ],
+    "normalizedTokens": [
+      "картофельные",
+      "малосольные",
+      "огурчики",
+      "с",
+      "укропом",
+      "140 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "140 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Чипсы Grizzly картофельные Краб 110 г",
+    "cleanTokens": [
+      "картофельные",
+      "краб"
+    ],
+    "normalizedTokens": [
+      "картофельные",
+      "краб",
+      "110 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "110 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Чипсы Pringles картофельные Sour Cream & Onion 165 г",
+    "cleanTokens": [
+      "картофельные",
+      "sour",
+      "cream",
+      "&",
+      "onion"
+    ],
+    "normalizedTokens": [
+      "картофельные",
+      "sour",
+      "cream",
+      "&",
+      "onion",
+      "165 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "165 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Чипсы Pringles картофельные Paprika 165 г",
+    "cleanTokens": [
+      "картофельные",
+      "paprika"
+    ],
+    "normalizedTokens": [
+      "картофельные",
+      "paprika",
+      "165 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "165 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Чипсы Lay’s картофельные Рифленые Лобстер 70 г",
+    "cleanTokens": [
+      "картофельные",
+      "рифленые",
+      "лобстер"
+    ],
+    "normalizedTokens": [
+      "картофельные",
+      "рифленые",
+      "лобстер",
+      "70 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "70 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Чипсы Lay’s картофельные Рифленые Паприка 225 г",
+    "cleanTokens": [
+      "картофельные",
+      "рифленые",
+      "паприка"
+    ],
+    "normalizedTokens": [
+      "картофельные",
+      "рифленые",
+      "паприка",
+      "225 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "225 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Чипсы Doritos кукурузные Hot Corn 130 г",
+    "cleanTokens": [
+      "кукурузные",
+      "hot",
+      "corn"
+    ],
+    "normalizedTokens": [
+      "кукурузные",
+      "hot",
+      "corn",
+      "130 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "130 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Чипсы FAN картофельные Со вкусом сметаны и лука 65 г",
+    "cleanTokens": [
+      "картофельные",
+      "со",
+      "вкусом",
+      "сметаны",
+      "и",
+      "лука"
+    ],
+    "normalizedTokens": [
+      "картофельные",
+      "со",
+      "вкусом",
+      "сметаны",
+      "и",
+      "лука",
+      "65 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "65 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Чипсы Dr.Korner зерновые Розмарин и оливковое масло 50 г",
+    "cleanTokens": [
+      "зерновые",
+      "розмарин",
+      "и",
+      "оливковое",
+      "масло"
+    ],
+    "normalizedTokens": [
+      "зерновые",
+      "розмарин",
+      "и",
+      "оливковое",
+      "масло",
+      "50 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "50 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Чипсы Dr.Korner кукурузные Корнерсы Паприка чили 50 г",
+    "cleanTokens": [
+      "кукурузные",
+      "корнерсы",
+      "паприка",
+      "чили"
+    ],
+    "normalizedTokens": [
+      "кукурузные",
+      "корнерсы",
+      "паприка",
+      "чили",
+      "50 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "50 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Чипсы Lay’s картофельные Сметана и зелень 225 г",
+    "cleanTokens": [
+      "картофельные",
+      "сметана",
+      "и",
+      "зелень"
+    ],
+    "normalizedTokens": [
+      "картофельные",
+      "сметана",
+      "и",
+      "зелень",
+      "225 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "225 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Чипсы Doritos кукурузные taco baharatli 130 г",
+    "cleanTokens": [
+      "кукурузные",
+      "taco",
+      "baharatli"
+    ],
+    "normalizedTokens": [
+      "кукурузные",
+      "taco",
+      "baharatli",
+      "130 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "130 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Чипсы FAN картофельные Красная икра 120 г",
+    "cleanTokens": [
+      "картофельные",
+      "красная",
+      "икра"
+    ],
+    "normalizedTokens": [
+      "картофельные",
+      "красная",
+      "икра",
+      "120 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "120 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Чипсы Lay’s картофельные Зеленый лук 140 г",
+    "cleanTokens": [
+      "картофельные",
+      "зеленый",
+      "лук"
+    ],
+    "normalizedTokens": [
+      "картофельные",
+      "зеленый",
+      "лук",
+      "140 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "140 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Чипсы Mini Free картофельные Луковые кольца со вкусом сметаны 45 г",
+    "cleanTokens": [
+      "картофельные",
+      "луковые",
+      "кольца",
+      "со",
+      "вкусом",
+      "сметаны"
+    ],
+    "normalizedTokens": [
+      "картофельные",
+      "луковые",
+      "кольца",
+      "со",
+      "вкусом",
+      "сметаны",
+      "45 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "45 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Чипсы Lay’s картофельные Краб 225 г",
+    "cleanTokens": [
+      "картофельные",
+      "краб"
+    ],
+    "normalizedTokens": [
+      "картофельные",
+      "краб",
+      "225 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "225 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Чипсы Dr.Korner кукурузные Корнерсы цельнозерновые томат и базилик 50 г",
+    "cleanTokens": [
+      "кукурузные",
+      "корнерсы",
+      "цельнозерновые",
+      "томат",
+      "и",
+      "базилик"
+    ],
+    "normalizedTokens": [
+      "кукурузные",
+      "корнерсы",
+      "цельнозерновые",
+      "томат",
+      "и",
+      "базилик",
+      "50 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "50 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Чипсы Grizzly картофельные Сметана, лук 55 г",
+    "cleanTokens": [
+      "картофельные",
+      "сметана",
+      "лук"
+    ],
+    "normalizedTokens": [
+      "картофельные",
+      "сметана",
+      "лук",
+      "55 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "55 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Чипсы Mini Free овощные Луковые кольца со вкусом сыра 45 г",
+    "cleanTokens": [
+      "овощные",
+      "луковые",
+      "кольца",
+      "со",
+      "вкусом",
+      "сыра"
+    ],
+    "normalizedTokens": [
+      "овощные",
+      "луковые",
+      "кольца",
+      "со",
+      "вкусом",
+      "сыра",
+      "45 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "45 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Чипсы Lay’s картофельные С солью 70 г",
+    "cleanTokens": [
+      "картофельные",
+      "с",
+      "солью"
+    ],
+    "normalizedTokens": [
+      "картофельные",
+      "с",
+      "солью",
+      "70 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "70 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Чипсы Pringles картофельные Cheesy Cheese 165 г",
+    "cleanTokens": [
+      "картофельные",
+      "cheesy",
+      "cheese"
+    ],
+    "normalizedTokens": [
+      "картофельные",
+      "cheesy",
+      "cheese",
+      "165 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "165 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Чипсы FAN картофельные Со вкусом красной икры 65 г",
+    "cleanTokens": [
+      "картофельные",
+      "со",
+      "вкусом",
+      "красной",
+      "икры"
+    ],
+    "normalizedTokens": [
+      "картофельные",
+      "со",
+      "вкусом",
+      "красной",
+      "икры",
+      "65 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "65 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Чипсы FAN картофельные Сыр 65 г",
+    "cleanTokens": [
+      "картофельные",
+      "сыр"
+    ],
+    "normalizedTokens": [
+      "картофельные",
+      "сыр",
+      "65 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "65 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Чипсы Lay’s картофельные Шашлык 140 г",
+    "cleanTokens": [
+      "картофельные",
+      "шашлык"
+    ],
+    "normalizedTokens": [
+      "картофельные",
+      "шашлык",
+      "140 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "140 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Чипсы Lay’s картофельные Maxx пицца 4 сыра 100 г",
+    "cleanTokens": [
+      "картофельные",
+      "maxx",
+      "пицца",
+      "4",
+      "сыра"
+    ],
+    "normalizedTokens": [
+      "картофельные",
+      "maxx",
+      "пицца",
+      "4",
+      "сыра",
+      "100 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "100 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Чипсы Cheetos кукурузные Кетчуп 50 г",
+    "cleanTokens": [
+      "кукурузные",
+      "кетчуп"
+    ],
+    "normalizedTokens": [
+      "кукурузные",
+      "кетчуп",
+      "50 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "50 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Чипсы Lay’s картофельные Maxx крылышки барбекю 100 г",
+    "cleanTokens": [
+      "картофельные",
+      "maxx",
+      "крылышки",
+      "барбекю"
+    ],
+    "normalizedTokens": [
+      "картофельные",
+      "maxx",
+      "крылышки",
+      "барбекю",
+      "100 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "100 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Чипсы Grizzly картофельные Рифленые со вкусом колбасок гриль в горчичном соусе 55 г",
+    "cleanTokens": [
+      "картофельные",
+      "рифленые",
+      "со",
+      "вкусом",
+      "колбасок",
+      "гриль",
+      "в",
+      "горчичном",
+      "соусе"
+    ],
+    "normalizedTokens": [
+      "картофельные",
+      "рифленые",
+      "со",
+      "вкусом",
+      "колбасок",
+      "гриль",
+      "в",
+      "горчичном",
+      "соусе",
+      "55 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "55 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Чипсы Cheetos кукурузные Кетчуп 85 г",
+    "cleanTokens": [
+      "кукурузные",
+      "кетчуп"
+    ],
+    "normalizedTokens": [
+      "кукурузные",
+      "кетчуп",
+      "85 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "85 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Чипсы Doritos кукурузные острый перец и сыр 102 г",
+    "cleanTokens": [
+      "кукурузные",
+      "острый",
+      "перец",
+      "и",
+      "сыр"
+    ],
+    "normalizedTokens": [
+      "кукурузные",
+      "острый",
+      "перец",
+      "и",
+      "сыр",
+      "102 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "102 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Чипсы Pringles картофельные Cheese & onion 165 г",
+    "cleanTokens": [
+      "картофельные",
+      "cheese",
+      "&",
+      "onion"
+    ],
+    "normalizedTokens": [
+      "картофельные",
+      "cheese",
+      "&",
+      "onion",
+      "165 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "165 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Чипсы Grizzly картофельные Шашлык 55 г",
+    "cleanTokens": [
+      "картофельные",
+      "шашлык"
+    ],
+    "normalizedTokens": [
+      "картофельные",
+      "шашлык",
+      "55 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "55 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Чипсы Grizzly картофельные Сыр 55 г",
+    "cleanTokens": [
+      "картофельные",
+      "сыр"
+    ],
+    "normalizedTokens": [
+      "картофельные",
+      "сыр",
+      "55 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "55 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Чипсы Big Bon картофельные сметана и зеленый лук 130 г",
+    "cleanTokens": [
+      "картофельные",
+      "сметана",
+      "и",
+      "зеленый",
+      "лук"
+    ],
+    "normalizedTokens": [
+      "картофельные",
+      "сметана",
+      "и",
+      "зеленый",
+      "лук",
+      "130 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "130 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Чипсы Doritos кукурузные Taco Пряная паприка 70 г",
+    "cleanTokens": [
+      "кукурузные",
+      "taco",
+      "пряная",
+      "паприка"
+    ],
+    "normalizedTokens": [
+      "кукурузные",
+      "taco",
+      "пряная",
+      "паприка",
+      "70 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "70 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Чипсы Lay’s картофельные Зеленый лук 70 г",
+    "cleanTokens": [
+      "картофельные",
+      "зеленый",
+      "лук"
+    ],
+    "normalizedTokens": [
+      "картофельные",
+      "зеленый",
+      "лук",
+      "70 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "70 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Чипсы Kracks картофельные Original 160 г",
+    "cleanTokens": [
+      "картофельные",
+      "original"
+    ],
+    "normalizedTokens": [
+      "картофельные",
+      "original",
+      "160 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "160 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Чипсы Doritos кукурузные Острый перец 70 г",
+    "cleanTokens": [
+      "кукурузные",
+      "острый",
+      "перец"
+    ],
+    "normalizedTokens": [
+      "кукурузные",
+      "острый",
+      "перец",
+      "70 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "70 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Чипсы Big Bon картофельные сметана и лук 75 г",
+    "cleanTokens": [
+      "картофельные",
+      "сметана",
+      "и",
+      "лук"
+    ],
+    "normalizedTokens": [
+      "картофельные",
+      "сметана",
+      "и",
+      "лук",
+      "75 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "75 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Чипсы Big Bon картофельные краб 75 г",
+    "cleanTokens": [
+      "картофельные",
+      "краб"
+    ],
+    "normalizedTokens": [
+      "картофельные",
+      "краб",
+      "75 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "75 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Чипсы Big Bon картофельные снежный краб 130 г",
+    "cleanTokens": [
+      "картофельные",
+      "снежный",
+      "краб"
+    ],
+    "normalizedTokens": [
+      "картофельные",
+      "снежный",
+      "краб",
+      "130 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "130 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Чипсы Grizzly картофельные Краб 55 г",
+    "cleanTokens": [
+      "картофельные",
+      "краб"
+    ],
+    "normalizedTokens": [
+      "картофельные",
+      "краб",
+      "55 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "55 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Чипсы Grizzly картофельные Сыр 110 г",
+    "cleanTokens": [
+      "картофельные",
+      "сыр"
+    ],
+    "normalizedTokens": [
+      "картофельные",
+      "сыр",
+      "110 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "110 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Чипсы Big Bon картофельные пикантная паприка 130 г",
+    "cleanTokens": [
+      "картофельные",
+      "пикантная",
+      "паприка"
+    ],
+    "normalizedTokens": [
+      "картофельные",
+      "пикантная",
+      "паприка",
+      "130 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "130 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Чипсы Lay’s картофельные Шашлык 70 г",
+    "cleanTokens": [
+      "картофельные",
+      "шашлык"
+    ],
+    "normalizedTokens": [
+      "картофельные",
+      "шашлык",
+      "70 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "70 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Чипсы Kracks картофельные Barbeque 160 г",
+    "cleanTokens": [
+      "картофельные",
+      "barbeque"
+    ],
+    "normalizedTokens": [
+      "картофельные",
+      "barbeque",
+      "160 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "160 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Чипсы Lay’s картофельные сырный соус 50 г",
+    "cleanTokens": [
+      "картофельные",
+      "сырный",
+      "соус"
+    ],
+    "normalizedTokens": [
+      "картофельные",
+      "сырный",
+      "соус",
+      "50 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "50 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Чипсы Lay’s картофельные соус барбекю 50 г",
+    "cleanTokens": [
+      "картофельные",
+      "соус",
+      "барбекю"
+    ],
+    "normalizedTokens": [
+      "картофельные",
+      "соус",
+      "барбекю",
+      "50 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "50 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Чипсы Kracks картофельные Cheese 45 г",
+    "cleanTokens": [
+      "картофельные",
+      "cheese"
+    ],
+    "normalizedTokens": [
+      "картофельные",
+      "cheese",
+      "45 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "45 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Чипсы Pringles картофельные Original 40 г",
+    "cleanTokens": [
+      "картофельные",
+      "original"
+    ],
+    "normalizedTokens": [
+      "картофельные",
+      "original",
+      "40 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "40 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Чипсы Lay’s картофельные острая креветка васаби 105 г",
+    "cleanTokens": [
+      "картофельные",
+      "острая",
+      "креветка",
+      "васаби"
+    ],
+    "normalizedTokens": [
+      "картофельные",
+      "острая",
+      "креветка",
+      "васаби",
+      "105 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "105 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Чипсы Kracks картофельные Sour Cream & Onion 45 г",
+    "cleanTokens": [
+      "картофельные",
+      "sour",
+      "cream",
+      "&",
+      "onion"
+    ],
+    "normalizedTokens": [
+      "картофельные",
+      "sour",
+      "cream",
+      "&",
+      "onion",
+      "45 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "45 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Чипсы Grizzly картофельные том-ям 45 г",
+    "cleanTokens": [
+      "картофельные",
+      "том-ям"
+    ],
+    "normalizedTokens": [
+      "картофельные",
+      "том-ям",
+      "45 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "45 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Чипсы Grizzly картофельные BBQ 130 г",
+    "cleanTokens": [
+      "картофельные",
+      "bbq"
+    ],
+    "normalizedTokens": [
+      "картофельные",
+      "bbq",
+      "130 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "130 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Чипсы Big Bon картофельные морская соль 75 г",
+    "cleanTokens": [
+      "картофельные",
+      "морская",
+      "соль"
+    ],
+    "normalizedTokens": [
+      "картофельные",
+      "морская",
+      "соль",
+      "75 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "75 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Чипсы Kracks картофельные Original 45 г",
+    "cleanTokens": [
+      "картофельные",
+      "original"
+    ],
+    "normalizedTokens": [
+      "картофельные",
+      "original",
+      "45 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "45 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Чипсы Lay’s картофельные Stax Ароматные ребрышки барбекю 140 г",
+    "cleanTokens": [
+      "картофельные",
+      "stax",
+      "ароматные",
+      "ребрышки",
+      "барбекю"
+    ],
+    "normalizedTokens": [
+      "картофельные",
+      "stax",
+      "ароматные",
+      "ребрышки",
+      "барбекю",
+      "140 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "140 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Чипсы Lay’s картофельные Stax Пикантная паприка 140 г",
+    "cleanTokens": [
+      "картофельные",
+      "stax",
+      "пикантная",
+      "паприка"
+    ],
+    "normalizedTokens": [
+      "картофельные",
+      "stax",
+      "пикантная",
+      "паприка",
+      "140 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "140 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Чипсы Kracks картофельные Barbeque 45 г",
+    "cleanTokens": [
+      "картофельные",
+      "barbeque"
+    ],
+    "normalizedTokens": [
+      "картофельные",
+      "barbeque",
+      "45 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "45 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Чипсы Lay’s картофельные Maxx двойной гамбургер 100 г",
+    "cleanTokens": [
+      "картофельные",
+      "maxx",
+      "двойной",
+      "гамбургер"
+    ],
+    "normalizedTokens": [
+      "картофельные",
+      "maxx",
+      "двойной",
+      "гамбургер",
+      "100 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "100 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Чипсы Lay’s картофельные Stax Нежная сметана и лук 140 г",
+    "cleanTokens": [
+      "картофельные",
+      "stax",
+      "нежная",
+      "сметана",
+      "и",
+      "лук"
+    ],
+    "normalizedTokens": [
+      "картофельные",
+      "stax",
+      "нежная",
+      "сметана",
+      "и",
+      "лук",
+      "140 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "140 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Чипсы Lit Energy картофельные сметана и зелень 120 г",
+    "cleanTokens": [
+      "картофельные",
+      "сметана",
+      "и",
+      "зелень"
+    ],
+    "normalizedTokens": [
+      "картофельные",
+      "сметана",
+      "и",
+      "зелень",
+      "120 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "120 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Чипсы Pringles картофельные Hot & spicy 165 г",
+    "cleanTokens": [
+      "картофельные",
+      "hot",
+      "&",
+      "spicy"
+    ],
+    "normalizedTokens": [
+      "картофельные",
+      "hot",
+      "&",
+      "spicy",
+      "165 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "165 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Чипсы Cheetos кукурузные сладкий тай чили 70 г",
+    "cleanTokens": [
+      "кукурузные",
+      "сладкий",
+      "тай",
+      "чили"
+    ],
+    "normalizedTokens": [
+      "кукурузные",
+      "сладкий",
+      "тай",
+      "чили",
+      "70 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "70 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Чипсы Cheetos кукурузные краб 85 г",
+    "cleanTokens": [
+      "кукурузные",
+      "краб"
+    ],
+    "normalizedTokens": [
+      "кукурузные",
+      "краб",
+      "85 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "85 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Чипсы Pringles картофельные Сметана и Лук 40 г",
+    "cleanTokens": [
+      "картофельные",
+      "сметана",
+      "и",
+      "лук"
+    ],
+    "normalizedTokens": [
+      "картофельные",
+      "сметана",
+      "и",
+      "лук",
+      "40 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "40 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Чипсы Grizzly картофельные сыр 70 г",
+    "cleanTokens": [
+      "картофельные",
+      "сыр"
+    ],
+    "normalizedTokens": [
+      "картофельные",
+      "сыр",
+      "70 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "70 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Чипсы Grizzly картофельные Original 70 г",
+    "cleanTokens": [
+      "картофельные",
+      "original"
+    ],
+    "normalizedTokens": [
+      "картофельные",
+      "original",
+      "70 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "70 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Чипсы Pringles картофельные Paprika 40 г",
+    "cleanTokens": [
+      "картофельные",
+      "paprika"
+    ],
+    "normalizedTokens": [
+      "картофельные",
+      "paprika",
+      "40 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "40 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Чипсы Grizzly картофельные сладкий чили 45 г",
+    "cleanTokens": [
+      "картофельные",
+      "сладкий",
+      "чили"
+    ],
+    "normalizedTokens": [
+      "картофельные",
+      "сладкий",
+      "чили",
+      "45 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "45 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Чипсы Grizzly картофельные Cheese&Onion 130 г",
+    "cleanTokens": [
+      "картофельные",
+      "cheese&onion"
+    ],
+    "normalizedTokens": [
+      "картофельные",
+      "cheese&onion",
+      "130 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "130 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Чипсы Lit Energy картофельные Сыр Чеддер 120 г",
+    "cleanTokens": [
+      "картофельные",
+      "сыр",
+      "чеддер"
+    ],
+    "normalizedTokens": [
+      "картофельные",
+      "сыр",
+      "чеддер",
+      "120 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "120 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Чипсы Hunter's Gourmet картофельные черного трюфеля и пармезана 150 г",
+    "cleanTokens": [
+      "картофельные",
+      "черного",
+      "трюфеля",
+      "и",
+      "пармезана"
+    ],
+    "normalizedTokens": [
+      "картофельные",
+      "черного",
+      "трюфеля",
+      "и",
+      "пармезана",
+      "150 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "150 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Чипсы Grizzly картофельные Краб 130 г",
+    "cleanTokens": [
+      "картофельные",
+      "краб"
+    ],
+    "normalizedTokens": [
+      "картофельные",
+      "краб",
+      "130 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "130 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Чипсы Lit Energy картофельные сахалинский краб 120 г",
+    "cleanTokens": [
+      "картофельные",
+      "сахалинский",
+      "краб"
+    ],
+    "normalizedTokens": [
+      "картофельные",
+      "сахалинский",
+      "краб",
+      "120 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "120 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Чипсы Lay’s картофельные Flamin'Hot 105 г",
+    "cleanTokens": [
+      "картофельные",
+      "flamin'hot"
+    ],
+    "normalizedTokens": [
+      "картофельные",
+      "flamin'hot",
+      "105 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "105 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Чипсы ЕВРО ФУДС кукурузные Сыр 150 г",
+    "cleanTokens": [
+      "кукурузные",
+      "сыр"
+    ],
+    "normalizedTokens": [
+      "кукурузные",
+      "сыр",
+      "150 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "150 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Чипсы Pringles картофельные Salt & Vinegar 165 г",
+    "cleanTokens": [
+      "картофельные",
+      "salt",
+      "&",
+      "vinegar"
+    ],
+    "normalizedTokens": [
+      "картофельные",
+      "salt",
+      "&",
+      "vinegar",
+      "165 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "165 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Чипсы Pringles картофельные Hot & Spicy 40 г",
+    "cleanTokens": [
+      "картофельные",
+      "hot",
+      "&",
+      "spicy"
+    ],
+    "normalizedTokens": [
+      "картофельные",
+      "hot",
+      "&",
+      "spicy",
+      "40 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "40 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Чипсы ЕВРО ФУДС кукурузные Барбекю 150 г",
+    "cleanTokens": [
+      "кукурузные",
+      "барбекю"
+    ],
+    "normalizedTokens": [
+      "кукурузные",
+      "барбекю",
+      "150 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "150 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Чипсы ЕВРО ФУДС кукурузные Сыр 75 г",
+    "cleanTokens": [
+      "кукурузные",
+      "сыр"
+    ],
+    "normalizedTokens": [
+      "кукурузные",
+      "сыр",
+      "75 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "75 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Чипсы ЕВРО ФУДС кукурузные Сметана и лук 75 г",
+    "cleanTokens": [
+      "кукурузные",
+      "сметана",
+      "и",
+      "лук"
+    ],
+    "normalizedTokens": [
+      "кукурузные",
+      "сметана",
+      "и",
+      "лук",
+      "75 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "75 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Чипсы Мираторг овощные Кольца луковые 250 г",
+    "cleanTokens": [
+      "овощные",
+      "кольца",
+      "луковые"
+    ],
+    "normalizedTokens": [
+      "овощные",
+      "кольца",
+      "луковые",
+      "250 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "250 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Чипсы ЕВРО ФУДС кукурузные Барбекю 75 г",
+    "cleanTokens": [
+      "кукурузные",
+      "барбекю"
+    ],
+    "normalizedTokens": [
+      "кукурузные",
+      "барбекю",
+      "75 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "75 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Чипсы HAPPY CRISP кукурузные Соус Сальса 75 г",
+    "cleanTokens": [
+      "кукурузные",
+      "соус",
+      "сальса"
+    ],
+    "normalizedTokens": [
+      "кукурузные",
+      "соус",
+      "сальса",
+      "75 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "75 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Чипсы Real Chips кукурузные краб 85 г",
+    "cleanTokens": [
+      "кукурузные",
+      "краб"
+    ],
+    "normalizedTokens": [
+      "кукурузные",
+      "краб",
+      "85 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "85 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Чипсы Pringles картофельные Chaddar Cheese 158 г",
+    "cleanTokens": [
+      "картофельные",
+      "chaddar",
+      "cheese"
+    ],
+    "normalizedTokens": [
+      "картофельные",
+      "chaddar",
+      "cheese",
+      "158 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "158 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Чипсы Lay’s картофельные Cucumber flavor 90 г",
+    "cleanTokens": [
+      "картофельные",
+      "cucumber",
+      "flavor"
+    ],
+    "normalizedTokens": [
+      "картофельные",
+      "cucumber",
+      "flavor",
+      "90 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "90 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Чипсы Pringles картофельные Adobada 158 г",
+    "cleanTokens": [
+      "картофельные",
+      "adobada"
+    ],
+    "normalizedTokens": [
+      "картофельные",
+      "adobada",
+      "158 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "158 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Чипсы Pringles картофельные сыр и соус чили 160 г",
+    "cleanTokens": [
+      "картофельные",
+      "сыр",
+      "и",
+      "соус",
+      "чили"
+    ],
+    "normalizedTokens": [
+      "картофельные",
+      "сыр",
+      "и",
+      "соус",
+      "чили",
+      "160 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "160 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Чипсы Fox nut&snack кукурузные сладкий перец 40 г",
+    "cleanTokens": [
+      "кукурузные",
+      "сладкий",
+      "перец"
+    ],
+    "normalizedTokens": [
+      "кукурузные",
+      "сладкий",
+      "перец",
+      "40 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "40 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Чипсы ЕВРО ФУДС кукурузные Сметана и лук 150 г",
+    "cleanTokens": [
+      "кукурузные",
+      "сметана",
+      "и",
+      "лук"
+    ],
+    "normalizedTokens": [
+      "кукурузные",
+      "сметана",
+      "и",
+      "лук",
+      "150 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "150 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Чипсы А4 картофельные Кранчи сыр чеддер 80 г",
+    "cleanTokens": [
+      "картофельные",
+      "кранчи",
+      "сыр",
+      "чеддер"
+    ],
+    "normalizedTokens": [
+      "картофельные",
+      "кранчи",
+      "сыр",
+      "чеддер",
+      "80 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "80 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Чипсы А4 картофельные сметана и лук 80 г",
+    "cleanTokens": [
+      "картофельные",
+      "сметана",
+      "и",
+      "лук"
+    ],
+    "normalizedTokens": [
+      "картофельные",
+      "сметана",
+      "и",
+      "лук",
+      "80 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "80 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Чипсы Pringles картофельные Ketchup 165 г",
+    "cleanTokens": [
+      "картофельные",
+      "ketchup"
+    ],
+    "normalizedTokens": [
+      "картофельные",
+      "ketchup",
+      "165 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "165 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Чипсы Pringles картофельные пицца 165 г",
+    "cleanTokens": [
+      "картофельные",
+      "пицца"
+    ],
+    "normalizedTokens": [
+      "картофельные",
+      "пицца",
+      "165 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "165 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Чипсы Lay’s картофельные Пикантная паприка 140 г",
+    "cleanTokens": [
+      "картофельные",
+      "пикантная",
+      "паприка"
+    ],
+    "normalizedTokens": [
+      "картофельные",
+      "пикантная",
+      "паприка",
+      "140 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "140 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Чипсы HAPPY CRISP кукурузные Тайский кисло-сладкий соус 75 г",
+    "cleanTokens": [
+      "кукурузные",
+      "тайский",
+      "кисло-сладкий",
+      "соус"
+    ],
+    "normalizedTokens": [
+      "кукурузные",
+      "тайский",
+      "кисло-сладкий",
+      "соус",
+      "75 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "75 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "REAL CHIPS Кукурузные чипсы со вкусом Грибы со сметаной 85г",
+    "cleanTokens": [
+      "кукурузные",
+      "со",
+      "вкусом",
+      "грибы",
+      "со",
+      "сметаной",
+      "85г"
+    ],
+    "normalizedTokens": [
+      "кукурузные",
+      "со",
+      "вкусом",
+      "грибы",
+      "со",
+      "сметаной",
+      "85г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Чипсы Pringles картофельные Texas BBQ sauce 40 г",
+    "cleanTokens": [
+      "картофельные",
+      "texas",
+      "bbq",
+      "sauce"
+    ],
+    "normalizedTokens": [
+      "картофельные",
+      "texas",
+      "bbq",
+      "sauce",
+      "40 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "40 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Чипсы Hunter's Gourmet картофельные со вкусом морской соли 40 г",
+    "cleanTokens": [
+      "картофельные",
+      "со",
+      "вкусом",
+      "морской",
+      "соли"
+    ],
+    "normalizedTokens": [
+      "картофельные",
+      "со",
+      "вкусом",
+      "морской",
+      "соли",
+      "40 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "40 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Чипсы Chilimba кукурузные Пиццы 30 г",
+    "cleanTokens": [
+      "кукурузные",
+      "пиццы"
+    ],
+    "normalizedTokens": [
+      "кукурузные",
+      "пиццы",
+      "30 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "30 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Чипсы Lay’s картофельные Black Pepper Rib Eye Steak flavor 90 г",
+    "cleanTokens": [
+      "картофельные",
+      "black",
+      "pepper",
+      "rib",
+      "eye",
+      "steak",
+      "flavor"
+    ],
+    "normalizedTokens": [
+      "картофельные",
+      "black",
+      "pepper",
+      "rib",
+      "eye",
+      "steak",
+      "flavor",
+      "90 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "90 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Чипсы Hunter's Gourmet картофельные черного трюфеля 150 г",
+    "cleanTokens": [
+      "картофельные",
+      "черного",
+      "трюфеля"
+    ],
+    "normalizedTokens": [
+      "картофельные",
+      "черного",
+      "трюфеля",
+      "150 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "150 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Чипсы Chilimba кукурузные Острые крышылки 30 г",
+    "cleanTokens": [
+      "кукурузные",
+      "острые",
+      "крышылки"
+    ],
+    "normalizedTokens": [
+      "кукурузные",
+      "острые",
+      "крышылки",
+      "30 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "30 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Чипсы Pringles картофельные Salt&Vinegar 40 г",
+    "cleanTokens": [
+      "картофельные",
+      "salt&vinegar"
+    ],
+    "normalizedTokens": [
+      "картофельные",
+      "salt&vinegar",
+      "40 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "40 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Чипсы Pringles картофельные чили и лайм 160 г",
+    "cleanTokens": [
+      "картофельные",
+      "чили",
+      "и",
+      "лайм"
+    ],
+    "normalizedTokens": [
+      "картофельные",
+      "чили",
+      "и",
+      "лайм",
+      "160 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "160 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Чипсы Lay’s картофельные Lime flavor 90 г",
+    "cleanTokens": [
+      "картофельные",
+      "lime",
+      "flavor"
+    ],
+    "normalizedTokens": [
+      "картофельные",
+      "lime",
+      "flavor",
+      "90 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "90 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Чипсы Hunter's Gourmet картофельные морской соли 140 г",
+    "cleanTokens": [
+      "картофельные",
+      "морской",
+      "соли"
+    ],
+    "normalizedTokens": [
+      "картофельные",
+      "морской",
+      "соли",
+      "140 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "140 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Чипсы Hunter's Gourmet картофельные со вкусом черной икры 150 г",
+    "cleanTokens": [
+      "картофельные",
+      "со",
+      "вкусом",
+      "черной",
+      "икры"
+    ],
+    "normalizedTokens": [
+      "картофельные",
+      "со",
+      "вкусом",
+      "черной",
+      "икры",
+      "150 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "150 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Чипсы Hunter's Gourmet картофельные морской соли и яблочного уксуса 40 г",
+    "cleanTokens": [
+      "картофельные",
+      "морской",
+      "соли",
+      "и",
+      "яблочного",
+      "уксуса"
+    ],
+    "normalizedTokens": [
+      "картофельные",
+      "морской",
+      "соли",
+      "и",
+      "яблочного",
+      "уксуса",
+      "40 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "40 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Чипсы Hunter's Gourmet картофельные со вкусом черного трюфеля и белых грибов 150 г",
+    "cleanTokens": [
+      "картофельные",
+      "со",
+      "вкусом",
+      "черного",
+      "трюфеля",
+      "и",
+      "белых",
+      "грибов"
+    ],
+    "normalizedTokens": [
+      "картофельные",
+      "со",
+      "вкусом",
+      "черного",
+      "трюфеля",
+      "и",
+      "белых",
+      "грибов",
+      "150 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "150 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Чипсы Lay’s картофельные Preserved vegetable pancake 140 г",
+    "cleanTokens": [
+      "картофельные",
+      "preserved",
+      "vegetable",
+      "pancake"
+    ],
+    "normalizedTokens": [
+      "картофельные",
+      "preserved",
+      "vegetable",
+      "pancake",
+      "140 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "140 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Чипсы HAPPY CRISP кукурузные Горчица с луком 75 г",
+    "cleanTokens": [
+      "кукурузные",
+      "горчица",
+      "с",
+      "луком"
+    ],
+    "normalizedTokens": [
+      "кукурузные",
+      "горчица",
+      "с",
+      "луком",
+      "75 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "75 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Чипсы Hunter's Gourmet картофельные фуа-гра 150 г",
+    "cleanTokens": [
+      "картофельные",
+      "фуа-гра"
+    ],
+    "normalizedTokens": [
+      "картофельные",
+      "фуа-гра",
+      "150 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "150 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Чипсы Lay’s картофельные Tomato flavor 90 г",
+    "cleanTokens": [
+      "картофельные",
+      "tomato",
+      "flavor"
+    ],
+    "normalizedTokens": [
+      "картофельные",
+      "tomato",
+      "flavor",
+      "90 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "90 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Чипсы Lay’s картофельные Sizzled Barbeque 90 г",
+    "cleanTokens": [
+      "картофельные",
+      "sizzled",
+      "barbeque"
+    ],
+    "normalizedTokens": [
+      "картофельные",
+      "sizzled",
+      "barbeque",
+      "90 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "90 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Чипсы Pringles картофельные Ranch 158 г",
+    "cleanTokens": [
+      "картофельные",
+      "ranch"
+    ],
+    "normalizedTokens": [
+      "картофельные",
+      "ranch",
+      "158 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "158 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Чипсы Pringles картофельные сладкий чили 160 г",
+    "cleanTokens": [
+      "картофельные",
+      "сладкий",
+      "чили"
+    ],
+    "normalizedTokens": [
+      "картофельные",
+      "сладкий",
+      "чили",
+      "160 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "160 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Чипсы Lay’s картофельные Stax Nori Seaweed 42 г",
+    "cleanTokens": [
+      "картофельные",
+      "stax",
+      "nori",
+      "seaweed"
+    ],
+    "normalizedTokens": [
+      "картофельные",
+      "stax",
+      "nori",
+      "seaweed",
+      "42 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "42 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Чипсы Pringles картофельные сметана и лук 160 г",
+    "cleanTokens": [
+      "картофельные",
+      "сметана",
+      "и",
+      "лук"
+    ],
+    "normalizedTokens": [
+      "картофельные",
+      "сметана",
+      "и",
+      "лук",
+      "160 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "160 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Чипсы Lay’s картофельные Stax Spicy Lobster 42 г",
+    "cleanTokens": [
+      "картофельные",
+      "stax",
+      "spicy",
+      "lobster"
+    ],
+    "normalizedTokens": [
+      "картофельные",
+      "stax",
+      "spicy",
+      "lobster",
+      "42 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "42 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  }
+]

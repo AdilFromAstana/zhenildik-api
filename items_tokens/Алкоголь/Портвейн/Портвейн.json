@@ -1,0 +1,531 @@
+[
+  {
+    "original": "Портвейн Quinta do Portal 29 Grapes сладкий красный 20% 0.75 л",
+    "cleanTokens": [
+      "29",
+      "grapes",
+      "сладкий",
+      "красный"
+    ],
+    "normalizedTokens": [
+      "29",
+      "grapes",
+      "сладкий",
+      "красный",
+      "20%",
+      "0.75 л"
+    ],
+    "params": {
+      "volume": "0.75 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "20%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Портвейн Dow's 20 Years Tawny Port сладкий красный 20% 0.75 л",
+    "cleanTokens": [
+      "tawny",
+      "port",
+      "сладкий",
+      "красный"
+    ],
+    "normalizedTokens": [
+      "20 years",
+      "tawny",
+      "port",
+      "сладкий",
+      "красный",
+      "20%",
+      "0.75 л"
+    ],
+    "params": {
+      "volume": "0.75 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "20%",
+      "age": "20 years",
+      "stars": null
+    }
+  },
+  {
+    "original": "Graham`s Blend №5 White сухой белый 19% 0.75 л",
+    "cleanTokens": [
+      "blend",
+      "№5",
+      "white",
+      "сухой",
+      "белый"
+    ],
+    "normalizedTokens": [
+      "blend",
+      "№5",
+      "white",
+      "сухой",
+      "белый",
+      "19%",
+      "0.75 л"
+    ],
+    "params": {
+      "volume": "0.75 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "19%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Dow's Nirvana Reserva Port сладкий красный 20% 0.75 л",
+    "cleanTokens": [
+      "nirvana",
+      "reserva",
+      "port",
+      "сладкий",
+      "красный"
+    ],
+    "normalizedTokens": [
+      "nirvana",
+      "reserva",
+      "port",
+      "сладкий",
+      "красный",
+      "20%",
+      "0.75 л"
+    ],
+    "params": {
+      "volume": "0.75 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "20%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Портвейн Quinta da Pacheca Porto LBV 2014 сухой красный 19.5% 0.75 л",
+    "cleanTokens": [
+      "porto",
+      "lbv",
+      "2014",
+      "сухой",
+      "красный"
+    ],
+    "normalizedTokens": [
+      "porto",
+      "lbv",
+      "2014",
+      "сухой",
+      "красный",
+      "19.5%",
+      "0.75 л"
+    ],
+    "params": {
+      "volume": "0.75 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "19.5%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Graham`s 30 Years Tawny сладкий красный 20% 0.75 л",
+    "cleanTokens": [
+      "tawny",
+      "сладкий",
+      "красный"
+    ],
+    "normalizedTokens": [
+      "30 years",
+      "tawny",
+      "сладкий",
+      "красный",
+      "20%",
+      "0.75 л"
+    ],
+    "params": {
+      "volume": "0.75 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "20%",
+      "age": "30 years",
+      "stars": null
+    }
+  },
+  {
+    "original": "Портвейн Taylor's Fine Ruby Port сладкий красный 20% 0.75 л",
+    "cleanTokens": [
+      "fine",
+      "ruby",
+      "port",
+      "сладкий",
+      "красный"
+    ],
+    "normalizedTokens": [
+      "fine",
+      "ruby",
+      "port",
+      "сладкий",
+      "красный",
+      "20%",
+      "0.75 л"
+    ],
+    "params": {
+      "volume": "0.75 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "20%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Портвейн Porto Cruz сладкий красный 17% 750 мл",
+    "cleanTokens": [
+      "сладкий",
+      "красный"
+    ],
+    "normalizedTokens": [
+      "сладкий",
+      "красный",
+      "17%",
+      "750 мл"
+    ],
+    "params": {
+      "volume": "750 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "17%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Портвейн Dow's Vintage Port сладкий красный 20% 0.75 л",
+    "cleanTokens": [
+      "vintage",
+      "port",
+      "сладкий",
+      "красный"
+    ],
+    "normalizedTokens": [
+      "vintage",
+      "port",
+      "сладкий",
+      "красный",
+      "20%",
+      "0.75 л"
+    ],
+    "params": {
+      "volume": "0.75 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "20%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Dow's Fine Tawny Port сладкий красный 19% 0.75 л",
+    "cleanTokens": [
+      "fine",
+      "tawny",
+      "port",
+      "сладкий",
+      "красный"
+    ],
+    "normalizedTokens": [
+      "fine",
+      "tawny",
+      "port",
+      "сладкий",
+      "красный",
+      "19%",
+      "0.75 л"
+    ],
+    "params": {
+      "volume": "0.75 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "19%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Dow's 10 Years Tawny Port сладкий красный 20% 0.75 л",
+    "cleanTokens": [
+      "tawny",
+      "port",
+      "сладкий",
+      "красный"
+    ],
+    "normalizedTokens": [
+      "10 years",
+      "tawny",
+      "port",
+      "сладкий",
+      "красный",
+      "20%",
+      "0.75 л"
+    ],
+    "params": {
+      "volume": "0.75 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "20%",
+      "age": "10 years",
+      "stars": null
+    }
+  },
+  {
+    "original": "Портвейн Quinta do Tedo Vintage 2003 сухой красный 19.5% 0.75 л",
+    "cleanTokens": [
+      "vintage",
+      "2003",
+      "сухой",
+      "красный"
+    ],
+    "normalizedTokens": [
+      "vintage",
+      "2003",
+      "сухой",
+      "красный",
+      "19.5%",
+      "0.75 л"
+    ],
+    "params": {
+      "volume": "0.75 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "19.5%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Портвейн Grahams сладкий красный 19% 700 мл",
+    "cleanTokens": [
+      "grahams",
+      "сладкий",
+      "красный"
+    ],
+    "normalizedTokens": [
+      "grahams",
+      "сладкий",
+      "красный",
+      "19%",
+      "700 мл"
+    ],
+    "params": {
+      "volume": "700 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "19%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Портвейн Dow's 30 Years Tawny Port сладкий красный 20% 0.75 л",
+    "cleanTokens": [
+      "tawny",
+      "port",
+      "сладкий",
+      "красный"
+    ],
+    "normalizedTokens": [
+      "30 years",
+      "tawny",
+      "port",
+      "сладкий",
+      "красный",
+      "20%",
+      "0.75 л"
+    ],
+    "params": {
+      "volume": "0.75 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "20%",
+      "age": "30 years",
+      "stars": null
+    }
+  },
+  {
+    "original": "Graham`s 10 Years Tawny сладкий красный 20% 0.75 л",
+    "cleanTokens": [
+      "tawny",
+      "сладкий",
+      "красный"
+    ],
+    "normalizedTokens": [
+      "10 years",
+      "tawny",
+      "сладкий",
+      "красный",
+      "20%",
+      "0.75 л"
+    ],
+    "params": {
+      "volume": "0.75 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "20%",
+      "age": "10 years",
+      "stars": null
+    }
+  },
+  {
+    "original": "Портвейн Quinta da Pacheca Colheita 2005 сухой красный 19.5% 0.75 л",
+    "cleanTokens": [
+      "colheita",
+      "2005",
+      "сухой",
+      "красный"
+    ],
+    "normalizedTokens": [
+      "colheita",
+      "2005",
+      "сухой",
+      "красный",
+      "19.5%",
+      "0.75 л"
+    ],
+    "params": {
+      "volume": "0.75 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "19.5%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Портвейн Taylor's Fine Tawny Port сладкий желтый 20% 0.75 л",
+    "cleanTokens": [
+      "fine",
+      "tawny",
+      "port",
+      "сладкий",
+      "желтый"
+    ],
+    "normalizedTokens": [
+      "fine",
+      "tawny",
+      "port",
+      "сладкий",
+      "желтый",
+      "20%",
+      "0.75 л"
+    ],
+    "params": {
+      "volume": "0.75 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "20%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Портвейн Quinta da Pacheca Colheita 2007 сухой красный 19.5% 0.75 л",
+    "cleanTokens": [
+      "colheita",
+      "2007",
+      "сухой",
+      "красный"
+    ],
+    "normalizedTokens": [
+      "colheita",
+      "2007",
+      "сухой",
+      "красный",
+      "19.5%",
+      "0.75 л"
+    ],
+    "params": {
+      "volume": "0.75 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "19.5%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Портвейн Quinta da Pacheca Colheita 2004 сухой красный 19.5% 0.75 л",
+    "cleanTokens": [
+      "colheita",
+      "2004",
+      "сухой",
+      "красный"
+    ],
+    "normalizedTokens": [
+      "colheita",
+      "2004",
+      "сухой",
+      "красный",
+      "19.5%",
+      "0.75 л"
+    ],
+    "params": {
+      "volume": "0.75 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "19.5%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Портвейн Quinta da Pacheca Porto 40 Anos сухой красный 19.5% 0.5 л",
+    "cleanTokens": [
+      "porto",
+      "40",
+      "anos",
+      "сухой",
+      "красный"
+    ],
+    "normalizedTokens": [
+      "porto",
+      "40",
+      "anos",
+      "сухой",
+      "красный",
+      "19.5%",
+      "0.5 л"
+    ],
+    "params": {
+      "volume": "0.5 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "19.5%",
+      "age": null,
+      "stars": null
+    }
+  }
+]

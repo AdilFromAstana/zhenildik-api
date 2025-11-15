@@ -1,0 +1,649 @@
+[
+  {
+    "original": "AC Селедочка подкопченная с укропом 200 г",
+    "cleanTokens": [
+      "селедочка",
+      "подкопченная",
+      "с",
+      "укропом"
+    ],
+    "normalizedTokens": [
+      "селедочка",
+      "подкопченная",
+      "с",
+      "укропом",
+      "200 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "200 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Rokos Fish сельдь заливка в масле 500 г",
+    "cleanTokens": [
+      "сельдь",
+      "заливка",
+      "в",
+      "масле"
+    ],
+    "normalizedTokens": [
+      "сельдь",
+      "заливка",
+      "в",
+      "масле",
+      "500 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "500 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Vici сельдь Оригинальная заливка в масле 200 г",
+    "cleanTokens": [
+      "сельдь",
+      "оригинальная",
+      "заливка",
+      "в",
+      "масле"
+    ],
+    "normalizedTokens": [
+      "сельдь",
+      "оригинальная",
+      "заливка",
+      "в",
+      "масле",
+      "200 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "200 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Vici сельдь Слабосоленая заливка в масле 240 г",
+    "cleanTokens": [
+      "сельдь",
+      "слабосоленая",
+      "заливка",
+      "в",
+      "масле"
+    ],
+    "normalizedTokens": [
+      "сельдь",
+      "слабосоленая",
+      "заливка",
+      "в",
+      "масле",
+      "240 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "240 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Vici сельдь к Картошке заливка в масле 400 г",
+    "cleanTokens": [
+      "сельдь",
+      "к",
+      "картошке",
+      "заливка",
+      "в",
+      "масле"
+    ],
+    "normalizedTokens": [
+      "сельдь",
+      "к",
+      "картошке",
+      "заливка",
+      "в",
+      "масле",
+      "400 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "400 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Rokos Fish сельдь заливка в масле 500 г",
+    "cleanTokens": [
+      "сельдь",
+      "заливка",
+      "в",
+      "масле"
+    ],
+    "normalizedTokens": [
+      "сельдь",
+      "заливка",
+      "в",
+      "масле",
+      "500 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "500 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Rokos Fish сельдь заливка в масле 500 г",
+    "cleanTokens": [
+      "сельдь",
+      "заливка",
+      "в",
+      "масле"
+    ],
+    "normalizedTokens": [
+      "сельдь",
+      "заливка",
+      "в",
+      "масле",
+      "500 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "500 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Rokos Fish сельдь заливка в масле 500 г",
+    "cleanTokens": [
+      "сельдь",
+      "заливка",
+      "в",
+      "масле"
+    ],
+    "normalizedTokens": [
+      "сельдь",
+      "заливка",
+      "в",
+      "масле",
+      "500 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "500 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Vici сельдь Традиционная заливка в масле 150 г",
+    "cleanTokens": [
+      "сельдь",
+      "традиционная",
+      "заливка",
+      "в",
+      "масле"
+    ],
+    "normalizedTokens": [
+      "сельдь",
+      "традиционная",
+      "заливка",
+      "в",
+      "масле",
+      "150 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "150 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Vici сельдь к Картошке заливка в масле 150 г",
+    "cleanTokens": [
+      "сельдь",
+      "к",
+      "картошке",
+      "заливка",
+      "в",
+      "масле"
+    ],
+    "normalizedTokens": [
+      "сельдь",
+      "к",
+      "картошке",
+      "заливка",
+      "в",
+      "масле",
+      "150 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "150 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "AC Селедочка деликатесная 500 г",
+    "cleanTokens": [
+      "селедочка",
+      "деликатесная"
+    ],
+    "normalizedTokens": [
+      "селедочка",
+      "деликатесная",
+      "500 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "500 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Vici сельдь к Картошке заливка в масле 400 г",
+    "cleanTokens": [
+      "сельдь",
+      "к",
+      "картошке",
+      "заливка",
+      "в",
+      "масле"
+    ],
+    "normalizedTokens": [
+      "сельдь",
+      "к",
+      "картошке",
+      "заливка",
+      "в",
+      "масле",
+      "400 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "400 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Vici сельдь Традиционная заливка в масле 400 г",
+    "cleanTokens": [
+      "сельдь",
+      "традиционная",
+      "заливка",
+      "в",
+      "масле"
+    ],
+    "normalizedTokens": [
+      "сельдь",
+      "традиционная",
+      "заливка",
+      "в",
+      "масле",
+      "400 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "400 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Vici сельдь Оригинальная заливка в масле 500 г",
+    "cleanTokens": [
+      "сельдь",
+      "оригинальная",
+      "заливка",
+      "в",
+      "масле"
+    ],
+    "normalizedTokens": [
+      "сельдь",
+      "оригинальная",
+      "заливка",
+      "в",
+      "масле",
+      "500 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "500 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Rokos Fish сельдь к картошечке заливка в масле 180 г",
+    "cleanTokens": [
+      "сельдь",
+      "к",
+      "картошечке",
+      "заливка",
+      "в",
+      "масле"
+    ],
+    "normalizedTokens": [
+      "сельдь",
+      "к",
+      "картошечке",
+      "заливка",
+      "в",
+      "масле",
+      "180 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "180 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "AC Селедочка в спецпосоле 1000 г",
+    "cleanTokens": [
+      "селедочка",
+      "в",
+      "спецпосоле"
+    ],
+    "normalizedTokens": [
+      "селедочка",
+      "в",
+      "спецпосоле",
+      "1000 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "1000 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Vici сельдь заливка в масле 400 г",
+    "cleanTokens": [
+      "сельдь",
+      "заливка",
+      "в",
+      "масле"
+    ],
+    "normalizedTokens": [
+      "сельдь",
+      "заливка",
+      "в",
+      "масле",
+      "400 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "400 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Vici сельдь Аппетитная заливка в масле 200 г",
+    "cleanTokens": [
+      "сельдь",
+      "аппетитная",
+      "заливка",
+      "в",
+      "масле"
+    ],
+    "normalizedTokens": [
+      "сельдь",
+      "аппетитная",
+      "заливка",
+      "в",
+      "масле",
+      "200 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "200 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Vici сельдь Ассорти заливка в масле 200 г",
+    "cleanTokens": [
+      "сельдь",
+      "ассорти",
+      "заливка",
+      "в",
+      "масле"
+    ],
+    "normalizedTokens": [
+      "сельдь",
+      "ассорти",
+      "заливка",
+      "в",
+      "масле",
+      "200 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "200 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Vici сельдь Царская заливка в масле 500 г",
+    "cleanTokens": [
+      "сельдь",
+      "царская",
+      "заливка",
+      "в",
+      "масле"
+    ],
+    "normalizedTokens": [
+      "сельдь",
+      "царская",
+      "заливка",
+      "в",
+      "масле",
+      "500 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "500 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Rokos Fish сельдь заливка в масле 500 г",
+    "cleanTokens": [
+      "сельдь",
+      "заливка",
+      "в",
+      "масле"
+    ],
+    "normalizedTokens": [
+      "сельдь",
+      "заливка",
+      "в",
+      "масле",
+      "500 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "500 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "AC Селедочка столичная 200 г",
+    "cleanTokens": [
+      "селедочка",
+      "столичная"
+    ],
+    "normalizedTokens": [
+      "селедочка",
+      "столичная",
+      "200 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "200 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "AC Селедочка слабосоленая 1000 г",
+    "cleanTokens": [
+      "селедочка",
+      "слабосоленая"
+    ],
+    "normalizedTokens": [
+      "селедочка",
+      "слабосоленая",
+      "1000 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "1000 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "AC Селедочка подкопченная с укропом 500 г",
+    "cleanTokens": [
+      "селедочка",
+      "подкопченная",
+      "с",
+      "укропом"
+    ],
+    "normalizedTokens": [
+      "селедочка",
+      "подкопченная",
+      "с",
+      "укропом",
+      "500 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "500 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Vici сельдь с Дымком заливка в масле 400 г",
+    "cleanTokens": [
+      "сельдь",
+      "с",
+      "дымком",
+      "заливка",
+      "в",
+      "масле"
+    ],
+    "normalizedTokens": [
+      "сельдь",
+      "с",
+      "дымком",
+      "заливка",
+      "в",
+      "масле",
+      "400 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "400 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  }
+]

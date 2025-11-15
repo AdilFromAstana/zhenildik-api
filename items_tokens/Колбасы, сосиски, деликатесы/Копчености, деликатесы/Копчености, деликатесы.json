@@ -1,0 +1,482 @@
+[
+  {
+    "original": "Таврия бекон венгерский сырокопченый 300 г",
+    "cleanTokens": [
+      "бекон",
+      "венгерский",
+      "сырокопченый"
+    ],
+    "normalizedTokens": [
+      "бекон",
+      "венгерский",
+      "сырокопченый",
+      "300 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "300 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Зельц Народные Колбасы по-казахски вареные 480 г",
+    "cleanTokens": [
+      "зельц",
+      "народные",
+      "по-казахски",
+      "вареные"
+    ],
+    "normalizedTokens": [
+      "зельц",
+      "народные",
+      "по-казахски",
+      "вареные",
+      "480 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "480 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "МясоДел рулет курица",
+    "cleanTokens": [
+      "рулет",
+      "курица"
+    ],
+    "normalizedTokens": [
+      "рулет",
+      "курица"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Омский Бекон свиные ребрышки к пиву",
+    "cleanTokens": [
+      "свиные",
+      "ребрышки",
+      "к",
+      "пиву"
+    ],
+    "normalizedTokens": [
+      "свиные",
+      "ребрышки",
+      "к",
+      "пиву"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Знаменский ветчинный дом рулька варено-копченая",
+    "cleanTokens": [
+      "рулька",
+      "варено-копченая"
+    ],
+    "normalizedTokens": [
+      "рулька",
+      "варено-копченая"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Первомайские Деликатесы казы по-домашнему 200 г",
+    "cleanTokens": [
+      "первомайские",
+      "казы",
+      "по-домашнему"
+    ],
+    "normalizedTokens": [
+      "первомайские",
+      "казы",
+      "по-домашнему",
+      "200 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "200 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Первомайские Деликатесы сур ет говядина деликатесная 200 г",
+    "cleanTokens": [
+      "первомайские",
+      "сур",
+      "ет",
+      "говядина",
+      "деликатесная"
+    ],
+    "normalizedTokens": [
+      "первомайские",
+      "сур",
+      "ет",
+      "говядина",
+      "деликатесная",
+      "200 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "200 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Знаменский ветчинный дом ветчина классическая вареный 350 г",
+    "cleanTokens": [
+      "ветчина",
+      "классическая",
+      "вареный"
+    ],
+    "normalizedTokens": [
+      "ветчина",
+      "классическая",
+      "вареный",
+      "350 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "350 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Омский Бекон карбонад фирменный варено-копченый",
+    "cleanTokens": [
+      "карбонад",
+      "фирменный",
+      "варено-копченый"
+    ],
+    "normalizedTokens": [
+      "карбонад",
+      "фирменный",
+      "варено-копченый"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Омский Бекон копченая грудка деликатесная сырокопченая",
+    "cleanTokens": [
+      "копченая",
+      "грудка",
+      "деликатесная",
+      "сырокопченая"
+    ],
+    "normalizedTokens": [
+      "копченая",
+      "грудка",
+      "деликатесная",
+      "сырокопченая"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Qyzyl Saia ассорти из сырокопченой конины 180 г",
+    "cleanTokens": [
+      "ассорти",
+      "из",
+      "сырокопченой",
+      "конины"
+    ],
+    "normalizedTokens": [
+      "ассорти",
+      "из",
+      "сырокопченой",
+      "конины",
+      "180 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "180 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Qyzyl Saia бастурма из конины 60 г",
+    "cleanTokens": [
+      "бастурма",
+      "из",
+      "конины"
+    ],
+    "normalizedTokens": [
+      "бастурма",
+      "из",
+      "конины",
+      "60 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "60 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Qyzyl Saia жая 500",
+    "cleanTokens": [
+      "жая",
+      "500"
+    ],
+    "normalizedTokens": [
+      "жая",
+      "500"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Qyzyl Saia жая 60 г",
+    "cleanTokens": [
+      "жая"
+    ],
+    "normalizedTokens": [
+      "жая",
+      "60 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "60 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Qyzyl Saia карта 125 г",
+    "cleanTokens": [
+      "карта"
+    ],
+    "normalizedTokens": [
+      "карта",
+      "125 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "125 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Qyzyl Saia ассорти из сырокопченой говядины 180 г",
+    "cleanTokens": [
+      "ассорти",
+      "из",
+      "сырокопченой",
+      "говядины"
+    ],
+    "normalizedTokens": [
+      "ассорти",
+      "из",
+      "сырокопченой",
+      "говядины",
+      "180 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "180 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Qyzyl Saia карбонад 60 г",
+    "cleanTokens": [
+      "карбонад"
+    ],
+    "normalizedTokens": [
+      "карбонад",
+      "60 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "60 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Qyzyl Saia говяжья грудинка 60 г",
+    "cleanTokens": [
+      "говяжья",
+      "грудинка"
+    ],
+    "normalizedTokens": [
+      "говяжья",
+      "грудинка",
+      "60 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "60 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Qyzyl Saia казы 300",
+    "cleanTokens": [
+      "казы",
+      "300"
+    ],
+    "normalizedTokens": [
+      "казы",
+      "300"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Qyzyl Saia жамбас 60 г",
+    "cleanTokens": [
+      "жамбас"
+    ],
+    "normalizedTokens": [
+      "жамбас",
+      "60 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "60 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Qyzyl Saia Шужук 400",
+    "cleanTokens": [
+      "шужук",
+      "400"
+    ],
+    "normalizedTokens": [
+      "шужук",
+      "400"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Qyzyl Saia сыбага 1325 г",
+    "cleanTokens": [
+      "сыбага"
+    ],
+    "normalizedTokens": [
+      "сыбага",
+      "1325 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "1325 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  }
+]

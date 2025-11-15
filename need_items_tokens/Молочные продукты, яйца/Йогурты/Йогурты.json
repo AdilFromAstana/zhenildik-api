@@ -1,0 +1,4129 @@
+[
+  {
+    "original": "Йогурт Foodmaster Живой клубника 1.5% 110 г",
+    "cleanTokens": [
+      "йогурт",
+      "живой",
+      "клубника"
+    ],
+    "normalizedTokens": [
+      "йогурт",
+      "живой",
+      "клубника",
+      "1.5%",
+      "110 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "110 г",
+      "count": null,
+      "pack": null,
+      "percent": "1.5%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Йогурт Nәtige Живой манго, маракуйя 1.5% 900 г",
+    "cleanTokens": [
+      "йогурт",
+      "живой",
+      "манго",
+      "маракуйя"
+    ],
+    "normalizedTokens": [
+      "йогурт",
+      "живой",
+      "манго",
+      "маракуйя",
+      "1.5%",
+      "900 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "900 г",
+      "count": null,
+      "pack": null,
+      "percent": "1.5%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Йогурт Даниссимо Фантазия ягоды 6.9% 105 г",
+    "cleanTokens": [
+      "йогурт",
+      "фантазия",
+      "ягоды"
+    ],
+    "normalizedTokens": [
+      "йогурт",
+      "фантазия",
+      "ягоды",
+      "6.9%",
+      "105 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "105 г",
+      "count": null,
+      "pack": null,
+      "percent": "6.9%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Продукт йогуртный Нежный со вкусом ягодное мороженое 1,2% 100 г",
+    "cleanTokens": [
+      "продукт",
+      "йогуртный",
+      "со",
+      "вкусом",
+      "ягодное",
+      "мороженое",
+      "1"
+    ],
+    "normalizedTokens": [
+      "продукт",
+      "йогуртный",
+      "со",
+      "вкусом",
+      "ягодное",
+      "мороженое",
+      "1",
+      "2%",
+      "100 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "100 г",
+      "count": null,
+      "pack": null,
+      "percent": "2%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Продукт йогуртный Нежный с соком персика 0,1% 95 г",
+    "cleanTokens": [
+      "продукт",
+      "йогуртный",
+      "с",
+      "соком",
+      "персика",
+      "0"
+    ],
+    "normalizedTokens": [
+      "продукт",
+      "йогуртный",
+      "с",
+      "соком",
+      "персика",
+      "0",
+      "1%",
+      "95 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "95 г",
+      "count": null,
+      "pack": null,
+      "percent": "1%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Йогурт Foodmaster Живой вишня 1.5% 110 г",
+    "cleanTokens": [
+      "йогурт",
+      "живой",
+      "вишня"
+    ],
+    "normalizedTokens": [
+      "йогурт",
+      "живой",
+      "вишня",
+      "1.5%",
+      "110 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "110 г",
+      "count": null,
+      "pack": null,
+      "percent": "1.5%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Йогурт Danone персик, маракуйя 2.5% 4 шт по 120 г",
+    "cleanTokens": [
+      "йогурт",
+      "персик",
+      "маракуйя",
+      "по"
+    ],
+    "normalizedTokens": [
+      "йогурт",
+      "персик",
+      "маракуйя",
+      "2.5%",
+      "4 шт",
+      "по",
+      "120 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "120 г",
+      "count": "4 шт",
+      "pack": null,
+      "percent": "2.5%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Йогурт Нежный с соком банана и клубники 1.2% 100 г",
+    "cleanTokens": [
+      "йогурт",
+      "с",
+      "соком",
+      "банана",
+      "и",
+      "клубники"
+    ],
+    "normalizedTokens": [
+      "йогурт",
+      "с",
+      "соком",
+      "банана",
+      "и",
+      "клубники",
+      "1.2%",
+      "100 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "100 г",
+      "count": null,
+      "pack": null,
+      "percent": "1.2%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Йогурт Простоквашино Греческий 2% 235 г",
+    "cleanTokens": [
+      "йогурт",
+      "греческий"
+    ],
+    "normalizedTokens": [
+      "йогурт",
+      "греческий",
+      "2%",
+      "235 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "235 г",
+      "count": null,
+      "pack": null,
+      "percent": "2%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Йогурт Danonino (Растишка) клубника 3% 4 шт по 100 г",
+    "cleanTokens": [
+      "йогурт",
+      "клубника",
+      "по"
+    ],
+    "normalizedTokens": [
+      "йогурт",
+      "клубника",
+      "3%",
+      "4 шт",
+      "по",
+      "100 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "100 г",
+      "count": "4 шт",
+      "pack": null,
+      "percent": "3%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Йогурт Danone клубника 2.5% 4 шт по 120 г",
+    "cleanTokens": [
+      "йогурт",
+      "клубника",
+      "по"
+    ],
+    "normalizedTokens": [
+      "йогурт",
+      "клубника",
+      "2.5%",
+      "4 шт",
+      "по",
+      "120 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "120 г",
+      "count": "4 шт",
+      "pack": null,
+      "percent": "2.5%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Йогурт Nәtige Живой клубника, малина 1.5% 900 г",
+    "cleanTokens": [
+      "йогурт",
+      "живой",
+      "клубника",
+      "малина"
+    ],
+    "normalizedTokens": [
+      "йогурт",
+      "живой",
+      "клубника",
+      "малина",
+      "1.5%",
+      "900 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "900 г",
+      "count": null,
+      "pack": null,
+      "percent": "1.5%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Йогурт Nәtige Pro натуральный, злаки 1.5% 900 мл",
+    "cleanTokens": [
+      "йогурт",
+      "pro",
+      "натуральный",
+      "злаки"
+    ],
+    "normalizedTokens": [
+      "йогурт",
+      "pro",
+      "натуральный",
+      "злаки",
+      "1.5%",
+      "900 мл"
+    ],
+    "params": {
+      "volume": "900 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "1.5%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Йогурт Actimel гранат 1.5% 95 г",
+    "cleanTokens": [
+      "йогурт",
+      "гранат"
+    ],
+    "normalizedTokens": [
+      "йогурт",
+      "гранат",
+      "1.5%",
+      "95 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "95 г",
+      "count": null,
+      "pack": null,
+      "percent": "1.5%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Продукт йогуртный Нежный с соком персика 1,2% 100 г",
+    "cleanTokens": [
+      "продукт",
+      "йогуртный",
+      "с",
+      "соком",
+      "персика",
+      "1"
+    ],
+    "normalizedTokens": [
+      "продукт",
+      "йогуртный",
+      "с",
+      "соком",
+      "персика",
+      "1",
+      "2%",
+      "100 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "100 г",
+      "count": null,
+      "pack": null,
+      "percent": "2%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Йогурт Активиа Комфортное пищеварение черника, злаки, лён 2.1% 260 г",
+    "cleanTokens": [
+      "йогурт",
+      "комфортное",
+      "пищеварение",
+      "черника",
+      "злаки",
+      "лен"
+    ],
+    "normalizedTokens": [
+      "йогурт",
+      "комфортное",
+      "пищеварение",
+      "черника",
+      "злаки",
+      "лен",
+      "2.1%",
+      "260 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "260 г",
+      "count": null,
+      "pack": null,
+      "percent": "2.1%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Йогурт EPICA вишня, черешня 4.8% 130 г",
+    "cleanTokens": [
+      "йогурт",
+      "вишня",
+      "черешня"
+    ],
+    "normalizedTokens": [
+      "йогурт",
+      "вишня",
+      "черешня",
+      "4.8%",
+      "130 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "130 г",
+      "count": null,
+      "pack": null,
+      "percent": "4.8%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Йогурт Активиа без сахара вишня 0.1% 260 г",
+    "cleanTokens": [
+      "йогурт",
+      "без",
+      "сахара",
+      "вишня"
+    ],
+    "normalizedTokens": [
+      "йогурт",
+      "без",
+      "сахара",
+      "вишня",
+      "0.1%",
+      "260 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "260 г",
+      "count": null,
+      "pack": null,
+      "percent": "0.1%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Продукт йогуртный Нежный с соком банана и клубники 0,1% 95 г",
+    "cleanTokens": [
+      "продукт",
+      "йогуртный",
+      "с",
+      "соком",
+      "банана",
+      "и",
+      "клубники",
+      "0"
+    ],
+    "normalizedTokens": [
+      "продукт",
+      "йогуртный",
+      "с",
+      "соком",
+      "банана",
+      "и",
+      "клубники",
+      "0",
+      "1%",
+      "95 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "95 г",
+      "count": null,
+      "pack": null,
+      "percent": "1%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Йогурт Foodmaster Био-С фисташки 3.2% 900 г",
+    "cleanTokens": [
+      "йогурт",
+      "био-с",
+      "фисташки"
+    ],
+    "normalizedTokens": [
+      "йогурт",
+      "био-с",
+      "фисташки",
+      "3.2%",
+      "900 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "900 г",
+      "count": null,
+      "pack": null,
+      "percent": "3.2%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Йогурт Даниссимо Фантазия клубника, шоколад 6.9% 105 г",
+    "cleanTokens": [
+      "йогурт",
+      "фантазия",
+      "клубника",
+      "шоколад"
+    ],
+    "normalizedTokens": [
+      "йогурт",
+      "фантазия",
+      "клубника",
+      "шоколад",
+      "6.9%",
+      "105 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "105 г",
+      "count": null,
+      "pack": null,
+      "percent": "6.9%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Йогурт Активиа Комфортное пищеварение мюсли 3.1% 110 г",
+    "cleanTokens": [
+      "йогурт",
+      "комфортное",
+      "пищеварение",
+      "мюсли"
+    ],
+    "normalizedTokens": [
+      "йогурт",
+      "комфортное",
+      "пищеварение",
+      "мюсли",
+      "3.1%",
+      "110 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "110 г",
+      "count": null,
+      "pack": null,
+      "percent": "3.1%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Йогурт Чудо клубника, земляника земляника, клубника 2.5% 115 г",
+    "cleanTokens": [
+      "йогурт",
+      "клубника",
+      "земляника",
+      "земляника",
+      "клубника"
+    ],
+    "normalizedTokens": [
+      "йогурт",
+      "клубника",
+      "земляника",
+      "земляника",
+      "клубника",
+      "2.5%",
+      "115 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "115 г",
+      "count": null,
+      "pack": null,
+      "percent": "2.5%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Йогурт Nәtige Живой абрикос, персик 1.5% 900 г",
+    "cleanTokens": [
+      "йогурт",
+      "живой",
+      "абрикос",
+      "персик"
+    ],
+    "normalizedTokens": [
+      "йогурт",
+      "живой",
+      "абрикос",
+      "персик",
+      "1.5%",
+      "900 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "900 г",
+      "count": null,
+      "pack": null,
+      "percent": "1.5%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Йогурт Нежный с соком вишни 1.2% 100 г",
+    "cleanTokens": [
+      "йогурт",
+      "с",
+      "соком",
+      "вишни"
+    ],
+    "normalizedTokens": [
+      "йогурт",
+      "с",
+      "соком",
+      "вишни",
+      "1.2%",
+      "100 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "100 г",
+      "count": null,
+      "pack": null,
+      "percent": "1.2%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Йогурт Растишка Растизавры земляника 1.6% 90 г",
+    "cleanTokens": [
+      "йогурт",
+      "растизавры",
+      "земляника"
+    ],
+    "normalizedTokens": [
+      "йогурт",
+      "растизавры",
+      "земляника",
+      "1.6%",
+      "90 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "90 г",
+      "count": null,
+      "pack": null,
+      "percent": "1.6%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Йогурт Danonino (Растишка) банан 3% 4 шт по 100 г",
+    "cleanTokens": [
+      "йогурт",
+      "банан",
+      "по"
+    ],
+    "normalizedTokens": [
+      "йогурт",
+      "банан",
+      "3%",
+      "4 шт",
+      "по",
+      "100 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "100 г",
+      "count": "4 шт",
+      "pack": null,
+      "percent": "3%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Йогурт Активиа Комфортное пищеварение земляника, клубника 2.1% 260 г",
+    "cleanTokens": [
+      "йогурт",
+      "комфортное",
+      "пищеварение",
+      "земляника",
+      "клубника"
+    ],
+    "normalizedTokens": [
+      "йогурт",
+      "комфортное",
+      "пищеварение",
+      "земляника",
+      "клубника",
+      "2.1%",
+      "260 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "260 г",
+      "count": null,
+      "pack": null,
+      "percent": "2.1%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Йогурт Danonino (Растишка) груша, яблоко 3% 4 шт по 100 г",
+    "cleanTokens": [
+      "йогурт",
+      "груша",
+      "яблоко",
+      "по"
+    ],
+    "normalizedTokens": [
+      "йогурт",
+      "груша",
+      "яблоко",
+      "3%",
+      "4 шт",
+      "по",
+      "100 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "100 г",
+      "count": "4 шт",
+      "pack": null,
+      "percent": "3%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Йогурт Даниссимо изысканный шоколад 2.8% 100 г",
+    "cleanTokens": [
+      "йогурт",
+      "изысканный",
+      "шоколад"
+    ],
+    "normalizedTokens": [
+      "йогурт",
+      "изысканный",
+      "шоколад",
+      "2.8%",
+      "100 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "100 г",
+      "count": null,
+      "pack": null,
+      "percent": "2.8%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Йогурт Foodmaster Живой персик 1.5% 110 г",
+    "cleanTokens": [
+      "йогурт",
+      "живой",
+      "персик"
+    ],
+    "normalizedTokens": [
+      "йогурт",
+      "живой",
+      "персик",
+      "1.5%",
+      "110 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "110 г",
+      "count": null,
+      "pack": null,
+      "percent": "1.5%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Йогурт Foodmaster Живой лесные ягоды 2% 900 г",
+    "cleanTokens": [
+      "йогурт",
+      "живой",
+      "лесные",
+      "ягоды"
+    ],
+    "normalizedTokens": [
+      "йогурт",
+      "живой",
+      "лесные",
+      "ягоды",
+      "2%",
+      "900 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "900 г",
+      "count": null,
+      "pack": null,
+      "percent": "2%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Йогурт Foodmaster Био-С ваниль 3.2% 500 г",
+    "cleanTokens": [
+      "йогурт",
+      "био-с",
+      "ваниль"
+    ],
+    "normalizedTokens": [
+      "йогурт",
+      "био-с",
+      "ваниль",
+      "3.2%",
+      "500 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "500 г",
+      "count": null,
+      "pack": null,
+      "percent": "3.2%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Йогурт Чудо персик, манго 2.5% 115 г",
+    "cleanTokens": [
+      "йогурт",
+      "персик",
+      "манго"
+    ],
+    "normalizedTokens": [
+      "йогурт",
+      "персик",
+      "манго",
+      "2.5%",
+      "115 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "115 г",
+      "count": null,
+      "pack": null,
+      "percent": "2.5%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Йогурт Нежный с соком абрикоса и манго 1.2% 100 г",
+    "cleanTokens": [
+      "йогурт",
+      "с",
+      "соком",
+      "абрикоса",
+      "и",
+      "манго"
+    ],
+    "normalizedTokens": [
+      "йогурт",
+      "с",
+      "соком",
+      "абрикоса",
+      "и",
+      "манго",
+      "1.2%",
+      "100 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "100 г",
+      "count": null,
+      "pack": null,
+      "percent": "1.2%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Йогурт Активиа Комфортное пищеварение натуральный 1.8% 260 г",
+    "cleanTokens": [
+      "йогурт",
+      "комфортное",
+      "пищеварение",
+      "натуральный"
+    ],
+    "normalizedTokens": [
+      "йогурт",
+      "комфортное",
+      "пищеварение",
+      "натуральный",
+      "1.8%",
+      "260 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "260 г",
+      "count": null,
+      "pack": null,
+      "percent": "1.8%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Йогурт Даниссимо Фантазия карамель 6.9% 105 г",
+    "cleanTokens": [
+      "йогурт",
+      "фантазия",
+      "карамель"
+    ],
+    "normalizedTokens": [
+      "йогурт",
+      "фантазия",
+      "карамель",
+      "6.9%",
+      "105 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "105 г",
+      "count": null,
+      "pack": null,
+      "percent": "6.9%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Йогурт EPICA клубника 4.8% 130 г",
+    "cleanTokens": [
+      "йогурт",
+      "клубника"
+    ],
+    "normalizedTokens": [
+      "йогурт",
+      "клубника",
+      "4.8%",
+      "130 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "130 г",
+      "count": null,
+      "pack": null,
+      "percent": "4.8%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Йогурт Nәtige Pro злаки 1.5% 300 мл",
+    "cleanTokens": [
+      "йогурт",
+      "pro",
+      "злаки"
+    ],
+    "normalizedTokens": [
+      "йогурт",
+      "pro",
+      "злаки",
+      "1.5%",
+      "300 мл"
+    ],
+    "params": {
+      "volume": "300 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "1.5%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Йогурт Простоквашино Греческий 2% 135 г",
+    "cleanTokens": [
+      "йогурт",
+      "греческий"
+    ],
+    "normalizedTokens": [
+      "йогурт",
+      "греческий",
+      "2%",
+      "135 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "135 г",
+      "count": null,
+      "pack": null,
+      "percent": "2%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Йогурт Активиа Комфортное пищеварение чернослив 2.1% 260 г",
+    "cleanTokens": [
+      "йогурт",
+      "комфортное",
+      "пищеварение",
+      "чернослив"
+    ],
+    "normalizedTokens": [
+      "йогурт",
+      "комфортное",
+      "пищеварение",
+      "чернослив",
+      "2.1%",
+      "260 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "260 г",
+      "count": null,
+      "pack": null,
+      "percent": "2.1%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Йогурт Nәtige Pro мандарин, апельсин 1.5% 300 мл",
+    "cleanTokens": [
+      "йогурт",
+      "pro",
+      "мандарин",
+      "апельсин"
+    ],
+    "normalizedTokens": [
+      "йогурт",
+      "pro",
+      "мандарин",
+      "апельсин",
+      "1.5%",
+      "300 мл"
+    ],
+    "params": {
+      "volume": "300 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "1.5%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Йогурт Даниссимо фисташковое мороженое мороженое, фисташки 2.5% 100 г",
+    "cleanTokens": [
+      "йогурт",
+      "фисташковое",
+      "мороженое",
+      "мороженое",
+      "фисташки"
+    ],
+    "normalizedTokens": [
+      "йогурт",
+      "фисташковое",
+      "мороженое",
+      "мороженое",
+      "фисташки",
+      "2.5%",
+      "100 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "100 г",
+      "count": null,
+      "pack": null,
+      "percent": "2.5%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Йогурт Нежный Легкий лесные ягоды 0.1% 95 г",
+    "cleanTokens": [
+      "йогурт",
+      "легкий",
+      "лесные",
+      "ягоды"
+    ],
+    "normalizedTokens": [
+      "йогурт",
+      "легкий",
+      "лесные",
+      "ягоды",
+      "0.1%",
+      "95 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "95 г",
+      "count": null,
+      "pack": null,
+      "percent": "0.1%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Йогурт Активиа Комфортное пищеварение натуральный, злаки 2.2% 650 г",
+    "cleanTokens": [
+      "йогурт",
+      "комфортное",
+      "пищеварение",
+      "натуральный",
+      "злаки"
+    ],
+    "normalizedTokens": [
+      "йогурт",
+      "комфортное",
+      "пищеварение",
+      "натуральный",
+      "злаки",
+      "2.2%",
+      "650 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "650 г",
+      "count": null,
+      "pack": null,
+      "percent": "2.2%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Йогурт Foodmaster Био-С клубника 2.9% 450 г",
+    "cleanTokens": [
+      "йогурт",
+      "био-с",
+      "клубника"
+    ],
+    "normalizedTokens": [
+      "йогурт",
+      "био-с",
+      "клубника",
+      "2.9%",
+      "450 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "450 г",
+      "count": null,
+      "pack": null,
+      "percent": "2.9%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Йогурт Айс Свежий клубника 2.5% 1000 г",
+    "cleanTokens": [
+      "йогурт",
+      "свежий",
+      "клубника"
+    ],
+    "normalizedTokens": [
+      "йогурт",
+      "свежий",
+      "клубника",
+      "2.5%",
+      "1000 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "1000 г",
+      "count": null,
+      "pack": null,
+      "percent": "2.5%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Йогурт Активиа Комфортное пищеварение манго, маракуйя 2.1% 260 г",
+    "cleanTokens": [
+      "йогурт",
+      "комфортное",
+      "пищеварение",
+      "манго",
+      "маракуйя"
+    ],
+    "normalizedTokens": [
+      "йогурт",
+      "комфортное",
+      "пищеварение",
+      "манго",
+      "маракуйя",
+      "2.1%",
+      "260 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "260 г",
+      "count": null,
+      "pack": null,
+      "percent": "2.1%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Йогурт Активиа Комфортное пищеварение натуральный 1.8% 650 г",
+    "cleanTokens": [
+      "йогурт",
+      "комфортное",
+      "пищеварение",
+      "натуральный"
+    ],
+    "normalizedTokens": [
+      "йогурт",
+      "комфортное",
+      "пищеварение",
+      "натуральный",
+      "1.8%",
+      "650 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "650 г",
+      "count": null,
+      "pack": null,
+      "percent": "1.8%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Йогурт Foodmaster Живой вишня 2% 900 г",
+    "cleanTokens": [
+      "йогурт",
+      "живой",
+      "вишня"
+    ],
+    "normalizedTokens": [
+      "йогурт",
+      "живой",
+      "вишня",
+      "2%",
+      "900 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "900 г",
+      "count": null,
+      "pack": null,
+      "percent": "2%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Йогурт Айс Свежий персик 2.5% 1000 г",
+    "cleanTokens": [
+      "йогурт",
+      "свежий",
+      "персик"
+    ],
+    "normalizedTokens": [
+      "йогурт",
+      "свежий",
+      "персик",
+      "2.5%",
+      "1000 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "1000 г",
+      "count": null,
+      "pack": null,
+      "percent": "2.5%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Йогурт Активиа Комфортное пищеварение чернослив 2.1% 650 г",
+    "cleanTokens": [
+      "йогурт",
+      "комфортное",
+      "пищеварение",
+      "чернослив"
+    ],
+    "normalizedTokens": [
+      "йогурт",
+      "комфортное",
+      "пищеварение",
+      "чернослив",
+      "2.1%",
+      "650 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "650 г",
+      "count": null,
+      "pack": null,
+      "percent": "2.1%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Йогурт Активиа Комфортное пищеварение черника, злаки 2.9% 110 г",
+    "cleanTokens": [
+      "йогурт",
+      "комфортное",
+      "пищеварение",
+      "черника",
+      "злаки"
+    ],
+    "normalizedTokens": [
+      "йогурт",
+      "комфортное",
+      "пищеварение",
+      "черника",
+      "злаки",
+      "2.9%",
+      "110 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "110 г",
+      "count": null,
+      "pack": null,
+      "percent": "2.9%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Йогурт Активиа Комфортное пищеварение натуральный, злаки 2.2% 260 г",
+    "cleanTokens": [
+      "йогурт",
+      "комфортное",
+      "пищеварение",
+      "натуральный",
+      "злаки"
+    ],
+    "normalizedTokens": [
+      "йогурт",
+      "комфортное",
+      "пищеварение",
+      "натуральный",
+      "злаки",
+      "2.2%",
+      "260 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "260 г",
+      "count": null,
+      "pack": null,
+      "percent": "2.2%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Йогурт Активиа Комфортное пищеварение земляника, клубника 2.1% 650 г",
+    "cleanTokens": [
+      "йогурт",
+      "комфортное",
+      "пищеварение",
+      "земляника",
+      "клубника"
+    ],
+    "normalizedTokens": [
+      "йогурт",
+      "комфортное",
+      "пищеварение",
+      "земляника",
+      "клубника",
+      "2.1%",
+      "650 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "650 г",
+      "count": null,
+      "pack": null,
+      "percent": "2.1%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Йогурт Активиа Комфортное пищеварение натуральный, злаки 3% 110 г",
+    "cleanTokens": [
+      "йогурт",
+      "комфортное",
+      "пищеварение",
+      "натуральный",
+      "злаки"
+    ],
+    "normalizedTokens": [
+      "йогурт",
+      "комфортное",
+      "пищеварение",
+      "натуральный",
+      "злаки",
+      "3%",
+      "110 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "110 г",
+      "count": null,
+      "pack": null,
+      "percent": "3%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Йогурт EPICA Basic киви, фейхоа 4.8% 130 г",
+    "cleanTokens": [
+      "йогурт",
+      "basic",
+      "киви",
+      "фейхоа"
+    ],
+    "normalizedTokens": [
+      "йогурт",
+      "basic",
+      "киви",
+      "фейхоа",
+      "4.8%",
+      "130 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "130 г",
+      "count": null,
+      "pack": null,
+      "percent": "4.8%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Йогурт Foodmaster Живой клубника 2% 450 г",
+    "cleanTokens": [
+      "йогурт",
+      "живой",
+      "клубника"
+    ],
+    "normalizedTokens": [
+      "йогурт",
+      "живой",
+      "клубника",
+      "2%",
+      "450 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "450 г",
+      "count": null,
+      "pack": null,
+      "percent": "2%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Йогурт Чудо персик, маракуйя 2.5% 115 г",
+    "cleanTokens": [
+      "йогурт",
+      "персик",
+      "маракуйя"
+    ],
+    "normalizedTokens": [
+      "йогурт",
+      "персик",
+      "маракуйя",
+      "2.5%",
+      "115 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "115 г",
+      "count": null,
+      "pack": null,
+      "percent": "2.5%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Йогурт Даниссимо со вкусом манго и кокос 2.4% 100 г",
+    "cleanTokens": [
+      "йогурт",
+      "со",
+      "вкусом",
+      "манго",
+      "и",
+      "кокос"
+    ],
+    "normalizedTokens": [
+      "йогурт",
+      "со",
+      "вкусом",
+      "манго",
+      "и",
+      "кокос",
+      "2.4%",
+      "100 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "100 г",
+      "count": null,
+      "pack": null,
+      "percent": "2.4%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Йогурт Чудо вишня, черешня 2.5% 290 г",
+    "cleanTokens": [
+      "йогурт",
+      "вишня",
+      "черешня"
+    ],
+    "normalizedTokens": [
+      "йогурт",
+      "вишня",
+      "черешня",
+      "2.5%",
+      "290 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "290 г",
+      "count": null,
+      "pack": null,
+      "percent": "2.5%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Йогурт Активиа Комфортное пищеварение персик 2.1% 260 г",
+    "cleanTokens": [
+      "йогурт",
+      "комфортное",
+      "пищеварение",
+      "персик"
+    ],
+    "normalizedTokens": [
+      "йогурт",
+      "комфортное",
+      "пищеварение",
+      "персик",
+      "2.1%",
+      "260 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "260 г",
+      "count": null,
+      "pack": null,
+      "percent": "2.1%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Йогурт Активиа Комфортное пищеварение клубника 2.9% 110 г",
+    "cleanTokens": [
+      "йогурт",
+      "комфортное",
+      "пищеварение",
+      "клубника"
+    ],
+    "normalizedTokens": [
+      "йогурт",
+      "комфортное",
+      "пищеварение",
+      "клубника",
+      "2.9%",
+      "110 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "110 г",
+      "count": null,
+      "pack": null,
+      "percent": "2.9%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Продукт йогуртный Нежный с соком малины и земляники 5% 100 г",
+    "cleanTokens": [
+      "продукт",
+      "йогуртный",
+      "с",
+      "соком",
+      "малины",
+      "и",
+      "земляники"
+    ],
+    "normalizedTokens": [
+      "продукт",
+      "йогуртный",
+      "с",
+      "соком",
+      "малины",
+      "и",
+      "земляники",
+      "5%",
+      "100 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "100 г",
+      "count": null,
+      "pack": null,
+      "percent": "5%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Йогурт Nәtige турецкий натуральный 3% 360 г",
+    "cleanTokens": [
+      "йогурт",
+      "турецкий",
+      "натуральный"
+    ],
+    "normalizedTokens": [
+      "йогурт",
+      "турецкий",
+      "натуральный",
+      "3%",
+      "360 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "360 г",
+      "count": null,
+      "pack": null,
+      "percent": "3%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Продукт йогуртный Нежный с соком клубники 5% 100 г",
+    "cleanTokens": [
+      "продукт",
+      "йогуртный",
+      "с",
+      "соком",
+      "клубники"
+    ],
+    "normalizedTokens": [
+      "продукт",
+      "йогуртный",
+      "с",
+      "соком",
+      "клубники",
+      "5%",
+      "100 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "100 г",
+      "count": null,
+      "pack": null,
+      "percent": "5%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Йогурт Чудо клубника, земляника 2% 290 г",
+    "cleanTokens": [
+      "йогурт",
+      "клубника",
+      "земляника"
+    ],
+    "normalizedTokens": [
+      "йогурт",
+      "клубника",
+      "земляника",
+      "2%",
+      "290 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "290 г",
+      "count": null,
+      "pack": null,
+      "percent": "2%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Йогурт Родина клубника 2.5% 500 мл",
+    "cleanTokens": [
+      "йогурт",
+      "клубника"
+    ],
+    "normalizedTokens": [
+      "йогурт",
+      "клубника",
+      "2.5%",
+      "500 мл"
+    ],
+    "params": {
+      "volume": "500 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "2.5%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Йогурт EPICA кокос-ваниль 6.3% 130 г",
+    "cleanTokens": [
+      "йогурт",
+      "кокос-ваниль"
+    ],
+    "normalizedTokens": [
+      "йогурт",
+      "кокос-ваниль",
+      "6.3%",
+      "130 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "130 г",
+      "count": null,
+      "pack": null,
+      "percent": "6.3%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Йогурт Чудо персик, маракуйя 2% 290 г",
+    "cleanTokens": [
+      "йогурт",
+      "персик",
+      "маракуйя"
+    ],
+    "normalizedTokens": [
+      "йогурт",
+      "персик",
+      "маракуйя",
+      "2%",
+      "290 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "290 г",
+      "count": null,
+      "pack": null,
+      "percent": "2%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Йогурт Эрмигурт тропические фрукты 7.5% 100 г",
+    "cleanTokens": [
+      "йогурт",
+      "тропические",
+      "фрукты"
+    ],
+    "normalizedTokens": [
+      "йогурт",
+      "тропические",
+      "фрукты",
+      "7.5%",
+      "100 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "100 г",
+      "count": null,
+      "pack": null,
+      "percent": "7.5%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Йогурт IMUNELE Kids клубника, мороженое 1.5% 100 г",
+    "cleanTokens": [
+      "йогурт",
+      "kids",
+      "клубника",
+      "мороженое"
+    ],
+    "normalizedTokens": [
+      "йогурт",
+      "kids",
+      "клубника",
+      "мороженое",
+      "1.5%",
+      "100 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "100 г",
+      "count": null,
+      "pack": null,
+      "percent": "1.5%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Йогурт Мама Лама клубника-банан 2.5% 200 г",
+    "cleanTokens": [
+      "йогурт",
+      "клубника-банан"
+    ],
+    "normalizedTokens": [
+      "йогурт",
+      "клубника-банан",
+      "2.5%",
+      "200 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "200 г",
+      "count": null,
+      "pack": null,
+      "percent": "2.5%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Йогурт Dep клубника 2.5% 500 г",
+    "cleanTokens": [
+      "йогурт",
+      "клубника"
+    ],
+    "normalizedTokens": [
+      "йогурт",
+      "клубника",
+      "2.5%",
+      "500 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "500 г",
+      "count": null,
+      "pack": null,
+      "percent": "2.5%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Йогурт Nәtige Pro ананас, кокос 1.5% 900 г",
+    "cleanTokens": [
+      "йогурт",
+      "pro",
+      "ананас",
+      "кокос"
+    ],
+    "normalizedTokens": [
+      "йогурт",
+      "pro",
+      "ананас",
+      "кокос",
+      "1.5%",
+      "900 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "900 г",
+      "count": null,
+      "pack": null,
+      "percent": "1.5%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Йогурт Foodmaster Живой натуральный, злаки 2% 900 г",
+    "cleanTokens": [
+      "йогурт",
+      "живой",
+      "натуральный",
+      "злаки"
+    ],
+    "normalizedTokens": [
+      "йогурт",
+      "живой",
+      "натуральный",
+      "злаки",
+      "2%",
+      "900 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "900 г",
+      "count": null,
+      "pack": null,
+      "percent": "2%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Йогурт Активиа Комфортное пищеварение манго, маракуйя 2.1% 650 г",
+    "cleanTokens": [
+      "йогурт",
+      "комфортное",
+      "пищеварение",
+      "манго",
+      "маракуйя"
+    ],
+    "normalizedTokens": [
+      "йогурт",
+      "комфортное",
+      "пищеварение",
+      "манго",
+      "маракуйя",
+      "2.1%",
+      "650 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "650 г",
+      "count": null,
+      "pack": null,
+      "percent": "2.1%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Йогурт Эрмигурт клубника, земляника 7.5% 110 г",
+    "cleanTokens": [
+      "йогурт",
+      "клубника",
+      "земляника"
+    ],
+    "normalizedTokens": [
+      "йогурт",
+      "клубника",
+      "земляника",
+      "7.5%",
+      "110 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "110 г",
+      "count": null,
+      "pack": null,
+      "percent": "7.5%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Йогурт Foodmaster Живой клубника 1.5% 300 г",
+    "cleanTokens": [
+      "йогурт",
+      "живой",
+      "клубника"
+    ],
+    "normalizedTokens": [
+      "йогурт",
+      "живой",
+      "клубника",
+      "1.5%",
+      "300 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "300 г",
+      "count": null,
+      "pack": null,
+      "percent": "1.5%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Йогурт Foodmaster Живой абрикос 2% 900 г",
+    "cleanTokens": [
+      "йогурт",
+      "живой",
+      "абрикос"
+    ],
+    "normalizedTokens": [
+      "йогурт",
+      "живой",
+      "абрикос",
+      "2%",
+      "900 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "900 г",
+      "count": null,
+      "pack": null,
+      "percent": "2%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Йогурт Foodmaster Био-С карамель 3.2% 900 г",
+    "cleanTokens": [
+      "йогурт",
+      "био-с",
+      "карамель"
+    ],
+    "normalizedTokens": [
+      "йогурт",
+      "био-с",
+      "карамель",
+      "3.2%",
+      "900 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "900 г",
+      "count": null,
+      "pack": null,
+      "percent": "3.2%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Йогурт Село Лесное клубника 1.5% 930 г",
+    "cleanTokens": [
+      "йогурт",
+      "клубника"
+    ],
+    "normalizedTokens": [
+      "йогурт",
+      "клубника",
+      "1.5%",
+      "930 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "930 г",
+      "count": null,
+      "pack": null,
+      "percent": "1.5%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Йогурт Foodmaster Био-С ваниль 3.2% 900 г",
+    "cleanTokens": [
+      "йогурт",
+      "био-с",
+      "ваниль"
+    ],
+    "normalizedTokens": [
+      "йогурт",
+      "био-с",
+      "ваниль",
+      "3.2%",
+      "900 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "900 г",
+      "count": null,
+      "pack": null,
+      "percent": "3.2%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Йогурт Foodmaster Живой лесные ягоды 2% 450 г",
+    "cleanTokens": [
+      "йогурт",
+      "живой",
+      "лесные",
+      "ягоды"
+    ],
+    "normalizedTokens": [
+      "йогурт",
+      "живой",
+      "лесные",
+      "ягоды",
+      "2%",
+      "450 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "450 г",
+      "count": null,
+      "pack": null,
+      "percent": "2%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Йогурт Nәtige ацидофильный ваниль 1.5% 900 мл",
+    "cleanTokens": [
+      "йогурт",
+      "ацидофильный",
+      "ваниль"
+    ],
+    "normalizedTokens": [
+      "йогурт",
+      "ацидофильный",
+      "ваниль",
+      "1.5%",
+      "900 мл"
+    ],
+    "params": {
+      "volume": "900 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "1.5%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Йогурт Danone гранат 1.2% 270 г",
+    "cleanTokens": [
+      "йогурт",
+      "гранат"
+    ],
+    "normalizedTokens": [
+      "йогурт",
+      "гранат",
+      "1.2%",
+      "270 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "270 г",
+      "count": null,
+      "pack": null,
+      "percent": "1.2%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Йогурт Услада Молочная клубника 1.2% 95 г",
+    "cleanTokens": [
+      "йогурт",
+      "молочная",
+      "клубника"
+    ],
+    "normalizedTokens": [
+      "йогурт",
+      "молочная",
+      "клубника",
+      "1.2%",
+      "95 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "95 г",
+      "count": null,
+      "pack": null,
+      "percent": "1.2%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Йогурт EPICA клубника, маракуйя 2.5% 260 г",
+    "cleanTokens": [
+      "йогурт",
+      "клубника",
+      "маракуйя"
+    ],
+    "normalizedTokens": [
+      "йогурт",
+      "клубника",
+      "маракуйя",
+      "2.5%",
+      "260 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "260 г",
+      "count": null,
+      "pack": null,
+      "percent": "2.5%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Йогурт EPICA Crispy фисташки 10.5% 140 г",
+    "cleanTokens": [
+      "йогурт",
+      "crispy",
+      "фисташки"
+    ],
+    "normalizedTokens": [
+      "йогурт",
+      "crispy",
+      "фисташки",
+      "10.5%",
+      "140 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "140 г",
+      "count": null,
+      "pack": null,
+      "percent": "10.5%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Йогурт Foodmaster Живой персик 1.5% 300 г",
+    "cleanTokens": [
+      "йогурт",
+      "живой",
+      "персик"
+    ],
+    "normalizedTokens": [
+      "йогурт",
+      "живой",
+      "персик",
+      "1.5%",
+      "300 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "300 г",
+      "count": null,
+      "pack": null,
+      "percent": "1.5%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Йогурт EPICA манго 2.5% 260 г",
+    "cleanTokens": [
+      "йогурт",
+      "манго"
+    ],
+    "normalizedTokens": [
+      "йогурт",
+      "манго",
+      "2.5%",
+      "260 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "260 г",
+      "count": null,
+      "pack": null,
+      "percent": "2.5%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Йогурт IMUNELE Kids малиновый пломбир 1.5% 100 г",
+    "cleanTokens": [
+      "йогурт",
+      "kids",
+      "малиновый",
+      "пломбир"
+    ],
+    "normalizedTokens": [
+      "йогурт",
+      "kids",
+      "малиновый",
+      "пломбир",
+      "1.5%",
+      "100 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "100 г",
+      "count": null,
+      "pack": null,
+      "percent": "1.5%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Йогурт Foodmaster Живой клубника 1% 280 г",
+    "cleanTokens": [
+      "йогурт",
+      "живой",
+      "клубника"
+    ],
+    "normalizedTokens": [
+      "йогурт",
+      "живой",
+      "клубника",
+      "1%",
+      "280 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "280 г",
+      "count": null,
+      "pack": null,
+      "percent": "1%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Йогурт Эмиль натуральный 1.5% 275 г",
+    "cleanTokens": [
+      "йогурт",
+      "натуральный"
+    ],
+    "normalizedTokens": [
+      "йогурт",
+      "натуральный",
+      "1.5%",
+      "275 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "275 г",
+      "count": null,
+      "pack": null,
+      "percent": "1.5%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Йогурт Мама Лама малина 2.5% 200 г",
+    "cleanTokens": [
+      "йогурт",
+      "малина"
+    ],
+    "normalizedTokens": [
+      "йогурт",
+      "малина",
+      "2.5%",
+      "200 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "200 г",
+      "count": null,
+      "pack": null,
+      "percent": "2.5%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Йогурт Nәtige Живой лесные ягоды 1.5% 450 мл",
+    "cleanTokens": [
+      "йогурт",
+      "живой",
+      "лесные",
+      "ягоды"
+    ],
+    "normalizedTokens": [
+      "йогурт",
+      "живой",
+      "лесные",
+      "ягоды",
+      "1.5%",
+      "450 мл"
+    ],
+    "params": {
+      "volume": "450 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "1.5%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Йогурт Danonino (Растишка) груша, яблоко 3% 100 г",
+    "cleanTokens": [
+      "йогурт",
+      "груша",
+      "яблоко"
+    ],
+    "normalizedTokens": [
+      "йогурт",
+      "груша",
+      "яблоко",
+      "3%",
+      "100 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "100 г",
+      "count": null,
+      "pack": null,
+      "percent": "3%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Йогурт Nәtige Живой манго, маракуйя 1.5% 450 г",
+    "cleanTokens": [
+      "йогурт",
+      "живой",
+      "манго",
+      "маракуйя"
+    ],
+    "normalizedTokens": [
+      "йогурт",
+      "живой",
+      "манго",
+      "маракуйя",
+      "1.5%",
+      "450 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "450 г",
+      "count": null,
+      "pack": null,
+      "percent": "1.5%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Йогурт Айс малина 2.5% 1000 г",
+    "cleanTokens": [
+      "йогурт",
+      "малина"
+    ],
+    "normalizedTokens": [
+      "йогурт",
+      "малина",
+      "2.5%",
+      "1000 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "1000 г",
+      "count": null,
+      "pack": null,
+      "percent": "2.5%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Йогурт Айс лесные ягоды 2.5% 1000 г",
+    "cleanTokens": [
+      "йогурт",
+      "лесные",
+      "ягоды"
+    ],
+    "normalizedTokens": [
+      "йогурт",
+      "лесные",
+      "ягоды",
+      "2.5%",
+      "1000 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "1000 г",
+      "count": null,
+      "pack": null,
+      "percent": "2.5%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Йогурт Родина груша-злаки 2.5% 500 г",
+    "cleanTokens": [
+      "йогурт",
+      "груша-злаки"
+    ],
+    "normalizedTokens": [
+      "йогурт",
+      "груша-злаки",
+      "2.5%",
+      "500 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "500 г",
+      "count": null,
+      "pack": null,
+      "percent": "2.5%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Йогурт Fruttis клубника 5% 290 г",
+    "cleanTokens": [
+      "йогурт",
+      "клубника"
+    ],
+    "normalizedTokens": [
+      "йогурт",
+      "клубника",
+      "5%",
+      "290 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "290 г",
+      "count": null,
+      "pack": null,
+      "percent": "5%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Йогурт Fruttis персик 5% 290 г",
+    "cleanTokens": [
+      "йогурт",
+      "персик"
+    ],
+    "normalizedTokens": [
+      "йогурт",
+      "персик",
+      "5%",
+      "290 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "290 г",
+      "count": null,
+      "pack": null,
+      "percent": "5%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Йогурт Фругурт клубника 2.5% 115 г",
+    "cleanTokens": [
+      "йогурт",
+      "клубника"
+    ],
+    "normalizedTokens": [
+      "йогурт",
+      "клубника",
+      "2.5%",
+      "115 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "115 г",
+      "count": null,
+      "pack": null,
+      "percent": "2.5%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Йогурт Nәtige Живой абрикос, персик 1.5% 450 г",
+    "cleanTokens": [
+      "йогурт",
+      "живой",
+      "абрикос",
+      "персик"
+    ],
+    "normalizedTokens": [
+      "йогурт",
+      "живой",
+      "абрикос",
+      "персик",
+      "1.5%",
+      "450 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "450 г",
+      "count": null,
+      "pack": null,
+      "percent": "1.5%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Йогурт Foodmaster Живой вишня 2% 450 г",
+    "cleanTokens": [
+      "йогурт",
+      "живой",
+      "вишня"
+    ],
+    "normalizedTokens": [
+      "йогурт",
+      "живой",
+      "вишня",
+      "2%",
+      "450 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "450 г",
+      "count": null,
+      "pack": null,
+      "percent": "2%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Йогурт Danone гранат 1.2% 670 г",
+    "cleanTokens": [
+      "йогурт",
+      "гранат"
+    ],
+    "normalizedTokens": [
+      "йогурт",
+      "гранат",
+      "1.2%",
+      "670 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "670 г",
+      "count": null,
+      "pack": null,
+      "percent": "1.2%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Йогурт Родина персик 2.5% 500 г",
+    "cleanTokens": [
+      "йогурт",
+      "персик"
+    ],
+    "normalizedTokens": [
+      "йогурт",
+      "персик",
+      "2.5%",
+      "500 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "500 г",
+      "count": null,
+      "pack": null,
+      "percent": "2.5%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Йогурт IMUNELE земляника 1.2% 100 г",
+    "cleanTokens": [
+      "йогурт",
+      "земляника"
+    ],
+    "normalizedTokens": [
+      "йогурт",
+      "земляника",
+      "1.2%",
+      "100 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "100 г",
+      "count": null,
+      "pack": null,
+      "percent": "1.2%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Йогурт Мама Лама манго 2.5% 200 г",
+    "cleanTokens": [
+      "йогурт",
+      "манго"
+    ],
+    "normalizedTokens": [
+      "йогурт",
+      "манго",
+      "2.5%",
+      "200 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "200 г",
+      "count": null,
+      "pack": null,
+      "percent": "2.5%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Йогурт Foodmaster Живой груша, карамель 1% 280 г",
+    "cleanTokens": [
+      "йогурт",
+      "живой",
+      "груша",
+      "карамель"
+    ],
+    "normalizedTokens": [
+      "йогурт",
+      "живой",
+      "груша",
+      "карамель",
+      "1%",
+      "280 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "280 г",
+      "count": null,
+      "pack": null,
+      "percent": "1%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Йогурт Услада Молочная персик 1.2% 95 г",
+    "cleanTokens": [
+      "йогурт",
+      "молочная",
+      "персик"
+    ],
+    "normalizedTokens": [
+      "йогурт",
+      "молочная",
+      "персик",
+      "1.2%",
+      "95 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "95 г",
+      "count": null,
+      "pack": null,
+      "percent": "1.2%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Йогурт Фругурт персик 2.5% 115 г",
+    "cleanTokens": [
+      "йогурт",
+      "персик"
+    ],
+    "normalizedTokens": [
+      "йогурт",
+      "персик",
+      "2.5%",
+      "115 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "115 г",
+      "count": null,
+      "pack": null,
+      "percent": "2.5%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Йогурт Село Лесное лесные ягоды 1.5% 930 г",
+    "cleanTokens": [
+      "йогурт",
+      "лесные",
+      "ягоды"
+    ],
+    "normalizedTokens": [
+      "йогурт",
+      "лесные",
+      "ягоды",
+      "1.5%",
+      "930 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "930 г",
+      "count": null,
+      "pack": null,
+      "percent": "1.5%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Йогурт Родина малина 2.5% 500 г",
+    "cleanTokens": [
+      "йогурт",
+      "малина"
+    ],
+    "normalizedTokens": [
+      "йогурт",
+      "малина",
+      "2.5%",
+      "500 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "500 г",
+      "count": null,
+      "pack": null,
+      "percent": "2.5%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Йогурт EPICA Flavorite карамель 7.6% 130 г",
+    "cleanTokens": [
+      "йогурт",
+      "flavorite",
+      "карамель"
+    ],
+    "normalizedTokens": [
+      "йогурт",
+      "flavorite",
+      "карамель",
+      "7.6%",
+      "130 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "130 г",
+      "count": null,
+      "pack": null,
+      "percent": "7.6%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Йогурт Dep персик, маракуйя 2.5% 500 г",
+    "cleanTokens": [
+      "йогурт",
+      "персик",
+      "маракуйя"
+    ],
+    "normalizedTokens": [
+      "йогурт",
+      "персик",
+      "маракуйя",
+      "2.5%",
+      "500 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "500 г",
+      "count": null,
+      "pack": null,
+      "percent": "2.5%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Йогурт Эрмигурт ананас, дыня 3.2% 100 г",
+    "cleanTokens": [
+      "йогурт",
+      "ананас",
+      "дыня"
+    ],
+    "normalizedTokens": [
+      "йогурт",
+      "ананас",
+      "дыня",
+      "3.2%",
+      "100 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "100 г",
+      "count": null,
+      "pack": null,
+      "percent": "3.2%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Йогурт Эрмигурт яблоко, груша 7.5% 100 г",
+    "cleanTokens": [
+      "йогурт",
+      "яблоко",
+      "груша"
+    ],
+    "normalizedTokens": [
+      "йогурт",
+      "яблоко",
+      "груша",
+      "7.5%",
+      "100 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "100 г",
+      "count": null,
+      "pack": null,
+      "percent": "7.5%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Йогурт Nәtige Pro готовый завтрак натуральный, злаки 2.5% 140 г",
+    "cleanTokens": [
+      "йогурт",
+      "pro",
+      "готовый",
+      "завтрак",
+      "натуральный",
+      "злаки"
+    ],
+    "normalizedTokens": [
+      "йогурт",
+      "pro",
+      "готовый",
+      "завтрак",
+      "натуральный",
+      "злаки",
+      "2.5%",
+      "140 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "140 г",
+      "count": null,
+      "pack": null,
+      "percent": "2.5%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Йогурт Родина вишня 2.5% 500 г",
+    "cleanTokens": [
+      "йогурт",
+      "вишня"
+    ],
+    "normalizedTokens": [
+      "йогурт",
+      "вишня",
+      "2.5%",
+      "500 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "500 г",
+      "count": null,
+      "pack": null,
+      "percent": "2.5%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Йогурт Dep натуральный 2.5% 500 г",
+    "cleanTokens": [
+      "йогурт",
+      "натуральный"
+    ],
+    "normalizedTokens": [
+      "йогурт",
+      "натуральный",
+      "2.5%",
+      "500 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "500 г",
+      "count": null,
+      "pack": null,
+      "percent": "2.5%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Йогурт Nәtige Живой клубника, малина 1.5% 450 г",
+    "cleanTokens": [
+      "йогурт",
+      "живой",
+      "клубника",
+      "малина"
+    ],
+    "normalizedTokens": [
+      "йогурт",
+      "живой",
+      "клубника",
+      "малина",
+      "1.5%",
+      "450 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "450 г",
+      "count": null,
+      "pack": null,
+      "percent": "1.5%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Йогурт Foodmaster Живой чернослив 1% 280 г",
+    "cleanTokens": [
+      "йогурт",
+      "живой",
+      "чернослив"
+    ],
+    "normalizedTokens": [
+      "йогурт",
+      "живой",
+      "чернослив",
+      "1%",
+      "280 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "280 г",
+      "count": null,
+      "pack": null,
+      "percent": "1%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Йогурт Nәtige Pro мандарин, апельсин 1.5% 900 мл",
+    "cleanTokens": [
+      "йогурт",
+      "pro",
+      "мандарин",
+      "апельсин"
+    ],
+    "normalizedTokens": [
+      "йогурт",
+      "pro",
+      "мандарин",
+      "апельсин",
+      "1.5%",
+      "900 мл"
+    ],
+    "params": {
+      "volume": "900 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "1.5%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Йогурт Danone банан 1.2% 670 г",
+    "cleanTokens": [
+      "йогурт",
+      "банан"
+    ],
+    "normalizedTokens": [
+      "йогурт",
+      "банан",
+      "1.2%",
+      "670 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "670 г",
+      "count": null,
+      "pack": null,
+      "percent": "1.2%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Йогурт Эмиль клубника, банан со злаками 1.5% 450 г",
+    "cleanTokens": [
+      "йогурт",
+      "клубника",
+      "банан",
+      "со",
+      "злаками"
+    ],
+    "normalizedTokens": [
+      "йогурт",
+      "клубника",
+      "банан",
+      "со",
+      "злаками",
+      "1.5%",
+      "450 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "450 г",
+      "count": null,
+      "pack": null,
+      "percent": "1.5%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Йогурт Село Лесное банан, клубника 1.5% 450 г",
+    "cleanTokens": [
+      "йогурт",
+      "банан",
+      "клубника"
+    ],
+    "normalizedTokens": [
+      "йогурт",
+      "банан",
+      "клубника",
+      "1.5%",
+      "450 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "450 г",
+      "count": null,
+      "pack": null,
+      "percent": "1.5%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Йогурт МОЯ ФЕРМА натуральный 3.8% 1000 г",
+    "cleanTokens": [
+      "йогурт",
+      "натуральный"
+    ],
+    "normalizedTokens": [
+      "йогурт",
+      "натуральный",
+      "3.8%",
+      "1000 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "1000 г",
+      "count": null,
+      "pack": null,
+      "percent": "3.8%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Йогурт Эмиль крепыш 2.5% 450 г",
+    "cleanTokens": [
+      "йогурт",
+      "крепыш"
+    ],
+    "normalizedTokens": [
+      "йогурт",
+      "крепыш",
+      "2.5%",
+      "450 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "450 г",
+      "count": null,
+      "pack": null,
+      "percent": "2.5%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Йогурт Село Лесное клубника 1.5% 450 г",
+    "cleanTokens": [
+      "йогурт",
+      "клубника"
+    ],
+    "normalizedTokens": [
+      "йогурт",
+      "клубника",
+      "1.5%",
+      "450 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "450 г",
+      "count": null,
+      "pack": null,
+      "percent": "1.5%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Йогурт Эмиль чернослив со злакоми 1.5% 450 г",
+    "cleanTokens": [
+      "йогурт",
+      "чернослив",
+      "со",
+      "злакоми"
+    ],
+    "normalizedTokens": [
+      "йогурт",
+      "чернослив",
+      "со",
+      "злакоми",
+      "1.5%",
+      "450 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "450 г",
+      "count": null,
+      "pack": null,
+      "percent": "1.5%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Йогурт Danonino (Растишка) клубника 3% 100 г",
+    "cleanTokens": [
+      "йогурт",
+      "клубника"
+    ],
+    "normalizedTokens": [
+      "йогурт",
+      "клубника",
+      "3%",
+      "100 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "100 г",
+      "count": null,
+      "pack": null,
+      "percent": "3%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Йогурт Село Лесное чернослив 1.5% 450 г",
+    "cleanTokens": [
+      "йогурт",
+      "чернослив"
+    ],
+    "normalizedTokens": [
+      "йогурт",
+      "чернослив",
+      "1.5%",
+      "450 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "450 г",
+      "count": null,
+      "pack": null,
+      "percent": "1.5%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Йогурт Село Лесное персик 1.5% 930 г",
+    "cleanTokens": [
+      "йогурт",
+      "персик"
+    ],
+    "normalizedTokens": [
+      "йогурт",
+      "персик",
+      "1.5%",
+      "930 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "930 г",
+      "count": null,
+      "pack": null,
+      "percent": "1.5%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Йогурт Растишка Растизавры со вкусом пломбира с голубикой 1.6% 90 г",
+    "cleanTokens": [
+      "йогурт",
+      "растизавры",
+      "со",
+      "вкусом",
+      "пломбира",
+      "с",
+      "голубикой"
+    ],
+    "normalizedTokens": [
+      "йогурт",
+      "растизавры",
+      "со",
+      "вкусом",
+      "пломбира",
+      "с",
+      "голубикой",
+      "1.6%",
+      "90 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "90 г",
+      "count": null,
+      "pack": null,
+      "percent": "1.6%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Йогурт Активиа без сахара ананас 0.1% 260 г",
+    "cleanTokens": [
+      "йогурт",
+      "без",
+      "сахара",
+      "ананас"
+    ],
+    "normalizedTokens": [
+      "йогурт",
+      "без",
+      "сахара",
+      "ананас",
+      "0.1%",
+      "260 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "260 г",
+      "count": null,
+      "pack": null,
+      "percent": "0.1%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Йогурт EPICA Bouquet голубика, лаванда 4.8% 130 г",
+    "cleanTokens": [
+      "йогурт",
+      "bouquet",
+      "голубика",
+      "лаванда"
+    ],
+    "normalizedTokens": [
+      "йогурт",
+      "bouquet",
+      "голубика",
+      "лаванда",
+      "4.8%",
+      "130 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "130 г",
+      "count": null,
+      "pack": null,
+      "percent": "4.8%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Йогурт EPICA натуральный 2.9% 260 г",
+    "cleanTokens": [
+      "йогурт",
+      "натуральный"
+    ],
+    "normalizedTokens": [
+      "йогурт",
+      "натуральный",
+      "2.9%",
+      "260 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "260 г",
+      "count": null,
+      "pack": null,
+      "percent": "2.9%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Йогурт Село Лесное со вкусом ягодного мороженого 1.5% 500 г",
+    "cleanTokens": [
+      "йогурт",
+      "со",
+      "вкусом",
+      "ягодного",
+      "мороженого"
+    ],
+    "normalizedTokens": [
+      "йогурт",
+      "со",
+      "вкусом",
+      "ягодного",
+      "мороженого",
+      "1.5%",
+      "500 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "500 г",
+      "count": null,
+      "pack": null,
+      "percent": "1.5%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Йогурт Nәtige Pro ананас, кокос 1.5% 300 мл",
+    "cleanTokens": [
+      "йогурт",
+      "pro",
+      "ананас",
+      "кокос"
+    ],
+    "normalizedTokens": [
+      "йогурт",
+      "pro",
+      "ананас",
+      "кокос",
+      "1.5%",
+      "300 мл"
+    ],
+    "params": {
+      "volume": "300 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "1.5%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Йогурт Эмиль лесные ягоды 1.5% 900 г",
+    "cleanTokens": [
+      "йогурт",
+      "лесные",
+      "ягоды"
+    ],
+    "normalizedTokens": [
+      "йогурт",
+      "лесные",
+      "ягоды",
+      "1.5%",
+      "900 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "900 г",
+      "count": null,
+      "pack": null,
+      "percent": "1.5%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Йогурт Эмиль вишня, черешня 2.5% 900 г",
+    "cleanTokens": [
+      "йогурт",
+      "вишня",
+      "черешня"
+    ],
+    "normalizedTokens": [
+      "йогурт",
+      "вишня",
+      "черешня",
+      "2.5%",
+      "900 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "900 г",
+      "count": null,
+      "pack": null,
+      "percent": "2.5%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Йогурт Эмиль клубника 1.5% 900 г",
+    "cleanTokens": [
+      "йогурт",
+      "клубника"
+    ],
+    "normalizedTokens": [
+      "йогурт",
+      "клубника",
+      "1.5%",
+      "900 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "900 г",
+      "count": null,
+      "pack": null,
+      "percent": "1.5%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Йогурт Эмиль персик 1.5% 900 г",
+    "cleanTokens": [
+      "йогурт",
+      "персик"
+    ],
+    "normalizedTokens": [
+      "йогурт",
+      "персик",
+      "1.5%",
+      "900 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "900 г",
+      "count": null,
+      "pack": null,
+      "percent": "1.5%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Йогурт Danone клубника 1.2% 270 г",
+    "cleanTokens": [
+      "йогурт",
+      "клубника"
+    ],
+    "normalizedTokens": [
+      "йогурт",
+      "клубника",
+      "1.2%",
+      "270 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "270 г",
+      "count": null,
+      "pack": null,
+      "percent": "1.2%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Йогурт Мама Лама персик 2.5% 200 г",
+    "cleanTokens": [
+      "йогурт",
+      "персик"
+    ],
+    "normalizedTokens": [
+      "йогурт",
+      "персик",
+      "2.5%",
+      "200 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "200 г",
+      "count": null,
+      "pack": null,
+      "percent": "2.5%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Йогурт Мама Лама зеленое яблоко 2.5% 200 г",
+    "cleanTokens": [
+      "йогурт",
+      "зеленое",
+      "яблоко"
+    ],
+    "normalizedTokens": [
+      "йогурт",
+      "зеленое",
+      "яблоко",
+      "2.5%",
+      "200 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "200 г",
+      "count": null,
+      "pack": null,
+      "percent": "2.5%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Йогурт Danone банан 1.2% 270 г",
+    "cleanTokens": [
+      "йогурт",
+      "банан"
+    ],
+    "normalizedTokens": [
+      "йогурт",
+      "банан",
+      "1.2%",
+      "270 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "270 г",
+      "count": null,
+      "pack": null,
+      "percent": "1.2%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Йогурт Эмиль клубника, лайм, мята 2.5% 310 г",
+    "cleanTokens": [
+      "йогурт",
+      "клубника",
+      "лайм",
+      "мята"
+    ],
+    "normalizedTokens": [
+      "йогурт",
+      "клубника",
+      "лайм",
+      "мята",
+      "2.5%",
+      "310 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "310 г",
+      "count": null,
+      "pack": null,
+      "percent": "2.5%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Йогурт Dep банан, злаки 2.5% 500 г",
+    "cleanTokens": [
+      "йогурт",
+      "банан",
+      "злаки"
+    ],
+    "normalizedTokens": [
+      "йогурт",
+      "банан",
+      "злаки",
+      "2.5%",
+      "500 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "500 г",
+      "count": null,
+      "pack": null,
+      "percent": "2.5%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Йогурт Dep абрикос 2.5% 500 г",
+    "cleanTokens": [
+      "йогурт",
+      "абрикос"
+    ],
+    "normalizedTokens": [
+      "йогурт",
+      "абрикос",
+      "2.5%",
+      "500 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "500 г",
+      "count": null,
+      "pack": null,
+      "percent": "2.5%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Йогурт Эмиль малина 1.5% 900 г",
+    "cleanTokens": [
+      "йогурт",
+      "малина"
+    ],
+    "normalizedTokens": [
+      "йогурт",
+      "малина",
+      "1.5%",
+      "900 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "900 г",
+      "count": null,
+      "pack": null,
+      "percent": "1.5%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Йогурт Чудо клубника, земляника 1.9% 260 г",
+    "cleanTokens": [
+      "йогурт",
+      "клубника",
+      "земляника"
+    ],
+    "normalizedTokens": [
+      "йогурт",
+      "клубника",
+      "земляника",
+      "1.9%",
+      "260 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "260 г",
+      "count": null,
+      "pack": null,
+      "percent": "1.9%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Йогурт Nәtige Mio's готовый завтрак яблоко, корица 2.5% 140 г",
+    "cleanTokens": [
+      "йогурт",
+      "mio's",
+      "готовый",
+      "завтрак",
+      "яблоко",
+      "корица"
+    ],
+    "normalizedTokens": [
+      "йогурт",
+      "mio's",
+      "готовый",
+      "завтрак",
+      "яблоко",
+      "корица",
+      "2.5%",
+      "140 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "140 г",
+      "count": null,
+      "pack": null,
+      "percent": "2.5%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Йогурт Astana-Өнім фруктовый 2.5% 500 г",
+    "cleanTokens": [
+      "йогурт",
+      "фруктовый"
+    ],
+    "normalizedTokens": [
+      "йогурт",
+      "фруктовый",
+      "2.5%",
+      "500 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "500 г",
+      "count": null,
+      "pack": null,
+      "percent": "2.5%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Йогурт Galamilk Биойогурт малина 3.7% 300 г",
+    "cleanTokens": [
+      "йогурт",
+      "биойогурт",
+      "малина"
+    ],
+    "normalizedTokens": [
+      "йогурт",
+      "биойогурт",
+      "малина",
+      "3.7%",
+      "300 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "300 г",
+      "count": null,
+      "pack": null,
+      "percent": "3.7%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Йогурт EPICA Crispy клюква, малина, черника 6.5% 100 г",
+    "cleanTokens": [
+      "йогурт",
+      "crispy",
+      "клюква",
+      "малина",
+      "черника"
+    ],
+    "normalizedTokens": [
+      "йогурт",
+      "crispy",
+      "клюква",
+      "малина",
+      "черника",
+      "6.5%",
+      "100 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "100 г",
+      "count": null,
+      "pack": null,
+      "percent": "6.5%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Йогурт Айс клубника 2.5% 500 г",
+    "cleanTokens": [
+      "йогурт",
+      "клубника"
+    ],
+    "normalizedTokens": [
+      "йогурт",
+      "клубника",
+      "2.5%",
+      "500 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "500 г",
+      "count": null,
+      "pack": null,
+      "percent": "2.5%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Йогурт Nәtige Mio's готовый завтрак мед 2.5% 140 г",
+    "cleanTokens": [
+      "йогурт",
+      "mio's",
+      "готовый",
+      "завтрак",
+      "мед"
+    ],
+    "normalizedTokens": [
+      "йогурт",
+      "mio's",
+      "готовый",
+      "завтрак",
+      "мед",
+      "2.5%",
+      "140 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "140 г",
+      "count": null,
+      "pack": null,
+      "percent": "2.5%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Йогурт Galamilk ваниль 3.7% 300 г",
+    "cleanTokens": [
+      "йогурт",
+      "ваниль"
+    ],
+    "normalizedTokens": [
+      "йогурт",
+      "ваниль",
+      "3.7%",
+      "300 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "300 г",
+      "count": null,
+      "pack": null,
+      "percent": "3.7%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Йогурт Astana-Өнім ProBio натуральный со злаками 1% 1000 мл",
+    "cleanTokens": [
+      "йогурт",
+      "probio",
+      "натуральный",
+      "со",
+      "злаками"
+    ],
+    "normalizedTokens": [
+      "йогурт",
+      "probio",
+      "натуральный",
+      "со",
+      "злаками",
+      "1%",
+      "1000 мл"
+    ],
+    "params": {
+      "volume": "1000 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "1%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Йогурт Добрая Коза с черникой 4.2% 300 мл",
+    "cleanTokens": [
+      "йогурт",
+      "с",
+      "черникой"
+    ],
+    "normalizedTokens": [
+      "йогурт",
+      "с",
+      "черникой",
+      "4.2%",
+      "300 мл"
+    ],
+    "params": {
+      "volume": "300 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "4.2%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Йогурт Эмиль натуральный без сахара со злаками 1.5% 310 г",
+    "cleanTokens": [
+      "йогурт",
+      "натуральный",
+      "без",
+      "сахара",
+      "со",
+      "злаками"
+    ],
+    "normalizedTokens": [
+      "йогурт",
+      "натуральный",
+      "без",
+      "сахара",
+      "со",
+      "злаками",
+      "1.5%",
+      "310 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "310 г",
+      "count": null,
+      "pack": null,
+      "percent": "1.5%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Йогурт Galamilk Биойогурт черная смородина 3.7% 300 г",
+    "cleanTokens": [
+      "йогурт",
+      "биойогурт",
+      "черная",
+      "смородина"
+    ],
+    "normalizedTokens": [
+      "йогурт",
+      "биойогурт",
+      "черная",
+      "смородина",
+      "3.7%",
+      "300 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "300 г",
+      "count": null,
+      "pack": null,
+      "percent": "3.7%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Йогурт Добрая Коза с клубникой 4.2% 300 мл",
+    "cleanTokens": [
+      "йогурт",
+      "с",
+      "клубникой"
+    ],
+    "normalizedTokens": [
+      "йогурт",
+      "с",
+      "клубникой",
+      "4.2%",
+      "300 мл"
+    ],
+    "params": {
+      "volume": "300 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "4.2%",
+      "age": null,
+      "stars": null
+    }
+  }
+]

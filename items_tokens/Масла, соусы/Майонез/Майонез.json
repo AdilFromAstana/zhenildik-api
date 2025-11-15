@@ -1,0 +1,630 @@
+[
+  {
+    "original": "Майонез Махеевъ с лимонным соком 67% 380 г",
+    "cleanTokens": [
+      "с",
+      "лимонным",
+      "соком"
+    ],
+    "normalizedTokens": [
+      "с",
+      "лимонным",
+      "соком",
+      "67%",
+      "380 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "380 г",
+      "count": null,
+      "pack": null,
+      "percent": "67%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Майонез Махеевъ с лимонным соком 50.5% 770 г",
+    "cleanTokens": [
+      "с",
+      "лимонным",
+      "соком"
+    ],
+    "normalizedTokens": [
+      "с",
+      "лимонным",
+      "соком",
+      "50.5%",
+      "770 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "770 г",
+      "count": null,
+      "pack": null,
+      "percent": "50.5%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Майонез Махеевъ провансаль 50.5% 800 г",
+    "cleanTokens": [
+      "провансаль"
+    ],
+    "normalizedTokens": [
+      "провансаль",
+      "50.5%",
+      "800 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "800 г",
+      "count": null,
+      "pack": null,
+      "percent": "50.5%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Майонез Calve легкий 20% 400 г",
+    "cleanTokens": [
+      "легкий"
+    ],
+    "normalizedTokens": [
+      "легкий",
+      "20%",
+      "400 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "400 г",
+      "count": null,
+      "pack": null,
+      "percent": "20%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Майонез Shah провансаль 67% 200 г",
+    "cleanTokens": [
+      "провансаль"
+    ],
+    "normalizedTokens": [
+      "провансаль",
+      "67%",
+      "200 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "200 г",
+      "count": null,
+      "pack": null,
+      "percent": "67%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Майонез Московский Провансаль провансаль 55% 670 мл",
+    "cleanTokens": [
+      "провансаль"
+    ],
+    "normalizedTokens": [
+      "провансаль",
+      "55%",
+      "670 мл"
+    ],
+    "params": {
+      "volume": "670 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "55%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Майонез Махеевъ сметанный 50.5% 770 г",
+    "cleanTokens": [
+      "сметанный"
+    ],
+    "normalizedTokens": [
+      "сметанный",
+      "50.5%",
+      "770 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "770 г",
+      "count": null,
+      "pack": null,
+      "percent": "50.5%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Майонез ЕЖК провансаль 67% 200 г",
+    "cleanTokens": [
+      "провансаль"
+    ],
+    "normalizedTokens": [
+      "провансаль",
+      "67%",
+      "200 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "200 г",
+      "count": null,
+      "pack": null,
+      "percent": "67%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Майонез Махеевъ оливковый 50.5% 770 г",
+    "cleanTokens": [
+      "оливковый"
+    ],
+    "normalizedTokens": [
+      "оливковый",
+      "50.5%",
+      "770 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "770 г",
+      "count": null,
+      "pack": null,
+      "percent": "50.5%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Майонез Махеевъ сметанный 50.5% 380 г",
+    "cleanTokens": [
+      "сметанный"
+    ],
+    "normalizedTokens": [
+      "сметанный",
+      "50.5%",
+      "380 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "380 г",
+      "count": null,
+      "pack": null,
+      "percent": "50.5%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Майонезный соус ЕЖК провансаль 46% 900 г",
+    "cleanTokens": [
+      "майонезный",
+      "соус",
+      "провансаль"
+    ],
+    "normalizedTokens": [
+      "майонезный",
+      "соус",
+      "провансаль",
+      "46%",
+      "900 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "900 г",
+      "count": null,
+      "pack": null,
+      "percent": "46%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Майонез Shah провансаль 67% 350 г",
+    "cleanTokens": [
+      "провансаль"
+    ],
+    "normalizedTokens": [
+      "провансаль",
+      "67%",
+      "350 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "350 г",
+      "count": null,
+      "pack": null,
+      "percent": "67%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Майонез Московский Провансаль провансаль 55% 800 г",
+    "cleanTokens": [
+      "провансаль"
+    ],
+    "normalizedTokens": [
+      "провансаль",
+      "55%",
+      "800 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "800 г",
+      "count": null,
+      "pack": null,
+      "percent": "55%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Майонезный соус Махеевъ сметанный 25% 200 г",
+    "cleanTokens": [
+      "майонезный",
+      "соус",
+      "сметанный"
+    ],
+    "normalizedTokens": [
+      "майонезный",
+      "соус",
+      "сметанный",
+      "25%",
+      "200 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "200 г",
+      "count": null,
+      "pack": null,
+      "percent": "25%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Майонез ЕЖК провансаль 67% 700 г",
+    "cleanTokens": [
+      "провансаль"
+    ],
+    "normalizedTokens": [
+      "провансаль",
+      "67%",
+      "700 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "700 г",
+      "count": null,
+      "pack": null,
+      "percent": "67%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Майонез ЕЖК провансаль 67% 385 г",
+    "cleanTokens": [
+      "провансаль"
+    ],
+    "normalizedTokens": [
+      "провансаль",
+      "67%",
+      "385 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "385 г",
+      "count": null,
+      "pack": null,
+      "percent": "67%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Майонез Mr.Ricco оливковый Extra Virgin 67% 375 г",
+    "cleanTokens": [
+      "оливковый",
+      "extra",
+      "virgin"
+    ],
+    "normalizedTokens": [
+      "оливковый",
+      "extra",
+      "virgin",
+      "67%",
+      "375 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "375 г",
+      "count": null,
+      "pack": null,
+      "percent": "67%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Майонез Shah провансаль 50.5% 200 г",
+    "cleanTokens": [
+      "провансаль"
+    ],
+    "normalizedTokens": [
+      "провансаль",
+      "50.5%",
+      "200 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "200 г",
+      "count": null,
+      "pack": null,
+      "percent": "50.5%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Майонез 3 желания с перепелиным яйцом 50.5% 800 г",
+    "cleanTokens": [
+      "с",
+      "перепелиным",
+      "яйцом"
+    ],
+    "normalizedTokens": [
+      "с",
+      "перепелиным",
+      "яйцом",
+      "50.5%",
+      "800 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "800 г",
+      "count": null,
+      "pack": null,
+      "percent": "50.5%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Майонез Mr.Ricco провансаль Classico 67% 375 г",
+    "cleanTokens": [
+      "провансаль",
+      "classico"
+    ],
+    "normalizedTokens": [
+      "провансаль",
+      "classico",
+      "67%",
+      "375 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "375 г",
+      "count": null,
+      "pack": null,
+      "percent": "67%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Майонез Московский Провансаль провансаль 67% 700 мл",
+    "cleanTokens": [
+      "провансаль"
+    ],
+    "normalizedTokens": [
+      "провансаль",
+      "67%",
+      "700 мл"
+    ],
+    "params": {
+      "volume": "700 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "67%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Майонез Mr.Ricco на перепелином яйце 67% 375 г",
+    "cleanTokens": [
+      "на",
+      "перепелином",
+      "яйце"
+    ],
+    "normalizedTokens": [
+      "на",
+      "перепелином",
+      "яйце",
+      "67%",
+      "375 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "375 г",
+      "count": null,
+      "pack": null,
+      "percent": "67%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Майонез Shah провансаль 50.5% 350 г",
+    "cleanTokens": [
+      "провансаль"
+    ],
+    "normalizedTokens": [
+      "провансаль",
+      "50.5%",
+      "350 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "350 г",
+      "count": null,
+      "pack": null,
+      "percent": "50.5%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Майонез Mr.Ricco на перепелином яйце 67% 750 г",
+    "cleanTokens": [
+      "на",
+      "перепелином",
+      "яйце"
+    ],
+    "normalizedTokens": [
+      "на",
+      "перепелином",
+      "яйце",
+      "67%",
+      "750 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "750 г",
+      "count": null,
+      "pack": null,
+      "percent": "67%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Майонез Mr.Ricco оливковый Extra Virgin 67% 750 г",
+    "cleanTokens": [
+      "оливковый",
+      "extra",
+      "virgin"
+    ],
+    "normalizedTokens": [
+      "оливковый",
+      "extra",
+      "virgin",
+      "67%",
+      "750 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "750 г",
+      "count": null,
+      "pack": null,
+      "percent": "67%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Майонез Mr.Ricco с маслом авокадо Extra Virgin 67% 375 г",
+    "cleanTokens": [
+      "с",
+      "маслом",
+      "авокадо",
+      "extra",
+      "virgin"
+    ],
+    "normalizedTokens": [
+      "с",
+      "маслом",
+      "авокадо",
+      "extra",
+      "virgin",
+      "67%",
+      "375 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "375 г",
+      "count": null,
+      "pack": null,
+      "percent": "67%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Майонез Mr.Ricco провансаль Classico 67% 750 г",
+    "cleanTokens": [
+      "провансаль",
+      "classico"
+    ],
+    "normalizedTokens": [
+      "провансаль",
+      "classico",
+      "67%",
+      "750 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "750 г",
+      "count": null,
+      "pack": null,
+      "percent": "67%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Майонез Shah провансаль 50.5% 300 г",
+    "cleanTokens": [
+      "провансаль"
+    ],
+    "normalizedTokens": [
+      "провансаль",
+      "50.5%",
+      "300 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "300 г",
+      "count": null,
+      "pack": null,
+      "percent": "50.5%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Майонез Shah провансаль 67% 500 г",
+    "cleanTokens": [
+      "провансаль"
+    ],
+    "normalizedTokens": [
+      "провансаль",
+      "67%",
+      "500 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "500 г",
+      "count": null,
+      "pack": null,
+      "percent": "67%",
+      "age": null,
+      "stars": null
+    }
+  }
+]

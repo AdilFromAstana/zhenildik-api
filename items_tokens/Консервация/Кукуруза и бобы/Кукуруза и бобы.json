@@ -1,0 +1,528 @@
+[
+  {
+    "original": "Bonduelle зеленый горошек молодой 212 мл",
+    "cleanTokens": [
+      "зеленый",
+      "горошек",
+      "молодой"
+    ],
+    "normalizedTokens": [
+      "зеленый",
+      "горошек",
+      "молодой",
+      "212 мл"
+    ],
+    "params": {
+      "volume": "212 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Дядя Ваня зеленый горошек из мозговых сортов 400 г",
+    "cleanTokens": [
+      "зеленый",
+      "горошек",
+      "из",
+      "мозговых",
+      "сортов"
+    ],
+    "normalizedTokens": [
+      "зеленый",
+      "горошек",
+      "из",
+      "мозговых",
+      "сортов",
+      "400 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "400 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Дядя Ваня кукуруза в зернах сахарная 272 г",
+    "cleanTokens": [
+      "в",
+      "зернах",
+      "сахарная"
+    ],
+    "normalizedTokens": [
+      "в",
+      "зернах",
+      "сахарная",
+      "272 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "272 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Globus фасоль белая в томатном соусе 425 мл",
+    "cleanTokens": [
+      "фасоль",
+      "белая",
+      "в",
+      "томатном",
+      "соусе"
+    ],
+    "normalizedTokens": [
+      "фасоль",
+      "белая",
+      "в",
+      "томатном",
+      "соусе",
+      "425 мл"
+    ],
+    "params": {
+      "volume": "425 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Globus фасоль белая 425 мл",
+    "cleanTokens": [
+      "фасоль",
+      "белая"
+    ],
+    "normalizedTokens": [
+      "фасоль",
+      "белая",
+      "425 мл"
+    ],
+    "params": {
+      "volume": "425 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Кормилица фасоль красная натуральная 400 г",
+    "cleanTokens": [
+      "фасоль",
+      "красная",
+      "натуральная"
+    ],
+    "normalizedTokens": [
+      "фасоль",
+      "красная",
+      "натуральная",
+      "400 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "400 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Bonduelle фасоль красная в соусе чили 400 г",
+    "cleanTokens": [
+      "фасоль",
+      "красная",
+      "в",
+      "соусе",
+      "чили"
+    ],
+    "normalizedTokens": [
+      "фасоль",
+      "красная",
+      "в",
+      "соусе",
+      "чили",
+      "400 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "400 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Bonduelle кукуруза баланс без сахара 350 мл",
+    "cleanTokens": [
+      "баланс",
+      "без",
+      "сахара"
+    ],
+    "normalizedTokens": [
+      "баланс",
+      "без",
+      "сахара",
+      "350 мл"
+    ],
+    "params": {
+      "volume": "350 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Bonduelle фасоль белая 400 г",
+    "cleanTokens": [
+      "фасоль",
+      "белая"
+    ],
+    "normalizedTokens": [
+      "фасоль",
+      "белая",
+      "400 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "400 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Bonduelle зеленый горошек баланс без сахара 350 мл",
+    "cleanTokens": [
+      "зеленый",
+      "горошек",
+      "баланс",
+      "без",
+      "сахара"
+    ],
+    "normalizedTokens": [
+      "зеленый",
+      "горошек",
+      "баланс",
+      "без",
+      "сахара",
+      "350 мл"
+    ],
+    "params": {
+      "volume": "350 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Bonduelle зеленый горошек нежный 580 мл",
+    "cleanTokens": [
+      "зеленый",
+      "горошек",
+      "нежный"
+    ],
+    "normalizedTokens": [
+      "зеленый",
+      "горошек",
+      "нежный",
+      "580 мл"
+    ],
+    "params": {
+      "volume": "580 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Lorado фасоль красная кидней 255 г",
+    "cleanTokens": [
+      "фасоль",
+      "красная",
+      "кидней"
+    ],
+    "normalizedTokens": [
+      "фасоль",
+      "красная",
+      "кидней",
+      "255 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "255 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Lorado кукуруза сладкая 280 г",
+    "cleanTokens": [
+      "сладкая"
+    ],
+    "normalizedTokens": [
+      "сладкая",
+      "280 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "280 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Bonduelle кукуруза золотистая 500 мл",
+    "cleanTokens": [
+      "золотистая"
+    ],
+    "normalizedTokens": [
+      "золотистая",
+      "500 мл"
+    ],
+    "params": {
+      "volume": "500 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Дядя Ваня фасоль печеная по-домашнему 480 г",
+    "cleanTokens": [
+      "фасоль",
+      "печеная",
+      "по-домашнему"
+    ],
+    "normalizedTokens": [
+      "фасоль",
+      "печеная",
+      "по-домашнему",
+      "480 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "480 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Bonduelle фасоль красная в классическом барбекю 350 г",
+    "cleanTokens": [
+      "фасоль",
+      "красная",
+      "в",
+      "классическом",
+      "барбекю"
+    ],
+    "normalizedTokens": [
+      "фасоль",
+      "красная",
+      "в",
+      "классическом",
+      "барбекю",
+      "350 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "350 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Ricca Festa зеленый горошек из мозговых сортов 240 г",
+    "cleanTokens": [
+      "зеленый",
+      "горошек",
+      "из",
+      "мозговых",
+      "сортов"
+    ],
+    "normalizedTokens": [
+      "зеленый",
+      "горошек",
+      "из",
+      "мозговых",
+      "сортов",
+      "240 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "240 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "КУБЛЕЙ зеленый горошек консервированный 330 г",
+    "cleanTokens": [
+      "зеленый",
+      "горошек",
+      "консервированный"
+    ],
+    "normalizedTokens": [
+      "зеленый",
+      "горошек",
+      "консервированный",
+      "330 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "330 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Bonduelle фасоль красная в соусе барбекю 400 г",
+    "cleanTokens": [
+      "фасоль",
+      "красная",
+      "в",
+      "соусе",
+      "барбекю"
+    ],
+    "normalizedTokens": [
+      "фасоль",
+      "красная",
+      "в",
+      "соусе",
+      "барбекю",
+      "400 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "400 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Bonduelle мексиканская кухня фасоль с кукурузой Буррито 360 г",
+    "cleanTokens": [
+      "мексиканская",
+      "кухня",
+      "фасоль",
+      "с",
+      "кукурузой",
+      "буррито"
+    ],
+    "normalizedTokens": [
+      "мексиканская",
+      "кухня",
+      "фасоль",
+      "с",
+      "кукурузой",
+      "буррито",
+      "360 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "360 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Скатерть-Самобранка кукуруза сладкая отборная 340 г",
+    "cleanTokens": [
+      "сладкая",
+      "отборная"
+    ],
+    "normalizedTokens": [
+      "сладкая",
+      "отборная",
+      "340 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "340 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Скатерть-Самобранка фасоль красная натуральная 220 г",
+    "cleanTokens": [
+      "фасоль",
+      "красная",
+      "натуральная"
+    ],
+    "normalizedTokens": [
+      "фасоль",
+      "красная",
+      "натуральная",
+      "220 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "220 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  }
+]

@@ -1,0 +1,1164 @@
+[
+  {
+    "original": "Текила El Mayor blanco 40% 0.75 л",
+    "cleanTokens": [
+      "blanco"
+    ],
+    "normalizedTokens": [
+      "blanco",
+      "40%",
+      "0.75 л"
+    ],
+    "params": {
+      "volume": "0.75 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "40%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Текила Montelobos Pechuga mezcal 47.9% 0.7 л",
+    "cleanTokens": [
+      "pechuga",
+      "mezcal"
+    ],
+    "normalizedTokens": [
+      "pechuga",
+      "mezcal",
+      "47.9%",
+      "0.7 л"
+    ],
+    "params": {
+      "volume": "0.7 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "47.9%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Текила Leyenda Del Milagro Blue Agave silver 40% 0.75 л",
+    "cleanTokens": [
+      "blue",
+      "agave",
+      "silver"
+    ],
+    "normalizedTokens": [
+      "blue",
+      "agave",
+      "silver",
+      "40%",
+      "0.75 л"
+    ],
+    "params": {
+      "volume": "0.75 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "40%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Текила Cenote blanco 40% 0.7 л",
+    "cleanTokens": [
+      "blanco"
+    ],
+    "normalizedTokens": [
+      "blanco",
+      "40%",
+      "0.7 л"
+    ],
+    "params": {
+      "volume": "0.7 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "40%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Текила Montelobos Tobala mezcal 46.8% 0.7 л",
+    "cleanTokens": [
+      "tobala",
+      "mezcal"
+    ],
+    "normalizedTokens": [
+      "tobala",
+      "mezcal",
+      "46.8%",
+      "0.7 л"
+    ],
+    "params": {
+      "volume": "0.7 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "46.8%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Текила Jose Cuervo 1800 silver 38% 0.7 л",
+    "cleanTokens": [
+      "1800",
+      "silver"
+    ],
+    "normalizedTokens": [
+      "1800",
+      "silver",
+      "38%",
+      "0.7 л"
+    ],
+    "params": {
+      "volume": "0.7 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "38%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Текила Casamigos reposado 40% 0.7 л",
+    "cleanTokens": [
+      "reposado"
+    ],
+    "normalizedTokens": [
+      "reposado",
+      "40%",
+      "0.7 л"
+    ],
+    "params": {
+      "volume": "0.7 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "40%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Текила Casamigos anejo 40% 0.7 л",
+    "cleanTokens": [
+      "anejo"
+    ],
+    "normalizedTokens": [
+      "anejo",
+      "40%",
+      "0.7 л"
+    ],
+    "params": {
+      "volume": "0.7 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "40%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Текила Volcan blanco 40% 700 мл",
+    "cleanTokens": [
+      "blanco"
+    ],
+    "normalizedTokens": [
+      "blanco",
+      "40%",
+      "700 мл"
+    ],
+    "params": {
+      "volume": "700 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "40%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Текила Avion Cristalino extra anejo 40% 0.75 л",
+    "cleanTokens": [
+      "cristalino",
+      "extra",
+      "anejo"
+    ],
+    "normalizedTokens": [
+      "cristalino",
+      "extra",
+      "anejo",
+      "40%",
+      "0.75 л"
+    ],
+    "params": {
+      "volume": "0.75 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "40%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Текила Casamigos blanco 40% 0.7 л",
+    "cleanTokens": [
+      "blanco"
+    ],
+    "normalizedTokens": [
+      "blanco",
+      "40%",
+      "0.7 л"
+    ],
+    "params": {
+      "volume": "0.7 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "40%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Текила Montelobos mezcal 40% 750 мл",
+    "cleanTokens": [
+      "mezcal"
+    ],
+    "normalizedTokens": [
+      "mezcal",
+      "40%",
+      "750 мл"
+    ],
+    "params": {
+      "volume": "750 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "40%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Текила El Mayor reposado 40% 0.75 л",
+    "cleanTokens": [
+      "reposado"
+    ],
+    "normalizedTokens": [
+      "reposado",
+      "40%",
+      "0.75 л"
+    ],
+    "params": {
+      "volume": "0.75 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "40%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Текила Por la Gente blanco 40% 0.75 л",
+    "cleanTokens": [
+      "blanco"
+    ],
+    "normalizedTokens": [
+      "blanco",
+      "40%",
+      "0.75 л"
+    ],
+    "params": {
+      "volume": "0.75 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "40%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Текила Olmeca Altos reposado 38% 0.7 л",
+    "cleanTokens": [
+      "altos",
+      "reposado"
+    ],
+    "normalizedTokens": [
+      "altos",
+      "reposado",
+      "38%",
+      "0.7 л"
+    ],
+    "params": {
+      "volume": "0.7 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "38%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Текила Jose Cuervo 1800 reposado 40% 0.7 л",
+    "cleanTokens": [
+      "1800",
+      "reposado"
+    ],
+    "normalizedTokens": [
+      "1800",
+      "reposado",
+      "40%",
+      "0.7 л"
+    ],
+    "params": {
+      "volume": "0.7 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "40%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Текила Espolon Blanco 40% 0.75 л",
+    "cleanTokens": [
+      "blanco"
+    ],
+    "normalizedTokens": [
+      "blanco",
+      "40%",
+      "0.75 л"
+    ],
+    "params": {
+      "volume": "0.75 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "40%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Текила Espolon reposado 40% 0.75 л",
+    "cleanTokens": [
+      "reposado"
+    ],
+    "normalizedTokens": [
+      "reposado",
+      "40%",
+      "0.75 л"
+    ],
+    "params": {
+      "volume": "0.75 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "40%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Текила El Mayor Cristalino anejo 40% 0.7 л",
+    "cleanTokens": [
+      "cristalino",
+      "anejo"
+    ],
+    "normalizedTokens": [
+      "cristalino",
+      "anejo",
+      "40%",
+      "0.7 л"
+    ],
+    "params": {
+      "volume": "0.7 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "40%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Текила Olmeca Gold 38% 1 л",
+    "cleanTokens": [
+      "gold"
+    ],
+    "normalizedTokens": [
+      "gold",
+      "38%",
+      "1 л"
+    ],
+    "params": {
+      "volume": "1 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "38%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Текила PATRON Reposado 40% 0.75 л",
+    "cleanTokens": [
+      "reposado"
+    ],
+    "normalizedTokens": [
+      "reposado",
+      "40%",
+      "0.75 л"
+    ],
+    "params": {
+      "volume": "0.75 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "40%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Текила Jose Cuervo Especial silver 35% 0.7 л",
+    "cleanTokens": [
+      "especial",
+      "silver"
+    ],
+    "normalizedTokens": [
+      "especial",
+      "silver",
+      "35%",
+      "0.7 л"
+    ],
+    "params": {
+      "volume": "0.7 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "35%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Текила Don Julio anejo 1942 38% 0.7 л",
+    "cleanTokens": [
+      "anejo",
+      "1942"
+    ],
+    "normalizedTokens": [
+      "anejo",
+      "1942",
+      "38%",
+      "0.7 л"
+    ],
+    "params": {
+      "volume": "0.7 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "38%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Текила Olmeca Gold 38% 0.5 л",
+    "cleanTokens": [
+      "gold"
+    ],
+    "normalizedTokens": [
+      "gold",
+      "38%",
+      "0.5 л"
+    ],
+    "params": {
+      "volume": "0.5 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "38%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Текила Olmeca Gold 38% 0.7 л",
+    "cleanTokens": [
+      "gold"
+    ],
+    "normalizedTokens": [
+      "gold",
+      "38%",
+      "0.7 л"
+    ],
+    "params": {
+      "volume": "0.7 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "38%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Текила Leyenda Del Milagro Select Barrel Reserve anejo 40% 0.75 л",
+    "cleanTokens": [
+      "select",
+      "barrel",
+      "reserve",
+      "anejo"
+    ],
+    "normalizedTokens": [
+      "select",
+      "barrel",
+      "reserve",
+      "anejo",
+      "40%",
+      "0.75 л"
+    ],
+    "params": {
+      "volume": "0.75 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "40%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Текила Don Julio blanco Reserva Blanco 38% 0.7 л",
+    "cleanTokens": [
+      "blanco",
+      "reserva",
+      "blanco"
+    ],
+    "normalizedTokens": [
+      "blanco",
+      "reserva",
+      "blanco",
+      "38%",
+      "0.7 л"
+    ],
+    "params": {
+      "volume": "0.7 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "38%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Текила Jose Cuervo Especial silver 35% 1 л",
+    "cleanTokens": [
+      "especial",
+      "silver"
+    ],
+    "normalizedTokens": [
+      "especial",
+      "silver",
+      "35%",
+      "1 л"
+    ],
+    "params": {
+      "volume": "1 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "35%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Текила PATRON anejo 40% 0.7 л",
+    "cleanTokens": [
+      "anejo"
+    ],
+    "normalizedTokens": [
+      "anejo",
+      "40%",
+      "0.7 л"
+    ],
+    "params": {
+      "volume": "0.7 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "40%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Текила Jose Cuervo 1800 anejo 40% 0.7 л",
+    "cleanTokens": [
+      "1800",
+      "anejo"
+    ],
+    "normalizedTokens": [
+      "1800",
+      "anejo",
+      "40%",
+      "0.7 л"
+    ],
+    "params": {
+      "volume": "0.7 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "40%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Текила Avion reposado 40% 0.75 л",
+    "cleanTokens": [
+      "reposado"
+    ],
+    "normalizedTokens": [
+      "reposado",
+      "40%",
+      "0.75 л"
+    ],
+    "params": {
+      "volume": "0.75 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "40%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Текила Jose Cuervo reposado 35% 0.7 л",
+    "cleanTokens": [
+      "reposado"
+    ],
+    "normalizedTokens": [
+      "reposado",
+      "35%",
+      "0.7 л"
+    ],
+    "params": {
+      "volume": "0.7 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "35%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Текила Don Julio Reserva De Anejo 38% 0.7 л",
+    "cleanTokens": [
+      "reserva",
+      "de",
+      "anejo"
+    ],
+    "normalizedTokens": [
+      "reserva",
+      "de",
+      "anejo",
+      "38%",
+      "0.7 л"
+    ],
+    "params": {
+      "volume": "0.7 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "38%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Текила San Jose Silver blanco 40% 0.7 л",
+    "cleanTokens": [
+      "silver",
+      "blanco"
+    ],
+    "normalizedTokens": [
+      "silver",
+      "blanco",
+      "40%",
+      "0.7 л"
+    ],
+    "params": {
+      "volume": "0.7 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "40%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Текила Jose Cuervo Especial reposado 35% 1 л",
+    "cleanTokens": [
+      "especial",
+      "reposado"
+    ],
+    "normalizedTokens": [
+      "especial",
+      "reposado",
+      "35%",
+      "1 л"
+    ],
+    "params": {
+      "volume": "1 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "35%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Текила San Jose Gold reposado 35% 0.7 л",
+    "cleanTokens": [
+      "gold",
+      "reposado"
+    ],
+    "normalizedTokens": [
+      "gold",
+      "reposado",
+      "35%",
+      "0.7 л"
+    ],
+    "params": {
+      "volume": "0.7 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "35%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Текила Sierra blanco 38% 0.5 л",
+    "cleanTokens": [
+      "blanco"
+    ],
+    "normalizedTokens": [
+      "blanco",
+      "38%",
+      "0.5 л"
+    ],
+    "params": {
+      "volume": "0.5 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "38%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Текила Don Julio reposado 38% 0.75 л",
+    "cleanTokens": [
+      "reposado"
+    ],
+    "normalizedTokens": [
+      "reposado",
+      "38%",
+      "0.75 л"
+    ],
+    "params": {
+      "volume": "0.75 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "38%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Текила El Jimador blanco 40% 0.7 л",
+    "cleanTokens": [
+      "blanco"
+    ],
+    "normalizedTokens": [
+      "blanco",
+      "40%",
+      "0.7 л"
+    ],
+    "params": {
+      "volume": "0.7 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "40%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Текила El Jimador reposado 40% 0.7 л",
+    "cleanTokens": [
+      "reposado"
+    ],
+    "normalizedTokens": [
+      "reposado",
+      "40%",
+      "0.7 л"
+    ],
+    "params": {
+      "volume": "0.7 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "40%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Текила Sierra Handcrafted from agave azul reposado 38% 0.75 л",
+    "cleanTokens": [
+      "handcrafted",
+      "from",
+      "agave",
+      "azul",
+      "reposado"
+    ],
+    "normalizedTokens": [
+      "handcrafted",
+      "from",
+      "agave",
+      "azul",
+      "reposado",
+      "38%",
+      "0.75 л"
+    ],
+    "params": {
+      "volume": "0.75 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "38%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Текила Sierra blanco 38% 0.7 л",
+    "cleanTokens": [
+      "blanco"
+    ],
+    "normalizedTokens": [
+      "blanco",
+      "38%",
+      "0.7 л"
+    ],
+    "params": {
+      "volume": "0.7 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "38%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Текила Avion silver 40% 0.75 л",
+    "cleanTokens": [
+      "silver"
+    ],
+    "normalizedTokens": [
+      "silver",
+      "40%",
+      "0.75 л"
+    ],
+    "params": {
+      "volume": "0.75 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "40%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Текила Se Busca Joven mezcal 40% 0.7 л",
+    "cleanTokens": [
+      "joven",
+      "mezcal"
+    ],
+    "normalizedTokens": [
+      "joven",
+      "mezcal",
+      "40%",
+      "0.7 л"
+    ],
+    "params": {
+      "volume": "0.7 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "40%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Текила Olmeca Blanco 38% 1 л",
+    "cleanTokens": [
+      "blanco"
+    ],
+    "normalizedTokens": [
+      "blanco",
+      "38%",
+      "1 л"
+    ],
+    "params": {
+      "volume": "1 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "38%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Текила Leyenda Del Milagro Select Barrel Reserve reposado 40% 0.75 л",
+    "cleanTokens": [
+      "select",
+      "barrel",
+      "reserve",
+      "reposado"
+    ],
+    "normalizedTokens": [
+      "select",
+      "barrel",
+      "reserve",
+      "reposado",
+      "40%",
+      "0.75 л"
+    ],
+    "params": {
+      "volume": "0.75 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "40%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Текила Cenote Ahumado reposado 40% 0.7 л",
+    "cleanTokens": [
+      "ahumado",
+      "reposado"
+    ],
+    "normalizedTokens": [
+      "ahumado",
+      "reposado",
+      "40%",
+      "0.7 л"
+    ],
+    "params": {
+      "volume": "0.7 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "40%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Текила Cenote anejo 40% 0.7 л",
+    "cleanTokens": [
+      "anejo"
+    ],
+    "normalizedTokens": [
+      "anejo",
+      "40%",
+      "0.7 л"
+    ],
+    "params": {
+      "volume": "0.7 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "40%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Текила PATRON anejo 40% 0.75 л",
+    "cleanTokens": [
+      "anejo"
+    ],
+    "normalizedTokens": [
+      "anejo",
+      "40%",
+      "0.75 л"
+    ],
+    "params": {
+      "volume": "0.75 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "40%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Текила Montelobos Ensamble mezcal 45.3% 0.7 л",
+    "cleanTokens": [
+      "ensamble",
+      "mezcal"
+    ],
+    "normalizedTokens": [
+      "ensamble",
+      "mezcal",
+      "45.3%",
+      "0.7 л"
+    ],
+    "params": {
+      "volume": "0.7 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "45.3%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Текила Se Busca Reposado mezcal 40% 0.7 л",
+    "cleanTokens": [
+      "reposado",
+      "mezcal"
+    ],
+    "normalizedTokens": [
+      "reposado",
+      "mezcal",
+      "40%",
+      "0.7 л"
+    ],
+    "params": {
+      "volume": "0.7 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "40%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Текила Se Busca Anejo mezcal 40% 0.7 л",
+    "cleanTokens": [
+      "anejo",
+      "mezcal"
+    ],
+    "normalizedTokens": [
+      "anejo",
+      "mezcal",
+      "40%",
+      "0.7 л"
+    ],
+    "params": {
+      "volume": "0.7 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "40%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Текила Legenda Del Milagro Silver 40% 0.7 л",
+    "cleanTokens": [
+      "legenda",
+      "del",
+      "milagro",
+      "silver"
+    ],
+    "normalizedTokens": [
+      "legenda",
+      "del",
+      "milagro",
+      "silver",
+      "40%",
+      "0.7 л"
+    ],
+    "params": {
+      "volume": "0.7 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "40%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Текила Se Busca Joven Madrecuishe mezcal 45% 0.7 л",
+    "cleanTokens": [
+      "joven",
+      "madrecuishe",
+      "mezcal"
+    ],
+    "normalizedTokens": [
+      "joven",
+      "madrecuishe",
+      "mezcal",
+      "45%",
+      "0.7 л"
+    ],
+    "params": {
+      "volume": "0.7 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "45%",
+      "age": null,
+      "stars": null
+    }
+  }
+]

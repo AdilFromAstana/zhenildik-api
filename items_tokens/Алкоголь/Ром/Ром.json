@@ -1,0 +1,1911 @@
+[
+  {
+    "original": "Ром Bacardi Carta Negra черный 40% 0.7 л",
+    "cleanTokens": [
+      "carta",
+      "negra",
+      "черный"
+    ],
+    "normalizedTokens": [
+      "carta",
+      "negra",
+      "черный",
+      "40%",
+      "0.7 л"
+    ],
+    "params": {
+      "volume": "0.7 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "40%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Ром Havana Club выдержанный (аньехо) 37.5% 700 мл",
+    "cleanTokens": [
+      "выдержанный",
+      "аньехо"
+    ],
+    "normalizedTokens": [
+      "выдержанный",
+      "аньехо",
+      "37.5%",
+      "700 мл"
+    ],
+    "params": {
+      "volume": "700 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "37.5%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Ром Havana Club Cuban Spiced пряный 35% 0.7 л",
+    "cleanTokens": [
+      "cuban",
+      "spiced",
+      "пряный"
+    ],
+    "normalizedTokens": [
+      "cuban",
+      "spiced",
+      "пряный",
+      "35%",
+      "0.7 л"
+    ],
+    "params": {
+      "volume": "0.7 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "35%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Ром Havana Club выдержанный (аньехо) 37.5% 700 мл",
+    "cleanTokens": [
+      "выдержанный",
+      "аньехо"
+    ],
+    "normalizedTokens": [
+      "выдержанный",
+      "аньехо",
+      "37.5%",
+      "700 мл"
+    ],
+    "params": {
+      "volume": "700 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "37.5%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Ром Captain Morgan White белый 37.5% 0.7 л",
+    "cleanTokens": [
+      "white",
+      "белый"
+    ],
+    "normalizedTokens": [
+      "white",
+      "белый",
+      "37.5%",
+      "0.7 л"
+    ],
+    "params": {
+      "volume": "0.7 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "37.5%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Ром Bacardi Carta Blanca белый 40% 0.5 л",
+    "cleanTokens": [
+      "carta",
+      "blanca",
+      "белый"
+    ],
+    "normalizedTokens": [
+      "carta",
+      "blanca",
+      "белый",
+      "40%",
+      "0.5 л"
+    ],
+    "params": {
+      "volume": "0.5 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "40%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Ром Captain Morgan Sliced apple ароматизированный 25% 700 мл",
+    "cleanTokens": [
+      "sliced",
+      "apple",
+      "ароматизированный"
+    ],
+    "normalizedTokens": [
+      "sliced",
+      "apple",
+      "ароматизированный",
+      "25%",
+      "700 мл"
+    ],
+    "params": {
+      "volume": "700 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "25%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Ром Bacardi Carta Negra черный 40% 0.5 л",
+    "cleanTokens": [
+      "carta",
+      "negra",
+      "черный"
+    ],
+    "normalizedTokens": [
+      "carta",
+      "negra",
+      "черный",
+      "40%",
+      "0.5 л"
+    ],
+    "params": {
+      "volume": "0.5 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "40%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Ром Havana Club Anejo 7 Anos 40% 0.7 л",
+    "cleanTokens": [
+      "anejo",
+      "7",
+      "anos"
+    ],
+    "normalizedTokens": [
+      "anejo",
+      "7",
+      "anos",
+      "40%",
+      "0.7 л"
+    ],
+    "params": {
+      "volume": "0.7 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "40%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Ром Havana Club выдержанный (аньехо) 40% 1000 мл",
+    "cleanTokens": [
+      "выдержанный",
+      "аньехо"
+    ],
+    "normalizedTokens": [
+      "выдержанный",
+      "аньехо",
+      "40%",
+      "1000 мл"
+    ],
+    "params": {
+      "volume": "1000 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "40%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Ром Bacardi Spiced пряный 40% 0.7 л + Cola 1.5 л",
+    "cleanTokens": [
+      "spiced",
+      "пряный",
+      "0.7",
+      "+",
+      "cola"
+    ],
+    "normalizedTokens": [
+      "spiced",
+      "пряный",
+      "40%",
+      "0.7 л",
+      "+",
+      "cola",
+      "1.5 л"
+    ],
+    "params": {
+      "volume": "1.5 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "40%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Ром Captain Morgan Spiced Gold 35% 0.75 л",
+    "cleanTokens": [
+      "spiced",
+      "gold"
+    ],
+    "normalizedTokens": [
+      "spiced",
+      "gold",
+      "35%",
+      "0.75 л"
+    ],
+    "params": {
+      "volume": "0.75 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "35%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Ром Pernod Ricard Malibu 21% 0.7 л",
+    "cleanTokens": [
+      "malibu"
+    ],
+    "normalizedTokens": [
+      "malibu",
+      "21%",
+      "0.7 л"
+    ],
+    "params": {
+      "volume": "0.7 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "21%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Ром Old Monk 7 YO Blended черный 42.8% 375 мл",
+    "cleanTokens": [
+      "blended",
+      "черный"
+    ],
+    "normalizedTokens": [
+      "7 YO",
+      "blended",
+      "черный",
+      "42.8%",
+      "375 мл"
+    ],
+    "params": {
+      "volume": "375 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "42.8%",
+      "age": "7 YO",
+      "stars": null
+    }
+  },
+  {
+    "original": "Ром Carta Vieja Extra Claro белый 35% 0.75 л",
+    "cleanTokens": [
+      "extra",
+      "claro",
+      "белый"
+    ],
+    "normalizedTokens": [
+      "extra",
+      "claro",
+      "белый",
+      "35%",
+      "0.75 л"
+    ],
+    "params": {
+      "volume": "0.75 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "35%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Ром Old Monk 7 YO 42.8% 0.75 л",
+    "cleanTokens": [],
+    "normalizedTokens": [
+      "7 YO",
+      "42.8%",
+      "0.75 л"
+    ],
+    "params": {
+      "volume": "0.75 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "42.8%",
+      "age": "7 YO",
+      "stars": null
+    }
+  },
+  {
+    "original": "Ром Bayou White белый 40% 0.7 л",
+    "cleanTokens": [
+      "white",
+      "белый"
+    ],
+    "normalizedTokens": [
+      "white",
+      "белый",
+      "40%",
+      "0.7 л"
+    ],
+    "params": {
+      "volume": "0.7 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "40%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Ром Takamaka Rum Blanc белый 38% 0.7 л",
+    "cleanTokens": [
+      "rum",
+      "blanc",
+      "белый"
+    ],
+    "normalizedTokens": [
+      "rum",
+      "blanc",
+      "белый",
+      "38%",
+      "0.7 л"
+    ],
+    "params": {
+      "volume": "0.7 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "38%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Ром KRAKEN Black Spiced пряный 40% 0.7 л",
+    "cleanTokens": [
+      "black",
+      "spiced",
+      "пряный"
+    ],
+    "normalizedTokens": [
+      "black",
+      "spiced",
+      "пряный",
+      "40%",
+      "0.7 л"
+    ],
+    "params": {
+      "volume": "0.7 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "40%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Ром Takamaka Dark золотой 38% 0.7 л",
+    "cleanTokens": [
+      "dark",
+      "золотой"
+    ],
+    "normalizedTokens": [
+      "dark",
+      "золотой",
+      "38%",
+      "0.7 л"
+    ],
+    "params": {
+      "volume": "0.7 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "38%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Ром Bacardi Oakheart золотой 35% 0.7 л",
+    "cleanTokens": [
+      "oakheart",
+      "золотой"
+    ],
+    "normalizedTokens": [
+      "oakheart",
+      "золотой",
+      "35%",
+      "0.7 л"
+    ],
+    "params": {
+      "volume": "0.7 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "35%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Ром El Galipote белый 37.5% 700 мл",
+    "cleanTokens": [
+      "белый"
+    ],
+    "normalizedTokens": [
+      "белый",
+      "37.5%",
+      "700 мл"
+    ],
+    "params": {
+      "volume": "700 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "37.5%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Ром Angostura 7 YO золотой 40% 0.7 л",
+    "cleanTokens": [
+      "золотой"
+    ],
+    "normalizedTokens": [
+      "7 YO",
+      "золотой",
+      "40%",
+      "0.7 л"
+    ],
+    "params": {
+      "volume": "0.7 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "40%",
+      "age": "7 YO",
+      "stars": null
+    }
+  },
+  {
+    "original": "Ром Diplomatico Don Juancho Mantuano выдержанный (аньехо) 40% 700 мл",
+    "cleanTokens": [
+      "don",
+      "juancho",
+      "mantuano",
+      "выдержанный",
+      "аньехо"
+    ],
+    "normalizedTokens": [
+      "don",
+      "juancho",
+      "mantuano",
+      "выдержанный",
+      "аньехо",
+      "40%",
+      "700 мл"
+    ],
+    "params": {
+      "volume": "700 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "40%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Ром 327 Spirits черный 40% 700 мл",
+    "cleanTokens": [
+      "черный"
+    ],
+    "normalizedTokens": [
+      "черный",
+      "40%",
+      "700 мл"
+    ],
+    "params": {
+      "volume": "700 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "40%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Ром Appleton Estate Signature Jamaica Rum золотой 40% 0.7 л",
+    "cleanTokens": [
+      "signature",
+      "jamaica",
+      "rum",
+      "золотой"
+    ],
+    "normalizedTokens": [
+      "signature",
+      "jamaica",
+      "rum",
+      "золотой",
+      "40%",
+      "0.7 л"
+    ],
+    "params": {
+      "volume": "0.7 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "40%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Ром Bayou золотой 43.4% 0.7 л",
+    "cleanTokens": [
+      "золотой"
+    ],
+    "normalizedTokens": [
+      "золотой",
+      "43.4%",
+      "0.7 л"
+    ],
+    "params": {
+      "volume": "0.7 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "43.4%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Ром Armator Gold золотой 40% 0.5 л",
+    "cleanTokens": [
+      "gold",
+      "золотой"
+    ],
+    "normalizedTokens": [
+      "gold",
+      "золотой",
+      "40%",
+      "0.5 л"
+    ],
+    "params": {
+      "volume": "0.5 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "40%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Ром Matusalem Insolito Wine cask выдержанный (аньехо) 40% 0.7 л",
+    "cleanTokens": [
+      "insolito",
+      "wine",
+      "cask",
+      "выдержанный",
+      "аньехо"
+    ],
+    "normalizedTokens": [
+      "insolito",
+      "wine",
+      "cask",
+      "выдержанный",
+      "аньехо",
+      "40%",
+      "0.7 л"
+    ],
+    "params": {
+      "volume": "0.7 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "40%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Ром Matusalem выдержанный (аньехо) 40% 0.7 л",
+    "cleanTokens": [
+      "выдержанный",
+      "аньехо"
+    ],
+    "normalizedTokens": [
+      "выдержанный",
+      "аньехо",
+      "40%",
+      "0.7 л"
+    ],
+    "params": {
+      "volume": "0.7 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "40%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Ром Matusalem выдержанный (аньехо) 40% 0.7 л",
+    "cleanTokens": [
+      "выдержанный",
+      "аньехо"
+    ],
+    "normalizedTokens": [
+      "выдержанный",
+      "аньехо",
+      "40%",
+      "0.7 л"
+    ],
+    "params": {
+      "volume": "0.7 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "40%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Ром Brugal 1888 ромовый напиток 40% 0.7 л",
+    "cleanTokens": [
+      "1888",
+      "ромовый",
+      "напиток"
+    ],
+    "normalizedTokens": [
+      "1888",
+      "ромовый",
+      "напиток",
+      "40%",
+      "0.7 л"
+    ],
+    "params": {
+      "volume": "0.7 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "40%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Ром Bayou Pink ароматизированный 37.5% 0.7 л",
+    "cleanTokens": [
+      "pink",
+      "ароматизированный"
+    ],
+    "normalizedTokens": [
+      "pink",
+      "ароматизированный",
+      "37.5%",
+      "0.7 л"
+    ],
+    "params": {
+      "volume": "0.7 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "37.5%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Ром Appleton Estate Old Rare Casks 12 Years золотой 43% 0.7 л",
+    "cleanTokens": [
+      "old",
+      "rare",
+      "casks",
+      "золотой"
+    ],
+    "normalizedTokens": [
+      "old",
+      "rare",
+      "casks",
+      "12 years",
+      "золотой",
+      "43%",
+      "0.7 л"
+    ],
+    "params": {
+      "volume": "0.7 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "43%",
+      "age": "12 years",
+      "stars": null
+    }
+  },
+  {
+    "original": "Ром Langs Mango&Ginger ромовый напиток 37.5% 0.7 л",
+    "cleanTokens": [
+      "mango&ginger",
+      "ромовый",
+      "напиток"
+    ],
+    "normalizedTokens": [
+      "mango&ginger",
+      "ромовый",
+      "напиток",
+      "37.5%",
+      "0.7 л"
+    ],
+    "params": {
+      "volume": "0.7 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "37.5%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Ром Naga Malacca золотой 40% 0.7 л",
+    "cleanTokens": [
+      "malacca",
+      "золотой"
+    ],
+    "normalizedTokens": [
+      "malacca",
+      "золотой",
+      "40%",
+      "0.7 л"
+    ],
+    "params": {
+      "volume": "0.7 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "40%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Ром PROPELLER 37.5% 0.75 л",
+    "cleanTokens": [],
+    "normalizedTokens": [
+      "37.5%",
+      "0.75 л"
+    ],
+    "params": {
+      "volume": "0.75 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "37.5%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Ром PROPELLER White Rum ромовый напиток 40% 0.75 л",
+    "cleanTokens": [
+      "white",
+      "rum",
+      "ромовый",
+      "напиток"
+    ],
+    "normalizedTokens": [
+      "white",
+      "rum",
+      "ромовый",
+      "напиток",
+      "40%",
+      "0.75 л"
+    ],
+    "params": {
+      "volume": "0.75 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "40%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Ром Langs Pineapple ромовый напиток 37.5% 0.7 л",
+    "cleanTokens": [
+      "pineapple",
+      "ромовый",
+      "напиток"
+    ],
+    "normalizedTokens": [
+      "pineapple",
+      "ромовый",
+      "напиток",
+      "37.5%",
+      "0.7 л"
+    ],
+    "params": {
+      "volume": "0.7 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "37.5%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Ром ‎Rhum Bologne агриколь 50% 1000 мл",
+    "cleanTokens": [
+      "агриколь"
+    ],
+    "normalizedTokens": [
+      "агриколь",
+      "50%",
+      "1000 мл"
+    ],
+    "params": {
+      "volume": "1000 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "50%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Ром Bayou Mardi Gras выдержанный (аньехо) 40% 0.7 л",
+    "cleanTokens": [
+      "mardi",
+      "gras",
+      "выдержанный",
+      "аньехо"
+    ],
+    "normalizedTokens": [
+      "mardi",
+      "gras",
+      "выдержанный",
+      "аньехо",
+      "40%",
+      "0.7 л"
+    ],
+    "params": {
+      "volume": "0.7 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "40%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Ром Bayou Reserve выдержанный (аньехо) 40% 0.7 л",
+    "cleanTokens": [
+      "reserve",
+      "выдержанный",
+      "аньехо"
+    ],
+    "normalizedTokens": [
+      "reserve",
+      "выдержанный",
+      "аньехо",
+      "40%",
+      "0.7 л"
+    ],
+    "params": {
+      "volume": "0.7 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "40%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Ром Takamaka Zepis Kreol пряный 43% 700 мл",
+    "cleanTokens": [
+      "zepis",
+      "kreol",
+      "пряный"
+    ],
+    "normalizedTokens": [
+      "zepis",
+      "kreol",
+      "пряный",
+      "43%",
+      "700 мл"
+    ],
+    "params": {
+      "volume": "700 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "43%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Ром Armator Spiced золотой 38% 0.5 л",
+    "cleanTokens": [
+      "spiced",
+      "золотой"
+    ],
+    "normalizedTokens": [
+      "spiced",
+      "золотой",
+      "38%",
+      "0.5 л"
+    ],
+    "params": {
+      "volume": "0.5 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "38%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Ром Tobacco Silver белый 40% 1 л",
+    "cleanTokens": [
+      "silver",
+      "белый"
+    ],
+    "normalizedTokens": [
+      "silver",
+      "белый",
+      "40%",
+      "1 л"
+    ],
+    "params": {
+      "volume": "1 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "40%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Ром Kraken Black Spiced пряный 40% 1 л",
+    "cleanTokens": [
+      "black",
+      "spiced",
+      "пряный"
+    ],
+    "normalizedTokens": [
+      "black",
+      "spiced",
+      "пряный",
+      "40%",
+      "1 л"
+    ],
+    "params": {
+      "volume": "1 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "40%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Ром Langs Banana ромовый напиток 37.5% 0.7 л",
+    "cleanTokens": [
+      "banana",
+      "ромовый",
+      "напиток"
+    ],
+    "normalizedTokens": [
+      "banana",
+      "ромовый",
+      "напиток",
+      "37.5%",
+      "0.7 л"
+    ],
+    "params": {
+      "volume": "0.7 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "37.5%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Ром Plantation Original Dark золотой 40% 1 л",
+    "cleanTokens": [
+      "original",
+      "dark",
+      "золотой"
+    ],
+    "normalizedTokens": [
+      "original",
+      "dark",
+      "золотой",
+      "40%",
+      "1 л"
+    ],
+    "params": {
+      "volume": "1 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "40%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Ром Naga Pearl of Jakarta Triple Cask Aged Small Batch выдержанный (аньехо) 42.7% 0.7 л",
+    "cleanTokens": [
+      "pearl",
+      "of",
+      "jakarta",
+      "triple",
+      "cask",
+      "aged",
+      "small",
+      "batch",
+      "выдержанный",
+      "аньехо"
+    ],
+    "normalizedTokens": [
+      "pearl",
+      "of",
+      "jakarta",
+      "triple",
+      "cask",
+      "aged",
+      "small",
+      "batch",
+      "выдержанный",
+      "аньехо",
+      "42.7%",
+      "0.7 л"
+    ],
+    "params": {
+      "volume": "0.7 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "42.7%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Ром Bumbu Original 40% 700 мл",
+    "cleanTokens": [
+      "original"
+    ],
+    "normalizedTokens": [
+      "original",
+      "40%",
+      "700 мл"
+    ],
+    "params": {
+      "volume": "700 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "40%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Ром Sailor Jerry пряный 40% 0.7 л",
+    "cleanTokens": [
+      "пряный"
+    ],
+    "normalizedTokens": [
+      "пряный",
+      "40%",
+      "0.7 л"
+    ],
+    "params": {
+      "volume": "0.7 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "40%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Ром Bacardi Gran Reserva 10 YO 40% 0.7 л",
+    "cleanTokens": [
+      "gran",
+      "reserva"
+    ],
+    "normalizedTokens": [
+      "gran",
+      "reserva",
+      "10 YO",
+      "40%",
+      "0.7 л"
+    ],
+    "params": {
+      "volume": "0.7 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "40%",
+      "age": "10 YO",
+      "stars": null
+    }
+  },
+  {
+    "original": "Ром Captain Morgan Dark черный 40% 0.5 л",
+    "cleanTokens": [
+      "dark",
+      "черный"
+    ],
+    "normalizedTokens": [
+      "dark",
+      "черный",
+      "40%",
+      "0.5 л"
+    ],
+    "params": {
+      "volume": "0.5 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "40%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Ром Bacardi Reserva 8 YO 40% 0.7 л",
+    "cleanTokens": [
+      "reserva"
+    ],
+    "normalizedTokens": [
+      "reserva",
+      "8 YO",
+      "40%",
+      "0.7 л"
+    ],
+    "params": {
+      "volume": "0.7 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "40%",
+      "age": "8 YO",
+      "stars": null
+    }
+  },
+  {
+    "original": "Ром Bumbu выдержанный (аньехо) 40% 700 мл",
+    "cleanTokens": [
+      "выдержанный",
+      "аньехо"
+    ],
+    "normalizedTokens": [
+      "выдержанный",
+      "аньехо",
+      "40%",
+      "700 мл"
+    ],
+    "params": {
+      "volume": "700 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "40%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Ром Del Dueno Rum anejo reserva 40% 0.7 л",
+    "cleanTokens": [
+      "rum",
+      "anejo",
+      "reserva"
+    ],
+    "normalizedTokens": [
+      "rum",
+      "anejo",
+      "reserva",
+      "40%",
+      "0.7 л"
+    ],
+    "params": {
+      "volume": "0.7 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "40%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Ром Old Monk White белый 42.8% 0.75 л",
+    "cleanTokens": [
+      "white",
+      "белый"
+    ],
+    "normalizedTokens": [
+      "white",
+      "белый",
+      "42.8%",
+      "0.75 л"
+    ],
+    "params": {
+      "volume": "0.75 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "42.8%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Ром Del Dueno Rum gran reserva 40% 0.7 л",
+    "cleanTokens": [
+      "rum",
+      "gran",
+      "reserva"
+    ],
+    "normalizedTokens": [
+      "rum",
+      "gran",
+      "reserva",
+      "40%",
+      "0.7 л"
+    ],
+    "params": {
+      "volume": "0.7 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "40%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Ром Black Tears Dry Spiced пряный 40% 0.7 л",
+    "cleanTokens": [
+      "dry",
+      "spiced",
+      "пряный"
+    ],
+    "normalizedTokens": [
+      "dry",
+      "spiced",
+      "пряный",
+      "40%",
+      "0.7 л"
+    ],
+    "params": {
+      "volume": "0.7 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "40%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Ром Captain Morgan ароматизированный 25% 700 мл",
+    "cleanTokens": [
+      "ароматизированный"
+    ],
+    "normalizedTokens": [
+      "ароматизированный",
+      "25%",
+      "700 мл"
+    ],
+    "params": {
+      "volume": "700 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "25%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Ром El Galipote ароматизированный 37.5% 700 мл",
+    "cleanTokens": [
+      "ароматизированный"
+    ],
+    "normalizedTokens": [
+      "ароматизированный",
+      "37.5%",
+      "700 мл"
+    ],
+    "params": {
+      "volume": "700 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "37.5%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Ром Carta Vieja выдержанный (аньехо) 38% 750 мл",
+    "cleanTokens": [
+      "выдержанный",
+      "аньехо"
+    ],
+    "normalizedTokens": [
+      "выдержанный",
+      "аньехо",
+      "38%",
+      "750 мл"
+    ],
+    "params": {
+      "volume": "750 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "38%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Ром Havana Club Anego Especial пряный 40% 0.05 л",
+    "cleanTokens": [
+      "anego",
+      "especial",
+      "пряный"
+    ],
+    "normalizedTokens": [
+      "anego",
+      "especial",
+      "пряный",
+      "40%",
+      "0.05 л"
+    ],
+    "params": {
+      "volume": "0.05 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "40%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Ром Bacardi Oakheart 35% 0.5 л",
+    "cleanTokens": [
+      "oakheart"
+    ],
+    "normalizedTokens": [
+      "oakheart",
+      "35%",
+      "0.5 л"
+    ],
+    "params": {
+      "volume": "0.5 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "35%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Ром Appleton Estate 8 YO Reserve золотой 40% 0.7 л",
+    "cleanTokens": [
+      "reserve",
+      "золотой"
+    ],
+    "normalizedTokens": [
+      "8 YO",
+      "reserve",
+      "золотой",
+      "40%",
+      "0.7 л"
+    ],
+    "params": {
+      "volume": "0.7 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "40%",
+      "age": "8 YO",
+      "stars": null
+    }
+  },
+  {
+    "original": "Ром Captain Morgan Dark черный 40% 0.7 л",
+    "cleanTokens": [
+      "dark",
+      "черный"
+    ],
+    "normalizedTokens": [
+      "dark",
+      "черный",
+      "40%",
+      "0.7 л"
+    ],
+    "params": {
+      "volume": "0.7 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "40%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Ром El Galipote черный 40% 799 мл",
+    "cleanTokens": [
+      "черный"
+    ],
+    "normalizedTokens": [
+      "черный",
+      "40%",
+      "799 мл"
+    ],
+    "params": {
+      "volume": "799 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "40%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Ром Captain Morgan White белый 37.5% 1 л",
+    "cleanTokens": [
+      "white",
+      "белый"
+    ],
+    "normalizedTokens": [
+      "white",
+      "белый",
+      "37.5%",
+      "1 л"
+    ],
+    "params": {
+      "volume": "1 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "37.5%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Ром Plantation белый 41.2% 0.7 л",
+    "cleanTokens": [
+      "белый"
+    ],
+    "normalizedTokens": [
+      "белый",
+      "41.2%",
+      "0.7 л"
+    ],
+    "params": {
+      "volume": "0.7 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "41.2%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Ром Plantation Grande Reserve золотой 40% 0.7 л",
+    "cleanTokens": [
+      "grande",
+      "reserve",
+      "золотой"
+    ],
+    "normalizedTokens": [
+      "grande",
+      "reserve",
+      "золотой",
+      "40%",
+      "0.7 л"
+    ],
+    "params": {
+      "volume": "0.7 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "40%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Ром El Galipote пряный 35% 700 мл",
+    "cleanTokens": [
+      "пряный"
+    ],
+    "normalizedTokens": [
+      "пряный",
+      "35%",
+      "700 мл"
+    ],
+    "params": {
+      "volume": "700 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "35%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Ром Havana Club золотой 45% 0.7 л",
+    "cleanTokens": [
+      "золотой"
+    ],
+    "normalizedTokens": [
+      "золотой",
+      "45%",
+      "0.7 л"
+    ],
+    "params": {
+      "volume": "0.7 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "45%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Ром Zacapa Centenario выдержанный (аньехо) 40% 0.7 л",
+    "cleanTokens": [
+      "выдержанный",
+      "аньехо"
+    ],
+    "normalizedTokens": [
+      "выдержанный",
+      "аньехо",
+      "40%",
+      "0.7 л"
+    ],
+    "params": {
+      "volume": "0.7 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "40%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Ром Plantation Dark золотой 40% 0.7 л",
+    "cleanTokens": [
+      "dark",
+      "золотой"
+    ],
+    "normalizedTokens": [
+      "dark",
+      "золотой",
+      "40%",
+      "0.7 л"
+    ],
+    "params": {
+      "volume": "0.7 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "40%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Ром Havana Club Especial Plus золотой 40% 50 мл",
+    "cleanTokens": [
+      "especial",
+      "plus",
+      "золотой"
+    ],
+    "normalizedTokens": [
+      "especial",
+      "plus",
+      "золотой",
+      "40%",
+      "50 мл"
+    ],
+    "params": {
+      "volume": "50 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "40%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Ром Old Monk The Legend 21 YO 42.8% 1 л",
+    "cleanTokens": [
+      "the",
+      "legend"
+    ],
+    "normalizedTokens": [
+      "the",
+      "legend",
+      "21 YO",
+      "42.8%",
+      "1 л"
+    ],
+    "params": {
+      "volume": "1 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "42.8%",
+      "age": "21 YO",
+      "stars": null
+    }
+  },
+  {
+    "original": "Ром Old Monk пряный 42.8% 0.75 л",
+    "cleanTokens": [
+      "пряный"
+    ],
+    "normalizedTokens": [
+      "пряный",
+      "42.8%",
+      "0.75 л"
+    ],
+    "params": {
+      "volume": "0.75 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "42.8%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Ром Captain Morgan Dark черный 40% 1 л",
+    "cleanTokens": [
+      "dark",
+      "черный"
+    ],
+    "normalizedTokens": [
+      "dark",
+      "черный",
+      "40%",
+      "1 л"
+    ],
+    "params": {
+      "volume": "1 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "40%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Ром Angostura Reserva White 3 YO белый 37.5% 0.7 л",
+    "cleanTokens": [
+      "reserva",
+      "white",
+      "белый"
+    ],
+    "normalizedTokens": [
+      "reserva",
+      "white",
+      "3 YO",
+      "белый",
+      "37.5%",
+      "0.7 л"
+    ],
+    "params": {
+      "volume": "0.7 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "37.5%",
+      "age": "3 YO",
+      "stars": null
+    }
+  },
+  {
+    "original": "Ром Captain Morgan Spiced Gold 35% 0.5 л",
+    "cleanTokens": [
+      "spiced",
+      "gold"
+    ],
+    "normalizedTokens": [
+      "spiced",
+      "gold",
+      "35%",
+      "0.5 л"
+    ],
+    "params": {
+      "volume": "0.5 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "35%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Ром Zacapa Centenario выдержанный (аньехо) 40% 700 мл",
+    "cleanTokens": [
+      "выдержанный",
+      "аньехо"
+    ],
+    "normalizedTokens": [
+      "выдержанный",
+      "аньехо",
+      "40%",
+      "700 мл"
+    ],
+    "params": {
+      "volume": "700 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "40%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Ром Plantation черный 40% 0.7 л",
+    "cleanTokens": [
+      "черный"
+    ],
+    "normalizedTokens": [
+      "черный",
+      "40%",
+      "0.7 л"
+    ],
+    "params": {
+      "volume": "0.7 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "40%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Ром Matusalem выдержанный (аньехо) 40% 0.7 л",
+    "cleanTokens": [
+      "выдержанный",
+      "аньехо"
+    ],
+    "normalizedTokens": [
+      "выдержанный",
+      "аньехо",
+      "40%",
+      "0.7 л"
+    ],
+    "params": {
+      "volume": "0.7 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "40%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Ром Plantation O.F.T.D черный 69% 0.75 л",
+    "cleanTokens": [
+      "o.f.t.d",
+      "черный"
+    ],
+    "normalizedTokens": [
+      "o.f.t.d",
+      "черный",
+      "69%",
+      "0.75 л"
+    ],
+    "params": {
+      "volume": "0.75 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "69%",
+      "age": null,
+      "stars": null
+    }
+  }
+]

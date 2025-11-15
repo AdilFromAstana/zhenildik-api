@@ -1,0 +1,1455 @@
+[
+  {
+    "original": "Мука JAQSY пшеничная высший сорт 5 кг",
+    "cleanTokens": [
+      "пшеничная",
+      "высший",
+      "сорт"
+    ],
+    "normalizedTokens": [
+      "пшеничная",
+      "высший",
+      "сорт",
+      "5 кг"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "5 кг",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мука Император пшеничная высший сорт 10 кг",
+    "cleanTokens": [
+      "пшеничная",
+      "высший",
+      "сорт"
+    ],
+    "normalizedTokens": [
+      "пшеничная",
+      "высший",
+      "сорт",
+      "10 кг"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "10 кг",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мука Добрая пшеничная сорт высший 10 кг",
+    "cleanTokens": [
+      "пшеничная",
+      "сорт",
+      "высший"
+    ],
+    "normalizedTokens": [
+      "пшеничная",
+      "сорт",
+      "высший",
+      "10 кг"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "10 кг",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мука Жеті қазына пшеничная сорт первый 2 кг",
+    "cleanTokens": [
+      "пшеничная",
+      "сорт",
+      "первый"
+    ],
+    "normalizedTokens": [
+      "пшеничная",
+      "сорт",
+      "первый",
+      "2 кг"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "2 кг",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мука Гарнец кукурузная сорт высший 0.5 кг",
+    "cleanTokens": [
+      "кукурузная",
+      "сорт",
+      "высший"
+    ],
+    "normalizedTokens": [
+      "кукурузная",
+      "сорт",
+      "высший",
+      "0.5 кг"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "0.5 кг",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мука Гарнец ржаная цельносмолотая 0.5 кг",
+    "cleanTokens": [
+      "ржаная",
+      "цельносмолотая"
+    ],
+    "normalizedTokens": [
+      "ржаная",
+      "цельносмолотая",
+      "0.5 кг"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "0.5 кг",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мука JAQSY пшеничная высший сорт обогащенная 2 кг",
+    "cleanTokens": [
+      "пшеничная",
+      "высший",
+      "сорт",
+      "обогащенная"
+    ],
+    "normalizedTokens": [
+      "пшеничная",
+      "высший",
+      "сорт",
+      "обогащенная",
+      "2 кг"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "2 кг",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мука Сұлтан Высший сорт 10 кг",
+    "cleanTokens": [
+      "высший",
+      "сорт"
+    ],
+    "normalizedTokens": [
+      "высший",
+      "сорт",
+      "10 кг"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "10 кг",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мука Увелка пшеничная сорт высший 2 кг",
+    "cleanTokens": [
+      "пшеничная",
+      "сорт",
+      "высший"
+    ],
+    "normalizedTokens": [
+      "пшеничная",
+      "сорт",
+      "высший",
+      "2 кг"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "2 кг",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мука Император пшеничная высший сорт 5 кг",
+    "cleanTokens": [
+      "пшеничная",
+      "высший",
+      "сорт"
+    ],
+    "normalizedTokens": [
+      "пшеничная",
+      "высший",
+      "сорт",
+      "5 кг"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "5 кг",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мука Гарнец овсяная сорт высший 0.4 кг",
+    "cleanTokens": [
+      "овсяная",
+      "сорт",
+      "высший"
+    ],
+    "normalizedTokens": [
+      "овсяная",
+      "сорт",
+      "высший",
+      "0.4 кг"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "0.4 кг",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мука ЦАРЬ пшеничная высший сорт 2 кг",
+    "cleanTokens": [
+      "пшеничная",
+      "высший",
+      "сорт"
+    ],
+    "normalizedTokens": [
+      "пшеничная",
+      "высший",
+      "сорт",
+      "2 кг"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "2 кг",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мука Гарнец рисовая сорт высший 0.5 кг",
+    "cleanTokens": [
+      "рисовая",
+      "сорт",
+      "высший"
+    ],
+    "normalizedTokens": [
+      "рисовая",
+      "сорт",
+      "высший",
+      "0.5 кг"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "0.5 кг",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мука Гарнец гречневая сорт высший 0.5 кг",
+    "cleanTokens": [
+      "гречневая",
+      "сорт",
+      "высший"
+    ],
+    "normalizedTokens": [
+      "гречневая",
+      "сорт",
+      "высший",
+      "0.5 кг"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "0.5 кг",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мука Жеті қазына пшеничная сорт высший 2 кг",
+    "cleanTokens": [
+      "пшеничная",
+      "сорт",
+      "высший"
+    ],
+    "normalizedTokens": [
+      "пшеничная",
+      "сорт",
+      "высший",
+      "2 кг"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "2 кг",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мука Гарнец универсальная без глютена сорт высший 0.6 кг",
+    "cleanTokens": [
+      "универсальная",
+      "без",
+      "глютена",
+      "сорт",
+      "высший"
+    ],
+    "normalizedTokens": [
+      "универсальная",
+      "без",
+      "глютена",
+      "сорт",
+      "высший",
+      "0.6 кг"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "0.6 кг",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мука Гарнец пшеничная сорт высший 0.5 кг",
+    "cleanTokens": [
+      "пшеничная",
+      "сорт",
+      "высший"
+    ],
+    "normalizedTokens": [
+      "пшеничная",
+      "сорт",
+      "высший",
+      "0.5 кг"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "0.5 кг",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мука Горница овсяная сорт первый 0.5 кг",
+    "cleanTokens": [
+      "овсяная",
+      "сорт",
+      "первый"
+    ],
+    "normalizedTokens": [
+      "овсяная",
+      "сорт",
+      "первый",
+      "0.5 кг"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "0.5 кг",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мука Synergy льняная сорт первый 0.25 кг",
+    "cleanTokens": [
+      "льняная",
+      "сорт",
+      "первый"
+    ],
+    "normalizedTokens": [
+      "льняная",
+      "сорт",
+      "первый",
+      "0.25 кг"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "0.25 кг",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мука Горница рисовая сорт первый 0.5 кг",
+    "cleanTokens": [
+      "рисовая",
+      "сорт",
+      "первый"
+    ],
+    "normalizedTokens": [
+      "рисовая",
+      "сорт",
+      "первый",
+      "0.5 кг"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "0.5 кг",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мука Asia Rice рисовая клейкая для моти 0.4 кг",
+    "cleanTokens": [
+      "рисовая",
+      "клейкая",
+      "моти"
+    ],
+    "normalizedTokens": [
+      "рисовая",
+      "клейкая",
+      "моти",
+      "0.4 кг"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "0.4 кг",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мука MAKFA кукурузная сорт высший 0.5 кг",
+    "cleanTokens": [
+      "кукурузная",
+      "сорт",
+      "высший"
+    ],
+    "normalizedTokens": [
+      "кукурузная",
+      "сорт",
+      "высший",
+      "0.5 кг"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "0.5 кг",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мука Гарнец льняная сорт высший 0.35 кг",
+    "cleanTokens": [
+      "льняная",
+      "сорт",
+      "высший"
+    ],
+    "normalizedTokens": [
+      "льняная",
+      "сорт",
+      "высший",
+      "0.35 кг"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "0.35 кг",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мука Synergy миндальная сорт первый 0.25 кг",
+    "cleanTokens": [
+      "миндальная",
+      "сорт",
+      "первый"
+    ],
+    "normalizedTokens": [
+      "миндальная",
+      "сорт",
+      "первый",
+      "0.25 кг"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "0.25 кг",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мука Synergy кокосовая сорт высший 0.25 кг",
+    "cleanTokens": [
+      "кокосовая",
+      "сорт",
+      "высший"
+    ],
+    "normalizedTokens": [
+      "кокосовая",
+      "сорт",
+      "высший",
+      "0.25 кг"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "0.25 кг",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мука Asia Rice рисовая клейкая 0.4 кг",
+    "cleanTokens": [
+      "рисовая",
+      "клейкая"
+    ],
+    "normalizedTokens": [
+      "рисовая",
+      "клейкая",
+      "0.4 кг"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "0.4 кг",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мука Belalea из грецкого ореха сорт высший 6 упаковок по 0.3 кг",
+    "cleanTokens": [
+      "из",
+      "грецкого",
+      "ореха",
+      "сорт",
+      "высший",
+      "6",
+      "упаковок",
+      "по"
+    ],
+    "normalizedTokens": [
+      "из",
+      "грецкого",
+      "ореха",
+      "сорт",
+      "высший",
+      "6",
+      "упаковок",
+      "по",
+      "0.3 кг"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "0.3 кг",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мука Synergy из тыквенных семечек сорт высший 0.25 кг",
+    "cleanTokens": [
+      "из",
+      "тыквенных",
+      "семечек",
+      "сорт",
+      "высший"
+    ],
+    "normalizedTokens": [
+      "из",
+      "тыквенных",
+      "семечек",
+      "сорт",
+      "высший",
+      "0.25 кг"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "0.25 кг",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мука Synergy конопляная сорт высший 0.25 кг",
+    "cleanTokens": [
+      "конопляная",
+      "сорт",
+      "высший"
+    ],
+    "normalizedTokens": [
+      "конопляная",
+      "сорт",
+      "высший",
+      "0.25 кг"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "0.25 кг",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мука AROY-D Клейкая рисовая 400 г",
+    "cleanTokens": [
+      "клейкая",
+      "рисовая"
+    ],
+    "normalizedTokens": [
+      "клейкая",
+      "рисовая",
+      "400 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "400 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мука MAKFA гречневая сорт высший 0.5 кг",
+    "cleanTokens": [
+      "гречневая",
+      "сорт",
+      "высший"
+    ],
+    "normalizedTokens": [
+      "гречневая",
+      "сорт",
+      "высший",
+      "0.5 кг"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "0.5 кг",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мука Гарнец нутовая сорт высший 0.4 кг",
+    "cleanTokens": [
+      "нутовая",
+      "сорт",
+      "высший"
+    ],
+    "normalizedTokens": [
+      "нутовая",
+      "сорт",
+      "высший",
+      "0.4 кг"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "0.4 кг",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мука AROY-D рисовая сорт высший 2 кг",
+    "cleanTokens": [
+      "рисовая",
+      "сорт",
+      "высший"
+    ],
+    "normalizedTokens": [
+      "рисовая",
+      "сорт",
+      "высший",
+      "2 кг"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "2 кг",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мука QAZYNA рисовая 0.5 кг",
+    "cleanTokens": [
+      "рисовая"
+    ],
+    "normalizedTokens": [
+      "рисовая",
+      "0.5 кг"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "0.5 кг",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мука AROY-D Тапиока в шариках маленькие 454 г",
+    "cleanTokens": [
+      "тапиока",
+      "в",
+      "шариках",
+      "маленькие"
+    ],
+    "normalizedTokens": [
+      "тапиока",
+      "в",
+      "шариках",
+      "маленькие",
+      "454 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "454 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мука FitMall кокосовая 1,5 кг",
+    "cleanTokens": [
+      "кокосовая",
+      "1"
+    ],
+    "normalizedTokens": [
+      "кокосовая",
+      "1",
+      "5 кг"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "5 кг",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мука FitMall рисовая 1 кг",
+    "cleanTokens": [
+      "рисовая"
+    ],
+    "normalizedTokens": [
+      "рисовая",
+      "1 кг"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "1 кг",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мука Гарнец Ржаная 500 г",
+    "cleanTokens": [
+      "ржаная"
+    ],
+    "normalizedTokens": [
+      "ржаная",
+      "500 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "500 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мука Fit Parad Fit Feel Миндальная 200 г",
+    "cleanTokens": [
+      "миндальная"
+    ],
+    "normalizedTokens": [
+      "миндальная",
+      "200 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "200 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мука QAZYNA кукурузная сорт высший 0.5 кг",
+    "cleanTokens": [
+      "кукурузная",
+      "сорт",
+      "высший"
+    ],
+    "normalizedTokens": [
+      "кукурузная",
+      "сорт",
+      "высший",
+      "0.5 кг"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "0.5 кг",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мука FitMall кокосовая сорт высший 0.5 кг",
+    "cleanTokens": [
+      "кокосовая",
+      "сорт",
+      "высший"
+    ],
+    "normalizedTokens": [
+      "кокосовая",
+      "сорт",
+      "высший",
+      "0.5 кг"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "0.5 кг",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мука Гарнец гороховая сорт высший 0.4 кг",
+    "cleanTokens": [
+      "гороховая",
+      "сорт",
+      "высший"
+    ],
+    "normalizedTokens": [
+      "гороховая",
+      "сорт",
+      "высший",
+      "0.4 кг"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "0.4 кг",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мука FitMall рисовая сорт высший 0.5 кг",
+    "cleanTokens": [
+      "рисовая",
+      "сорт",
+      "высший"
+    ],
+    "normalizedTokens": [
+      "рисовая",
+      "сорт",
+      "высший",
+      "0.5 кг"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "0.5 кг",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мука Fit Parad псиллиум 150 г",
+    "cleanTokens": [
+      "псиллиум"
+    ],
+    "normalizedTokens": [
+      "псиллиум",
+      "150 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "150 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мука QAZYNA ржано-пшеничная сорт высший 0.5 кг",
+    "cleanTokens": [
+      "ржано-пшеничная",
+      "сорт",
+      "высший"
+    ],
+    "normalizedTokens": [
+      "ржано-пшеничная",
+      "сорт",
+      "высший",
+      "0.5 кг"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "0.5 кг",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мука Synergy из грецкого ореха сорт высший 0.25 кг",
+    "cleanTokens": [
+      "из",
+      "грецкого",
+      "ореха",
+      "сорт",
+      "высший"
+    ],
+    "normalizedTokens": [
+      "из",
+      "грецкого",
+      "ореха",
+      "сорт",
+      "высший",
+      "0.25 кг"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "0.25 кг",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мука FitMall миндальная 0,5 кг",
+    "cleanTokens": [
+      "миндальная",
+      "0"
+    ],
+    "normalizedTokens": [
+      "миндальная",
+      "0",
+      "5 кг"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "5 кг",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мука Гарнец рисовая для пельменей сорт высший 0.5 кг",
+    "cleanTokens": [
+      "рисовая",
+      "пельменей",
+      "сорт",
+      "высший"
+    ],
+    "normalizedTokens": [
+      "рисовая",
+      "пельменей",
+      "сорт",
+      "высший",
+      "0.5 кг"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "0.5 кг",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мука Synergy из косточек абрикоса сорт высший 0.25 кг",
+    "cleanTokens": [
+      "из",
+      "косточек",
+      "абрикоса",
+      "сорт",
+      "высший"
+    ],
+    "normalizedTokens": [
+      "из",
+      "косточек",
+      "абрикоса",
+      "сорт",
+      "высший",
+      "0.25 кг"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "0.25 кг",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мука FitMall из псиллиума сорт первый 0.25 кг",
+    "cleanTokens": [
+      "из",
+      "псиллиума",
+      "сорт",
+      "первый"
+    ],
+    "normalizedTokens": [
+      "из",
+      "псиллиума",
+      "сорт",
+      "первый",
+      "0.25 кг"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "0.25 кг",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мука Fit Parad Fit Feel Рисовая 500 г",
+    "cleanTokens": [
+      "рисовая"
+    ],
+    "normalizedTokens": [
+      "рисовая",
+      "500 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "500 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мука Polezzno из зеленой гречки 500 г",
+    "cleanTokens": [
+      "из",
+      "зеленой",
+      "гречки"
+    ],
+    "normalizedTokens": [
+      "из",
+      "зеленой",
+      "гречки",
+      "500 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "500 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мука Гарнец нутовая сорт высший 0.4 кг",
+    "cleanTokens": [
+      "нутовая",
+      "сорт",
+      "высший"
+    ],
+    "normalizedTokens": [
+      "нутовая",
+      "сорт",
+      "высший",
+      "0.4 кг"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "0.4 кг",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мука ЭТОНОВО из кассавы сорт высший 1 кг",
+    "cleanTokens": [
+      "из",
+      "кассавы",
+      "сорт",
+      "высший"
+    ],
+    "normalizedTokens": [
+      "из",
+      "кассавы",
+      "сорт",
+      "высший",
+      "1 кг"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "1 кг",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мука Эндакси миндальная сорт высший 1 кг",
+    "cleanTokens": [
+      "миндальная",
+      "сорт",
+      "высший"
+    ],
+    "normalizedTokens": [
+      "миндальная",
+      "сорт",
+      "высший",
+      "1 кг"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "1 кг",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мука Вегана рисовая для моти сорт высший 0.4 кг",
+    "cleanTokens": [
+      "рисовая",
+      "моти",
+      "сорт",
+      "высший"
+    ],
+    "normalizedTokens": [
+      "рисовая",
+      "моти",
+      "сорт",
+      "высший",
+      "0.4 кг"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "0.4 кг",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мука Эндакси миндальная сорт высший 0.45 кг",
+    "cleanTokens": [
+      "миндальная",
+      "сорт",
+      "высший"
+    ],
+    "normalizedTokens": [
+      "миндальная",
+      "сорт",
+      "высший",
+      "0.45 кг"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "0.45 кг",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мука Fit Parad кокосовая сорт высший 0.4 кг",
+    "cleanTokens": [
+      "кокосовая",
+      "сорт",
+      "высший"
+    ],
+    "normalizedTokens": [
+      "кокосовая",
+      "сорт",
+      "высший",
+      "0.4 кг"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "0.4 кг",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мука Polezzno Льняная 500 г",
+    "cleanTokens": [
+      "льняная"
+    ],
+    "normalizedTokens": [
+      "льняная",
+      "500 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "500 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мука Fit Feel кокосовая сорт первый 0.4 кг",
+    "cleanTokens": [
+      "кокосовая",
+      "сорт",
+      "первый"
+    ],
+    "normalizedTokens": [
+      "кокосовая",
+      "сорт",
+      "первый",
+      "0.4 кг"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "0.4 кг",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мука ЭТОНОВО миндальная сорт высший 0.25 кг",
+    "cleanTokens": [
+      "миндальная",
+      "сорт",
+      "высший"
+    ],
+    "normalizedTokens": [
+      "миндальная",
+      "сорт",
+      "высший",
+      "0.25 кг"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "0.25 кг",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мука FitMall из зеленых бананов 0,5 кг",
+    "cleanTokens": [
+      "из",
+      "зеленых",
+      "бананов",
+      "0"
+    ],
+    "normalizedTokens": [
+      "из",
+      "зеленых",
+      "бананов",
+      "0",
+      "5 кг"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "5 кг",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мука Belalea Конопляная экстра 6 упаковок по 300 г",
+    "cleanTokens": [
+      "конопляная",
+      "экстра",
+      "6",
+      "упаковок",
+      "по"
+    ],
+    "normalizedTokens": [
+      "конопляная",
+      "экстра",
+      "6",
+      "упаковок",
+      "по",
+      "300 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "300 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  }
+]

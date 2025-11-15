@@ -1,0 +1,814 @@
+[
+  {
+    "original": "MAGNUM cендвич с ветчиной 190 г",
+    "cleanTokens": [
+      "cендвич",
+      "с",
+      "ветчиной"
+    ],
+    "normalizedTokens": [
+      "cендвич",
+      "с",
+      "ветчиной",
+      "190 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "190 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Романовский продукт cендвич с колбасой 200 г",
+    "cleanTokens": [
+      "cендвич",
+      "с",
+      "колбасой"
+    ],
+    "normalizedTokens": [
+      "cендвич",
+      "с",
+      "колбасой",
+      "200 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "200 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Shaurma-Food комбо сочный чизмикс 745 г",
+    "cleanTokens": [
+      "комбо",
+      "сочный",
+      "чизмикс"
+    ],
+    "normalizedTokens": [
+      "комбо",
+      "сочный",
+      "чизмикс",
+      "745 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "745 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Shaurma-Food двойной чикенчизбургер 185 г",
+    "cleanTokens": [
+      "двойной",
+      "чикенчизбургер"
+    ],
+    "normalizedTokens": [
+      "двойной",
+      "чикенчизбургер",
+      "185 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "185 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Shaurma-Food чикенбургер 195 г",
+    "cleanTokens": [
+      "чикенбургер"
+    ],
+    "normalizedTokens": [
+      "чикенбургер",
+      "195 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "195 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Shaurma-Food комбо чизмикс 745 г",
+    "cleanTokens": [
+      "комбо",
+      "чизмикс"
+    ],
+    "normalizedTokens": [
+      "комбо",
+      "чизмикс",
+      "745 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "745 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Shaurma-Food комбо чикен 745 г",
+    "cleanTokens": [
+      "комбо",
+      "чикен"
+    ],
+    "normalizedTokens": [
+      "комбо",
+      "чикен",
+      "745 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "745 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Shaurma-Food шаурма в лаваше с курицей 315 г",
+    "cleanTokens": [
+      "шаурма",
+      "в",
+      "лаваше",
+      "с",
+      "курицей"
+    ],
+    "normalizedTokens": [
+      "шаурма",
+      "в",
+      "лаваше",
+      "с",
+      "курицей",
+      "315 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "315 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Shaurma-Food шаурма острая с говядиной в лаваше 415 г",
+    "cleanTokens": [
+      "шаурма",
+      "острая",
+      "с",
+      "говядиной",
+      "в",
+      "лаваше"
+    ],
+    "normalizedTokens": [
+      "шаурма",
+      "острая",
+      "с",
+      "говядиной",
+      "в",
+      "лаваше",
+      "415 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "415 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Shaurma-Food чизбургер 170 г",
+    "cleanTokens": [
+      "чизбургер"
+    ],
+    "normalizedTokens": [
+      "чизбургер",
+      "170 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "170 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Романовский продукт Kebab cендвич 280 г",
+    "cleanTokens": [
+      "kebab",
+      "cендвич"
+    ],
+    "normalizedTokens": [
+      "kebab",
+      "cендвич",
+      "280 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "280 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Shaurma-Food двойной гамбургер 185 г",
+    "cleanTokens": [
+      "двойной",
+      "гамбургер"
+    ],
+    "normalizedTokens": [
+      "двойной",
+      "гамбургер",
+      "185 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "185 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Shaurma-Food шаурма острая в лаваше 415 г",
+    "cleanTokens": [
+      "шаурма",
+      "острая",
+      "в",
+      "лаваше"
+    ],
+    "normalizedTokens": [
+      "шаурма",
+      "острая",
+      "в",
+      "лаваше",
+      "415 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "415 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Shaurma-Food шаурма ассорти в лаваше 392 г",
+    "cleanTokens": [
+      "шаурма",
+      "ассорти",
+      "в",
+      "лаваше"
+    ],
+    "normalizedTokens": [
+      "шаурма",
+      "ассорти",
+      "в",
+      "лаваше",
+      "392 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "392 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Shaurma-Food двойной чикенбургер 185 г",
+    "cleanTokens": [
+      "двойной",
+      "чикенбургер"
+    ],
+    "normalizedTokens": [
+      "двойной",
+      "чикенбургер",
+      "185 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "185 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Shaurma-Food гамбургер 195 г",
+    "cleanTokens": [
+      "гамбургер"
+    ],
+    "normalizedTokens": [
+      "гамбургер",
+      "195 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "195 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Shaurma-Food сырная шаурма в лаваше с курицей 415 г",
+    "cleanTokens": [
+      "сырная",
+      "шаурма",
+      "в",
+      "лаваше",
+      "с",
+      "курицей"
+    ],
+    "normalizedTokens": [
+      "сырная",
+      "шаурма",
+      "в",
+      "лаваше",
+      "с",
+      "курицей",
+      "415 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "415 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Shaurma-Food шаурма в лаваше с говядиной 315 г",
+    "cleanTokens": [
+      "шаурма",
+      "в",
+      "лаваше",
+      "с",
+      "говядиной"
+    ],
+    "normalizedTokens": [
+      "шаурма",
+      "в",
+      "лаваше",
+      "с",
+      "говядиной",
+      "315 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "315 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Романовский продукт Mexico cендвич 280 г",
+    "cleanTokens": [
+      "mexico",
+      "cендвич"
+    ],
+    "normalizedTokens": [
+      "mexico",
+      "cендвич",
+      "280 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "280 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Shaurma-Food шаурма в лаваше ассорти 315 г",
+    "cleanTokens": [
+      "шаурма",
+      "в",
+      "лаваше",
+      "ассорти"
+    ],
+    "normalizedTokens": [
+      "шаурма",
+      "в",
+      "лаваше",
+      "ассорти",
+      "315 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "315 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Shaurma-Food детский бокс c наггетсами 350 г",
+    "cleanTokens": [
+      "детский",
+      "бокс",
+      "c",
+      "наггетсами"
+    ],
+    "normalizedTokens": [
+      "детский",
+      "бокс",
+      "c",
+      "наггетсами",
+      "350 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "350 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Shaurma-Food шаурма сырная в лаваше с говядиной 415 г",
+    "cleanTokens": [
+      "шаурма",
+      "сырная",
+      "в",
+      "лаваше",
+      "с",
+      "говядиной"
+    ],
+    "normalizedTokens": [
+      "шаурма",
+      "сырная",
+      "в",
+      "лаваше",
+      "с",
+      "говядиной",
+      "415 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "415 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Shaurma-Food комбо классик 745 г",
+    "cleanTokens": [
+      "комбо",
+      "классик"
+    ],
+    "normalizedTokens": [
+      "комбо",
+      "классик",
+      "745 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "745 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Shaurma-Food сырная шаурма в лаваше с курицей 330 г",
+    "cleanTokens": [
+      "сырная",
+      "шаурма",
+      "в",
+      "лаваше",
+      "с",
+      "курицей"
+    ],
+    "normalizedTokens": [
+      "сырная",
+      "шаурма",
+      "в",
+      "лаваше",
+      "с",
+      "курицей",
+      "330 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "330 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Shaurma-Food cендвич с курицей 235 г",
+    "cleanTokens": [
+      "cендвич",
+      "с",
+      "курицей"
+    ],
+    "normalizedTokens": [
+      "cендвич",
+      "с",
+      "курицей",
+      "235 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "235 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Shaurma-Food шаурма сырная в лаваше ассорти 415 г",
+    "cleanTokens": [
+      "шаурма",
+      "сырная",
+      "в",
+      "лаваше",
+      "ассорти"
+    ],
+    "normalizedTokens": [
+      "шаурма",
+      "сырная",
+      "в",
+      "лаваше",
+      "ассорти",
+      "415 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "415 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Shaurma-Food шаурма в лаваше 330 г",
+    "cleanTokens": [
+      "шаурма",
+      "в",
+      "лаваше"
+    ],
+    "normalizedTokens": [
+      "шаурма",
+      "в",
+      "лаваше",
+      "330 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "330 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Shaurma-Food шаурма острая в лаваше 1.5 порции 415 г",
+    "cleanTokens": [
+      "шаурма",
+      "острая",
+      "в",
+      "лаваше",
+      "1.5",
+      "порции"
+    ],
+    "normalizedTokens": [
+      "шаурма",
+      "острая",
+      "в",
+      "лаваше",
+      "1.5",
+      "порции",
+      "415 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "415 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Shaurma-Food детский бокс с бургером 350 г",
+    "cleanTokens": [
+      "детский",
+      "бокс",
+      "с",
+      "бургером"
+    ],
+    "normalizedTokens": [
+      "детский",
+      "бокс",
+      "с",
+      "бургером",
+      "350 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "350 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Shaurma-Food шаурма острая в лаваше с курицей 330 г",
+    "cleanTokens": [
+      "шаурма",
+      "острая",
+      "в",
+      "лаваше",
+      "с",
+      "курицей"
+    ],
+    "normalizedTokens": [
+      "шаурма",
+      "острая",
+      "в",
+      "лаваше",
+      "с",
+      "курицей",
+      "330 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "330 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Shaurma-Food шаурма в лаваше 330 г",
+    "cleanTokens": [
+      "шаурма",
+      "в",
+      "лаваше"
+    ],
+    "normalizedTokens": [
+      "шаурма",
+      "в",
+      "лаваше",
+      "330 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "330 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Shaurma-Food шаурма сырная в лаваше 330 г",
+    "cleanTokens": [
+      "шаурма",
+      "сырная",
+      "в",
+      "лаваше"
+    ],
+    "normalizedTokens": [
+      "шаурма",
+      "сырная",
+      "в",
+      "лаваше",
+      "330 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "330 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Shaurma-Food ламбургер комбо 402 г",
+    "cleanTokens": [
+      "ламбургер",
+      "комбо"
+    ],
+    "normalizedTokens": [
+      "ламбургер",
+      "комбо",
+      "402 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "402 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Shaurma-Food шаурма в лаваше 413 г",
+    "cleanTokens": [
+      "шаурма",
+      "в",
+      "лаваше"
+    ],
+    "normalizedTokens": [
+      "шаурма",
+      "в",
+      "лаваше",
+      "413 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "413 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  }
+]

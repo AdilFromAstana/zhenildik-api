@@ -1,0 +1,392 @@
+[
+  {
+    "category": [
+      "Хлебные изделия",
+      "Лаваш, лепешки"
+    ],
+    "brand": "Chachos",
+    "canonicalName": "brand:chachos||weight_g:400||name:400 г тортилья",
+    "params": {
+      "volume": null,
+      "weight": "400 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    },
+    "shops": {
+      "kaspi": [
+        {
+          "id": "135908145",
+          "title": "Chachos тортилья 400 г",
+          "price": 1297,
+          "link": "/p/chachos-tortil-ja-400-g-135908145/?c=710000000",
+          "raw": {
+            "id": "135908145",
+            "configSku": "135908145",
+            "title": "Chachos тортилья 400 г",
+            "brand": "Chachos",
+            "categoryId": "09154",
+            "hasVariants": false,
+            "loanAvailable": false,
+            "shopLink": "/p/chachos-tortil-ja-400-g-135908145/?c=710000000",
+            "unitPrice": 1297,
+            "unitSalePrice": 1297,
+            "priceFormatted": "1 297 ₸",
+            "createdTime": "2025-03-06T09:13:38.743Z",
+            "stickers": [
+              "magnum_offer_available"
+            ],
+            "previewImages": [
+              {
+                "small": "https://resources.cdn-kaspi.kz/img/m/p/p5b/pe1/28748982.JPG?format=preview-small",
+                "medium": "https://resources.cdn-kaspi.kz/img/m/p/p5b/pe1/28748982.JPG?format=preview-medium",
+                "large": "https://resources.cdn-kaspi.kz/img/m/p/p5b/pe1/28748982.JPG?format=preview-large"
+              },
+              {
+                "small": "https://resources.cdn-kaspi.kz/img/m/p/pea/pe0/28748986.JPG?format=preview-small",
+                "medium": "https://resources.cdn-kaspi.kz/img/m/p/pea/pe0/28748986.JPG?format=preview-medium",
+                "large": "https://resources.cdn-kaspi.kz/img/m/p/pea/pe0/28748986.JPG?format=preview-large"
+              }
+            ],
+            "teasers": [],
+            "creditMonthlyPrice": 433,
+            "monthlyInstallment": {
+              "id": 3,
+              "installment": true,
+              "formattedPerMonth": "433 ₸"
+            },
+            "reviewsLink": "/p/chachos-tortil-ja-400-g-135908145/?c=710000000&tab=reviews",
+            "weight": 0,
+            "unit": {
+              "type": "PIECES",
+              "increment": 1,
+              "measurementLiteral": "шт",
+              "countingLiteral": "шт"
+            },
+            "rating": 2,
+            "reviewsQuantity": 7,
+            "stock": 1,
+            "currency": "KZT",
+            "mods": "",
+            "deliveryDuration": "TODAY",
+            "shortNameText": "",
+            "category": [
+              "Продукты питания",
+              "Хлебные изделия",
+              "Лаваш, лепешки"
+            ],
+            "categoryRu": [
+              "Продукты питания",
+              "Хлебные изделия",
+              "Лаваш, лепешки"
+            ],
+            "categoryCodes": [
+              "Tortillas",
+              "Bread and bakery",
+              "Food",
+              "Categories"
+            ],
+            "promo": [
+              {
+                "code": "magnum 0012",
+                "text": null,
+                "type": "LOAN",
+                "priority": 12,
+                "owner": "KASPI",
+                "bonusType": "",
+                "img": {
+                  "alt": null,
+                  "medium": {
+                    "src": "https://resources.cdn-kaspi.kz/yml/static/assets/badges/l12.svg?v=1",
+                    "width": 40,
+                    "height": 22
+                  },
+                  "large": {
+                    "src": "https://resources.cdn-kaspi.kz/yml/static/assets/badges/l12.svg?v=1",
+                    "width": 55,
+                    "height": 31
+                  },
+                  "small": {
+                    "src": "https://resources.cdn-kaspi.kz/yml/static/assets/badges/l12.svg?v=1",
+                    "width": 40,
+                    "height": 22
+                  }
+                }
+              }
+            ],
+            "majorMerchants": [
+              "Magnum"
+            ],
+            "deliveryZones": [
+              "magnum_f_zone",
+              "Magnum_ZONE3",
+              "Magnum_ZONE5"
+            ]
+          }
+        }
+      ]
+    }
+  },
+  {
+    "category": [
+      "Хлебные изделия",
+      "Лаваш, лепешки"
+    ],
+    "brand": "Chachos",
+    "canonicalName": "brand:chachos||weight_g:400||name:400 г и помидорами с тортилья укропом",
+    "params": {
+      "volume": null,
+      "weight": "400 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    },
+    "shops": {
+      "kaspi": [
+        {
+          "id": "135908301",
+          "title": "Chachos тортилья с помидорами и укропом 400 г",
+          "price": 1297,
+          "link": "/p/chachos-tortil-ja-s-pomidorami-i-ukropom-400-g-135908301/?c=710000000",
+          "raw": {
+            "id": "135908301",
+            "configSku": "135908301",
+            "title": "Chachos тортилья с помидорами и укропом 400 г",
+            "brand": "Chachos",
+            "categoryId": "09154",
+            "hasVariants": false,
+            "loanAvailable": false,
+            "shopLink": "/p/chachos-tortil-ja-s-pomidorami-i-ukropom-400-g-135908301/?c=710000000",
+            "unitPrice": 1297,
+            "unitSalePrice": 1297,
+            "priceFormatted": "1 297 ₸",
+            "createdTime": "2025-03-06T09:17:10.488Z",
+            "stickers": [
+              "magnum_offer_available"
+            ],
+            "previewImages": [
+              {
+                "small": "https://resources.cdn-kaspi.kz/img/m/p/pd1/pf5/28749736.JPG?format=preview-small",
+                "medium": "https://resources.cdn-kaspi.kz/img/m/p/pd1/pf5/28749736.JPG?format=preview-medium",
+                "large": "https://resources.cdn-kaspi.kz/img/m/p/pd1/pf5/28749736.JPG?format=preview-large"
+              },
+              {
+                "small": "https://resources.cdn-kaspi.kz/img/m/p/p99/pf5/28749738.JPG?format=preview-small",
+                "medium": "https://resources.cdn-kaspi.kz/img/m/p/p99/pf5/28749738.JPG?format=preview-medium",
+                "large": "https://resources.cdn-kaspi.kz/img/m/p/p99/pf5/28749738.JPG?format=preview-large"
+              }
+            ],
+            "teasers": [],
+            "creditMonthlyPrice": 433,
+            "monthlyInstallment": {
+              "id": 3,
+              "installment": true,
+              "formattedPerMonth": "433 ₸"
+            },
+            "reviewsLink": "/p/chachos-tortil-ja-s-pomidorami-i-ukropom-400-g-135908301/?c=710000000&tab=reviews",
+            "weight": 0,
+            "unit": {
+              "type": "PIECES",
+              "increment": 1,
+              "measurementLiteral": "шт",
+              "countingLiteral": "шт"
+            },
+            "rating": 2.7,
+            "reviewsQuantity": 2,
+            "stock": 1,
+            "currency": "KZT",
+            "mods": "",
+            "deliveryDuration": "TODAY",
+            "shortNameText": "",
+            "category": [
+              "Продукты питания",
+              "Хлебные изделия",
+              "Лаваш, лепешки"
+            ],
+            "categoryRu": [
+              "Продукты питания",
+              "Хлебные изделия",
+              "Лаваш, лепешки"
+            ],
+            "categoryCodes": [
+              "Tortillas",
+              "Bread and bakery",
+              "Food",
+              "Categories"
+            ],
+            "promo": [
+              {
+                "code": "magnum 0012",
+                "text": null,
+                "type": "LOAN",
+                "priority": 12,
+                "owner": "KASPI",
+                "bonusType": "",
+                "img": {
+                  "alt": null,
+                  "medium": {
+                    "src": "https://resources.cdn-kaspi.kz/yml/static/assets/badges/l12.svg?v=1",
+                    "width": 40,
+                    "height": 22
+                  },
+                  "large": {
+                    "src": "https://resources.cdn-kaspi.kz/yml/static/assets/badges/l12.svg?v=1",
+                    "width": 55,
+                    "height": 31
+                  },
+                  "small": {
+                    "src": "https://resources.cdn-kaspi.kz/yml/static/assets/badges/l12.svg?v=1",
+                    "width": 40,
+                    "height": 22
+                  }
+                }
+              }
+            ],
+            "majorMerchants": [
+              "Magnum"
+            ],
+            "deliveryZones": [
+              "magnum_f_zone",
+              "Magnum_ZONE3",
+              "Magnum_ZONE5"
+            ]
+          }
+        }
+      ]
+    }
+  },
+  {
+    "category": [
+      "Хлебные изделия",
+      "Лаваш, лепешки"
+    ],
+    "brand": "Chachos",
+    "canonicalName": "brand:chachos||weight_g:400||name:400 г активированным с тортилья углем",
+    "params": {
+      "volume": null,
+      "weight": "400 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    },
+    "shops": {
+      "kaspi": [
+        {
+          "id": "135910105",
+          "title": "Chachos тортилья с активированным углем 400 г",
+          "price": 1297,
+          "link": "/p/chachos-tortil-ja-s-aktivirovannym-uglem-400-g-135910105/?c=710000000",
+          "raw": {
+            "id": "135910105",
+            "configSku": "135910105",
+            "title": "Chachos тортилья с активированным углем 400 г",
+            "brand": "Chachos",
+            "categoryId": "09154",
+            "hasVariants": false,
+            "loanAvailable": false,
+            "shopLink": "/p/chachos-tortil-ja-s-aktivirovannym-uglem-400-g-135910105/?c=710000000",
+            "unitPrice": 1297,
+            "unitSalePrice": 1297,
+            "priceFormatted": "1 297 ₸",
+            "createdTime": "2025-03-06T10:08:26.507Z",
+            "stickers": [
+              "magnum_offer_available"
+            ],
+            "previewImages": [
+              {
+                "small": "https://resources.cdn-kaspi.kz/img/m/p/p79/pf3/28756548.JPG?format=preview-small",
+                "medium": "https://resources.cdn-kaspi.kz/img/m/p/p79/pf3/28756548.JPG?format=preview-medium",
+                "large": "https://resources.cdn-kaspi.kz/img/m/p/p79/pf3/28756548.JPG?format=preview-large"
+              },
+              {
+                "small": "https://resources.cdn-kaspi.kz/img/m/p/p95/pf3/28756549.JPG?format=preview-small",
+                "medium": "https://resources.cdn-kaspi.kz/img/m/p/p95/pf3/28756549.JPG?format=preview-medium",
+                "large": "https://resources.cdn-kaspi.kz/img/m/p/p95/pf3/28756549.JPG?format=preview-large"
+              }
+            ],
+            "teasers": [],
+            "creditMonthlyPrice": 433,
+            "monthlyInstallment": {
+              "id": 3,
+              "installment": true,
+              "formattedPerMonth": "433 ₸"
+            },
+            "reviewsLink": "/p/chachos-tortil-ja-s-aktivirovannym-uglem-400-g-135910105/?c=710000000&tab=reviews",
+            "weight": 0,
+            "unit": {
+              "type": "PIECES",
+              "increment": 1,
+              "measurementLiteral": "шт",
+              "countingLiteral": "шт"
+            },
+            "rating": 1,
+            "reviewsQuantity": 1,
+            "stock": 1,
+            "currency": "KZT",
+            "mods": "",
+            "deliveryDuration": "TODAY",
+            "shortNameText": "",
+            "category": [
+              "Продукты питания",
+              "Хлебные изделия",
+              "Лаваш, лепешки"
+            ],
+            "categoryRu": [
+              "Продукты питания",
+              "Хлебные изделия",
+              "Лаваш, лепешки"
+            ],
+            "categoryCodes": [
+              "Tortillas",
+              "Bread and bakery",
+              "Food",
+              "Categories"
+            ],
+            "promo": [
+              {
+                "code": "magnum 0012",
+                "text": null,
+                "type": "LOAN",
+                "priority": 12,
+                "owner": "KASPI",
+                "bonusType": "",
+                "img": {
+                  "alt": null,
+                  "medium": {
+                    "src": "https://resources.cdn-kaspi.kz/yml/static/assets/badges/l12.svg?v=1",
+                    "width": 40,
+                    "height": 22
+                  },
+                  "large": {
+                    "src": "https://resources.cdn-kaspi.kz/yml/static/assets/badges/l12.svg?v=1",
+                    "width": 55,
+                    "height": 31
+                  },
+                  "small": {
+                    "src": "https://resources.cdn-kaspi.kz/yml/static/assets/badges/l12.svg?v=1",
+                    "width": 40,
+                    "height": 22
+                  }
+                }
+              }
+            ],
+            "majorMerchants": [
+              "Magnum"
+            ],
+            "deliveryZones": [
+              "magnum_f_zone",
+              "Magnum_ZONE3",
+              "Magnum_ZONE5"
+            ]
+          }
+        }
+      ]
+    }
+  }
+]

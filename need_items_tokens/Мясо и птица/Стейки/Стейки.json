@@ -1,0 +1,626 @@
+[
+  {
+    "original": "Стейк Meat to Eat портерхаус Prime замороженный говяжий 500 г",
+    "cleanTokens": [
+      "стейк",
+      "портерхаус",
+      "prime",
+      "замороженный",
+      "говяжий"
+    ],
+    "normalizedTokens": [
+      "стейк",
+      "портерхаус",
+      "prime",
+      "замороженный",
+      "говяжий",
+      "500 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "500 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Стейк KAZBEEF фланк Alternative замороженный из мраморной говядины",
+    "cleanTokens": [
+      "стейк",
+      "фланк",
+      "alternative",
+      "замороженный",
+      "из",
+      "мраморной",
+      "говядины"
+    ],
+    "normalizedTokens": [
+      "стейк",
+      "фланк",
+      "alternative",
+      "замороженный",
+      "из",
+      "мраморной",
+      "говядины"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Стейк Meat to Eat антрекот Prime замороженный говяжий антрекот 400 г",
+    "cleanTokens": [
+      "стейк",
+      "антрекот",
+      "prime",
+      "замороженный",
+      "говяжий",
+      "антрекот"
+    ],
+    "normalizedTokens": [
+      "стейк",
+      "антрекот",
+      "prime",
+      "замороженный",
+      "говяжий",
+      "антрекот",
+      "400 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "400 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Стейк KAZBEEF флэт айрон Alternative замороженный из говядины",
+    "cleanTokens": [
+      "стейк",
+      "флэт",
+      "айрон",
+      "alternative",
+      "замороженный",
+      "из",
+      "говядины"
+    ],
+    "normalizedTokens": [
+      "стейк",
+      "флэт",
+      "айрон",
+      "alternative",
+      "замороженный",
+      "из",
+      "говядины"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Стейк Boszhan рибай Prime замороженный из говядины 300 г",
+    "cleanTokens": [
+      "стейк",
+      "рибай",
+      "prime",
+      "замороженный",
+      "из",
+      "говядины"
+    ],
+    "normalizedTokens": [
+      "стейк",
+      "рибай",
+      "prime",
+      "замороженный",
+      "из",
+      "говядины",
+      "300 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "300 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Стейк KAZBEEF рибай Choice замороженный из мраморной говядины",
+    "cleanTokens": [
+      "стейк",
+      "рибай",
+      "choice",
+      "замороженный",
+      "из",
+      "мраморной",
+      "говядины"
+    ],
+    "normalizedTokens": [
+      "стейк",
+      "рибай",
+      "choice",
+      "замороженный",
+      "из",
+      "мраморной",
+      "говядины"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Стейк Boszhan рибай Prime замороженный из говядины 500 г",
+    "cleanTokens": [
+      "стейк",
+      "рибай",
+      "prime",
+      "замороженный",
+      "из",
+      "говядины"
+    ],
+    "normalizedTokens": [
+      "стейк",
+      "рибай",
+      "prime",
+      "замороженный",
+      "из",
+      "говядины",
+      "500 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "500 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Стейк Boszhan антрекот Alternative замороженный из курицы 280 г",
+    "cleanTokens": [
+      "стейк",
+      "антрекот",
+      "alternative",
+      "замороженный",
+      "из",
+      "курицы"
+    ],
+    "normalizedTokens": [
+      "стейк",
+      "антрекот",
+      "alternative",
+      "замороженный",
+      "из",
+      "курицы",
+      "280 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "280 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Стейк тибон Select замороженный халяль 400 г",
+    "cleanTokens": [
+      "стейк",
+      "тибон",
+      "select",
+      "замороженный",
+      "халяль"
+    ],
+    "normalizedTokens": [
+      "стейк",
+      "тибон",
+      "select",
+      "замороженный",
+      "халяль",
+      "400 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "400 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Стейк Мираторг вегас Alternative замороженный из мраморной говядины 480 г",
+    "cleanTokens": [
+      "стейк",
+      "вегас",
+      "alternative",
+      "замороженный",
+      "из",
+      "мраморной",
+      "говядины"
+    ],
+    "normalizedTokens": [
+      "стейк",
+      "вегас",
+      "alternative",
+      "замороженный",
+      "из",
+      "мраморной",
+      "говядины",
+      "480 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "480 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Стейк KAZBEEF денвер Alternative замороженный из мраморной говядины",
+    "cleanTokens": [
+      "стейк",
+      "денвер",
+      "alternative",
+      "замороженный",
+      "из",
+      "мраморной",
+      "говядины"
+    ],
+    "normalizedTokens": [
+      "стейк",
+      "денвер",
+      "alternative",
+      "замороженный",
+      "из",
+      "мраморной",
+      "говядины"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Стейк KAZBEEF трай-тип Alternative замороженный из мраморной говядины",
+    "cleanTokens": [
+      "стейк",
+      "трай-тип",
+      "alternative",
+      "замороженный",
+      "из",
+      "мраморной",
+      "говядины"
+    ],
+    "normalizedTokens": [
+      "стейк",
+      "трай-тип",
+      "alternative",
+      "замороженный",
+      "из",
+      "мраморной",
+      "говядины"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Стейк Мираторг чак ролл Standard замороженный из говядины 570 г",
+    "cleanTokens": [
+      "стейк",
+      "чак",
+      "ролл",
+      "standard",
+      "замороженный",
+      "из",
+      "говядины"
+    ],
+    "normalizedTokens": [
+      "стейк",
+      "чак",
+      "ролл",
+      "standard",
+      "замороженный",
+      "из",
+      "говядины",
+      "570 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "570 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Стейк Мираторг стриплойн Choice замороженный из говядины 320 г",
+    "cleanTokens": [
+      "стейк",
+      "стриплойн",
+      "choice",
+      "замороженный",
+      "из",
+      "говядины"
+    ],
+    "normalizedTokens": [
+      "стейк",
+      "стриплойн",
+      "choice",
+      "замороженный",
+      "из",
+      "говядины",
+      "320 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "320 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Стейк Мираторг клаб Prime замороженный из мраморной говядины 500 г",
+    "cleanTokens": [
+      "стейк",
+      "клаб",
+      "prime",
+      "замороженный",
+      "из",
+      "мраморной",
+      "говядины"
+    ],
+    "normalizedTokens": [
+      "стейк",
+      "клаб",
+      "prime",
+      "замороженный",
+      "из",
+      "мраморной",
+      "говядины",
+      "500 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "500 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Стейк Мираторг рибай Choice замороженный из говядины 320 г",
+    "cleanTokens": [
+      "стейк",
+      "рибай",
+      "choice",
+      "замороженный",
+      "из",
+      "говядины"
+    ],
+    "normalizedTokens": [
+      "стейк",
+      "рибай",
+      "choice",
+      "замороженный",
+      "из",
+      "говядины",
+      "320 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "320 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Стейк Мираторг рамп Select замороженный из мраморной говядины 480 г",
+    "cleanTokens": [
+      "стейк",
+      "рамп",
+      "select",
+      "замороженный",
+      "из",
+      "мраморной",
+      "говядины"
+    ],
+    "normalizedTokens": [
+      "стейк",
+      "рамп",
+      "select",
+      "замороженный",
+      "из",
+      "мраморной",
+      "говядины",
+      "480 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "480 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Стейк Мираторг мачете Standard замороженный из говядины 480 г",
+    "cleanTokens": [
+      "стейк",
+      "мачете",
+      "standard",
+      "замороженный",
+      "из",
+      "говядины"
+    ],
+    "normalizedTokens": [
+      "стейк",
+      "мачете",
+      "standard",
+      "замороженный",
+      "из",
+      "говядины",
+      "480 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "480 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Стейк Мираторг денвер Choice замороженный из мраморной говядины 290 г",
+    "cleanTokens": [
+      "стейк",
+      "денвер",
+      "choice",
+      "замороженный",
+      "из",
+      "мраморной",
+      "говядины"
+    ],
+    "normalizedTokens": [
+      "стейк",
+      "денвер",
+      "choice",
+      "замороженный",
+      "из",
+      "мраморной",
+      "говядины",
+      "290 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "290 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Стейк Мираторг тибон Choice замороженный из мраморной говядины 500 г",
+    "cleanTokens": [
+      "стейк",
+      "тибон",
+      "choice",
+      "замороженный",
+      "из",
+      "мраморной",
+      "говядины"
+    ],
+    "normalizedTokens": [
+      "стейк",
+      "тибон",
+      "choice",
+      "замороженный",
+      "из",
+      "мраморной",
+      "говядины",
+      "500 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "500 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Стейк Мираторг фланк Select замороженный из мраморной говядины 490 г",
+    "cleanTokens": [
+      "стейк",
+      "фланк",
+      "select",
+      "замороженный",
+      "из",
+      "мраморной",
+      "говядины"
+    ],
+    "normalizedTokens": [
+      "стейк",
+      "фланк",
+      "select",
+      "замороженный",
+      "из",
+      "мраморной",
+      "говядины",
+      "490 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "490 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  }
+]

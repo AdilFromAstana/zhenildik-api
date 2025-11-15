@@ -1,0 +1,389 @@
+[
+  {
+    "original": "MAGNUM Малибу 500 г",
+    "cleanTokens": [
+      "малибу"
+    ],
+    "normalizedTokens": [
+      "малибу",
+      "500 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "500 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "MAGNUM винегрет 250 г",
+    "cleanTokens": [
+      "винегрет"
+    ],
+    "normalizedTokens": [
+      "винегрет",
+      "250 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "250 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "MAGNUM фунчоза 250 г",
+    "cleanTokens": [
+      "фунчоза"
+    ],
+    "normalizedTokens": [
+      "фунчоза",
+      "250 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "250 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "MAGNUM спаржа 250 г",
+    "cleanTokens": [
+      "спаржа"
+    ],
+    "normalizedTokens": [
+      "спаржа",
+      "250 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "250 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "MAGNUM из морской капусты 250 г",
+    "cleanTokens": [
+      "из",
+      "морской",
+      "капусты"
+    ],
+    "normalizedTokens": [
+      "из",
+      "морской",
+      "капусты",
+      "250 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "250 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "MAGNUM капуста по-корейски 500 г",
+    "cleanTokens": [
+      "капуста",
+      "по-корейски"
+    ],
+    "normalizedTokens": [
+      "капуста",
+      "по-корейски",
+      "500 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "500 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "MAGNUM грибы шиитаке 250 г",
+    "cleanTokens": [
+      "грибы",
+      "шиитаке"
+    ],
+    "normalizedTokens": [
+      "грибы",
+      "шиитаке",
+      "250 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "250 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "MAGNUM хе из рыбы 250 г",
+    "cleanTokens": [
+      "хе",
+      "из",
+      "рыбы"
+    ],
+    "normalizedTokens": [
+      "хе",
+      "из",
+      "рыбы",
+      "250 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "250 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "MAGNUM хе из куриной грудки 250 г",
+    "cleanTokens": [
+      "хе",
+      "из",
+      "куриной",
+      "грудки"
+    ],
+    "normalizedTokens": [
+      "хе",
+      "из",
+      "куриной",
+      "грудки",
+      "250 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "250 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "MAGNUM малибу 250 г",
+    "cleanTokens": [
+      "малибу"
+    ],
+    "normalizedTokens": [
+      "малибу",
+      "250 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "250 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Shaurma-Food цезарь 253 г",
+    "cleanTokens": [
+      "цезарь"
+    ],
+    "normalizedTokens": [
+      "цезарь",
+      "253 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "253 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Shaurma-Food ачучук 184 г",
+    "cleanTokens": [
+      "ачучук"
+    ],
+    "normalizedTokens": [
+      "ачучук",
+      "184 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "184 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Shaurma-Food малибу 198 г",
+    "cleanTokens": [
+      "малибу"
+    ],
+    "normalizedTokens": [
+      "малибу",
+      "198 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "198 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Shaurma-Food цезарь 229 г",
+    "cleanTokens": [
+      "цезарь"
+    ],
+    "normalizedTokens": [
+      "цезарь",
+      "229 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "229 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Shaurma-Food французский 198 г",
+    "cleanTokens": [
+      "французский"
+    ],
+    "normalizedTokens": [
+      "французский",
+      "198 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "198 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Shaurma-Food греческий 250 г",
+    "cleanTokens": [
+      "греческий"
+    ],
+    "normalizedTokens": [
+      "греческий",
+      "250 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "250 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Shaurma-Food веган 350 г",
+    "cleanTokens": [
+      "веган"
+    ],
+    "normalizedTokens": [
+      "веган",
+      "350 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "350 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Салат Shaurma-Food теплый салат с говядиной 480 г",
+    "cleanTokens": [
+      "салат",
+      "теплый",
+      "салат",
+      "с",
+      "говядиной"
+    ],
+    "normalizedTokens": [
+      "салат",
+      "теплый",
+      "салат",
+      "с",
+      "говядиной",
+      "480 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "480 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Shaurma-Food свекольный 322 г",
+    "cleanTokens": [
+      "свекольный"
+    ],
+    "normalizedTokens": [
+      "свекольный",
+      "322 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "322 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  }
+]

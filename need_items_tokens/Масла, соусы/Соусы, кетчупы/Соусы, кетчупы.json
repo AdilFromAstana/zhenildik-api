@@ -1,0 +1,5467 @@
+[
+  {
+    "original": "Махеевъ кетчуп томатный 300 г",
+    "cleanTokens": [
+      "кетчуп",
+      "томатный"
+    ],
+    "normalizedTokens": [
+      "кетчуп",
+      "томатный",
+      "300 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "300 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "3 желания кетчуп болгарский сладкий 450 г",
+    "cleanTokens": [
+      "кетчуп",
+      "болгарский",
+      "сладкий"
+    ],
+    "normalizedTokens": [
+      "кетчуп",
+      "болгарский",
+      "сладкий",
+      "450 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "450 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Чим Чим заправка для фунчозы 60 г",
+    "cleanTokens": [
+      "заправка",
+      "для",
+      "фунчозы"
+    ],
+    "normalizedTokens": [
+      "заправка",
+      "для",
+      "фунчозы",
+      "60 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "60 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "3 желания соус карри с манго 250 г",
+    "cleanTokens": [
+      "соус",
+      "карри",
+      "с",
+      "манго"
+    ],
+    "normalizedTokens": [
+      "соус",
+      "карри",
+      "с",
+      "манго",
+      "250 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "250 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Barilla соус Base Per Bolognese 400 г",
+    "cleanTokens": [
+      "соус",
+      "base",
+      "per",
+      "bolognese"
+    ],
+    "normalizedTokens": [
+      "соус",
+      "base",
+      "per",
+      "bolognese",
+      "400 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "400 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Barilla соус Pesto alla Genovese 190 г",
+    "cleanTokens": [
+      "соус",
+      "pesto",
+      "alla",
+      "genovese"
+    ],
+    "normalizedTokens": [
+      "соус",
+      "pesto",
+      "alla",
+      "genovese",
+      "190 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "190 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Heinz соус кисло-сладкий 200 г",
+    "cleanTokens": [
+      "соус",
+      "кисло-сладкий"
+    ],
+    "normalizedTokens": [
+      "соус",
+      "кисло-сладкий",
+      "200 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "200 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Heinz кетчуп супер острый 320 г",
+    "cleanTokens": [
+      "кетчуп",
+      "супер",
+      "острый"
+    ],
+    "normalizedTokens": [
+      "кетчуп",
+      "супер",
+      "острый",
+      "320 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "320 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Махеевъ соус терияки с имбирем 230 г",
+    "cleanTokens": [
+      "соус",
+      "терияки",
+      "с",
+      "имбирем"
+    ],
+    "normalizedTokens": [
+      "соус",
+      "терияки",
+      "с",
+      "имбирем",
+      "230 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "230 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Barilla соус томатный с базиликом 400 г",
+    "cleanTokens": [
+      "соус",
+      "томатный",
+      "с",
+      "базиликом"
+    ],
+    "normalizedTokens": [
+      "соус",
+      "томатный",
+      "с",
+      "базиликом",
+      "400 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "400 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "3 желания кетчуп чили 450 г",
+    "cleanTokens": [
+      "кетчуп",
+      "чили"
+    ],
+    "normalizedTokens": [
+      "кетчуп",
+      "чили",
+      "450 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "450 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Heinz кетчуп итальянский 320 г",
+    "cleanTokens": [
+      "кетчуп",
+      "итальянский"
+    ],
+    "normalizedTokens": [
+      "кетчуп",
+      "итальянский",
+      "320 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "320 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Heinz соус терияки 200 г",
+    "cleanTokens": [
+      "соус",
+      "терияки"
+    ],
+    "normalizedTokens": [
+      "соус",
+      "терияки",
+      "200 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "200 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Heinz кетчуп острый 550 г",
+    "cleanTokens": [
+      "кетчуп",
+      "острый"
+    ],
+    "normalizedTokens": [
+      "кетчуп",
+      "острый",
+      "550 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "550 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "3 желания кетчуп чили 250 г",
+    "cleanTokens": [
+      "кетчуп",
+      "чили"
+    ],
+    "normalizedTokens": [
+      "кетчуп",
+      "чили",
+      "250 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "250 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Ямчан соус чили сладкий 200 г",
+    "cleanTokens": [
+      "соус",
+      "чили",
+      "сладкий"
+    ],
+    "normalizedTokens": [
+      "соус",
+      "чили",
+      "сладкий",
+      "200 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "200 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Махеевъ соус барбекю с ароматом дыма 230 г",
+    "cleanTokens": [
+      "соус",
+      "барбекю",
+      "с",
+      "ароматом",
+      "дыма"
+    ],
+    "normalizedTokens": [
+      "соус",
+      "барбекю",
+      "с",
+      "ароматом",
+      "дыма",
+      "230 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "230 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Heinz кетчуп с чесноком и пряностями 320 г",
+    "cleanTokens": [
+      "кетчуп",
+      "с",
+      "чесноком",
+      "и",
+      "пряностями"
+    ],
+    "normalizedTokens": [
+      "кетчуп",
+      "с",
+      "чесноком",
+      "и",
+      "пряностями",
+      "320 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "320 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Махеевъ соус цезарь 200 мл",
+    "cleanTokens": [
+      "соус",
+      "цезарь"
+    ],
+    "normalizedTokens": [
+      "соус",
+      "цезарь",
+      "200 мл"
+    ],
+    "params": {
+      "volume": "200 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "3 желания кетчуп шашлычный 250 г",
+    "cleanTokens": [
+      "кетчуп",
+      "шашлычный"
+    ],
+    "normalizedTokens": [
+      "кетчуп",
+      "шашлычный",
+      "250 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "250 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Цин-Каз соус кобра жгучая 345 г",
+    "cleanTokens": [
+      "соус",
+      "кобра",
+      "жгучая"
+    ],
+    "normalizedTokens": [
+      "соус",
+      "кобра",
+      "жгучая",
+      "345 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "345 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Махеевъ кетчуп томатный 500 г",
+    "cleanTokens": [
+      "кетчуп",
+      "томатный"
+    ],
+    "normalizedTokens": [
+      "кетчуп",
+      "томатный",
+      "500 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "500 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Махеевъ кетчуп лечо 300 г",
+    "cleanTokens": [
+      "кетчуп",
+      "лечо"
+    ],
+    "normalizedTokens": [
+      "кетчуп",
+      "лечо",
+      "300 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "300 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Barilla соус Arrabbiata 400 г",
+    "cleanTokens": [
+      "соус",
+      "arrabbiata"
+    ],
+    "normalizedTokens": [
+      "соус",
+      "arrabbiata",
+      "400 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "400 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "ПАПРИЧИ соус кисло-сладкий 320 г",
+    "cleanTokens": [
+      "соус",
+      "кисло-сладкий"
+    ],
+    "normalizedTokens": [
+      "соус",
+      "кисло-сладкий",
+      "320 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "320 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Солёныч соус кобра 500 г",
+    "cleanTokens": [
+      "соус",
+      "кобра"
+    ],
+    "normalizedTokens": [
+      "соус",
+      "кобра",
+      "500 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "500 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Calve соус баварский медово-горчичный 230 г",
+    "cleanTokens": [
+      "соус",
+      "баварский",
+      "медово-горчичный"
+    ],
+    "normalizedTokens": [
+      "соус",
+      "баварский",
+      "медово-горчичный",
+      "230 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "230 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Heinz кетчуп острый 320 г",
+    "cleanTokens": [
+      "кетчуп",
+      "острый"
+    ],
+    "normalizedTokens": [
+      "кетчуп",
+      "острый",
+      "320 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "320 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "3 желания кетчуп Казахстанский 250 г",
+    "cleanTokens": [
+      "кетчуп",
+      "казахстанский"
+    ],
+    "normalizedTokens": [
+      "кетчуп",
+      "казахстанский",
+      "250 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "250 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "3 желания кетчуп болгарский сладкий 250 г",
+    "cleanTokens": [
+      "кетчуп",
+      "болгарский",
+      "сладкий"
+    ],
+    "normalizedTokens": [
+      "кетчуп",
+      "болгарский",
+      "сладкий",
+      "250 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "250 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Ямчан соус чили жгучий 200 г",
+    "cleanTokens": [
+      "соус",
+      "чили",
+      "жгучий"
+    ],
+    "normalizedTokens": [
+      "соус",
+      "чили",
+      "жгучий",
+      "200 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "200 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Махеевъ кетчуп шашлычный 300 г",
+    "cleanTokens": [
+      "кетчуп",
+      "шашлычный"
+    ],
+    "normalizedTokens": [
+      "кетчуп",
+      "шашлычный",
+      "300 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "300 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Sen Soy соус пряный 250 мл",
+    "cleanTokens": [
+      "соус",
+      "пряный"
+    ],
+    "normalizedTokens": [
+      "соус",
+      "пряный",
+      "250 мл"
+    ],
+    "params": {
+      "volume": "250 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Махеевъ кетчуп чили 300 г",
+    "cleanTokens": [
+      "кетчуп",
+      "чили"
+    ],
+    "normalizedTokens": [
+      "кетчуп",
+      "чили",
+      "300 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "300 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Barilla соус Napoletana 400 г",
+    "cleanTokens": [
+      "соус",
+      "napoletana"
+    ],
+    "normalizedTokens": [
+      "соус",
+      "napoletana",
+      "400 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "400 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Махеевъ соус кисло-сладкий с перцем чили 230 г",
+    "cleanTokens": [
+      "соус",
+      "кисло-сладкий",
+      "с",
+      "перцем",
+      "чили"
+    ],
+    "normalizedTokens": [
+      "соус",
+      "кисло-сладкий",
+      "с",
+      "перцем",
+      "чили",
+      "230 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "230 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Shah соус сырный гауда 200 г",
+    "cleanTokens": [
+      "соус",
+      "сырный",
+      "гауда"
+    ],
+    "normalizedTokens": [
+      "соус",
+      "сырный",
+      "гауда",
+      "200 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "200 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "3 желания соус бургер с огуречным релишем 250 г",
+    "cleanTokens": [
+      "соус",
+      "бургер",
+      "с",
+      "огуречным",
+      "релишем"
+    ],
+    "normalizedTokens": [
+      "соус",
+      "бургер",
+      "с",
+      "огуречным",
+      "релишем",
+      "250 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "250 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Цин-Каз кетчуп болгарский 250 г",
+    "cleanTokens": [
+      "кетчуп",
+      "болгарский"
+    ],
+    "normalizedTokens": [
+      "кетчуп",
+      "болгарский",
+      "250 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "250 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Цин-Каз соус соевый чесночно острый 500 мл",
+    "cleanTokens": [
+      "соус",
+      "соевый",
+      "чесночно",
+      "острый"
+    ],
+    "normalizedTokens": [
+      "соус",
+      "соевый",
+      "чесночно",
+      "острый",
+      "500 мл"
+    ],
+    "params": {
+      "volume": "500 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Цин-Каз соус сацебели овощной 500 г",
+    "cleanTokens": [
+      "соус",
+      "сацебели",
+      "овощной"
+    ],
+    "normalizedTokens": [
+      "соус",
+      "сацебели",
+      "овощной",
+      "500 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "500 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "3 желания соус чесночный 250 г",
+    "cleanTokens": [
+      "соус",
+      "чесночный"
+    ],
+    "normalizedTokens": [
+      "соус",
+      "чесночный",
+      "250 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "250 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Barilla соус Pesto con Rucola 190 г",
+    "cleanTokens": [
+      "соус",
+      "pesto",
+      "con",
+      "rucola"
+    ],
+    "normalizedTokens": [
+      "соус",
+      "pesto",
+      "con",
+      "rucola",
+      "190 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "190 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Heinz соус сладкий чили 200 г",
+    "cleanTokens": [
+      "соус",
+      "сладкий",
+      "чили"
+    ],
+    "normalizedTokens": [
+      "соус",
+      "сладкий",
+      "чили",
+      "200 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "200 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Sen Soy соус классический 1000 мл",
+    "cleanTokens": [
+      "соус",
+      "классический"
+    ],
+    "normalizedTokens": [
+      "соус",
+      "классический",
+      "1000 мл"
+    ],
+    "params": {
+      "volume": "1000 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Балтимор кетчуп Адмирал с кусочками чеснока 260 г",
+    "cleanTokens": [
+      "кетчуп",
+      "адмирал",
+      "с",
+      "кусочками",
+      "чеснока"
+    ],
+    "normalizedTokens": [
+      "кетчуп",
+      "адмирал",
+      "с",
+      "кусочками",
+      "чеснока",
+      "260 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "260 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "3 желания соус цезарь 250 г",
+    "cleanTokens": [
+      "соус",
+      "цезарь"
+    ],
+    "normalizedTokens": [
+      "соус",
+      "цезарь",
+      "250 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "250 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "3 желания кетчуп острый 530 г",
+    "cleanTokens": [
+      "кетчуп",
+      "острый"
+    ],
+    "normalizedTokens": [
+      "кетчуп",
+      "острый",
+      "530 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "530 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "3 желания соус томатный 530 г",
+    "cleanTokens": [
+      "соус",
+      "томатный"
+    ],
+    "normalizedTokens": [
+      "соус",
+      "томатный",
+      "530 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "530 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Чим Чим соус сладкий чили 180 мл",
+    "cleanTokens": [
+      "соус",
+      "сладкий",
+      "чили"
+    ],
+    "normalizedTokens": [
+      "соус",
+      "сладкий",
+      "чили",
+      "180 мл"
+    ],
+    "params": {
+      "volume": "180 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Heinz кетчуп для гриля и шашлыка 320 г",
+    "cleanTokens": [
+      "кетчуп",
+      "для",
+      "гриля",
+      "и",
+      "шашлыка"
+    ],
+    "normalizedTokens": [
+      "кетчуп",
+      "для",
+      "гриля",
+      "и",
+      "шашлыка",
+      "320 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "320 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Tabasco соус Pepper Sauce 60 мл",
+    "cleanTokens": [
+      "соус",
+      "pepper",
+      "sauce"
+    ],
+    "normalizedTokens": [
+      "соус",
+      "pepper",
+      "sauce",
+      "60 мл"
+    ],
+    "params": {
+      "volume": "60 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Vegeta соус Przecier Pomidorowy z bazylia 500 мл",
+    "cleanTokens": [
+      "соус",
+      "przecier",
+      "pomidorowy",
+      "z",
+      "bazylia"
+    ],
+    "normalizedTokens": [
+      "соус",
+      "przecier",
+      "pomidorowy",
+      "z",
+      "bazylia",
+      "500 мл"
+    ],
+    "params": {
+      "volume": "500 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Махеевъ соус сливочно-чесночный 200 г",
+    "cleanTokens": [
+      "соус",
+      "сливочно-чесночный"
+    ],
+    "normalizedTokens": [
+      "соус",
+      "сливочно-чесночный",
+      "200 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "200 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Sen Soy соус унаги 320 г",
+    "cleanTokens": [
+      "соус",
+      "унаги"
+    ],
+    "normalizedTokens": [
+      "соус",
+      "унаги",
+      "320 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "320 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Heinz соус чесночный 200 г",
+    "cleanTokens": [
+      "соус",
+      "чесночный"
+    ],
+    "normalizedTokens": [
+      "соус",
+      "чесночный",
+      "200 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "200 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Махеевъ кетчуп лечо 500 г",
+    "cleanTokens": [
+      "кетчуп",
+      "лечо"
+    ],
+    "normalizedTokens": [
+      "кетчуп",
+      "лечо",
+      "500 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "500 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Чим Чим соус соевый 350 г",
+    "cleanTokens": [
+      "соус",
+      "соевый"
+    ],
+    "normalizedTokens": [
+      "соус",
+      "соевый",
+      "350 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "350 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Костровок соус крылышки терияки 90 г",
+    "cleanTokens": [
+      "соус",
+      "крылышки",
+      "терияки"
+    ],
+    "normalizedTokens": [
+      "соус",
+      "крылышки",
+      "терияки",
+      "90 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "90 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "3 желания кетчуп томатный 250 г",
+    "cleanTokens": [
+      "кетчуп",
+      "томатный"
+    ],
+    "normalizedTokens": [
+      "кетчуп",
+      "томатный",
+      "250 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "250 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "3 желания кетчуп классический 100 г",
+    "cleanTokens": [
+      "кетчуп",
+      "классический"
+    ],
+    "normalizedTokens": [
+      "кетчуп",
+      "классический",
+      "100 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "100 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "3 желания кетчуп барбекю 450 г",
+    "cleanTokens": [
+      "кетчуп",
+      "барбекю"
+    ],
+    "normalizedTokens": [
+      "кетчуп",
+      "барбекю",
+      "450 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "450 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Балтимор кетчуп татарский острый с острым перцем и укропом 260 г",
+    "cleanTokens": [
+      "кетчуп",
+      "татарский",
+      "острый",
+      "с",
+      "острым",
+      "перцем",
+      "и",
+      "укропом"
+    ],
+    "normalizedTokens": [
+      "кетчуп",
+      "татарский",
+      "острый",
+      "с",
+      "острым",
+      "перцем",
+      "и",
+      "укропом",
+      "260 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "260 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Махеевъ кетчуп татарский 300 г",
+    "cleanTokens": [
+      "кетчуп",
+      "татарский"
+    ],
+    "normalizedTokens": [
+      "кетчуп",
+      "татарский",
+      "300 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "300 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Sen Soy соус Teriyaki 220 мл",
+    "cleanTokens": [
+      "соус",
+      "teriyaki"
+    ],
+    "normalizedTokens": [
+      "соус",
+      "teriyaki",
+      "220 мл"
+    ],
+    "params": {
+      "volume": "220 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Heinz соус цезарь 200 г",
+    "cleanTokens": [
+      "соус",
+      "цезарь"
+    ],
+    "normalizedTokens": [
+      "соус",
+      "цезарь",
+      "200 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "200 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "3 желания соус лечо 250 г",
+    "cleanTokens": [
+      "соус",
+      "лечо"
+    ],
+    "normalizedTokens": [
+      "соус",
+      "лечо",
+      "250 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "250 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "3 желания кетчуп барбекю 250 г",
+    "cleanTokens": [
+      "кетчуп",
+      "барбекю"
+    ],
+    "normalizedTokens": [
+      "кетчуп",
+      "барбекю",
+      "250 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "250 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Чим Чим заправка для капусты 60 г",
+    "cleanTokens": [
+      "заправка",
+      "для",
+      "капусты"
+    ],
+    "normalizedTokens": [
+      "заправка",
+      "для",
+      "капусты",
+      "60 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "60 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Pikador кетчуп с чесноком 300 г",
+    "cleanTokens": [
+      "кетчуп",
+      "с",
+      "чесноком"
+    ],
+    "normalizedTokens": [
+      "кетчуп",
+      "с",
+      "чесноком",
+      "300 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "300 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "3 желания соус к шашлыку 250 г",
+    "cleanTokens": [
+      "соус",
+      "к",
+      "шашлыку"
+    ],
+    "normalizedTokens": [
+      "соус",
+      "к",
+      "шашлыку",
+      "250 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "250 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Цин-Каз кетчуп томатный 250 г",
+    "cleanTokens": [
+      "кетчуп",
+      "томатный"
+    ],
+    "normalizedTokens": [
+      "кетчуп",
+      "томатный",
+      "250 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "250 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Цин-Каз соус кобра жгучая 500 г",
+    "cleanTokens": [
+      "соус",
+      "кобра",
+      "жгучая"
+    ],
+    "normalizedTokens": [
+      "соус",
+      "кобра",
+      "жгучая",
+      "500 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "500 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Цин-Каз соус чили 200 г",
+    "cleanTokens": [
+      "соус",
+      "чили"
+    ],
+    "normalizedTokens": [
+      "соус",
+      "чили",
+      "200 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "200 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Barilla соус Olive Mediterranee 400 г",
+    "cleanTokens": [
+      "соус",
+      "olive",
+      "mediterranee"
+    ],
+    "normalizedTokens": [
+      "соус",
+      "olive",
+      "mediterranee",
+      "400 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "400 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Цин-Каз соус кобра 710 г",
+    "cleanTokens": [
+      "соус",
+      "кобра"
+    ],
+    "normalizedTokens": [
+      "соус",
+      "кобра",
+      "710 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "710 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Гурмикс заправка бальзамик 80 г",
+    "cleanTokens": [
+      "заправка",
+      "бальзамик"
+    ],
+    "normalizedTokens": [
+      "заправка",
+      "бальзамик",
+      "80 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "80 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "3 желания кетчуп для шашлыка и гриля 530 г",
+    "cleanTokens": [
+      "кетчуп",
+      "для",
+      "шашлыка",
+      "и",
+      "гриля"
+    ],
+    "normalizedTokens": [
+      "кетчуп",
+      "для",
+      "шашлыка",
+      "и",
+      "гриля",
+      "530 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "530 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Махеевъ кетчуп чили 500 г",
+    "cleanTokens": [
+      "кетчуп",
+      "чили"
+    ],
+    "normalizedTokens": [
+      "кетчуп",
+      "чили",
+      "500 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "500 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Махеевъ кетчуп шашлычный 500 г",
+    "cleanTokens": [
+      "кетчуп",
+      "шашлычный"
+    ],
+    "normalizedTokens": [
+      "кетчуп",
+      "шашлычный",
+      "500 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "500 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Здрава кетчуп томатный 350 г",
+    "cleanTokens": [
+      "кетчуп",
+      "томатный"
+    ],
+    "normalizedTokens": [
+      "кетчуп",
+      "томатный",
+      "350 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "350 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Pikador кетчуп супер острый Двойной огонь 300 г",
+    "cleanTokens": [
+      "кетчуп",
+      "супер",
+      "острый",
+      "двойной",
+      "огонь"
+    ],
+    "normalizedTokens": [
+      "кетчуп",
+      "супер",
+      "острый",
+      "двойной",
+      "огонь",
+      "300 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "300 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "AROY-D соус Паста Том Ям 400 г",
+    "cleanTokens": [
+      "соус",
+      "паста",
+      "том",
+      "ям"
+    ],
+    "normalizedTokens": [
+      "соус",
+      "паста",
+      "том",
+      "ям",
+      "400 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "400 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Sen Soy заправка для фунчозы по-корейски 80 г",
+    "cleanTokens": [
+      "заправка",
+      "для",
+      "фунчозы",
+      "по-корейски"
+    ],
+    "normalizedTokens": [
+      "заправка",
+      "для",
+      "фунчозы",
+      "по-корейски",
+      "80 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "80 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Гурмикс соус кунжутная 80 г",
+    "cleanTokens": [
+      "соус",
+      "кунжутная"
+    ],
+    "normalizedTokens": [
+      "соус",
+      "кунжутная",
+      "80 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "80 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "3 желания кетчуп острый 450 г",
+    "cleanTokens": [
+      "кетчуп",
+      "острый"
+    ],
+    "normalizedTokens": [
+      "кетчуп",
+      "острый",
+      "450 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "450 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Здрава кетчуп классический 350 г",
+    "cleanTokens": [
+      "кетчуп",
+      "классический"
+    ],
+    "normalizedTokens": [
+      "кетчуп",
+      "классический",
+      "350 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "350 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Гурмикс соус для макарон с беконом в сливочно-сырном соусе 120 г",
+    "cleanTokens": [
+      "соус",
+      "для",
+      "макарон",
+      "с",
+      "беконом",
+      "в",
+      "сливочно-сырном",
+      "соусе"
+    ],
+    "normalizedTokens": [
+      "соус",
+      "для",
+      "макарон",
+      "с",
+      "беконом",
+      "в",
+      "сливочно-сырном",
+      "соусе",
+      "120 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "120 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Heinz соус тартар майонезный 200 г",
+    "cleanTokens": [
+      "соус",
+      "тартар",
+      "майонезный"
+    ],
+    "normalizedTokens": [
+      "соус",
+      "тартар",
+      "майонезный",
+      "200 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "200 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Цин-Каз соус чили 560 г",
+    "cleanTokens": [
+      "соус",
+      "чили"
+    ],
+    "normalizedTokens": [
+      "соус",
+      "чили",
+      "560 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "560 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Цин-Каз кетчуп острый 250 г",
+    "cleanTokens": [
+      "кетчуп",
+      "острый"
+    ],
+    "normalizedTokens": [
+      "кетчуп",
+      "острый",
+      "250 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "250 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Здрава кетчуп шашлычный 350 г",
+    "cleanTokens": [
+      "кетчуп",
+      "шашлычный"
+    ],
+    "normalizedTokens": [
+      "кетчуп",
+      "шашлычный",
+      "350 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "350 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Sen Soy соус классический 250 г",
+    "cleanTokens": [
+      "соус",
+      "классический"
+    ],
+    "normalizedTokens": [
+      "соус",
+      "классический",
+      "250 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "250 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Чим Чим заправка для спаржи 60 г",
+    "cleanTokens": [
+      "заправка",
+      "для",
+      "спаржи"
+    ],
+    "normalizedTokens": [
+      "заправка",
+      "для",
+      "спаржи",
+      "60 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "60 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Здрава кетчуп болгарский 350 г",
+    "cleanTokens": [
+      "кетчуп",
+      "болгарский"
+    ],
+    "normalizedTokens": [
+      "кетчуп",
+      "болгарский",
+      "350 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "350 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "3 желания соус сырный 250 г",
+    "cleanTokens": [
+      "соус",
+      "сырный"
+    ],
+    "normalizedTokens": [
+      "соус",
+      "сырный",
+      "250 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "250 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Гурмикс соус для пасты с курицей в сливочно-грибном соусе 120 г",
+    "cleanTokens": [
+      "соус",
+      "для",
+      "пасты",
+      "с",
+      "курицей",
+      "в",
+      "сливочно-грибном",
+      "соусе"
+    ],
+    "normalizedTokens": [
+      "соус",
+      "для",
+      "пасты",
+      "с",
+      "курицей",
+      "в",
+      "сливочно-грибном",
+      "соусе",
+      "120 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "120 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Гурмикс заправка греческая 80 г",
+    "cleanTokens": [
+      "заправка",
+      "греческая"
+    ],
+    "normalizedTokens": [
+      "заправка",
+      "греческая",
+      "80 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "80 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Цин-Каз кетчуп шашлычный 250 г",
+    "cleanTokens": [
+      "кетчуп",
+      "шашлычный"
+    ],
+    "normalizedTokens": [
+      "кетчуп",
+      "шашлычный",
+      "250 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "250 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Pikador кетчуп Новая классика 300 г",
+    "cleanTokens": [
+      "кетчуп",
+      "новая",
+      "классика"
+    ],
+    "normalizedTokens": [
+      "кетчуп",
+      "новая",
+      "классика",
+      "300 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "300 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Здрава кетчуп острый 350 г",
+    "cleanTokens": [
+      "кетчуп",
+      "острый"
+    ],
+    "normalizedTokens": [
+      "кетчуп",
+      "острый",
+      "350 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "350 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Здрава кетчуп Краснодарский 350 г",
+    "cleanTokens": [
+      "кетчуп",
+      "краснодарский"
+    ],
+    "normalizedTokens": [
+      "кетчуп",
+      "краснодарский",
+      "350 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "350 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Mr.Ricco соус Бургер 210 г",
+    "cleanTokens": [
+      "соус",
+      "бургер"
+    ],
+    "normalizedTokens": [
+      "соус",
+      "бургер",
+      "210 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "210 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "3 желания соус горчичный с цветочным медом 250 г",
+    "cleanTokens": [
+      "соус",
+      "горчичный",
+      "с",
+      "цветочным",
+      "медом"
+    ],
+    "normalizedTokens": [
+      "соус",
+      "горчичный",
+      "с",
+      "цветочным",
+      "медом",
+      "250 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "250 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Чим Чим соус сливочно-кунжутный 180 г",
+    "cleanTokens": [
+      "соус",
+      "сливочно-кунжутный"
+    ],
+    "normalizedTokens": [
+      "соус",
+      "сливочно-кунжутный",
+      "180 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "180 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "3 желания кетчуп для шашлыка и гриля 450 г",
+    "cleanTokens": [
+      "кетчуп",
+      "для",
+      "шашлыка",
+      "и",
+      "гриля"
+    ],
+    "normalizedTokens": [
+      "кетчуп",
+      "для",
+      "шашлыка",
+      "и",
+      "гриля",
+      "450 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "450 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Barilla соус Bolognese 400 г",
+    "cleanTokens": [
+      "соус",
+      "bolognese"
+    ],
+    "normalizedTokens": [
+      "соус",
+      "bolognese",
+      "400 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "400 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Sen Soy заправка для моркови корейская 80 г",
+    "cleanTokens": [
+      "заправка",
+      "для",
+      "моркови",
+      "корейская"
+    ],
+    "normalizedTokens": [
+      "заправка",
+      "для",
+      "моркови",
+      "корейская",
+      "80 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "80 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "3 желания соус барбекю 240 г",
+    "cleanTokens": [
+      "соус",
+      "барбекю"
+    ],
+    "normalizedTokens": [
+      "соус",
+      "барбекю",
+      "240 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "240 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Barilla соус Pesto Rosso 200 г",
+    "cleanTokens": [
+      "соус",
+      "pesto",
+      "rosso"
+    ],
+    "normalizedTokens": [
+      "соус",
+      "pesto",
+      "rosso",
+      "200 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "200 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Tabasco соус Green Pepper Sauce 60 мл",
+    "cleanTokens": [
+      "соус",
+      "green",
+      "pepper",
+      "sauce"
+    ],
+    "normalizedTokens": [
+      "соус",
+      "green",
+      "pepper",
+      "sauce",
+      "60 мл"
+    ],
+    "params": {
+      "volume": "60 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Shah кетчуп томатный 350 г",
+    "cleanTokens": [
+      "кетчуп",
+      "томатный"
+    ],
+    "normalizedTokens": [
+      "кетчуп",
+      "томатный",
+      "350 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "350 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Shah соус сыр плавленный чеддер 200 г",
+    "cleanTokens": [
+      "соус",
+      "сыр",
+      "плавленный",
+      "чеддер"
+    ],
+    "normalizedTokens": [
+      "соус",
+      "сыр",
+      "плавленный",
+      "чеддер",
+      "200 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "200 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "ЕЖК кетчуп шашлычный с натуральными специями 350 г",
+    "cleanTokens": [
+      "кетчуп",
+      "шашлычный",
+      "с",
+      "натуральными",
+      "специями"
+    ],
+    "normalizedTokens": [
+      "кетчуп",
+      "шашлычный",
+      "с",
+      "натуральными",
+      "специями",
+      "350 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "350 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Чим Чим соус чили с чесноком 180 мл",
+    "cleanTokens": [
+      "соус",
+      "чили",
+      "с",
+      "чесноком"
+    ],
+    "normalizedTokens": [
+      "соус",
+      "чили",
+      "с",
+      "чесноком",
+      "180 мл"
+    ],
+    "params": {
+      "volume": "180 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Shah кетчуп томатный 300 мл",
+    "cleanTokens": [
+      "кетчуп",
+      "томатный"
+    ],
+    "normalizedTokens": [
+      "кетчуп",
+      "томатный",
+      "300 мл"
+    ],
+    "params": {
+      "volume": "300 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Чим Чим соус устричный 206 г",
+    "cleanTokens": [
+      "соус",
+      "устричный"
+    ],
+    "normalizedTokens": [
+      "соус",
+      "устричный",
+      "206 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "206 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Гурмикс соус для макарон по-итальянски в томатно-базиликовом соусе 120 г",
+    "cleanTokens": [
+      "соус",
+      "для",
+      "макарон",
+      "по-итальянски",
+      "в",
+      "томатно-базиликовом",
+      "соусе"
+    ],
+    "normalizedTokens": [
+      "соус",
+      "для",
+      "макарон",
+      "по-итальянски",
+      "в",
+      "томатно-базиликовом",
+      "соусе",
+      "120 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "120 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Shah кетчуп шашлычный с дымком костра 200 г",
+    "cleanTokens": [
+      "кетчуп",
+      "шашлычный",
+      "с",
+      "дымком",
+      "костра"
+    ],
+    "normalizedTokens": [
+      "кетчуп",
+      "шашлычный",
+      "с",
+      "дымком",
+      "костра",
+      "200 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "200 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Sen Soy соус рыбный 220 мл",
+    "cleanTokens": [
+      "соус",
+      "рыбный"
+    ],
+    "normalizedTokens": [
+      "соус",
+      "рыбный",
+      "220 мл"
+    ],
+    "params": {
+      "volume": "220 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Mr.Ricco соус Сырный 210 г",
+    "cleanTokens": [
+      "соус",
+      "сырный"
+    ],
+    "normalizedTokens": [
+      "соус",
+      "сырный",
+      "210 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "210 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Чим Чим соус для приготовления курицы в сладком чили соусе 90 г",
+    "cleanTokens": [
+      "соус",
+      "для",
+      "приготовления",
+      "курицы",
+      "в",
+      "сладком",
+      "чили",
+      "соусе"
+    ],
+    "normalizedTokens": [
+      "соус",
+      "для",
+      "приготовления",
+      "курицы",
+      "в",
+      "сладком",
+      "чили",
+      "соусе",
+      "90 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "90 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Tamaki соус устричный 240 мл",
+    "cleanTokens": [
+      "соус",
+      "устричный"
+    ],
+    "normalizedTokens": [
+      "соус",
+      "устричный",
+      "240 мл"
+    ],
+    "params": {
+      "volume": "240 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Daesang соус рыбный 500 мл",
+    "cleanTokens": [
+      "соус",
+      "рыбный"
+    ],
+    "normalizedTokens": [
+      "соус",
+      "рыбный",
+      "500 мл"
+    ],
+    "params": {
+      "volume": "500 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "AROY-D соус чили для курицы и креветок 920 г",
+    "cleanTokens": [
+      "соус",
+      "чили",
+      "для",
+      "курицы",
+      "и",
+      "креветок"
+    ],
+    "normalizedTokens": [
+      "соус",
+      "чили",
+      "для",
+      "курицы",
+      "и",
+      "креветок",
+      "920 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "920 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Borges соус Crema Balsamica Trufa 250 г",
+    "cleanTokens": [
+      "соус",
+      "crema",
+      "balsamica",
+      "trufa"
+    ],
+    "normalizedTokens": [
+      "соус",
+      "crema",
+      "balsamica",
+      "trufa",
+      "250 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "250 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "ЕЖК кетчуп томатный 350 г",
+    "cleanTokens": [
+      "кетчуп",
+      "томатный"
+    ],
+    "normalizedTokens": [
+      "кетчуп",
+      "томатный",
+      "350 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "350 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Гурмикс соус для запекания курицы с румяной картошкой с чесноком и травами 50 г",
+    "cleanTokens": [
+      "соус",
+      "для",
+      "запекания",
+      "курицы",
+      "с",
+      "румяной",
+      "картошкой",
+      "с",
+      "чесноком",
+      "и",
+      "травами"
+    ],
+    "normalizedTokens": [
+      "соус",
+      "для",
+      "запекания",
+      "курицы",
+      "с",
+      "румяной",
+      "картошкой",
+      "с",
+      "чесноком",
+      "и",
+      "травами",
+      "50 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "50 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "ПАПРИЧИ соус для спагетти 320 г",
+    "cleanTokens": [
+      "соус",
+      "для",
+      "спагетти"
+    ],
+    "normalizedTokens": [
+      "соус",
+      "для",
+      "спагетти",
+      "320 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "320 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Махеевъ кетчуп болгарский 500 г",
+    "cleanTokens": [
+      "кетчуп",
+      "болгарский"
+    ],
+    "normalizedTokens": [
+      "кетчуп",
+      "болгарский",
+      "500 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "500 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Borges соус Crema Balsamica de Modena бальзамический 250 г",
+    "cleanTokens": [
+      "соус",
+      "crema",
+      "balsamica",
+      "de",
+      "modena",
+      "бальзамический"
+    ],
+    "normalizedTokens": [
+      "соус",
+      "crema",
+      "balsamica",
+      "de",
+      "modena",
+      "бальзамический",
+      "250 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "250 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "ЕЖК кетчуп с аджикой с пряными травами 350 г",
+    "cleanTokens": [
+      "кетчуп",
+      "с",
+      "аджикой",
+      "с",
+      "пряными",
+      "травами"
+    ],
+    "normalizedTokens": [
+      "кетчуп",
+      "с",
+      "аджикой",
+      "с",
+      "пряными",
+      "травами",
+      "350 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "350 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Чим Чим заправка для хе из рыбы 60 г",
+    "cleanTokens": [
+      "заправка",
+      "для",
+      "хе",
+      "из",
+      "рыбы"
+    ],
+    "normalizedTokens": [
+      "заправка",
+      "для",
+      "хе",
+      "из",
+      "рыбы",
+      "60 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "60 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Calve соус с лесными грибами 230 г",
+    "cleanTokens": [
+      "соус",
+      "с",
+      "лесными",
+      "грибами"
+    ],
+    "normalizedTokens": [
+      "соус",
+      "с",
+      "лесными",
+      "грибами",
+      "230 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "230 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Daesang соус анчоусный 250 мл",
+    "cleanTokens": [
+      "соус",
+      "анчоусный"
+    ],
+    "normalizedTokens": [
+      "соус",
+      "анчоусный",
+      "250 мл"
+    ],
+    "params": {
+      "volume": "250 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Гурмикс соус для запекания курочки гриль с хрустящей корочкой 50 г",
+    "cleanTokens": [
+      "соус",
+      "для",
+      "запекания",
+      "курочки",
+      "гриль",
+      "с",
+      "хрустящей",
+      "корочкой"
+    ],
+    "normalizedTokens": [
+      "соус",
+      "для",
+      "запекания",
+      "курочки",
+      "гриль",
+      "с",
+      "хрустящей",
+      "корочкой",
+      "50 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "50 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Calve соус сырный 230 г",
+    "cleanTokens": [
+      "соус",
+      "сырный"
+    ],
+    "normalizedTokens": [
+      "соус",
+      "сырный",
+      "230 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "230 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "IORI соус томатный с базиликом 265 г",
+    "cleanTokens": [
+      "соус",
+      "томатный",
+      "с",
+      "базиликом"
+    ],
+    "normalizedTokens": [
+      "соус",
+      "томатный",
+      "с",
+      "базиликом",
+      "265 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "265 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Barilla соус Toscana 400 г",
+    "cleanTokens": [
+      "соус",
+      "toscana"
+    ],
+    "normalizedTokens": [
+      "соус",
+      "toscana",
+      "400 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "400 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Uni-Eagle соус Sriracha Hot Chili Sauce 475 г",
+    "cleanTokens": [
+      "соус",
+      "sriracha",
+      "hot",
+      "chili",
+      "sauce"
+    ],
+    "normalizedTokens": [
+      "соус",
+      "sriracha",
+      "hot",
+      "chili",
+      "sauce",
+      "475 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "475 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Calve соус тартар 230 г",
+    "cleanTokens": [
+      "соус",
+      "тартар"
+    ],
+    "normalizedTokens": [
+      "соус",
+      "тартар",
+      "230 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "230 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "ShopRite заправка Creamy Caesar Dressing 473 мл",
+    "cleanTokens": [
+      "заправка",
+      "creamy",
+      "caesar",
+      "dressing"
+    ],
+    "normalizedTokens": [
+      "заправка",
+      "creamy",
+      "caesar",
+      "dressing",
+      "473 мл"
+    ],
+    "params": {
+      "volume": "473 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Sen Soy заправка ореховая 40 г",
+    "cleanTokens": [
+      "заправка",
+      "ореховая"
+    ],
+    "normalizedTokens": [
+      "заправка",
+      "ореховая",
+      "40 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "40 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Calve кетчуп томатный 350 г",
+    "cleanTokens": [
+      "кетчуп",
+      "томатный"
+    ],
+    "normalizedTokens": [
+      "кетчуп",
+      "томатный",
+      "350 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "350 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Calve соус сливочно-чесночный 230 г",
+    "cleanTokens": [
+      "соус",
+      "сливочно-чесночный"
+    ],
+    "normalizedTokens": [
+      "соус",
+      "сливочно-чесночный",
+      "230 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "230 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Костровок соус для мяса дикая смородина 250 мл",
+    "cleanTokens": [
+      "соус",
+      "для",
+      "мяса",
+      "дикая",
+      "смородина"
+    ],
+    "normalizedTokens": [
+      "соус",
+      "для",
+      "мяса",
+      "дикая",
+      "смородина",
+      "250 мл"
+    ],
+    "params": {
+      "volume": "250 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "СП Мирный соус бальзамический соус-крем со вкусом граната 220 мл",
+    "cleanTokens": [
+      "соус",
+      "бальзамический",
+      "соус-крем",
+      "со",
+      "вкусом",
+      "граната"
+    ],
+    "normalizedTokens": [
+      "соус",
+      "бальзамический",
+      "соус-крем",
+      "со",
+      "вкусом",
+      "граната",
+      "220 мл"
+    ],
+    "params": {
+      "volume": "220 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Monini соус Glaze на основе бальзамического уксуса 250 г",
+    "cleanTokens": [
+      "соус",
+      "glaze",
+      "на",
+      "основе",
+      "бальзамического",
+      "уксуса"
+    ],
+    "normalizedTokens": [
+      "соус",
+      "glaze",
+      "на",
+      "основе",
+      "бальзамического",
+      "уксуса",
+      "250 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "250 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Sen Soy заправка цитрусовая 40 г",
+    "cleanTokens": [
+      "заправка",
+      "цитрусовая"
+    ],
+    "normalizedTokens": [
+      "заправка",
+      "цитрусовая",
+      "40 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "40 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Гурмикс соус для тушения фрикаделек по-шведски в сливочной подливе 50 г",
+    "cleanTokens": [
+      "соус",
+      "для",
+      "тушения",
+      "фрикаделек",
+      "по-шведски",
+      "в",
+      "сливочной",
+      "подливе"
+    ],
+    "normalizedTokens": [
+      "соус",
+      "для",
+      "тушения",
+      "фрикаделек",
+      "по-шведски",
+      "в",
+      "сливочной",
+      "подливе",
+      "50 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "50 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "IORI соус наршараб гранатовый 350 г",
+    "cleanTokens": [
+      "соус",
+      "наршараб",
+      "гранатовый"
+    ],
+    "normalizedTokens": [
+      "соус",
+      "наршараб",
+      "гранатовый",
+      "350 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "350 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "СП Мирный соус бальзамический соус-крем 220 мл",
+    "cleanTokens": [
+      "соус",
+      "бальзамический",
+      "соус-крем"
+    ],
+    "normalizedTokens": [
+      "соус",
+      "бальзамический",
+      "соус-крем",
+      "220 мл"
+    ],
+    "params": {
+      "volume": "220 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Чим Чим соус для приготовления жареной фунчозы в устричном соусе 90 г",
+    "cleanTokens": [
+      "соус",
+      "для",
+      "приготовления",
+      "жареной",
+      "фунчозы",
+      "в",
+      "устричном",
+      "соусе"
+    ],
+    "normalizedTokens": [
+      "соус",
+      "для",
+      "приготовления",
+      "жареной",
+      "фунчозы",
+      "в",
+      "устричном",
+      "соусе",
+      "90 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "90 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Calve соус сырный цезарь 230 г",
+    "cleanTokens": [
+      "соус",
+      "сырный",
+      "цезарь"
+    ],
+    "normalizedTokens": [
+      "соус",
+      "сырный",
+      "цезарь",
+      "230 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "230 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Балтимор кетчуп томатный 260 г",
+    "cleanTokens": [
+      "кетчуп",
+      "томатный"
+    ],
+    "normalizedTokens": [
+      "кетчуп",
+      "томатный",
+      "260 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "260 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "IORI соус сацебели классический 265 г",
+    "cleanTokens": [
+      "соус",
+      "сацебели",
+      "классический"
+    ],
+    "normalizedTokens": [
+      "соус",
+      "сацебели",
+      "классический",
+      "265 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "265 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Filippo Berio соус Glaze with Balsamic Vinegar of Madena 250 мл",
+    "cleanTokens": [
+      "соус",
+      "glaze",
+      "with",
+      "balsamic",
+      "vinegar",
+      "of",
+      "madena"
+    ],
+    "normalizedTokens": [
+      "соус",
+      "glaze",
+      "with",
+      "balsamic",
+      "vinegar",
+      "of",
+      "madena",
+      "250 мл"
+    ],
+    "params": {
+      "volume": "250 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Sen Soy заправка для капусты корейская 80 г",
+    "cleanTokens": [
+      "заправка",
+      "для",
+      "капусты",
+      "корейская"
+    ],
+    "normalizedTokens": [
+      "заправка",
+      "для",
+      "капусты",
+      "корейская",
+      "80 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "80 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Костровок соус для мяса сливочно-чесночный 250 мл",
+    "cleanTokens": [
+      "соус",
+      "для",
+      "мяса",
+      "сливочно-чесночный"
+    ],
+    "normalizedTokens": [
+      "соус",
+      "для",
+      "мяса",
+      "сливочно-чесночный",
+      "250 мл"
+    ],
+    "params": {
+      "volume": "250 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "McIlhenny соус Tabasco Pepper Sauce 60 мл",
+    "cleanTokens": [
+      "соус",
+      "pepper",
+      "sauce"
+    ],
+    "normalizedTokens": [
+      "соус",
+      "pepper",
+      "sauce",
+      "60 мл"
+    ],
+    "params": {
+      "volume": "60 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Daesang соус Sandlance Sauce 500 г",
+    "cleanTokens": [
+      "соус",
+      "sandlance",
+      "sauce"
+    ],
+    "normalizedTokens": [
+      "соус",
+      "sandlance",
+      "sauce",
+      "500 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "500 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Carandini соус Aceto Balsamico di Modena IGP 500 мл",
+    "cleanTokens": [
+      "соус",
+      "aceto",
+      "balsamico",
+      "di",
+      "modena",
+      "igp"
+    ],
+    "normalizedTokens": [
+      "соус",
+      "aceto",
+      "balsamico",
+      "di",
+      "modena",
+      "igp",
+      "500 мл"
+    ],
+    "params": {
+      "volume": "500 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Barilla соус песто Peperoncino 195 г",
+    "cleanTokens": [
+      "соус",
+      "песто",
+      "peperoncino"
+    ],
+    "normalizedTokens": [
+      "соус",
+      "песто",
+      "peperoncino",
+      "195 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "195 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Балтимор кетчуп шашлычный 260 г",
+    "cleanTokens": [
+      "кетчуп",
+      "шашлычный"
+    ],
+    "normalizedTokens": [
+      "кетчуп",
+      "шашлычный",
+      "260 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "260 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "СП Мирный соус бальзамический соус-крем со вкусом базилика 220 г",
+    "cleanTokens": [
+      "соус",
+      "бальзамический",
+      "соус-крем",
+      "со",
+      "вкусом",
+      "базилика"
+    ],
+    "normalizedTokens": [
+      "соус",
+      "бальзамический",
+      "соус-крем",
+      "со",
+      "вкусом",
+      "базилика",
+      "220 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "220 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Tabasco соус Sriracha Sauce 256 мл",
+    "cleanTokens": [
+      "соус",
+      "sriracha",
+      "sauce"
+    ],
+    "normalizedTokens": [
+      "соус",
+      "sriracha",
+      "sauce",
+      "256 мл"
+    ],
+    "params": {
+      "volume": "256 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "IORI соус томатный классический 265 г",
+    "cleanTokens": [
+      "соус",
+      "томатный",
+      "классический"
+    ],
+    "normalizedTokens": [
+      "соус",
+      "томатный",
+      "классический",
+      "265 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "265 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Mae Ploy соус том ям паста 400 г",
+    "cleanTokens": [
+      "соус",
+      "том",
+      "ям",
+      "паста"
+    ],
+    "normalizedTokens": [
+      "соус",
+      "том",
+      "ям",
+      "паста",
+      "400 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "400 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Daesang соус Rich 300 г",
+    "cleanTokens": [
+      "соус",
+      "rich"
+    ],
+    "normalizedTokens": [
+      "соус",
+      "rich",
+      "300 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "300 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "AROY-D соус Sriracha Chili Sauce 510 г",
+    "cleanTokens": [
+      "соус",
+      "sriracha",
+      "chili",
+      "sauce"
+    ],
+    "normalizedTokens": [
+      "соус",
+      "sriracha",
+      "chili",
+      "sauce",
+      "510 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "510 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Sen Soy соус сладкий чили 260 г",
+    "cleanTokens": [
+      "соус",
+      "сладкий",
+      "чили"
+    ],
+    "normalizedTokens": [
+      "соус",
+      "сладкий",
+      "чили",
+      "260 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "260 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Tamaki соус ореховый 470 мл",
+    "cleanTokens": [
+      "соус",
+      "ореховый"
+    ],
+    "normalizedTokens": [
+      "соус",
+      "ореховый",
+      "470 мл"
+    ],
+    "params": {
+      "volume": "470 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Tamaki соус унаги 470 мл",
+    "cleanTokens": [
+      "соус",
+      "унаги"
+    ],
+    "normalizedTokens": [
+      "соус",
+      "унаги",
+      "470 мл"
+    ],
+    "params": {
+      "volume": "470 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Daesang соус Soy Bean Paste 450 г",
+    "cleanTokens": [
+      "соус",
+      "soy",
+      "bean",
+      "paste"
+    ],
+    "normalizedTokens": [
+      "соус",
+      "soy",
+      "bean",
+      "paste",
+      "450 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "450 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Daesang заправка French Balsamic Dressing 325 г",
+    "cleanTokens": [
+      "заправка",
+      "french",
+      "balsamic",
+      "dressing"
+    ],
+    "normalizedTokens": [
+      "заправка",
+      "french",
+      "balsamic",
+      "dressing",
+      "325 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "325 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "AROY-D соус паста карри красная 400 г",
+    "cleanTokens": [
+      "соус",
+      "паста",
+      "карри",
+      "красная"
+    ],
+    "normalizedTokens": [
+      "соус",
+      "паста",
+      "карри",
+      "красная",
+      "400 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "400 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Ottogi порошок Карри слабоострый 1000 г",
+    "cleanTokens": [
+      "порошок",
+      "карри",
+      "слабоострый"
+    ],
+    "normalizedTokens": [
+      "порошок",
+      "карри",
+      "слабоострый",
+      "1000 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "1000 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Mutti соус томаты кубиками с базиликом 400 г",
+    "cleanTokens": [
+      "соус",
+      "томаты",
+      "кубиками",
+      "с",
+      "базиликом"
+    ],
+    "normalizedTokens": [
+      "соус",
+      "томаты",
+      "кубиками",
+      "с",
+      "базиликом",
+      "400 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "400 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Чим Чим соус для приготовления пшеничной лапши со свининой яки удон 90 г",
+    "cleanTokens": [
+      "соус",
+      "для",
+      "приготовления",
+      "пшеничной",
+      "лапши",
+      "со",
+      "свининой",
+      "яки",
+      "удон"
+    ],
+    "normalizedTokens": [
+      "соус",
+      "для",
+      "приготовления",
+      "пшеничной",
+      "лапши",
+      "со",
+      "свининой",
+      "яки",
+      "удон",
+      "90 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "90 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Mutti соус томаты кубиками с чесноком 400 г",
+    "cleanTokens": [
+      "соус",
+      "томаты",
+      "кубиками",
+      "с",
+      "чесноком"
+    ],
+    "normalizedTokens": [
+      "соус",
+      "томаты",
+      "кубиками",
+      "с",
+      "чесноком",
+      "400 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "400 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "ЕЖК кетчуп острый с перцем чили 350 г",
+    "cleanTokens": [
+      "кетчуп",
+      "острый",
+      "с",
+      "перцем",
+      "чили"
+    ],
+    "normalizedTokens": [
+      "кетчуп",
+      "острый",
+      "с",
+      "перцем",
+      "чили",
+      "350 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "350 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Uni-Eagle соус Sriracha mayo 430 мл",
+    "cleanTokens": [
+      "соус",
+      "sriracha",
+      "mayo"
+    ],
+    "normalizedTokens": [
+      "соус",
+      "sriracha",
+      "mayo",
+      "430 мл"
+    ],
+    "params": {
+      "volume": "430 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Shah соус сыр плавленный чеддер 800 г",
+    "cleanTokens": [
+      "соус",
+      "сыр",
+      "плавленный",
+      "чеддер"
+    ],
+    "normalizedTokens": [
+      "соус",
+      "сыр",
+      "плавленный",
+      "чеддер",
+      "800 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "800 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Daesang соус Gochujang Tteokbokki sause 120 г",
+    "cleanTokens": [
+      "соус",
+      "gochujang",
+      "tteokbokki",
+      "sause"
+    ],
+    "normalizedTokens": [
+      "соус",
+      "gochujang",
+      "tteokbokki",
+      "sause",
+      "120 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "120 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Ottogi соус Curry Mild 200 г",
+    "cleanTokens": [
+      "соус",
+      "curry",
+      "mild"
+    ],
+    "normalizedTokens": [
+      "соус",
+      "curry",
+      "mild",
+      "200 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "200 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Tamaki соус сладкий чили 470 мл",
+    "cleanTokens": [
+      "соус",
+      "сладкий",
+      "чили"
+    ],
+    "normalizedTokens": [
+      "соус",
+      "сладкий",
+      "чили",
+      "470 мл"
+    ],
+    "params": {
+      "volume": "470 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "BombBar соус низкокалорийный соус чили 240 г",
+    "cleanTokens": [
+      "соус",
+      "низкокалорийный",
+      "соус",
+      "чили"
+    ],
+    "normalizedTokens": [
+      "соус",
+      "низкокалорийный",
+      "соус",
+      "чили",
+      "240 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "240 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "AROY-D соус паста том ям 50 г",
+    "cleanTokens": [
+      "соус",
+      "паста",
+      "том",
+      "ям"
+    ],
+    "normalizedTokens": [
+      "соус",
+      "паста",
+      "том",
+      "ям",
+      "50 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "50 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "BombBar соус низкокалорийный без сахара Барбекю 240 г",
+    "cleanTokens": [
+      "соус",
+      "низкокалорийный",
+      "без",
+      "сахара",
+      "барбекю"
+    ],
+    "normalizedTokens": [
+      "соус",
+      "низкокалорийный",
+      "без",
+      "сахара",
+      "барбекю",
+      "240 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "240 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Daesang соус Classic Tonkatsu Sauce 400 г",
+    "cleanTokens": [
+      "соус",
+      "classic",
+      "tonkatsu",
+      "sauce"
+    ],
+    "normalizedTokens": [
+      "соус",
+      "classic",
+      "tonkatsu",
+      "sauce",
+      "400 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "400 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Tamaki соус Sriracha sauce 08 470 мл",
+    "cleanTokens": [
+      "соус",
+      "sriracha",
+      "sauce",
+      "08"
+    ],
+    "normalizedTokens": [
+      "соус",
+      "sriracha",
+      "sauce",
+      "08",
+      "470 мл"
+    ],
+    "params": {
+      "volume": "470 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Filippo Berio соус Raspberry Glaze 250 мл",
+    "cleanTokens": [
+      "соус",
+      "raspberry",
+      "glaze"
+    ],
+    "normalizedTokens": [
+      "соус",
+      "raspberry",
+      "glaze",
+      "250 мл"
+    ],
+    "params": {
+      "volume": "250 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Ottogi соус Korean Spicy Chicken Sauce 490 г",
+    "cleanTokens": [
+      "соус",
+      "korean",
+      "spicy",
+      "chicken",
+      "sauce"
+    ],
+    "normalizedTokens": [
+      "соус",
+      "korean",
+      "spicy",
+      "chicken",
+      "sauce",
+      "490 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "490 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Tamaki соус бальзамический 470 мл",
+    "cleanTokens": [
+      "соус",
+      "бальзамический"
+    ],
+    "normalizedTokens": [
+      "соус",
+      "бальзамический",
+      "470 мл"
+    ],
+    "params": {
+      "volume": "470 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Mae Ploy соус паста том кха 400 г",
+    "cleanTokens": [
+      "соус",
+      "паста",
+      "том",
+      "кха"
+    ],
+    "normalizedTokens": [
+      "соус",
+      "паста",
+      "том",
+      "кха",
+      "400 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "400 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Bowl & Basket кетчуп томатный 1000 мл",
+    "cleanTokens": [
+      "кетчуп",
+      "томатный"
+    ],
+    "normalizedTokens": [
+      "кетчуп",
+      "томатный",
+      "1000 мл"
+    ],
+    "params": {
+      "volume": "1000 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Ottogi соус Curry Spicy 200 г",
+    "cleanTokens": [
+      "соус",
+      "curry",
+      "spicy"
+    ],
+    "normalizedTokens": [
+      "соус",
+      "curry",
+      "spicy",
+      "200 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "200 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Del Toro кетчуп острый 750 г",
+    "cleanTokens": [
+      "кетчуп",
+      "острый"
+    ],
+    "normalizedTokens": [
+      "кетчуп",
+      "острый",
+      "750 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "750 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Haepyo соус Capsaicin 550 г",
+    "cleanTokens": [
+      "соус",
+      "capsaicin"
+    ],
+    "normalizedTokens": [
+      "соус",
+      "capsaicin",
+      "550 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "550 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Sen Soy соус кисло-сладкий 80 г",
+    "cleanTokens": [
+      "соус",
+      "кисло-сладкий"
+    ],
+    "normalizedTokens": [
+      "соус",
+      "кисло-сладкий",
+      "80 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "80 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Kaori соус бальзамический 470 мл",
+    "cleanTokens": [
+      "соус",
+      "бальзамический"
+    ],
+    "normalizedTokens": [
+      "соус",
+      "бальзамический",
+      "470 мл"
+    ],
+    "params": {
+      "volume": "470 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Heinz соус Worcestershire 530 г",
+    "cleanTokens": [
+      "соус",
+      "worcestershire"
+    ],
+    "normalizedTokens": [
+      "соус",
+      "worcestershire",
+      "530 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "530 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "McIlhenny соус Tabasco Green Pepper Sauce 150 мл",
+    "cleanTokens": [
+      "соус",
+      "green",
+      "pepper",
+      "sauce"
+    ],
+    "normalizedTokens": [
+      "соус",
+      "green",
+      "pepper",
+      "sauce",
+      "150 мл"
+    ],
+    "params": {
+      "volume": "150 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Kaori соус ореховый 470 мл",
+    "cleanTokens": [
+      "соус",
+      "ореховый"
+    ],
+    "normalizedTokens": [
+      "соус",
+      "ореховый",
+      "470 мл"
+    ],
+    "params": {
+      "volume": "470 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Sen Soy соус терияки 120 г",
+    "cleanTokens": [
+      "соус",
+      "терияки"
+    ],
+    "normalizedTokens": [
+      "соус",
+      "терияки",
+      "120 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "120 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Calve кетчуп черри 350 г",
+    "cleanTokens": [
+      "кетчуп",
+      "черри"
+    ],
+    "normalizedTokens": [
+      "кетчуп",
+      "черри",
+      "350 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "350 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Tamaki соус Habanero 44 470 мл",
+    "cleanTokens": [
+      "соус",
+      "habanero",
+      "44"
+    ],
+    "normalizedTokens": [
+      "соус",
+      "habanero",
+      "44",
+      "470 мл"
+    ],
+    "params": {
+      "volume": "470 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Mae Ploy соус Tom Yum Paste 50 г",
+    "cleanTokens": [
+      "соус",
+      "tom",
+      "yum",
+      "paste"
+    ],
+    "normalizedTokens": [
+      "соус",
+      "tom",
+      "yum",
+      "paste",
+      "50 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "50 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Sen Soy соус Sriracha Hot Chili Sauce 150 г",
+    "cleanTokens": [
+      "соус",
+      "sriracha",
+      "hot",
+      "chili",
+      "sauce"
+    ],
+    "normalizedTokens": [
+      "соус",
+      "sriracha",
+      "hot",
+      "chili",
+      "sauce",
+      "150 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "150 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Mae Ploy соус Vegan Том ям паста 400 г",
+    "cleanTokens": [
+      "соус",
+      "vegan",
+      "том",
+      "ям",
+      "паста"
+    ],
+    "normalizedTokens": [
+      "соус",
+      "vegan",
+      "том",
+      "ям",
+      "паста",
+      "400 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "400 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Condito соус Original Cheddar 330 г",
+    "cleanTokens": [
+      "соус",
+      "original",
+      "cheddar"
+    ],
+    "normalizedTokens": [
+      "соус",
+      "original",
+      "cheddar",
+      "330 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "330 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Condito соус Original Burger 345 г",
+    "cleanTokens": [
+      "соус",
+      "original",
+      "burger"
+    ],
+    "normalizedTokens": [
+      "соус",
+      "original",
+      "burger",
+      "345 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "345 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Tamaki соус Black sriracha 42 470 мл",
+    "cleanTokens": [
+      "соус",
+      "black",
+      "sriracha",
+      "42"
+    ],
+    "normalizedTokens": [
+      "соус",
+      "black",
+      "sriracha",
+      "42",
+      "470 мл"
+    ],
+    "params": {
+      "volume": "470 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Sen Soy соус жгучий чили 260 г",
+    "cleanTokens": [
+      "соус",
+      "жгучий",
+      "чили"
+    ],
+    "normalizedTokens": [
+      "соус",
+      "жгучий",
+      "чили",
+      "260 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "260 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Samyang соус Buldak Carbo HOT Chicken Flavor Sauce 24 бутылки по 200 г",
+    "cleanTokens": [
+      "соус",
+      "buldak",
+      "carbo",
+      "hot",
+      "chicken",
+      "flavor",
+      "sauce",
+      "24",
+      "бутылки",
+      "по"
+    ],
+    "normalizedTokens": [
+      "соус",
+      "buldak",
+      "carbo",
+      "hot",
+      "chicken",
+      "flavor",
+      "sauce",
+      "24",
+      "бутылки",
+      "по",
+      "200 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "200 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Guerzoni соус глазированный бальзамик 250 мл",
+    "cleanTokens": [
+      "соус",
+      "глазированный",
+      "бальзамик"
+    ],
+    "normalizedTokens": [
+      "соус",
+      "глазированный",
+      "бальзамик",
+      "250 мл"
+    ],
+    "params": {
+      "volume": "250 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "EN Food's соус для японского блюда сябу-сябу 470 мл",
+    "cleanTokens": [
+      "соус",
+      "для",
+      "японского",
+      "блюда",
+      "сябу-сябу"
+    ],
+    "normalizedTokens": [
+      "соус",
+      "для",
+      "японского",
+      "блюда",
+      "сябу-сябу",
+      "470 мл"
+    ],
+    "params": {
+      "volume": "470 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Sen Soy соус Sriracha Hot Chili Sauce 150 г",
+    "cleanTokens": [
+      "соус",
+      "sriracha",
+      "hot",
+      "chili",
+      "sauce"
+    ],
+    "normalizedTokens": [
+      "соус",
+      "sriracha",
+      "hot",
+      "chili",
+      "sauce",
+      "150 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "150 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Tamaki соус Black pepper 20 470 мл",
+    "cleanTokens": [
+      "соус",
+      "black",
+      "pepper",
+      "20"
+    ],
+    "normalizedTokens": [
+      "соус",
+      "black",
+      "pepper",
+      "20",
+      "470 мл"
+    ],
+    "params": {
+      "volume": "470 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Truffle Chef соус Truffle Aioli 180 мл",
+    "cleanTokens": [
+      "соус",
+      "truffle",
+      "aioli"
+    ],
+    "normalizedTokens": [
+      "соус",
+      "truffle",
+      "aioli",
+      "180 мл"
+    ],
+    "params": {
+      "volume": "180 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Truffle Chef кетчуп Truffle Ketchup 210 мл",
+    "cleanTokens": [
+      "кетчуп",
+      "truffle",
+      "ketchup"
+    ],
+    "normalizedTokens": [
+      "кетчуп",
+      "truffle",
+      "ketchup",
+      "210 мл"
+    ],
+    "params": {
+      "volume": "210 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "San Bonsai заправка для моркови по-корейски 60 г",
+    "cleanTokens": [
+      "заправка",
+      "для",
+      "моркови",
+      "по-корейски"
+    ],
+    "normalizedTokens": [
+      "заправка",
+      "для",
+      "моркови",
+      "по-корейски",
+      "60 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "60 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Bowl & Basket заправка Creamy Caesar 473 мл",
+    "cleanTokens": [
+      "заправка",
+      "creamy",
+      "caesar"
+    ],
+    "normalizedTokens": [
+      "заправка",
+      "creamy",
+      "caesar",
+      "473 мл"
+    ],
+    "params": {
+      "volume": "473 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Daesang соус Rich 500 г",
+    "cleanTokens": [
+      "соус",
+      "rich"
+    ],
+    "normalizedTokens": [
+      "соус",
+      "rich",
+      "500 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "500 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Ottogi соус Beef Curry Sauce 200 г",
+    "cleanTokens": [
+      "соус",
+      "beef",
+      "curry",
+      "sauce"
+    ],
+    "normalizedTokens": [
+      "соус",
+      "beef",
+      "curry",
+      "sauce",
+      "200 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "200 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Samyang соус Buldak Original Hot Chicken Flavor Sauce 24 бутылки по 200 г",
+    "cleanTokens": [
+      "соус",
+      "buldak",
+      "original",
+      "hot",
+      "chicken",
+      "flavor",
+      "sauce",
+      "24",
+      "бутылки",
+      "по"
+    ],
+    "normalizedTokens": [
+      "соус",
+      "buldak",
+      "original",
+      "hot",
+      "chicken",
+      "flavor",
+      "sauce",
+      "24",
+      "бутылки",
+      "по",
+      "200 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "200 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "SAJO соус Gochujang 24 шт по 170 г",
+    "cleanTokens": [
+      "соус",
+      "gochujang",
+      "по"
+    ],
+    "normalizedTokens": [
+      "соус",
+      "gochujang",
+      "24 шт",
+      "по",
+      "170 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "170 г",
+      "count": "24 шт",
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Real Thai соус для креветок и мидий 315 г",
+    "cleanTokens": [
+      "соус",
+      "для",
+      "креветок",
+      "и",
+      "мидий"
+    ],
+    "normalizedTokens": [
+      "соус",
+      "для",
+      "креветок",
+      "и",
+      "мидий",
+      "315 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "315 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Guerzoni соус яблочный глазированный бальзамик 250 мл",
+    "cleanTokens": [
+      "соус",
+      "яблочный",
+      "глазированный",
+      "бальзамик"
+    ],
+    "normalizedTokens": [
+      "соус",
+      "яблочный",
+      "глазированный",
+      "бальзамик",
+      "250 мл"
+    ],
+    "params": {
+      "volume": "250 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Bowl & Basket соус Creamy French Dressing 473 мл",
+    "cleanTokens": [
+      "соус",
+      "creamy",
+      "french",
+      "dressing"
+    ],
+    "normalizedTokens": [
+      "соус",
+      "creamy",
+      "french",
+      "dressing",
+      "473 мл"
+    ],
+    "params": {
+      "volume": "473 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  }
+]

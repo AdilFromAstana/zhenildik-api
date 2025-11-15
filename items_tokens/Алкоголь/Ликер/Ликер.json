@@ -1,0 +1,2944 @@
+[
+  {
+    "original": "Ликер BAILEYS крем-ликер 15.7% 0.5 л",
+    "cleanTokens": [
+      "крем-ликер"
+    ],
+    "normalizedTokens": [
+      "крем-ликер",
+      "15.7%",
+      "0.5 л"
+    ],
+    "params": {
+      "volume": "0.5 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "15.7%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Ликер Sheridans 15.5% 0.5 л",
+    "cleanTokens": [],
+    "normalizedTokens": [
+      "15.5%",
+      "0.5 л"
+    ],
+    "params": {
+      "volume": "0.5 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "15.5%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Ликер Bols Amaretto 24% 0.7 л",
+    "cleanTokens": [
+      "amaretto"
+    ],
+    "normalizedTokens": [
+      "amaretto",
+      "24%",
+      "0.7 л"
+    ],
+    "params": {
+      "volume": "0.7 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "24%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Ликер Campari Bitter 25% 0.5 л",
+    "cleanTokens": [
+      "bitter"
+    ],
+    "normalizedTokens": [
+      "bitter",
+      "25%",
+      "0.5 л"
+    ],
+    "params": {
+      "volume": "0.5 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "25%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Ликер Kahlua десертный 16% 0.7 л",
+    "cleanTokens": [
+      "десертный"
+    ],
+    "normalizedTokens": [
+      "десертный",
+      "16%",
+      "0.7 л"
+    ],
+    "params": {
+      "volume": "0.7 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "16%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Ликер COINTREAU 1849 40% 1 л",
+    "cleanTokens": [
+      "1849"
+    ],
+    "normalizedTokens": [
+      "1849",
+      "40%",
+      "1 л"
+    ],
+    "params": {
+      "volume": "1 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "40%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Ликер Boris Jelzin Cherry 16.6% 0.7 л",
+    "cleanTokens": [
+      "cherry"
+    ],
+    "normalizedTokens": [
+      "cherry",
+      "16.6%",
+      "0.7 л"
+    ],
+    "params": {
+      "volume": "0.7 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "16.6%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Ликер De Kuyper крем 14.5% 0.7 л",
+    "cleanTokens": [
+      "крем"
+    ],
+    "normalizedTokens": [
+      "крем",
+      "14.5%",
+      "0.7 л"
+    ],
+    "params": {
+      "volume": "0.7 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "14.5%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Ликер Xuxu десертный 15% 0.7 л",
+    "cleanTokens": [
+      "десертный"
+    ],
+    "normalizedTokens": [
+      "десертный",
+      "15%",
+      "0.7 л"
+    ],
+    "params": {
+      "volume": "0.7 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "15%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Ликер Angostura десертный апельсин, специи, травы 28% 0.1 л",
+    "cleanTokens": [
+      "десертный",
+      "апельсин",
+      "специи",
+      "травы"
+    ],
+    "normalizedTokens": [
+      "десертный",
+      "апельсин",
+      "специи",
+      "травы",
+      "28%",
+      "0.1 л"
+    ],
+    "params": {
+      "volume": "0.1 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "28%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Ликер Riga Black Balsam крем-ликер 45% 0.5 л",
+    "cleanTokens": [
+      "крем-ликер"
+    ],
+    "normalizedTokens": [
+      "крем-ликер",
+      "45%",
+      "0.5 л"
+    ],
+    "params": {
+      "volume": "0.5 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "45%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Ликер Boris Jelzin Black 16.6% 0.7 л",
+    "cleanTokens": [
+      "black"
+    ],
+    "normalizedTokens": [
+      "black",
+      "16.6%",
+      "0.7 л"
+    ],
+    "params": {
+      "volume": "0.7 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "16.6%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Ликер Bols Lychee 17% 0.7 л",
+    "cleanTokens": [
+      "lychee"
+    ],
+    "normalizedTokens": [
+      "lychee",
+      "17%",
+      "0.7 л"
+    ],
+    "params": {
+      "volume": "0.7 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "17%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Ликер Bottega крем-ликер 15% 0.5 л",
+    "cleanTokens": [
+      "крем-ликер"
+    ],
+    "normalizedTokens": [
+      "крем-ликер",
+      "15%",
+      "0.5 л"
+    ],
+    "params": {
+      "volume": "0.5 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "15%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Ликер Bottega десертный 30% 0.5 л",
+    "cleanTokens": [
+      "десертный"
+    ],
+    "normalizedTokens": [
+      "десертный",
+      "30%",
+      "0.5 л"
+    ],
+    "params": {
+      "volume": "0.5 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "30%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Ликер Bols Peach 17% 0.7 л",
+    "cleanTokens": [
+      "peach"
+    ],
+    "normalizedTokens": [
+      "peach",
+      "17%",
+      "0.7 л"
+    ],
+    "params": {
+      "volume": "0.7 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "17%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Ликер Bols Creme de cassis 17% 0.7 л",
+    "cleanTokens": [
+      "creme",
+      "de",
+      "cassis"
+    ],
+    "normalizedTokens": [
+      "creme",
+      "de",
+      "cassis",
+      "17%",
+      "0.7 л"
+    ],
+    "params": {
+      "volume": "0.7 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "17%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Ликер Bols Red Orange 17% 0.7 л",
+    "cleanTokens": [
+      "red",
+      "orange"
+    ],
+    "normalizedTokens": [
+      "red",
+      "orange",
+      "17%",
+      "0.7 л"
+    ],
+    "params": {
+      "volume": "0.7 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "17%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Ликер Bols Passion Fruit десертный травы 17% 0.7 л",
+    "cleanTokens": [
+      "passion",
+      "fruit",
+      "десертный",
+      "травы"
+    ],
+    "normalizedTokens": [
+      "passion",
+      "fruit",
+      "десертный",
+      "травы",
+      "17%",
+      "0.7 л"
+    ],
+    "params": {
+      "volume": "0.7 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "17%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Ликер De Kuyper Elderflower десертный 20% 0.7 л",
+    "cleanTokens": [
+      "elderflower",
+      "десертный"
+    ],
+    "normalizedTokens": [
+      "elderflower",
+      "десертный",
+      "20%",
+      "0.7 л"
+    ],
+    "params": {
+      "volume": "0.7 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "20%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Ликер Boris Jelzin Apple 16.6% 0.7 л",
+    "cleanTokens": [
+      "apple"
+    ],
+    "normalizedTokens": [
+      "apple",
+      "16.6%",
+      "0.7 л"
+    ],
+    "params": {
+      "volume": "0.7 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "16.6%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Ликер De Kuyper Strawberry 15% 0.7 л",
+    "cleanTokens": [
+      "strawberry"
+    ],
+    "normalizedTokens": [
+      "strawberry",
+      "15%",
+      "0.7 л"
+    ],
+    "params": {
+      "volume": "0.7 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "15%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Ликер Bols Maraschino десертный 24% 0.7 л",
+    "cleanTokens": [
+      "maraschino",
+      "десертный"
+    ],
+    "normalizedTokens": [
+      "maraschino",
+      "десертный",
+      "24%",
+      "0.7 л"
+    ],
+    "params": {
+      "volume": "0.7 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "24%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Ликер Vecchio Amaro Del Capo Caffo Vecchio десертный 35% 0.7 л",
+    "cleanTokens": [
+      "vecchio",
+      "десертный"
+    ],
+    "normalizedTokens": [
+      "vecchio",
+      "десертный",
+      "35%",
+      "0.7 л"
+    ],
+    "params": {
+      "volume": "0.7 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "35%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Ликер Cynar Ricetta десертный 16.5% 0.7 л",
+    "cleanTokens": [
+      "ricetta",
+      "десертный"
+    ],
+    "normalizedTokens": [
+      "ricetta",
+      "десертный",
+      "16.5%",
+      "0.7 л"
+    ],
+    "params": {
+      "volume": "0.7 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "16.5%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Ликер De Kuyper Pisang фруктовый 15% 0.7 л",
+    "cleanTokens": [
+      "pisang",
+      "фруктовый"
+    ],
+    "normalizedTokens": [
+      "pisang",
+      "фруктовый",
+      "15%",
+      "0.7 л"
+    ],
+    "params": {
+      "volume": "0.7 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "15%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Ликер Bottega крем-ликер 15% 0.5 л",
+    "cleanTokens": [
+      "крем-ликер"
+    ],
+    "normalizedTokens": [
+      "крем-ликер",
+      "15%",
+      "0.5 л"
+    ],
+    "params": {
+      "volume": "0.5 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "15%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Ликер Jagermeister Culture Orange десертный 35% 0.7 л",
+    "cleanTokens": [
+      "culture",
+      "orange",
+      "десертный"
+    ],
+    "normalizedTokens": [
+      "culture",
+      "orange",
+      "десертный",
+      "35%",
+      "0.7 л"
+    ],
+    "params": {
+      "volume": "0.7 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "35%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Ликер BAILEYS Original 17% 1 л",
+    "cleanTokens": [
+      "original"
+    ],
+    "normalizedTokens": [
+      "original",
+      "17%",
+      "1 л"
+    ],
+    "params": {
+      "volume": "1 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "17%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Ликер Merrys крем-ликер 17% 0.7 л",
+    "cleanTokens": [
+      "крем-ликер"
+    ],
+    "normalizedTokens": [
+      "крем-ликер",
+      "17%",
+      "0.7 л"
+    ],
+    "params": {
+      "volume": "0.7 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "17%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Ликер De Kuyper Grapefruit фруктовый 15% 0.7 л",
+    "cleanTokens": [
+      "grapefruit",
+      "фруктовый"
+    ],
+    "normalizedTokens": [
+      "grapefruit",
+      "фруктовый",
+      "15%",
+      "0.7 л"
+    ],
+    "params": {
+      "volume": "0.7 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "15%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Ликер Bols Cacao White 24% 0.7 л",
+    "cleanTokens": [
+      "cacao",
+      "white"
+    ],
+    "normalizedTokens": [
+      "cacao",
+      "white",
+      "24%",
+      "0.7 л"
+    ],
+    "params": {
+      "volume": "0.7 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "24%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Ликер Bumbu Creme крем-ликер 15% 0.7 л",
+    "cleanTokens": [
+      "creme",
+      "крем-ликер"
+    ],
+    "normalizedTokens": [
+      "creme",
+      "крем-ликер",
+      "15%",
+      "0.7 л"
+    ],
+    "params": {
+      "volume": "0.7 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "15%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Ликер Coquerel фруктовый 17% 0.7 л",
+    "cleanTokens": [
+      "фруктовый"
+    ],
+    "normalizedTokens": [
+      "фруктовый",
+      "17%",
+      "0.7 л"
+    ],
+    "params": {
+      "volume": "0.7 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "17%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Ликер Bols Vanilla десертный 24% 0.7 л",
+    "cleanTokens": [
+      "vanilla",
+      "десертный"
+    ],
+    "normalizedTokens": [
+      "vanilla",
+      "десертный",
+      "24%",
+      "0.7 л"
+    ],
+    "params": {
+      "volume": "0.7 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "24%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Ликер Bols Strawberry 17% 0.7 л",
+    "cleanTokens": [
+      "strawberry"
+    ],
+    "normalizedTokens": [
+      "strawberry",
+      "17%",
+      "0.7 л"
+    ],
+    "params": {
+      "volume": "0.7 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "17%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Ликер De Kuyper Coconut Liqueur 20% 0.7 л",
+    "cleanTokens": [
+      "coconut",
+      "liqueur"
+    ],
+    "normalizedTokens": [
+      "coconut",
+      "liqueur",
+      "20%",
+      "0.7 л"
+    ],
+    "params": {
+      "volume": "0.7 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "20%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Ликер De Kuyper Creme de Cacao 24% 0.7 л",
+    "cleanTokens": [
+      "creme",
+      "de",
+      "cacao"
+    ],
+    "normalizedTokens": [
+      "creme",
+      "de",
+      "cacao",
+      "24%",
+      "0.7 л"
+    ],
+    "params": {
+      "volume": "0.7 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "24%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Ликер De Kuyper Passionfruit фруктовый 20% 0.7 л",
+    "cleanTokens": [
+      "passionfruit",
+      "фруктовый"
+    ],
+    "normalizedTokens": [
+      "passionfruit",
+      "фруктовый",
+      "20%",
+      "0.7 л"
+    ],
+    "params": {
+      "volume": "0.7 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "20%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Ликер Wenneker Cherry Brandy ягодный 20% 0.7 л",
+    "cleanTokens": [
+      "cherry",
+      "brandy",
+      "ягодный"
+    ],
+    "normalizedTokens": [
+      "cherry",
+      "brandy",
+      "ягодный",
+      "20%",
+      "0.7 л"
+    ],
+    "params": {
+      "volume": "0.7 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "20%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Ликер Bottega крем-ликер 15% 0.5 л",
+    "cleanTokens": [
+      "крем-ликер"
+    ],
+    "normalizedTokens": [
+      "крем-ликер",
+      "15%",
+      "0.5 л"
+    ],
+    "params": {
+      "volume": "0.5 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "15%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Ликер Bols Raspberry 17% 0.7 л",
+    "cleanTokens": [
+      "raspberry"
+    ],
+    "normalizedTokens": [
+      "raspberry",
+      "17%",
+      "0.7 л"
+    ],
+    "params": {
+      "volume": "0.7 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "17%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Ликер Silvio Carta Aspide Aperitivo Spritz десертный 11% 1 л",
+    "cleanTokens": [
+      "aspide",
+      "aperitivo",
+      "spritz",
+      "десертный"
+    ],
+    "normalizedTokens": [
+      "aspide",
+      "aperitivo",
+      "spritz",
+      "десертный",
+      "11%",
+      "1 л"
+    ],
+    "params": {
+      "volume": "1 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "11%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Ликер Bepi Tosolini Fragola ягодный 24% 0.7 л",
+    "cleanTokens": [
+      "fragola",
+      "ягодный"
+    ],
+    "normalizedTokens": [
+      "fragola",
+      "ягодный",
+      "24%",
+      "0.7 л"
+    ],
+    "params": {
+      "volume": "0.7 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "24%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Ликер De Kuyper Watermelon десертный 15% 0.75 л",
+    "cleanTokens": [
+      "watermelon",
+      "десертный"
+    ],
+    "normalizedTokens": [
+      "watermelon",
+      "десертный",
+      "15%",
+      "0.75 л"
+    ],
+    "params": {
+      "volume": "0.75 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "15%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Ликер Frescobaldi Luce Gold фруктовый 40% 0.5 л",
+    "cleanTokens": [
+      "luce",
+      "gold",
+      "фруктовый"
+    ],
+    "normalizedTokens": [
+      "luce",
+      "gold",
+      "фруктовый",
+      "40%",
+      "0.5 л"
+    ],
+    "params": {
+      "volume": "0.5 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "40%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Ликер Wenneker Vanilla десертный 15% 0.7 л",
+    "cleanTokens": [
+      "vanilla",
+      "десертный"
+    ],
+    "normalizedTokens": [
+      "vanilla",
+      "десертный",
+      "15%",
+      "0.7 л"
+    ],
+    "params": {
+      "volume": "0.7 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "15%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Ликер Bols Sour Apple 17% 0.7 л",
+    "cleanTokens": [
+      "sour",
+      "apple"
+    ],
+    "normalizedTokens": [
+      "sour",
+      "apple",
+      "17%",
+      "0.7 л"
+    ],
+    "params": {
+      "volume": "0.7 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "17%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Ликер De Kuyper Creme de Cassis 15% 0.7 л",
+    "cleanTokens": [
+      "creme",
+      "de",
+      "cassis"
+    ],
+    "normalizedTokens": [
+      "creme",
+      "de",
+      "cassis",
+      "15%",
+      "0.7 л"
+    ],
+    "params": {
+      "volume": "0.7 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "15%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Ликер Wenneker Peach фруктовый 20% 0.7 л",
+    "cleanTokens": [
+      "peach",
+      "фруктовый"
+    ],
+    "normalizedTokens": [
+      "peach",
+      "фруктовый",
+      "20%",
+      "0.7 л"
+    ],
+    "params": {
+      "volume": "0.7 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "20%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Ликер Wenneker Triple Sec десертный 40% 0.75 л",
+    "cleanTokens": [
+      "triple",
+      "sec",
+      "десертный"
+    ],
+    "normalizedTokens": [
+      "triple",
+      "sec",
+      "десертный",
+      "40%",
+      "0.75 л"
+    ],
+    "params": {
+      "volume": "0.75 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "40%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Ликер Wenneker Strawberry ягодный 15% 0.7 л",
+    "cleanTokens": [
+      "strawberry",
+      "ягодный"
+    ],
+    "normalizedTokens": [
+      "strawberry",
+      "ягодный",
+      "15%",
+      "0.7 л"
+    ],
+    "params": {
+      "volume": "0.7 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "15%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Ликер Braulio десертный 21% 0.75 л",
+    "cleanTokens": [
+      "десертный"
+    ],
+    "normalizedTokens": [
+      "десертный",
+      "21%",
+      "0.75 л"
+    ],
+    "params": {
+      "volume": "0.75 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "21%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Ликер Limonce крем-ликер 25% 1 л",
+    "cleanTokens": [
+      "крем-ликер"
+    ],
+    "normalizedTokens": [
+      "крем-ликер",
+      "25%",
+      "1 л"
+    ],
+    "params": {
+      "volume": "1 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "25%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Ликер Bols Elderflower 17% 0.7 л",
+    "cleanTokens": [
+      "elderflower"
+    ],
+    "normalizedTokens": [
+      "elderflower",
+      "17%",
+      "0.7 л"
+    ],
+    "params": {
+      "volume": "0.7 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "17%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Ликер Lignell&Piispanen ягодный 25% 0.5 л",
+    "cleanTokens": [
+      "ягодный"
+    ],
+    "normalizedTokens": [
+      "ягодный",
+      "25%",
+      "0.5 л"
+    ],
+    "params": {
+      "volume": "0.5 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "25%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Ликер De Kuyper Creme de Bananes 15% 0.7 л",
+    "cleanTokens": [
+      "creme",
+      "de",
+      "bananes"
+    ],
+    "normalizedTokens": [
+      "creme",
+      "de",
+      "bananes",
+      "15%",
+      "0.7 л"
+    ],
+    "params": {
+      "volume": "0.7 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "15%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Ликер Frescobaldi CastelGiocondo фруктовый 45% 0.7 л",
+    "cleanTokens": [
+      "castelgiocondo",
+      "фруктовый"
+    ],
+    "normalizedTokens": [
+      "castelgiocondo",
+      "фруктовый",
+      "45%",
+      "0.7 л"
+    ],
+    "params": {
+      "volume": "0.7 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "45%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Ликер Wenneker Creme de Cassis крем-ликер 15% 0.75 л",
+    "cleanTokens": [
+      "creme",
+      "de",
+      "cassis",
+      "крем-ликер"
+    ],
+    "normalizedTokens": [
+      "creme",
+      "de",
+      "cassis",
+      "крем-ликер",
+      "15%",
+      "0.75 л"
+    ],
+    "params": {
+      "volume": "0.75 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "15%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Ликер Averna десертный 29% 0.7 л",
+    "cleanTokens": [
+      "десертный"
+    ],
+    "normalizedTokens": [
+      "десертный",
+      "29%",
+      "0.7 л"
+    ],
+    "params": {
+      "volume": "0.7 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "29%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Ликер Azanza Pacharan десертный 25% 1 л",
+    "cleanTokens": [
+      "pacharan",
+      "десертный"
+    ],
+    "normalizedTokens": [
+      "pacharan",
+      "десертный",
+      "25%",
+      "1 л"
+    ],
+    "params": {
+      "volume": "1 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "25%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Ликер Pisoni Limoncello Liquore Antiche Tradizioni фруктовый 30% 700 мл",
+    "cleanTokens": [
+      "limoncello",
+      "liquore",
+      "antiche",
+      "tradizioni",
+      "фруктовый"
+    ],
+    "normalizedTokens": [
+      "limoncello",
+      "liquore",
+      "antiche",
+      "tradizioni",
+      "фруктовый",
+      "30%",
+      "700 мл"
+    ],
+    "params": {
+      "volume": "700 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "30%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Ликер Pazo de Senorans Aquardiente De Hierbas фруктовый 37.5% 0.5 л",
+    "cleanTokens": [
+      "aquardiente",
+      "de",
+      "hierbas",
+      "фруктовый"
+    ],
+    "normalizedTokens": [
+      "aquardiente",
+      "de",
+      "hierbas",
+      "фруктовый",
+      "37.5%",
+      "0.5 л"
+    ],
+    "params": {
+      "volume": "0.5 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "37.5%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Ликер De Kuyper Pineapple фруктовый 15% 0.7 л",
+    "cleanTokens": [
+      "pineapple",
+      "фруктовый"
+    ],
+    "normalizedTokens": [
+      "pineapple",
+      "фруктовый",
+      "15%",
+      "0.7 л"
+    ],
+    "params": {
+      "volume": "0.7 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "15%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Ликер De Kuyper Advocaat ваниль, сливки 14.8% 0.7 л",
+    "cleanTokens": [
+      "advocaat",
+      "ваниль",
+      "сливки"
+    ],
+    "normalizedTokens": [
+      "advocaat",
+      "ваниль",
+      "сливки",
+      "14.8%",
+      "0.7 л"
+    ],
+    "params": {
+      "volume": "0.7 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "14.8%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Ликер Fratelli Branca Distillerie десертный 40% 0.7 л",
+    "cleanTokens": [
+      "десертный"
+    ],
+    "normalizedTokens": [
+      "десертный",
+      "40%",
+      "0.7 л"
+    ],
+    "params": {
+      "volume": "0.7 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "40%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Ликер Wenneker Amaretto десертный 28% 0.7 л",
+    "cleanTokens": [
+      "amaretto",
+      "десертный"
+    ],
+    "normalizedTokens": [
+      "amaretto",
+      "десертный",
+      "28%",
+      "0.7 л"
+    ],
+    "params": {
+      "volume": "0.7 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "28%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Ликер Bols Creme de banana десертный 17% 0.7 л",
+    "cleanTokens": [
+      "creme",
+      "de",
+      "banana",
+      "десертный"
+    ],
+    "normalizedTokens": [
+      "creme",
+      "de",
+      "banana",
+      "десертный",
+      "17%",
+      "0.7 л"
+    ],
+    "params": {
+      "volume": "0.7 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "17%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Ликер Boris Jelzin Cranberry ягодный 15% 0.7 л",
+    "cleanTokens": [
+      "cranberry",
+      "ягодный"
+    ],
+    "normalizedTokens": [
+      "cranberry",
+      "ягодный",
+      "15%",
+      "0.7 л"
+    ],
+    "params": {
+      "volume": "0.7 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "15%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Ликер Fratelli Branca Distillerie десертный 40% 1 л",
+    "cleanTokens": [
+      "десертный"
+    ],
+    "normalizedTokens": [
+      "десертный",
+      "40%",
+      "1 л"
+    ],
+    "params": {
+      "volume": "1 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "40%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Ликер Caffo фруктовый 40% 0.75 л",
+    "cleanTokens": [
+      "фруктовый"
+    ],
+    "normalizedTokens": [
+      "фруктовый",
+      "40%",
+      "0.75 л"
+    ],
+    "params": {
+      "volume": "0.75 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "40%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Ликер De Kuyper Blueberry ягодный 15% 0.7 л",
+    "cleanTokens": [
+      "blueberry",
+      "ягодный"
+    ],
+    "normalizedTokens": [
+      "blueberry",
+      "ягодный",
+      "15%",
+      "0.7 л"
+    ],
+    "params": {
+      "volume": "0.7 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "15%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Ликер De Kuyper Creme de Cafe кофе 24% 0.7 л",
+    "cleanTokens": [
+      "creme",
+      "de",
+      "cafe",
+      "кофе"
+    ],
+    "normalizedTokens": [
+      "creme",
+      "de",
+      "cafe",
+      "кофе",
+      "24%",
+      "0.7 л"
+    ],
+    "params": {
+      "volume": "0.7 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "24%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Ликер Зимняя деревенька Графиня Вишня десертный 19% 0.5 л",
+    "cleanTokens": [
+      "графиня",
+      "вишня",
+      "десертный"
+    ],
+    "normalizedTokens": [
+      "графиня",
+      "вишня",
+      "десертный",
+      "19%",
+      "0.5 л"
+    ],
+    "params": {
+      "volume": "0.5 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "19%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Ликер De Kuyper Kwai Feh Lychee фруктовый 20% 0.7 л",
+    "cleanTokens": [
+      "kwai",
+      "feh",
+      "lychee",
+      "фруктовый"
+    ],
+    "normalizedTokens": [
+      "kwai",
+      "feh",
+      "lychee",
+      "фруктовый",
+      "20%",
+      "0.7 л"
+    ],
+    "params": {
+      "volume": "0.7 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "20%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Ликер De Kuyper Mandarine Napoleon фруктовый 38% 0.7 л",
+    "cleanTokens": [
+      "mandarine",
+      "napoleon",
+      "фруктовый"
+    ],
+    "normalizedTokens": [
+      "mandarine",
+      "napoleon",
+      "фруктовый",
+      "38%",
+      "0.7 л"
+    ],
+    "params": {
+      "volume": "0.7 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "38%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Ликер De Kuyper Creme de Menthe 24% 0.7 л",
+    "cleanTokens": [
+      "creme",
+      "de",
+      "menthe"
+    ],
+    "normalizedTokens": [
+      "creme",
+      "de",
+      "menthe",
+      "24%",
+      "0.7 л"
+    ],
+    "params": {
+      "volume": "0.7 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "24%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Ликер Fratelli Branca Distillerie крем-ликер 28% 1 л",
+    "cleanTokens": [
+      "крем-ликер"
+    ],
+    "normalizedTokens": [
+      "крем-ликер",
+      "28%",
+      "1 л"
+    ],
+    "params": {
+      "volume": "1 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "28%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Ликер De Kuyper фруктовый 15% 0.7 л",
+    "cleanTokens": [
+      "фруктовый"
+    ],
+    "normalizedTokens": [
+      "фруктовый",
+      "15%",
+      "0.7 л"
+    ],
+    "params": {
+      "volume": "0.7 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "15%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Ликер Le Favori Le Favori Triple Sec фруктовый 40% 0.7 л",
+    "cleanTokens": [
+      "triple",
+      "sec",
+      "фруктовый"
+    ],
+    "normalizedTokens": [
+      "triple",
+      "sec",
+      "фруктовый",
+      "40%",
+      "0.7 л"
+    ],
+    "params": {
+      "volume": "0.7 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "40%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Ликер Wenneker Blue Curacao десертный 24% 0.7 л",
+    "cleanTokens": [
+      "blue",
+      "curacao",
+      "десертный"
+    ],
+    "normalizedTokens": [
+      "blue",
+      "curacao",
+      "десертный",
+      "24%",
+      "0.7 л"
+    ],
+    "params": {
+      "volume": "0.7 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "24%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Ликер NEMIROFF Cranberry ягодный 25% 0.5 л",
+    "cleanTokens": [
+      "cranberry",
+      "ягодный"
+    ],
+    "normalizedTokens": [
+      "cranberry",
+      "ягодный",
+      "25%",
+      "0.5 л"
+    ],
+    "params": {
+      "volume": "0.5 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "25%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Ликер Caffo Limoncino фруктовый 30% 0.7 л",
+    "cleanTokens": [
+      "limoncino",
+      "фруктовый"
+    ],
+    "normalizedTokens": [
+      "limoncino",
+      "фруктовый",
+      "30%",
+      "0.7 л"
+    ],
+    "params": {
+      "volume": "0.7 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "30%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Ликер De Kuyper Bitterscotch десертный 15% 0.7 л",
+    "cleanTokens": [
+      "bitterscotch",
+      "десертный"
+    ],
+    "normalizedTokens": [
+      "bitterscotch",
+      "десертный",
+      "15%",
+      "0.7 л"
+    ],
+    "params": {
+      "volume": "0.7 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "15%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Ликер Wenneker Apricot Brandy фруктовый 20% 0.7 л",
+    "cleanTokens": [
+      "apricot",
+      "brandy",
+      "фруктовый"
+    ],
+    "normalizedTokens": [
+      "apricot",
+      "brandy",
+      "фруктовый",
+      "20%",
+      "0.7 л"
+    ],
+    "params": {
+      "volume": "0.7 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "20%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Ликер Bepi Tosolini Saliza десертный 28% 0.7 л",
+    "cleanTokens": [
+      "saliza",
+      "десертный"
+    ],
+    "normalizedTokens": [
+      "saliza",
+      "десертный",
+      "28%",
+      "0.7 л"
+    ],
+    "params": {
+      "volume": "0.7 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "28%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Ликер Ancho Reyes Verde десертный 40% 0.7 л",
+    "cleanTokens": [
+      "verde",
+      "десертный"
+    ],
+    "normalizedTokens": [
+      "verde",
+      "десертный",
+      "40%",
+      "0.7 л"
+    ],
+    "params": {
+      "volume": "0.7 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "40%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Ликер Bottega крем-ликер 15% 0.5 л",
+    "cleanTokens": [
+      "крем-ликер"
+    ],
+    "normalizedTokens": [
+      "крем-ликер",
+      "15%",
+      "0.5 л"
+    ],
+    "params": {
+      "volume": "0.5 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "15%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Ликер Bols Blueberry десертный черника 17% 0.7 л",
+    "cleanTokens": [
+      "blueberry",
+      "десертный",
+      "черника"
+    ],
+    "normalizedTokens": [
+      "blueberry",
+      "десертный",
+      "черника",
+      "17%",
+      "0.7 л"
+    ],
+    "params": {
+      "volume": "0.7 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "17%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Ликер De Kuyper ягодный 15% 0.7 л",
+    "cleanTokens": [
+      "ягодный"
+    ],
+    "normalizedTokens": [
+      "ягодный",
+      "15%",
+      "0.7 л"
+    ],
+    "params": {
+      "volume": "0.7 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "15%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Ликер Wenneker Sour Apple десертный 15% 0.7 л",
+    "cleanTokens": [
+      "sour",
+      "apple",
+      "десертный"
+    ],
+    "normalizedTokens": [
+      "sour",
+      "apple",
+      "десертный",
+      "15%",
+      "0.7 л"
+    ],
+    "params": {
+      "volume": "0.7 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "15%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Ликер Ancho Reyes Original десертный 40% 0.7 л",
+    "cleanTokens": [
+      "original",
+      "десертный"
+    ],
+    "normalizedTokens": [
+      "original",
+      "десертный",
+      "40%",
+      "0.7 л"
+    ],
+    "params": {
+      "volume": "0.7 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "40%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Ликер De Kuyper Mango фруктовый 15% 0.7 л",
+    "cleanTokens": [
+      "mango",
+      "фруктовый"
+    ],
+    "normalizedTokens": [
+      "mango",
+      "фруктовый",
+      "15%",
+      "0.7 л"
+    ],
+    "params": {
+      "volume": "0.7 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "15%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Ликер Drambuie 40% 0.7 л",
+    "cleanTokens": [],
+    "normalizedTokens": [
+      "40%",
+      "0.7 л"
+    ],
+    "params": {
+      "volume": "0.7 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "40%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Ликер Bols Melon 17% 0.7 л",
+    "cleanTokens": [
+      "melon"
+    ],
+    "normalizedTokens": [
+      "melon",
+      "17%",
+      "0.7 л"
+    ],
+    "params": {
+      "volume": "0.7 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "17%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Ликер De Kuyper Melon 15% 0.7 л",
+    "cleanTokens": [
+      "melon"
+    ],
+    "normalizedTokens": [
+      "melon",
+      "15%",
+      "0.7 л"
+    ],
+    "params": {
+      "volume": "0.7 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "15%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Ликер Bols Cherry brandy 24% 0.7 л",
+    "cleanTokens": [
+      "cherry",
+      "brandy"
+    ],
+    "normalizedTokens": [
+      "cherry",
+      "brandy",
+      "24%",
+      "0.7 л"
+    ],
+    "params": {
+      "volume": "0.7 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "24%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Ликер Bols Mango 17% 0.7 л",
+    "cleanTokens": [
+      "mango"
+    ],
+    "normalizedTokens": [
+      "mango",
+      "17%",
+      "0.7 л"
+    ],
+    "params": {
+      "volume": "0.7 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "17%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Ликер Bols Natural yoghurt 15% 0.7 л",
+    "cleanTokens": [
+      "natural",
+      "yoghurt"
+    ],
+    "normalizedTokens": [
+      "natural",
+      "yoghurt",
+      "15%",
+      "0.7 л"
+    ],
+    "params": {
+      "volume": "0.7 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "15%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Ликер Villa Massa Limoncello 30% 0.7 л",
+    "cleanTokens": [
+      "limoncello"
+    ],
+    "normalizedTokens": [
+      "limoncello",
+      "30%",
+      "0.7 л"
+    ],
+    "params": {
+      "volume": "0.7 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "30%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Ликер Онегин Gourmet грейпфрут, миндаль и лайм ягодный, десертный 20% 0.5 л",
+    "cleanTokens": [
+      "gourmet",
+      "грейпфрут",
+      "миндаль",
+      "и",
+      "лайм",
+      "ягодный",
+      "десертный"
+    ],
+    "normalizedTokens": [
+      "gourmet",
+      "грейпфрут",
+      "миндаль",
+      "и",
+      "лайм",
+      "ягодный",
+      "десертный",
+      "20%",
+      "0.5 л"
+    ],
+    "params": {
+      "volume": "0.5 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "20%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Ликер Bols Blue 21% 0.7 л",
+    "cleanTokens": [
+      "blue"
+    ],
+    "normalizedTokens": [
+      "blue",
+      "21%",
+      "0.7 л"
+    ],
+    "params": {
+      "volume": "0.7 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "21%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Ликер Boris Jelzin Strawberry 16.6% 0.7 л",
+    "cleanTokens": [
+      "strawberry"
+    ],
+    "normalizedTokens": [
+      "strawberry",
+      "16.6%",
+      "0.7 л"
+    ],
+    "params": {
+      "volume": "0.7 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "16.6%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Ликер Campari Bitter 25% 1 л",
+    "cleanTokens": [
+      "bitter"
+    ],
+    "normalizedTokens": [
+      "bitter",
+      "25%",
+      "1 л"
+    ],
+    "params": {
+      "volume": "1 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "25%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Ликер Jim Beam фруктовый 32.5% 0.7 л",
+    "cleanTokens": [
+      "фруктовый"
+    ],
+    "normalizedTokens": [
+      "фруктовый",
+      "32.5%",
+      "0.7 л"
+    ],
+    "params": {
+      "volume": "0.7 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "32.5%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Ликер De Kuyper Curacao Blue 20% 0.7 л",
+    "cleanTokens": [
+      "curacao",
+      "blue"
+    ],
+    "normalizedTokens": [
+      "curacao",
+      "blue",
+      "20%",
+      "0.7 л"
+    ],
+    "params": {
+      "volume": "0.7 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "20%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Ликер De Kuyper Amaretto 30% 0.7 л",
+    "cleanTokens": [
+      "amaretto"
+    ],
+    "normalizedTokens": [
+      "amaretto",
+      "30%",
+      "0.7 л"
+    ],
+    "params": {
+      "volume": "0.7 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "30%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Ликер Wild Turkey American Honey десертный 35.5% 0.7 л",
+    "cleanTokens": [
+      "american",
+      "honey",
+      "десертный"
+    ],
+    "normalizedTokens": [
+      "american",
+      "honey",
+      "десертный",
+      "35.5%",
+      "0.7 л"
+    ],
+    "params": {
+      "volume": "0.7 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "35.5%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Ликер Riga Black Balsam десертный 45% 0.5 л",
+    "cleanTokens": [
+      "десертный"
+    ],
+    "normalizedTokens": [
+      "десертный",
+      "45%",
+      "0.5 л"
+    ],
+    "params": {
+      "volume": "0.5 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "45%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Ликер Онегин Gourmet десертный черноплодная рябина, кедровый орех и бузина 20% 0.5 л",
+    "cleanTokens": [
+      "gourmet",
+      "десертный",
+      "черноплодная",
+      "рябина",
+      "кедровый",
+      "орех",
+      "и",
+      "бузина"
+    ],
+    "normalizedTokens": [
+      "gourmet",
+      "десертный",
+      "черноплодная",
+      "рябина",
+      "кедровый",
+      "орех",
+      "и",
+      "бузина",
+      "20%",
+      "0.5 л"
+    ],
+    "params": {
+      "volume": "0.5 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "20%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Ликер Angostura десертный специи, травы, корица 44.7% 0.2 л",
+    "cleanTokens": [
+      "десертный",
+      "специи",
+      "травы",
+      "корица"
+    ],
+    "normalizedTokens": [
+      "десертный",
+      "специи",
+      "травы",
+      "корица",
+      "44.7%",
+      "0.2 л"
+    ],
+    "params": {
+      "volume": "0.2 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "44.7%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Ликер Bumbu крем-ликер 15% 0.7 л",
+    "cleanTokens": [
+      "крем-ликер"
+    ],
+    "normalizedTokens": [
+      "крем-ликер",
+      "15%",
+      "0.7 л"
+    ],
+    "params": {
+      "volume": "0.7 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "15%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Ликер Онегин Gourmet Черная cмородина десертный 20% 0.5 л",
+    "cleanTokens": [
+      "gourmet",
+      "черная",
+      "cмородина",
+      "десертный"
+    ],
+    "normalizedTokens": [
+      "gourmet",
+      "черная",
+      "cмородина",
+      "десертный",
+      "20%",
+      "0.5 л"
+    ],
+    "params": {
+      "volume": "0.5 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "20%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Ликер Frangelico десертный 20% 0.7 л",
+    "cleanTokens": [
+      "десертный"
+    ],
+    "normalizedTokens": [
+      "десертный",
+      "20%",
+      "0.7 л"
+    ],
+    "params": {
+      "volume": "0.7 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "20%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Ликер Choya Silver White фруктовый 10% 0.5 л",
+    "cleanTokens": [
+      "silver",
+      "white",
+      "фруктовый"
+    ],
+    "normalizedTokens": [
+      "silver",
+      "white",
+      "фруктовый",
+      "10%",
+      "0.5 л"
+    ],
+    "params": {
+      "volume": "0.5 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "10%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Ликер Riga Black Balsam Black Currant крем-ликер 30% 0.5 л",
+    "cleanTokens": [
+      "black",
+      "currant",
+      "крем-ликер"
+    ],
+    "normalizedTokens": [
+      "black",
+      "currant",
+      "крем-ликер",
+      "30%",
+      "0.5 л"
+    ],
+    "params": {
+      "volume": "0.5 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "30%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Ликер Sarti Rosa фруктовый 14% 0.7 л",
+    "cleanTokens": [
+      "rosa",
+      "фруктовый"
+    ],
+    "normalizedTokens": [
+      "rosa",
+      "фруктовый",
+      "14%",
+      "0.7 л"
+    ],
+    "params": {
+      "volume": "0.7 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "14%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Ликер De Kuyper Apricot Brandy десертный 20% 0.7 л",
+    "cleanTokens": [
+      "apricot",
+      "brandy",
+      "десертный"
+    ],
+    "normalizedTokens": [
+      "apricot",
+      "brandy",
+      "десертный",
+      "20%",
+      "0.7 л"
+    ],
+    "params": {
+      "volume": "0.7 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "20%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Ликер Grand Marnier десертный 40% 0.7 л",
+    "cleanTokens": [
+      "десертный"
+    ],
+    "normalizedTokens": [
+      "десертный",
+      "40%",
+      "0.7 л"
+    ],
+    "params": {
+      "volume": "0.7 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "40%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Ликер Bols Coffee 24% 0.7 л",
+    "cleanTokens": [
+      "coffee"
+    ],
+    "normalizedTokens": [
+      "coffee",
+      "24%",
+      "0.7 л"
+    ],
+    "params": {
+      "volume": "0.7 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "24%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Ликер De Kuyper PeachTree 20% 0.7 л",
+    "cleanTokens": [
+      "peachtree"
+    ],
+    "normalizedTokens": [
+      "peachtree",
+      "20%",
+      "0.7 л"
+    ],
+    "params": {
+      "volume": "0.7 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "20%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Ликер Drambuie 40% 1 л",
+    "cleanTokens": [],
+    "normalizedTokens": [
+      "40%",
+      "1 л"
+    ],
+    "params": {
+      "volume": "1 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "40%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Ликер Jagermeister десертный 35% 0.2 л",
+    "cleanTokens": [
+      "десертный"
+    ],
+    "normalizedTokens": [
+      "десертный",
+      "35%",
+      "0.2 л"
+    ],
+    "params": {
+      "volume": "0.2 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "35%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Ликер Jagermeister десертный 35% 0.35 л",
+    "cleanTokens": [
+      "десертный"
+    ],
+    "normalizedTokens": [
+      "десертный",
+      "35%",
+      "0.35 л"
+    ],
+    "params": {
+      "volume": "0.35 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "35%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Ликер Becherovka 38% 0.05 л",
+    "cleanTokens": [],
+    "normalizedTokens": [
+      "38%",
+      "0.05 л"
+    ],
+    "params": {
+      "volume": "0.05 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "38%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Ликер Silvio Carta Limonello фруктовый 28% 0.7 л",
+    "cleanTokens": [
+      "limonello",
+      "фруктовый"
+    ],
+    "normalizedTokens": [
+      "limonello",
+      "фруктовый",
+      "28%",
+      "0.7 л"
+    ],
+    "params": {
+      "volume": "0.7 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "28%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Ликер Jagermeister Limited Design Edition десертный 35% 0.7 л",
+    "cleanTokens": [
+      "limited",
+      "design",
+      "edition",
+      "десертный"
+    ],
+    "normalizedTokens": [
+      "limited",
+      "design",
+      "edition",
+      "десертный",
+      "35%",
+      "0.7 л"
+    ],
+    "params": {
+      "volume": "0.7 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "35%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Ликер Limoncello Di Capri фруктовый 30% 0.7 л",
+    "cleanTokens": [
+      "фруктовый"
+    ],
+    "normalizedTokens": [
+      "фруктовый",
+      "30%",
+      "0.7 л"
+    ],
+    "params": {
+      "volume": "0.7 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "30%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Ликер Bols Coconut десертный ваниль, кокос 17% 0.7 л",
+    "cleanTokens": [
+      "coconut",
+      "десертный",
+      "ваниль",
+      "кокос"
+    ],
+    "normalizedTokens": [
+      "coconut",
+      "десертный",
+      "ваниль",
+      "кокос",
+      "17%",
+      "0.7 л"
+    ],
+    "params": {
+      "volume": "0.7 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "17%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Ликер Caffo десертный 28% 0.5 л",
+    "cleanTokens": [
+      "десертный"
+    ],
+    "normalizedTokens": [
+      "десертный",
+      "28%",
+      "0.5 л"
+    ],
+    "params": {
+      "volume": "0.5 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "28%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Ликер Bols Amaretto десертный 24% 0.7 л",
+    "cleanTokens": [
+      "amaretto",
+      "десертный"
+    ],
+    "normalizedTokens": [
+      "amaretto",
+      "десертный",
+      "24%",
+      "0.7 л"
+    ],
+    "params": {
+      "volume": "0.7 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "24%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Ликер Campari фруктовый 0% 0.175 л",
+    "cleanTokens": [
+      "фруктовый"
+    ],
+    "normalizedTokens": [
+      "фруктовый",
+      "0%",
+      "0.175 л"
+    ],
+    "params": {
+      "volume": "0.175 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "0%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Ликер Bols Advocaat 15% 0.7 л",
+    "cleanTokens": [
+      "advocaat"
+    ],
+    "normalizedTokens": [
+      "advocaat",
+      "15%",
+      "0.7 л"
+    ],
+    "params": {
+      "volume": "0.7 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "15%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Ликер Онегин Gourmet десертный курага, облепиха и физалис 20% 0.5 л",
+    "cleanTokens": [
+      "gourmet",
+      "десертный",
+      "курага",
+      "облепиха",
+      "и",
+      "физалис"
+    ],
+    "normalizedTokens": [
+      "gourmet",
+      "десертный",
+      "курага",
+      "облепиха",
+      "и",
+      "физалис",
+      "20%",
+      "0.5 л"
+    ],
+    "params": {
+      "volume": "0.5 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "20%",
+      "age": null,
+      "stars": null
+    }
+  }
+]

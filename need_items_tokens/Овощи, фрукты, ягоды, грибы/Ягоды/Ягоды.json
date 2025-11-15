@@ -1,0 +1,197 @@
+[
+  {
+    "original": "Pura Vida ежевика Нидерланды 125 г",
+    "cleanTokens": [
+      "ежевика",
+      "нидерланды"
+    ],
+    "normalizedTokens": [
+      "ежевика",
+      "нидерланды",
+      "125 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "125 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Bloed Bessen смородина красная Нидерланды 125 г",
+    "cleanTokens": [
+      "смородина",
+      "красная",
+      "нидерланды"
+    ],
+    "normalizedTokens": [
+      "смородина",
+      "красная",
+      "нидерланды",
+      "125 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "125 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Jidek_kz голубика Перу 125 г",
+    "cleanTokens": [
+      "голубика",
+      "перу"
+    ],
+    "normalizedTokens": [
+      "голубика",
+      "перу",
+      "125 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "125 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Driscoll's клубника Нидерланды 400 г",
+    "cleanTokens": [
+      "клубника",
+      "нидерланды"
+    ],
+    "normalizedTokens": [
+      "клубника",
+      "нидерланды",
+      "400 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "400 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "MAGNUM голубика, ежевика, малина Казахстан 150 г",
+    "cleanTokens": [
+      "голубика",
+      "ежевика",
+      "малина",
+      "казахстан"
+    ],
+    "normalizedTokens": [
+      "голубика",
+      "ежевика",
+      "малина",
+      "казахстан",
+      "150 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "150 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Driscoll's ежевика Испания 125 г",
+    "cleanTokens": [
+      "ежевика",
+      "испания"
+    ],
+    "normalizedTokens": [
+      "ежевика",
+      "испания",
+      "125 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "125 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Jidek_kz виноград Узбекистан 1000 г",
+    "cleanTokens": [
+      "виноград",
+      "узбекистан"
+    ],
+    "normalizedTokens": [
+      "виноград",
+      "узбекистан",
+      "1000 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "1000 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Mangosteen.kz физалис Перу 100 г",
+    "cleanTokens": [
+      "физалис",
+      "перу"
+    ],
+    "normalizedTokens": [
+      "физалис",
+      "перу",
+      "100 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "100 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Driscoll's голубика Португалия 500 г",
+    "cleanTokens": [
+      "голубика",
+      "португалия"
+    ],
+    "normalizedTokens": [
+      "голубика",
+      "португалия",
+      "500 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "500 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  }
+]

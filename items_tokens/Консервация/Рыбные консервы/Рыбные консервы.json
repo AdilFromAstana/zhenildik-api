@@ -1,0 +1,2196 @@
+[
+  {
+    "original": "Рыбное меню шпроты в масле из балтийской кильки 160 г",
+    "cleanTokens": [
+      "шпроты",
+      "в",
+      "масле",
+      "из",
+      "балтийской",
+      "кильки"
+    ],
+    "normalizedTokens": [
+      "шпроты",
+      "в",
+      "масле",
+      "из",
+      "балтийской",
+      "кильки",
+      "160 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "160 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "За Родину паштет из кильки и салаки горячего копчения 170 г",
+    "cleanTokens": [
+      "паштет",
+      "из",
+      "кильки",
+      "и",
+      "салаки",
+      "горячего",
+      "копчения"
+    ],
+    "normalizedTokens": [
+      "паштет",
+      "из",
+      "кильки",
+      "и",
+      "салаки",
+      "горячего",
+      "копчения",
+      "170 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "170 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Доброфлот сельдь тихоокеанская натуральная 245 г",
+    "cleanTokens": [
+      "сельдь",
+      "тихоокеанская",
+      "натуральная"
+    ],
+    "normalizedTokens": [
+      "сельдь",
+      "тихоокеанская",
+      "натуральная",
+      "245 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "245 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Рыбное меню горбуша в масле 250 г",
+    "cleanTokens": [
+      "горбуша",
+      "в",
+      "масле"
+    ],
+    "normalizedTokens": [
+      "горбуша",
+      "в",
+      "масле",
+      "250 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "250 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "\"За Родину\" обжаренная килька балтийская неразделенная в томатном соусе 240 г",
+    "cleanTokens": [
+      "обжаренная",
+      "килька",
+      "балтийская",
+      "неразделенная",
+      "в",
+      "томатном",
+      "соусе"
+    ],
+    "normalizedTokens": [
+      "обжаренная",
+      "килька",
+      "балтийская",
+      "неразделенная",
+      "в",
+      "томатном",
+      "соусе",
+      "240 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "240 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "\"За Родину\" скумбрия в соусе с овощным гарниром в томатном соусе 185 г",
+    "cleanTokens": [
+      "скумбрия",
+      "в",
+      "соусе",
+      "с",
+      "овощным",
+      "гарниром",
+      "в",
+      "томатном",
+      "соусе"
+    ],
+    "normalizedTokens": [
+      "скумбрия",
+      "в",
+      "соусе",
+      "с",
+      "овощным",
+      "гарниром",
+      "в",
+      "томатном",
+      "соусе",
+      "185 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "185 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "КУБЛЕЙ шпроты в масле из балтийской салаки 240 г",
+    "cleanTokens": [
+      "шпроты",
+      "в",
+      "масле",
+      "из",
+      "балтийской",
+      "салаки"
+    ],
+    "normalizedTokens": [
+      "шпроты",
+      "в",
+      "масле",
+      "из",
+      "балтийской",
+      "салаки",
+      "240 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "240 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "КУБЛЕЙ килька балтийская неразделанная в томатном соусе 240 г",
+    "cleanTokens": [
+      "килька",
+      "балтийская",
+      "неразделанная",
+      "в",
+      "томатном",
+      "соусе"
+    ],
+    "normalizedTokens": [
+      "килька",
+      "балтийская",
+      "неразделанная",
+      "в",
+      "томатном",
+      "соусе",
+      "240 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "240 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Доброфлот сельдь тихоокеанская натуральная 245 г",
+    "cleanTokens": [
+      "сельдь",
+      "тихоокеанская",
+      "натуральная"
+    ],
+    "normalizedTokens": [
+      "сельдь",
+      "тихоокеанская",
+      "натуральная",
+      "245 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "245 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "КУБЛЕЙ шпроты в масле 240 г",
+    "cleanTokens": [
+      "шпроты",
+      "в",
+      "масле"
+    ],
+    "normalizedTokens": [
+      "шпроты",
+      "в",
+      "масле",
+      "240 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "240 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Рыбное меню скумбрия атлантическая натуральная с добавлением масла 250 г",
+    "cleanTokens": [
+      "скумбрия",
+      "атлантическая",
+      "натуральная",
+      "с",
+      "добавлением",
+      "масла"
+    ],
+    "normalizedTokens": [
+      "скумбрия",
+      "атлантическая",
+      "натуральная",
+      "с",
+      "добавлением",
+      "масла",
+      "250 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "250 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Морской Риф шпроты из балтийской кильки в масле 160 г",
+    "cleanTokens": [
+      "шпроты",
+      "из",
+      "балтийской",
+      "кильки",
+      "в",
+      "масле"
+    ],
+    "normalizedTokens": [
+      "шпроты",
+      "из",
+      "балтийской",
+      "кильки",
+      "в",
+      "масле",
+      "160 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "160 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Доброфлот сайра тихоокеанская натуральная 245 г",
+    "cleanTokens": [
+      "сайра",
+      "тихоокеанская",
+      "натуральная"
+    ],
+    "normalizedTokens": [
+      "сайра",
+      "тихоокеанская",
+      "натуральная",
+      "245 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "245 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "КУБЛЕЙ сельдь атлантическая натуральная с добавлением масла 240 г",
+    "cleanTokens": [
+      "сельдь",
+      "атлантическая",
+      "натуральная",
+      "с",
+      "добавлением",
+      "масла"
+    ],
+    "normalizedTokens": [
+      "сельдь",
+      "атлантическая",
+      "натуральная",
+      "с",
+      "добавлением",
+      "масла",
+      "240 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "240 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "КУБЛЕЙ сардина бланшированная в масле 240 г",
+    "cleanTokens": [
+      "сардина",
+      "бланшированная",
+      "в",
+      "масле"
+    ],
+    "normalizedTokens": [
+      "сардина",
+      "бланшированная",
+      "в",
+      "масле",
+      "240 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "240 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Рыбное меню килька балтийская копченая в томатном соусе 175 г",
+    "cleanTokens": [
+      "килька",
+      "балтийская",
+      "копченая",
+      "в",
+      "томатном",
+      "соусе"
+    ],
+    "normalizedTokens": [
+      "килька",
+      "балтийская",
+      "копченая",
+      "в",
+      "томатном",
+      "соусе",
+      "175 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "175 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "AC салат из морской капусты Курильский 380 г",
+    "cleanTokens": [
+      "салат",
+      "из",
+      "морской",
+      "капусты",
+      "курильский"
+    ],
+    "normalizedTokens": [
+      "салат",
+      "из",
+      "морской",
+      "капусты",
+      "курильский",
+      "380 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "380 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "\"За Родину\" килька балтийская неразделанная в томатном соусе 240 г",
+    "cleanTokens": [
+      "килька",
+      "балтийская",
+      "неразделанная",
+      "в",
+      "томатном",
+      "соусе"
+    ],
+    "normalizedTokens": [
+      "килька",
+      "балтийская",
+      "неразделанная",
+      "в",
+      "томатном",
+      "соусе",
+      "240 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "240 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Рыбное меню шпроты в масле 175 г",
+    "cleanTokens": [
+      "шпроты",
+      "в",
+      "масле"
+    ],
+    "normalizedTokens": [
+      "шпроты",
+      "в",
+      "масле",
+      "175 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "175 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Рыбное меню скумбрия атлантическая филе с добавлением масла 175 г",
+    "cleanTokens": [
+      "скумбрия",
+      "атлантическая",
+      "филе",
+      "с",
+      "добавлением",
+      "масла"
+    ],
+    "normalizedTokens": [
+      "скумбрия",
+      "атлантическая",
+      "филе",
+      "с",
+      "добавлением",
+      "масла",
+      "175 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "175 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Vici морская капуста в маринаде по-корейски 240 г",
+    "cleanTokens": [
+      "морская",
+      "капуста",
+      "в",
+      "маринаде",
+      "по-корейски"
+    ],
+    "normalizedTokens": [
+      "морская",
+      "капуста",
+      "в",
+      "маринаде",
+      "по-корейски",
+      "240 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "240 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Рыбное меню шпрот из балтийской кильки копченый в томатном соусе 175 г",
+    "cleanTokens": [
+      "шпрот",
+      "из",
+      "балтийской",
+      "кильки",
+      "копченый",
+      "в",
+      "томатном",
+      "соусе"
+    ],
+    "normalizedTokens": [
+      "шпрот",
+      "из",
+      "балтийской",
+      "кильки",
+      "копченый",
+      "в",
+      "томатном",
+      "соусе",
+      "175 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "175 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "5 морей горбуша с маслом 250 г",
+    "cleanTokens": [
+      "горбуша",
+      "с",
+      "маслом"
+    ],
+    "normalizedTokens": [
+      "горбуша",
+      "с",
+      "маслом",
+      "250 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "250 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "КУБЛЕЙ сайра тихоокеанская натуральная 240 г",
+    "cleanTokens": [
+      "сайра",
+      "тихоокеанская",
+      "натуральная"
+    ],
+    "normalizedTokens": [
+      "сайра",
+      "тихоокеанская",
+      "натуральная",
+      "240 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "240 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Mare паштет лосось рубленный с креветкой 150 г",
+    "cleanTokens": [
+      "паштет",
+      "лосось",
+      "рубленный",
+      "с",
+      "креветкой"
+    ],
+    "normalizedTokens": [
+      "паштет",
+      "лосось",
+      "рубленный",
+      "с",
+      "креветкой",
+      "150 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "150 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "\"За Родину\" сардина атлантическая натуральная с добавлением масла 185 г",
+    "cleanTokens": [
+      "сардина",
+      "атлантическая",
+      "натуральная",
+      "с",
+      "добавлением",
+      "масла"
+    ],
+    "normalizedTokens": [
+      "сардина",
+      "атлантическая",
+      "натуральная",
+      "с",
+      "добавлением",
+      "масла",
+      "185 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "185 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "\"За Родину\" сардины балтийские по-венгерски в соусе лечо 175 г",
+    "cleanTokens": [
+      "сардины",
+      "балтийские",
+      "по-венгерски",
+      "в",
+      "соусе",
+      "лечо"
+    ],
+    "normalizedTokens": [
+      "сардины",
+      "балтийские",
+      "по-венгерски",
+      "в",
+      "соусе",
+      "лечо",
+      "175 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "175 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "SAJO Canned tuna тунец в масле 150 г",
+    "cleanTokens": [
+      "canned",
+      "tuna",
+      "тунец",
+      "в",
+      "масле"
+    ],
+    "normalizedTokens": [
+      "canned",
+      "tuna",
+      "тунец",
+      "в",
+      "масле",
+      "150 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "150 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "5 морей тунец филе в масле 185 г",
+    "cleanTokens": [
+      "тунец",
+      "филе",
+      "в",
+      "масле"
+    ],
+    "normalizedTokens": [
+      "тунец",
+      "филе",
+      "в",
+      "масле",
+      "185 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "185 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Рыбное меню тунец бланшированный 175 г",
+    "cleanTokens": [
+      "тунец",
+      "бланшированный"
+    ],
+    "normalizedTokens": [
+      "тунец",
+      "бланшированный",
+      "175 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "175 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "1778 риет из красной рыбы с маслинами 170 г",
+    "cleanTokens": [
+      "риет",
+      "из",
+      "красной",
+      "рыбы",
+      "с",
+      "маслинами"
+    ],
+    "normalizedTokens": [
+      "риет",
+      "из",
+      "красной",
+      "рыбы",
+      "с",
+      "маслинами",
+      "170 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "170 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "1778 паштет из тунца с икрой и креветкой 170 г",
+    "cleanTokens": [
+      "паштет",
+      "из",
+      "тунца",
+      "с",
+      "икрой",
+      "и",
+      "креветкой"
+    ],
+    "normalizedTokens": [
+      "паштет",
+      "из",
+      "тунца",
+      "с",
+      "икрой",
+      "и",
+      "креветкой",
+      "170 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "170 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "1778 из трески с икрой и мясом краба 170 г",
+    "cleanTokens": [
+      "из",
+      "трески",
+      "с",
+      "икрой",
+      "и",
+      "мясом",
+      "краба"
+    ],
+    "normalizedTokens": [
+      "из",
+      "трески",
+      "с",
+      "икрой",
+      "и",
+      "мясом",
+      "краба",
+      "170 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "170 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Trata филе сельди в растительном масле 160 г",
+    "cleanTokens": [
+      "филе",
+      "сельди",
+      "в",
+      "растительном",
+      "масле"
+    ],
+    "normalizedTokens": [
+      "филе",
+      "сельди",
+      "в",
+      "растительном",
+      "масле",
+      "160 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "160 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "SAJO Canned tuna with vegetables тунец с овощами 150 г",
+    "cleanTokens": [
+      "canned",
+      "tuna",
+      "with",
+      "vegetables",
+      "тунец",
+      "с",
+      "овощами"
+    ],
+    "normalizedTokens": [
+      "canned",
+      "tuna",
+      "with",
+      "vegetables",
+      "тунец",
+      "с",
+      "овощами",
+      "150 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "150 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "SAJO Canned tuna тунец в масле 250 г",
+    "cleanTokens": [
+      "canned",
+      "tuna",
+      "тунец",
+      "в",
+      "масле"
+    ],
+    "normalizedTokens": [
+      "canned",
+      "tuna",
+      "тунец",
+      "в",
+      "масле",
+      "250 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "250 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "SAJO рыбные консервы в соусе 100 г",
+    "cleanTokens": [
+      "в",
+      "соусе"
+    ],
+    "normalizedTokens": [
+      "в",
+      "соусе",
+      "100 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "100 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "SAJO тунец консервированный с томатным соусом и карри 100 г",
+    "cleanTokens": [
+      "тунец",
+      "консервированный",
+      "с",
+      "томатным",
+      "соусом",
+      "и",
+      "карри"
+    ],
+    "normalizedTokens": [
+      "тунец",
+      "консервированный",
+      "с",
+      "томатным",
+      "соусом",
+      "и",
+      "карри",
+      "100 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "100 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "SAJO тунец консервированный с халапеньо 100 г",
+    "cleanTokens": [
+      "тунец",
+      "консервированный",
+      "с",
+      "халапеньо"
+    ],
+    "normalizedTokens": [
+      "тунец",
+      "консервированный",
+      "с",
+      "халапеньо",
+      "100 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "100 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Доброфлот скумбрия атлантическая натуральная с добавлением масла 240 г",
+    "cleanTokens": [
+      "скумбрия",
+      "атлантическая",
+      "натуральная",
+      "с",
+      "добавлением",
+      "масла"
+    ],
+    "normalizedTokens": [
+      "скумбрия",
+      "атлантическая",
+      "натуральная",
+      "с",
+      "добавлением",
+      "масла",
+      "240 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "240 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Доброфлот шпроты в масле из салаки 160 г",
+    "cleanTokens": [
+      "шпроты",
+      "в",
+      "масле",
+      "из",
+      "салаки"
+    ],
+    "normalizedTokens": [
+      "шпроты",
+      "в",
+      "масле",
+      "из",
+      "салаки",
+      "160 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "160 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Устькамчатрыба печень трески натуральная 185 г",
+    "cleanTokens": [
+      "печень",
+      "трески",
+      "натуральная"
+    ],
+    "normalizedTokens": [
+      "печень",
+      "трески",
+      "натуральная",
+      "185 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "185 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "SAJO тунец консервированный в сливочном масле и соевом соусе 100 г",
+    "cleanTokens": [
+      "тунец",
+      "консервированный",
+      "в",
+      "сливочном",
+      "масле",
+      "и",
+      "соевом",
+      "соусе"
+    ],
+    "normalizedTokens": [
+      "тунец",
+      "консервированный",
+      "в",
+      "сливочном",
+      "масле",
+      "и",
+      "соевом",
+      "соусе",
+      "100 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "100 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "SAJO тунец консервированный в масле 100 г",
+    "cleanTokens": [
+      "тунец",
+      "консервированный",
+      "в",
+      "масле"
+    ],
+    "normalizedTokens": [
+      "тунец",
+      "консервированный",
+      "в",
+      "масле",
+      "100 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "100 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "SAJO Mild тунец консервированный в масле 250 г",
+    "cleanTokens": [
+      "mild",
+      "тунец",
+      "консервированный",
+      "в",
+      "масле"
+    ],
+    "normalizedTokens": [
+      "mild",
+      "тунец",
+      "консервированный",
+      "в",
+      "масле",
+      "250 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "250 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "\"За Родину\" шпроты из балтийской кильки в масле 175 г",
+    "cleanTokens": [
+      "шпроты",
+      "из",
+      "балтийской",
+      "кильки",
+      "в",
+      "масле"
+    ],
+    "normalizedTokens": [
+      "шпроты",
+      "из",
+      "балтийской",
+      "кильки",
+      "в",
+      "масле",
+      "175 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "175 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "ICan печень трески натуральная 120 г",
+    "cleanTokens": [
+      "печень",
+      "трески",
+      "натуральная"
+    ],
+    "normalizedTokens": [
+      "печень",
+      "трески",
+      "натуральная",
+      "120 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "120 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Доброфлот тунец рубленный натуральный 185 г",
+    "cleanTokens": [
+      "тунец",
+      "рубленный",
+      "натуральный"
+    ],
+    "normalizedTokens": [
+      "тунец",
+      "рубленный",
+      "натуральный",
+      "185 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "185 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Доброфлот килька балтийская неразделенная обжаренная в томатном соусе 240 г",
+    "cleanTokens": [
+      "килька",
+      "балтийская",
+      "неразделенная",
+      "обжаренная",
+      "в",
+      "томатном",
+      "соусе"
+    ],
+    "normalizedTokens": [
+      "килька",
+      "балтийская",
+      "неразделенная",
+      "обжаренная",
+      "в",
+      "томатном",
+      "соусе",
+      "240 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "240 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Доброфлот шпроты дальневосточные из копченой сардины иваси в масле 190 г",
+    "cleanTokens": [
+      "шпроты",
+      "дальневосточные",
+      "из",
+      "копченой",
+      "сардины",
+      "иваси",
+      "в",
+      "масле"
+    ],
+    "normalizedTokens": [
+      "шпроты",
+      "дальневосточные",
+      "из",
+      "копченой",
+      "сардины",
+      "иваси",
+      "в",
+      "масле",
+      "190 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "190 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Доброфлот сельдь тихоокеанская жирная в желе 260 г",
+    "cleanTokens": [
+      "сельдь",
+      "тихоокеанская",
+      "жирная",
+      "в",
+      "желе"
+    ],
+    "normalizedTokens": [
+      "сельдь",
+      "тихоокеанская",
+      "жирная",
+      "в",
+      "желе",
+      "260 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "260 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Доброфлот сардина тихоокеанская копченная в масле 210 г",
+    "cleanTokens": [
+      "сардина",
+      "тихоокеанская",
+      "копченная",
+      "в",
+      "масле"
+    ],
+    "normalizedTokens": [
+      "сардина",
+      "тихоокеанская",
+      "копченная",
+      "в",
+      "масле",
+      "210 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "210 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Доброфлот сардина тихоокеанская иваси в томатном соусе 245 г",
+    "cleanTokens": [
+      "сардина",
+      "тихоокеанская",
+      "иваси",
+      "в",
+      "томатном",
+      "соусе"
+    ],
+    "normalizedTokens": [
+      "сардина",
+      "тихоокеанская",
+      "иваси",
+      "в",
+      "томатном",
+      "соусе",
+      "245 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "245 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Trata сардины дикие в растительном масле 100 г",
+    "cleanTokens": [
+      "сардины",
+      "дикие",
+      "в",
+      "растительном",
+      "масле"
+    ],
+    "normalizedTokens": [
+      "сардины",
+      "дикие",
+      "в",
+      "растительном",
+      "масле",
+      "100 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "100 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Рыбное меню скумбрия атлантическая бланшированная в томатном соусе 175 г",
+    "cleanTokens": [
+      "скумбрия",
+      "атлантическая",
+      "бланшированная",
+      "в",
+      "томатном",
+      "соусе"
+    ],
+    "normalizedTokens": [
+      "скумбрия",
+      "атлантическая",
+      "бланшированная",
+      "в",
+      "томатном",
+      "соусе",
+      "175 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "175 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "5 морей тунец измельченный натуральный для салатов 185 г",
+    "cleanTokens": [
+      "тунец",
+      "измельченный",
+      "натуральный",
+      "для",
+      "салатов"
+    ],
+    "normalizedTokens": [
+      "тунец",
+      "измельченный",
+      "натуральный",
+      "для",
+      "салатов",
+      "185 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "185 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "CHATKA краб камчатский 220 г",
+    "cleanTokens": [
+      "краб",
+      "камчатский"
+    ],
+    "normalizedTokens": [
+      "краб",
+      "камчатский",
+      "220 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "220 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Trata тунец полосатый копченый пикантный в растительном масле 160 г",
+    "cleanTokens": [
+      "тунец",
+      "полосатый",
+      "копченый",
+      "пикантный",
+      "в",
+      "растительном",
+      "масле"
+    ],
+    "normalizedTokens": [
+      "тунец",
+      "полосатый",
+      "копченый",
+      "пикантный",
+      "в",
+      "растительном",
+      "масле",
+      "160 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "160 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Tohfe тунец в масле 180 г",
+    "cleanTokens": [
+      "тунец",
+      "в",
+      "масле"
+    ],
+    "normalizedTokens": [
+      "тунец",
+      "в",
+      "масле",
+      "180 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "180 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Trata дикие анчоусы в оливковом масле 100 г",
+    "cleanTokens": [
+      "дикие",
+      "анчоусы",
+      "в",
+      "оливковом",
+      "масле"
+    ],
+    "normalizedTokens": [
+      "дикие",
+      "анчоусы",
+      "в",
+      "оливковом",
+      "масле",
+      "100 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "100 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Филе анчоусов Roland в масле 60 г",
+    "cleanTokens": [
+      "филе",
+      "анчоусов",
+      "в",
+      "масле"
+    ],
+    "normalizedTokens": [
+      "филе",
+      "анчоусов",
+      "в",
+      "масле",
+      "60 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "60 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Доброфлот тунец кусковой натуральный в масле 185 г",
+    "cleanTokens": [
+      "тунец",
+      "кусковой",
+      "натуральный",
+      "в",
+      "масле"
+    ],
+    "normalizedTokens": [
+      "тунец",
+      "кусковой",
+      "натуральный",
+      "в",
+      "масле",
+      "185 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "185 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Trata анчоусы маринованные в масле с луком и петрушкой 100 г",
+    "cleanTokens": [
+      "анчоусы",
+      "маринованные",
+      "в",
+      "масле",
+      "с",
+      "луком",
+      "и",
+      "петрушкой"
+    ],
+    "normalizedTokens": [
+      "анчоусы",
+      "маринованные",
+      "в",
+      "масле",
+      "с",
+      "луком",
+      "и",
+      "петрушкой",
+      "100 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "100 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "SAJO Canned tuna 1880 г",
+    "cleanTokens": [
+      "canned",
+      "tuna"
+    ],
+    "normalizedTokens": [
+      "canned",
+      "tuna",
+      "1880 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "1880 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Trata салат с копченым полосатым тунцом и фасолью 160 г",
+    "cleanTokens": [
+      "салат",
+      "с",
+      "копченым",
+      "полосатым",
+      "тунцом",
+      "и",
+      "фасолью"
+    ],
+    "normalizedTokens": [
+      "салат",
+      "с",
+      "копченым",
+      "полосатым",
+      "тунцом",
+      "и",
+      "фасолью",
+      "160 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "160 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Trata анчоусы дикие пикантные в растительном масле 100 г",
+    "cleanTokens": [
+      "анчоусы",
+      "дикие",
+      "пикантные",
+      "в",
+      "растительном",
+      "масле"
+    ],
+    "normalizedTokens": [
+      "анчоусы",
+      "дикие",
+      "пикантные",
+      "в",
+      "растительном",
+      "масле",
+      "100 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "100 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "SAJO Canned tuna Chili Jalapeno 48 шт по 100 г",
+    "cleanTokens": [
+      "canned",
+      "tuna",
+      "chili",
+      "jalapeno",
+      "по"
+    ],
+    "normalizedTokens": [
+      "canned",
+      "tuna",
+      "chili",
+      "jalapeno",
+      "48 шт",
+      "по",
+      "100 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "100 г",
+      "count": "48 шт",
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "SAJO Canned tuna with vegetables 48 шт по 100 г",
+    "cleanTokens": [
+      "canned",
+      "tuna",
+      "with",
+      "vegetables",
+      "по"
+    ],
+    "normalizedTokens": [
+      "canned",
+      "tuna",
+      "with",
+      "vegetables",
+      "48 шт",
+      "по",
+      "100 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "100 г",
+      "count": "48 шт",
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "SAJO Canned hot tuna 48 шт по 150 г",
+    "cleanTokens": [
+      "canned",
+      "hot",
+      "tuna",
+      "по"
+    ],
+    "normalizedTokens": [
+      "canned",
+      "hot",
+      "tuna",
+      "48 шт",
+      "по",
+      "150 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "150 г",
+      "count": "48 шт",
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "SAJO Canned tuna 48 шт по 150  г",
+    "cleanTokens": [
+      "canned",
+      "tuna",
+      "по"
+    ],
+    "normalizedTokens": [
+      "canned",
+      "tuna",
+      "48 шт",
+      "по",
+      "150 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "150 г",
+      "count": "48 шт",
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Roland Flat fillets of Anchovies in olive oil 397 g",
+    "cleanTokens": [
+      "flat",
+      "fillets",
+      "of",
+      "anchovies",
+      "in",
+      "olive",
+      "oil",
+      "397",
+      "g"
+    ],
+    "normalizedTokens": [
+      "flat",
+      "fillets",
+      "of",
+      "anchovies",
+      "in",
+      "olive",
+      "oil",
+      "397",
+      "g"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Морской Риф Килька балтийская неразделанная обжаренная в томатном соусе 240 г",
+    "cleanTokens": [
+      "килька",
+      "балтийская",
+      "неразделанная",
+      "обжаренная",
+      "в",
+      "томатном",
+      "соусе"
+    ],
+    "normalizedTokens": [
+      "килька",
+      "балтийская",
+      "неразделанная",
+      "обжаренная",
+      "в",
+      "томатном",
+      "соусе",
+      "240 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "240 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "SAJO Canned tuna mild 150 г",
+    "cleanTokens": [
+      "canned",
+      "tuna",
+      "mild"
+    ],
+    "normalizedTokens": [
+      "canned",
+      "tuna",
+      "mild",
+      "150 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "150 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Resurs-Ikra икра сельди тихоокеанской 320 г",
+    "cleanTokens": [
+      "икра",
+      "сельди",
+      "тихоокеанской"
+    ],
+    "normalizedTokens": [
+      "икра",
+      "сельди",
+      "тихоокеанской",
+      "320 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "320 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "SAJO Canned tuna Soy sauce 48 шт по 100 г",
+    "cleanTokens": [
+      "canned",
+      "tuna",
+      "soy",
+      "sauce",
+      "по"
+    ],
+    "normalizedTokens": [
+      "canned",
+      "tuna",
+      "soy",
+      "sauce",
+      "48 шт",
+      "по",
+      "100 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "100 г",
+      "count": "48 шт",
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "SAJO Canned tuna Tomato curry 48 шт по 100 г",
+    "cleanTokens": [
+      "canned",
+      "tuna",
+      "tomato",
+      "curry",
+      "по"
+    ],
+    "normalizedTokens": [
+      "canned",
+      "tuna",
+      "tomato",
+      "curry",
+      "48 шт",
+      "по",
+      "100 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "100 г",
+      "count": "48 шт",
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Trata дикие анчоусы с орегано в растительном масле 100 г",
+    "cleanTokens": [
+      "дикие",
+      "анчоусы",
+      "с",
+      "орегано",
+      "в",
+      "растительном",
+      "масле"
+    ],
+    "normalizedTokens": [
+      "дикие",
+      "анчоусы",
+      "с",
+      "орегано",
+      "в",
+      "растительном",
+      "масле",
+      "100 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "100 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "SAJO Canned tuna Black bean sauce 48 шт по 100 г",
+    "cleanTokens": [
+      "canned",
+      "tuna",
+      "black",
+      "bean",
+      "sauce",
+      "по"
+    ],
+    "normalizedTokens": [
+      "canned",
+      "tuna",
+      "black",
+      "bean",
+      "sauce",
+      "48 шт",
+      "по",
+      "100 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "100 г",
+      "count": "48 шт",
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Морской Риф Скипджек тунец натуральное филе в масле 185 г",
+    "cleanTokens": [
+      "скипджек",
+      "тунец",
+      "натуральное",
+      "филе",
+      "в",
+      "масле"
+    ],
+    "normalizedTokens": [
+      "скипджек",
+      "тунец",
+      "натуральное",
+      "филе",
+      "в",
+      "масле",
+      "185 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "185 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "SAJO тунец консервированный (салькоги чамчи) Canned tuna 6 шт",
+    "cleanTokens": [
+      "тунец",
+      "консервированный",
+      "салькоги",
+      "чамчи",
+      "canned",
+      "tuna"
+    ],
+    "normalizedTokens": [
+      "тунец",
+      "консервированный",
+      "салькоги",
+      "чамчи",
+      "canned",
+      "tuna",
+      "6 шт"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": "6 шт",
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  }
+]

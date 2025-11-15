@@ -1,0 +1,1564 @@
+[
+  {
+    "original": "Cargill какао 400 г",
+    "cleanTokens": [],
+    "normalizedTokens": [
+      "400 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "400 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Fit Feel какао бeз сахара 150 г",
+    "cleanTokens": [
+      "бeз",
+      "сахара"
+    ],
+    "normalizedTokens": [
+      "бeз",
+      "сахара",
+      "150 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "150 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "ШокоМишка какао 250 г",
+    "cleanTokens": [],
+    "normalizedTokens": [
+      "250 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "250 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Ristora горячий шоколад 1000 г",
+    "cleanTokens": [],
+    "normalizedTokens": [
+      "1000 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "1000 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Ristora горячий шоколад 1000 г",
+    "cleanTokens": [],
+    "normalizedTokens": [
+      "1000 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "1000 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Elza горячий шоколад 325 г",
+    "cleanTokens": [],
+    "normalizedTokens": [
+      "325 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "325 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Доброе утро какао 135 г",
+    "cleanTokens": [],
+    "normalizedTokens": [
+      "135 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "135 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "TopLife какао бeз сахара, без глютена 200 г",
+    "cleanTokens": [
+      "бeз",
+      "сахара",
+      "без",
+      "глютена"
+    ],
+    "normalizedTokens": [
+      "бeз",
+      "сахара",
+      "без",
+      "глютена",
+      "200 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "200 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Ristora горячий шоколад 1000 г",
+    "cleanTokens": [],
+    "normalizedTokens": [
+      "1000 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "1000 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "ALMAFOOD какао Choco 01 Rich Granules 1000 г",
+    "cleanTokens": [
+      "choco",
+      "01",
+      "rich",
+      "granules"
+    ],
+    "normalizedTokens": [
+      "choco",
+      "01",
+      "rich",
+      "granules",
+      "1000 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "1000 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Babyfox какао 135 г",
+    "cleanTokens": [],
+    "normalizedTokens": [
+      "135 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "135 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "TopLife кэроб бeз сахара, без глютена 200 г",
+    "cleanTokens": [
+      "кэроб",
+      "бeз",
+      "сахара",
+      "без",
+      "глютена"
+    ],
+    "normalizedTokens": [
+      "кэроб",
+      "бeз",
+      "сахара",
+      "без",
+      "глютена",
+      "200 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "200 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Polezium кэроб обжаренный 200 г",
+    "cleanTokens": [
+      "кэроб",
+      "обжаренный"
+    ],
+    "normalizedTokens": [
+      "кэроб",
+      "обжаренный",
+      "200 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "200 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Экологика какао бeз сахара 125 г",
+    "cleanTokens": [
+      "бeз",
+      "сахара"
+    ],
+    "normalizedTokens": [
+      "бeз",
+      "сахара",
+      "125 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "125 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Московская кофейня на паяхъ Чукка какао 250 г",
+    "cleanTokens": [
+      "чукка"
+    ],
+    "normalizedTokens": [
+      "чукка",
+      "250 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "250 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "DeMarco горячий шоколад 10 упаковок по 1000 г",
+    "cleanTokens": [
+      "10",
+      "упаковок",
+      "по"
+    ],
+    "normalizedTokens": [
+      "10",
+      "упаковок",
+      "по",
+      "1000 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "1000 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Московская кофейня на паяхъ Чукка какао 125 г",
+    "cleanTokens": [
+      "чукка"
+    ],
+    "normalizedTokens": [
+      "чукка",
+      "125 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "125 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "DeMarco 02 горячий шоколад 1000 г",
+    "cleanTokens": [
+      "02"
+    ],
+    "normalizedTokens": [
+      "02",
+      "1000 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "1000 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "DeMarco Business горячий шоколад 1000 г",
+    "cleanTokens": [
+      "business"
+    ],
+    "normalizedTokens": [
+      "business",
+      "1000 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "1000 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "DeMarco 02 горячий шоколад 1000 г",
+    "cleanTokens": [
+      "02"
+    ],
+    "normalizedTokens": [
+      "02",
+      "1000 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "1000 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "DeMarco горячий шоколад 1000 г",
+    "cleanTokens": [],
+    "normalizedTokens": [
+      "1000 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "1000 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "DeMarco Dark горячий шоколад 1000 г",
+    "cleanTokens": [
+      "dark"
+    ],
+    "normalizedTokens": [
+      "dark",
+      "1000 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "1000 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Damto горячий шоколад 200 г",
+    "cleanTokens": [],
+    "normalizedTokens": [
+      "200 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "200 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "DeMarco горячий шоколад 1000 г",
+    "cleanTokens": [],
+    "normalizedTokens": [
+      "1000 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "1000 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Правильное Питание какао бeз сахара, обжаренный, без глютена 500 г",
+    "cleanTokens": [
+      "бeз",
+      "сахара",
+      "обжаренный",
+      "без",
+      "глютена"
+    ],
+    "normalizedTokens": [
+      "бeз",
+      "сахара",
+      "обжаренный",
+      "без",
+      "глютена",
+      "500 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "500 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "ARISTOCRAT какао натуральный 1000 г",
+    "cleanTokens": [
+      "натуральный"
+    ],
+    "normalizedTokens": [
+      "натуральный",
+      "1000 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "1000 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Mars горячий шоколад 140 г",
+    "cleanTokens": [],
+    "normalizedTokens": [
+      "140 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "140 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Fit Parad горячий шоколад бeз сахара 200 г",
+    "cleanTokens": [
+      "бeз",
+      "сахара"
+    ],
+    "normalizedTokens": [
+      "бeз",
+      "сахара",
+      "200 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "200 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "ALMAFOOD горячий шоколад 1000 г",
+    "cleanTokens": [],
+    "normalizedTokens": [
+      "1000 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "1000 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "ALMAFOOD какао 1000 г",
+    "cleanTokens": [],
+    "normalizedTokens": [
+      "1000 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "1000 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Экологика горячий шоколад 125 г",
+    "cleanTokens": [],
+    "normalizedTokens": [
+      "125 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "125 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Elza горячий шоколад 250 г",
+    "cleanTokens": [],
+    "normalizedTokens": [
+      "250 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "250 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Polezium какао бeз сахара 200 г",
+    "cleanTokens": [
+      "бeз",
+      "сахара"
+    ],
+    "normalizedTokens": [
+      "бeз",
+      "сахара",
+      "200 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "200 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Maximus какао 100 г",
+    "cleanTokens": [],
+    "normalizedTokens": [
+      "100 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "100 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "MOKATE горячий шоколад Marzipan 120 г",
+    "cleanTokens": [
+      "marzipan"
+    ],
+    "normalizedTokens": [
+      "marzipan",
+      "120 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "120 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Milky Way горячий шоколад 140 г",
+    "cleanTokens": [],
+    "normalizedTokens": [
+      "140 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "140 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Fit Parad горячий шоколад бeз сахара 200 г",
+    "cleanTokens": [
+      "бeз",
+      "сахара"
+    ],
+    "normalizedTokens": [
+      "бeз",
+      "сахара",
+      "200 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "200 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "TopLife кэроб бeз сахара, обжаренный 200 г",
+    "cleanTokens": [
+      "кэроб",
+      "бeз",
+      "сахара",
+      "обжаренный"
+    ],
+    "normalizedTokens": [
+      "кэроб",
+      "бeз",
+      "сахара",
+      "обжаренный",
+      "200 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "200 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Helmut Sachers Kaffee-Feine, горячий шоколад, 500 гр",
+    "cleanTokens": [
+      "helmut",
+      "sachers",
+      "kaffee-feine"
+    ],
+    "normalizedTokens": [
+      "helmut",
+      "sachers",
+      "kaffee-feine",
+      "500 гр"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "500 гр",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Elza какао 200 г",
+    "cleanTokens": [],
+    "normalizedTokens": [
+      "200 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "200 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Helmut Sachers Kaffee горячий шоколад темный 500 г",
+    "cleanTokens": [
+      "темный"
+    ],
+    "normalizedTokens": [
+      "темный",
+      "500 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "500 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Bounty горячий шоколад 140 г",
+    "cleanTokens": [],
+    "normalizedTokens": [
+      "140 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "140 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Osnova tech какао 500 г",
+    "cleanTokens": [],
+    "normalizedTokens": [
+      "500 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "500 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Osnova tech смесь для латте вареная сгущенка, тыква 500 г",
+    "cleanTokens": [
+      "смесь",
+      "для",
+      "латте",
+      "вареная",
+      "сгущенка",
+      "тыква"
+    ],
+    "normalizedTokens": [
+      "смесь",
+      "для",
+      "латте",
+      "вареная",
+      "сгущенка",
+      "тыква",
+      "500 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "500 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Caffe Molinari горячий шоколад 1000 г",
+    "cleanTokens": [],
+    "normalizedTokens": [
+      "1000 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "1000 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Osnova tech какао изысканный 500 г",
+    "cleanTokens": [
+      "изысканный"
+    ],
+    "normalizedTokens": [
+      "изысканный",
+      "500 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "500 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Osnova tech какао спайси 500 г",
+    "cleanTokens": [
+      "спайси"
+    ],
+    "normalizedTokens": [
+      "спайси",
+      "500 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "500 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Lucer Cacao какао тёртое, бeз сахара 1000 г",
+    "cleanTokens": [
+      "тертое",
+      "бeз",
+      "сахара"
+    ],
+    "normalizedTokens": [
+      "тертое",
+      "бeз",
+      "сахара",
+      "1000 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "1000 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Добрыня-Русь какао 135 г",
+    "cleanTokens": [],
+    "normalizedTokens": [
+      "135 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "135 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "ALMAFOOD 01 Rich Granules какао 8 шт по 1000 г",
+    "cleanTokens": [
+      "01",
+      "rich",
+      "granules",
+      "по"
+    ],
+    "normalizedTokens": [
+      "01",
+      "rich",
+      "granules",
+      "8 шт",
+      "по",
+      "1000 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "1000 г",
+      "count": "8 шт",
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "ЯРКО какао банановое 30 г 1 саше",
+    "cleanTokens": [
+      "банановое",
+      "1",
+      "саше"
+    ],
+    "normalizedTokens": [
+      "банановое",
+      "30 г",
+      "1",
+      "саше"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "30 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "ЯРКО какао клубничное 30 г 1 саше",
+    "cleanTokens": [
+      "клубничное",
+      "1",
+      "саше"
+    ],
+    "normalizedTokens": [
+      "клубничное",
+      "30 г",
+      "1",
+      "саше"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "30 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Elza горячий шоколад со вкусом карамели 200 г",
+    "cleanTokens": [
+      "со",
+      "вкусом",
+      "карамели"
+    ],
+    "normalizedTokens": [
+      "со",
+      "вкусом",
+      "карамели",
+      "200 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "200 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "ARISTOCRAT какао натуральный 1000 г",
+    "cleanTokens": [
+      "натуральный"
+    ],
+    "normalizedTokens": [
+      "натуральный",
+      "1000 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "1000 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Добрыня-Русь горячий шоколад 150 г",
+    "cleanTokens": [],
+    "normalizedTokens": [
+      "150 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "150 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Fit Feel кэроб без глютена, обжаренный 200 г",
+    "cleanTokens": [
+      "кэроб",
+      "без",
+      "глютена",
+      "обжаренный"
+    ],
+    "normalizedTokens": [
+      "кэроб",
+      "без",
+      "глютена",
+      "обжаренный",
+      "200 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "200 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Osnova tech горячий шоколад 500 г",
+    "cleanTokens": [],
+    "normalizedTokens": [
+      "500 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "500 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Twix горячий шоколад 140 г",
+    "cleanTokens": [],
+    "normalizedTokens": [
+      "140 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "140 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "ALMAFOOD Choco 01 Rich Dark какао 8 шт по 1000 г",
+    "cleanTokens": [
+      "choco",
+      "01",
+      "rich",
+      "dark",
+      "по"
+    ],
+    "normalizedTokens": [
+      "choco",
+      "01",
+      "rich",
+      "dark",
+      "8 шт",
+      "по",
+      "1000 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "1000 г",
+      "count": "8 шт",
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Osnova tech смесь для латте сырный 500 г",
+    "cleanTokens": [
+      "смесь",
+      "для",
+      "латте",
+      "сырный"
+    ],
+    "normalizedTokens": [
+      "смесь",
+      "для",
+      "латте",
+      "сырный",
+      "500 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "500 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Maximus горячий шоколад 150 г",
+    "cleanTokens": [],
+    "normalizedTokens": [
+      "150 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "150 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Osnova tech смесь для латте вишневая панакота 500 г",
+    "cleanTokens": [
+      "смесь",
+      "для",
+      "латте",
+      "вишневая",
+      "панакота"
+    ],
+    "normalizedTokens": [
+      "смесь",
+      "для",
+      "латте",
+      "вишневая",
+      "панакота",
+      "500 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "500 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "ALMAFOOD Choco 01 Rich Dark какао 8 упаковок по 1000 г",
+    "cleanTokens": [
+      "choco",
+      "01",
+      "rich",
+      "dark",
+      "8",
+      "упаковок",
+      "по"
+    ],
+    "normalizedTokens": [
+      "choco",
+      "01",
+      "rich",
+      "dark",
+      "8",
+      "упаковок",
+      "по",
+      "1000 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "1000 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Helmut Sachers Kaffee Trinkschokolade-Weise горячий шоколад ваниль, с белым шоколадом 500 г",
+    "cleanTokens": [
+      "trinkschokolade-weise",
+      "ваниль",
+      "с",
+      "белым",
+      "шоколадом"
+    ],
+    "normalizedTokens": [
+      "trinkschokolade-weise",
+      "ваниль",
+      "с",
+      "белым",
+      "шоколадом",
+      "500 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "500 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Osnova tech смесь для латте 500 г",
+    "cleanTokens": [
+      "смесь",
+      "для",
+      "латте"
+    ],
+    "normalizedTokens": [
+      "смесь",
+      "для",
+      "латте",
+      "500 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "500 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Kruger какао 400 г",
+    "cleanTokens": [],
+    "normalizedTokens": [
+      "400 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "400 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Экологика горячий шоколад 140 г",
+    "cleanTokens": [],
+    "normalizedTokens": [
+      "140 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "140 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "ШокоМишка какао 150 г",
+    "cleanTokens": [],
+    "normalizedTokens": [
+      "150 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "150 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Osnova tech смесь для латте лимонный тарт с меренгой 500 г",
+    "cleanTokens": [
+      "смесь",
+      "для",
+      "латте",
+      "лимонный",
+      "тарт",
+      "с",
+      "меренгой"
+    ],
+    "normalizedTokens": [
+      "смесь",
+      "для",
+      "латте",
+      "лимонный",
+      "тарт",
+      "с",
+      "меренгой",
+      "500 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "500 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Elza горячий шоколад 200 г",
+    "cleanTokens": [],
+    "normalizedTokens": [
+      "200 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "200 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "ЯРКО какао клубнично-банановое 30 г 1 саше",
+    "cleanTokens": [
+      "клубнично-банановое",
+      "1",
+      "саше"
+    ],
+    "normalizedTokens": [
+      "клубнично-банановое",
+      "30 г",
+      "1",
+      "саше"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "30 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Osnova tech смесь для латте банановое мороженое с соленой карамелью 500 г",
+    "cleanTokens": [
+      "смесь",
+      "для",
+      "латте",
+      "банановое",
+      "мороженое",
+      "с",
+      "соленой",
+      "карамелью"
+    ],
+    "normalizedTokens": [
+      "смесь",
+      "для",
+      "латте",
+      "банановое",
+      "мороженое",
+      "с",
+      "соленой",
+      "карамелью",
+      "500 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "500 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Osnova tech смесь для латте  соленый крекер 500 г",
+    "cleanTokens": [
+      "смесь",
+      "для",
+      "латте",
+      "соленый",
+      "крекер"
+    ],
+    "normalizedTokens": [
+      "смесь",
+      "для",
+      "латте",
+      "соленый",
+      "крекер",
+      "500 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "500 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "MOKATE горячий шоколад Tigo 120 г",
+    "cleanTokens": [
+      "tigo"
+    ],
+    "normalizedTokens": [
+      "tigo",
+      "120 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "120 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Kruger горячий шоколад 400 г",
+    "cleanTokens": [],
+    "normalizedTokens": [
+      "400 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "400 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "MOKATE какао 300 г",
+    "cleanTokens": [],
+    "normalizedTokens": [
+      "300 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "300 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "ЯРКО какао классичное 30 г 1 саше",
+    "cleanTokens": [
+      "классичное",
+      "1",
+      "саше"
+    ],
+    "normalizedTokens": [
+      "классичное",
+      "30 г",
+      "1",
+      "саше"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "30 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Kruger горячий шоколад 500 г",
+    "cleanTokens": [],
+    "normalizedTokens": [
+      "500 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "500 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  }
+]

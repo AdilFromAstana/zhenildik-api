@@ -1,0 +1,5016 @@
+[
+  {
+    "original": "Samyang лапша Cheese ramyun 140 г",
+    "cleanTokens": [
+      "cheese",
+      "ramyun"
+    ],
+    "normalizedTokens": [
+      "cheese",
+      "ramyun",
+      "140 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "140 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Doshirak лапша для варки с острым бульоном из говядины 120 г",
+    "cleanTokens": [
+      "для",
+      "варки",
+      "с",
+      "острым",
+      "бульоном",
+      "из",
+      "говядины"
+    ],
+    "normalizedTokens": [
+      "для",
+      "варки",
+      "с",
+      "острым",
+      "бульоном",
+      "из",
+      "говядины",
+      "120 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "120 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Doshirak лапша с курицей 90 г",
+    "cleanTokens": [
+      "с",
+      "курицей"
+    ],
+    "normalizedTokens": [
+      "с",
+      "курицей",
+      "90 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "90 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Ottogi лапша Jin Ramen Cup Mild 65 г",
+    "cleanTokens": [
+      "jin",
+      "ramen",
+      "cup",
+      "mild"
+    ],
+    "normalizedTokens": [
+      "jin",
+      "ramen",
+      "cup",
+      "mild",
+      "65 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "65 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Роллтон картофельное пюре с сухариками 40 г",
+    "cleanTokens": [
+      "картофельное",
+      "с",
+      "сухариками"
+    ],
+    "normalizedTokens": [
+      "картофельное",
+      "с",
+      "сухариками",
+      "40 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "40 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Роллтон лапша с курицей по-домашнему 85 г",
+    "cleanTokens": [
+      "с",
+      "курицей",
+      "по-домашнему"
+    ],
+    "normalizedTokens": [
+      "с",
+      "курицей",
+      "по-домашнему",
+      "85 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "85 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Maggi суп суп звездочки 54 г",
+    "cleanTokens": [
+      "суп",
+      "суп",
+      "звездочки"
+    ],
+    "normalizedTokens": [
+      "суп",
+      "суп",
+      "звездочки",
+      "54 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "54 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Роллтон вермишель с говядиной на домашнем бульоне 60 г",
+    "cleanTokens": [
+      "вермишель",
+      "с",
+      "говядиной",
+      "на",
+      "домашнем",
+      "бульоне"
+    ],
+    "normalizedTokens": [
+      "вермишель",
+      "с",
+      "говядиной",
+      "на",
+      "домашнем",
+      "бульоне",
+      "60 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "60 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Doshirak лапша со вкусом говядины 70 г",
+    "cleanTokens": [
+      "со",
+      "вкусом",
+      "говядины"
+    ],
+    "normalizedTokens": [
+      "со",
+      "вкусом",
+      "говядины",
+      "70 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "70 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "NONGSHIM лапша Kimchi cheese flavor 120 г",
+    "cleanTokens": [
+      "cheese",
+      "flavor"
+    ],
+    "normalizedTokens": [
+      "cheese",
+      "flavor",
+      "120 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "120 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "NONGSHIM лапша Shin Ramyun Noodle soup 120 г",
+    "cleanTokens": [
+      "shin",
+      "ramyun",
+      "noodle",
+      "soup"
+    ],
+    "normalizedTokens": [
+      "shin",
+      "ramyun",
+      "noodle",
+      "soup",
+      "120 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "120 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Роллтон картофельное пюре пюре картофельное с мясным вкусом 40 г",
+    "cleanTokens": [
+      "картофельное",
+      "картофельное",
+      "с",
+      "мясным",
+      "вкусом"
+    ],
+    "normalizedTokens": [
+      "картофельное",
+      "картофельное",
+      "с",
+      "мясным",
+      "вкусом",
+      "40 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "40 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Doshirak лапша для варки с куриным бульоном 120 г",
+    "cleanTokens": [
+      "для",
+      "варки",
+      "с",
+      "куриным",
+      "бульоном"
+    ],
+    "normalizedTokens": [
+      "для",
+      "варки",
+      "с",
+      "куриным",
+      "бульоном",
+      "120 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "120 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Роллтон лапша острая куриная по-домашнему 90 г",
+    "cleanTokens": [
+      "острая",
+      "куриная",
+      "по-домашнему"
+    ],
+    "normalizedTokens": [
+      "острая",
+      "куриная",
+      "по-домашнему",
+      "90 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "90 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Роллтон лапша острая с говядиной 90 г",
+    "cleanTokens": [
+      "острая",
+      "с",
+      "говядиной"
+    ],
+    "normalizedTokens": [
+      "острая",
+      "с",
+      "говядиной",
+      "90 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "90 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Big Bon лапша Tien Shan рамен со вкусом острой курицы 100 г",
+    "cleanTokens": [
+      "tien",
+      "shan",
+      "рамен",
+      "со",
+      "вкусом",
+      "острой",
+      "курицы"
+    ],
+    "normalizedTokens": [
+      "tien",
+      "shan",
+      "рамен",
+      "со",
+      "вкусом",
+      "острой",
+      "курицы",
+      "100 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "100 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мастер Кан лапша Omelette noodles with beef 110 г",
+    "cleanTokens": [
+      "omelette",
+      "noodles",
+      "with",
+      "beef"
+    ],
+    "normalizedTokens": [
+      "omelette",
+      "noodles",
+      "with",
+      "beef",
+      "110 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "110 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Big Bon лапша Tien Shan рамен острая говядина 100 г",
+    "cleanTokens": [
+      "tien",
+      "shan",
+      "рамен",
+      "острая",
+      "говядина"
+    ],
+    "normalizedTokens": [
+      "tien",
+      "shan",
+      "рамен",
+      "острая",
+      "говядина",
+      "100 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "100 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Big Bon лапша курица+соус сальса 85 г",
+    "cleanTokens": [
+      "курица+соус",
+      "сальса"
+    ],
+    "normalizedTokens": [
+      "курица+соус",
+      "сальса",
+      "85 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "85 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Samyang Hot chicken лапша со вкусом курицы 140 г",
+    "cleanTokens": [
+      "hot",
+      "chicken",
+      "со",
+      "вкусом",
+      "курицы"
+    ],
+    "normalizedTokens": [
+      "hot",
+      "chicken",
+      "со",
+      "вкусом",
+      "курицы",
+      "140 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "140 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Maggi суп суп куриный с вермишелью 50 г",
+    "cleanTokens": [
+      "суп",
+      "суп",
+      "куриный",
+      "с",
+      "вермишелью"
+    ],
+    "normalizedTokens": [
+      "суп",
+      "суп",
+      "куриный",
+      "с",
+      "вермишелью",
+      "50 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "50 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Роллтон лапша с говядиной по-домашнему 85 г",
+    "cleanTokens": [
+      "с",
+      "говядиной",
+      "по-домашнему"
+    ],
+    "normalizedTokens": [
+      "с",
+      "говядиной",
+      "по-домашнему",
+      "85 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "85 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Роллтон лапша с острой курицей по-домашнему 85 г",
+    "cleanTokens": [
+      "с",
+      "острой",
+      "курицей",
+      "по-домашнему"
+    ],
+    "normalizedTokens": [
+      "с",
+      "острой",
+      "курицей",
+      "по-домашнему",
+      "85 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "85 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Doshirak лапша Квисти со вкусом курицы 70 г",
+    "cleanTokens": [
+      "квисти",
+      "со",
+      "вкусом",
+      "курицы"
+    ],
+    "normalizedTokens": [
+      "квисти",
+      "со",
+      "вкусом",
+      "курицы",
+      "70 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "70 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "PODRAVKA суп куриный с вермишелью 62 г",
+    "cleanTokens": [
+      "суп",
+      "куриный",
+      "с",
+      "вермишелью"
+    ],
+    "normalizedTokens": [
+      "суп",
+      "куриный",
+      "с",
+      "вермишелью",
+      "62 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "62 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Big Bon лапша Tien Shan со вкусом курицы терияки 85 г",
+    "cleanTokens": [
+      "tien",
+      "shan",
+      "со",
+      "вкусом",
+      "курицы",
+      "терияки"
+    ],
+    "normalizedTokens": [
+      "tien",
+      "shan",
+      "со",
+      "вкусом",
+      "курицы",
+      "терияки",
+      "85 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "85 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Kimchi лапша Kimchi 120 г",
+    "cleanTokens": [],
+    "normalizedTokens": [
+      "120 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "120 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "PODRAVKA суп овощной со звездочками 52 г",
+    "cleanTokens": [
+      "суп",
+      "овощной",
+      "со",
+      "звездочками"
+    ],
+    "normalizedTokens": [
+      "суп",
+      "овощной",
+      "со",
+      "звездочками",
+      "52 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "52 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Big Bon лапша Discovery с соусом сальса по-мексикански с курицей 95 г",
+    "cleanTokens": [
+      "discovery",
+      "с",
+      "соусом",
+      "сальса",
+      "по-мексикански",
+      "с",
+      "курицей"
+    ],
+    "normalizedTokens": [
+      "discovery",
+      "с",
+      "соусом",
+      "сальса",
+      "по-мексикански",
+      "с",
+      "курицей",
+      "95 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "95 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Big Bon лапша говядина cоус томатный с базиликом 85 г",
+    "cleanTokens": [
+      "говядина",
+      "cоус",
+      "томатный",
+      "с",
+      "базиликом"
+    ],
+    "normalizedTokens": [
+      "говядина",
+      "cоус",
+      "томатный",
+      "с",
+      "базиликом",
+      "85 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "85 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Роллтон лапша по-домашнему с говядиной 90 г",
+    "cleanTokens": [
+      "по-домашнему",
+      "с",
+      "говядиной"
+    ],
+    "normalizedTokens": [
+      "по-домашнему",
+      "с",
+      "говядиной",
+      "90 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "90 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Samyang лапша Ramen Beef 65 г",
+    "cleanTokens": [
+      "ramen",
+      "beef"
+    ],
+    "normalizedTokens": [
+      "ramen",
+      "beef",
+      "65 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "65 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Do Food лапша ramen cheese chicken 113 г",
+    "cleanTokens": [
+      "ramen",
+      "cheese",
+      "chicken"
+    ],
+    "normalizedTokens": [
+      "ramen",
+      "cheese",
+      "chicken",
+      "113 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "113 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Big Bon лапша Tien Shan WOK с соусом со вкусом говядины 85 г",
+    "cleanTokens": [
+      "tien",
+      "shan",
+      "wok",
+      "с",
+      "соусом",
+      "со",
+      "вкусом",
+      "говядины"
+    ],
+    "normalizedTokens": [
+      "tien",
+      "shan",
+      "wok",
+      "с",
+      "соусом",
+      "со",
+      "вкусом",
+      "говядины",
+      "85 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "85 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мастер Кан лапша с тушеной говядиной, омлетом 110 г",
+    "cleanTokens": [
+      "с",
+      "тушеной",
+      "говядиной",
+      "омлетом"
+    ],
+    "normalizedTokens": [
+      "с",
+      "тушеной",
+      "говядиной",
+      "омлетом",
+      "110 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "110 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "NONGSHIM лапша Shin Ramyun 70 г",
+    "cleanTokens": [
+      "shin",
+      "ramyun"
+    ],
+    "normalizedTokens": [
+      "shin",
+      "ramyun",
+      "70 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "70 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Shin Noodle лапша сытный мясной соус 90 г",
+    "cleanTokens": [
+      "сытный",
+      "мясной",
+      "соус"
+    ],
+    "normalizedTokens": [
+      "сытный",
+      "мясной",
+      "соус",
+      "90 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "90 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мастер Кан лапша Dapanji chicken 97 г",
+    "cleanTokens": [
+      "dapanji",
+      "chicken"
+    ],
+    "normalizedTokens": [
+      "dapanji",
+      "chicken",
+      "97 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "97 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "PODRAVKA суп алфавит 52 г",
+    "cleanTokens": [
+      "суп",
+      "алфавит"
+    ],
+    "normalizedTokens": [
+      "суп",
+      "алфавит",
+      "52 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "52 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Алькони лапша Рамён kimchi 120 г",
+    "cleanTokens": [
+      "рамен"
+    ],
+    "normalizedTokens": [
+      "рамен",
+      "120 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "120 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Siemsam лапша жгучий lanzhou 90 г",
+    "cleanTokens": [
+      "жгучий",
+      "lanzhou"
+    ],
+    "normalizedTokens": [
+      "жгучий",
+      "lanzhou",
+      "90 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "90 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Kimchi лапша Kimchi ramyun 70 г",
+    "cleanTokens": [
+      "ramyun"
+    ],
+    "normalizedTokens": [
+      "ramyun",
+      "70 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "70 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Ottogi лапша Jin ramen spicy 65 г",
+    "cleanTokens": [
+      "jin",
+      "ramen",
+      "spicy"
+    ],
+    "normalizedTokens": [
+      "jin",
+      "ramen",
+      "spicy",
+      "65 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "65 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "PODRAVKA суп говяжий с вермишелью 65 г",
+    "cleanTokens": [
+      "суп",
+      "говяжий",
+      "с",
+      "вермишелью"
+    ],
+    "normalizedTokens": [
+      "суп",
+      "говяжий",
+      "с",
+      "вермишелью",
+      "65 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "65 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Роллтон лапша с острой говядиной 85 г",
+    "cleanTokens": [
+      "с",
+      "острой",
+      "говядиной"
+    ],
+    "normalizedTokens": [
+      "с",
+      "острой",
+      "говядиной",
+      "85 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "85 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Siemsam лапша корейский рамен со вкусом говядины барбекю 90 г",
+    "cleanTokens": [
+      "корейский",
+      "рамен",
+      "со",
+      "вкусом",
+      "говядины",
+      "барбекю"
+    ],
+    "normalizedTokens": [
+      "корейский",
+      "рамен",
+      "со",
+      "вкусом",
+      "говядины",
+      "барбекю",
+      "90 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "90 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "NONGSHIM лапша Neoguri Ramyun 120 г",
+    "cleanTokens": [
+      "neoguri",
+      "ramyun"
+    ],
+    "normalizedTokens": [
+      "neoguri",
+      "ramyun",
+      "120 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "120 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Big Bon лапша с соусом говядина гриль 95 г",
+    "cleanTokens": [
+      "с",
+      "соусом",
+      "говядина",
+      "гриль"
+    ],
+    "normalizedTokens": [
+      "с",
+      "соусом",
+      "говядина",
+      "гриль",
+      "95 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "95 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Ottogi лапша кимчи рамен 120 г",
+    "cleanTokens": [
+      "кимчи",
+      "рамен"
+    ],
+    "normalizedTokens": [
+      "кимчи",
+      "рамен",
+      "120 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "120 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Big Bon лапша куриная с пряным соусом 95 г",
+    "cleanTokens": [
+      "куриная",
+      "с",
+      "пряным",
+      "соусом"
+    ],
+    "normalizedTokens": [
+      "куриная",
+      "с",
+      "пряным",
+      "соусом",
+      "95 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "95 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "NONGSHIM лапша Soon Veggie Ramyun 112 г",
+    "cleanTokens": [
+      "soon",
+      "veggie",
+      "ramyun"
+    ],
+    "normalizedTokens": [
+      "soon",
+      "veggie",
+      "ramyun",
+      "112 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "112 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мастер Кан лапша кимчи c говядиной 100 г",
+    "cleanTokens": [
+      "кимчи",
+      "c",
+      "говядиной"
+    ],
+    "normalizedTokens": [
+      "кимчи",
+      "c",
+      "говядиной",
+      "100 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "100 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Pink Rocket токпокки Topokki Mac&Cheese 120 г",
+    "cleanTokens": [
+      "токпокки",
+      "topokki",
+      "mac&cheese"
+    ],
+    "normalizedTokens": [
+      "токпокки",
+      "topokki",
+      "mac&cheese",
+      "120 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "120 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Oki лапша Ramen Carbonara Cheese & Chicken 111 г",
+    "cleanTokens": [
+      "ramen",
+      "carbonara",
+      "cheese",
+      "&",
+      "chicken"
+    ],
+    "normalizedTokens": [
+      "ramen",
+      "carbonara",
+      "cheese",
+      "&",
+      "chicken",
+      "111 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "111 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Shin Noodle лапша сытный мясной соус 100 г",
+    "cleanTokens": [
+      "сытный",
+      "мясной",
+      "соус"
+    ],
+    "normalizedTokens": [
+      "сытный",
+      "мясной",
+      "соус",
+      "100 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "100 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "OKWOK лапша со вкусом курицы с сырным соусом 100 г",
+    "cleanTokens": [
+      "со",
+      "вкусом",
+      "курицы",
+      "с",
+      "сырным",
+      "соусом"
+    ],
+    "normalizedTokens": [
+      "со",
+      "вкусом",
+      "курицы",
+      "с",
+      "сырным",
+      "соусом",
+      "100 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "100 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Do Food лапша Beef&Cheese 112 г",
+    "cleanTokens": [
+      "beef&cheese"
+    ],
+    "normalizedTokens": [
+      "beef&cheese",
+      "112 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "112 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Shin Noodle лапша острая говядина 100 г",
+    "cleanTokens": [
+      "острая",
+      "говядина"
+    ],
+    "normalizedTokens": [
+      "острая",
+      "говядина",
+      "100 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "100 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Oki лапша Noodle Classic with Beef 106 г",
+    "cleanTokens": [
+      "noodle",
+      "classic",
+      "with",
+      "beef"
+    ],
+    "normalizedTokens": [
+      "noodle",
+      "classic",
+      "with",
+      "beef",
+      "106 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "106 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "OKWOK лапша со вкусом курицы 100 г",
+    "cleanTokens": [
+      "со",
+      "вкусом",
+      "курицы"
+    ],
+    "normalizedTokens": [
+      "со",
+      "вкусом",
+      "курицы",
+      "100 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "100 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "OKWOK лапша рамен курица 122 г",
+    "cleanTokens": [
+      "рамен",
+      "курица"
+    ],
+    "normalizedTokens": [
+      "рамен",
+      "курица",
+      "122 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "122 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "OKWOK лапша рамен говядина 122 г",
+    "cleanTokens": [
+      "рамен",
+      "говядина"
+    ],
+    "normalizedTokens": [
+      "рамен",
+      "говядина",
+      "122 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "122 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "OKWOK лапша говядина с соусом сальса 120 г",
+    "cleanTokens": [
+      "говядина",
+      "с",
+      "соусом",
+      "сальса"
+    ],
+    "normalizedTokens": [
+      "говядина",
+      "с",
+      "соусом",
+      "сальса",
+      "120 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "120 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Shin Noodle лапша куриный суп 90 г",
+    "cleanTokens": [
+      "куриный",
+      "суп"
+    ],
+    "normalizedTokens": [
+      "куриный",
+      "суп",
+      "90 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "90 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Oki лапша Ramen Kimchi & Cheese 109 г",
+    "cleanTokens": [
+      "ramen",
+      "&",
+      "cheese"
+    ],
+    "normalizedTokens": [
+      "ramen",
+      "&",
+      "cheese",
+      "109 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "109 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Do Food лапша chicken taste 103 г",
+    "cleanTokens": [
+      "chicken",
+      "taste"
+    ],
+    "normalizedTokens": [
+      "chicken",
+      "taste",
+      "103 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "103 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "СУПЕРСУП суп-пюре грибной с сухариками 18 г",
+    "cleanTokens": [
+      "суп-пюре",
+      "грибной",
+      "с",
+      "сухариками"
+    ],
+    "normalizedTokens": [
+      "суп-пюре",
+      "грибной",
+      "с",
+      "сухариками",
+      "18 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "18 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "СУПЕРСУП суп-пюре сырный с сухариками 19 г",
+    "cleanTokens": [
+      "суп-пюре",
+      "сырный",
+      "с",
+      "сухариками"
+    ],
+    "normalizedTokens": [
+      "суп-пюре",
+      "сырный",
+      "с",
+      "сухариками",
+      "19 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "19 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Oki лапша Noodle Classic говядина 95 г",
+    "cleanTokens": [
+      "noodle",
+      "classic",
+      "говядина"
+    ],
+    "normalizedTokens": [
+      "noodle",
+      "classic",
+      "говядина",
+      "95 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "95 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Doshirak лапша с кимчи 90 г",
+    "cleanTokens": [
+      "с",
+      "кимчи"
+    ],
+    "normalizedTokens": [
+      "с",
+      "кимчи",
+      "90 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "90 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Do Food лапша kimchi food 109 г",
+    "cleanTokens": [
+      "food"
+    ],
+    "normalizedTokens": [
+      "food",
+      "109 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "109 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Pink Rocket токпокки Pink pocket topokki 120 г",
+    "cleanTokens": [
+      "токпокки",
+      "pink",
+      "pocket",
+      "topokki"
+    ],
+    "normalizedTokens": [
+      "токпокки",
+      "pink",
+      "pocket",
+      "topokki",
+      "120 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "120 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "СУПЕРСУП суп-пюре гороховый с сухариками 22 г",
+    "cleanTokens": [
+      "суп-пюре",
+      "гороховый",
+      "с",
+      "сухариками"
+    ],
+    "normalizedTokens": [
+      "суп-пюре",
+      "гороховый",
+      "с",
+      "сухариками",
+      "22 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "22 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Good Pokki токпокки Rice Cake Tteokguk 500 г",
+    "cleanTokens": [
+      "токпокки",
+      "rice",
+      "cake",
+      "tteokguk"
+    ],
+    "normalizedTokens": [
+      "токпокки",
+      "rice",
+      "cake",
+      "tteokguk",
+      "500 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "500 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Good Pokki токпокки токпокки классические 300 г",
+    "cleanTokens": [
+      "токпокки",
+      "токпокки",
+      "классические"
+    ],
+    "normalizedTokens": [
+      "токпокки",
+      "токпокки",
+      "классические",
+      "300 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "300 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Samyang лапша Cheese ramen 145 г",
+    "cleanTokens": [
+      "cheese",
+      "ramen"
+    ],
+    "normalizedTokens": [
+      "cheese",
+      "ramen",
+      "145 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "145 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "NONGSHIM лапша Soon Veggie Cup Noodle Soup 12 упаковок по 67 г",
+    "cleanTokens": [
+      "soon",
+      "veggie",
+      "cup",
+      "noodle",
+      "soup",
+      "12",
+      "упаковок",
+      "по"
+    ],
+    "normalizedTokens": [
+      "soon",
+      "veggie",
+      "cup",
+      "noodle",
+      "soup",
+      "12",
+      "упаковок",
+      "по",
+      "67 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "67 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Ottogi лапша с острым вкусом 120 г",
+    "cleanTokens": [
+      "с",
+      "острым",
+      "вкусом"
+    ],
+    "normalizedTokens": [
+      "с",
+      "острым",
+      "вкусом",
+      "120 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "120 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Samyang лапша Samyang Ramyun Export Halal 120 г",
+    "cleanTokens": [
+      "ramyun",
+      "export",
+      "halal"
+    ],
+    "normalizedTokens": [
+      "ramyun",
+      "export",
+      "halal",
+      "120 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "120 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "NONGSHIM лапша Soon Veggie Ramyun Noodle Soup 40 упаковок по 112 г",
+    "cleanTokens": [
+      "soon",
+      "veggie",
+      "ramyun",
+      "noodle",
+      "soup",
+      "40",
+      "упаковок",
+      "по"
+    ],
+    "normalizedTokens": [
+      "soon",
+      "veggie",
+      "ramyun",
+      "noodle",
+      "soup",
+      "40",
+      "упаковок",
+      "по",
+      "112 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "112 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Ottogi лапша Cheese ramen 111 г",
+    "cleanTokens": [
+      "cheese",
+      "ramen"
+    ],
+    "normalizedTokens": [
+      "cheese",
+      "ramen",
+      "111 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "111 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "NONGSHIM лапша Sarigomtang Ramyun 110 г",
+    "cleanTokens": [
+      "sarigomtang",
+      "ramyun"
+    ],
+    "normalizedTokens": [
+      "sarigomtang",
+      "ramyun",
+      "110 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "110 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "СУПЕРСУП суп том ям 45 г",
+    "cleanTokens": [
+      "суп",
+      "том",
+      "ям"
+    ],
+    "normalizedTokens": [
+      "суп",
+      "том",
+      "ям",
+      "45 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "45 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Beakge лапша Rice Noodle Soup Flavour 93.5 г",
+    "cleanTokens": [
+      "rice",
+      "noodle",
+      "soup",
+      "flavour"
+    ],
+    "normalizedTokens": [
+      "rice",
+      "noodle",
+      "soup",
+      "flavour",
+      "93.5 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "93.5 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Beakge лапша со вкусом анчоусов 92 г",
+    "cleanTokens": [
+      "со",
+      "вкусом",
+      "анчоусов"
+    ],
+    "normalizedTokens": [
+      "со",
+      "вкусом",
+      "анчоусов",
+      "92 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "92 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Beakge лапша Rice Noodle with Kimchi Flavour 92 г",
+    "cleanTokens": [
+      "rice",
+      "noodle",
+      "with",
+      "flavour"
+    ],
+    "normalizedTokens": [
+      "rice",
+      "noodle",
+      "with",
+      "flavour",
+      "92 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "92 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Samyang лапша Rose Fried Spicy Chicken 140 г",
+    "cleanTokens": [
+      "rose",
+      "fried",
+      "spicy",
+      "chicken"
+    ],
+    "normalizedTokens": [
+      "rose",
+      "fried",
+      "spicy",
+      "chicken",
+      "140 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "140 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "The Han Kitchen лапша Comtang Ramyun 117 г",
+    "cleanTokens": [
+      "comtang",
+      "ramyun"
+    ],
+    "normalizedTokens": [
+      "comtang",
+      "ramyun",
+      "117 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "117 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Леовит набор Худеем за неделю традиционное меню с мясом 718 г",
+    "cleanTokens": [
+      "набор",
+      "худеем",
+      "за",
+      "неделю",
+      "традиционное",
+      "меню",
+      "с",
+      "мясом"
+    ],
+    "normalizedTokens": [
+      "набор",
+      "худеем",
+      "за",
+      "неделю",
+      "традиционное",
+      "меню",
+      "с",
+      "мясом",
+      "718 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "718 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Samyang лапша Buldak cheese hot chicken flavor 145 г",
+    "cleanTokens": [
+      "buldak",
+      "cheese",
+      "hot",
+      "chicken",
+      "flavor"
+    ],
+    "normalizedTokens": [
+      "buldak",
+      "cheese",
+      "hot",
+      "chicken",
+      "flavor",
+      "145 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "145 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "O'Food токпокки Original tteokbokki rice cakes with gochujang sauce 260 г",
+    "cleanTokens": [
+      "токпокки",
+      "original",
+      "tteokbokki",
+      "rice",
+      "cakes",
+      "with",
+      "gochujang",
+      "sauce"
+    ],
+    "normalizedTokens": [
+      "токпокки",
+      "original",
+      "tteokbokki",
+      "rice",
+      "cakes",
+      "with",
+      "gochujang",
+      "sauce",
+      "260 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "260 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Ottogi лапша Ramensari 110 г",
+    "cleanTokens": [
+      "ramensari"
+    ],
+    "normalizedTokens": [
+      "ramensari",
+      "110 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "110 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Earnest F&B токпокки Пороро Ттеокбокки со вкусом сыра 110 г",
+    "cleanTokens": [
+      "токпокки",
+      "пороро",
+      "ттеокбокки",
+      "со",
+      "вкусом",
+      "сыра"
+    ],
+    "normalizedTokens": [
+      "токпокки",
+      "пороро",
+      "ттеокбокки",
+      "со",
+      "вкусом",
+      "сыра",
+      "110 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "110 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "СУПЕРСУП суп-пюре куриный с сухариками 17 г",
+    "cleanTokens": [
+      "суп-пюре",
+      "куриный",
+      "с",
+      "сухариками"
+    ],
+    "normalizedTokens": [
+      "суп-пюре",
+      "куриный",
+      "с",
+      "сухариками",
+      "17 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "17 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "NONGSHIM лапша Soon Veggie Cup Ramyun 67 г",
+    "cleanTokens": [
+      "soon",
+      "veggie",
+      "cup",
+      "ramyun"
+    ],
+    "normalizedTokens": [
+      "soon",
+      "veggie",
+      "cup",
+      "ramyun",
+      "67 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "67 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "O'Food токпокки Sweet Chili Ttteokbokki 260 г",
+    "cleanTokens": [
+      "токпокки",
+      "sweet",
+      "chili",
+      "ttteokbokki"
+    ],
+    "normalizedTokens": [
+      "токпокки",
+      "sweet",
+      "chili",
+      "ttteokbokki",
+      "260 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "260 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Samyang лапша Buldak Cheese 140 г",
+    "cleanTokens": [
+      "buldak",
+      "cheese"
+    ],
+    "normalizedTokens": [
+      "buldak",
+      "cheese",
+      "140 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "140 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Леовит набор Худеем за неделю Средиземноморское меню 708 г",
+    "cleanTokens": [
+      "набор",
+      "худеем",
+      "за",
+      "неделю",
+      "средиземноморское",
+      "меню"
+    ],
+    "normalizedTokens": [
+      "набор",
+      "худеем",
+      "за",
+      "неделю",
+      "средиземноморское",
+      "меню",
+      "708 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "708 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "NONGSHIM лапша Neoguri Mild Ramyun 120 г",
+    "cleanTokens": [
+      "neoguri",
+      "mild",
+      "ramyun"
+    ],
+    "normalizedTokens": [
+      "neoguri",
+      "mild",
+      "ramyun",
+      "120 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "120 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Ottogi лапша Jin Yeul Ramen Spicy Korean Style Instant Noodles 120 г",
+    "cleanTokens": [
+      "jin",
+      "yeul",
+      "ramen",
+      "spicy",
+      "korean",
+      "style",
+      "instant",
+      "noodles"
+    ],
+    "normalizedTokens": [
+      "jin",
+      "yeul",
+      "ramen",
+      "spicy",
+      "korean",
+      "style",
+      "instant",
+      "noodles",
+      "120 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "120 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Pink Rocket токпокки Topokki carbonara 120 г",
+    "cleanTokens": [
+      "токпокки",
+      "topokki",
+      "carbonara"
+    ],
+    "normalizedTokens": [
+      "токпокки",
+      "topokki",
+      "carbonara",
+      "120 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "120 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "The Han Kitchen лапша Budae Ramyun 119 г",
+    "cleanTokens": [
+      "budae",
+      "ramyun"
+    ],
+    "normalizedTokens": [
+      "budae",
+      "ramyun",
+      "119 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "119 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Ottogi лапша Sesame Ramen 65 г",
+    "cleanTokens": [
+      "sesame",
+      "ramen"
+    ],
+    "normalizedTokens": [
+      "sesame",
+      "ramen",
+      "65 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "65 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "NONGSHIM лапша Premium Beef Jajangmyeon Noodles 134 г",
+    "cleanTokens": [
+      "premium",
+      "beef",
+      "jajangmyeon",
+      "noodles"
+    ],
+    "normalizedTokens": [
+      "premium",
+      "beef",
+      "jajangmyeon",
+      "noodles",
+      "134 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "134 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Ottogi лапша Jin Jajang Ramen smoked black bean flavour 135 г",
+    "cleanTokens": [
+      "jin",
+      "jajang",
+      "ramen",
+      "smoked",
+      "black",
+      "bean",
+      "flavour"
+    ],
+    "normalizedTokens": [
+      "jin",
+      "jajang",
+      "ramen",
+      "smoked",
+      "black",
+      "bean",
+      "flavour",
+      "135 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "135 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Ottogi лапша Yeul Ramen beef taste 62 г",
+    "cleanTokens": [
+      "yeul",
+      "ramen",
+      "beef",
+      "taste"
+    ],
+    "normalizedTokens": [
+      "yeul",
+      "ramen",
+      "beef",
+      "taste",
+      "62 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "62 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "NONGSHIM лапша Neoguri Hot Ramyun 120 г",
+    "cleanTokens": [
+      "neoguri",
+      "hot",
+      "ramyun"
+    ],
+    "normalizedTokens": [
+      "neoguri",
+      "hot",
+      "ramyun",
+      "120 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "120 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "NONGSHIM лапша Toomba Spicy&Creamy Flavor 137 г",
+    "cleanTokens": [
+      "toomba",
+      "spicy&creamy",
+      "flavor"
+    ],
+    "normalizedTokens": [
+      "toomba",
+      "spicy&creamy",
+      "flavor",
+      "137 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "137 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Леовит набор Худеем за неделю снижение веса 857 г",
+    "cleanTokens": [
+      "набор",
+      "худеем",
+      "за",
+      "неделю",
+      "снижение",
+      "веса"
+    ],
+    "normalizedTokens": [
+      "набор",
+      "худеем",
+      "за",
+      "неделю",
+      "снижение",
+      "веса",
+      "857 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "857 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Ottogi лапша Jin Jjambbong 130 г",
+    "cleanTokens": [
+      "jin",
+      "jjambbong"
+    ],
+    "normalizedTokens": [
+      "jin",
+      "jjambbong",
+      "130 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "130 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "O'Food токпокки Rose Tteokbokki 260 г",
+    "cleanTokens": [
+      "токпокки",
+      "rose",
+      "tteokbokki"
+    ],
+    "normalizedTokens": [
+      "токпокки",
+      "rose",
+      "tteokbokki",
+      "260 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "260 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Леовит набор Худеем за неделю программа питания на 5 дней 771 г",
+    "cleanTokens": [
+      "набор",
+      "худеем",
+      "за",
+      "неделю",
+      "программа",
+      "питания",
+      "на",
+      "5",
+      "дней"
+    ],
+    "normalizedTokens": [
+      "набор",
+      "худеем",
+      "за",
+      "неделю",
+      "программа",
+      "питания",
+      "на",
+      "5",
+      "дней",
+      "771 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "771 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "San Bonsai лапша Singapore в ореховом соусе 123 г",
+    "cleanTokens": [
+      "singapore",
+      "в",
+      "ореховом",
+      "соусе"
+    ],
+    "normalizedTokens": [
+      "singapore",
+      "в",
+      "ореховом",
+      "соусе",
+      "123 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "123 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Samyang лапша Buldak Samyang Hot Chicken Ramen 130 г",
+    "cleanTokens": [
+      "buldak",
+      "hot",
+      "chicken",
+      "ramen"
+    ],
+    "normalizedTokens": [
+      "buldak",
+      "hot",
+      "chicken",
+      "ramen",
+      "130 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "130 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Ottogi лапша Sesame Remen 63 г",
+    "cleanTokens": [
+      "sesame",
+      "remen"
+    ],
+    "normalizedTokens": [
+      "sesame",
+      "remen",
+      "63 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "63 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Earnest F&B токпокки Pororo Children's Fried Rice Cake Sticks 115 г",
+    "cleanTokens": [
+      "токпокки",
+      "pororo",
+      "children's",
+      "fried",
+      "rice",
+      "cake",
+      "sticks"
+    ],
+    "normalizedTokens": [
+      "токпокки",
+      "pororo",
+      "children's",
+      "fried",
+      "rice",
+      "cake",
+      "sticks",
+      "115 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "115 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Earnest F&B токпокки Cup Rice Cake Cream Sauce 115 г",
+    "cleanTokens": [
+      "токпокки",
+      "cup",
+      "rice",
+      "cake",
+      "cream",
+      "sauce"
+    ],
+    "normalizedTokens": [
+      "токпокки",
+      "cup",
+      "rice",
+      "cake",
+      "cream",
+      "sauce",
+      "115 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "115 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "NONGSHIM лапша Neoguri Ramen 62 г",
+    "cleanTokens": [
+      "neoguri",
+      "ramen"
+    ],
+    "normalizedTokens": [
+      "neoguri",
+      "ramen",
+      "62 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "62 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "СУПЕРСУП суп суп гороховый с беконом и гренками 45 г",
+    "cleanTokens": [
+      "суп",
+      "суп",
+      "гороховый",
+      "с",
+      "беконом",
+      "гренками"
+    ],
+    "normalizedTokens": [
+      "суп",
+      "суп",
+      "гороховый",
+      "с",
+      "беконом",
+      "гренками",
+      "45 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "45 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Samyang лапша Ramen best flavor 65 г",
+    "cleanTokens": [
+      "ramen",
+      "best",
+      "flavor"
+    ],
+    "normalizedTokens": [
+      "ramen",
+      "best",
+      "flavor",
+      "65 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "65 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Earnest F&B токпокки Tteokbokki Korean Rice Cake Instant Cup 120 г",
+    "cleanTokens": [
+      "токпокки",
+      "tteokbokki",
+      "korean",
+      "rice",
+      "cake",
+      "instant",
+      "cup"
+    ],
+    "normalizedTokens": [
+      "токпокки",
+      "tteokbokki",
+      "korean",
+      "rice",
+      "cake",
+      "instant",
+      "cup",
+      "120 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "120 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Earnest F&B токпокки Spicy Toppokki 120 г",
+    "cleanTokens": [
+      "токпокки",
+      "spicy",
+      "toppokki"
+    ],
+    "normalizedTokens": [
+      "токпокки",
+      "spicy",
+      "toppokki",
+      "120 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "120 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "The Han Kitchen лапша flaming chicken carbonara sauce 135 г",
+    "cleanTokens": [
+      "flaming",
+      "chicken",
+      "carbonara",
+      "sauce"
+    ],
+    "normalizedTokens": [
+      "flaming",
+      "chicken",
+      "carbonara",
+      "sauce",
+      "135 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "135 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "NONGSHIM лапша Neoguri Ramuyon 120 г",
+    "cleanTokens": [
+      "neoguri",
+      "ramuyon"
+    ],
+    "normalizedTokens": [
+      "neoguri",
+      "ramuyon",
+      "120 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "120 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Earnest F&B токпокки Tokpokki rose cheese 30 упаковок по 120 г",
+    "cleanTokens": [
+      "токпокки",
+      "tokpokki",
+      "rose",
+      "cheese",
+      "30",
+      "упаковок",
+      "по"
+    ],
+    "normalizedTokens": [
+      "токпокки",
+      "tokpokki",
+      "rose",
+      "cheese",
+      "30",
+      "упаковок",
+      "по",
+      "120 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "120 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Daesang токпокки Tokpokki in hot sauce 10 упаковок по 380 г",
+    "cleanTokens": [
+      "токпокки",
+      "tokpokki",
+      "in",
+      "hot",
+      "sauce",
+      "10",
+      "упаковок",
+      "по"
+    ],
+    "normalizedTokens": [
+      "токпокки",
+      "tokpokki",
+      "in",
+      "hot",
+      "sauce",
+      "10",
+      "упаковок",
+      "по",
+      "380 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "380 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Samyang лапша Carbo hot chicken flavor ramen 16 упаковок по 105 г",
+    "cleanTokens": [
+      "carbo",
+      "hot",
+      "chicken",
+      "flavor",
+      "ramen",
+      "16",
+      "упаковок",
+      "по"
+    ],
+    "normalizedTokens": [
+      "carbo",
+      "hot",
+      "chicken",
+      "flavor",
+      "ramen",
+      "16",
+      "упаковок",
+      "по",
+      "105 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "105 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "СУПЕРСУП суп куриный с гренками 45 г",
+    "cleanTokens": [
+      "суп",
+      "куриный",
+      "с",
+      "гренками"
+    ],
+    "normalizedTokens": [
+      "суп",
+      "куриный",
+      "с",
+      "гренками",
+      "45 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "45 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Ottogi рис Cooked Rice 210 г",
+    "cleanTokens": [
+      "рис",
+      "cooked",
+      "rice"
+    ],
+    "normalizedTokens": [
+      "рис",
+      "cooked",
+      "rice",
+      "210 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "210 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "NONGSHIM лапша Jin ramen mild 120 г",
+    "cleanTokens": [
+      "jin",
+      "ramen",
+      "mild"
+    ],
+    "normalizedTokens": [
+      "jin",
+      "ramen",
+      "mild",
+      "120 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "120 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "San Bonsai лапша Phad Thai рисовая в устричном соусе 123 г",
+    "cleanTokens": [
+      "phad",
+      "thai",
+      "рисовая",
+      "в",
+      "устричном",
+      "соусе"
+    ],
+    "normalizedTokens": [
+      "phad",
+      "thai",
+      "рисовая",
+      "в",
+      "устричном",
+      "соусе",
+      "123 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "123 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "NONGSHIM лапша Bowl Noodle Soup Kimchi 86 г",
+    "cleanTokens": [
+      "bowl",
+      "noodle",
+      "soup"
+    ],
+    "normalizedTokens": [
+      "bowl",
+      "noodle",
+      "soup",
+      "86 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "86 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "NONGSHIM лапша Chapaghetti Ramyun 140 г",
+    "cleanTokens": [
+      "chapaghetti",
+      "ramyun"
+    ],
+    "normalizedTokens": [
+      "chapaghetti",
+      "ramyun",
+      "140 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "140 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Samyang лапша Buldak Rose Spicy Chicken Stir-fry Ramen Cup 105 г",
+    "cleanTokens": [
+      "buldak",
+      "rose",
+      "spicy",
+      "chicken",
+      "stir-fry",
+      "ramen",
+      "cup"
+    ],
+    "normalizedTokens": [
+      "buldak",
+      "rose",
+      "spicy",
+      "chicken",
+      "stir-fry",
+      "ramen",
+      "cup",
+      "105 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "105 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "The Han Kitchen лапша Pocha Ramyun 118 г",
+    "cleanTokens": [
+      "pocha",
+      "ramyun"
+    ],
+    "normalizedTokens": [
+      "pocha",
+      "ramyun",
+      "118 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "118 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Samyang лапша Carbo hot chicken flavor ramen 105 г",
+    "cleanTokens": [
+      "carbo",
+      "hot",
+      "chicken",
+      "flavor",
+      "ramen"
+    ],
+    "normalizedTokens": [
+      "carbo",
+      "hot",
+      "chicken",
+      "flavor",
+      "ramen",
+      "105 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "105 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Kang Shi Fu лапша томатная с яйцом и говядиной 115 г",
+    "cleanTokens": [
+      "томатная",
+      "с",
+      "яйцом",
+      "говядиной"
+    ],
+    "normalizedTokens": [
+      "томатная",
+      "с",
+      "яйцом",
+      "говядиной",
+      "115 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "115 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Kang Shi Fu лапша с тушеной курицей и грибами шиитаке 101 г",
+    "cleanTokens": [
+      "с",
+      "тушеной",
+      "курицей",
+      "грибами",
+      "шиитаке"
+    ],
+    "normalizedTokens": [
+      "с",
+      "тушеной",
+      "курицей",
+      "грибами",
+      "шиитаке",
+      "101 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "101 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Леовит набор Худеем за неделю программа питания Вегетарианское меню 858 г",
+    "cleanTokens": [
+      "набор",
+      "худеем",
+      "за",
+      "неделю",
+      "программа",
+      "питания",
+      "вегетарианское",
+      "меню"
+    ],
+    "normalizedTokens": [
+      "набор",
+      "худеем",
+      "за",
+      "неделю",
+      "программа",
+      "питания",
+      "вегетарианское",
+      "меню",
+      "858 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "858 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Tian Xiao Hua лапша хого вегетарианский 300 г",
+    "cleanTokens": [
+      "хого",
+      "вегетарианский"
+    ],
+    "normalizedTokens": [
+      "хого",
+      "вегетарианский",
+      "300 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "300 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Earnest F&B токпокки Pororo Carbonara Tteokbokki 115 г",
+    "cleanTokens": [
+      "токпокки",
+      "pororo",
+      "carbonara",
+      "tteokbokki"
+    ],
+    "normalizedTokens": [
+      "токпокки",
+      "pororo",
+      "carbonara",
+      "tteokbokki",
+      "115 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "115 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Samyang лапша Hot chicken flavor ramen with cheese 105 г",
+    "cleanTokens": [
+      "hot",
+      "chicken",
+      "flavor",
+      "ramen",
+      "with",
+      "cheese"
+    ],
+    "normalizedTokens": [
+      "hot",
+      "chicken",
+      "flavor",
+      "ramen",
+      "with",
+      "cheese",
+      "105 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "105 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Kang Shi Fu лапша с мясом и ароматом перечной мяты 110 г",
+    "cleanTokens": [
+      "с",
+      "мясом",
+      "ароматом",
+      "перечной",
+      "мяты"
+    ],
+    "normalizedTokens": [
+      "с",
+      "мясом",
+      "ароматом",
+      "перечной",
+      "мяты",
+      "110 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "110 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Kang Shi Fu лапша классическая с тушеной говядной 115 г",
+    "cleanTokens": [
+      "классическая",
+      "с",
+      "тушеной",
+      "говядной"
+    ],
+    "normalizedTokens": [
+      "классическая",
+      "с",
+      "тушеной",
+      "говядной",
+      "115 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "115 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "NONGSHIM лапша Bowl Noodle Soup Yukgaejang 86 г",
+    "cleanTokens": [
+      "bowl",
+      "noodle",
+      "soup",
+      "yukgaejang"
+    ],
+    "normalizedTokens": [
+      "bowl",
+      "noodle",
+      "soup",
+      "yukgaejang",
+      "86 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "86 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Kang Shi Fu лапша острая с говядиной и кинзой 116 г",
+    "cleanTokens": [
+      "острая",
+      "с",
+      "говядиной",
+      "кинзой"
+    ],
+    "normalizedTokens": [
+      "острая",
+      "с",
+      "говядиной",
+      "кинзой",
+      "116 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "116 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Xiang Ta Ta лапша Шанхайская с зеленым луком 150 г",
+    "cleanTokens": [
+      "шанхайская",
+      "с",
+      "зеленым",
+      "луком"
+    ],
+    "normalizedTokens": [
+      "шанхайская",
+      "с",
+      "зеленым",
+      "луком",
+      "150 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "150 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Haidilao Рис с мясом в соусе \"Юйсян\" 187 г",
+    "cleanTokens": [
+      "рис",
+      "с",
+      "мясом",
+      "в",
+      "соусе",
+      "юйсян"
+    ],
+    "normalizedTokens": [
+      "рис",
+      "с",
+      "мясом",
+      "в",
+      "соусе",
+      "юйсян",
+      "187 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "187 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Samyang лапша Beef Flavor Ramen 120 г",
+    "cleanTokens": [
+      "beef",
+      "flavor",
+      "ramen"
+    ],
+    "normalizedTokens": [
+      "beef",
+      "flavor",
+      "ramen",
+      "120 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "120 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Ottogi лапша Real Cheese Ramen 120 г",
+    "cleanTokens": [
+      "real",
+      "cheese",
+      "ramen"
+    ],
+    "normalizedTokens": [
+      "real",
+      "cheese",
+      "ramen",
+      "120 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "120 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Ottogi лапша Jin Ramen Cup Mild 65 г",
+    "cleanTokens": [
+      "jin",
+      "ramen",
+      "cup",
+      "mild"
+    ],
+    "normalizedTokens": [
+      "jin",
+      "ramen",
+      "cup",
+      "mild",
+      "65 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "65 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Kang Shi Fu лапша говядина с ротанговым перцем 110 г",
+    "cleanTokens": [
+      "говядина",
+      "с",
+      "ротанговым",
+      "перцем"
+    ],
+    "normalizedTokens": [
+      "говядина",
+      "с",
+      "ротанговым",
+      "перцем",
+      "110 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "110 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Haidilao лапша с говядиной острая нежная 435 г",
+    "cleanTokens": [
+      "с",
+      "говядиной",
+      "острая",
+      "нежная"
+    ],
+    "normalizedTokens": [
+      "с",
+      "говядиной",
+      "острая",
+      "нежная",
+      "435 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "435 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Kang Shi Fu лапша кисло-острая с говядиной и маринованным перцем 110 г",
+    "cleanTokens": [
+      "кисло-острая",
+      "с",
+      "говядиной",
+      "маринованным",
+      "перцем"
+    ],
+    "normalizedTokens": [
+      "кисло-острая",
+      "с",
+      "говядиной",
+      "маринованным",
+      "перцем",
+      "110 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "110 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Samyang лапша острый 120 г",
+    "cleanTokens": [
+      "острый"
+    ],
+    "normalizedTokens": [
+      "острый",
+      "120 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "120 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Xiao xiang chu лапша с ланчжоуской говядиной 182 г",
+    "cleanTokens": [
+      "с",
+      "ланчжоуской",
+      "говядиной"
+    ],
+    "normalizedTokens": [
+      "с",
+      "ланчжоуской",
+      "говядиной",
+      "182 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "182 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Haidilao Терияки с курицей и рисом 181 г",
+    "cleanTokens": [
+      "терияки",
+      "с",
+      "курицей",
+      "рисом"
+    ],
+    "normalizedTokens": [
+      "терияки",
+      "с",
+      "курицей",
+      "рисом",
+      "181 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "181 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Samyang лапша Hot Chiken Ramen Quatro Cheese 110 г",
+    "cleanTokens": [
+      "hot",
+      "chiken",
+      "ramen",
+      "quatro",
+      "cheese"
+    ],
+    "normalizedTokens": [
+      "hot",
+      "chiken",
+      "ramen",
+      "quatro",
+      "cheese",
+      "110 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "110 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "The Han Kitchen лапша Pocha Ramyun Jumbo Bowl 107 г",
+    "cleanTokens": [
+      "pocha",
+      "ramyun",
+      "jumbo",
+      "bowl"
+    ],
+    "normalizedTokens": [
+      "pocha",
+      "ramyun",
+      "jumbo",
+      "bowl",
+      "107 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "107 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "O'Food токпокки BBQ Tteokbokki 260 г",
+    "cleanTokens": [
+      "токпокки",
+      "bbq",
+      "tteokbokki"
+    ],
+    "normalizedTokens": [
+      "токпокки",
+      "bbq",
+      "tteokbokki",
+      "260 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "260 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Ottogi лапша Jin Ramen Bowl Mild 110 г",
+    "cleanTokens": [
+      "jin",
+      "ramen",
+      "bowl",
+      "mild"
+    ],
+    "normalizedTokens": [
+      "jin",
+      "ramen",
+      "bowl",
+      "mild",
+      "110 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "110 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "GUANGYOU лапша кисло-острая со свежей зеленью 105 г",
+    "cleanTokens": [
+      "кисло-острая",
+      "со",
+      "свежей",
+      "зеленью"
+    ],
+    "normalizedTokens": [
+      "кисло-острая",
+      "со",
+      "свежей",
+      "зеленью",
+      "105 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "105 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Haidilao лапша говядина рубец пряная 435 г",
+    "cleanTokens": [
+      "говядина",
+      "рубец",
+      "пряная"
+    ],
+    "normalizedTokens": [
+      "говядина",
+      "рубец",
+      "пряная",
+      "435 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "435 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Samyang лапша Ramen Hot chicken flavour 115 г",
+    "cleanTokens": [
+      "ramen",
+      "hot",
+      "chicken",
+      "flavour"
+    ],
+    "normalizedTokens": [
+      "ramen",
+      "hot",
+      "chicken",
+      "flavour",
+      "115 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "115 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Ottogi лапша Jin Ramen Veggie 110 г",
+    "cleanTokens": [
+      "jin",
+      "ramen",
+      "veggie"
+    ],
+    "normalizedTokens": [
+      "jin",
+      "ramen",
+      "veggie",
+      "110 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "110 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Ottogi рис Cooked rice sprouted black 210 г",
+    "cleanTokens": [
+      "рис",
+      "cooked",
+      "rice",
+      "sprouted",
+      "black"
+    ],
+    "normalizedTokens": [
+      "рис",
+      "cooked",
+      "rice",
+      "sprouted",
+      "black",
+      "210 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "210 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Ottogi лапша Jin Ramen Mild 65 г",
+    "cleanTokens": [
+      "jin",
+      "ramen",
+      "mild"
+    ],
+    "normalizedTokens": [
+      "jin",
+      "ramen",
+      "mild",
+      "65 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "65 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "СУПЕРСУП суп фо бо 36 г",
+    "cleanTokens": [
+      "суп",
+      "фо",
+      "бо"
+    ],
+    "normalizedTokens": [
+      "суп",
+      "фо",
+      "бо",
+      "36 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "36 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Samyang лапша Rose Hot chicken flavor ramen 32 упаковки по 140 г",
+    "cleanTokens": [
+      "rose",
+      "hot",
+      "chicken",
+      "flavor",
+      "ramen"
+    ],
+    "normalizedTokens": [
+      "rose",
+      "hot",
+      "chicken",
+      "flavor",
+      "ramen",
+      "32 упаковки по 140 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": null,
+      "pack": {
+        "packs": 32,
+        "perPack": 140,
+        "unit": "г"
+      },
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Haidilao лапша говядина грудинка томат 365 г",
+    "cleanTokens": [
+      "говядина",
+      "грудинка",
+      "томат"
+    ],
+    "normalizedTokens": [
+      "говядина",
+      "грудинка",
+      "томат",
+      "365 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "365 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Kang Shi Fu лапша тушёной курицей и грибами шиитаке 85 г",
+    "cleanTokens": [
+      "тушеной",
+      "курицей",
+      "грибами",
+      "шиитаке"
+    ],
+    "normalizedTokens": [
+      "тушеной",
+      "курицей",
+      "грибами",
+      "шиитаке",
+      "85 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "85 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Рис Пряный куриный 175г Haidilao 海底捞",
+    "cleanTokens": [
+      "рис",
+      "пряный",
+      "куриный",
+      "175г",
+      "海底捞"
+    ],
+    "normalizedTokens": [
+      "рис",
+      "пряный",
+      "куриный",
+      "175г",
+      "海底捞"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Samyang лапша Buldak Stir-fried noodles cup  16 упаковок по 105 г",
+    "cleanTokens": [
+      "buldak",
+      "stir-fried",
+      "noodles",
+      "cup",
+      "16",
+      "упаковок",
+      "по"
+    ],
+    "normalizedTokens": [
+      "buldak",
+      "stir-fried",
+      "noodles",
+      "cup",
+      "16",
+      "упаковок",
+      "по",
+      "105 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "105 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Ottogi лапша Real Cheese Ramyun 1440 г",
+    "cleanTokens": [
+      "real",
+      "cheese",
+      "ramyun"
+    ],
+    "normalizedTokens": [
+      "real",
+      "cheese",
+      "ramyun",
+      "1440 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "1440 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Yopokki токпокки garlic teriyaki topokki 120 г",
+    "cleanTokens": [
+      "токпокки",
+      "garlic",
+      "teriyaki",
+      "topokki"
+    ],
+    "normalizedTokens": [
+      "токпокки",
+      "garlic",
+      "teriyaki",
+      "topokki",
+      "120 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "120 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Yopokki токпокки Black soybean sauce topokki 120 г",
+    "cleanTokens": [
+      "токпокки",
+      "black",
+      "soybean",
+      "sauce",
+      "topokki"
+    ],
+    "normalizedTokens": [
+      "токпокки",
+      "black",
+      "soybean",
+      "sauce",
+      "topokki",
+      "120 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "120 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "NONGSHIM лапша Bowl Noodle Soup Kimchi Kynsabal 16 шт по 112 г",
+    "cleanTokens": [
+      "bowl",
+      "noodle",
+      "soup",
+      "kynsabal",
+      "по"
+    ],
+    "normalizedTokens": [
+      "bowl",
+      "noodle",
+      "soup",
+      "kynsabal",
+      "16 шт",
+      "по",
+      "112 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "112 г",
+      "count": "16 шт",
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Samyang лапша Ramyun 40 порций по 120 г",
+    "cleanTokens": [
+      "ramyun",
+      "40",
+      "порций",
+      "по"
+    ],
+    "normalizedTokens": [
+      "ramyun",
+      "40",
+      "порций",
+      "по",
+      "120 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "120 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Ottogi рис Cooked Rice 24 упаковки по 210 г",
+    "cleanTokens": [
+      "рис",
+      "cooked",
+      "rice"
+    ],
+    "normalizedTokens": [
+      "рис",
+      "cooked",
+      "rice",
+      "24 упаковки по 210 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": null,
+      "pack": {
+        "packs": 24,
+        "perPack": 210,
+        "unit": "г"
+      },
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "GUANGYOU лапша кисло-острая со свежей зеленью 105 г",
+    "cleanTokens": [
+      "кисло-острая",
+      "со",
+      "свежей",
+      "зеленью"
+    ],
+    "normalizedTokens": [
+      "кисло-острая",
+      "со",
+      "свежей",
+      "зеленью",
+      "105 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "105 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Ottogi лапша Jin Ramen Mild Multi 40 шт по 120 г",
+    "cleanTokens": [
+      "jin",
+      "ramen",
+      "mild",
+      "multi",
+      "по"
+    ],
+    "normalizedTokens": [
+      "jin",
+      "ramen",
+      "mild",
+      "multi",
+      "40 шт",
+      "по",
+      "120 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "120 г",
+      "count": "40 шт",
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Samyang лапша Chicken Flavor Spicy Ramen Instant Noodles 5600 г",
+    "cleanTokens": [
+      "chicken",
+      "flavor",
+      "spicy",
+      "ramen",
+      "instant",
+      "noodles"
+    ],
+    "normalizedTokens": [
+      "chicken",
+      "flavor",
+      "spicy",
+      "ramen",
+      "instant",
+      "noodles",
+      "5600 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "5600 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Ottogi лапша Jin Ramen Hot 4800 г",
+    "cleanTokens": [
+      "jin",
+      "ramen",
+      "hot"
+    ],
+    "normalizedTokens": [
+      "jin",
+      "ramen",
+      "hot",
+      "4800 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "4800 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Ottogi лапша Jin Ramen Mild в стакане 15 шт по 65 г",
+    "cleanTokens": [
+      "jin",
+      "ramen",
+      "mild",
+      "в",
+      "стакане",
+      "по"
+    ],
+    "normalizedTokens": [
+      "jin",
+      "ramen",
+      "mild",
+      "в",
+      "стакане",
+      "15 шт",
+      "по",
+      "65 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "65 г",
+      "count": "15 шт",
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "NONGSHIM лапша Сунхан ногури коп 1860 г",
+    "cleanTokens": [
+      "сунхан",
+      "ногури",
+      "коп"
+    ],
+    "normalizedTokens": [
+      "сунхан",
+      "ногури",
+      "коп",
+      "1860 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "1860 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "O'Food токпокки Original Tteokbokki 20 упаковок по 260 г",
+    "cleanTokens": [
+      "токпокки",
+      "original",
+      "tteokbokki",
+      "20",
+      "упаковок",
+      "по"
+    ],
+    "normalizedTokens": [
+      "токпокки",
+      "original",
+      "tteokbokki",
+      "20",
+      "упаковок",
+      "по",
+      "260 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "260 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Haidilao Рис с курицей в соусе Хуанмэнь (самонагревающийся) 187 г",
+    "cleanTokens": [
+      "рис",
+      "с",
+      "курицей",
+      "в",
+      "соусе",
+      "хуанмэнь",
+      "самонагревающийся"
+    ],
+    "normalizedTokens": [
+      "рис",
+      "с",
+      "курицей",
+      "в",
+      "соусе",
+      "хуанмэнь",
+      "самонагревающийся",
+      "187 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "187 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Samyang лапша 4 сыра 16 упаковок по 110 г",
+    "cleanTokens": [
+      "4",
+      "сыра",
+      "16",
+      "упаковок",
+      "по"
+    ],
+    "normalizedTokens": [
+      "4",
+      "сыра",
+      "16",
+      "упаковок",
+      "по",
+      "110 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "110 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Ottogi лапша Jin Ramen Hot Bowl 110 г",
+    "cleanTokens": [
+      "jin",
+      "ramen",
+      "hot",
+      "bowl"
+    ],
+    "normalizedTokens": [
+      "jin",
+      "ramen",
+      "hot",
+      "bowl",
+      "110 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "110 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Ottogi лапша Jin Ramen Cup Mild 15 упаковок по 65 г",
+    "cleanTokens": [
+      "jin",
+      "ramen",
+      "cup",
+      "mild",
+      "15",
+      "упаковок",
+      "по"
+    ],
+    "normalizedTokens": [
+      "jin",
+      "ramen",
+      "cup",
+      "mild",
+      "15",
+      "упаковок",
+      "по",
+      "65 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "65 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "NONGSHIM лапша Bowl Noodle Soup Kimchi 24 упаковки по 86 г",
+    "cleanTokens": [
+      "bowl",
+      "noodle",
+      "soup"
+    ],
+    "normalizedTokens": [
+      "bowl",
+      "noodle",
+      "soup",
+      "24 упаковки по 86 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": null,
+      "pack": {
+        "packs": 24,
+        "perPack": 86,
+        "unit": "г"
+      },
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "NONGSHIM лапша Оджино Чампонг коп 30 упаковок по 67 г",
+    "cleanTokens": [
+      "оджино",
+      "чампонг",
+      "коп",
+      "30",
+      "упаковок",
+      "по"
+    ],
+    "normalizedTokens": [
+      "оджино",
+      "чампонг",
+      "коп",
+      "30",
+      "упаковок",
+      "по",
+      "67 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "67 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Haohuanluo лапша рисовая с улиточным бульоном 400 г",
+    "cleanTokens": [
+      "рисовая",
+      "с",
+      "улиточным",
+      "бульоном"
+    ],
+    "normalizedTokens": [
+      "рисовая",
+      "с",
+      "улиточным",
+      "бульоном",
+      "400 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "400 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "NONGSHIM лапша Korean Kimchi Flavored Instant Ramen Noodles 112 г",
+    "cleanTokens": [
+      "korean",
+      "flavored",
+      "instant",
+      "ramen",
+      "noodles"
+    ],
+    "normalizedTokens": [
+      "korean",
+      "flavored",
+      "instant",
+      "ramen",
+      "noodles",
+      "112 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "112 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Samyang лапша Hot Chiken Ramen Quatro Cheese 4640 г",
+    "cleanTokens": [
+      "hot",
+      "chiken",
+      "ramen",
+      "quatro",
+      "cheese"
+    ],
+    "normalizedTokens": [
+      "hot",
+      "chiken",
+      "ramen",
+      "quatro",
+      "cheese",
+      "4640 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "4640 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Daesang токпокки Rose Tteokbokki 20 упаковок по 290 г",
+    "cleanTokens": [
+      "токпокки",
+      "rose",
+      "tteokbokki",
+      "20",
+      "упаковок",
+      "по"
+    ],
+    "normalizedTokens": [
+      "токпокки",
+      "rose",
+      "tteokbokki",
+      "20",
+      "упаковок",
+      "по",
+      "290 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "290 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Tian Xiao Hua лапша с утиной кровью, субпродуктами и овощами 348 г",
+    "cleanTokens": [
+      "с",
+      "утиной",
+      "кровью",
+      "субпродуктами",
+      "овощами"
+    ],
+    "normalizedTokens": [
+      "с",
+      "утиной",
+      "кровью",
+      "субпродуктами",
+      "овощами",
+      "348 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "348 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Daesang токпокки Garlic Tteokbokki 20 упаковок по 260 г",
+    "cleanTokens": [
+      "токпокки",
+      "garlic",
+      "tteokbokki",
+      "20",
+      "упаковок",
+      "по"
+    ],
+    "normalizedTokens": [
+      "токпокки",
+      "garlic",
+      "tteokbokki",
+      "20",
+      "упаковок",
+      "по",
+      "260 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "260 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Ottogi лапша Yeul Ramen 15 упаковок по 62 г",
+    "cleanTokens": [
+      "yeul",
+      "ramen",
+      "15",
+      "упаковок",
+      "по"
+    ],
+    "normalizedTokens": [
+      "yeul",
+      "ramen",
+      "15",
+      "упаковок",
+      "по",
+      "62 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "62 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Ottogi лапша RamenSari 48 шт по 110 г",
+    "cleanTokens": [
+      "ramensari",
+      "по"
+    ],
+    "normalizedTokens": [
+      "ramensari",
+      "48 шт",
+      "по",
+      "110 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "110 г",
+      "count": "48 шт",
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  }
+]

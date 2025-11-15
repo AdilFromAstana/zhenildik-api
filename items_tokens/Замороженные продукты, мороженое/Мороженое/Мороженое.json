@@ -1,0 +1,2552 @@
+[
+  {
+    "original": "Мороженое Bahroma Медовик Грецкий орех 320 г",
+    "cleanTokens": [
+      "медовик",
+      "грецкий",
+      "орех"
+    ],
+    "normalizedTokens": [
+      "медовик",
+      "грецкий",
+      "орех",
+      "320 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "320 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мороженое Шин-Лайн Мишка на полюсе зефир пломбир 75 г",
+    "cleanTokens": [
+      "мишка",
+      "на",
+      "полюсе",
+      "зефир",
+      "пломбир"
+    ],
+    "normalizedTokens": [
+      "мишка",
+      "на",
+      "полюсе",
+      "зефир",
+      "пломбир",
+      "75 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "75 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мороженое Шин-Лайн Мишка на полюсе пломбир на сливках 100 г",
+    "cleanTokens": [
+      "мишка",
+      "на",
+      "полюсе",
+      "пломбир",
+      "на",
+      "сливках"
+    ],
+    "normalizedTokens": [
+      "мишка",
+      "на",
+      "полюсе",
+      "пломбир",
+      "на",
+      "сливках",
+      "100 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "100 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мороженое Snickers карамель орех 48 г",
+    "cleanTokens": [
+      "карамель",
+      "орех"
+    ],
+    "normalizedTokens": [
+      "карамель",
+      "орех",
+      "48 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "48 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мороженое Ice Master Классика пломбир 500 г",
+    "cleanTokens": [
+      "классика",
+      "пломбир"
+    ],
+    "normalizedTokens": [
+      "классика",
+      "пломбир",
+      "500 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "500 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мороженое Золотой Стандарт пломбир со сгущенкой 80 г",
+    "cleanTokens": [
+      "пломбир",
+      "со",
+      "сгущенкой"
+    ],
+    "normalizedTokens": [
+      "пломбир",
+      "со",
+      "сгущенкой",
+      "80 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "80 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мороженое Золотой Стандарт пломбир с черникой 89 г",
+    "cleanTokens": [
+      "пломбир",
+      "с",
+      "черникой"
+    ],
+    "normalizedTokens": [
+      "пломбир",
+      "с",
+      "черникой",
+      "89 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "89 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мороженое Шин-Лайн Миша пломбир 450 г",
+    "cleanTokens": [
+      "миша",
+      "пломбир"
+    ],
+    "normalizedTokens": [
+      "миша",
+      "пломбир",
+      "450 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "450 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мороженое Шин-Лайн для Super семейки Миша пломбир 800 г",
+    "cleanTokens": [
+      "для",
+      "super",
+      "семейки",
+      "миша",
+      "пломбир"
+    ],
+    "normalizedTokens": [
+      "для",
+      "super",
+      "семейки",
+      "миша",
+      "пломбир",
+      "800 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "800 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мороженое ГорМолЗавод сливочное 80 г",
+    "cleanTokens": [
+      "сливочное"
+    ],
+    "normalizedTokens": [
+      "сливочное",
+      "80 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "80 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мороженое Bahroma фундучно-шоколадная нуга 70 г",
+    "cleanTokens": [
+      "фундучно-шоколадная",
+      "нуга"
+    ],
+    "normalizedTokens": [
+      "фундучно-шоколадная",
+      "нуга",
+      "70 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "70 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мороженое Шин-Лайн Бомба черное печенье 90 г",
+    "cleanTokens": [
+      "бомба",
+      "черное",
+      "печенье"
+    ],
+    "normalizedTokens": [
+      "бомба",
+      "черное",
+      "печенье",
+      "90 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "90 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мороженое ГорМолЗавод сливочное шоколадное 900 г",
+    "cleanTokens": [
+      "сливочное",
+      "шоколадное"
+    ],
+    "normalizedTokens": [
+      "сливочное",
+      "шоколадное",
+      "900 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "900 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мороженое ALGIDA Магнат миндаль 75,6 г",
+    "cleanTokens": [
+      "магнат",
+      "миндаль",
+      "75"
+    ],
+    "normalizedTokens": [
+      "магнат",
+      "миндаль",
+      "75",
+      "6 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "6 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мороженое Новый день сливочное ванильное 1000 г",
+    "cleanTokens": [
+      "сливочное",
+      "ванильное"
+    ],
+    "normalizedTokens": [
+      "сливочное",
+      "ванильное",
+      "1000 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "1000 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мороженое Шин-Лайн Миша пломбир 80 г",
+    "cleanTokens": [
+      "миша",
+      "пломбир"
+    ],
+    "normalizedTokens": [
+      "миша",
+      "пломбир",
+      "80 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "80 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мороженое ГорМолЗавод сливочное шоколадное 450 г",
+    "cleanTokens": [
+      "сливочное",
+      "шоколадное"
+    ],
+    "normalizedTokens": [
+      "сливочное",
+      "шоколадное",
+      "450 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "450 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мороженое Ice Master Классика сливочное 500 г",
+    "cleanTokens": [
+      "классика",
+      "сливочное"
+    ],
+    "normalizedTokens": [
+      "классика",
+      "сливочное",
+      "500 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "500 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мороженое Новый день сливочное шоколадное 1000 г",
+    "cleanTokens": [
+      "сливочное",
+      "шоколадное"
+    ],
+    "normalizedTokens": [
+      "сливочное",
+      "шоколадное",
+      "1000 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "1000 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мороженое ALGIDA Magnum beyaz белый шоколад 75.1 г",
+    "cleanTokens": [
+      "beyaz",
+      "белый",
+      "шоколад"
+    ],
+    "normalizedTokens": [
+      "beyaz",
+      "белый",
+      "шоколад",
+      "75.1 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "75.1 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мороженое Шин-Лайн Снеговик 70 г",
+    "cleanTokens": [
+      "снеговик"
+    ],
+    "normalizedTokens": [
+      "снеговик",
+      "70 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "70 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мороженое ГорМолЗавод со вкусом дыни 450 г",
+    "cleanTokens": [
+      "со",
+      "вкусом",
+      "дыни"
+    ],
+    "normalizedTokens": [
+      "со",
+      "вкусом",
+      "дыни",
+      "450 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "450 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мороженое Шин-Лайн Миша шоколадный 1000 г",
+    "cleanTokens": [
+      "миша",
+      "шоколадный"
+    ],
+    "normalizedTokens": [
+      "миша",
+      "шоколадный",
+      "1000 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "1000 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мороженое ГорМолЗавод со вкусом фисташек 450 г",
+    "cleanTokens": [
+      "со",
+      "вкусом",
+      "фисташек"
+    ],
+    "normalizedTokens": [
+      "со",
+      "вкусом",
+      "фисташек",
+      "450 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "450 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мороженое ГорМолЗавод со вкусом клубники 450 г",
+    "cleanTokens": [
+      "со",
+      "вкусом",
+      "клубники"
+    ],
+    "normalizedTokens": [
+      "со",
+      "вкусом",
+      "клубники",
+      "450 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "450 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мороженое ГорМолЗавод со вкусом клубники 900 г",
+    "cleanTokens": [
+      "со",
+      "вкусом",
+      "клубники"
+    ],
+    "normalizedTokens": [
+      "со",
+      "вкусом",
+      "клубники",
+      "900 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "900 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мороженое MAGNUM Double c лесными ягодами 82 г",
+    "cleanTokens": [
+      "double",
+      "c",
+      "лесными",
+      "ягодами"
+    ],
+    "normalizedTokens": [
+      "double",
+      "c",
+      "лесными",
+      "ягодами",
+      "82 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "82 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мороженое Ice Master с шоколадным вкусом 900 г",
+    "cleanTokens": [
+      "с",
+      "шоколадным",
+      "вкусом"
+    ],
+    "normalizedTokens": [
+      "с",
+      "шоколадным",
+      "вкусом",
+      "900 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "900 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мороженое ГорМолЗавод со вкусом bubble gum 450 г",
+    "cleanTokens": [
+      "со",
+      "вкусом",
+      "bubble",
+      "gum"
+    ],
+    "normalizedTokens": [
+      "со",
+      "вкусом",
+      "bubble",
+      "gum",
+      "450 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "450 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мороженое ГорМолЗавод со вкусом черной смородины 450 г",
+    "cleanTokens": [
+      "со",
+      "вкусом",
+      "черной",
+      "смородины"
+    ],
+    "normalizedTokens": [
+      "со",
+      "вкусом",
+      "черной",
+      "смородины",
+      "450 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "450 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мороженое Nәtige Balmuzz Sorbet безлактозный манго 320 г",
+    "cleanTokens": [
+      "balmuzz",
+      "sorbet",
+      "безлактозный",
+      "манго"
+    ],
+    "normalizedTokens": [
+      "balmuzz",
+      "sorbet",
+      "безлактозный",
+      "манго",
+      "320 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "320 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мороженое Nәtige Balmuzz Gelato шоколад 320 г",
+    "cleanTokens": [
+      "balmuzz",
+      "gelato",
+      "шоколад"
+    ],
+    "normalizedTokens": [
+      "balmuzz",
+      "gelato",
+      "шоколад",
+      "320 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "320 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мороженое ГорМолЗавод шоколадное 80 г",
+    "cleanTokens": [
+      "шоколадное"
+    ],
+    "normalizedTokens": [
+      "шоколадное",
+      "80 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "80 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мороженое Шин-Лайн Мишка на полюсе пломбир с ароматом топлёное молоко 200 г",
+    "cleanTokens": [
+      "мишка",
+      "на",
+      "полюсе",
+      "пломбир",
+      "с",
+      "ароматом",
+      "топленое",
+      "молоко"
+    ],
+    "normalizedTokens": [
+      "мишка",
+      "на",
+      "полюсе",
+      "пломбир",
+      "с",
+      "ароматом",
+      "топленое",
+      "молоко",
+      "200 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "200 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мороженое Ice Master Классика шоколадное 500 г",
+    "cleanTokens": [
+      "классика",
+      "шоколадное"
+    ],
+    "normalizedTokens": [
+      "классика",
+      "шоколадное",
+      "500 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "500 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мороженое Ice Master со вкусом ванили 900 г",
+    "cleanTokens": [
+      "со",
+      "вкусом",
+      "ванили"
+    ],
+    "normalizedTokens": [
+      "со",
+      "вкусом",
+      "ванили",
+      "900 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "900 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мороженое Шин-Лайн Миша со вкусом клубники 1000 г",
+    "cleanTokens": [
+      "миша",
+      "со",
+      "вкусом",
+      "клубники"
+    ],
+    "normalizedTokens": [
+      "миша",
+      "со",
+      "вкусом",
+      "клубники",
+      "1000 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "1000 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мороженое Carte D'or Barista кофе 492 г",
+    "cleanTokens": [
+      "barista",
+      "кофе"
+    ],
+    "normalizedTokens": [
+      "barista",
+      "кофе",
+      "492 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "492 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мороженое Шин-Лайн Миша фисташковое 1000 г",
+    "cleanTokens": [
+      "миша",
+      "фисташковое"
+    ],
+    "normalizedTokens": [
+      "миша",
+      "фисташковое",
+      "1000 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "1000 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мороженое ГорМолЗавод со вкусом дыни 900 г",
+    "cleanTokens": [
+      "со",
+      "вкусом",
+      "дыни"
+    ],
+    "normalizedTokens": [
+      "со",
+      "вкусом",
+      "дыни",
+      "900 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "900 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мороженое Movenpick Swiss Chocolate 56 г",
+    "cleanTokens": [
+      "swiss",
+      "chocolate"
+    ],
+    "normalizedTokens": [
+      "swiss",
+      "chocolate",
+      "56 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "56 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мороженое ALGIDA Magnum Classic ваниль 73.2 г",
+    "cleanTokens": [
+      "classic",
+      "ваниль"
+    ],
+    "normalizedTokens": [
+      "classic",
+      "ваниль",
+      "73.2 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "73.2 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мороженое Carte D'or Setection Gold шоколадный карнавал 475 г",
+    "cleanTokens": [
+      "setection",
+      "gold",
+      "шоколадный",
+      "карнавал"
+    ],
+    "normalizedTokens": [
+      "setection",
+      "gold",
+      "шоколадный",
+      "карнавал",
+      "475 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "475 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мороженое Balmuzz Sorbet безлактозный апельсин 320 г",
+    "cleanTokens": [
+      "balmuzz",
+      "sorbet",
+      "безлактозный",
+      "апельсин"
+    ],
+    "normalizedTokens": [
+      "balmuzz",
+      "sorbet",
+      "безлактозный",
+      "апельсин",
+      "320 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "320 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мороженое Nәtige Balmuzz Gelato чизкейк 320 г",
+    "cleanTokens": [
+      "balmuzz",
+      "gelato",
+      "чизкейк"
+    ],
+    "normalizedTokens": [
+      "balmuzz",
+      "gelato",
+      "чизкейк",
+      "320 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "320 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мороженое ГорМолЗавод со вкусом фисташек 900 г",
+    "cleanTokens": [
+      "со",
+      "вкусом",
+      "фисташек"
+    ],
+    "normalizedTokens": [
+      "со",
+      "вкусом",
+      "фисташек",
+      "900 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "900 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мороженое Nәtige Balmuzz Gelato шоколад 650 г",
+    "cleanTokens": [
+      "balmuzz",
+      "gelato",
+      "шоколад"
+    ],
+    "normalizedTokens": [
+      "balmuzz",
+      "gelato",
+      "шоколад",
+      "650 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "650 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мороженое Movenpick Strawberry 56 г",
+    "cleanTokens": [
+      "strawberry"
+    ],
+    "normalizedTokens": [
+      "strawberry",
+      "56 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "56 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мороженое Nәtige Bal Muzz Gelato пломбир 650 г",
+    "cleanTokens": [
+      "bal",
+      "muzz",
+      "gelato",
+      "пломбир"
+    ],
+    "normalizedTokens": [
+      "bal",
+      "muzz",
+      "gelato",
+      "пломбир",
+      "650 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "650 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мороженое Movenpick Swiss Chocolate шоколад 1365 г",
+    "cleanTokens": [
+      "swiss",
+      "chocolate",
+      "шоколад"
+    ],
+    "normalizedTokens": [
+      "swiss",
+      "chocolate",
+      "шоколад",
+      "1365 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "1365 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мороженое Movenpick Mint chocolate мята с шоколадом 1305 г",
+    "cleanTokens": [
+      "mint",
+      "chocolate",
+      "мята",
+      "с",
+      "шоколадом"
+    ],
+    "normalizedTokens": [
+      "mint",
+      "chocolate",
+      "мята",
+      "с",
+      "шоколадом",
+      "1305 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "1305 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мороженое Movenpick Maple Walnut с грецким орехом 289 г",
+    "cleanTokens": [
+      "maple",
+      "walnut",
+      "с",
+      "грецким",
+      "орехом"
+    ],
+    "normalizedTokens": [
+      "maple",
+      "walnut",
+      "с",
+      "грецким",
+      "орехом",
+      "289 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "289 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мороженое Movenpick Mint chocolate мята с шоколадом 275 г",
+    "cleanTokens": [
+      "mint",
+      "chocolate",
+      "мята",
+      "с",
+      "шоколадом"
+    ],
+    "normalizedTokens": [
+      "mint",
+      "chocolate",
+      "мята",
+      "с",
+      "шоколадом",
+      "275 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "275 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мороженое Movenpick Raspberry сорбет малина 1410 г",
+    "cleanTokens": [
+      "raspberry",
+      "сорбет",
+      "малина"
+    ],
+    "normalizedTokens": [
+      "raspberry",
+      "сорбет",
+      "малина",
+      "1410 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "1410 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мороженое Movenpick Pistachio фисташка 520 г",
+    "cleanTokens": [
+      "pistachio",
+      "фисташка"
+    ],
+    "normalizedTokens": [
+      "pistachio",
+      "фисташка",
+      "520 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "520 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мороженое Ice Master со вкусом фисташки и заварного крема с малиновой начинкой 450 г",
+    "cleanTokens": [
+      "со",
+      "вкусом",
+      "фисташки",
+      "и",
+      "заварного",
+      "крема",
+      "с",
+      "малиновой",
+      "начинкой"
+    ],
+    "normalizedTokens": [
+      "со",
+      "вкусом",
+      "фисташки",
+      "и",
+      "заварного",
+      "крема",
+      "с",
+      "малиновой",
+      "начинкой",
+      "450 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "450 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мороженое Nәtige Balmuzz Gelato чизкейк 650 г",
+    "cleanTokens": [
+      "balmuzz",
+      "gelato",
+      "чизкейк"
+    ],
+    "normalizedTokens": [
+      "balmuzz",
+      "gelato",
+      "чизкейк",
+      "650 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "650 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мороженое Movenpick Vanilla Dream 51 г",
+    "cleanTokens": [
+      "vanilla",
+      "dream"
+    ],
+    "normalizedTokens": [
+      "vanilla",
+      "dream",
+      "51 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "51 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мороженое Movenpick Vanilla Dream ваниль 1205 г",
+    "cleanTokens": [
+      "vanilla",
+      "dream",
+      "ваниль"
+    ],
+    "normalizedTokens": [
+      "vanilla",
+      "dream",
+      "ваниль",
+      "1205 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "1205 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мороженое Movenpick Stracciatella страчателла 1250 г",
+    "cleanTokens": [
+      "stracciatella",
+      "страчателла"
+    ],
+    "normalizedTokens": [
+      "stracciatella",
+      "страчателла",
+      "1250 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "1250 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мороженое Movenpick Macadamia с орехом макадамия 1355 г",
+    "cleanTokens": [
+      "macadamia",
+      "с",
+      "орехом",
+      "макадамия"
+    ],
+    "normalizedTokens": [
+      "macadamia",
+      "с",
+      "орехом",
+      "макадамия",
+      "1355 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "1355 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мороженое Movenpick Maple Walnut с грецким орехом 1385 г",
+    "cleanTokens": [
+      "maple",
+      "walnut",
+      "с",
+      "грецким",
+      "орехом"
+    ],
+    "normalizedTokens": [
+      "maple",
+      "walnut",
+      "с",
+      "грецким",
+      "орехом",
+      "1385 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "1385 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мороженое Movenpick Panna Cotta & Raspberry панна котта с кусочками малины 502 г",
+    "cleanTokens": [
+      "panna",
+      "cotta",
+      "&",
+      "raspberry",
+      "панна",
+      "котта",
+      "с",
+      "кусочками",
+      "малины"
+    ],
+    "normalizedTokens": [
+      "panna",
+      "cotta",
+      "&",
+      "raspberry",
+      "панна",
+      "котта",
+      "с",
+      "кусочками",
+      "малины",
+      "502 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "502 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мороженое Movenpick Strawberry клубника 1365 г",
+    "cleanTokens": [
+      "strawberry",
+      "клубника"
+    ],
+    "normalizedTokens": [
+      "strawberry",
+      "клубника",
+      "1365 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "1365 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мороженое Movenpick Blueberry Cheesecake голубика, чизкейк 1387 г",
+    "cleanTokens": [
+      "blueberry",
+      "cheesecake",
+      "голубика",
+      "чизкейк"
+    ],
+    "normalizedTokens": [
+      "blueberry",
+      "cheesecake",
+      "голубика",
+      "чизкейк",
+      "1387 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "1387 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мороженое Movenpick Cold Brew Coffee Chocolate шоколад, кофе 561 г",
+    "cleanTokens": [
+      "cold",
+      "brew",
+      "coffee",
+      "chocolate",
+      "шоколад",
+      "кофе"
+    ],
+    "normalizedTokens": [
+      "cold",
+      "brew",
+      "coffee",
+      "chocolate",
+      "шоколад",
+      "кофе",
+      "561 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "561 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мороженое Movenpick Raspberry& Strawberry Sorbet сорбет клубника, малина 565 г",
+    "cleanTokens": [
+      "raspberry&",
+      "strawberry",
+      "sorbet",
+      "сорбет",
+      "клубника",
+      "малина"
+    ],
+    "normalizedTokens": [
+      "raspberry&",
+      "strawberry",
+      "sorbet",
+      "сорбет",
+      "клубника",
+      "малина",
+      "565 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "565 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мороженое Movenpick Swiss Chocolate шоколад 508 г",
+    "cleanTokens": [
+      "swiss",
+      "chocolate",
+      "шоколад"
+    ],
+    "normalizedTokens": [
+      "swiss",
+      "chocolate",
+      "шоколад",
+      "508 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "508 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мороженое Movenpick Fior Di Latte пломбир 500 г",
+    "cleanTokens": [
+      "fior",
+      "di",
+      "latte",
+      "пломбир"
+    ],
+    "normalizedTokens": [
+      "fior",
+      "di",
+      "latte",
+      "пломбир",
+      "500 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "500 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мороженое Movenpick Strawberry клубника 2880 г",
+    "cleanTokens": [
+      "strawberry",
+      "клубника"
+    ],
+    "normalizedTokens": [
+      "strawberry",
+      "клубника",
+      "2880 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "2880 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мороженое Movenpick Lemon & Lime сорбет лайм, лимон 538 г",
+    "cleanTokens": [
+      "lemon",
+      "&",
+      "lime",
+      "сорбет",
+      "лайм",
+      "лимон"
+    ],
+    "normalizedTokens": [
+      "lemon",
+      "&",
+      "lime",
+      "сорбет",
+      "лайм",
+      "лимон",
+      "538 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "538 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мороженое Movenpick Fior Di Latte Swiss Cream пломбир 1320 г",
+    "cleanTokens": [
+      "fior",
+      "di",
+      "latte",
+      "swiss",
+      "cream",
+      "пломбир"
+    ],
+    "normalizedTokens": [
+      "fior",
+      "di",
+      "latte",
+      "swiss",
+      "cream",
+      "пломбир",
+      "1320 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "1320 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мороженое Movenpick Cream Mango манго 1387 г",
+    "cleanTokens": [
+      "cream",
+      "mango",
+      "манго"
+    ],
+    "normalizedTokens": [
+      "cream",
+      "mango",
+      "манго",
+      "1387 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "1387 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мороженое Movenpick Caramelita карамель 2980 г",
+    "cleanTokens": [
+      "caramelita",
+      "карамель"
+    ],
+    "normalizedTokens": [
+      "caramelita",
+      "карамель",
+      "2980 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "2980 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мороженое Movenpick Double Cream & Meringue дабл крем с безе и карамельным соусом 1404 г",
+    "cleanTokens": [
+      "double",
+      "cream",
+      "&",
+      "meringue",
+      "дабл",
+      "крем",
+      "с",
+      "безе",
+      "и",
+      "карамельным",
+      "соусом"
+    ],
+    "normalizedTokens": [
+      "double",
+      "cream",
+      "&",
+      "meringue",
+      "дабл",
+      "крем",
+      "с",
+      "безе",
+      "и",
+      "карамельным",
+      "соусом",
+      "1404 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "1404 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мороженое Movenpick Mint chocolate мята с шоколадом 55 г",
+    "cleanTokens": [
+      "mint",
+      "chocolate",
+      "мята",
+      "с",
+      "шоколадом"
+    ],
+    "normalizedTokens": [
+      "mint",
+      "chocolate",
+      "мята",
+      "с",
+      "шоколадом",
+      "55 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "55 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мороженое Movenpick Espresso Croquant кофе 500 г",
+    "cleanTokens": [
+      "espresso",
+      "croquant",
+      "кофе"
+    ],
+    "normalizedTokens": [
+      "espresso",
+      "croquant",
+      "кофе",
+      "500 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "500 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мороженое Movenpick Pistachio фисташка 1385 г",
+    "cleanTokens": [
+      "pistachio",
+      "фисташка"
+    ],
+    "normalizedTokens": [
+      "pistachio",
+      "фисташка",
+      "1385 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "1385 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мороженое Movenpick Lemon & Lime сорбет лайм, лимон 1445 г",
+    "cleanTokens": [
+      "lemon",
+      "&",
+      "lime",
+      "сорбет",
+      "лайм",
+      "лимон"
+    ],
+    "normalizedTokens": [
+      "lemon",
+      "&",
+      "lime",
+      "сорбет",
+      "лайм",
+      "лимон",
+      "1445 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "1445 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мороженое Movenpick Banana банан 1380 г",
+    "cleanTokens": [
+      "banana",
+      "банан"
+    ],
+    "normalizedTokens": [
+      "banana",
+      "банан",
+      "1380 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "1380 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мороженое Movenpick Passion Fruit & Mango Sorbet сорбет манго, маракуйя 546 г",
+    "cleanTokens": [
+      "passion",
+      "fruit",
+      "&",
+      "mango",
+      "sorbet",
+      "сорбет",
+      "манго",
+      "маракуйя"
+    ],
+    "normalizedTokens": [
+      "passion",
+      "fruit",
+      "&",
+      "mango",
+      "sorbet",
+      "сорбет",
+      "манго",
+      "маракуйя",
+      "546 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "546 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мороженое Movenpick Vanilla Dream 450 г",
+    "cleanTokens": [
+      "vanilla",
+      "dream"
+    ],
+    "normalizedTokens": [
+      "vanilla",
+      "dream",
+      "450 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "450 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мороженое Movenpick Espresso Croquant кофе 1310 г",
+    "cleanTokens": [
+      "espresso",
+      "croquant",
+      "кофе"
+    ],
+    "normalizedTokens": [
+      "espresso",
+      "croquant",
+      "кофе",
+      "1310 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "1310 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мороженое Movenpick Chocolate & Salted Caramel шоколад, соленая карамель 1338 г",
+    "cleanTokens": [
+      "chocolate",
+      "&",
+      "salted",
+      "caramel",
+      "шоколад",
+      "соленая",
+      "карамель"
+    ],
+    "normalizedTokens": [
+      "chocolate",
+      "&",
+      "salted",
+      "caramel",
+      "шоколад",
+      "соленая",
+      "карамель",
+      "1338 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "1338 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мороженое Movenpick Caramelita карамель 1411 г",
+    "cleanTokens": [
+      "caramelita",
+      "карамель"
+    ],
+    "normalizedTokens": [
+      "caramelita",
+      "карамель",
+      "1411 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "1411 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мороженое Movenpick Passion Fruit & Mango Sorbet сорбет манго, маракуйя 1420 г",
+    "cleanTokens": [
+      "passion",
+      "fruit",
+      "&",
+      "mango",
+      "sorbet",
+      "сорбет",
+      "манго",
+      "маракуйя"
+    ],
+    "normalizedTokens": [
+      "passion",
+      "fruit",
+      "&",
+      "mango",
+      "sorbet",
+      "сорбет",
+      "манго",
+      "маракуйя",
+      "1420 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "1420 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мороженое Movenpick Cookies & Caramel карамель и печенье 1416 г",
+    "cleanTokens": [
+      "cookies",
+      "&",
+      "caramel",
+      "карамель",
+      "и",
+      "печенье"
+    ],
+    "normalizedTokens": [
+      "cookies",
+      "&",
+      "caramel",
+      "карамель",
+      "и",
+      "печенье",
+      "1416 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "1416 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мороженое Movenpick Hazelnut лесной орех, фундук 1520 г",
+    "cleanTokens": [
+      "hazelnut",
+      "лесной",
+      "орех",
+      "фундук"
+    ],
+    "normalizedTokens": [
+      "hazelnut",
+      "лесной",
+      "орех",
+      "фундук",
+      "1520 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "1520 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мороженое Movenpick Caramelita карамель 595 г",
+    "cleanTokens": [
+      "caramelita",
+      "карамель"
+    ],
+    "normalizedTokens": [
+      "caramelita",
+      "карамель",
+      "595 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "595 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мороженое Movenpick Coconut кокос 1305 г",
+    "cleanTokens": [
+      "coconut",
+      "кокос"
+    ],
+    "normalizedTokens": [
+      "coconut",
+      "кокос",
+      "1305 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "1305 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мороженое Movenpick Panna Cotta панна котта 1371 г",
+    "cleanTokens": [
+      "panna",
+      "cotta",
+      "панна",
+      "котта"
+    ],
+    "normalizedTokens": [
+      "panna",
+      "cotta",
+      "панна",
+      "котта",
+      "1371 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "1371 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мороженое Movenpick Cappuccino 1250 г",
+    "cleanTokens": [
+      "cappuccino"
+    ],
+    "normalizedTokens": [
+      "cappuccino",
+      "1250 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "1250 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мороженое Movenpick Swiss Chocolate шоколад 2880 г",
+    "cleanTokens": [
+      "swiss",
+      "chocolate",
+      "шоколад"
+    ],
+    "normalizedTokens": [
+      "swiss",
+      "chocolate",
+      "шоколад",
+      "2880 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "2880 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мороженое Movenpick Coconut кокос 54 г",
+    "cleanTokens": [
+      "coconut",
+      "кокос"
+    ],
+    "normalizedTokens": [
+      "coconut",
+      "кокос",
+      "54 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "54 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мороженое Movenpick Stracciatella страчателла с кусочками шоколада 51 г",
+    "cleanTokens": [
+      "stracciatella",
+      "страчателла",
+      "с",
+      "кусочками",
+      "шоколада"
+    ],
+    "normalizedTokens": [
+      "stracciatella",
+      "страчателла",
+      "с",
+      "кусочками",
+      "шоколада",
+      "51 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "51 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мороженое Movenpick Stracciatella страчателла с кусочками шоколада 535 г",
+    "cleanTokens": [
+      "stracciatella",
+      "страчателла",
+      "с",
+      "кусочками",
+      "шоколада"
+    ],
+    "normalizedTokens": [
+      "stracciatella",
+      "страчателла",
+      "с",
+      "кусочками",
+      "шоколада",
+      "535 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "535 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мороженое Movenpick Creme brulee крем-брюле 1365 г",
+    "cleanTokens": [
+      "creme",
+      "brulee",
+      "крем-брюле"
+    ],
+    "normalizedTokens": [
+      "creme",
+      "brulee",
+      "крем-брюле",
+      "1365 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "1365 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мороженое Movenpick Tiramisu 1284 г",
+    "cleanTokens": [
+      "tiramisu"
+    ],
+    "normalizedTokens": [
+      "tiramisu",
+      "1284 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "1284 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мороженое Movenpick Espresso Croquant кофе 56 г",
+    "cleanTokens": [
+      "espresso",
+      "croquant",
+      "кофе"
+    ],
+    "normalizedTokens": [
+      "espresso",
+      "croquant",
+      "кофе",
+      "56 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "56 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мороженое Movenpick Mango Sorbet сорбет манго 65 г",
+    "cleanTokens": [
+      "mango",
+      "sorbet",
+      "сорбет",
+      "манго"
+    ],
+    "normalizedTokens": [
+      "mango",
+      "sorbet",
+      "сорбет",
+      "манго",
+      "65 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "65 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мороженое Movenpick Tiramisu 430 г",
+    "cleanTokens": [
+      "tiramisu"
+    ],
+    "normalizedTokens": [
+      "tiramisu",
+      "430 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "430 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мороженое Movenpick Rum raisin ром, изюм 1350 г",
+    "cleanTokens": [
+      "rum",
+      "raisin",
+      "ром",
+      "изюм"
+    ],
+    "normalizedTokens": [
+      "rum",
+      "raisin",
+      "ром",
+      "изюм",
+      "1350 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "1350 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мороженое Movenpick Black currant сорбет черная смородина 1465 г",
+    "cleanTokens": [
+      "black",
+      "currant",
+      "сорбет",
+      "черная",
+      "смородина"
+    ],
+    "normalizedTokens": [
+      "black",
+      "currant",
+      "сорбет",
+      "черная",
+      "смородина",
+      "1465 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "1465 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мороженое Movenpick Vanilla Dream ваниль 2545 г",
+    "cleanTokens": [
+      "vanilla",
+      "dream",
+      "ваниль"
+    ],
+    "normalizedTokens": [
+      "vanilla",
+      "dream",
+      "ваниль",
+      "2545 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "2545 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мороженое Movenpick Double Cream & Meringue дабл крем 486 г",
+    "cleanTokens": [
+      "double",
+      "cream",
+      "&",
+      "meringue",
+      "дабл",
+      "крем"
+    ],
+    "normalizedTokens": [
+      "double",
+      "cream",
+      "&",
+      "meringue",
+      "дабл",
+      "крем",
+      "486 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "486 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мороженое Movenpick Vanilla brownie ванильный брауни 552 г",
+    "cleanTokens": [
+      "vanilla",
+      "brownie",
+      "ванильный",
+      "брауни"
+    ],
+    "normalizedTokens": [
+      "vanilla",
+      "brownie",
+      "ванильный",
+      "брауни",
+      "552 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "552 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  }
+]

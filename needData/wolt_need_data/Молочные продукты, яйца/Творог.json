@@ -1,0 +1,862 @@
+[
+  {
+    "id": "26038afd416a775972518ce4",
+    "advertising_info": null,
+    "alcohol_permille": 0,
+    "allowed_delivery_methods": [
+      "homedelivery",
+      "takeaway",
+      "eatin"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 0,
+        "end_time": 86400000
+      }
+    ],
+    "barcode_gtin": "04600605022221",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "78fcca07f59c9119cb1caf968ad9e9d4",
+    "description": "Творог Растишка со вкусом лесных ягод, персика и груши разработан специально для детей старше 3х лет совместно с Институтом питания РАМН. В продукте только натуральные ингредиенты плюс кальций и витамин D3, необходимые для здорового роста и развития ребенка. Яркий дизайн и разнообразные вкусы нравятся и детям, и мамам. Продукт станет отличным вариантом на полдник для ребёнка.",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": true,
+    "images": [
+      {
+        "url": "https://imageproxy.wolt.com/assets/68ac5c2f6815835c18a5e533",
+        "blurhash": "LZRB*CtQ?va0Rjf4t6bc*JjaRjX8"
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": true,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "Растишка Творог Лесные Ягоды Персик Груша 3,5% 6 Шт",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 112500,
+    "product_hierarchy_tags": [
+      "PERISHABLE"
+    ],
+    "purchasable_balance": 4,
+    "restrictions": [],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": true,
+    "tags": [],
+    "unit_info": "45 г",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 2500000,
+      "unit": "kilogram"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 12,
+    "vat_percentage_decimal": "12.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    },
+    "categories": [
+      "Молочные продукты, яйца",
+      "Творог"
+    ]
+  },
+  {
+    "id": "001f9a5e13acba938c9bdb9a",
+    "advertising_info": null,
+    "alcohol_permille": 0,
+    "allowed_delivery_methods": [
+      "eatin",
+      "takeaway",
+      "homedelivery"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 0,
+        "end_time": 86400000
+      }
+    ],
+    "barcode_gtin": "04870207313960",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "25477f0330f980ed5f6745327215525e",
+    "description": "Первый и уникальный по вкусовым качествам зернистый творог в Казахстане, произведенный компанией President, соответствующий по вкусу традиционному ДОМАШНЕМУ творогу. Благодаря большому содержанию белков, незаменимых аминокислот и, конечно же, минеральных веществ Творог Домашний от President способствует укреплению костных тканей, улучшает работу нервной системы, положительно влияет на процессы обмена веществ.",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": true,
+    "images": [
+      {
+        "url": "https://imageproxy.wolt.com/assets/6888bc2b1f0cac713af64aec",
+        "blurhash": "LMR{x+Io~q-:NHRks-t6.8t6M_WC"
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": true,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "President Творог Домашний Рассыпчатый 0,1%, 200Гр",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 66500,
+    "product_hierarchy_tags": [
+      "PERISHABLE"
+    ],
+    "purchasable_balance": 9,
+    "restrictions": [],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": false,
+    "tags": [],
+    "unit_info": "200 г",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 332500,
+      "unit": "kilogram"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 12,
+    "vat_percentage_decimal": "12.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    },
+    "categories": [
+      "Молочные продукты, яйца",
+      "Творог"
+    ]
+  },
+  {
+    "id": "f5595ad2f7f97719a6146def",
+    "advertising_info": null,
+    "alcohol_permille": 0,
+    "allowed_delivery_methods": [
+      "eatin",
+      "takeaway",
+      "homedelivery"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 0,
+        "end_time": 86400000
+      }
+    ],
+    "barcode_gtin": "04870207313984",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "ce0cf5372109c857fa1163c23bde168f",
+    "description": "Первый и уникальный по вкусовым качествам зернистый творог в Казахстане, произведенный компанией President, соответствующий по вкусу традиционному ДОМАШНЕМУ творогу. Благодаря большому содержанию белков, незаменимых аминокислот и, конечно же, минеральных веществ Творог Домашний от President способствует укреплению костных тканей, улучшает работу нервной системы, положительно влияет на процессы обмена веществ.",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": true,
+    "images": [
+      {
+        "url": "https://imageproxy.wolt.com/assets/6888b8f51f0cac713af5fc3b",
+        "blurhash": "LURyjHM{_Nx]aKV@bboz%NozbFju"
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": true,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "President Творог Домашний Рассыпчатый 9%, 200Гр",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 69000,
+    "product_hierarchy_tags": [
+      "PERISHABLE"
+    ],
+    "purchasable_balance": 8,
+    "restrictions": [],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": false,
+    "tags": [],
+    "unit_info": "200 г",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 345000,
+      "unit": "kilogram"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 12,
+    "vat_percentage_decimal": "12.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    },
+    "categories": [
+      "Молочные продукты, яйца",
+      "Творог"
+    ]
+  },
+  {
+    "id": "3a26f2e147485187c487d66a",
+    "advertising_info": null,
+    "alcohol_permille": 0,
+    "allowed_delivery_methods": [
+      "eatin",
+      "takeaway",
+      "homedelivery"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 0,
+        "end_time": 86400000
+      }
+    ],
+    "barcode_gtin": "04600605029343",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "1fb141d7e29aad0e6d43d8898699c987",
+    "description": "Творог Простоквашино 2% 200г приготовлен по особой технологии из пастеризованного молока и закваски молочнокислых культур. После свертывания из творога отделяется сыворотка, продукт помещается под пресс и затем охлаждается. Структура получается плотная, суховатая, с минимальной кислинкой. Такой творог хорошо подходит для приготовления сырников и запеканки.",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": true,
+    "images": [
+      {
+        "url": "https://imageproxy.wolt.com/assets/6888babc1f0cac713af6310a",
+        "blurhash": "LiRC_Dj[~qj[V=ayo#j[xWj@R.az"
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": true,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "Простоквашино Творог 2%, 200Г",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 97000,
+    "product_hierarchy_tags": [
+      "PERISHABLE"
+    ],
+    "purchasable_balance": 1,
+    "restrictions": [],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": true,
+    "tags": [],
+    "unit_info": "200 г",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 485000,
+      "unit": "kilogram"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 12,
+    "vat_percentage_decimal": "12.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    },
+    "categories": [
+      "Молочные продукты, яйца",
+      "Творог"
+    ]
+  },
+  {
+    "id": "85982812d1e9ee89c70159ab",
+    "advertising_info": null,
+    "alcohol_permille": 0,
+    "allowed_delivery_methods": [
+      "homedelivery",
+      "eatin",
+      "takeaway"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 0,
+        "end_time": 86400000
+      }
+    ],
+    "barcode_gtin": "04600605032527",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "340ee1559dbf3ab33dfcb7935bf1a0ac",
+    "description": "Попробуйте новый творожок от Простоквашино!\nФруктовый творожок Простоквашино с персиком и абрикосом – это прекрасное сочетание творога, сливок и сочных фруктов! В составе только 100% натуральные ингредиенты. Творожок обладает идеальной мягкой текстурой, густотой и нежным сливочным вкусом. Выбери свой вкус идеального завтрака для всей семьи!",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": true,
+    "images": [
+      {
+        "url": "https://imageproxy.wolt.com/assets/688b9901a3eb62eeb95c21f9",
+        "blurhash": "LUQ,L2V?~qkY9Zayxtf5.8kCIUV@"
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": true,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "Простоквашино Творог  Персик-Абрикос",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 45500,
+    "product_hierarchy_tags": [
+      "PERISHABLE"
+    ],
+    "purchasable_balance": 5,
+    "restrictions": [],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": true,
+    "tags": [],
+    "unit_info": "130 г",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 350000,
+      "unit": "kilogram"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 12,
+    "vat_percentage_decimal": "12.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    },
+    "categories": [
+      "Молочные продукты, яйца",
+      "Творог"
+    ]
+  },
+  {
+    "id": "351625c9dd7bde01e42f2c96",
+    "advertising_info": null,
+    "alcohol_permille": 0,
+    "allowed_delivery_methods": [
+      "homedelivery",
+      "eatin",
+      "takeaway"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 0,
+        "end_time": 86400000
+      }
+    ],
+    "barcode_gtin": "04600605032497",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "c97f71134913c202bdf25886294b3933",
+    "description": "Попробуйте новый творожок от Простоквашино!\nФруктовый творожок Простоквашино с клубникой и земляникой – это прекрасное сочетание творога, сливок и сочных фруктов! В составе только 100% натуральные ингредиенты. Творожок обладает идеальной мягкой текстурой, густотой и нежным сливочным вкусом.  Выбери свой вкус идеального завтрака для всей семьи!",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": true,
+    "images": [
+      {
+        "url": "https://imageproxy.wolt.com/assets/688b9ceda3eb62eeb95c34e5",
+        "blurhash": "LWQvtMV@~po}9ZayxtjZ.7ofIUV@"
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": true,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "Простоквашино Творог  Клубника-Земляника",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 45500,
+    "product_hierarchy_tags": [
+      "PERISHABLE"
+    ],
+    "purchasable_balance": 3,
+    "restrictions": [],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": true,
+    "tags": [],
+    "unit_info": "130 г",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 350000,
+      "unit": "kilogram"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 12,
+    "vat_percentage_decimal": "12.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    },
+    "categories": [
+      "Молочные продукты, яйца",
+      "Творог"
+    ]
+  },
+  {
+    "id": "a98a96fb09943c849d4431c7",
+    "advertising_info": null,
+    "alcohol_permille": 0,
+    "allowed_delivery_methods": [
+      "homedelivery",
+      "takeaway",
+      "eatin"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 0,
+        "end_time": 86400000
+      }
+    ],
+    "barcode_gtin": "04870207312642",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "329f39285780389fbbc30dbc50d7c20d",
+    "description": "Первый и уникальный по вкусовым качествам зернистый творог в Казахстане, произведенный компанией President, соответствующий по вкусу традиционному ДОМАШНЕМУ творогу. Благодаря большому содержанию белков, незаменимых аминокислот и, конечно же, минеральных веществ Творог Домашний от President способствует укреплению костных тканей, улучшает работу нервной системы, положительно влияет на процессы обмена веществ.",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": true,
+    "images": [
+      {
+        "url": "https://imageproxy.wolt.com/assets/6888bb0123fa16f725a969f6",
+        "blurhash": "LcRp8,ay~qt7E1jt%MazWEj[ocax"
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": true,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "President Творог Домашний Рассыпчатый 0,1%, 900Гр",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 211500,
+    "product_hierarchy_tags": [
+      "PERISHABLE"
+    ],
+    "purchasable_balance": 4,
+    "restrictions": [],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": true,
+    "tags": [],
+    "unit_info": "900 г",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 235000,
+      "unit": "kilogram"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 12,
+    "vat_percentage_decimal": "12.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    },
+    "categories": [
+      "Молочные продукты, яйца",
+      "Творог"
+    ]
+  },
+  {
+    "id": "29e188b6883d55337a878e43",
+    "advertising_info": null,
+    "alcohol_permille": 0,
+    "allowed_delivery_methods": [
+      "eatin",
+      "takeaway",
+      "homedelivery"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 0,
+        "end_time": 86400000
+      }
+    ],
+    "barcode_gtin": "04811351015911",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "1ae5a481cc9b5dc3839b6dc5cfb23492",
+    "description": "Творог Простоквашино  приготовлен по особой технологии из пастеризованного молока и закваски молочнокислых культур. После свертывания из творога отделяется сыворотка, продукт помещается под пресс и затем охлаждается. Структура получается плотная, суховатая, с минимальной кислинкой. Такой творог хорошо подходит для приготовления сырников и запеканки.",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": true,
+    "images": [
+      {
+        "url": "https://imageproxy.wolt.com/assets/688b98eaa3eb62eeb95c1f18",
+        "blurhash": "LXRyvpj[~pofxuayRjj[%2j[M{WU"
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": true,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "Простоквашино Творог Рассыпчатый 4% 290Г",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 137000,
+    "product_hierarchy_tags": [
+      "PERISHABLE"
+    ],
+    "purchasable_balance": 3,
+    "restrictions": [],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": true,
+    "tags": [],
+    "unit_info": "290 г",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 472414,
+      "unit": "kilogram"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 12,
+    "vat_percentage_decimal": "12.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    },
+    "categories": [
+      "Молочные продукты, яйца",
+      "Творог"
+    ]
+  },
+  {
+    "id": "21036fa5ac09af6034294330",
+    "advertising_info": null,
+    "alcohol_permille": 0,
+    "allowed_delivery_methods": [
+      "eatin",
+      "takeaway",
+      "homedelivery"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 0,
+        "end_time": 86400000
+      }
+    ],
+    "barcode_gtin": "04870207314011",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "c55e3f3c40bec492f37f0f266ce8293b",
+    "description": "Первый и уникальный по вкусовым качествам зернистый творог в Казахстане, произведенный компанией President, соответствующий по вкусу традиционному ДОМАШНЕМУ творогу. Благодаря большому содержанию белков, незаменимых аминокислот и, конечно же, минеральных веществ Творог Домашний от President способствует укреплению костных тканей, улучшает работу нервной системы, положительно влияет на процессы обмена веществ.",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": true,
+    "images": [
+      {
+        "url": "https://imageproxy.wolt.com/assets/6888b8f41f0cac713af5fc01",
+        "blurhash": "LiRMSct7_NRPnjWBkVogxvayRPa}"
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": true,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": 5,
+    "min_quantity_per_purchase": null,
+    "name": "President Творог Домашний Рассыпчатый 9%, 450Гр",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 122000,
+    "product_hierarchy_tags": [
+      "PERISHABLE"
+    ],
+    "purchasable_balance": 9,
+    "restrictions": [],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": false,
+    "tags": [],
+    "unit_info": "450 г",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 271111,
+      "unit": "kilogram"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 12,
+    "vat_percentage_decimal": "12.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    },
+    "categories": [
+      "Молочные продукты, яйца",
+      "Творог"
+    ]
+  },
+  {
+    "id": "32b780a58e27bf8effc2aba5",
+    "advertising_info": null,
+    "alcohol_permille": 0,
+    "allowed_delivery_methods": [
+      "eatin",
+      "takeaway",
+      "homedelivery"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 0,
+        "end_time": 86400000
+      }
+    ],
+    "barcode_gtin": "04870207314004",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "d9921a31aee0f63cff2b31a7049808ab",
+    "description": "Первый и уникальный по вкусовым качествам зернистый творог в Казахстане, произведенный компанией President, соответствующий по вкусу традиционному ДОМАШНЕМУ творогу. Благодаря большому содержанию белков, незаменимых аминокислот и, конечно же, минеральных веществ Творог Домашний от President способствует укреплению костных тканей, улучшает работу нервной системы, положительно влияет на процессы обмена веществ.",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": true,
+    "images": [
+      {
+        "url": "https://imageproxy.wolt.com/assets/6888bef1a3eb62eeb95635f7",
+        "blurhash": "LRR{#;Rj~qxuR%R%oft7-;ofMxay"
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": true,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "President Творог Домашний Рассыпчатый 5%, 450Гр",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 115000,
+    "product_hierarchy_tags": [
+      "PERISHABLE"
+    ],
+    "purchasable_balance": 25,
+    "restrictions": [],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": false,
+    "tags": [],
+    "unit_info": "450 г",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 255556,
+      "unit": "kilogram"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 12,
+    "vat_percentage_decimal": "12.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    },
+    "categories": [
+      "Молочные продукты, яйца",
+      "Творог"
+    ]
+  }
+]

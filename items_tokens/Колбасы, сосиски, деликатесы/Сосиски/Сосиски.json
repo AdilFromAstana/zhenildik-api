@@ -1,0 +1,266 @@
+[
+  {
+    "original": "Сосиски Папа Может сосиски молочные 600 г",
+    "cleanTokens": [
+      "молочные"
+    ],
+    "normalizedTokens": [
+      "молочные",
+      "600 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "600 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Сосиски МПК Актобе вкусные 380 г",
+    "cleanTokens": [
+      "вкусные"
+    ],
+    "normalizedTokens": [
+      "вкусные",
+      "380 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "380 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Сосиски Рубиком баварские",
+    "cleanTokens": [
+      "баварские"
+    ],
+    "normalizedTokens": [
+      "баварские"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Сосиски Мясодел особые",
+    "cleanTokens": [
+      "особые"
+    ],
+    "normalizedTokens": [
+      "особые"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Сосиски Рубиком говяжьи",
+    "cleanTokens": [
+      "говяжьи"
+    ],
+    "normalizedTokens": [
+      "говяжьи"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Сары бас сосиски с сыром говядина, курица 400 г",
+    "cleanTokens": [
+      "с",
+      "сыром",
+      "говядина",
+      "курица"
+    ],
+    "normalizedTokens": [
+      "с",
+      "сыром",
+      "говядина",
+      "курица",
+      "400 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "400 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Сосиски МясоДел Сосиски говяжьи",
+    "cleanTokens": [
+      "говяжьи"
+    ],
+    "normalizedTokens": [
+      "говяжьи"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Дархан сосиски мусульманские говядина, курица 500 г",
+    "cleanTokens": [
+      "мусульманские",
+      "говядина",
+      "курица"
+    ],
+    "normalizedTokens": [
+      "мусульманские",
+      "говядина",
+      "курица",
+      "500 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "500 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Сосиски Рубиком южные замороженные 400 г",
+    "cleanTokens": [
+      "южные",
+      "замороженные"
+    ],
+    "normalizedTokens": [
+      "южные",
+      "замороженные",
+      "400 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "400 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Сосиски Народные Колбасы мусульманские вареные 480 г",
+    "cleanTokens": [
+      "народные",
+      "мусульманские",
+      "вареные"
+    ],
+    "normalizedTokens": [
+      "народные",
+      "мусульманские",
+      "вареные",
+      "480 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "480 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Сосиски Добрый продукт Сосиски сытные",
+    "cleanTokens": [
+      "сытные"
+    ],
+    "normalizedTokens": [
+      "сытные"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Шах сосиски охотничьи говядина 400 г",
+    "cleanTokens": [
+      "охотничьи",
+      "говядина"
+    ],
+    "normalizedTokens": [
+      "охотничьи",
+      "говядина",
+      "400 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "400 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Сосиски Омский Бекон Молочные категория b 470 г",
+    "cleanTokens": [
+      "молочные",
+      "категория",
+      "b"
+    ],
+    "normalizedTokens": [
+      "молочные",
+      "категория",
+      "b",
+      "470 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "470 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  }
+]

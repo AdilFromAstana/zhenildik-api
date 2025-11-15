@@ -1,0 +1,5832 @@
+[
+  {
+    "original": "Султан спагетти особые 1600 г",
+    "cleanTokens": [
+      "спагетти",
+      "особые"
+    ],
+    "normalizedTokens": [
+      "спагетти",
+      "особые",
+      "1600 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "1600 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "ЦЕСНА спирали из твердых сортов пшеницы 1600 г",
+    "cleanTokens": [
+      "спирали",
+      "из",
+      "твердых",
+      "сортов",
+      "пшеницы"
+    ],
+    "normalizedTokens": [
+      "спирали",
+      "из",
+      "твердых",
+      "сортов",
+      "пшеницы",
+      "1600 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "1600 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "MAKFA трубочки рифленые 400 г",
+    "cleanTokens": [
+      "трубочки",
+      "рифленые"
+    ],
+    "normalizedTokens": [
+      "трубочки",
+      "рифленые",
+      "400 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "400 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "КЭММИ особо тонкая лапша домашняя 200 г",
+    "cleanTokens": [
+      "особо",
+      "тонкая",
+      "лапша",
+      "домашняя"
+    ],
+    "normalizedTokens": [
+      "особо",
+      "тонкая",
+      "лапша",
+      "домашняя",
+      "200 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "200 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "ЦЕСНА паутинка из твердых сортов пшеницы 400 г",
+    "cleanTokens": [
+      "паутинка",
+      "из",
+      "твердых",
+      "сортов",
+      "пшеницы"
+    ],
+    "normalizedTokens": [
+      "паутинка",
+      "из",
+      "твердых",
+      "сортов",
+      "пшеницы",
+      "400 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "400 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "MAKFA перья из твердых сортов пшеницы 400 г",
+    "cleanTokens": [
+      "перья",
+      "из",
+      "твердых",
+      "сортов",
+      "пшеницы"
+    ],
+    "normalizedTokens": [
+      "перья",
+      "из",
+      "твердых",
+      "сортов",
+      "пшеницы",
+      "400 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "400 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Barilla Spaghettini №3 450 г",
+    "cleanTokens": [
+      "spaghettini",
+      "№3"
+    ],
+    "normalizedTokens": [
+      "spaghettini",
+      "№3",
+      "450 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "450 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "ЦЕСНА витки 1600 г",
+    "cleanTokens": [
+      "витки"
+    ],
+    "normalizedTokens": [
+      "витки",
+      "1600 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "1600 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Barilla penne rigate №73 450 г",
+    "cleanTokens": [
+      "penne",
+      "rigate",
+      "№73"
+    ],
+    "normalizedTokens": [
+      "penne",
+      "rigate",
+      "№73",
+      "450 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "450 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "ЦЕСНА рожки рифленые 400 г",
+    "cleanTokens": [
+      "рожки",
+      "рифленые"
+    ],
+    "normalizedTokens": [
+      "рожки",
+      "рифленые",
+      "400 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "400 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "ЦЕСНА перья из твердых сортов пшеницы 1600 г",
+    "cleanTokens": [
+      "перья",
+      "из",
+      "твердых",
+      "сортов",
+      "пшеницы"
+    ],
+    "normalizedTokens": [
+      "перья",
+      "из",
+      "твердых",
+      "сортов",
+      "пшеницы",
+      "1600 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "1600 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Роллтон спагетти 400 г",
+    "cleanTokens": [
+      "спагетти"
+    ],
+    "normalizedTokens": [
+      "спагетти",
+      "400 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "400 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "ЦЕСНА жайма тонкая раскатка 300 г",
+    "cleanTokens": [
+      "жайма",
+      "тонкая",
+      "раскатка"
+    ],
+    "normalizedTokens": [
+      "жайма",
+      "тонкая",
+      "раскатка",
+      "300 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "300 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Barilla spaghetti n.5 450 г",
+    "cleanTokens": [
+      "spaghetti",
+      "n.5"
+    ],
+    "normalizedTokens": [
+      "spaghetti",
+      "n.5",
+      "450 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "450 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Султан колечки 8 особые 400 г",
+    "cleanTokens": [
+      "колечки",
+      "8",
+      "особые"
+    ],
+    "normalizedTokens": [
+      "колечки",
+      "8",
+      "особые",
+      "400 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "400 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Роллтон рожки 400 г",
+    "cleanTokens": [
+      "рожки"
+    ],
+    "normalizedTokens": [
+      "рожки",
+      "400 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "400 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "ЦЕСНА спирали из твердых сортов пшеницы 400 г",
+    "cleanTokens": [
+      "спирали",
+      "из",
+      "твердых",
+      "сортов",
+      "пшеницы"
+    ],
+    "normalizedTokens": [
+      "спирали",
+      "из",
+      "твердых",
+      "сортов",
+      "пшеницы",
+      "400 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "400 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Султан бантики особые 400 г",
+    "cleanTokens": [
+      "бантики",
+      "особые"
+    ],
+    "normalizedTokens": [
+      "бантики",
+      "особые",
+      "400 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "400 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Султан ракушки особые 400 г",
+    "cleanTokens": [
+      "ракушки",
+      "особые"
+    ],
+    "normalizedTokens": [
+      "ракушки",
+      "особые",
+      "400 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "400 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "ЦЕСНА рожки из твердых сортов пшеницы 1600 г",
+    "cleanTokens": [
+      "рожки",
+      "из",
+      "твердых",
+      "сортов",
+      "пшеницы"
+    ],
+    "normalizedTokens": [
+      "рожки",
+      "из",
+      "твердых",
+      "сортов",
+      "пшеницы",
+      "1600 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "1600 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Barilla Fusilli n.98 450 г",
+    "cleanTokens": [
+      "fusilli",
+      "n.98"
+    ],
+    "normalizedTokens": [
+      "fusilli",
+      "n.98",
+      "450 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "450 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Barilla Bavette n.13 450 г",
+    "cleanTokens": [
+      "bavette",
+      "n.13"
+    ],
+    "normalizedTokens": [
+      "bavette",
+      "n.13",
+      "450 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "450 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Султан спагетти 1 особые 400 г",
+    "cleanTokens": [
+      "спагетти",
+      "1",
+      "особые"
+    ],
+    "normalizedTokens": [
+      "спагетти",
+      "1",
+      "особые",
+      "400 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "400 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "ЦЕСНА ракушки 1600 г",
+    "cleanTokens": [
+      "ракушки"
+    ],
+    "normalizedTokens": [
+      "ракушки",
+      "1600 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "1600 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "ЦЕСНА спагетти из твердых сортов пшеницы 1600 г",
+    "cleanTokens": [
+      "спагетти",
+      "из",
+      "твердых",
+      "сортов",
+      "пшеницы"
+    ],
+    "normalizedTokens": [
+      "спагетти",
+      "из",
+      "твердых",
+      "сортов",
+      "пшеницы",
+      "1600 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "1600 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Султан спираль 1600 г",
+    "cleanTokens": [
+      "спираль"
+    ],
+    "normalizedTokens": [
+      "спираль",
+      "1600 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "1600 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "ЦЕСНА перья №8 из твердых сортов пшеницы 400 г",
+    "cleanTokens": [
+      "перья",
+      "№8",
+      "из",
+      "твердых",
+      "сортов",
+      "пшеницы"
+    ],
+    "normalizedTokens": [
+      "перья",
+      "№8",
+      "из",
+      "твердых",
+      "сортов",
+      "пшеницы",
+      "400 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "400 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Grand di Pasta Fettuccine 500 г",
+    "cleanTokens": [
+      "fettuccine"
+    ],
+    "normalizedTokens": [
+      "fettuccine",
+      "500 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "500 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "ЦЕСНА паутинка из твердых сортов пшеницы 1600 г",
+    "cleanTokens": [
+      "паутинка",
+      "из",
+      "твердых",
+      "сортов",
+      "пшеницы"
+    ],
+    "normalizedTokens": [
+      "паутинка",
+      "из",
+      "твердых",
+      "сортов",
+      "пшеницы",
+      "1600 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "1600 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Султан колесики особые 400 г",
+    "cleanTokens": [
+      "колесики",
+      "особые"
+    ],
+    "normalizedTokens": [
+      "колесики",
+      "особые",
+      "400 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "400 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Barilla Spaghettoni №7 450 г",
+    "cleanTokens": [
+      "spaghettoni",
+      "№7"
+    ],
+    "normalizedTokens": [
+      "spaghettoni",
+      "№7",
+      "450 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "450 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Роллтон спирали 400 г",
+    "cleanTokens": [
+      "спирали"
+    ],
+    "normalizedTokens": [
+      "спирали",
+      "400 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "400 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "ЦЕСНА спагетти из твердых сортов пшеницы 400 г",
+    "cleanTokens": [
+      "спагетти",
+      "из",
+      "твердых",
+      "сортов",
+      "пшеницы"
+    ],
+    "normalizedTokens": [
+      "спагетти",
+      "из",
+      "твердых",
+      "сортов",
+      "пшеницы",
+      "400 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "400 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Султан лапша гнездо 2 мм 400 г",
+    "cleanTokens": [
+      "лапша",
+      "гнездо",
+      "2",
+      "мм"
+    ],
+    "normalizedTokens": [
+      "лапша",
+      "гнездо",
+      "2",
+      "мм",
+      "400 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "400 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "MAKFA паутинка 400 г",
+    "cleanTokens": [
+      "паутинка"
+    ],
+    "normalizedTokens": [
+      "паутинка",
+      "400 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "400 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "MAKFA ракушки 400 г",
+    "cleanTokens": [
+      "ракушки"
+    ],
+    "normalizedTokens": [
+      "ракушки",
+      "400 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "400 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Султан звездочки особые 400 г",
+    "cleanTokens": [
+      "звездочки",
+      "особые"
+    ],
+    "normalizedTokens": [
+      "звездочки",
+      "особые",
+      "400 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "400 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Barilla Capellini n.1 450 г",
+    "cleanTokens": [
+      "capellini",
+      "n.1"
+    ],
+    "normalizedTokens": [
+      "capellini",
+      "n.1",
+      "450 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "450 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Султан перья 5 особые 400 г",
+    "cleanTokens": [
+      "перья",
+      "5",
+      "особые"
+    ],
+    "normalizedTokens": [
+      "перья",
+      "5",
+      "особые",
+      "400 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "400 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Чим Чим фунчоза 200 г",
+    "cleanTokens": [
+      "фунчоза"
+    ],
+    "normalizedTokens": [
+      "фунчоза",
+      "200 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "200 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Султан спираль 12 особые 400 г",
+    "cleanTokens": [
+      "спираль",
+      "12",
+      "особые"
+    ],
+    "normalizedTokens": [
+      "спираль",
+      "12",
+      "особые",
+      "400 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "400 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "MAKFA бантики 400 г",
+    "cleanTokens": [
+      "бантики"
+    ],
+    "normalizedTokens": [
+      "бантики",
+      "400 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "400 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Barilla Farfalle n.65 400 г",
+    "cleanTokens": [
+      "farfalle",
+      "n.65"
+    ],
+    "normalizedTokens": [
+      "farfalle",
+      "n.65",
+      "400 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "400 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "КЭММИ особо тонкая лапша лагманная 200 г",
+    "cleanTokens": [
+      "особо",
+      "тонкая",
+      "лапша",
+      "лагманная"
+    ],
+    "normalizedTokens": [
+      "особо",
+      "тонкая",
+      "лапша",
+      "лагманная",
+      "200 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "200 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Barilla Chifferi rigati №41 450 г",
+    "cleanTokens": [
+      "chifferi",
+      "rigati",
+      "№41"
+    ],
+    "normalizedTokens": [
+      "chifferi",
+      "rigati",
+      "№41",
+      "450 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "450 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "КЭММИ мега особо тонкая бесбармачная лапша 450 г",
+    "cleanTokens": [
+      "мега",
+      "особо",
+      "тонкая",
+      "бесбармачная",
+      "лапша"
+    ],
+    "normalizedTokens": [
+      "мега",
+      "особо",
+      "тонкая",
+      "бесбармачная",
+      "лапша",
+      "450 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "450 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Султан рожки 5 особые 1600 г",
+    "cleanTokens": [
+      "рожки",
+      "5",
+      "особые"
+    ],
+    "normalizedTokens": [
+      "рожки",
+      "5",
+      "особые",
+      "1600 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "1600 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "КЭММИ эксклюзивная лапша №1 яичная 200 г",
+    "cleanTokens": [
+      "эксклюзивная",
+      "лапша",
+      "№1",
+      "яичная"
+    ],
+    "normalizedTokens": [
+      "эксклюзивная",
+      "лапша",
+      "№1",
+      "яичная",
+      "200 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "200 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Султан витушки особые 400 г",
+    "cleanTokens": [
+      "витушки",
+      "особые"
+    ],
+    "normalizedTokens": [
+      "витушки",
+      "особые",
+      "400 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "400 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Султан рожки особые 1600 г",
+    "cleanTokens": [
+      "рожки",
+      "особые"
+    ],
+    "normalizedTokens": [
+      "рожки",
+      "особые",
+      "1600 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "1600 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "MAKFA спирали триколлини 450 г",
+    "cleanTokens": [
+      "спирали",
+      "триколлини"
+    ],
+    "normalizedTokens": [
+      "спирали",
+      "триколлини",
+      "450 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "450 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "MAKFA Триолли 400 г",
+    "cleanTokens": [
+      "триолли"
+    ],
+    "normalizedTokens": [
+      "триолли",
+      "400 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "400 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Роллтон перья 400 г",
+    "cleanTokens": [
+      "перья"
+    ],
+    "normalizedTokens": [
+      "перья",
+      "400 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "400 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "КЭММИ манпар яичная 250 г",
+    "cleanTokens": [
+      "манпар",
+      "яичная"
+    ],
+    "normalizedTokens": [
+      "манпар",
+      "яичная",
+      "250 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "250 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Grand di Pasta Farfalle 400 г",
+    "cleanTokens": [
+      "farfalle"
+    ],
+    "normalizedTokens": [
+      "farfalle",
+      "400 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "400 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Султан паутинка 1600 г",
+    "cleanTokens": [
+      "паутинка"
+    ],
+    "normalizedTokens": [
+      "паутинка",
+      "1600 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "1600 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "ЦЕСНА ракушки из твердых сортов пшеницы 400 г",
+    "cleanTokens": [
+      "ракушки",
+      "из",
+      "твердых",
+      "сортов",
+      "пшеницы"
+    ],
+    "normalizedTokens": [
+      "ракушки",
+      "из",
+      "твердых",
+      "сортов",
+      "пшеницы",
+      "400 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "400 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Barilla Pipe rigate n.91 450 г",
+    "cleanTokens": [
+      "pipe",
+      "rigate",
+      "n.91"
+    ],
+    "normalizedTokens": [
+      "pipe",
+      "rigate",
+      "n.91",
+      "450 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "450 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "MAKFA гнезда 450 г",
+    "cleanTokens": [
+      "гнезда"
+    ],
+    "normalizedTokens": [
+      "гнезда",
+      "450 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "450 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Салем рожки 1800 г",
+    "cleanTokens": [
+      "рожки"
+    ],
+    "normalizedTokens": [
+      "рожки",
+      "1800 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "1800 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Bella Pasta рожки спирали 400 г",
+    "cleanTokens": [
+      "рожки",
+      "спирали"
+    ],
+    "normalizedTokens": [
+      "рожки",
+      "спирали",
+      "400 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "400 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Barilla Integrale Fusilli 450 г",
+    "cleanTokens": [
+      "integrale",
+      "fusilli"
+    ],
+    "normalizedTokens": [
+      "integrale",
+      "fusilli",
+      "450 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "450 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Grand di Pasta Spaghetti 500 г",
+    "cleanTokens": [
+      "spaghetti"
+    ],
+    "normalizedTokens": [
+      "spaghetti",
+      "500 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "500 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Bella Pasta ракушки 400 г",
+    "cleanTokens": [
+      "ракушки"
+    ],
+    "normalizedTokens": [
+      "ракушки",
+      "400 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "400 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Султан гнезда 400 г",
+    "cleanTokens": [
+      "гнезда"
+    ],
+    "normalizedTokens": [
+      "гнезда",
+      "400 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "400 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "ЦЕСНА витки из твердых сортов пшеницы 400 г",
+    "cleanTokens": [
+      "витки",
+      "из",
+      "твердых",
+      "сортов",
+      "пшеницы"
+    ],
+    "normalizedTokens": [
+      "витки",
+      "из",
+      "твердых",
+      "сортов",
+      "пшеницы",
+      "400 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "400 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Султан ракушки особые 400 г",
+    "cleanTokens": [
+      "ракушки",
+      "особые"
+    ],
+    "normalizedTokens": [
+      "ракушки",
+      "особые",
+      "400 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "400 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Bella Pasta перья 400 г",
+    "cleanTokens": [
+      "перья"
+    ],
+    "normalizedTokens": [
+      "перья",
+      "400 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "400 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Barilla Filini Vermicelles n.30 450 г",
+    "cleanTokens": [
+      "filini",
+      "vermicelles",
+      "n.30"
+    ],
+    "normalizedTokens": [
+      "filini",
+      "vermicelles",
+      "n.30",
+      "450 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "450 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Султан жгутики особые 400 г",
+    "cleanTokens": [
+      "жгутики",
+      "особые"
+    ],
+    "normalizedTokens": [
+      "жгутики",
+      "особые",
+      "400 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "400 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Bella Pasta рожки гладкие 400 г",
+    "cleanTokens": [
+      "рожки",
+      "гладкие"
+    ],
+    "normalizedTokens": [
+      "рожки",
+      "гладкие",
+      "400 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "400 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Лия лапша нежная яичная 230 г",
+    "cleanTokens": [
+      "лапша",
+      "нежная",
+      "яичная"
+    ],
+    "normalizedTokens": [
+      "лапша",
+      "нежная",
+      "яичная",
+      "230 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "230 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Султан рожки 12 особые 400 г",
+    "cleanTokens": [
+      "рожки",
+      "12",
+      "особые"
+    ],
+    "normalizedTokens": [
+      "рожки",
+      "12",
+      "особые",
+      "400 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "400 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Султан перья 1600 г",
+    "cleanTokens": [
+      "перья"
+    ],
+    "normalizedTokens": [
+      "перья",
+      "1600 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "1600 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Barilla Conchiglie Rigate n.93 450 г",
+    "cleanTokens": [
+      "conchiglie",
+      "rigate",
+      "n.93"
+    ],
+    "normalizedTokens": [
+      "conchiglie",
+      "rigate",
+      "n.93",
+      "450 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "450 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Barilla Stelline №27 450 г",
+    "cleanTokens": [
+      "stelline",
+      "№27"
+    ],
+    "normalizedTokens": [
+      "stelline",
+      "№27",
+      "450 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "450 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Султан соломка 400 г",
+    "cleanTokens": [
+      "соломка"
+    ],
+    "normalizedTokens": [
+      "соломка",
+      "400 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "400 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Султан спираль отрубные 400 г",
+    "cleanTokens": [
+      "спираль",
+      "отрубные"
+    ],
+    "normalizedTokens": [
+      "спираль",
+      "отрубные",
+      "400 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "400 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Салем спирали 2000 г",
+    "cleanTokens": [
+      "спирали"
+    ],
+    "normalizedTokens": [
+      "спирали",
+      "2000 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "2000 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Султан гребешки особые 400 г",
+    "cleanTokens": [
+      "гребешки",
+      "особые"
+    ],
+    "normalizedTokens": [
+      "гребешки",
+      "особые",
+      "400 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "400 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "MAKFA спагетти цельнозерновые 500 г",
+    "cleanTokens": [
+      "спагетти",
+      "цельнозерновые"
+    ],
+    "normalizedTokens": [
+      "спагетти",
+      "цельнозерновые",
+      "500 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "500 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Султан рожки 8 особые 400 г",
+    "cleanTokens": [
+      "рожки",
+      "8",
+      "особые"
+    ],
+    "normalizedTokens": [
+      "рожки",
+      "8",
+      "особые",
+      "400 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "400 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Султан ракушки особые 1600 г",
+    "cleanTokens": [
+      "ракушки",
+      "особые"
+    ],
+    "normalizedTokens": [
+      "ракушки",
+      "особые",
+      "1600 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "1600 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Bella Pasta спагетти 400 г",
+    "cleanTokens": [
+      "спагетти"
+    ],
+    "normalizedTokens": [
+      "спагетти",
+      "400 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "400 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Султан спагетти отрубные 400 г",
+    "cleanTokens": [
+      "спагетти",
+      "отрубные"
+    ],
+    "normalizedTokens": [
+      "спагетти",
+      "отрубные",
+      "400 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "400 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Султан улитки особые 400 г",
+    "cleanTokens": [
+      "улитки",
+      "особые"
+    ],
+    "normalizedTokens": [
+      "улитки",
+      "особые",
+      "400 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "400 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Barilla Cellentani №297 450 г",
+    "cleanTokens": [
+      "cellentani",
+      "№297"
+    ],
+    "normalizedTokens": [
+      "cellentani",
+      "№297",
+      "450 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "450 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "КЭММИ лапша гнезда эксклюзивная №4 250 г",
+    "cleanTokens": [
+      "лапша",
+      "гнезда",
+      "эксклюзивная",
+      "№4"
+    ],
+    "normalizedTokens": [
+      "лапша",
+      "гнезда",
+      "эксклюзивная",
+      "№4",
+      "250 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "250 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "MAKFA спагетти гречневые 500 г",
+    "cleanTokens": [
+      "спагетти",
+      "гречневые"
+    ],
+    "normalizedTokens": [
+      "спагетти",
+      "гречневые",
+      "500 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "500 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Barilla Maccheroni №44 450 г",
+    "cleanTokens": [
+      "maccheroni",
+      "№44"
+    ],
+    "normalizedTokens": [
+      "maccheroni",
+      "№44",
+      "450 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "450 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Салем перья 2000 г",
+    "cleanTokens": [
+      "перья"
+    ],
+    "normalizedTokens": [
+      "перья",
+      "2000 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "2000 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Султан зернышки особые 400 г",
+    "cleanTokens": [
+      "зернышки",
+      "особые"
+    ],
+    "normalizedTokens": [
+      "зернышки",
+      "особые",
+      "400 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "400 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "КЭММИ эксклюзивная лапша №2 200 г",
+    "cleanTokens": [
+      "эксклюзивная",
+      "лапша",
+      "№2"
+    ],
+    "normalizedTokens": [
+      "эксклюзивная",
+      "лапша",
+      "№2",
+      "200 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "200 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "КЭММИ лапша для супа 400 г",
+    "cleanTokens": [
+      "лапша",
+      "для",
+      "супа"
+    ],
+    "normalizedTokens": [
+      "лапша",
+      "для",
+      "супа",
+      "400 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "400 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Pastamia Spirali 400 г",
+    "cleanTokens": [
+      "spirali"
+    ],
+    "normalizedTokens": [
+      "spirali",
+      "400 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "400 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Barilla Risoni n.26 450 г",
+    "cleanTokens": [
+      "risoni",
+      "n.26"
+    ],
+    "normalizedTokens": [
+      "risoni",
+      "n.26",
+      "450 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "450 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Лия лапша для супа 700 г",
+    "cleanTokens": [
+      "лапша",
+      "для",
+      "супа"
+    ],
+    "normalizedTokens": [
+      "лапша",
+      "для",
+      "супа",
+      "700 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "700 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Султан гнезда шпинатные 400 г",
+    "cleanTokens": [
+      "гнезда",
+      "шпинатные"
+    ],
+    "normalizedTokens": [
+      "гнезда",
+      "шпинатные",
+      "400 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "400 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Pastamia Spaghetti 400 г",
+    "cleanTokens": [
+      "spaghetti"
+    ],
+    "normalizedTokens": [
+      "spaghetti",
+      "400 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "400 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Салем ракушки 2000 г",
+    "cleanTokens": [
+      "ракушки"
+    ],
+    "normalizedTokens": [
+      "ракушки",
+      "2000 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "2000 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Barilla Fettuccine n.166 500 г",
+    "cleanTokens": [
+      "fettuccine",
+      "n.166"
+    ],
+    "normalizedTokens": [
+      "fettuccine",
+      "n.166",
+      "500 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "500 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Ratish лапша чабрец 500 г",
+    "cleanTokens": [
+      "лапша",
+      "чабрец"
+    ],
+    "normalizedTokens": [
+      "лапша",
+      "чабрец",
+      "500 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "500 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Barilla Bucatini n.9 400 г",
+    "cleanTokens": [
+      "bucatini",
+      "n.9"
+    ],
+    "normalizedTokens": [
+      "bucatini",
+      "n.9",
+      "400 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "400 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Barilla Tortiglioni n.83 450 г",
+    "cleanTokens": [
+      "tortiglioni",
+      "n.83"
+    ],
+    "normalizedTokens": [
+      "tortiglioni",
+      "n.83",
+      "450 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "450 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "КЭММИ эксклюзивная лапша яичная бабочка 250 г",
+    "cleanTokens": [
+      "эксклюзивная",
+      "лапша",
+      "яичная",
+      "бабочка"
+    ],
+    "normalizedTokens": [
+      "эксклюзивная",
+      "лапша",
+      "яичная",
+      "бабочка",
+      "250 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "250 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Barilla Lasagne n.189 500 г",
+    "cleanTokens": [
+      "lasagne",
+      "n.189"
+    ],
+    "normalizedTokens": [
+      "lasagne",
+      "n.189",
+      "500 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "500 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Султан соломка 1.7 особые 400 г",
+    "cleanTokens": [
+      "соломка",
+      "1.7",
+      "особые"
+    ],
+    "normalizedTokens": [
+      "соломка",
+      "1.7",
+      "особые",
+      "400 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "400 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Султан витушки особые 1600 г",
+    "cleanTokens": [
+      "витушки",
+      "особые"
+    ],
+    "normalizedTokens": [
+      "витушки",
+      "особые",
+      "1600 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "1600 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "ЦЕСНА лапша из твердых сортов пшеницы 400 г",
+    "cleanTokens": [
+      "лапша",
+      "из",
+      "твердых",
+      "сортов",
+      "пшеницы"
+    ],
+    "normalizedTokens": [
+      "лапша",
+      "из",
+      "твердых",
+      "сортов",
+      "пшеницы",
+      "400 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "400 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Pastamia Penne 400 г",
+    "cleanTokens": [
+      "penne"
+    ],
+    "normalizedTokens": [
+      "penne",
+      "400 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "400 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Султан гнезда с томатом 400 г",
+    "cleanTokens": [
+      "гнезда",
+      "с",
+      "томатом"
+    ],
+    "normalizedTokens": [
+      "гнезда",
+      "с",
+      "томатом",
+      "400 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "400 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Pastamia Fusilli 400 г",
+    "cleanTokens": [
+      "fusilli"
+    ],
+    "normalizedTokens": [
+      "fusilli",
+      "400 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "400 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Лия лапша лагманная яичная 230 г",
+    "cleanTokens": [
+      "лапша",
+      "лагманная",
+      "яичная"
+    ],
+    "normalizedTokens": [
+      "лапша",
+      "лагманная",
+      "яичная",
+      "230 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "230 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Pastamia Rigatoni 5 400 г",
+    "cleanTokens": [
+      "rigatoni",
+      "5"
+    ],
+    "normalizedTokens": [
+      "rigatoni",
+      "5",
+      "400 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "400 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Султан жайма для бесбармака 250 г",
+    "cleanTokens": [
+      "жайма",
+      "для",
+      "бесбармака"
+    ],
+    "normalizedTokens": [
+      "жайма",
+      "для",
+      "бесбармака",
+      "250 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "250 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Grand di Pasta Penne rigate 450 г",
+    "cleanTokens": [
+      "penne",
+      "rigate"
+    ],
+    "normalizedTokens": [
+      "penne",
+      "rigate",
+      "450 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "450 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Султан бабочки особые 400 г",
+    "cleanTokens": [
+      "бабочки",
+      "особые"
+    ],
+    "normalizedTokens": [
+      "бабочки",
+      "особые",
+      "400 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "400 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Madina жайма 400 г",
+    "cleanTokens": [
+      "жайма"
+    ],
+    "normalizedTokens": [
+      "жайма",
+      "400 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "400 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Bravolli птитим 350 г",
+    "cleanTokens": [
+      "птитим"
+    ],
+    "normalizedTokens": [
+      "птитим",
+      "350 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "350 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Granoro Spaghetti vermicelli №13 500 г",
+    "cleanTokens": [
+      "spaghetti",
+      "vermicelli",
+      "№13"
+    ],
+    "normalizedTokens": [
+      "spaghetti",
+      "vermicelli",
+      "№13",
+      "500 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "500 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Barilla Mezze penne tricolore n.170 500 г",
+    "cleanTokens": [
+      "mezze",
+      "penne",
+      "tricolore",
+      "n.170"
+    ],
+    "normalizedTokens": [
+      "mezze",
+      "penne",
+      "tricolore",
+      "n.170",
+      "500 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "500 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Бiр Асым Етке Бір Асым Етке жайма 970 г",
+    "cleanTokens": [
+      "бір",
+      "асым",
+      "етке",
+      "жайма"
+    ],
+    "normalizedTokens": [
+      "бір",
+      "асым",
+      "етке",
+      "жайма",
+      "970 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "970 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Салем рожки гладкие 2000 г",
+    "cleanTokens": [
+      "рожки",
+      "гладкие"
+    ],
+    "normalizedTokens": [
+      "рожки",
+      "гладкие",
+      "2000 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "2000 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Bella Pasta перья 900 г",
+    "cleanTokens": [
+      "перья"
+    ],
+    "normalizedTokens": [
+      "перья",
+      "900 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "900 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Салем вермишель 2000 г",
+    "cleanTokens": [
+      "вермишель"
+    ],
+    "normalizedTokens": [
+      "вермишель",
+      "2000 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "2000 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Bella Pasta спирали 900 г",
+    "cleanTokens": [
+      "спирали"
+    ],
+    "normalizedTokens": [
+      "спирали",
+      "900 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "900 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Лия Лапша домашняя яичная 230 г",
+    "cleanTokens": [
+      "лапша",
+      "домашняя",
+      "яичная"
+    ],
+    "normalizedTokens": [
+      "лапша",
+      "домашняя",
+      "яичная",
+      "230 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "230 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Sen Soy Udon пшеничная лапша 300 г",
+    "cleanTokens": [
+      "udon",
+      "пшеничная",
+      "лапша"
+    ],
+    "normalizedTokens": [
+      "udon",
+      "пшеничная",
+      "лапша",
+      "300 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "300 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "КЭММИ эксклюзивная гнезда 250 г",
+    "cleanTokens": [
+      "эксклюзивная",
+      "гнезда"
+    ],
+    "normalizedTokens": [
+      "эксклюзивная",
+      "гнезда",
+      "250 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "250 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Barilla Cannelloni 250 г",
+    "cleanTokens": [
+      "cannelloni"
+    ],
+    "normalizedTokens": [
+      "cannelloni",
+      "250 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "250 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Даулет ракушки 2000 г",
+    "cleanTokens": [
+      "ракушки"
+    ],
+    "normalizedTokens": [
+      "ракушки",
+      "2000 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "2000 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Asia Fest фунчоза 250 г",
+    "cleanTokens": [
+      "фунчоза"
+    ],
+    "normalizedTokens": [
+      "фунчоза",
+      "250 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "250 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Barilla Penne Rigate 400 г",
+    "cleanTokens": [
+      "penne",
+      "rigate"
+    ],
+    "normalizedTokens": [
+      "penne",
+      "rigate",
+      "400 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "400 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Barilla Senza Glutine Glutenfrei Fusilli 400 г",
+    "cleanTokens": [
+      "senza",
+      "glutine",
+      "glutenfrei",
+      "fusilli"
+    ],
+    "normalizedTokens": [
+      "senza",
+      "glutine",
+      "glutenfrei",
+      "fusilli",
+      "400 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "400 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Sen Soy фунчоза вермишель из зеленых бобов 200 г",
+    "cleanTokens": [
+      "фунчоза",
+      "вермишель",
+      "из",
+      "зеленых",
+      "бобов"
+    ],
+    "normalizedTokens": [
+      "фунчоза",
+      "вермишель",
+      "из",
+      "зеленых",
+      "бобов",
+      "200 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "200 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "КЭММИ эксклюзивная лапша яичная 250 г",
+    "cleanTokens": [
+      "эксклюзивная",
+      "лапша",
+      "яичная"
+    ],
+    "normalizedTokens": [
+      "эксклюзивная",
+      "лапша",
+      "яичная",
+      "250 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "250 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Даулет трубочки 1000 г",
+    "cleanTokens": [
+      "трубочки"
+    ],
+    "normalizedTokens": [
+      "трубочки",
+      "1000 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "1000 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Barilla Senza Glutine spaghetti 400 г",
+    "cleanTokens": [
+      "senza",
+      "glutine",
+      "spaghetti"
+    ],
+    "normalizedTokens": [
+      "senza",
+      "glutine",
+      "spaghetti",
+      "400 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "400 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Даулет вермишель тонкая 2000 г",
+    "cleanTokens": [
+      "вермишель",
+      "тонкая"
+    ],
+    "normalizedTokens": [
+      "вермишель",
+      "тонкая",
+      "2000 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "2000 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Reggia спагетти безглютеновые 400 г",
+    "cleanTokens": [
+      "спагетти",
+      "безглютеновые"
+    ],
+    "normalizedTokens": [
+      "спагетти",
+      "безглютеновые",
+      "400 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "400 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Madina Elite Pasta спирали из отборных сортов пшеницы 5000 г",
+    "cleanTokens": [
+      "elite",
+      "pasta",
+      "спирали",
+      "из",
+      "отборных",
+      "сортов",
+      "пшеницы"
+    ],
+    "normalizedTokens": [
+      "elite",
+      "pasta",
+      "спирали",
+      "из",
+      "отборных",
+      "сортов",
+      "пшеницы",
+      "5000 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "5000 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Reggia Nutri Mio Pasta Reggia 400 г",
+    "cleanTokens": [
+      "nutri",
+      "mio",
+      "pasta"
+    ],
+    "normalizedTokens": [
+      "nutri",
+      "mio",
+      "pasta",
+      "400 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "400 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Madina Elite Pasta вермишель из отборных сортов пшеницы 5000 г",
+    "cleanTokens": [
+      "elite",
+      "pasta",
+      "вермишель",
+      "из",
+      "отборных",
+      "сортов",
+      "пшеницы"
+    ],
+    "normalizedTokens": [
+      "elite",
+      "pasta",
+      "вермишель",
+      "из",
+      "отборных",
+      "сортов",
+      "пшеницы",
+      "5000 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "5000 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Fleur Alpine паста безглютеновая рожки 250 г",
+    "cleanTokens": [
+      "паста",
+      "безглютеновая",
+      "рожки"
+    ],
+    "normalizedTokens": [
+      "паста",
+      "безглютеновая",
+      "рожки",
+      "250 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "250 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Даулет рожки 2000 г",
+    "cleanTokens": [
+      "рожки"
+    ],
+    "normalizedTokens": [
+      "рожки",
+      "2000 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "2000 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Здороведа паста с овощами по-итальянски 250 г",
+    "cleanTokens": [
+      "паста",
+      "с",
+      "овощами",
+      "по-итальянски"
+    ],
+    "normalizedTokens": [
+      "паста",
+      "с",
+      "овощами",
+      "по-итальянски",
+      "250 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "250 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Federici перья рифлёные безглютеновые из зеленого гороха 250 г",
+    "cleanTokens": [
+      "перья",
+      "рифленые",
+      "безглютеновые",
+      "из",
+      "зеленого",
+      "гороха"
+    ],
+    "normalizedTokens": [
+      "перья",
+      "рифленые",
+      "безглютеновые",
+      "из",
+      "зеленого",
+      "гороха",
+      "250 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "250 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Арзу лапша для лагмана 300 г",
+    "cleanTokens": [
+      "лапша",
+      "для",
+      "лагмана"
+    ],
+    "normalizedTokens": [
+      "лапша",
+      "для",
+      "лагмана",
+      "300 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "300 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Reggia Nutri Mio Penne Rigate 400 г",
+    "cleanTokens": [
+      "nutri",
+      "mio",
+      "penne",
+      "rigate"
+    ],
+    "normalizedTokens": [
+      "nutri",
+      "mio",
+      "penne",
+      "rigate",
+      "400 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "400 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Federici перья рифлёные 400 г",
+    "cleanTokens": [
+      "перья",
+      "рифленые"
+    ],
+    "normalizedTokens": [
+      "перья",
+      "рифленые",
+      "400 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "400 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Даулет рожки 1000 г",
+    "cleanTokens": [
+      "рожки"
+    ],
+    "normalizedTokens": [
+      "рожки",
+      "1000 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "1000 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Barilla 5 злаков 450 г",
+    "cleanTokens": [
+      "5",
+      "злаков"
+    ],
+    "normalizedTokens": [
+      "5",
+      "злаков",
+      "450 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "450 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Barilla Penne Rigate 450 г",
+    "cleanTokens": [
+      "penne",
+      "rigate"
+    ],
+    "normalizedTokens": [
+      "penne",
+      "rigate",
+      "450 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "450 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Даулет перья 2000 г",
+    "cleanTokens": [
+      "перья"
+    ],
+    "normalizedTokens": [
+      "перья",
+      "2000 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "2000 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Valdigrano Linguine №13 500 г",
+    "cleanTokens": [
+      "linguine",
+      "№13"
+    ],
+    "normalizedTokens": [
+      "linguine",
+      "№13",
+      "500 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "500 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Federici №23 penne rigate 400 г",
+    "cleanTokens": [
+      "№23",
+      "penne",
+      "rigate"
+    ],
+    "normalizedTokens": [
+      "№23",
+      "penne",
+      "rigate",
+      "400 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "400 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Federici Спагетти №3 с амарантом, без глютена 250 г",
+    "cleanTokens": [
+      "спагетти",
+      "№3",
+      "с",
+      "амарантом",
+      "без",
+      "глютена"
+    ],
+    "normalizedTokens": [
+      "спагетти",
+      "№3",
+      "с",
+      "амарантом",
+      "без",
+      "глютена",
+      "250 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "250 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Valdigrano Mezze penne rigate №145 500 г",
+    "cleanTokens": [
+      "mezze",
+      "penne",
+      "rigate",
+      "№145"
+    ],
+    "normalizedTokens": [
+      "mezze",
+      "penne",
+      "rigate",
+      "№145",
+      "500 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "500 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Valdigrano Pipe rigate №135 500 г",
+    "cleanTokens": [
+      "pipe",
+      "rigate",
+      "№135"
+    ],
+    "normalizedTokens": [
+      "pipe",
+      "rigate",
+      "№135",
+      "500 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "500 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Здороведа спиральки 350 г",
+    "cleanTokens": [
+      "спиральки"
+    ],
+    "normalizedTokens": [
+      "спиральки",
+      "350 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "350 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Valdigrano Tortiglietti №146 500 г",
+    "cleanTokens": [
+      "tortiglietti",
+      "№146"
+    ],
+    "normalizedTokens": [
+      "tortiglietti",
+      "№146",
+      "500 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "500 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "SAJO фунчоза 500 г",
+    "cleanTokens": [
+      "фунчоза"
+    ],
+    "normalizedTokens": [
+      "фунчоза",
+      "500 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "500 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Иван Да Марья рожки нутовые без глютена 400 г",
+    "cleanTokens": [
+      "рожки",
+      "нутовые",
+      "без",
+      "глютена"
+    ],
+    "normalizedTokens": [
+      "рожки",
+      "нутовые",
+      "без",
+      "глютена",
+      "400 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "400 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Madina Elite Pasta спагетти 2000 г",
+    "cleanTokens": [
+      "elite",
+      "pasta",
+      "спагетти"
+    ],
+    "normalizedTokens": [
+      "elite",
+      "pasta",
+      "спагетти",
+      "2000 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "2000 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Fleur Alpine паста звездочки 250 г",
+    "cleanTokens": [
+      "паста",
+      "звездочки"
+    ],
+    "normalizedTokens": [
+      "паста",
+      "звездочки",
+      "250 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "250 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Даулет трубочки 2000 г",
+    "cleanTokens": [
+      "трубочки"
+    ],
+    "normalizedTokens": [
+      "трубочки",
+      "2000 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "2000 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Лия лапша для лагмана яичная 700 г",
+    "cleanTokens": [
+      "лапша",
+      "для",
+      "лагмана",
+      "яичная"
+    ],
+    "normalizedTokens": [
+      "лапша",
+      "для",
+      "лагмана",
+      "яичная",
+      "700 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "700 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Иван Да Марья рожки из красной чечевицы без глютена 400 г",
+    "cleanTokens": [
+      "рожки",
+      "из",
+      "красной",
+      "чечевицы",
+      "без",
+      "глютена"
+    ],
+    "normalizedTokens": [
+      "рожки",
+      "из",
+      "красной",
+      "чечевицы",
+      "без",
+      "глютена",
+      "400 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "400 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Fleur Alpine Pasta Coccioline Rigate 250 г",
+    "cleanTokens": [
+      "pasta",
+      "coccioline",
+      "rigate"
+    ],
+    "normalizedTokens": [
+      "pasta",
+      "coccioline",
+      "rigate",
+      "250 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "250 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "AROY-D лапша рисовая 3 мм 454 г",
+    "cleanTokens": [
+      "лапша",
+      "рисовая",
+      "3",
+      "мм"
+    ],
+    "normalizedTokens": [
+      "лапша",
+      "рисовая",
+      "3",
+      "мм",
+      "454 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "454 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Даулет ракушки 5000 г",
+    "cleanTokens": [
+      "ракушки"
+    ],
+    "normalizedTokens": [
+      "ракушки",
+      "5000 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "5000 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "RoLa лапша чабрец 5000 г",
+    "cleanTokens": [
+      "лапша",
+      "чабрец"
+    ],
+    "normalizedTokens": [
+      "лапша",
+      "чабрец",
+      "5000 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "5000 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "AROY-D лапша рисовая 5 мм 454 г",
+    "cleanTokens": [
+      "лапша",
+      "рисовая",
+      "5",
+      "мм"
+    ],
+    "normalizedTokens": [
+      "лапша",
+      "рисовая",
+      "5",
+      "мм",
+      "454 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "454 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Даулет перья 1000 г",
+    "cleanTokens": [
+      "перья"
+    ],
+    "normalizedTokens": [
+      "перья",
+      "1000 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "1000 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Madina Elite Pasta вермишель 2000 г",
+    "cleanTokens": [
+      "elite",
+      "pasta",
+      "вермишель"
+    ],
+    "normalizedTokens": [
+      "elite",
+      "pasta",
+      "вермишель",
+      "2000 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "2000 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "RoLa лапша чабрец 900 г",
+    "cleanTokens": [
+      "лапша",
+      "чабрец"
+    ],
+    "normalizedTokens": [
+      "лапша",
+      "чабрец",
+      "900 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "900 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Barilla Fusilli 450 г",
+    "cleanTokens": [
+      "fusilli"
+    ],
+    "normalizedTokens": [
+      "fusilli",
+      "450 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "450 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Madina Elite Pasta спирали из отборных сортов пшеницы 2000 г",
+    "cleanTokens": [
+      "elite",
+      "pasta",
+      "спирали",
+      "из",
+      "отборных",
+      "сортов",
+      "пшеницы"
+    ],
+    "normalizedTokens": [
+      "elite",
+      "pasta",
+      "спирали",
+      "из",
+      "отборных",
+      "сортов",
+      "пшеницы",
+      "2000 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "2000 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Madina Elite Pasta перья 2000 г",
+    "cleanTokens": [
+      "elite",
+      "pasta",
+      "перья"
+    ],
+    "normalizedTokens": [
+      "elite",
+      "pasta",
+      "перья",
+      "2000 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "2000 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Madina перья 5000 г",
+    "cleanTokens": [
+      "перья"
+    ],
+    "normalizedTokens": [
+      "перья",
+      "5000 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "5000 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Madina Elite Pasta рожки из отборных сортов пшеницы 2000 г",
+    "cleanTokens": [
+      "elite",
+      "pasta",
+      "рожки",
+      "из",
+      "отборных",
+      "сортов",
+      "пшеницы"
+    ],
+    "normalizedTokens": [
+      "elite",
+      "pasta",
+      "рожки",
+      "из",
+      "отборных",
+      "сортов",
+      "пшеницы",
+      "2000 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "2000 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Даулет ракушки 1000 г",
+    "cleanTokens": [
+      "ракушки"
+    ],
+    "normalizedTokens": [
+      "ракушки",
+      "1000 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "1000 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Даулет перья 5000 г",
+    "cleanTokens": [
+      "перья"
+    ],
+    "normalizedTokens": [
+      "перья",
+      "5000 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "5000 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Ешь Здорово перья из амарантовой муки 250 г",
+    "cleanTokens": [
+      "перья",
+      "из",
+      "амарантовой",
+      "муки"
+    ],
+    "normalizedTokens": [
+      "перья",
+      "из",
+      "амарантовой",
+      "муки",
+      "250 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "250 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Fleur Alpine стеллине чечевица красная 250 г",
+    "cleanTokens": [
+      "стеллине",
+      "чечевица",
+      "красная"
+    ],
+    "normalizedTokens": [
+      "стеллине",
+      "чечевица",
+      "красная",
+      "250 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "250 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Fleur Alpine Pasta Coccioline Rigate 500 г",
+    "cleanTokens": [
+      "pasta",
+      "coccioline",
+      "rigate"
+    ],
+    "normalizedTokens": [
+      "pasta",
+      "coccioline",
+      "rigate",
+      "500 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "500 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Federici Спагетти №3 из нутовой муки 250 г",
+    "cleanTokens": [
+      "спагетти",
+      "№3",
+      "из",
+      "нутовой",
+      "муки"
+    ],
+    "normalizedTokens": [
+      "спагетти",
+      "№3",
+      "из",
+      "нутовой",
+      "муки",
+      "250 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "250 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Bottega del Sole спирали 400 г",
+    "cleanTokens": [
+      "спирали"
+    ],
+    "normalizedTokens": [
+      "спирали",
+      "400 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "400 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Fleur Alpine паста безглютеновая трубочки 250 г",
+    "cleanTokens": [
+      "паста",
+      "безглютеновая",
+      "трубочки"
+    ],
+    "normalizedTokens": [
+      "паста",
+      "безглютеновая",
+      "трубочки",
+      "250 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "250 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "RoLa лапша чабрец 10000 г",
+    "cleanTokens": [
+      "лапша",
+      "чабрец"
+    ],
+    "normalizedTokens": [
+      "лапша",
+      "чабрец",
+      "10000 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "10000 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Mai A Yi Thin Chinese egg noodles 1000 г",
+    "cleanTokens": [
+      "thin",
+      "chinese",
+      "egg",
+      "noodles"
+    ],
+    "normalizedTokens": [
+      "thin",
+      "chinese",
+      "egg",
+      "noodles",
+      "1000 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "1000 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Bottega del Sole Integrale Spaghetti 500 г",
+    "cleanTokens": [
+      "integrale",
+      "spaghetti"
+    ],
+    "normalizedTokens": [
+      "integrale",
+      "spaghetti",
+      "500 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "500 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Di&Di рожки из амарантовой муки 250 г",
+    "cleanTokens": [
+      "рожки",
+      "из",
+      "амарантовой",
+      "муки"
+    ],
+    "normalizedTokens": [
+      "рожки",
+      "из",
+      "амарантовой",
+      "муки",
+      "250 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "250 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Bottega del Sole рожки 400 г",
+    "cleanTokens": [
+      "рожки"
+    ],
+    "normalizedTokens": [
+      "рожки",
+      "400 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "400 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Federici спагетти цельнозерновые №3 400 г",
+    "cleanTokens": [
+      "спагетти",
+      "цельнозерновые",
+      "№3"
+    ],
+    "normalizedTokens": [
+      "спагетти",
+      "цельнозерновые",
+      "№3",
+      "400 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "400 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Barilla Casarecce n.288 450 г",
+    "cleanTokens": [
+      "casarecce",
+      "n.288"
+    ],
+    "normalizedTokens": [
+      "casarecce",
+      "n.288",
+      "450 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "450 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Jin Sung Well Food рисовая лапша 1000 г",
+    "cleanTokens": [
+      "рисовая",
+      "лапша"
+    ],
+    "normalizedTokens": [
+      "рисовая",
+      "лапша",
+      "1000 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "1000 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "ChefONE вермишель 1000 г",
+    "cleanTokens": [
+      "вермишель"
+    ],
+    "normalizedTokens": [
+      "вермишель",
+      "1000 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "1000 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "MADINA TRADE рожки 5000 г",
+    "cleanTokens": [
+      "рожки"
+    ],
+    "normalizedTokens": [
+      "рожки",
+      "5000 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "5000 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Bottega del Sole Integrale fettuccine 500 г",
+    "cleanTokens": [
+      "integrale",
+      "fettuccine"
+    ],
+    "normalizedTokens": [
+      "integrale",
+      "fettuccine",
+      "500 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "500 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Di&Di спиральки из амарантовой муки 250 г",
+    "cleanTokens": [
+      "спиральки",
+      "из",
+      "амарантовой",
+      "муки"
+    ],
+    "normalizedTokens": [
+      "спиральки",
+      "из",
+      "амарантовой",
+      "муки",
+      "250 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "250 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Pasteroni Grandine Ptitim 122 400 г",
+    "cleanTokens": [
+      "grandine",
+      "ptitim",
+      "122"
+    ],
+    "normalizedTokens": [
+      "grandine",
+      "ptitim",
+      "122",
+      "400 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "400 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Granoro Tagliatelle №116 500 г",
+    "cleanTokens": [
+      "tagliatelle",
+      "№116"
+    ],
+    "normalizedTokens": [
+      "tagliatelle",
+      "№116",
+      "500 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "500 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Иван Да Марья сделано по-домашнему без глютена 250 г",
+    "cleanTokens": [
+      "сделано",
+      "по-домашнему",
+      "без",
+      "глютена"
+    ],
+    "normalizedTokens": [
+      "сделано",
+      "по-домашнему",
+      "без",
+      "глютена",
+      "250 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "250 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Jin Sung Well Food Buckwheat noodles 1000 г",
+    "cleanTokens": [
+      "buckwheat",
+      "noodles"
+    ],
+    "normalizedTokens": [
+      "buckwheat",
+      "noodles",
+      "1000 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "1000 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Арзу жайма для мясо по-казахски 3000 г",
+    "cleanTokens": [
+      "жайма",
+      "для",
+      "мясо",
+      "по-казахски"
+    ],
+    "normalizedTokens": [
+      "жайма",
+      "для",
+      "мясо",
+      "по-казахски",
+      "3000 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "3000 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Federici Спагетти №3 250 г",
+    "cleanTokens": [
+      "спагетти",
+      "№3"
+    ],
+    "normalizedTokens": [
+      "спагетти",
+      "№3",
+      "250 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "250 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Federici спиральки №42 400 г",
+    "cleanTokens": [
+      "спиральки",
+      "№42"
+    ],
+    "normalizedTokens": [
+      "спиральки",
+      "№42",
+      "400 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "400 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Grand di Pasta Cavatappi 450 г",
+    "cleanTokens": [
+      "cavatappi"
+    ],
+    "normalizedTokens": [
+      "cavatappi",
+      "450 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "450 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Thai Style cтеклянная лапша 35 г",
+    "cleanTokens": [
+      "cтеклянная",
+      "лапша"
+    ],
+    "normalizedTokens": [
+      "cтеклянная",
+      "лапша",
+      "35 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "35 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Ешь Здорово вермишель из амарантовой муки 250 г",
+    "cleanTokens": [
+      "вермишель",
+      "из",
+      "амарантовой",
+      "муки"
+    ],
+    "normalizedTokens": [
+      "вермишель",
+      "из",
+      "амарантовой",
+      "муки",
+      "250 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "250 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Barilla Campanelle n.99 450 г",
+    "cleanTokens": [
+      "campanelle",
+      "n.99"
+    ],
+    "normalizedTokens": [
+      "campanelle",
+      "n.99",
+      "450 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "450 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "SULTAN Special 400 г",
+    "cleanTokens": [
+      "special"
+    ],
+    "normalizedTokens": [
+      "special",
+      "400 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "400 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Valdigrano Spaghetti №5 500 г",
+    "cleanTokens": [
+      "spaghetti",
+      "№5"
+    ],
+    "normalizedTokens": [
+      "spaghetti",
+      "№5",
+      "500 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "500 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Barilla Linguine Rigate n.213 450 г",
+    "cleanTokens": [
+      "linguine",
+      "rigate",
+      "n.213"
+    ],
+    "normalizedTokens": [
+      "linguine",
+      "rigate",
+      "n.213",
+      "450 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "450 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "San Bonsai фунчоза длинная 200 г",
+    "cleanTokens": [
+      "фунчоза",
+      "длинная"
+    ],
+    "normalizedTokens": [
+      "фунчоза",
+      "длинная",
+      "200 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "200 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Federici Спагетти №3 250 г",
+    "cleanTokens": [
+      "спагетти",
+      "№3"
+    ],
+    "normalizedTokens": [
+      "спагетти",
+      "№3",
+      "250 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "250 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Fleur Alpine паста морские ракушки 500 г",
+    "cleanTokens": [
+      "паста",
+      "морские",
+      "ракушки"
+    ],
+    "normalizedTokens": [
+      "паста",
+      "морские",
+      "ракушки",
+      "500 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "500 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Арзу жайма 300 г",
+    "cleanTokens": [
+      "жайма"
+    ],
+    "normalizedTokens": [
+      "жайма",
+      "300 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "300 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Granoro Penne rigate №26 500 г",
+    "cleanTokens": [
+      "penne",
+      "rigate",
+      "№26"
+    ],
+    "normalizedTokens": [
+      "penne",
+      "rigate",
+      "№26",
+      "500 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "500 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Bottega del Sole Spaghetti 500 г",
+    "cleanTokens": [
+      "spaghetti"
+    ],
+    "normalizedTokens": [
+      "spaghetti",
+      "500 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "500 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Federici спагетти №12 из гречневой муки 250 г",
+    "cleanTokens": [
+      "спагетти",
+      "№12",
+      "из",
+      "гречневой",
+      "муки"
+    ],
+    "normalizedTokens": [
+      "спагетти",
+      "№12",
+      "из",
+      "гречневой",
+      "муки",
+      "250 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "250 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Granoro Spaghetti vermicelloni №12 500 г",
+    "cleanTokens": [
+      "spaghetti",
+      "vermicelloni",
+      "№12"
+    ],
+    "normalizedTokens": [
+      "spaghetti",
+      "vermicelloni",
+      "№12",
+      "500 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "500 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Pasteroni Fusilli №125 400 г",
+    "cleanTokens": [
+      "fusilli",
+      "№125"
+    ],
+    "normalizedTokens": [
+      "fusilli",
+      "№125",
+      "400 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "400 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Federici спагетти №3 250 г",
+    "cleanTokens": [
+      "спагетти",
+      "№3"
+    ],
+    "normalizedTokens": [
+      "спагетти",
+      "№3",
+      "250 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "250 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Ешь здорово ракушки из амарантовой муки 250 г",
+    "cleanTokens": [
+      "ракушки",
+      "из",
+      "амарантовой",
+      "муки"
+    ],
+    "normalizedTokens": [
+      "ракушки",
+      "из",
+      "амарантовой",
+      "муки",
+      "250 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "250 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Bottega del Sole Integrale Cavatappi 400 г",
+    "cleanTokens": [
+      "integrale",
+      "cavatappi"
+    ],
+    "normalizedTokens": [
+      "integrale",
+      "cavatappi",
+      "400 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "400 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Здороведа из полбы цельнозерновые ракушки 350 г",
+    "cleanTokens": [
+      "из",
+      "полбы",
+      "цельнозерновые",
+      "ракушки"
+    ],
+    "normalizedTokens": [
+      "из",
+      "полбы",
+      "цельнозерновые",
+      "ракушки",
+      "350 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "350 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Madina ракушки 2000 г",
+    "cleanTokens": [
+      "ракушки"
+    ],
+    "normalizedTokens": [
+      "ракушки",
+      "2000 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "2000 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Здороведа из полбы цельнозерновые спагетти 350 г",
+    "cleanTokens": [
+      "из",
+      "полбы",
+      "цельнозерновые",
+      "спагетти"
+    ],
+    "normalizedTokens": [
+      "из",
+      "полбы",
+      "цельнозерновые",
+      "спагетти",
+      "350 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "350 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Granoro Spaghettini №15 500 г",
+    "cleanTokens": [
+      "spaghettini",
+      "№15"
+    ],
+    "normalizedTokens": [
+      "spaghettini",
+      "№15",
+      "500 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "500 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Pasteroni Spaghetti №114 450 г",
+    "cleanTokens": [
+      "spaghetti",
+      "№114"
+    ],
+    "normalizedTokens": [
+      "spaghetti",
+      "№114",
+      "450 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "450 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "ЭТОНОВО лапша рисовая 300 г",
+    "cleanTokens": [
+      "лапша",
+      "рисовая"
+    ],
+    "normalizedTokens": [
+      "лапша",
+      "рисовая",
+      "300 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "300 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Jin Sung Well Food Сураккан Чиджакуксу 1000 г",
+    "cleanTokens": [
+      "сураккан",
+      "чиджакуксу"
+    ],
+    "normalizedTokens": [
+      "сураккан",
+      "чиджакуксу",
+      "1000 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "1000 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Bottega del Sole Витки 400 г",
+    "cleanTokens": [
+      "витки"
+    ],
+    "normalizedTokens": [
+      "витки",
+      "400 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "400 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Арзу Classic жайма 700 г",
+    "cleanTokens": [
+      "classic",
+      "жайма"
+    ],
+    "normalizedTokens": [
+      "classic",
+      "жайма",
+      "700 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "700 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Granoro Farfalloni №79 500 г",
+    "cleanTokens": [
+      "farfalloni",
+      "№79"
+    ],
+    "normalizedTokens": [
+      "farfalloni",
+      "№79",
+      "500 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "500 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Granoro Tagliatelle verdi №80 500 г",
+    "cleanTokens": [
+      "tagliatelle",
+      "verdi",
+      "№80"
+    ],
+    "normalizedTokens": [
+      "tagliatelle",
+      "verdi",
+      "№80",
+      "500 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "500 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Granoro Linguine №4 500 г",
+    "cleanTokens": [
+      "linguine",
+      "№4"
+    ],
+    "normalizedTokens": [
+      "linguine",
+      "№4",
+      "500 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "500 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Арзу Classic жайма 450 г",
+    "cleanTokens": [
+      "classic",
+      "жайма"
+    ],
+    "normalizedTokens": [
+      "classic",
+      "жайма",
+      "450 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "450 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Madina ракушки 5000 г",
+    "cleanTokens": [
+      "ракушки"
+    ],
+    "normalizedTokens": [
+      "ракушки",
+      "5000 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "5000 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Здороведа из полбы цельнозерновые вермишель 350 г",
+    "cleanTokens": [
+      "из",
+      "полбы",
+      "цельнозерновые",
+      "вермишель"
+    ],
+    "normalizedTokens": [
+      "из",
+      "полбы",
+      "цельнозерновые",
+      "вермишель",
+      "350 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "350 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Astau жайма 1800 г",
+    "cleanTokens": [
+      "жайма"
+    ],
+    "normalizedTokens": [
+      "жайма",
+      "1800 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "1800 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Арзу Premium жайма 980 г",
+    "cleanTokens": [
+      "premium",
+      "жайма"
+    ],
+    "normalizedTokens": [
+      "premium",
+      "жайма",
+      "980 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "980 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Astau жайма 980 г",
+    "cleanTokens": [
+      "жайма"
+    ],
+    "normalizedTokens": [
+      "жайма",
+      "980 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "980 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Pasteroni Stelline 400 г",
+    "cleanTokens": [
+      "stelline"
+    ],
+    "normalizedTokens": [
+      "stelline",
+      "400 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "400 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Grand di Pasta Tubetti rigati 450 г",
+    "cleanTokens": [
+      "tubetti",
+      "rigati"
+    ],
+    "normalizedTokens": [
+      "tubetti",
+      "rigati",
+      "450 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "450 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Grand di Pasta Fusilli 450 г",
+    "cleanTokens": [
+      "fusilli"
+    ],
+    "normalizedTokens": [
+      "fusilli",
+      "450 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "450 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Valdigrano Gnocchi №136 500 г",
+    "cleanTokens": [
+      "gnocchi",
+      "№136"
+    ],
+    "normalizedTokens": [
+      "gnocchi",
+      "№136",
+      "500 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "500 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Valdigrano Celentani №162 500 г",
+    "cleanTokens": [
+      "celentani",
+      "№162"
+    ],
+    "normalizedTokens": [
+      "celentani",
+      "№162",
+      "500 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "500 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Melissa Pasta Kids Play with pets зверюшки 500 г",
+    "cleanTokens": [
+      "pasta",
+      "kids",
+      "play",
+      "with",
+      "pets",
+      "зверюшки"
+    ],
+    "normalizedTokens": [
+      "pasta",
+      "kids",
+      "play",
+      "with",
+      "pets",
+      "зверюшки",
+      "500 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "500 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Federici Лапша длинная №12 из кукурузы и риса 400 г",
+    "cleanTokens": [
+      "лапша",
+      "длинная",
+      "№12",
+      "из",
+      "кукурузы",
+      "и",
+      "риса"
+    ],
+    "normalizedTokens": [
+      "лапша",
+      "длинная",
+      "№12",
+      "из",
+      "кукурузы",
+      "и",
+      "риса",
+      "400 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "400 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Ешь здорово рожки из амарантовой муки 250 г",
+    "cleanTokens": [
+      "рожки",
+      "из",
+      "амарантовой",
+      "муки"
+    ],
+    "normalizedTokens": [
+      "рожки",
+      "из",
+      "амарантовой",
+      "муки",
+      "250 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "250 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Pasteroni Penne Rigate №129 400 г",
+    "cleanTokens": [
+      "penne",
+      "rigate",
+      "№129"
+    ],
+    "normalizedTokens": [
+      "penne",
+      "rigate",
+      "№129",
+      "400 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "400 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Le Bonta' Del Casale лингвини 250 г",
+    "cleanTokens": [
+      "лингвини"
+    ],
+    "normalizedTokens": [
+      "лингвини",
+      "250 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "250 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Арзу Classic жайма 900 г",
+    "cleanTokens": [
+      "classic",
+      "жайма"
+    ],
+    "normalizedTokens": [
+      "classic",
+      "жайма",
+      "900 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "900 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Mai Lao da лапша стеклянная 500 г",
+    "cleanTokens": [
+      "лапша",
+      "стеклянная"
+    ],
+    "normalizedTokens": [
+      "лапша",
+      "стеклянная",
+      "500 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "500 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Valdigrano Fettuccine №15 500 г",
+    "cleanTokens": [
+      "fettuccine",
+      "№15"
+    ],
+    "normalizedTokens": [
+      "fettuccine",
+      "№15",
+      "500 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "500 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Melissa Pasta Kids Peppa Pig зверюшки 500 г",
+    "cleanTokens": [
+      "pasta",
+      "kids",
+      "peppa",
+      "pig",
+      "зверюшки"
+    ],
+    "normalizedTokens": [
+      "pasta",
+      "kids",
+      "peppa",
+      "pig",
+      "зверюшки",
+      "500 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "500 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Song Hak Co. Кон Куксу 1500 г",
+    "cleanTokens": [
+      "кон",
+      "куксу"
+    ],
+    "normalizedTokens": [
+      "кон",
+      "куксу",
+      "1500 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "1500 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Jin Sung Well Food лапша пшеничная средней толщины 1000 г",
+    "cleanTokens": [
+      "лапша",
+      "пшеничная",
+      "средней",
+      "толщины"
+    ],
+    "normalizedTokens": [
+      "лапша",
+      "пшеничная",
+      "средней",
+      "толщины",
+      "1000 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "1000 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "MAKFA гнезда 450 г",
+    "cleanTokens": [
+      "гнезда"
+    ],
+    "normalizedTokens": [
+      "гнезда",
+      "450 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "450 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "KingFisher лингвини со вкусом апельсина 250 г",
+    "cleanTokens": [
+      "лингвини",
+      "со",
+      "вкусом",
+      "апельсина"
+    ],
+    "normalizedTokens": [
+      "лингвини",
+      "со",
+      "вкусом",
+      "апельсина",
+      "250 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "250 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Grand di Pasta Radiatore 400 г",
+    "cleanTokens": [
+      "radiatore"
+    ],
+    "normalizedTokens": [
+      "radiatore",
+      "400 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "400 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "SAJO Funchose 20 шт по 500 г",
+    "cleanTokens": [
+      "funchose",
+      "по"
+    ],
+    "normalizedTokens": [
+      "funchose",
+      "20 шт",
+      "по",
+      "500 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "500 г",
+      "count": "20 шт",
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  }
+]

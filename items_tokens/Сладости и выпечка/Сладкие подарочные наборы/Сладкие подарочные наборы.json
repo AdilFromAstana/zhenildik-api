@@ -1,0 +1,594 @@
+[
+  {
+    "original": "Nesquik Ледянка сладкий набор 314.5 г",
+    "cleanTokens": [
+      "ледянка",
+      "сладкий",
+      "набор"
+    ],
+    "normalizedTokens": [
+      "ледянка",
+      "сладкий",
+      "набор",
+      "314.5 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "314.5 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Баян Сулу Зимние просторы сладкий набор 300 г",
+    "cleanTokens": [
+      "зимние",
+      "просторы",
+      "сладкий",
+      "набор"
+    ],
+    "normalizedTokens": [
+      "зимние",
+      "просторы",
+      "сладкий",
+      "набор",
+      "300 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "300 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Nuts конфеты сладкий набор 301 г",
+    "cleanTokens": [
+      "конфеты",
+      "сладкий",
+      "набор"
+    ],
+    "normalizedTokens": [
+      "конфеты",
+      "сладкий",
+      "набор",
+      "301 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "301 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Баян Сулу Лесные друзья сладкий набор 200 г",
+    "cleanTokens": [
+      "лесные",
+      "друзья",
+      "сладкий",
+      "набор"
+    ],
+    "normalizedTokens": [
+      "лесные",
+      "друзья",
+      "сладкий",
+      "набор",
+      "200 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "200 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Баян Сулу Эскимошка сладкий набор 200 г",
+    "cleanTokens": [
+      "эскимошка",
+      "сладкий",
+      "набор"
+    ],
+    "normalizedTokens": [
+      "эскимошка",
+      "сладкий",
+      "набор",
+      "200 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "200 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Баян Сулу Фиксики сладкий набор 300 г",
+    "cleanTokens": [
+      "фиксики",
+      "сладкий",
+      "набор"
+    ],
+    "normalizedTokens": [
+      "фиксики",
+      "сладкий",
+      "набор",
+      "300 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "300 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Nuts белочка сладкий набор 103.3 г",
+    "cleanTokens": [
+      "белочка",
+      "сладкий",
+      "набор"
+    ],
+    "normalizedTokens": [
+      "белочка",
+      "сладкий",
+      "набор",
+      "103.3 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "103.3 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Баян Сулу Новогодний фонарик сладкий набор 200 г",
+    "cleanTokens": [
+      "новогодний",
+      "фонарик",
+      "сладкий",
+      "набор"
+    ],
+    "normalizedTokens": [
+      "новогодний",
+      "фонарик",
+      "сладкий",
+      "набор",
+      "200 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "200 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Баян Сулу Подарок от пони сладкий набор 200 г",
+    "cleanTokens": [
+      "подарок",
+      "от",
+      "пони",
+      "сладкий",
+      "набор"
+    ],
+    "normalizedTokens": [
+      "подарок",
+      "от",
+      "пони",
+      "сладкий",
+      "набор",
+      "200 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "200 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "KINDER & CO сладкий набор 174 г",
+    "cleanTokens": [
+      "&",
+      "co",
+      "сладкий",
+      "набор"
+    ],
+    "normalizedTokens": [
+      "&",
+      "co",
+      "сладкий",
+      "набор",
+      "174 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "174 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Рахат Новогодний пейзаж сладкий набор 900 г",
+    "cleanTokens": [
+      "новогодний",
+      "пейзаж",
+      "сладкий",
+      "набор"
+    ],
+    "normalizedTokens": [
+      "новогодний",
+      "пейзаж",
+      "сладкий",
+      "набор",
+      "900 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "900 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Баян Сулу Марк и Няша сладкий набор 700 г",
+    "cleanTokens": [
+      "марк",
+      "няша",
+      "сладкий",
+      "набор"
+    ],
+    "normalizedTokens": [
+      "марк",
+      "няша",
+      "сладкий",
+      "набор",
+      "700 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "700 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Баян Сулу Лесная почта сладкий набор 500 г",
+    "cleanTokens": [
+      "лесная",
+      "почта",
+      "сладкий",
+      "набор"
+    ],
+    "normalizedTokens": [
+      "лесная",
+      "почта",
+      "сладкий",
+      "набор",
+      "500 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "500 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Баян Сулу Приключения начинаются сладкий набор 700 г",
+    "cleanTokens": [
+      "приключения",
+      "начинаются",
+      "сладкий",
+      "набор"
+    ],
+    "normalizedTokens": [
+      "приключения",
+      "начинаются",
+      "сладкий",
+      "набор",
+      "700 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "700 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Баян Сулу Волшебный праздник сладкий набор 500 г",
+    "cleanTokens": [
+      "волшебный",
+      "праздник",
+      "сладкий",
+      "набор"
+    ],
+    "normalizedTokens": [
+      "волшебный",
+      "праздник",
+      "сладкий",
+      "набор",
+      "500 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "500 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Nuts Goodmix сладкий набор 414.9 г",
+    "cleanTokens": [
+      "goodmix",
+      "сладкий",
+      "набор"
+    ],
+    "normalizedTokens": [
+      "goodmix",
+      "сладкий",
+      "набор",
+      "414.9 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "414.9 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Бон Пари микс мармелада и сладостей сладкий набор 376 г",
+    "cleanTokens": [
+      "микс",
+      "мармелада",
+      "сладостей",
+      "сладкий",
+      "набор"
+    ],
+    "normalizedTokens": [
+      "микс",
+      "мармелада",
+      "сладостей",
+      "сладкий",
+      "набор",
+      "376 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "376 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Баян Сулу Спортивные забавы сладкий набор 500 г",
+    "cleanTokens": [
+      "спортивные",
+      "забавы",
+      "сладкий",
+      "набор"
+    ],
+    "normalizedTokens": [
+      "спортивные",
+      "забавы",
+      "сладкий",
+      "набор",
+      "500 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "500 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Рахат Зимнее утро сладкий набор 700 г",
+    "cleanTokens": [
+      "зимнее",
+      "утро",
+      "сладкий",
+      "набор"
+    ],
+    "normalizedTokens": [
+      "зимнее",
+      "утро",
+      "сладкий",
+      "набор",
+      "700 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "700 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Баян Сулу Новогодние пожелания сладкий набор 300 г",
+    "cleanTokens": [
+      "новогодние",
+      "пожелания",
+      "сладкий",
+      "набор"
+    ],
+    "normalizedTokens": [
+      "новогодние",
+      "пожелания",
+      "сладкий",
+      "набор",
+      "300 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "300 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Рахат Новогоднее Время сладкий набор 1000 г",
+    "cleanTokens": [
+      "новогоднее",
+      "время",
+      "сладкий",
+      "набор"
+    ],
+    "normalizedTokens": [
+      "новогоднее",
+      "время",
+      "сладкий",
+      "набор",
+      "1000 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "1000 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Рахат Полярная ночь сладкий набор 1500 г",
+    "cleanTokens": [
+      "полярная",
+      "ночь",
+      "сладкий",
+      "набор"
+    ],
+    "normalizedTokens": [
+      "полярная",
+      "ночь",
+      "сладкий",
+      "набор",
+      "1500 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "1500 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Windel Fireman SAM адвент календарь 75 г",
+    "cleanTokens": [
+      "fireman",
+      "sam",
+      "адвент",
+      "календарь"
+    ],
+    "normalizedTokens": [
+      "fireman",
+      "sam",
+      "адвент",
+      "календарь",
+      "75 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "75 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Windel Advent Calendar адвент календарь 75 г",
+    "cleanTokens": [
+      "advent",
+      "calendar",
+      "адвент",
+      "календарь"
+    ],
+    "normalizedTokens": [
+      "advent",
+      "calendar",
+      "адвент",
+      "календарь",
+      "75 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "75 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  }
+]

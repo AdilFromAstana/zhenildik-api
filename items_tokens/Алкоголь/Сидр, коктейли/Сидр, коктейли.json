@@ -1,0 +1,1480 @@
+[
+  {
+    "original": "Chester's сидр сладкий малина, крыжовник 7% 0.45 л",
+    "cleanTokens": [
+      "сладкий",
+      "малина",
+      "крыжовник"
+    ],
+    "normalizedTokens": [
+      "сладкий",
+      "малина",
+      "крыжовник",
+      "7%",
+      "0.45 л"
+    ],
+    "params": {
+      "volume": "0.45 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "7%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Chester's сидр сладкий ежевика, мята 7% 450 мл",
+    "cleanTokens": [
+      "сладкий",
+      "ежевика",
+      "мята"
+    ],
+    "normalizedTokens": [
+      "сладкий",
+      "ежевика",
+      "мята",
+      "7%",
+      "450 мл"
+    ],
+    "params": {
+      "volume": "450 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "7%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Lab.rioni Vintage Series коктейль газированный с коньяком и вкусом кофе 7% 0.45 л",
+    "cleanTokens": [
+      "vintage",
+      "series",
+      "коктейль",
+      "газированный",
+      "с",
+      "коньяком",
+      "и",
+      "вкусом",
+      "кофе"
+    ],
+    "normalizedTokens": [
+      "vintage",
+      "series",
+      "коктейль",
+      "газированный",
+      "с",
+      "коньяком",
+      "и",
+      "вкусом",
+      "кофе",
+      "7%",
+      "0.45 л"
+    ],
+    "params": {
+      "volume": "0.45 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "7%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Chester's сидр сладкий персик, абрикос 7% 0.45 л",
+    "cleanTokens": [
+      "сладкий",
+      "персик",
+      "абрикос"
+    ],
+    "normalizedTokens": [
+      "сладкий",
+      "персик",
+      "абрикос",
+      "7%",
+      "0.45 л"
+    ],
+    "params": {
+      "volume": "0.45 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "7%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "ISSYK Wild Kazakh сидр естественного брожения, полусладкий яблоко 5.8% 0.75 л",
+    "cleanTokens": [
+      "wild",
+      "kazakh",
+      "естественного",
+      "брожения",
+      "полусладкий",
+      "яблоко"
+    ],
+    "normalizedTokens": [
+      "wild",
+      "kazakh",
+      "естественного",
+      "брожения",
+      "полусладкий",
+      "яблоко",
+      "5.8%",
+      "0.75 л"
+    ],
+    "params": {
+      "volume": "0.75 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "5.8%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Vitasid сидр полусладкий вишня 5.7% 450 мл",
+    "cleanTokens": [
+      "полусладкий",
+      "вишня"
+    ],
+    "normalizedTokens": [
+      "полусладкий",
+      "вишня",
+      "5.7%",
+      "450 мл"
+    ],
+    "params": {
+      "volume": "450 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "5.7%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Lab.rioni Vintage Series коктейль газированный с коньяком и вкусом миндаля 7% 0.45 л",
+    "cleanTokens": [
+      "vintage",
+      "series",
+      "коктейль",
+      "газированный",
+      "с",
+      "коньяком",
+      "и",
+      "вкусом",
+      "миндаля"
+    ],
+    "normalizedTokens": [
+      "vintage",
+      "series",
+      "коктейль",
+      "газированный",
+      "с",
+      "коньяком",
+      "и",
+      "вкусом",
+      "миндаля",
+      "7%",
+      "0.45 л"
+    ],
+    "params": {
+      "volume": "0.45 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "7%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "ISSYK сидр газированный, полусухой яблоко 5.8% 750 мл",
+    "cleanTokens": [
+      "газированный",
+      "полусухой",
+      "яблоко"
+    ],
+    "normalizedTokens": [
+      "газированный",
+      "полусухой",
+      "яблоко",
+      "5.8%",
+      "750 мл"
+    ],
+    "params": {
+      "volume": "750 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "5.8%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Chester's сидр полусладкий ягодный 5.5% 0.5 л",
+    "cleanTokens": [
+      "полусладкий",
+      "ягодный"
+    ],
+    "normalizedTokens": [
+      "полусладкий",
+      "ягодный",
+      "5.5%",
+      "0.5 л"
+    ],
+    "params": {
+      "volume": "0.5 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "5.5%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Kafer коктейль Sprizz 6.9% 750 мл",
+    "cleanTokens": [
+      "коктейль",
+      "sprizz"
+    ],
+    "normalizedTokens": [
+      "коктейль",
+      "sprizz",
+      "6.9%",
+      "750 мл"
+    ],
+    "params": {
+      "volume": "750 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "6.9%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Lab.rioni Vintage Series коктейль с коньяком и вкусом абрикоса 7% 0.45 л",
+    "cleanTokens": [
+      "vintage",
+      "series",
+      "коктейль",
+      "с",
+      "коньяком",
+      "и",
+      "вкусом",
+      "абрикоса"
+    ],
+    "normalizedTokens": [
+      "vintage",
+      "series",
+      "коктейль",
+      "с",
+      "коньяком",
+      "и",
+      "вкусом",
+      "абрикоса",
+      "7%",
+      "0.45 л"
+    ],
+    "params": {
+      "volume": "0.45 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "7%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "ISSYK Wild Kazakh сидр сухой яблоко 5.8% 750 мл",
+    "cleanTokens": [
+      "wild",
+      "kazakh",
+      "сухой",
+      "яблоко"
+    ],
+    "normalizedTokens": [
+      "wild",
+      "kazakh",
+      "сухой",
+      "яблоко",
+      "5.8%",
+      "750 мл"
+    ],
+    "params": {
+      "volume": "750 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "5.8%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Loic Raison Doux fruite сидр сладкий яблоко 3% 0.75 л",
+    "cleanTokens": [
+      "doux",
+      "fruite",
+      "сладкий",
+      "яблоко"
+    ],
+    "normalizedTokens": [
+      "doux",
+      "fruite",
+      "сладкий",
+      "яблоко",
+      "3%",
+      "0.75 л"
+    ],
+    "params": {
+      "volume": "0.75 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "3%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Сидр полусухой яблоко 6% 750 мл",
+    "cleanTokens": [
+      "полусухой",
+      "яблоко"
+    ],
+    "normalizedTokens": [
+      "полусухой",
+      "яблоко",
+      "6%",
+      "750 мл"
+    ],
+    "params": {
+      "volume": "750 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "6%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Сидр сухой яблоко 6% 750 мл",
+    "cleanTokens": [
+      "сухой",
+      "яблоко"
+    ],
+    "normalizedTokens": [
+      "сухой",
+      "яблоко",
+      "6%",
+      "750 мл"
+    ],
+    "params": {
+      "volume": "750 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "6%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "ISSYK сидр сладкий яблоко Wild Kazakh Cider 5.7% 450 мл",
+    "cleanTokens": [
+      "сладкий",
+      "яблоко",
+      "wild",
+      "kazakh",
+      "cider"
+    ],
+    "normalizedTokens": [
+      "сладкий",
+      "яблоко",
+      "wild",
+      "kazakh",
+      "cider",
+      "5.7%",
+      "450 мл"
+    ],
+    "params": {
+      "volume": "450 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "5.7%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Thatchers Gold сидр полусухой яблоко 4.8% 0.5 л",
+    "cleanTokens": [
+      "gold",
+      "полусухой",
+      "яблоко"
+    ],
+    "normalizedTokens": [
+      "gold",
+      "полусухой",
+      "яблоко",
+      "4.8%",
+      "0.5 л"
+    ],
+    "params": {
+      "volume": "0.5 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "4.8%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Christian Drouin сидр полусухой яблоко 3.1% 750 мл",
+    "cleanTokens": [
+      "полусухой",
+      "яблоко"
+    ],
+    "normalizedTokens": [
+      "полусухой",
+      "яблоко",
+      "3.1%",
+      "750 мл"
+    ],
+    "params": {
+      "volume": "750 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "3.1%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Thatchers Apple & Blackcurrant сидр сладкий, газированный яблоко, смородина 4% 0.44 л",
+    "cleanTokens": [
+      "apple",
+      "&",
+      "blackcurrant",
+      "сладкий",
+      "газированный",
+      "яблоко",
+      "смородина"
+    ],
+    "normalizedTokens": [
+      "apple",
+      "&",
+      "blackcurrant",
+      "сладкий",
+      "газированный",
+      "яблоко",
+      "смородина",
+      "4%",
+      "0.44 л"
+    ],
+    "params": {
+      "volume": "0.44 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "4%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Медвежжуха медовуха полусладкий мед 5.3% 450 мл",
+    "cleanTokens": [
+      "медовуха",
+      "полусладкий",
+      "мед"
+    ],
+    "normalizedTokens": [
+      "медовуха",
+      "полусладкий",
+      "мед",
+      "5.3%",
+      "450 мл"
+    ],
+    "params": {
+      "volume": "450 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "5.3%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Царская Black Russian коктейль сладкий пряный 35% 0.5 л",
+    "cleanTokens": [
+      "black",
+      "russian",
+      "коктейль",
+      "сладкий",
+      "пряный"
+    ],
+    "normalizedTokens": [
+      "black",
+      "russian",
+      "коктейль",
+      "сладкий",
+      "пряный",
+      "35%",
+      "0.5 л"
+    ],
+    "params": {
+      "volume": "0.5 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "35%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "WEEKEND сидр сладкий яблоко 6.5% 0.5 л",
+    "cleanTokens": [
+      "сладкий",
+      "яблоко"
+    ],
+    "normalizedTokens": [
+      "сладкий",
+      "яблоко",
+      "6.5%",
+      "0.5 л"
+    ],
+    "params": {
+      "volume": "0.5 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "6.5%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "АлкоМарт Шампань Асти разливной сидр сладкий виноград 6% 1 л",
+    "cleanTokens": [
+      "шампань",
+      "асти",
+      "разливной",
+      "сладкий",
+      "виноград"
+    ],
+    "normalizedTokens": [
+      "шампань",
+      "асти",
+      "разливной",
+      "сладкий",
+      "виноград",
+      "6%",
+      "1 л"
+    ],
+    "params": {
+      "volume": "1 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "6%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Hand-Crafted Method сидр газированный грейпфрут 0% 450 мл",
+    "cleanTokens": [
+      "газированный",
+      "грейпфрут"
+    ],
+    "normalizedTokens": [
+      "газированный",
+      "грейпфрут",
+      "0%",
+      "450 мл"
+    ],
+    "params": {
+      "volume": "450 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "0%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "La'Colvert Cidre Royal Pear сидр естественного брожения, полусладкий груша 5.5% 0.75 л",
+    "cleanTokens": [
+      "cidre",
+      "royal",
+      "pear",
+      "естественного",
+      "брожения",
+      "полусладкий",
+      "груша"
+    ],
+    "normalizedTokens": [
+      "cidre",
+      "royal",
+      "pear",
+      "естественного",
+      "брожения",
+      "полусладкий",
+      "груша",
+      "5.5%",
+      "0.75 л"
+    ],
+    "params": {
+      "volume": "0.75 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "5.5%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Царская Manhattan коктейль сладкий цитрусовый 35% 0.5 л",
+    "cleanTokens": [
+      "manhattan",
+      "коктейль",
+      "сладкий",
+      "цитрусовый"
+    ],
+    "normalizedTokens": [
+      "manhattan",
+      "коктейль",
+      "сладкий",
+      "цитрусовый",
+      "35%",
+      "0.5 л"
+    ],
+    "params": {
+      "volume": "0.5 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "35%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "GreenVill Green Apple сидр полусладкий яблоко 7% 0.75 л",
+    "cleanTokens": [
+      "green",
+      "apple",
+      "полусладкий",
+      "яблоко"
+    ],
+    "normalizedTokens": [
+      "green",
+      "apple",
+      "полусладкий",
+      "яблоко",
+      "7%",
+      "0.75 л"
+    ],
+    "params": {
+      "volume": "0.75 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "7%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Hand-Crafted Method сидр газированный грейпфрут 0% 0.45 л",
+    "cleanTokens": [
+      "газированный",
+      "грейпфрут"
+    ],
+    "normalizedTokens": [
+      "газированный",
+      "грейпфрут",
+      "0%",
+      "0.45 л"
+    ],
+    "params": {
+      "volume": "0.45 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "0%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "BRAVO Premium original коктейль газированный лайм 7.1% 0.45 л",
+    "cleanTokens": [
+      "original",
+      "коктейль",
+      "газированный",
+      "лайм"
+    ],
+    "normalizedTokens": [
+      "original",
+      "коктейль",
+      "газированный",
+      "лайм",
+      "7.1%",
+      "0.45 л"
+    ],
+    "params": {
+      "volume": "0.45 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "7.1%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "АлкоМарт Шампань Асти разливной сидр сладкий виноград 6% 1.5 л",
+    "cleanTokens": [
+      "шампань",
+      "асти",
+      "разливной",
+      "сладкий",
+      "виноград"
+    ],
+    "normalizedTokens": [
+      "шампань",
+      "асти",
+      "разливной",
+      "сладкий",
+      "виноград",
+      "6%",
+      "1.5 л"
+    ],
+    "params": {
+      "volume": "1.5 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "6%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Thatchers Zero сидр газированный, сладкий яблоко 0% 500 мл",
+    "cleanTokens": [
+      "zero",
+      "газированный",
+      "сладкий",
+      "яблоко"
+    ],
+    "normalizedTokens": [
+      "zero",
+      "газированный",
+      "сладкий",
+      "яблоко",
+      "0%",
+      "500 мл"
+    ],
+    "params": {
+      "volume": "500 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "0%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "GreenVill сидр газированный, естественного брожения яблоко 5% 0.75 л",
+    "cleanTokens": [
+      "газированный",
+      "естественного",
+      "брожения",
+      "яблоко"
+    ],
+    "normalizedTokens": [
+      "газированный",
+      "естественного",
+      "брожения",
+      "яблоко",
+      "5%",
+      "0.75 л"
+    ],
+    "params": {
+      "volume": "0.75 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "5%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "La'Colvert сидр сладкий яблоко 5.5% 0.75 л",
+    "cleanTokens": [
+      "сладкий",
+      "яблоко"
+    ],
+    "normalizedTokens": [
+      "сладкий",
+      "яблоко",
+      "5.5%",
+      "0.75 л"
+    ],
+    "params": {
+      "volume": "0.75 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "5.5%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Thatchers Katy сидр полусухой, газированный яблоко, клубника 7.4% 0.5 л",
+    "cleanTokens": [
+      "katy",
+      "полусухой",
+      "газированный",
+      "яблоко",
+      "клубника"
+    ],
+    "normalizedTokens": [
+      "katy",
+      "полусухой",
+      "газированный",
+      "яблоко",
+      "клубника",
+      "7.4%",
+      "0.5 л"
+    ],
+    "params": {
+      "volume": "0.5 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "7.4%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Arba Wine Adem Alma сидр полусухой яблоко 7.5% 750 мл",
+    "cleanTokens": [
+      "adem",
+      "alma",
+      "полусухой",
+      "яблоко"
+    ],
+    "normalizedTokens": [
+      "adem",
+      "alma",
+      "полусухой",
+      "яблоко",
+      "7.5%",
+      "750 мл"
+    ],
+    "params": {
+      "volume": "750 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "7.5%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Lab.rioni коктейль Aperini сладкий цитрусовый 7% 330 мл",
+    "cleanTokens": [
+      "коктейль",
+      "aperini",
+      "сладкий",
+      "цитрусовый"
+    ],
+    "normalizedTokens": [
+      "коктейль",
+      "aperini",
+      "сладкий",
+      "цитрусовый",
+      "7%",
+      "330 мл"
+    ],
+    "params": {
+      "volume": "330 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "7%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "GREENVILL сидр полусладкий яблоко 7% 0.75 л",
+    "cleanTokens": [
+      "полусладкий",
+      "яблоко"
+    ],
+    "normalizedTokens": [
+      "полусладкий",
+      "яблоко",
+      "7%",
+      "0.75 л"
+    ],
+    "params": {
+      "volume": "0.75 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "7%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "АлкоМарт Шампань Асти разливной сидр сладкий виноград 6% 2 л",
+    "cleanTokens": [
+      "шампань",
+      "асти",
+      "разливной",
+      "сладкий",
+      "виноград"
+    ],
+    "normalizedTokens": [
+      "шампань",
+      "асти",
+      "разливной",
+      "сладкий",
+      "виноград",
+      "6%",
+      "2 л"
+    ],
+    "params": {
+      "volume": "2 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "6%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Царская Fashioned коктейль сладкий цитрусовый 35% 0.5 л",
+    "cleanTokens": [
+      "fashioned",
+      "коктейль",
+      "сладкий",
+      "цитрусовый"
+    ],
+    "normalizedTokens": [
+      "fashioned",
+      "коктейль",
+      "сладкий",
+      "цитрусовый",
+      "35%",
+      "0.5 л"
+    ],
+    "params": {
+      "volume": "0.5 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "35%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Christian Drouin Brut de Normandie сидр сухой яблоко 4.5% 0.75 л",
+    "cleanTokens": [
+      "brut",
+      "de",
+      "normandie",
+      "сухой",
+      "яблоко"
+    ],
+    "normalizedTokens": [
+      "brut",
+      "de",
+      "normandie",
+      "сухой",
+      "яблоко",
+      "4.5%",
+      "0.75 л"
+    ],
+    "params": {
+      "volume": "0.75 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "4.5%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Arba Wine Arba Wine Нур-Султан сидр сладкий цитрусовый, яблоко 5% 0.75 л",
+    "cleanTokens": [
+      "нур-султан",
+      "сладкий",
+      "цитрусовый",
+      "яблоко"
+    ],
+    "normalizedTokens": [
+      "нур-султан",
+      "сладкий",
+      "цитрусовый",
+      "яблоко",
+      "5%",
+      "0.75 л"
+    ],
+    "params": {
+      "volume": "0.75 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "5%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Царская Negroni коктейль сладкий пряный 35% 0.5 л",
+    "cleanTokens": [
+      "negroni",
+      "коктейль",
+      "сладкий",
+      "пряный"
+    ],
+    "normalizedTokens": [
+      "negroni",
+      "коктейль",
+      "сладкий",
+      "пряный",
+      "35%",
+      "0.5 л"
+    ],
+    "params": {
+      "volume": "0.5 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "35%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Thatchers Vintage сидр полусухой яблоко 8.3% 0.5 л",
+    "cleanTokens": [
+      "vintage",
+      "полусухой",
+      "яблоко"
+    ],
+    "normalizedTokens": [
+      "vintage",
+      "полусухой",
+      "яблоко",
+      "8.3%",
+      "0.5 л"
+    ],
+    "params": {
+      "volume": "0.5 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "8.3%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Lab.rioni коктейль газированный кола 6.9% 450 мл",
+    "cleanTokens": [
+      "коктейль",
+      "газированный",
+      "кола"
+    ],
+    "normalizedTokens": [
+      "коктейль",
+      "газированный",
+      "кола",
+      "6.9%",
+      "450 мл"
+    ],
+    "params": {
+      "volume": "450 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "6.9%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Медвежжуха медовуха полусладкий мята 5.3% 450 мл",
+    "cleanTokens": [
+      "медовуха",
+      "полусладкий",
+      "мята"
+    ],
+    "normalizedTokens": [
+      "медовуха",
+      "полусладкий",
+      "мята",
+      "5.3%",
+      "450 мл"
+    ],
+    "params": {
+      "volume": "450 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "5.3%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Arba Wine сидр полусладкий яблоко 6% 750 мл",
+    "cleanTokens": [
+      "полусладкий",
+      "яблоко"
+    ],
+    "normalizedTokens": [
+      "полусладкий",
+      "яблоко",
+      "6%",
+      "750 мл"
+    ],
+    "params": {
+      "volume": "750 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "6%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Opera Prima Bellini коктейль газированный персик 5.5% 750 мл",
+    "cleanTokens": [
+      "bellini",
+      "коктейль",
+      "газированный",
+      "персик"
+    ],
+    "normalizedTokens": [
+      "bellini",
+      "коктейль",
+      "газированный",
+      "персик",
+      "5.5%",
+      "750 мл"
+    ],
+    "params": {
+      "volume": "750 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "5.5%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Loic Raison Brut сидр газированный, сухой яблоко 6% 0.75 л",
+    "cleanTokens": [
+      "brut",
+      "газированный",
+      "сухой",
+      "яблоко"
+    ],
+    "normalizedTokens": [
+      "brut",
+      "газированный",
+      "сухой",
+      "яблоко",
+      "6%",
+      "0.75 л"
+    ],
+    "params": {
+      "volume": "0.75 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "6%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Lab.rioni коктейль сладкий персик 5.5% 750 мл",
+    "cleanTokens": [
+      "коктейль",
+      "сладкий",
+      "персик"
+    ],
+    "normalizedTokens": [
+      "коктейль",
+      "сладкий",
+      "персик",
+      "5.5%",
+      "750 мл"
+    ],
+    "params": {
+      "volume": "750 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "5.5%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Thatchers Haze сидр газированный, полусладкий яблоко 4.5% 0.44 л",
+    "cleanTokens": [
+      "haze",
+      "газированный",
+      "полусладкий",
+      "яблоко"
+    ],
+    "normalizedTokens": [
+      "haze",
+      "газированный",
+      "полусладкий",
+      "яблоко",
+      "4.5%",
+      "0.44 л"
+    ],
+    "params": {
+      "volume": "0.44 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "4.5%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Arba Wine сидр газированный, естественного брожения, полусладкий яблоко, цитрусовый 6% 0.75 л",
+    "cleanTokens": [
+      "газированный",
+      "естественного",
+      "брожения",
+      "полусладкий",
+      "яблоко",
+      "цитрусовый"
+    ],
+    "normalizedTokens": [
+      "газированный",
+      "естественного",
+      "брожения",
+      "полусладкий",
+      "яблоко",
+      "цитрусовый",
+      "6%",
+      "0.75 л"
+    ],
+    "params": {
+      "volume": "0.75 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "6%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Thatchers Blood Orange сидр сладкий фруктовый 4% 0.44 л",
+    "cleanTokens": [
+      "blood",
+      "orange",
+      "сладкий",
+      "фруктовый"
+    ],
+    "normalizedTokens": [
+      "blood",
+      "orange",
+      "сладкий",
+      "фруктовый",
+      "4%",
+      "0.44 л"
+    ],
+    "params": {
+      "volume": "0.44 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "4%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Arba Wine Adem Alma сидр полусладкий яблоко 6% 0.75 л",
+    "cleanTokens": [
+      "adem",
+      "alma",
+      "полусладкий",
+      "яблоко"
+    ],
+    "normalizedTokens": [
+      "adem",
+      "alma",
+      "полусладкий",
+      "яблоко",
+      "6%",
+      "0.75 л"
+    ],
+    "params": {
+      "volume": "0.75 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "6%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Chester's Pear Sweet сидр сладкий груша 5.5% 0.5 л",
+    "cleanTokens": [
+      "pear",
+      "sweet",
+      "сладкий",
+      "груша"
+    ],
+    "normalizedTokens": [
+      "pear",
+      "sweet",
+      "сладкий",
+      "груша",
+      "5.5%",
+      "0.5 л"
+    ],
+    "params": {
+      "volume": "0.5 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "5.5%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Chester's Apple Sweet сидр сладкий яблоко 5.5% 0.5 л",
+    "cleanTokens": [
+      "apple",
+      "sweet",
+      "сладкий",
+      "яблоко"
+    ],
+    "normalizedTokens": [
+      "apple",
+      "sweet",
+      "сладкий",
+      "яблоко",
+      "5.5%",
+      "0.5 л"
+    ],
+    "params": {
+      "volume": "0.5 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "5.5%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Chester's Berries Sweet сидр полусладкий фруктовый 5% 0.45 л",
+    "cleanTokens": [
+      "berries",
+      "sweet",
+      "полусладкий",
+      "фруктовый"
+    ],
+    "normalizedTokens": [
+      "berries",
+      "sweet",
+      "полусладкий",
+      "фруктовый",
+      "5%",
+      "0.45 л"
+    ],
+    "params": {
+      "volume": "0.45 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "5%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Chester's Apple Superipr Quality сидр полусухой яблоко 5.5% 0.5 л",
+    "cleanTokens": [
+      "apple",
+      "superipr",
+      "quality",
+      "полусухой",
+      "яблоко"
+    ],
+    "normalizedTokens": [
+      "apple",
+      "superipr",
+      "quality",
+      "полусухой",
+      "яблоко",
+      "5.5%",
+      "0.5 л"
+    ],
+    "params": {
+      "volume": "0.5 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "5.5%",
+      "age": null,
+      "stars": null
+    }
+  }
+]

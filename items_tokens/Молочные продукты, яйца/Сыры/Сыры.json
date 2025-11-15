@@ -1,0 +1,6375 @@
+[
+  {
+    "original": "Сыр Ясь Белоус полутвердый российский 50% 200 г",
+    "cleanTokens": [
+      "сыр",
+      "полутвердый",
+      "российский"
+    ],
+    "normalizedTokens": [
+      "сыр",
+      "полутвердый",
+      "российский",
+      "50%",
+      "200 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "200 г",
+      "count": null,
+      "pack": null,
+      "percent": "50%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Сыр Nәtige рассольный сулугуни 45% 350 г",
+    "cleanTokens": [
+      "сыр",
+      "рассольный",
+      "сулугуни"
+    ],
+    "normalizedTokens": [
+      "сыр",
+      "рассольный",
+      "сулугуни",
+      "45%",
+      "350 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "350 г",
+      "count": null,
+      "pack": null,
+      "percent": "45%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Сыр Hochland Almette творожный классический 60% 150 г",
+    "cleanTokens": [
+      "сыр",
+      "творожный",
+      "классический"
+    ],
+    "normalizedTokens": [
+      "сыр",
+      "творожный",
+      "классический",
+      "60%",
+      "150 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "150 г",
+      "count": null,
+      "pack": null,
+      "percent": "60%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Сыр Pan Smetankoфф полутвердый сливочный 50% 300 г",
+    "cleanTokens": [
+      "сыр",
+      "полутвердый",
+      "сливочный"
+    ],
+    "normalizedTokens": [
+      "сыр",
+      "полутвердый",
+      "сливочный",
+      "50%",
+      "300 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "300 г",
+      "count": null,
+      "pack": null,
+      "percent": "50%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Сыр PRESIDENT плавленый сливочный 45% 200 г",
+    "cleanTokens": [
+      "сыр",
+      "плавленый",
+      "сливочный"
+    ],
+    "normalizedTokens": [
+      "сыр",
+      "плавленый",
+      "сливочный",
+      "45%",
+      "200 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "200 г",
+      "count": null,
+      "pack": null,
+      "percent": "45%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Сыр Bonfesto творожный классический 65% 140 г",
+    "cleanTokens": [
+      "сыр",
+      "творожный",
+      "классический"
+    ],
+    "normalizedTokens": [
+      "сыр",
+      "творожный",
+      "классический",
+      "65%",
+      "140 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "140 г",
+      "count": null,
+      "pack": null,
+      "percent": "65%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Сыр Комо полутвердый топленый 50% 350 г",
+    "cleanTokens": [
+      "сыр",
+      "полутвердый",
+      "топленый"
+    ],
+    "normalizedTokens": [
+      "сыр",
+      "полутвердый",
+      "топленый",
+      "50%",
+      "350 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "350 г",
+      "count": null,
+      "pack": null,
+      "percent": "50%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Сыр Эмир рассольный сулугуни 45% 400 г",
+    "cleanTokens": [
+      "сыр",
+      "рассольный",
+      "сулугуни"
+    ],
+    "normalizedTokens": [
+      "сыр",
+      "рассольный",
+      "сулугуни",
+      "45%",
+      "400 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "400 г",
+      "count": null,
+      "pack": null,
+      "percent": "45%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Сыр Комо полутвердый сливочный 50% 200 г",
+    "cleanTokens": [
+      "сыр",
+      "полутвердый",
+      "сливочный"
+    ],
+    "normalizedTokens": [
+      "сыр",
+      "полутвердый",
+      "сливочный",
+      "50%",
+      "200 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "200 г",
+      "count": null,
+      "pack": null,
+      "percent": "50%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Сыр Pretto творожный рикотта 45% 200 г",
+    "cleanTokens": [
+      "сыр",
+      "творожный",
+      "рикотта"
+    ],
+    "normalizedTokens": [
+      "сыр",
+      "творожный",
+      "рикотта",
+      "45%",
+      "200 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "200 г",
+      "count": null,
+      "pack": null,
+      "percent": "45%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Сыр Ламбер полутвердый ламбер 55% 230 г",
+    "cleanTokens": [
+      "сыр",
+      "полутвердый"
+    ],
+    "normalizedTokens": [
+      "сыр",
+      "полутвердый",
+      "55%",
+      "230 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "230 г",
+      "count": null,
+      "pack": null,
+      "percent": "55%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Сыр Ламбер полутвердый ламбер 50% 700 г",
+    "cleanTokens": [
+      "сыр",
+      "полутвердый"
+    ],
+    "normalizedTokens": [
+      "сыр",
+      "полутвердый",
+      "50%",
+      "700 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "700 г",
+      "count": null,
+      "pack": null,
+      "percent": "50%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Сыр Комо полутвердый сливочный 50% 350 г",
+    "cleanTokens": [
+      "сыр",
+      "полутвердый",
+      "сливочный"
+    ],
+    "normalizedTokens": [
+      "сыр",
+      "полутвердый",
+      "сливочный",
+      "50%",
+      "350 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "350 г",
+      "count": null,
+      "pack": null,
+      "percent": "50%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Сыр Hochland Делает нас ближе плавленый сливочный 55% 400 г",
+    "cleanTokens": [
+      "сыр",
+      "делает",
+      "нас",
+      "ближе",
+      "плавленый",
+      "сливочный"
+    ],
+    "normalizedTokens": [
+      "сыр",
+      "делает",
+      "нас",
+      "ближе",
+      "плавленый",
+      "сливочный",
+      "55%",
+      "400 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "400 г",
+      "count": null,
+      "pack": null,
+      "percent": "55%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Сыр Pan Smetankoфф полутвердый голландский 45% 300 г",
+    "cleanTokens": [
+      "сыр",
+      "полутвердый",
+      "голландский"
+    ],
+    "normalizedTokens": [
+      "сыр",
+      "полутвердый",
+      "голландский",
+      "45%",
+      "300 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "300 г",
+      "count": null,
+      "pack": null,
+      "percent": "45%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Сыр Bonfesto рассольный моцарелла 45% 100 г",
+    "cleanTokens": [
+      "сыр",
+      "рассольный",
+      "моцарелла"
+    ],
+    "normalizedTokens": [
+      "сыр",
+      "рассольный",
+      "моцарелла",
+      "45%",
+      "100 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "100 г",
+      "count": null,
+      "pack": null,
+      "percent": "45%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Сыр Cheese club Нуар твердый голландский 45% 300 г",
+    "cleanTokens": [
+      "сыр",
+      "нуар",
+      "твердый",
+      "голландский"
+    ],
+    "normalizedTokens": [
+      "сыр",
+      "нуар",
+      "твердый",
+      "голландский",
+      "45%",
+      "300 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "300 г",
+      "count": null,
+      "pack": null,
+      "percent": "45%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Сыр Galbani Santa Lucia рассольный моцарелла 45% 150 г",
+    "cleanTokens": [
+      "сыр",
+      "santa",
+      "lucia",
+      "рассольный",
+      "моцарелла"
+    ],
+    "normalizedTokens": [
+      "сыр",
+      "santa",
+      "lucia",
+      "рассольный",
+      "моцарелла",
+      "45%",
+      "150 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "150 г",
+      "count": null,
+      "pack": null,
+      "percent": "45%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Сыр Беловежские сыры полутвердый пармезан 40% 200 г",
+    "cleanTokens": [
+      "сыр",
+      "беловежские",
+      "полутвердый",
+      "пармезан"
+    ],
+    "normalizedTokens": [
+      "сыр",
+      "беловежские",
+      "полутвердый",
+      "пармезан",
+      "40%",
+      "200 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "200 г",
+      "count": null,
+      "pack": null,
+      "percent": "40%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Сыр Hochland Делает нас ближе плавленый сливочный 35% 100 г",
+    "cleanTokens": [
+      "сыр",
+      "делает",
+      "нас",
+      "ближе",
+      "плавленый",
+      "сливочный"
+    ],
+    "normalizedTokens": [
+      "сыр",
+      "делает",
+      "нас",
+      "ближе",
+      "плавленый",
+      "сливочный",
+      "35%",
+      "100 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "100 г",
+      "count": null,
+      "pack": null,
+      "percent": "35%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Сыр PRESIDENT плавленый сливочный 45% 400 г",
+    "cleanTokens": [
+      "сыр",
+      "плавленый",
+      "сливочный"
+    ],
+    "normalizedTokens": [
+      "сыр",
+      "плавленый",
+      "сливочный",
+      "45%",
+      "400 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "400 г",
+      "count": null,
+      "pack": null,
+      "percent": "45%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Сыр Bonfesto полутвердый моцарелла 40% 1000 г",
+    "cleanTokens": [
+      "сыр",
+      "полутвердый",
+      "моцарелла"
+    ],
+    "normalizedTokens": [
+      "сыр",
+      "полутвердый",
+      "моцарелла",
+      "40%",
+      "1000 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "1000 г",
+      "count": null,
+      "pack": null,
+      "percent": "40%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Сыр Комо полутвердый пошехонский 50% 350 г",
+    "cleanTokens": [
+      "сыр",
+      "полутвердый",
+      "пошехонский"
+    ],
+    "normalizedTokens": [
+      "сыр",
+      "полутвердый",
+      "пошехонский",
+      "50%",
+      "350 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "350 г",
+      "count": null,
+      "pack": null,
+      "percent": "50%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Сырный продукт Юговской голландский 50% 300 г",
+    "cleanTokens": [
+      "сырный",
+      "продукт",
+      "голландский"
+    ],
+    "normalizedTokens": [
+      "сырный",
+      "продукт",
+      "голландский",
+      "50%",
+      "300 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "300 г",
+      "count": null,
+      "pack": null,
+      "percent": "50%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Сыр Айс плавленый сливочный 45% 180 г",
+    "cleanTokens": [
+      "сыр",
+      "плавленый",
+      "сливочный"
+    ],
+    "normalizedTokens": [
+      "сыр",
+      "плавленый",
+      "сливочный",
+      "45%",
+      "180 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "180 г",
+      "count": null,
+      "pack": null,
+      "percent": "45%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Сыр Pretto творожный рикотта 45% 500 г",
+    "cleanTokens": [
+      "сыр",
+      "творожный",
+      "рикотта"
+    ],
+    "normalizedTokens": [
+      "сыр",
+      "творожный",
+      "рикотта",
+      "45%",
+      "500 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "500 г",
+      "count": null,
+      "pack": null,
+      "percent": "45%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Сыр PRESIDENT Спагетти рассольный чечил 35% 100 г",
+    "cleanTokens": [
+      "сыр",
+      "спагетти",
+      "рассольный",
+      "чечил"
+    ],
+    "normalizedTokens": [
+      "сыр",
+      "спагетти",
+      "рассольный",
+      "чечил",
+      "35%",
+      "100 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "100 г",
+      "count": null,
+      "pack": null,
+      "percent": "35%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Сыр Плавыч плавленый сливочный 40% 70 г",
+    "cleanTokens": [
+      "сыр",
+      "плавленый",
+      "сливочный"
+    ],
+    "normalizedTokens": [
+      "сыр",
+      "плавленый",
+      "сливочный",
+      "40%",
+      "70 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "70 г",
+      "count": null,
+      "pack": null,
+      "percent": "40%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Сырный продукт Юговской сметанковый 50% 300 г",
+    "cleanTokens": [
+      "сырный",
+      "продукт",
+      "сметанковый"
+    ],
+    "normalizedTokens": [
+      "сырный",
+      "продукт",
+      "сметанковый",
+      "50%",
+      "300 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "300 г",
+      "count": null,
+      "pack": null,
+      "percent": "50%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Сыр PRESIDENT Чизбургер плавленый сливочный 40% 150 г",
+    "cleanTokens": [
+      "сыр",
+      "чизбургер",
+      "плавленый",
+      "сливочный"
+    ],
+    "normalizedTokens": [
+      "сыр",
+      "чизбургер",
+      "плавленый",
+      "сливочный",
+      "40%",
+      "150 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "150 г",
+      "count": null,
+      "pack": null,
+      "percent": "40%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Сыр Эмир рассольный брынза 40% 1000 г",
+    "cleanTokens": [
+      "сыр",
+      "рассольный",
+      "брынза"
+    ],
+    "normalizedTokens": [
+      "сыр",
+      "рассольный",
+      "брынза",
+      "40%",
+      "1000 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "1000 г",
+      "count": null,
+      "pack": null,
+      "percent": "40%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Сыр Hochland Делает нас ближе плавленый сливочный 45% 150 г",
+    "cleanTokens": [
+      "сыр",
+      "делает",
+      "нас",
+      "ближе",
+      "плавленый",
+      "сливочный"
+    ],
+    "normalizedTokens": [
+      "сыр",
+      "делает",
+      "нас",
+      "ближе",
+      "плавленый",
+      "сливочный",
+      "45%",
+      "150 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "150 г",
+      "count": null,
+      "pack": null,
+      "percent": "45%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Сыр Айс рассольный сулугуни 45% 250 г",
+    "cleanTokens": [
+      "сыр",
+      "рассольный",
+      "сулугуни"
+    ],
+    "normalizedTokens": [
+      "сыр",
+      "рассольный",
+      "сулугуни",
+      "45%",
+      "250 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "250 г",
+      "count": null,
+      "pack": null,
+      "percent": "45%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Сыр Hochland с грибами плавленый 55% 200 г",
+    "cleanTokens": [
+      "сыр",
+      "с",
+      "грибами",
+      "плавленый"
+    ],
+    "normalizedTokens": [
+      "сыр",
+      "с",
+      "грибами",
+      "плавленый",
+      "55%",
+      "200 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "200 г",
+      "count": null,
+      "pack": null,
+      "percent": "55%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Сыр Pretto мягкий моцарелла 45% 200 г",
+    "cleanTokens": [
+      "сыр",
+      "мягкий",
+      "моцарелла"
+    ],
+    "normalizedTokens": [
+      "сыр",
+      "мягкий",
+      "моцарелла",
+      "45%",
+      "200 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "200 г",
+      "count": null,
+      "pack": null,
+      "percent": "45%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Сыр Эмир полутвердый классический 40% 400 г",
+    "cleanTokens": [
+      "сыр",
+      "полутвердый",
+      "классический"
+    ],
+    "normalizedTokens": [
+      "сыр",
+      "полутвердый",
+      "классический",
+      "40%",
+      "400 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "400 г",
+      "count": null,
+      "pack": null,
+      "percent": "40%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Сыр Bonfesto творожный классический 70% 400 г",
+    "cleanTokens": [
+      "сыр",
+      "творожный",
+      "классический"
+    ],
+    "normalizedTokens": [
+      "сыр",
+      "творожный",
+      "классический",
+      "70%",
+      "400 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "400 г",
+      "count": null,
+      "pack": null,
+      "percent": "70%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Сыр Ясь Белоус голландский полутвердый голландский 45% 200 г",
+    "cleanTokens": [
+      "сыр",
+      "голландский",
+      "полутвердый",
+      "голландский"
+    ],
+    "normalizedTokens": [
+      "сыр",
+      "голландский",
+      "полутвердый",
+      "голландский",
+      "45%",
+      "200 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "200 г",
+      "count": null,
+      "pack": null,
+      "percent": "45%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Сыр Ламбер полутвердый ламбер 30% 230 г",
+    "cleanTokens": [
+      "сыр",
+      "полутвердый"
+    ],
+    "normalizedTokens": [
+      "сыр",
+      "полутвердый",
+      "30%",
+      "230 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "230 г",
+      "count": null,
+      "pack": null,
+      "percent": "30%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Сыр Hochland Делает нас ближе творожный классический 60% 220 г",
+    "cleanTokens": [
+      "сыр",
+      "делает",
+      "нас",
+      "ближе",
+      "творожный",
+      "классический"
+    ],
+    "normalizedTokens": [
+      "сыр",
+      "делает",
+      "нас",
+      "ближе",
+      "творожный",
+      "классический",
+      "60%",
+      "220 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "220 г",
+      "count": null,
+      "pack": null,
+      "percent": "60%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Сыр Nәtige плавленый классический 50% 140 г",
+    "cleanTokens": [
+      "сыр",
+      "плавленый",
+      "классический"
+    ],
+    "normalizedTokens": [
+      "сыр",
+      "плавленый",
+      "классический",
+      "50%",
+      "140 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "140 г",
+      "count": null,
+      "pack": null,
+      "percent": "50%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Сыр Delissir Хоритаки для салата рассольный фета 30% 180 г",
+    "cleanTokens": [
+      "сыр",
+      "хоритаки",
+      "для",
+      "салата",
+      "рассольный",
+      "фета"
+    ],
+    "normalizedTokens": [
+      "сыр",
+      "хоритаки",
+      "для",
+      "салата",
+      "рассольный",
+      "фета",
+      "30%",
+      "180 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "180 г",
+      "count": null,
+      "pack": null,
+      "percent": "30%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Сыр Bonfesto творожный классический 65% 140 г",
+    "cleanTokens": [
+      "сыр",
+      "творожный",
+      "классический"
+    ],
+    "normalizedTokens": [
+      "сыр",
+      "творожный",
+      "классический",
+      "65%",
+      "140 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "140 г",
+      "count": null,
+      "pack": null,
+      "percent": "65%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Сырный продукт Юговской тильзитер 50% 300 г",
+    "cleanTokens": [
+      "сырный",
+      "продукт",
+      "тильзитер"
+    ],
+    "normalizedTokens": [
+      "сырный",
+      "продукт",
+      "тильзитер",
+      "50%",
+      "300 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "300 г",
+      "count": null,
+      "pack": null,
+      "percent": "50%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Сыр Hochland творожный классический 65% 400 г",
+    "cleanTokens": [
+      "сыр",
+      "творожный",
+      "классический"
+    ],
+    "normalizedTokens": [
+      "сыр",
+      "творожный",
+      "классический",
+      "65%",
+      "400 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "400 г",
+      "count": null,
+      "pack": null,
+      "percent": "65%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Сыр Natura полутвердый сливочный 45% 200 г",
+    "cleanTokens": [
+      "сыр",
+      "полутвердый",
+      "сливочный"
+    ],
+    "normalizedTokens": [
+      "сыр",
+      "полутвердый",
+      "сливочный",
+      "45%",
+      "200 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "200 г",
+      "count": null,
+      "pack": null,
+      "percent": "45%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Сырный продукт Луга Алатау полутвердый голландский 45%",
+    "cleanTokens": [
+      "сырный",
+      "продукт",
+      "полутвердый",
+      "голландский"
+    ],
+    "normalizedTokens": [
+      "сырный",
+      "продукт",
+      "полутвердый",
+      "голландский",
+      "45%"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "45%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Сыр Эмир творожный 70% 400 г",
+    "cleanTokens": [
+      "сыр",
+      "творожный"
+    ],
+    "normalizedTokens": [
+      "сыр",
+      "творожный",
+      "70%",
+      "400 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "400 г",
+      "count": null,
+      "pack": null,
+      "percent": "70%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Сыр Hochland Делает нас ближе плавленый сливочный 55% 140 г",
+    "cleanTokens": [
+      "сыр",
+      "делает",
+      "нас",
+      "ближе",
+      "плавленый",
+      "сливочный"
+    ],
+    "normalizedTokens": [
+      "сыр",
+      "делает",
+      "нас",
+      "ближе",
+      "плавленый",
+      "сливочный",
+      "55%",
+      "140 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "140 г",
+      "count": null,
+      "pack": null,
+      "percent": "55%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Сыр Hochland Делает нас ближе плавленый ассорти 50% 140 г",
+    "cleanTokens": [
+      "сыр",
+      "делает",
+      "нас",
+      "ближе",
+      "плавленый",
+      "ассорти"
+    ],
+    "normalizedTokens": [
+      "сыр",
+      "делает",
+      "нас",
+      "ближе",
+      "плавленый",
+      "ассорти",
+      "50%",
+      "140 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "140 г",
+      "count": null,
+      "pack": null,
+      "percent": "50%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Сыр PRESIDENT с отборным творогом плавленый чеддер 40% 150 г",
+    "cleanTokens": [
+      "сыр",
+      "с",
+      "отборным",
+      "творогом",
+      "плавленый",
+      "чеддер"
+    ],
+    "normalizedTokens": [
+      "сыр",
+      "с",
+      "отборным",
+      "творогом",
+      "плавленый",
+      "чеддер",
+      "40%",
+      "150 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "150 г",
+      "count": null,
+      "pack": null,
+      "percent": "40%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Сыр Nәtige Диетический полутвердый классический 20% 350 г",
+    "cleanTokens": [
+      "сыр",
+      "диетический",
+      "полутвердый",
+      "классический"
+    ],
+    "normalizedTokens": [
+      "сыр",
+      "диетический",
+      "полутвердый",
+      "классический",
+      "20%",
+      "350 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "350 г",
+      "count": null,
+      "pack": null,
+      "percent": "20%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Сыр Natura полутвердый сливочный 16% 150 г",
+    "cleanTokens": [
+      "сыр",
+      "полутвердый",
+      "сливочный"
+    ],
+    "normalizedTokens": [
+      "сыр",
+      "полутвердый",
+      "сливочный",
+      "16%",
+      "150 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "150 г",
+      "count": null,
+      "pack": null,
+      "percent": "16%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Сыр Айс с грибами плавленый сливочный 45% 180 г",
+    "cleanTokens": [
+      "сыр",
+      "с",
+      "грибами",
+      "плавленый",
+      "сливочный"
+    ],
+    "normalizedTokens": [
+      "сыр",
+      "с",
+      "грибами",
+      "плавленый",
+      "сливочный",
+      "45%",
+      "180 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "180 г",
+      "count": null,
+      "pack": null,
+      "percent": "45%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Сыр Bonfesto экстрамягкий творожный классический 70% 400 г",
+    "cleanTokens": [
+      "сыр",
+      "экстрамягкий",
+      "творожный",
+      "классический"
+    ],
+    "normalizedTokens": [
+      "сыр",
+      "экстрамягкий",
+      "творожный",
+      "классический",
+      "70%",
+      "400 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "400 г",
+      "count": null,
+      "pack": null,
+      "percent": "70%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Сыр Комо полутвердый пошехонский 45% 400 г",
+    "cleanTokens": [
+      "сыр",
+      "полутвердый",
+      "пошехонский"
+    ],
+    "normalizedTokens": [
+      "сыр",
+      "полутвердый",
+      "пошехонский",
+      "45%",
+      "400 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "400 г",
+      "count": null,
+      "pack": null,
+      "percent": "45%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Сыр PRESIDENT Прованс творожный классический 62% 120 г",
+    "cleanTokens": [
+      "сыр",
+      "прованс",
+      "творожный",
+      "классический"
+    ],
+    "normalizedTokens": [
+      "сыр",
+      "прованс",
+      "творожный",
+      "классический",
+      "62%",
+      "120 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "120 г",
+      "count": null,
+      "pack": null,
+      "percent": "62%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Сырный продукт Плавыч c ароматом копчения плавленый колбасный 40% 180 г",
+    "cleanTokens": [
+      "сырный",
+      "продукт",
+      "c",
+      "ароматом",
+      "копчения",
+      "плавленый",
+      "колбасный"
+    ],
+    "normalizedTokens": [
+      "сырный",
+      "продукт",
+      "c",
+      "ароматом",
+      "копчения",
+      "плавленый",
+      "колбасный",
+      "40%",
+      "180 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "180 г",
+      "count": null,
+      "pack": null,
+      "percent": "40%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Сыр Комо со вкусом топленого молока твердый топленый 50% 400 г",
+    "cleanTokens": [
+      "сыр",
+      "со",
+      "вкусом",
+      "топленого",
+      "молока",
+      "твердый",
+      "топленый"
+    ],
+    "normalizedTokens": [
+      "сыр",
+      "со",
+      "вкусом",
+      "топленого",
+      "молока",
+      "твердый",
+      "топленый",
+      "50%",
+      "400 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "400 г",
+      "count": null,
+      "pack": null,
+      "percent": "50%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Сыр Hochland Делает нас ближе плавленый сливочный 35% 50 г",
+    "cleanTokens": [
+      "сыр",
+      "делает",
+      "нас",
+      "ближе",
+      "плавленый",
+      "сливочный"
+    ],
+    "normalizedTokens": [
+      "сыр",
+      "делает",
+      "нас",
+      "ближе",
+      "плавленый",
+      "сливочный",
+      "35%",
+      "50 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "50 г",
+      "count": null,
+      "pack": null,
+      "percent": "35%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Сыр Ламбер полутвердый ламбер 50% 1300 г",
+    "cleanTokens": [
+      "сыр",
+      "полутвердый"
+    ],
+    "normalizedTokens": [
+      "сыр",
+      "полутвердый",
+      "50%",
+      "1300 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "1300 г",
+      "count": null,
+      "pack": null,
+      "percent": "50%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Сыр Hochland Без рассола рассольный фета 45% 400 г",
+    "cleanTokens": [
+      "сыр",
+      "без",
+      "рассола",
+      "рассольный",
+      "фета"
+    ],
+    "normalizedTokens": [
+      "сыр",
+      "без",
+      "рассола",
+      "рассольный",
+      "фета",
+      "45%",
+      "400 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "400 г",
+      "count": null,
+      "pack": null,
+      "percent": "45%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Сыр Galbani рассольный моцарелла 48% 125 г",
+    "cleanTokens": [
+      "сыр",
+      "рассольный",
+      "моцарелла"
+    ],
+    "normalizedTokens": [
+      "сыр",
+      "рассольный",
+      "моцарелла",
+      "48%",
+      "125 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "125 г",
+      "count": null,
+      "pack": null,
+      "percent": "48%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Сыр Violette творожный классический 70% 140 г",
+    "cleanTokens": [
+      "сыр",
+      "творожный",
+      "классический"
+    ],
+    "normalizedTokens": [
+      "сыр",
+      "творожный",
+      "классический",
+      "70%",
+      "140 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "140 г",
+      "count": null,
+      "pack": null,
+      "percent": "70%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Сыр Hochland Делает нас ближе плавленый сливочный 55% 200 г",
+    "cleanTokens": [
+      "сыр",
+      "делает",
+      "нас",
+      "ближе",
+      "плавленый",
+      "сливочный"
+    ],
+    "normalizedTokens": [
+      "сыр",
+      "делает",
+      "нас",
+      "ближе",
+      "плавленый",
+      "сливочный",
+      "55%",
+      "200 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "200 г",
+      "count": null,
+      "pack": null,
+      "percent": "55%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Сыр Мактамак рассольный чечил 45% 100 г",
+    "cleanTokens": [
+      "сыр",
+      "рассольный",
+      "чечил"
+    ],
+    "normalizedTokens": [
+      "сыр",
+      "рассольный",
+      "чечил",
+      "45%",
+      "100 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "100 г",
+      "count": null,
+      "pack": null,
+      "percent": "45%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Сыр Деп рассольный брынза 45% 400 г",
+    "cleanTokens": [
+      "сыр",
+      "рассольный",
+      "брынза"
+    ],
+    "normalizedTokens": [
+      "сыр",
+      "рассольный",
+      "брынза",
+      "45%",
+      "400 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "400 г",
+      "count": null,
+      "pack": null,
+      "percent": "45%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Сыр Комо полутвердый сливочный 50% 400 г",
+    "cleanTokens": [
+      "сыр",
+      "полутвердый",
+      "сливочный"
+    ],
+    "normalizedTokens": [
+      "сыр",
+      "полутвердый",
+      "сливочный",
+      "50%",
+      "400 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "400 г",
+      "count": null,
+      "pack": null,
+      "percent": "50%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Сыр Pretto творожный классический 65% 250 г",
+    "cleanTokens": [
+      "сыр",
+      "творожный",
+      "классический"
+    ],
+    "normalizedTokens": [
+      "сыр",
+      "творожный",
+      "классический",
+      "65%",
+      "250 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "250 г",
+      "count": null,
+      "pack": null,
+      "percent": "65%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Сыр БЕЛОРУССКИЕ СЫРЫ российский молодой полутвердый российский 50% 300 г",
+    "cleanTokens": [
+      "сыр",
+      "белорусские",
+      "российский",
+      "молодой",
+      "полутвердый",
+      "российский"
+    ],
+    "normalizedTokens": [
+      "сыр",
+      "белорусские",
+      "российский",
+      "молодой",
+      "полутвердый",
+      "российский",
+      "50%",
+      "300 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "300 г",
+      "count": null,
+      "pack": null,
+      "percent": "50%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Сыр PRESIDENT Petit Brie мягкий, с плесенью бри 60% 125 г",
+    "cleanTokens": [
+      "сыр",
+      "petit",
+      "brie",
+      "мягкий",
+      "с",
+      "плесенью",
+      "бри"
+    ],
+    "normalizedTokens": [
+      "сыр",
+      "petit",
+      "brie",
+      "мягкий",
+      "с",
+      "плесенью",
+      "бри",
+      "60%",
+      "125 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "125 г",
+      "count": null,
+      "pack": null,
+      "percent": "60%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Сыр Bonfesto рассольный моцарелла 45% 100 г",
+    "cleanTokens": [
+      "сыр",
+      "рассольный",
+      "моцарелла"
+    ],
+    "normalizedTokens": [
+      "сыр",
+      "рассольный",
+      "моцарелла",
+      "45%",
+      "100 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "100 г",
+      "count": null,
+      "pack": null,
+      "percent": "45%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Сыр PRESIDENT с отборным творогом плавленый моцарелла 45% 150 г",
+    "cleanTokens": [
+      "сыр",
+      "с",
+      "отборным",
+      "творогом",
+      "плавленый",
+      "моцарелла"
+    ],
+    "normalizedTokens": [
+      "сыр",
+      "с",
+      "отборным",
+      "творогом",
+      "плавленый",
+      "моцарелла",
+      "45%",
+      "150 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "150 г",
+      "count": null,
+      "pack": null,
+      "percent": "45%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Сыр PRESIDENT С грибами плавленый сливочный 45% 200 г",
+    "cleanTokens": [
+      "сыр",
+      "с",
+      "грибами",
+      "плавленый",
+      "сливочный"
+    ],
+    "normalizedTokens": [
+      "сыр",
+      "с",
+      "грибами",
+      "плавленый",
+      "сливочный",
+      "45%",
+      "200 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "200 г",
+      "count": null,
+      "pack": null,
+      "percent": "45%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Сыр Hochland творожный классический 60% 140 г",
+    "cleanTokens": [
+      "сыр",
+      "творожный",
+      "классический"
+    ],
+    "normalizedTokens": [
+      "сыр",
+      "творожный",
+      "классический",
+      "60%",
+      "140 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "140 г",
+      "count": null,
+      "pack": null,
+      "percent": "60%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Сыр Hochland полутвердый грюнландер 50% 400 г",
+    "cleanTokens": [
+      "сыр",
+      "полутвердый",
+      "грюнландер"
+    ],
+    "normalizedTokens": [
+      "сыр",
+      "полутвердый",
+      "грюнландер",
+      "50%",
+      "400 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "400 г",
+      "count": null,
+      "pack": null,
+      "percent": "50%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Сырный продукт Сочинский рассольный чечил 47% 90 г",
+    "cleanTokens": [
+      "сырный",
+      "продукт",
+      "рассольный",
+      "чечил"
+    ],
+    "normalizedTokens": [
+      "сырный",
+      "продукт",
+      "рассольный",
+      "чечил",
+      "47%",
+      "90 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "90 г",
+      "count": null,
+      "pack": null,
+      "percent": "47%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Сыр Violette творожный классический 50% 140 г",
+    "cleanTokens": [
+      "сыр",
+      "творожный",
+      "классический"
+    ],
+    "normalizedTokens": [
+      "сыр",
+      "творожный",
+      "классический",
+      "50%",
+      "140 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "140 г",
+      "count": null,
+      "pack": null,
+      "percent": "50%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Сыр Mont Blu мягкий, с плесенью данаблю 50% 100 г",
+    "cleanTokens": [
+      "сыр",
+      "мягкий",
+      "с",
+      "плесенью",
+      "данаблю"
+    ],
+    "normalizedTokens": [
+      "сыр",
+      "мягкий",
+      "с",
+      "плесенью",
+      "данаблю",
+      "50%",
+      "100 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "100 г",
+      "count": null,
+      "pack": null,
+      "percent": "50%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Сыр Danablu мягкий, с плесенью данаблю 50% 100 г",
+    "cleanTokens": [
+      "сыр",
+      "мягкий",
+      "с",
+      "плесенью",
+      "данаблю"
+    ],
+    "normalizedTokens": [
+      "сыр",
+      "мягкий",
+      "с",
+      "плесенью",
+      "данаблю",
+      "50%",
+      "100 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "100 г",
+      "count": null,
+      "pack": null,
+      "percent": "50%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Сыр Hochland творожный классический 53% 150 г",
+    "cleanTokens": [
+      "сыр",
+      "творожный",
+      "классический"
+    ],
+    "normalizedTokens": [
+      "сыр",
+      "творожный",
+      "классический",
+      "53%",
+      "150 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "150 г",
+      "count": null,
+      "pack": null,
+      "percent": "53%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Сыр PRESIDENT С грибами плавленый сливочный 45% 400 г",
+    "cleanTokens": [
+      "сыр",
+      "с",
+      "грибами",
+      "плавленый",
+      "сливочный"
+    ],
+    "normalizedTokens": [
+      "сыр",
+      "с",
+      "грибами",
+      "плавленый",
+      "сливочный",
+      "45%",
+      "400 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "400 г",
+      "count": null,
+      "pack": null,
+      "percent": "45%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Сыр Hochland Делает нас ближе плавленый ассорти 55% 140 г",
+    "cleanTokens": [
+      "сыр",
+      "делает",
+      "нас",
+      "ближе",
+      "плавленый",
+      "ассорти"
+    ],
+    "normalizedTokens": [
+      "сыр",
+      "делает",
+      "нас",
+      "ближе",
+      "плавленый",
+      "ассорти",
+      "55%",
+      "140 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "140 г",
+      "count": null,
+      "pack": null,
+      "percent": "55%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Сыр PRESIDENT с отборным творогом плавленый сливочный 45% 180 г",
+    "cleanTokens": [
+      "сыр",
+      "с",
+      "отборным",
+      "творогом",
+      "плавленый",
+      "сливочный"
+    ],
+    "normalizedTokens": [
+      "сыр",
+      "с",
+      "отборным",
+      "творогом",
+      "плавленый",
+      "сливочный",
+      "45%",
+      "180 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "180 г",
+      "count": null,
+      "pack": null,
+      "percent": "45%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Сыр Комо полутвердый сметанковый 50% 400 г",
+    "cleanTokens": [
+      "сыр",
+      "полутвердый",
+      "сметанковый"
+    ],
+    "normalizedTokens": [
+      "сыр",
+      "полутвердый",
+      "сметанковый",
+      "50%",
+      "400 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "400 г",
+      "count": null,
+      "pack": null,
+      "percent": "50%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Сыр Violette лосось творожный классический 70% 140 г",
+    "cleanTokens": [
+      "сыр",
+      "лосось",
+      "творожный",
+      "классический"
+    ],
+    "normalizedTokens": [
+      "сыр",
+      "лосось",
+      "творожный",
+      "классический",
+      "70%",
+      "140 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "140 г",
+      "count": null,
+      "pack": null,
+      "percent": "70%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Сыр БЕЛОРУССКИЕ СЫРЫ Сметанковый полутвердый сметанковый 50% 300 г",
+    "cleanTokens": [
+      "сыр",
+      "белорусские",
+      "сметанковый",
+      "полутвердый",
+      "сметанковый"
+    ],
+    "normalizedTokens": [
+      "сыр",
+      "белорусские",
+      "сметанковый",
+      "полутвердый",
+      "сметанковый",
+      "50%",
+      "300 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "300 г",
+      "count": null,
+      "pack": null,
+      "percent": "50%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Сыр Hochland Делает нас ближе плавленый сливочный 55% 400 г",
+    "cleanTokens": [
+      "сыр",
+      "делает",
+      "нас",
+      "ближе",
+      "плавленый",
+      "сливочный"
+    ],
+    "normalizedTokens": [
+      "сыр",
+      "делает",
+      "нас",
+      "ближе",
+      "плавленый",
+      "сливочный",
+      "55%",
+      "400 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "400 г",
+      "count": null,
+      "pack": null,
+      "percent": "55%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Сыр Село Лесное рассольный сулугуни 45% 250 г",
+    "cleanTokens": [
+      "сыр",
+      "рассольный",
+      "сулугуни"
+    ],
+    "normalizedTokens": [
+      "сыр",
+      "рассольный",
+      "сулугуни",
+      "45%",
+      "250 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "250 г",
+      "count": null,
+      "pack": null,
+      "percent": "45%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Сыр Bonfesto творожный рикотта 40% 250 г",
+    "cleanTokens": [
+      "сыр",
+      "творожный",
+      "рикотта"
+    ],
+    "normalizedTokens": [
+      "сыр",
+      "творожный",
+      "рикотта",
+      "40%",
+      "250 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "250 г",
+      "count": null,
+      "pack": null,
+      "percent": "40%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Сыр Natura полутвердый сливочный 45% 400 г",
+    "cleanTokens": [
+      "сыр",
+      "полутвердый",
+      "сливочный"
+    ],
+    "normalizedTokens": [
+      "сыр",
+      "полутвердый",
+      "сливочный",
+      "45%",
+      "400 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "400 г",
+      "count": null,
+      "pack": null,
+      "percent": "45%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Сыр Hochland Делает нас ближе плавленый сливочный 35% 100 г",
+    "cleanTokens": [
+      "сыр",
+      "делает",
+      "нас",
+      "ближе",
+      "плавленый",
+      "сливочный"
+    ],
+    "normalizedTokens": [
+      "сыр",
+      "делает",
+      "нас",
+      "ближе",
+      "плавленый",
+      "сливочный",
+      "35%",
+      "100 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "100 г",
+      "count": null,
+      "pack": null,
+      "percent": "35%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Сыр Sabah рассольный брынза 40% 180 г",
+    "cleanTokens": [
+      "сыр",
+      "рассольный",
+      "брынза"
+    ],
+    "normalizedTokens": [
+      "сыр",
+      "рассольный",
+      "брынза",
+      "40%",
+      "180 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "180 г",
+      "count": null,
+      "pack": null,
+      "percent": "40%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Сыр PRESIDENT плавленый сливочный 45% 50 г",
+    "cleanTokens": [
+      "сыр",
+      "плавленый",
+      "сливочный"
+    ],
+    "normalizedTokens": [
+      "сыр",
+      "плавленый",
+      "сливочный",
+      "45%",
+      "50 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "50 г",
+      "count": null,
+      "pack": null,
+      "percent": "45%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Сыр Hochland Grunlander полутвердый грюнландер 50% 130 г",
+    "cleanTokens": [
+      "сыр",
+      "grunlander",
+      "полутвердый",
+      "грюнландер"
+    ],
+    "normalizedTokens": [
+      "сыр",
+      "grunlander",
+      "полутвердый",
+      "грюнландер",
+      "50%",
+      "130 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "130 г",
+      "count": null,
+      "pack": null,
+      "percent": "50%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Сыр Умалат рассольный сулугуни 45% 280 г",
+    "cleanTokens": [
+      "сыр",
+      "рассольный",
+      "сулугуни"
+    ],
+    "normalizedTokens": [
+      "сыр",
+      "рассольный",
+      "сулугуни",
+      "45%",
+      "280 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "280 г",
+      "count": null,
+      "pack": null,
+      "percent": "45%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Сыр Pretto творожный классический 55% 400 г",
+    "cleanTokens": [
+      "сыр",
+      "творожный",
+      "классический"
+    ],
+    "normalizedTokens": [
+      "сыр",
+      "творожный",
+      "классический",
+      "55%",
+      "400 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "400 г",
+      "count": null,
+      "pack": null,
+      "percent": "55%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Сыр DZIUGAS 18 твердый пармезан 40% 100 г",
+    "cleanTokens": [
+      "сыр",
+      "18",
+      "твердый",
+      "пармезан"
+    ],
+    "normalizedTokens": [
+      "сыр",
+      "18",
+      "твердый",
+      "пармезан",
+      "40%",
+      "100 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "100 г",
+      "count": null,
+      "pack": null,
+      "percent": "40%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Сыр Unagrande мягкий моцарелла 45% 120 г",
+    "cleanTokens": [
+      "сыр",
+      "мягкий",
+      "моцарелла"
+    ],
+    "normalizedTokens": [
+      "сыр",
+      "мягкий",
+      "моцарелла",
+      "45%",
+      "120 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "120 г",
+      "count": null,
+      "pack": null,
+      "percent": "45%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Сыр Unagrande мягкий моцарелла 45% 460 г",
+    "cleanTokens": [
+      "сыр",
+      "мягкий",
+      "моцарелла"
+    ],
+    "normalizedTokens": [
+      "сыр",
+      "мягкий",
+      "моцарелла",
+      "45%",
+      "460 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "460 г",
+      "count": null,
+      "pack": null,
+      "percent": "45%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Сыр Hochland полутвердый чеддер 50% 130 г",
+    "cleanTokens": [
+      "сыр",
+      "полутвердый",
+      "чеддер"
+    ],
+    "normalizedTokens": [
+      "сыр",
+      "полутвердый",
+      "чеддер",
+      "50%",
+      "130 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "130 г",
+      "count": null,
+      "pack": null,
+      "percent": "50%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Сырный продукт Плавыч плавленый колбасный 40% 400 г",
+    "cleanTokens": [
+      "сырный",
+      "продукт",
+      "плавленый",
+      "колбасный"
+    ],
+    "normalizedTokens": [
+      "сырный",
+      "продукт",
+      "плавленый",
+      "колбасный",
+      "40%",
+      "400 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "400 г",
+      "count": null,
+      "pack": null,
+      "percent": "40%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Сыр Bonfesto творожный классический 65% 140 г",
+    "cleanTokens": [
+      "сыр",
+      "творожный",
+      "классический"
+    ],
+    "normalizedTokens": [
+      "сыр",
+      "творожный",
+      "классический",
+      "65%",
+      "140 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "140 г",
+      "count": null,
+      "pack": null,
+      "percent": "65%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Сырный продукт Луга Алатау полутвердый сметанковый 50%",
+    "cleanTokens": [
+      "сырный",
+      "продукт",
+      "полутвердый",
+      "сметанковый"
+    ],
+    "normalizedTokens": [
+      "сырный",
+      "продукт",
+      "полутвердый",
+      "сметанковый",
+      "50%"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "50%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Сыр Hochland Делает нас ближе плавленый ассорти 45% 150 г",
+    "cleanTokens": [
+      "сыр",
+      "делает",
+      "нас",
+      "ближе",
+      "плавленый",
+      "ассорти"
+    ],
+    "normalizedTokens": [
+      "сыр",
+      "делает",
+      "нас",
+      "ближе",
+      "плавленый",
+      "ассорти",
+      "45%",
+      "150 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "150 г",
+      "count": null,
+      "pack": null,
+      "percent": "45%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Сыр Умалат рассольный брынза 45% 200 г",
+    "cleanTokens": [
+      "сыр",
+      "рассольный",
+      "брынза"
+    ],
+    "normalizedTokens": [
+      "сыр",
+      "рассольный",
+      "брынза",
+      "45%",
+      "200 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "200 г",
+      "count": null,
+      "pack": null,
+      "percent": "45%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Сыр Айс со вкусом лосося плавленый сливочный 45% 180 г",
+    "cleanTokens": [
+      "сыр",
+      "со",
+      "вкусом",
+      "лосося",
+      "плавленый",
+      "сливочный"
+    ],
+    "normalizedTokens": [
+      "сыр",
+      "со",
+      "вкусом",
+      "лосося",
+      "плавленый",
+      "сливочный",
+      "45%",
+      "180 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "180 г",
+      "count": null,
+      "pack": null,
+      "percent": "45%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Сыр Беловежские сыры рассольный фета 40% 250 г",
+    "cleanTokens": [
+      "сыр",
+      "беловежские",
+      "рассольный",
+      "фета"
+    ],
+    "normalizedTokens": [
+      "сыр",
+      "беловежские",
+      "рассольный",
+      "фета",
+      "40%",
+      "250 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "250 г",
+      "count": null,
+      "pack": null,
+      "percent": "40%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Сыр Astana-Өнім рассольный брынза 45% 220 г",
+    "cleanTokens": [
+      "сыр",
+      "рассольный",
+      "брынза"
+    ],
+    "normalizedTokens": [
+      "сыр",
+      "рассольный",
+      "брынза",
+      "45%",
+      "220 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "220 г",
+      "count": null,
+      "pack": null,
+      "percent": "45%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Сыр Hochland в рассоле рассольный фета 45% 250 г",
+    "cleanTokens": [
+      "сыр",
+      "в",
+      "рассоле",
+      "рассольный",
+      "фета"
+    ],
+    "normalizedTokens": [
+      "сыр",
+      "в",
+      "рассоле",
+      "рассольный",
+      "фета",
+      "45%",
+      "250 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "250 г",
+      "count": null,
+      "pack": null,
+      "percent": "45%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Сырный продукт Луга Алатау полутвердый классический 50%",
+    "cleanTokens": [
+      "сырный",
+      "продукт",
+      "полутвердый",
+      "классический"
+    ],
+    "normalizedTokens": [
+      "сырный",
+      "продукт",
+      "полутвердый",
+      "классический",
+      "50%"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "50%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Сыр Мактамак рассольный чечил 45% 50 г",
+    "cleanTokens": [
+      "сыр",
+      "рассольный",
+      "чечил"
+    ],
+    "normalizedTokens": [
+      "сыр",
+      "рассольный",
+      "чечил",
+      "45%",
+      "50 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "50 г",
+      "count": null,
+      "pack": null,
+      "percent": "45%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Сыр Номад рассольный чечил 40% 100 г",
+    "cleanTokens": [
+      "сыр",
+      "рассольный",
+      "чечил"
+    ],
+    "normalizedTokens": [
+      "сыр",
+      "рассольный",
+      "чечил",
+      "40%",
+      "100 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "100 г",
+      "count": null,
+      "pack": null,
+      "percent": "40%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Сыр KarKara рассольный чечил 30% 90 г",
+    "cleanTokens": [
+      "сыр",
+      "рассольный",
+      "чечил"
+    ],
+    "normalizedTokens": [
+      "сыр",
+      "рассольный",
+      "чечил",
+      "30%",
+      "90 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "90 г",
+      "count": null,
+      "pack": null,
+      "percent": "30%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Сыр Hochland рассольный брынза 45% 200 г",
+    "cleanTokens": [
+      "сыр",
+      "рассольный",
+      "брынза"
+    ],
+    "normalizedTokens": [
+      "сыр",
+      "рассольный",
+      "брынза",
+      "45%",
+      "200 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "200 г",
+      "count": null,
+      "pack": null,
+      "percent": "45%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Сыр Galbani Santa Lucia Макси рассольный моцарелла 45% 250 г",
+    "cleanTokens": [
+      "сыр",
+      "santa",
+      "lucia",
+      "макси",
+      "рассольный",
+      "моцарелла"
+    ],
+    "normalizedTokens": [
+      "сыр",
+      "santa",
+      "lucia",
+      "макси",
+      "рассольный",
+      "моцарелла",
+      "45%",
+      "250 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "250 г",
+      "count": null,
+      "pack": null,
+      "percent": "45%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Сыр Клуб Сыра полутвердый сметанковый 50% 400 г",
+    "cleanTokens": [
+      "сыр",
+      "полутвердый",
+      "сметанковый"
+    ],
+    "normalizedTokens": [
+      "сыр",
+      "полутвердый",
+      "сметанковый",
+      "50%",
+      "400 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "400 г",
+      "count": null,
+      "pack": null,
+      "percent": "50%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Сыр Zarpellon твердый пармезан 32% 200 г",
+    "cleanTokens": [
+      "сыр",
+      "твердый",
+      "пармезан"
+    ],
+    "normalizedTokens": [
+      "сыр",
+      "твердый",
+      "пармезан",
+      "32%",
+      "200 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "200 г",
+      "count": null,
+      "pack": null,
+      "percent": "32%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Сыр БЕЛОРУССКИЕ СЫРЫ Великокняжеский полутвердый великокняжеский 46% 400 г",
+    "cleanTokens": [
+      "сыр",
+      "белорусские",
+      "великокняжеский",
+      "полутвердый",
+      "великокняжеский"
+    ],
+    "normalizedTokens": [
+      "сыр",
+      "белорусские",
+      "великокняжеский",
+      "полутвердый",
+      "великокняжеский",
+      "46%",
+      "400 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "400 г",
+      "count": null,
+      "pack": null,
+      "percent": "46%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Сыр Hochland Делает нас ближе плавленый сливочный 45% 150 г",
+    "cleanTokens": [
+      "сыр",
+      "делает",
+      "нас",
+      "ближе",
+      "плавленый",
+      "сливочный"
+    ],
+    "normalizedTokens": [
+      "сыр",
+      "делает",
+      "нас",
+      "ближе",
+      "плавленый",
+      "сливочный",
+      "45%",
+      "150 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "150 г",
+      "count": null,
+      "pack": null,
+      "percent": "45%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Сыр PRESIDENT плавленый маасдам 45% 200 г",
+    "cleanTokens": [
+      "сыр",
+      "плавленый",
+      "маасдам"
+    ],
+    "normalizedTokens": [
+      "сыр",
+      "плавленый",
+      "маасдам",
+      "45%",
+      "200 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "200 г",
+      "count": null,
+      "pack": null,
+      "percent": "45%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Сыр PRESIDENT рассольный брынза 45% 250 г",
+    "cleanTokens": [
+      "сыр",
+      "рассольный",
+      "брынза"
+    ],
+    "normalizedTokens": [
+      "сыр",
+      "рассольный",
+      "брынза",
+      "45%",
+      "250 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "250 г",
+      "count": null,
+      "pack": null,
+      "percent": "45%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Сырный продукт Юговской сливочный 50% 300 г",
+    "cleanTokens": [
+      "сырный",
+      "продукт",
+      "сливочный"
+    ],
+    "normalizedTokens": [
+      "сырный",
+      "продукт",
+      "сливочный",
+      "50%",
+      "300 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "300 г",
+      "count": null,
+      "pack": null,
+      "percent": "50%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Сыр Айс рассольный чечил 45% 100 г",
+    "cleanTokens": [
+      "сыр",
+      "рассольный",
+      "чечил"
+    ],
+    "normalizedTokens": [
+      "сыр",
+      "рассольный",
+      "чечил",
+      "45%",
+      "100 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "100 г",
+      "count": null,
+      "pack": null,
+      "percent": "45%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Сыр Hochland Чизбургер плавленый чеддер 50% 200 г",
+    "cleanTokens": [
+      "сыр",
+      "чизбургер",
+      "плавленый",
+      "чеддер"
+    ],
+    "normalizedTokens": [
+      "сыр",
+      "чизбургер",
+      "плавленый",
+      "чеддер",
+      "50%",
+      "200 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "200 г",
+      "count": null,
+      "pack": null,
+      "percent": "50%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Сыр DZIUGAS твердый джугас 40% 100 г",
+    "cleanTokens": [
+      "сыр",
+      "твердый",
+      "джугас"
+    ],
+    "normalizedTokens": [
+      "сыр",
+      "твердый",
+      "джугас",
+      "40%",
+      "100 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "100 г",
+      "count": null,
+      "pack": null,
+      "percent": "40%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Сыр Эмир полутвердый сметанковый 45% 500 г",
+    "cleanTokens": [
+      "сыр",
+      "полутвердый",
+      "сметанковый"
+    ],
+    "normalizedTokens": [
+      "сыр",
+      "полутвердый",
+      "сметанковый",
+      "45%",
+      "500 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "500 г",
+      "count": null,
+      "pack": null,
+      "percent": "45%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Сыр Hochland плавленый ассорти 50% 140 г",
+    "cleanTokens": [
+      "сыр",
+      "плавленый",
+      "ассорти"
+    ],
+    "normalizedTokens": [
+      "сыр",
+      "плавленый",
+      "ассорти",
+      "50%",
+      "140 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "140 г",
+      "count": null,
+      "pack": null,
+      "percent": "50%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Сыр Hochland плавленый сливочный 55% 100 г",
+    "cleanTokens": [
+      "сыр",
+      "плавленый",
+      "сливочный"
+    ],
+    "normalizedTokens": [
+      "сыр",
+      "плавленый",
+      "сливочный",
+      "55%",
+      "100 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "100 г",
+      "count": null,
+      "pack": null,
+      "percent": "55%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Сыр Клуб Сыра Айвенго полутвердый классический 50% 400 г",
+    "cleanTokens": [
+      "сыр",
+      "айвенго",
+      "полутвердый",
+      "классический"
+    ],
+    "normalizedTokens": [
+      "сыр",
+      "айвенго",
+      "полутвердый",
+      "классический",
+      "50%",
+      "400 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "400 г",
+      "count": null,
+      "pack": null,
+      "percent": "50%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Сыр Эмир творожный классический 70% 200 г",
+    "cleanTokens": [
+      "сыр",
+      "творожный",
+      "классический"
+    ],
+    "normalizedTokens": [
+      "сыр",
+      "творожный",
+      "классический",
+      "70%",
+      "200 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "200 г",
+      "count": null,
+      "pack": null,
+      "percent": "70%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Сыр PRESIDENT с отборным творогом плавленый сливочный 45% 280 г",
+    "cleanTokens": [
+      "сыр",
+      "с",
+      "отборным",
+      "творогом",
+      "плавленый",
+      "сливочный"
+    ],
+    "normalizedTokens": [
+      "сыр",
+      "с",
+      "отборным",
+      "творогом",
+      "плавленый",
+      "сливочный",
+      "45%",
+      "280 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "280 г",
+      "count": null,
+      "pack": null,
+      "percent": "45%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Сыр Эмир полутвердый голландский 30% 500 г",
+    "cleanTokens": [
+      "сыр",
+      "полутвердый",
+      "голландский"
+    ],
+    "normalizedTokens": [
+      "сыр",
+      "полутвердый",
+      "голландский",
+      "30%",
+      "500 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "500 г",
+      "count": null,
+      "pack": null,
+      "percent": "30%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Сыр Hochland Делает на ближе творожный классический 60% 140 г",
+    "cleanTokens": [
+      "сыр",
+      "делает",
+      "на",
+      "ближе",
+      "творожный",
+      "классический"
+    ],
+    "normalizedTokens": [
+      "сыр",
+      "делает",
+      "на",
+      "ближе",
+      "творожный",
+      "классический",
+      "60%",
+      "140 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "140 г",
+      "count": null,
+      "pack": null,
+      "percent": "60%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Сырный продукт Плавыч плавленый колбасный 40%",
+    "cleanTokens": [
+      "сырный",
+      "продукт",
+      "плавленый",
+      "колбасный"
+    ],
+    "normalizedTokens": [
+      "сырный",
+      "продукт",
+      "плавленый",
+      "колбасный",
+      "40%"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "40%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Сыр Astana-Өнім рассольный халлуми 60% 270 г",
+    "cleanTokens": [
+      "сыр",
+      "рассольный",
+      "халлуми"
+    ],
+    "normalizedTokens": [
+      "сыр",
+      "рассольный",
+      "халлуми",
+      "60%",
+      "270 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "270 г",
+      "count": null,
+      "pack": null,
+      "percent": "60%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Сыр Hochland творожный классический 60% 140 г",
+    "cleanTokens": [
+      "сыр",
+      "творожный",
+      "классический"
+    ],
+    "normalizedTokens": [
+      "сыр",
+      "творожный",
+      "классический",
+      "60%",
+      "140 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "140 г",
+      "count": null,
+      "pack": null,
+      "percent": "60%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Сыр БЕЛОРУССКИЕ СЫРЫ полутвердый сметанковый 50% 400 г",
+    "cleanTokens": [
+      "сыр",
+      "белорусские",
+      "полутвердый",
+      "сметанковый"
+    ],
+    "normalizedTokens": [
+      "сыр",
+      "белорусские",
+      "полутвердый",
+      "сметанковый",
+      "50%",
+      "400 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "400 г",
+      "count": null,
+      "pack": null,
+      "percent": "50%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Сырный продукт Луга Алатау Витязь полутвердый витязь 50%",
+    "cleanTokens": [
+      "сырный",
+      "продукт",
+      "витязь",
+      "полутвердый",
+      "витязь"
+    ],
+    "normalizedTokens": [
+      "сырный",
+      "продукт",
+      "витязь",
+      "полутвердый",
+      "витязь",
+      "50%"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "50%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Сыр РУДНЕНСКИЙ рассольный чечил 30% 50 г",
+    "cleanTokens": [
+      "сыр",
+      "рассольный",
+      "чечил"
+    ],
+    "normalizedTokens": [
+      "сыр",
+      "рассольный",
+      "чечил",
+      "30%",
+      "50 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "50 г",
+      "count": null,
+      "pack": null,
+      "percent": "30%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Сыр Galbani Трио рассольный моцарелла 45% 375 г",
+    "cleanTokens": [
+      "сыр",
+      "трио",
+      "рассольный",
+      "моцарелла"
+    ],
+    "normalizedTokens": [
+      "сыр",
+      "трио",
+      "рассольный",
+      "моцарелла",
+      "45%",
+      "375 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "375 г",
+      "count": null,
+      "pack": null,
+      "percent": "45%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Сыр Violette творожный классический 70% 180 г",
+    "cleanTokens": [
+      "сыр",
+      "творожный",
+      "классический"
+    ],
+    "normalizedTokens": [
+      "сыр",
+      "творожный",
+      "классический",
+      "70%",
+      "180 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "180 г",
+      "count": null,
+      "pack": null,
+      "percent": "70%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Сыр Almette творожный классический 63% 150 г",
+    "cleanTokens": [
+      "сыр",
+      "творожный",
+      "классический"
+    ],
+    "normalizedTokens": [
+      "сыр",
+      "творожный",
+      "классический",
+      "63%",
+      "150 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "150 г",
+      "count": null,
+      "pack": null,
+      "percent": "63%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Сыр PRESIDENT Salakis рассольный фета 45% 250 г",
+    "cleanTokens": [
+      "сыр",
+      "salakis",
+      "рассольный",
+      "фета"
+    ],
+    "normalizedTokens": [
+      "сыр",
+      "salakis",
+      "рассольный",
+      "фета",
+      "45%",
+      "250 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "250 г",
+      "count": null,
+      "pack": null,
+      "percent": "45%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Сыр PRESIDENT Brie мягкий, с плесенью бри 60% 200 г",
+    "cleanTokens": [
+      "сыр",
+      "brie",
+      "мягкий",
+      "с",
+      "плесенью",
+      "бри"
+    ],
+    "normalizedTokens": [
+      "сыр",
+      "brie",
+      "мягкий",
+      "с",
+      "плесенью",
+      "бри",
+      "60%",
+      "200 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "200 г",
+      "count": null,
+      "pack": null,
+      "percent": "60%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Сыр Bonfesto полутвердый моцарелла 40% 370 г",
+    "cleanTokens": [
+      "сыр",
+      "полутвердый",
+      "моцарелла"
+    ],
+    "normalizedTokens": [
+      "сыр",
+      "полутвердый",
+      "моцарелла",
+      "40%",
+      "370 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "370 г",
+      "count": null,
+      "pack": null,
+      "percent": "40%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Сыр Плавыч плавленый сливочный 45% 400 г",
+    "cleanTokens": [
+      "сыр",
+      "плавленый",
+      "сливочный"
+    ],
+    "normalizedTokens": [
+      "сыр",
+      "плавленый",
+      "сливочный",
+      "45%",
+      "400 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "400 г",
+      "count": null,
+      "pack": null,
+      "percent": "45%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Сыр Bonfesto творожный маскарпоне 78% 250 г",
+    "cleanTokens": [
+      "сыр",
+      "творожный",
+      "маскарпоне"
+    ],
+    "normalizedTokens": [
+      "сыр",
+      "творожный",
+      "маскарпоне",
+      "78%",
+      "250 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "250 г",
+      "count": null,
+      "pack": null,
+      "percent": "78%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Сыр Hochland Фетакса творожный классический 48% 140 г",
+    "cleanTokens": [
+      "сыр",
+      "фетакса",
+      "творожный",
+      "классический"
+    ],
+    "normalizedTokens": [
+      "сыр",
+      "фетакса",
+      "творожный",
+      "классический",
+      "48%",
+      "140 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "140 г",
+      "count": null,
+      "pack": null,
+      "percent": "48%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Сыр PRESIDENT Классическая коллекция плавленый ассорти 45% 140 г",
+    "cleanTokens": [
+      "сыр",
+      "классическая",
+      "коллекция",
+      "плавленый",
+      "ассорти"
+    ],
+    "normalizedTokens": [
+      "сыр",
+      "классическая",
+      "коллекция",
+      "плавленый",
+      "ассорти",
+      "45%",
+      "140 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "140 г",
+      "count": null,
+      "pack": null,
+      "percent": "45%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Сыр DZIUGAS 36 твердый пармезан 40% 100 г",
+    "cleanTokens": [
+      "сыр",
+      "36",
+      "твердый",
+      "пармезан"
+    ],
+    "normalizedTokens": [
+      "сыр",
+      "36",
+      "твердый",
+      "пармезан",
+      "40%",
+      "100 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "100 г",
+      "count": null,
+      "pack": null,
+      "percent": "40%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Сыр Hochland творожный классический 60% 140 г",
+    "cleanTokens": [
+      "сыр",
+      "творожный",
+      "классический"
+    ],
+    "normalizedTokens": [
+      "сыр",
+      "творожный",
+      "классический",
+      "60%",
+      "140 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "140 г",
+      "count": null,
+      "pack": null,
+      "percent": "60%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Сыр ZUGER рассольный моцарелла 45% 125 г",
+    "cleanTokens": [
+      "сыр",
+      "рассольный",
+      "моцарелла"
+    ],
+    "normalizedTokens": [
+      "сыр",
+      "рассольный",
+      "моцарелла",
+      "45%",
+      "125 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "125 г",
+      "count": null,
+      "pack": null,
+      "percent": "45%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Сыр DairylanD мягкий, с плесенью бри 24% 125 г",
+    "cleanTokens": [
+      "сыр",
+      "мягкий",
+      "с",
+      "плесенью",
+      "бри"
+    ],
+    "normalizedTokens": [
+      "сыр",
+      "мягкий",
+      "с",
+      "плесенью",
+      "бри",
+      "24%",
+      "125 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "125 г",
+      "count": null,
+      "pack": null,
+      "percent": "24%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Сыр БЕЛОРУССКИЕ СЫРЫ полутвердый российский 50% 400 г",
+    "cleanTokens": [
+      "сыр",
+      "белорусские",
+      "полутвердый",
+      "российский"
+    ],
+    "normalizedTokens": [
+      "сыр",
+      "белорусские",
+      "полутвердый",
+      "российский",
+      "50%",
+      "400 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "400 г",
+      "count": null,
+      "pack": null,
+      "percent": "50%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Сыр PRESIDENT Creme de Brie плавленый бри 50% 125 г",
+    "cleanTokens": [
+      "сыр",
+      "creme",
+      "de",
+      "brie",
+      "плавленый",
+      "бри"
+    ],
+    "normalizedTokens": [
+      "сыр",
+      "creme",
+      "de",
+      "brie",
+      "плавленый",
+      "бри",
+      "50%",
+      "125 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "125 г",
+      "count": null,
+      "pack": null,
+      "percent": "50%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Сыр БЕЛОРУССКИЕ СЫРЫ полутвердый пошехонский 45% 300 г",
+    "cleanTokens": [
+      "сыр",
+      "белорусские",
+      "полутвердый",
+      "пошехонский"
+    ],
+    "normalizedTokens": [
+      "сыр",
+      "белорусские",
+      "полутвердый",
+      "пошехонский",
+      "45%",
+      "300 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "300 г",
+      "count": null,
+      "pack": null,
+      "percent": "45%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Сыр Hochland творожный классический 60% 150 г",
+    "cleanTokens": [
+      "сыр",
+      "творожный",
+      "классический"
+    ],
+    "normalizedTokens": [
+      "сыр",
+      "творожный",
+      "классический",
+      "60%",
+      "150 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "150 г",
+      "count": null,
+      "pack": null,
+      "percent": "60%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Сыр Hochland Делает нас ближе плавленый сливочный 55% 400 г",
+    "cleanTokens": [
+      "сыр",
+      "делает",
+      "нас",
+      "ближе",
+      "плавленый",
+      "сливочный"
+    ],
+    "normalizedTokens": [
+      "сыр",
+      "делает",
+      "нас",
+      "ближе",
+      "плавленый",
+      "сливочный",
+      "55%",
+      "400 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "400 г",
+      "count": null,
+      "pack": null,
+      "percent": "55%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Сыр Hochland в рассоле рассольный фета 45% 480 г",
+    "cleanTokens": [
+      "сыр",
+      "в",
+      "рассоле",
+      "рассольный",
+      "фета"
+    ],
+    "normalizedTokens": [
+      "сыр",
+      "в",
+      "рассоле",
+      "рассольный",
+      "фета",
+      "45%",
+      "480 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "480 г",
+      "count": null,
+      "pack": null,
+      "percent": "45%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Сыр PRESIDENT с ветчиной плавленый сливочный 45% 200 г",
+    "cleanTokens": [
+      "сыр",
+      "с",
+      "ветчиной",
+      "плавленый",
+      "сливочный"
+    ],
+    "normalizedTokens": [
+      "сыр",
+      "с",
+      "ветчиной",
+      "плавленый",
+      "сливочный",
+      "45%",
+      "200 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "200 г",
+      "count": null,
+      "pack": null,
+      "percent": "45%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Сыр Bonfesto полутвердый моцарелла 40% 250 г",
+    "cleanTokens": [
+      "сыр",
+      "полутвердый",
+      "моцарелла"
+    ],
+    "normalizedTokens": [
+      "сыр",
+      "полутвердый",
+      "моцарелла",
+      "40%",
+      "250 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "250 г",
+      "count": null,
+      "pack": null,
+      "percent": "40%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Сыр PRESIDENT с отборным творогом плавленый ассорти 45% 140 г",
+    "cleanTokens": [
+      "сыр",
+      "с",
+      "отборным",
+      "творогом",
+      "плавленый",
+      "ассорти"
+    ],
+    "normalizedTokens": [
+      "сыр",
+      "с",
+      "отборным",
+      "творогом",
+      "плавленый",
+      "ассорти",
+      "45%",
+      "140 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "140 г",
+      "count": null,
+      "pack": null,
+      "percent": "45%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Сыр Hochland рассольный фета 28% 275 г",
+    "cleanTokens": [
+      "сыр",
+      "рассольный",
+      "фета"
+    ],
+    "normalizedTokens": [
+      "сыр",
+      "рассольный",
+      "фета",
+      "28%",
+      "275 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "275 г",
+      "count": null,
+      "pack": null,
+      "percent": "28%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Сыр Hochland грибы с луком плавленый сливочный 40% 230 г",
+    "cleanTokens": [
+      "сыр",
+      "грибы",
+      "с",
+      "луком",
+      "плавленый",
+      "сливочный"
+    ],
+    "normalizedTokens": [
+      "сыр",
+      "грибы",
+      "с",
+      "луком",
+      "плавленый",
+      "сливочный",
+      "40%",
+      "230 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "230 г",
+      "count": null,
+      "pack": null,
+      "percent": "40%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Сыр Hochland творожный классический 65% 500 г",
+    "cleanTokens": [
+      "сыр",
+      "творожный",
+      "классический"
+    ],
+    "normalizedTokens": [
+      "сыр",
+      "творожный",
+      "классический",
+      "65%",
+      "500 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "500 г",
+      "count": null,
+      "pack": null,
+      "percent": "65%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Сыр Hochland творожный классический 60% 140 г",
+    "cleanTokens": [
+      "сыр",
+      "творожный",
+      "классический"
+    ],
+    "normalizedTokens": [
+      "сыр",
+      "творожный",
+      "классический",
+      "60%",
+      "140 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "140 г",
+      "count": null,
+      "pack": null,
+      "percent": "60%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Сыр Pretto творожный маскарпоне 80% 500 г",
+    "cleanTokens": [
+      "сыр",
+      "творожный",
+      "маскарпоне"
+    ],
+    "normalizedTokens": [
+      "сыр",
+      "творожный",
+      "маскарпоне",
+      "80%",
+      "500 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "500 г",
+      "count": null,
+      "pack": null,
+      "percent": "80%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Сыр Hochland Grunlander баварский полутвердый грюнландер 45% 180 г",
+    "cleanTokens": [
+      "сыр",
+      "grunlander",
+      "баварский",
+      "полутвердый",
+      "грюнландер"
+    ],
+    "normalizedTokens": [
+      "сыр",
+      "grunlander",
+      "баварский",
+      "полутвердый",
+      "грюнландер",
+      "45%",
+      "180 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "180 г",
+      "count": null,
+      "pack": null,
+      "percent": "45%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Сыр PRESIDENT с отборным творогом плавленый маасдам 45% 140 г",
+    "cleanTokens": [
+      "сыр",
+      "с",
+      "отборным",
+      "творогом",
+      "плавленый",
+      "маасдам"
+    ],
+    "normalizedTokens": [
+      "сыр",
+      "с",
+      "отборным",
+      "творогом",
+      "плавленый",
+      "маасдам",
+      "45%",
+      "140 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "140 г",
+      "count": null,
+      "pack": null,
+      "percent": "45%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Сыр Pretto творожный маскарпоне 80% 250 г",
+    "cleanTokens": [
+      "сыр",
+      "творожный",
+      "маскарпоне"
+    ],
+    "normalizedTokens": [
+      "сыр",
+      "творожный",
+      "маскарпоне",
+      "80%",
+      "250 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "250 г",
+      "count": null,
+      "pack": null,
+      "percent": "80%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Сыр Zarpellon твердый грана падано 32% 200 г",
+    "cleanTokens": [
+      "сыр",
+      "твердый",
+      "грана",
+      "падано"
+    ],
+    "normalizedTokens": [
+      "сыр",
+      "твердый",
+      "грана",
+      "падано",
+      "32%",
+      "200 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "200 г",
+      "count": null,
+      "pack": null,
+      "percent": "32%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Сыр Hochland плавленый сливочный 45% 150 г",
+    "cleanTokens": [
+      "сыр",
+      "плавленый",
+      "сливочный"
+    ],
+    "normalizedTokens": [
+      "сыр",
+      "плавленый",
+      "сливочный",
+      "45%",
+      "150 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "150 г",
+      "count": null,
+      "pack": null,
+      "percent": "45%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Сыр Pretto с вялеными томатами творожный классический 65% 140 г",
+    "cleanTokens": [
+      "сыр",
+      "с",
+      "вялеными",
+      "томатами",
+      "творожный",
+      "классический"
+    ],
+    "normalizedTokens": [
+      "сыр",
+      "с",
+      "вялеными",
+      "томатами",
+      "творожный",
+      "классический",
+      "65%",
+      "140 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "140 г",
+      "count": null,
+      "pack": null,
+      "percent": "65%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Сыр Hochland полутвердый грюнландер 35% 130 г",
+    "cleanTokens": [
+      "сыр",
+      "полутвердый",
+      "грюнландер"
+    ],
+    "normalizedTokens": [
+      "сыр",
+      "полутвердый",
+      "грюнландер",
+      "35%",
+      "130 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "130 г",
+      "count": null,
+      "pack": null,
+      "percent": "35%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Сыр Pretto с ароматными травами творожный классический 65% 140 г",
+    "cleanTokens": [
+      "сыр",
+      "с",
+      "ароматными",
+      "травами",
+      "творожный",
+      "классический"
+    ],
+    "normalizedTokens": [
+      "сыр",
+      "с",
+      "ароматными",
+      "травами",
+      "творожный",
+      "классический",
+      "65%",
+      "140 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "140 г",
+      "count": null,
+      "pack": null,
+      "percent": "65%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Сыр Sabah рассольный фета 40% 400 г",
+    "cleanTokens": [
+      "сыр",
+      "рассольный",
+      "фета"
+    ],
+    "normalizedTokens": [
+      "сыр",
+      "рассольный",
+      "фета",
+      "40%",
+      "400 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "400 г",
+      "count": null,
+      "pack": null,
+      "percent": "40%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Сыр PRESIDENT Chevre творожный шевр 65% 140 г",
+    "cleanTokens": [
+      "сыр",
+      "chevre",
+      "творожный",
+      "шевр"
+    ],
+    "normalizedTokens": [
+      "сыр",
+      "chevre",
+      "творожный",
+      "шевр",
+      "65%",
+      "140 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "140 г",
+      "count": null,
+      "pack": null,
+      "percent": "65%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Сыр ZUGER рассольный моцарелла 45% 150 г",
+    "cleanTokens": [
+      "сыр",
+      "рассольный",
+      "моцарелла"
+    ],
+    "normalizedTokens": [
+      "сыр",
+      "рассольный",
+      "моцарелла",
+      "45%",
+      "150 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "150 г",
+      "count": null,
+      "pack": null,
+      "percent": "45%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Сыр LAZUR полутвердый, с плесенью блю 50% 100 г",
+    "cleanTokens": [
+      "сыр",
+      "полутвердый",
+      "с",
+      "плесенью",
+      "блю"
+    ],
+    "normalizedTokens": [
+      "сыр",
+      "полутвердый",
+      "с",
+      "плесенью",
+      "блю",
+      "50%",
+      "100 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "100 г",
+      "count": null,
+      "pack": null,
+      "percent": "50%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Сыр Сочинский рассольный ассорти 40% 100 г",
+    "cleanTokens": [
+      "сыр",
+      "рассольный",
+      "ассорти"
+    ],
+    "normalizedTokens": [
+      "сыр",
+      "рассольный",
+      "ассорти",
+      "40%",
+      "100 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "100 г",
+      "count": null,
+      "pack": null,
+      "percent": "40%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Сыр PRESIDENT с травами творожный классический 54% 140 г",
+    "cleanTokens": [
+      "сыр",
+      "с",
+      "травами",
+      "творожный",
+      "классический"
+    ],
+    "normalizedTokens": [
+      "сыр",
+      "с",
+      "травами",
+      "творожный",
+      "классический",
+      "54%",
+      "140 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "140 г",
+      "count": null,
+      "pack": null,
+      "percent": "54%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Сыр Клуб Сыра твердый классический 50% 400 г",
+    "cleanTokens": [
+      "сыр",
+      "твердый",
+      "классический"
+    ],
+    "normalizedTokens": [
+      "сыр",
+      "твердый",
+      "классический",
+      "50%",
+      "400 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "400 г",
+      "count": null,
+      "pack": null,
+      "percent": "50%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Сыр Pretto крем-основа с маскарпоне творожный сливочный 50% 450 г",
+    "cleanTokens": [
+      "сыр",
+      "крем-основа",
+      "с",
+      "маскарпоне",
+      "творожный",
+      "сливочный"
+    ],
+    "normalizedTokens": [
+      "сыр",
+      "крем-основа",
+      "с",
+      "маскарпоне",
+      "творожный",
+      "сливочный",
+      "50%",
+      "450 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "450 г",
+      "count": null,
+      "pack": null,
+      "percent": "50%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Сыр Карат Десертный плавленый сливочный 30% 230 г",
+    "cleanTokens": [
+      "сыр",
+      "десертный",
+      "плавленый",
+      "сливочный"
+    ],
+    "normalizedTokens": [
+      "сыр",
+      "десертный",
+      "плавленый",
+      "сливочный",
+      "30%",
+      "230 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "230 г",
+      "count": null,
+      "pack": null,
+      "percent": "30%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Сыр Чудское озеро творожный классический 60% 150 г",
+    "cleanTokens": [
+      "сыр",
+      "творожный",
+      "классический"
+    ],
+    "normalizedTokens": [
+      "сыр",
+      "творожный",
+      "классический",
+      "60%",
+      "150 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "150 г",
+      "count": null,
+      "pack": null,
+      "percent": "60%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Сыр DZIUGAS Piquant твердый голландский 40% 180 г",
+    "cleanTokens": [
+      "сыр",
+      "piquant",
+      "твердый",
+      "голландский"
+    ],
+    "normalizedTokens": [
+      "сыр",
+      "piquant",
+      "твердый",
+      "голландский",
+      "40%",
+      "180 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "180 г",
+      "count": null,
+      "pack": null,
+      "percent": "40%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Сыр PRESIDENT Прованс мусс творожный классический 60% 120 г",
+    "cleanTokens": [
+      "сыр",
+      "прованс",
+      "мусс",
+      "творожный",
+      "классический"
+    ],
+    "normalizedTokens": [
+      "сыр",
+      "прованс",
+      "мусс",
+      "творожный",
+      "классический",
+      "60%",
+      "120 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "120 г",
+      "count": null,
+      "pack": null,
+      "percent": "60%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Сыр PRESIDENT овощи на гриле творожный классический 54% 140 г",
+    "cleanTokens": [
+      "сыр",
+      "овощи",
+      "на",
+      "гриле",
+      "творожный",
+      "классический"
+    ],
+    "normalizedTokens": [
+      "сыр",
+      "овощи",
+      "на",
+      "гриле",
+      "творожный",
+      "классический",
+      "54%",
+      "140 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "140 г",
+      "count": null,
+      "pack": null,
+      "percent": "54%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Сыр Умалат рассольный сулугуни 45% 120 г",
+    "cleanTokens": [
+      "сыр",
+      "рассольный",
+      "сулугуни"
+    ],
+    "normalizedTokens": [
+      "сыр",
+      "рассольный",
+      "сулугуни",
+      "45%",
+      "120 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "120 г",
+      "count": null,
+      "pack": null,
+      "percent": "45%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Сыр Сочинский рассольный ассорти 40% 100 г",
+    "cleanTokens": [
+      "сыр",
+      "рассольный",
+      "ассорти"
+    ],
+    "normalizedTokens": [
+      "сыр",
+      "рассольный",
+      "ассорти",
+      "40%",
+      "100 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "100 г",
+      "count": null,
+      "pack": null,
+      "percent": "40%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Сыр DZIUGAS Gourmet твердый пармезан 40% 180 г",
+    "cleanTokens": [
+      "сыр",
+      "gourmet",
+      "твердый",
+      "пармезан"
+    ],
+    "normalizedTokens": [
+      "сыр",
+      "gourmet",
+      "твердый",
+      "пармезан",
+      "40%",
+      "180 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "180 г",
+      "count": null,
+      "pack": null,
+      "percent": "40%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Сыр PRESIDENT с ветчиной плавленый сливочный 45% 400 г",
+    "cleanTokens": [
+      "сыр",
+      "с",
+      "ветчиной",
+      "плавленый",
+      "сливочный"
+    ],
+    "normalizedTokens": [
+      "сыр",
+      "с",
+      "ветчиной",
+      "плавленый",
+      "сливочный",
+      "45%",
+      "400 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "400 г",
+      "count": null,
+      "pack": null,
+      "percent": "45%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Сыр Беловежские сыры рассольный брынза 40% 250 г",
+    "cleanTokens": [
+      "сыр",
+      "беловежские",
+      "рассольный",
+      "брынза"
+    ],
+    "normalizedTokens": [
+      "сыр",
+      "беловежские",
+      "рассольный",
+      "брынза",
+      "40%",
+      "250 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "250 г",
+      "count": null,
+      "pack": null,
+      "percent": "40%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Сыр ILE DE FRANCE Normantal полутвердый норманталь 50% 150 г",
+    "cleanTokens": [
+      "сыр",
+      "normantal",
+      "полутвердый",
+      "норманталь"
+    ],
+    "normalizedTokens": [
+      "сыр",
+      "normantal",
+      "полутвердый",
+      "норманталь",
+      "50%",
+      "150 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "150 г",
+      "count": null,
+      "pack": null,
+      "percent": "50%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Сырный продукт Юговской полутвердый российский 50% 300 г",
+    "cleanTokens": [
+      "сырный",
+      "продукт",
+      "полутвердый",
+      "российский"
+    ],
+    "normalizedTokens": [
+      "сырный",
+      "продукт",
+      "полутвердый",
+      "российский",
+      "50%",
+      "300 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "300 г",
+      "count": null,
+      "pack": null,
+      "percent": "50%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Сыр Natura полутвердый сливочный 45% 150 г",
+    "cleanTokens": [
+      "сыр",
+      "полутвердый",
+      "сливочный"
+    ],
+    "normalizedTokens": [
+      "сыр",
+      "полутвердый",
+      "сливочный",
+      "45%",
+      "150 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "150 г",
+      "count": null,
+      "pack": null,
+      "percent": "45%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Сыр DZIUGAS Bronza твердый голландский 40% 180 г",
+    "cleanTokens": [
+      "сыр",
+      "bronza",
+      "твердый",
+      "голландский"
+    ],
+    "normalizedTokens": [
+      "сыр",
+      "bronza",
+      "твердый",
+      "голландский",
+      "40%",
+      "180 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "180 г",
+      "count": null,
+      "pack": null,
+      "percent": "40%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Сыр Эмиль творожный классический 34% 250 г",
+    "cleanTokens": [
+      "сыр",
+      "творожный",
+      "классический"
+    ],
+    "normalizedTokens": [
+      "сыр",
+      "творожный",
+      "классический",
+      "34%",
+      "250 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "250 г",
+      "count": null,
+      "pack": null,
+      "percent": "34%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Сыр Умалат кавказский из свежего молока рассольный адыгейский 45% 280 г",
+    "cleanTokens": [
+      "сыр",
+      "кавказский",
+      "из",
+      "свежего",
+      "молока",
+      "рассольный",
+      "адыгейский"
+    ],
+    "normalizedTokens": [
+      "сыр",
+      "кавказский",
+      "из",
+      "свежего",
+      "молока",
+      "рассольный",
+      "адыгейский",
+      "45%",
+      "280 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "280 г",
+      "count": null,
+      "pack": null,
+      "percent": "45%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Сыр Карат плавленый сливочный 30% 230 г",
+    "cleanTokens": [
+      "сыр",
+      "плавленый",
+      "сливочный"
+    ],
+    "normalizedTokens": [
+      "сыр",
+      "плавленый",
+      "сливочный",
+      "30%",
+      "230 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "230 г",
+      "count": null,
+      "pack": null,
+      "percent": "30%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Сыр Arla Foods мягкий сливочный 60% 150 г",
+    "cleanTokens": [
+      "сыр",
+      "мягкий",
+      "сливочный"
+    ],
+    "normalizedTokens": [
+      "сыр",
+      "мягкий",
+      "сливочный",
+      "60%",
+      "150 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "150 г",
+      "count": null,
+      "pack": null,
+      "percent": "60%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Сыр Unagrande Creamcheese сливочный без лактозы 70% 140 г",
+    "cleanTokens": [
+      "сыр",
+      "creamcheese",
+      "сливочный",
+      "без",
+      "лактозы"
+    ],
+    "normalizedTokens": [
+      "сыр",
+      "creamcheese",
+      "сливочный",
+      "без",
+      "лактозы",
+      "70%",
+      "140 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "140 г",
+      "count": null,
+      "pack": null,
+      "percent": "70%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Сыр Pretto свежий сыр с огурцом творожный классический 65% 140 г",
+    "cleanTokens": [
+      "сыр",
+      "свежий",
+      "сыр",
+      "с",
+      "огурцом",
+      "творожный",
+      "классический"
+    ],
+    "normalizedTokens": [
+      "сыр",
+      "свежий",
+      "сыр",
+      "с",
+      "огурцом",
+      "творожный",
+      "классический",
+      "65%",
+      "140 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "140 г",
+      "count": null,
+      "pack": null,
+      "percent": "65%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Сыр Natura полутвердый сливочный 45% 300 г",
+    "cleanTokens": [
+      "сыр",
+      "полутвердый",
+      "сливочный"
+    ],
+    "normalizedTokens": [
+      "сыр",
+      "полутвердый",
+      "сливочный",
+      "45%",
+      "300 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "300 г",
+      "count": null,
+      "pack": null,
+      "percent": "45%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Сырный продукт ВСЕ в ДОМ полутвердый тильзитер 50% 350 г",
+    "cleanTokens": [
+      "сырный",
+      "продукт",
+      "полутвердый",
+      "тильзитер"
+    ],
+    "normalizedTokens": [
+      "сырный",
+      "продукт",
+      "полутвердый",
+      "тильзитер",
+      "50%",
+      "350 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "350 г",
+      "count": null,
+      "pack": null,
+      "percent": "50%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Сыр Rokiskio Grand 12 твердый пармезан 37% 180 г",
+    "cleanTokens": [
+      "сыр",
+      "grand",
+      "12",
+      "твердый",
+      "пармезан"
+    ],
+    "normalizedTokens": [
+      "сыр",
+      "grand",
+      "12",
+      "твердый",
+      "пармезан",
+      "37%",
+      "180 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "180 г",
+      "count": null,
+      "pack": null,
+      "percent": "37%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Сыр Hochland индейка с прованскими травами плавленый сливочный 40% 230 г",
+    "cleanTokens": [
+      "сыр",
+      "индейка",
+      "с",
+      "прованскими",
+      "травами",
+      "плавленый",
+      "сливочный"
+    ],
+    "normalizedTokens": [
+      "сыр",
+      "индейка",
+      "с",
+      "прованскими",
+      "травами",
+      "плавленый",
+      "сливочный",
+      "40%",
+      "230 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "230 г",
+      "count": null,
+      "pack": null,
+      "percent": "40%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Сыр Nәtige сулугуни 45% 700 г",
+    "cleanTokens": [
+      "сыр",
+      "сулугуни"
+    ],
+    "normalizedTokens": [
+      "сыр",
+      "сулугуни",
+      "45%",
+      "700 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "700 г",
+      "count": null,
+      "pack": null,
+      "percent": "45%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Сырный продукт Чудское озеро творожный классический 60% 1000 г",
+    "cleanTokens": [
+      "сырный",
+      "продукт",
+      "творожный",
+      "классический"
+    ],
+    "normalizedTokens": [
+      "сырный",
+      "продукт",
+      "творожный",
+      "классический",
+      "60%",
+      "1000 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "1000 г",
+      "count": null,
+      "pack": null,
+      "percent": "60%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Сыр ILE DE FRANCE Brie Mild and Extra-Creamy мягкий, с плесенью бри 50% 150 г",
+    "cleanTokens": [
+      "сыр",
+      "brie",
+      "mild",
+      "and",
+      "extra-creamy",
+      "мягкий",
+      "с",
+      "плесенью",
+      "бри"
+    ],
+    "normalizedTokens": [
+      "сыр",
+      "brie",
+      "mild",
+      "and",
+      "extra-creamy",
+      "мягкий",
+      "с",
+      "плесенью",
+      "бри",
+      "50%",
+      "150 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "150 г",
+      "count": null,
+      "pack": null,
+      "percent": "50%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Сыр Bonfesto творожный классический 65% 125 г",
+    "cleanTokens": [
+      "сыр",
+      "творожный",
+      "классический"
+    ],
+    "normalizedTokens": [
+      "сыр",
+      "творожный",
+      "классический",
+      "65%",
+      "125 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "125 г",
+      "count": null,
+      "pack": null,
+      "percent": "65%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Сырный продукт ВСЕ в ДОМ полутвердый голландский 50% 350 г",
+    "cleanTokens": [
+      "сырный",
+      "продукт",
+      "полутвердый",
+      "голландский"
+    ],
+    "normalizedTokens": [
+      "сырный",
+      "продукт",
+      "полутвердый",
+      "голландский",
+      "50%",
+      "350 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "350 г",
+      "count": null,
+      "pack": null,
+      "percent": "50%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Сырный продукт Сырный Дворик полутвердый топленый 50% 450 г",
+    "cleanTokens": [
+      "сырный",
+      "продукт",
+      "полутвердый",
+      "топленый"
+    ],
+    "normalizedTokens": [
+      "сырный",
+      "продукт",
+      "полутвердый",
+      "топленый",
+      "50%",
+      "450 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "450 г",
+      "count": null,
+      "pack": null,
+      "percent": "50%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Сырный продукт ВСЕ в ДОМ полутвердый классический 50% 350 г",
+    "cleanTokens": [
+      "сырный",
+      "продукт",
+      "полутвердый",
+      "классический"
+    ],
+    "normalizedTokens": [
+      "сырный",
+      "продукт",
+      "полутвердый",
+      "классический",
+      "50%",
+      "350 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "350 г",
+      "count": null,
+      "pack": null,
+      "percent": "50%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Сыр ZUGER рассольный моцарелла 40% 200 г",
+    "cleanTokens": [
+      "сыр",
+      "рассольный",
+      "моцарелла"
+    ],
+    "normalizedTokens": [
+      "сыр",
+      "рассольный",
+      "моцарелла",
+      "40%",
+      "200 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "200 г",
+      "count": null,
+      "pack": null,
+      "percent": "40%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Сыр Hochland баварский полутвердый грюнландер 45% 130 г",
+    "cleanTokens": [
+      "сыр",
+      "баварский",
+      "полутвердый",
+      "грюнландер"
+    ],
+    "normalizedTokens": [
+      "сыр",
+      "баварский",
+      "полутвердый",
+      "грюнландер",
+      "45%",
+      "130 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "130 г",
+      "count": null,
+      "pack": null,
+      "percent": "45%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Сыр Плавыч Fetachini творожный классический 60% 200 г",
+    "cleanTokens": [
+      "сыр",
+      "fetachini",
+      "творожный",
+      "классический"
+    ],
+    "normalizedTokens": [
+      "сыр",
+      "fetachini",
+      "творожный",
+      "классический",
+      "60%",
+      "200 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "200 г",
+      "count": null,
+      "pack": null,
+      "percent": "60%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Сыр PRESIDENT Emmental полутвердый эмменталь 45% 250 г",
+    "cleanTokens": [
+      "сыр",
+      "emmental",
+      "полутвердый",
+      "эмменталь"
+    ],
+    "normalizedTokens": [
+      "сыр",
+      "emmental",
+      "полутвердый",
+      "эмменталь",
+      "45%",
+      "250 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "250 г",
+      "count": null,
+      "pack": null,
+      "percent": "45%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Сыр Sabah творожный классический 55% 350 г",
+    "cleanTokens": [
+      "сыр",
+      "творожный",
+      "классический"
+    ],
+    "normalizedTokens": [
+      "сыр",
+      "творожный",
+      "классический",
+      "55%",
+      "350 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "350 г",
+      "count": null,
+      "pack": null,
+      "percent": "55%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Сыр Sabah творожный классический 69% 350 г",
+    "cleanTokens": [
+      "сыр",
+      "творожный",
+      "классический"
+    ],
+    "normalizedTokens": [
+      "сыр",
+      "творожный",
+      "классический",
+      "69%",
+      "350 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "350 г",
+      "count": null,
+      "pack": null,
+      "percent": "69%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Сыр Mont Blu с голубой плесенью мягкий, с плесенью данаблю 50% 450 г",
+    "cleanTokens": [
+      "сыр",
+      "с",
+      "голубой",
+      "плесенью",
+      "мягкий",
+      "с",
+      "плесенью",
+      "данаблю"
+    ],
+    "normalizedTokens": [
+      "сыр",
+      "с",
+      "голубой",
+      "плесенью",
+      "мягкий",
+      "с",
+      "плесенью",
+      "данаблю",
+      "50%",
+      "450 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "450 г",
+      "count": null,
+      "pack": null,
+      "percent": "50%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Сыр Natura полутвердый сливочный 45% 1000 г",
+    "cleanTokens": [
+      "сыр",
+      "полутвердый",
+      "сливочный"
+    ],
+    "normalizedTokens": [
+      "сыр",
+      "полутвердый",
+      "сливочный",
+      "45%",
+      "1000 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "1000 г",
+      "count": null,
+      "pack": null,
+      "percent": "45%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Сыр KASEREI CHAMPIGNON мягкий, с плесенью бриетте 60% 125 г",
+    "cleanTokens": [
+      "сыр",
+      "мягкий",
+      "с",
+      "плесенью",
+      "бриетте"
+    ],
+    "normalizedTokens": [
+      "сыр",
+      "мягкий",
+      "с",
+      "плесенью",
+      "бриетте",
+      "60%",
+      "125 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "125 г",
+      "count": null,
+      "pack": null,
+      "percent": "60%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Сыр Laime полутвердый сливочный 50% 125 г",
+    "cleanTokens": [
+      "сыр",
+      "полутвердый",
+      "сливочный"
+    ],
+    "normalizedTokens": [
+      "сыр",
+      "полутвердый",
+      "сливочный",
+      "50%",
+      "125 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "125 г",
+      "count": null,
+      "pack": null,
+      "percent": "50%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Сыр Gran Albiero Dolce полутвердый проволоне 44% 180 г",
+    "cleanTokens": [
+      "сыр",
+      "dolce",
+      "полутвердый",
+      "проволоне"
+    ],
+    "normalizedTokens": [
+      "сыр",
+      "dolce",
+      "полутвердый",
+      "проволоне",
+      "44%",
+      "180 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "180 г",
+      "count": null,
+      "pack": null,
+      "percent": "44%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Сыр PRESIDENT Le blue мягкий, с плесенью блю 55.1% 100 г",
+    "cleanTokens": [
+      "сыр",
+      "le",
+      "blue",
+      "мягкий",
+      "с",
+      "плесенью",
+      "блю"
+    ],
+    "normalizedTokens": [
+      "сыр",
+      "le",
+      "blue",
+      "мягкий",
+      "с",
+      "плесенью",
+      "блю",
+      "55.1%",
+      "100 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "100 г",
+      "count": null,
+      "pack": null,
+      "percent": "55.1%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Сыр Добрая Коза из козьего молока сулугуни 40%",
+    "cleanTokens": [
+      "сыр",
+      "из",
+      "козьего",
+      "молока",
+      "сулугуни"
+    ],
+    "normalizedTokens": [
+      "сыр",
+      "из",
+      "козьего",
+      "молока",
+      "сулугуни",
+      "40%"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "40%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Сыр Ламбер Гурмэ полутвердый ламбер 55% 700 г",
+    "cleanTokens": [
+      "сыр",
+      "гурмэ",
+      "полутвердый"
+    ],
+    "normalizedTokens": [
+      "сыр",
+      "гурмэ",
+      "полутвердый",
+      "55%",
+      "700 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "700 г",
+      "count": null,
+      "pack": null,
+      "percent": "55%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Сыр Gran Albiero твердый грана падано 32% 200 г",
+    "cleanTokens": [
+      "сыр",
+      "твердый",
+      "грана",
+      "падано"
+    ],
+    "normalizedTokens": [
+      "сыр",
+      "твердый",
+      "грана",
+      "падано",
+      "32%",
+      "200 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "200 г",
+      "count": null,
+      "pack": null,
+      "percent": "32%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Сыр Laime полутвердый тильзитер 50% 125 г",
+    "cleanTokens": [
+      "сыр",
+      "полутвердый",
+      "тильзитер"
+    ],
+    "normalizedTokens": [
+      "сыр",
+      "полутвердый",
+      "тильзитер",
+      "50%",
+      "125 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "125 г",
+      "count": null,
+      "pack": null,
+      "percent": "50%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Сыр Добрая Коза из козьего молока полутвердый качотта 40%",
+    "cleanTokens": [
+      "сыр",
+      "из",
+      "козьего",
+      "молока",
+      "полутвердый",
+      "качотта"
+    ],
+    "normalizedTokens": [
+      "сыр",
+      "из",
+      "козьего",
+      "молока",
+      "полутвердый",
+      "качотта",
+      "40%"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "40%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Сыр Astana-Өнім рассольный сулугуни 45% 200 г",
+    "cleanTokens": [
+      "сыр",
+      "рассольный",
+      "сулугуни"
+    ],
+    "normalizedTokens": [
+      "сыр",
+      "рассольный",
+      "сулугуни",
+      "45%",
+      "200 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "200 г",
+      "count": null,
+      "pack": null,
+      "percent": "45%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Сыр Sabah рассольный фета 13.2% 450 г",
+    "cleanTokens": [
+      "сыр",
+      "рассольный",
+      "фета"
+    ],
+    "normalizedTokens": [
+      "сыр",
+      "рассольный",
+      "фета",
+      "13.2%",
+      "450 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "450 г",
+      "count": null,
+      "pack": null,
+      "percent": "13.2%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Сыр IGOR Piccante мягкий, с плесенью горгондзола 48% 150 г",
+    "cleanTokens": [
+      "сыр",
+      "piccante",
+      "мягкий",
+      "с",
+      "плесенью",
+      "горгондзола"
+    ],
+    "normalizedTokens": [
+      "сыр",
+      "piccante",
+      "мягкий",
+      "с",
+      "плесенью",
+      "горгондзола",
+      "48%",
+      "150 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "150 г",
+      "count": null,
+      "pack": null,
+      "percent": "48%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Сыр Pretto мягкий моцарелла 45% 1000 г",
+    "cleanTokens": [
+      "сыр",
+      "мягкий",
+      "моцарелла"
+    ],
+    "normalizedTokens": [
+      "сыр",
+      "мягкий",
+      "моцарелла",
+      "45%",
+      "1000 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "1000 г",
+      "count": null,
+      "pack": null,
+      "percent": "45%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Сыр Laime полутвердый классический 50% 125 г",
+    "cleanTokens": [
+      "сыр",
+      "полутвердый",
+      "классический"
+    ],
+    "normalizedTokens": [
+      "сыр",
+      "полутвердый",
+      "классический",
+      "50%",
+      "125 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "125 г",
+      "count": null,
+      "pack": null,
+      "percent": "50%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Сыр Сочинский рассольный ассорти 40% 100 г",
+    "cleanTokens": [
+      "сыр",
+      "рассольный",
+      "ассорти"
+    ],
+    "normalizedTokens": [
+      "сыр",
+      "рассольный",
+      "ассорти",
+      "40%",
+      "100 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "100 г",
+      "count": null,
+      "pack": null,
+      "percent": "40%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Сыр Laime твердый пармезан 40% 185 г",
+    "cleanTokens": [
+      "сыр",
+      "твердый",
+      "пармезан"
+    ],
+    "normalizedTokens": [
+      "сыр",
+      "твердый",
+      "пармезан",
+      "40%",
+      "185 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "185 г",
+      "count": null,
+      "pack": null,
+      "percent": "40%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Сыр KASEREI CHAMPIGNON Briette Creamy&Buttery Red мягкий с красной плесенью мягкий, с плесенью бриетте 60% 125 г",
+    "cleanTokens": [
+      "сыр",
+      "briette",
+      "creamy&buttery",
+      "red",
+      "мягкий",
+      "с",
+      "красной",
+      "плесенью",
+      "мягкий",
+      "с",
+      "плесенью",
+      "бриетте"
+    ],
+    "normalizedTokens": [
+      "сыр",
+      "briette",
+      "creamy&buttery",
+      "red",
+      "мягкий",
+      "с",
+      "красной",
+      "плесенью",
+      "мягкий",
+      "с",
+      "плесенью",
+      "бриетте",
+      "60%",
+      "125 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "125 г",
+      "count": null,
+      "pack": null,
+      "percent": "60%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Сыр Добрая Коза из козьего молока рассольный фета 40% 250 г",
+    "cleanTokens": [
+      "сыр",
+      "из",
+      "козьего",
+      "молока",
+      "рассольный",
+      "фета"
+    ],
+    "normalizedTokens": [
+      "сыр",
+      "из",
+      "козьего",
+      "молока",
+      "рассольный",
+      "фета",
+      "40%",
+      "250 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "250 г",
+      "count": null,
+      "pack": null,
+      "percent": "40%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Сыр Boni Spa Parmigiano Reggiano твердый пармезан 35% 150 г",
+    "cleanTokens": [
+      "сыр",
+      "parmigiano",
+      "reggiano",
+      "твердый",
+      "пармезан"
+    ],
+    "normalizedTokens": [
+      "сыр",
+      "parmigiano",
+      "reggiano",
+      "твердый",
+      "пармезан",
+      "35%",
+      "150 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "150 г",
+      "count": null,
+      "pack": null,
+      "percent": "35%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Сыр Добрая Коза козий шевр в оливковом масле 40% 250 г",
+    "cleanTokens": [
+      "сыр",
+      "козий",
+      "шевр",
+      "в",
+      "оливковом",
+      "масле"
+    ],
+    "normalizedTokens": [
+      "сыр",
+      "козий",
+      "шевр",
+      "в",
+      "оливковом",
+      "масле",
+      "40%",
+      "250 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "250 г",
+      "count": null,
+      "pack": null,
+      "percent": "40%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Сыр Latteria Sociale Mantova твердый грана падано 35% 150 г",
+    "cleanTokens": [
+      "сыр",
+      "твердый",
+      "грана",
+      "падано"
+    ],
+    "normalizedTokens": [
+      "сыр",
+      "твердый",
+      "грана",
+      "падано",
+      "35%",
+      "150 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "150 г",
+      "count": null,
+      "pack": null,
+      "percent": "35%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Сыр Saint Agur плавленый, с плесенью блю 60% 150 г",
+    "cleanTokens": [
+      "сыр",
+      "плавленый",
+      "с",
+      "плесенью",
+      "блю"
+    ],
+    "normalizedTokens": [
+      "сыр",
+      "плавленый",
+      "с",
+      "плесенью",
+      "блю",
+      "60%",
+      "150 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "150 г",
+      "count": null,
+      "pack": null,
+      "percent": "60%",
+      "age": null,
+      "stars": null
+    }
+  }
+]

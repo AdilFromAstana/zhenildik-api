@@ -1,0 +1,590 @@
+[
+  {
+    "id": "034109d027ea54a6284d3f59",
+    "advertising_info": null,
+    "alcohol_permille": 0,
+    "allowed_delivery_methods": [
+      "homedelivery",
+      "takeaway",
+      "eatin"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 0,
+        "end_time": 86400000
+      }
+    ],
+    "barcode_gtin": "05449000329424",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "9e5bb6af30fb17267b3cacb8bba2ee93",
+    "description": "Насладитесь моментом с освежающим вкусом Fanta Лимонад! Идеальный размер, чтобы взять с собой или к перекусу. Упаковка пригодна для вторичной переработки. Добавьте в корзину прямо сейчас!",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": true,
+    "images": [
+      {
+        "url": "https://imageproxy.wolt.com/assets/6808e2fa37ab058cca266847",
+        "blurhash": "LUS$ibax.At8WZfQobj@tSj[ROae"
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": true,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "Fanta Напиток Газированный Лимонад 450Мл",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 51500,
+    "product_hierarchy_tags": [],
+    "purchasable_balance": 15,
+    "restrictions": [],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": false,
+    "tags": [],
+    "unit_info": "450 мл",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 114444,
+      "unit": "litre"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 12,
+    "vat_percentage_decimal": "12.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    },
+    "categories": [
+      "Соки, вода, напитки",
+      "Газировки, лимонады"
+    ]
+  },
+  {
+    "id": "90cf41878a3bd6dd80c7632c",
+    "advertising_info": null,
+    "alcohol_permille": 0,
+    "allowed_delivery_methods": [
+      "homedelivery",
+      "takeaway",
+      "eatin"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 0,
+        "end_time": 86400000
+      }
+    ],
+    "barcode_gtin": "05449000152831",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "3d528892b4870063f18bddee81d551d9",
+    "description": "Насладитесь моментом с освежающим вкусом Fanta Лимонад! Упаковка пригодна для вторичной переработки. Добавьте в корзину прямо сейчас!",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": true,
+    "images": [
+      {
+        "url": "https://imageproxy.wolt.com/assets/6808e29337ab058cca266704",
+        "blurhash": "LNS$lkf6?wt8t8fkWAayxwj[M_ae"
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": true,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "Fanta Напиток Газированный Лимонад 1Л",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 72500,
+    "product_hierarchy_tags": [],
+    "purchasable_balance": 9,
+    "restrictions": [],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": false,
+    "tags": [],
+    "unit_info": "1 л",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 72500,
+      "unit": "litre"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 12,
+    "vat_percentage_decimal": "12.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    },
+    "categories": [
+      "Соки, вода, напитки",
+      "Газировки, лимонады"
+    ]
+  },
+  {
+    "id": "6ee8558c6519c4908694fce3",
+    "advertising_info": null,
+    "alcohol_permille": 0,
+    "allowed_delivery_methods": [
+      "homedelivery",
+      "takeaway",
+      "eatin"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 0,
+        "end_time": 86400000
+      }
+    ],
+    "barcode_gtin": "05449000318725",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "c3ef49a3b616dca5bf75b48b527f192f",
+    "description": "Насладитесь моментом с освежающим вкусом Fanta Лимонад! Упаковка пригодна для вторичной переработки. Добавьте в корзину прямо сейчас!",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": true,
+    "images": [
+      {
+        "url": "https://imageproxy.wolt.com/assets/6808e2ca6f972db77b4cd7dc",
+        "blurhash": "LNS$idj[?wogt7j[V@ayxvfkM_ay"
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": true,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "Fanta Напиток Газированный Лимонад 1.75Л",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 90500,
+    "product_hierarchy_tags": [],
+    "purchasable_balance": 7,
+    "restrictions": [],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": true,
+    "tags": [],
+    "unit_info": "1,75 л",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 51714,
+      "unit": "litre"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 12,
+    "vat_percentage_decimal": "12.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    },
+    "categories": [
+      "Соки, вода, напитки",
+      "Газировки, лимонады"
+    ]
+  },
+  {
+    "id": "10df0aabd9f21ee9e8d8c319",
+    "advertising_info": null,
+    "alcohol_permille": 0,
+    "allowed_delivery_methods": [
+      "homedelivery",
+      "takeaway",
+      "eatin"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 0,
+        "end_time": 86400000
+      }
+    ],
+    "barcode_gtin": "04860019003302",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "3388f5babde4d70e47c8e07639d813c4",
+    "description": "Limonati от Borjomi-уникальные грузинские лимонады на основе минеральной воды BORJOMI и традиционных ингридиентов грузинского происхождения: выжимки тщательно отобранных фруктов, натуральных сладких фруктовых сиропов и трав.      Аджарский мандарин- кисло-сладкий вкус. Вкусный грузинский вкус с соком мандарина из Аджарии (Грузия).                                                      Эти лимонады прекрасно утоляют жажду и погружают в атмосферу Грузии благодаря сочному многогранному вкусу.",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": true,
+    "images": [
+      {
+        "url": "https://imageproxy.wolt.com/assets/6874d00fb83d2657955bea00",
+        "blurhash": "LJT9CaoJysozt8fRadf6o~fkVrf5"
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": true,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "Borjomi Limonati by Borjomi лимонад мандариновый 500мл",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 103000,
+    "product_hierarchy_tags": [],
+    "purchasable_balance": 105,
+    "restrictions": [],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": false,
+    "tags": [],
+    "unit_info": "500 г",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 206000,
+      "unit": "kilogram"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 12,
+    "vat_percentage_decimal": "12.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    },
+    "categories": [
+      "Соки, вода, напитки",
+      "Газировки, лимонады"
+    ]
+  },
+  {
+    "id": "2bc215997940397ee8a16990",
+    "advertising_info": null,
+    "alcohol_permille": 0,
+    "allowed_delivery_methods": [
+      "homedelivery",
+      "takeaway",
+      "eatin"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 0,
+        "end_time": 86400000
+      }
+    ],
+    "barcode_gtin": "04860019003364",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "e2eb6564b0ecac7392d4730d4d25a026",
+    "description": "Limonati от Borjomi-уникальные грузинские лимонады на основе минеральной воды BORJOMI и традиционных ингридиентов грузинского происхождения: выжимки тщательно отобранных фруктов, натуральных сладких фруктовых сиропов и трав.              Тархун- травяной и фруктовый вкус. Экстракт эстрагона и яблочный сок из Картли (Грузия).   Эти лимонады прекрасно утоляют жажду и погружают в атмосферу Грузии благодаря сочному многогранному вкусу.",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": true,
+    "images": [
+      {
+        "url": "https://imageproxy.wolt.com/assets/6874d00fb83d2657955bea03",
+        "blurhash": "LHSsELj@~Et7xbjuR%a{%3j[InWU"
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": true,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "Borjomi Limonati by Borjomi лимонад тархун 500мл",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 103000,
+    "product_hierarchy_tags": [],
+    "purchasable_balance": 50,
+    "restrictions": [],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": false,
+    "tags": [],
+    "unit_info": "500 г",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 206000,
+      "unit": "kilogram"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 12,
+    "vat_percentage_decimal": "12.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    },
+    "categories": [
+      "Соки, вода, напитки",
+      "Газировки, лимонады"
+    ]
+  },
+  {
+    "id": "16eb7996f8e53a2137d9355f",
+    "advertising_info": null,
+    "alcohol_permille": 0,
+    "allowed_delivery_methods": [
+      "homedelivery",
+      "takeaway",
+      "eatin"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 0,
+        "end_time": 86400000
+      }
+    ],
+    "barcode_gtin": "04860019003340",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "9f14b5397fd4d4293a947c856aa484ca",
+    "description": "Limonati от Borjomi-уникальные грузинские лимонады на основе минеральной воды BORJOMI и традиционных ингридиентов грузинского происхождения: выжимки тщательно отобранных фруктов, натуральных сладких фруктовых сиропов и трав.             Цитрус- кисло-сладкий вкус с солеными нотками. Освежающая смесь соков лайма, лимона и мандарина. Эти лимонады прекрасно утоляют жажду и погружают в атмосферу Грузии благодаря сочному многогранному вкусу.",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": true,
+    "images": [
+      {
+        "url": "https://imageproxy.wolt.com/assets/6874d00fb83d2657955bea02",
+        "blurhash": "LBT9Lyoe.At7t8fQadfPt9fRRhay"
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": true,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "Borjomi Limonati by Borjomi лимонад цитрусовый 500мл",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 103000,
+    "product_hierarchy_tags": [],
+    "purchasable_balance": 103,
+    "restrictions": [],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": false,
+    "tags": [],
+    "unit_info": "500 г",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 206000,
+      "unit": "kilogram"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 12,
+    "vat_percentage_decimal": "12.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    },
+    "categories": [
+      "Соки, вода, напитки",
+      "Газировки, лимонады"
+    ]
+  },
+  {
+    "id": "18d116cf15ae525b804efc7f",
+    "advertising_info": null,
+    "alcohol_permille": 0,
+    "allowed_delivery_methods": [
+      "homedelivery",
+      "takeaway",
+      "eatin"
+    ],
+    "available_times": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "start_time": 0,
+        "end_time": 86400000
+      }
+    ],
+    "barcode_gtin": "04860019003326",
+    "caffeine_info": null,
+    "can_be_promoted": {
+      "basket": true,
+      "venue": true,
+      "credits": true
+    },
+    "checksum": "c223ae01bd07495d13c1156a1a4b09d7",
+    "description": "Limonati от Borjomi-уникальные грузинские лимонады на основе минеральной воды BORJOMI и традиционных ингридиентов грузинского происхождения: выжимки тщательно отобранных фруктов, натуральных сладких фруктовых сиропов и трав.              Сладкая грузинская груша. С грушевым и яблочным соком из Картли (Грузия).                        Эти лимонады прекрасно утоляют жажду и погружают в атмосферу Грузии благодаря сочному многогранному вкусу.",
+    "deposit": null,
+    "dietary_preferences": [],
+    "disabled_info": null,
+    "fulfillment_lead_time": null,
+    "has_extra_info": true,
+    "images": [
+      {
+        "url": "https://imageproxy.wolt.com/assets/6874d00fb83d2657955bea01",
+        "blurhash": "LJS~t^j?%%ozt8fRWAf6tSfkROax"
+      }
+    ],
+    "is_cutlery": false,
+    "is_no_contact_delivery_allowed": true,
+    "is_wolt_plus_only": false,
+    "lowest_price": null,
+    "lowest_price_v2": null,
+    "max_quantity_per_purchase": null,
+    "min_quantity_per_purchase": null,
+    "name": "Borjomi Limonati by Borjomi лимонад грушевый 500мл",
+    "options": [],
+    "original_price": null,
+    "item_price_discount_validity_period": null,
+    "price": 103000,
+    "product_hierarchy_tags": [],
+    "purchasable_balance": 109,
+    "restrictions": [],
+    "return_policy": null,
+    "sell_by_weight_config": null,
+    "should_display_purchasable_balance": false,
+    "tags": [],
+    "unit_info": "500 г",
+    "unit_price": {
+      "base": 1,
+      "original_price": null,
+      "price": 206000,
+      "unit": "kilogram"
+    },
+    "variant": null,
+    "vat_category_code": null,
+    "vat_percentage": 12,
+    "vat_percentage_decimal": "12.0",
+    "external_compliance_link": null,
+    "consent_info": {
+      "ask_consent": false,
+      "blur_image": false
+    },
+    "categories": [
+      "Соки, вода, напитки",
+      "Газировки, лимонады"
+    ]
+  }
+]

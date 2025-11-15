@@ -1,0 +1,888 @@
+[
+  {
+    "original": "ITLV оливки без косточки 314 мл",
+    "cleanTokens": [
+      "без",
+      "косточки"
+    ],
+    "normalizedTokens": [
+      "без",
+      "косточки",
+      "314 мл"
+    ],
+    "params": {
+      "volume": "314 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "ITLV оливки с лимоном 314 мл",
+    "cleanTokens": [
+      "с",
+      "лимоном"
+    ],
+    "normalizedTokens": [
+      "с",
+      "лимоном",
+      "314 мл"
+    ],
+    "params": {
+      "volume": "314 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Maestro de Oliva оливки без косточки 314 мл",
+    "cleanTokens": [
+      "без",
+      "косточки"
+    ],
+    "normalizedTokens": [
+      "без",
+      "косточки",
+      "314 мл"
+    ],
+    "params": {
+      "volume": "314 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "MAKARENA маслины без косточки 300 мл",
+    "cleanTokens": [
+      "без",
+      "косточки"
+    ],
+    "normalizedTokens": [
+      "без",
+      "косточки",
+      "300 мл"
+    ],
+    "params": {
+      "volume": "300 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Bonduelle маслины с лососем 314 мл",
+    "cleanTokens": [
+      "с",
+      "лососем"
+    ],
+    "normalizedTokens": [
+      "с",
+      "лососем",
+      "314 мл"
+    ],
+    "params": {
+      "volume": "314 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "ITLV оливки с косточкой 314 мл",
+    "cleanTokens": [
+      "с",
+      "косточкой"
+    ],
+    "normalizedTokens": [
+      "с",
+      "косточкой",
+      "314 мл"
+    ],
+    "params": {
+      "volume": "314 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Bonduelle маслины с сыром 314 мл",
+    "cleanTokens": [
+      "с",
+      "сыром"
+    ],
+    "normalizedTokens": [
+      "с",
+      "сыром",
+      "314 мл"
+    ],
+    "params": {
+      "volume": "314 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Iberica маслины без косточки 200 г",
+    "cleanTokens": [
+      "без",
+      "косточки"
+    ],
+    "normalizedTokens": [
+      "без",
+      "косточки",
+      "200 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "200 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "MAKARENA маслины Premium без косточки 370 мл",
+    "cleanTokens": [
+      "premium",
+      "без",
+      "косточки"
+    ],
+    "normalizedTokens": [
+      "premium",
+      "без",
+      "косточки",
+      "370 мл"
+    ],
+    "params": {
+      "volume": "370 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "MAKARENA маслины Bravo pitted black olives 370 мл",
+    "cleanTokens": [
+      "bravo",
+      "pitted",
+      "black",
+      "olives"
+    ],
+    "normalizedTokens": [
+      "bravo",
+      "pitted",
+      "black",
+      "olives",
+      "370 мл"
+    ],
+    "params": {
+      "volume": "370 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Bonduelle оливки без косточки 200 г",
+    "cleanTokens": [
+      "без",
+      "косточки"
+    ],
+    "normalizedTokens": [
+      "без",
+      "косточки",
+      "200 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "200 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "ITLV маслины Selecto с косточкой 370 г",
+    "cleanTokens": [
+      "selecto",
+      "с",
+      "косточкой"
+    ],
+    "normalizedTokens": [
+      "selecto",
+      "с",
+      "косточкой",
+      "370 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "370 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "MAKARENA оливки без косточки 280 г",
+    "cleanTokens": [
+      "без",
+      "косточки"
+    ],
+    "normalizedTokens": [
+      "без",
+      "косточки",
+      "280 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "280 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "ITLV оливки с креветками 314 мл",
+    "cleanTokens": [
+      "с",
+      "креветками"
+    ],
+    "normalizedTokens": [
+      "с",
+      "креветками",
+      "314 мл"
+    ],
+    "params": {
+      "volume": "314 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Bonduelle оливки с трюфелем 244 мл",
+    "cleanTokens": [
+      "с",
+      "трюфелем"
+    ],
+    "normalizedTokens": [
+      "с",
+      "трюфелем",
+      "244 мл"
+    ],
+    "params": {
+      "volume": "244 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "MAKARENA оливки с лососем 300 г",
+    "cleanTokens": [
+      "с",
+      "лососем"
+    ],
+    "normalizedTokens": [
+      "с",
+      "лососем",
+      "300 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "300 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "MAKARENA оливки с лимоном 300 г",
+    "cleanTokens": [
+      "с",
+      "лимоном"
+    ],
+    "normalizedTokens": [
+      "с",
+      "лимоном",
+      "300 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "300 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Bonduelle оливки с вяленными томатами без косточки 200 г",
+    "cleanTokens": [
+      "с",
+      "вяленными",
+      "томатами",
+      "без",
+      "косточки"
+    ],
+    "normalizedTokens": [
+      "с",
+      "вяленными",
+      "томатами",
+      "без",
+      "косточки",
+      "200 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "200 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Bonduelle оливки без косточки с мятой 200 г",
+    "cleanTokens": [
+      "без",
+      "косточки",
+      "с",
+      "мятой"
+    ],
+    "normalizedTokens": [
+      "без",
+      "косточки",
+      "с",
+      "мятой",
+      "200 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "200 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Filippo Berio маслины без косточки 300 мл",
+    "cleanTokens": [
+      "без",
+      "косточки"
+    ],
+    "normalizedTokens": [
+      "без",
+      "косточки",
+      "300 мл"
+    ],
+    "params": {
+      "volume": "300 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "OLIBEN оливки крупные без косточки 290 г",
+    "cleanTokens": [
+      "крупные",
+      "без",
+      "косточки"
+    ],
+    "normalizedTokens": [
+      "крупные",
+      "без",
+      "косточки",
+      "290 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "290 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Delphi маслины с косточкой 820 г",
+    "cleanTokens": [
+      "с",
+      "косточкой"
+    ],
+    "normalizedTokens": [
+      "с",
+      "косточкой",
+      "820 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "820 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Filippo Berio оливки с лимоном 300 г",
+    "cleanTokens": [
+      "с",
+      "лимоном"
+    ],
+    "normalizedTokens": [
+      "с",
+      "лимоном",
+      "300 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "300 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Filippo Berio оливки без косточки 300 г",
+    "cleanTokens": [
+      "без",
+      "косточки"
+    ],
+    "normalizedTokens": [
+      "без",
+      "косточки",
+      "300 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "300 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Filippo Berio оливки с перцем 300 г",
+    "cleanTokens": [
+      "с",
+      "перцем"
+    ],
+    "normalizedTokens": [
+      "с",
+      "перцем",
+      "300 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "300 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Filippo Berio оливки с анчоусами 300 г",
+    "cleanTokens": [
+      "с",
+      "анчоусами"
+    ],
+    "normalizedTokens": [
+      "с",
+      "анчоусами",
+      "300 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "300 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Lorezza маслины без косточки 3100 г",
+    "cleanTokens": [
+      "без",
+      "косточки"
+    ],
+    "normalizedTokens": [
+      "без",
+      "косточки",
+      "3100 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "3100 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Delphi маслины Black Pitted Olives 820 г",
+    "cleanTokens": [
+      "black",
+      "pitted",
+      "olives"
+    ],
+    "normalizedTokens": [
+      "black",
+      "pitted",
+      "olives",
+      "820 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "820 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Filippo Berio оливки с лососем 300 г",
+    "cleanTokens": [
+      "с",
+      "лососем"
+    ],
+    "normalizedTokens": [
+      "с",
+      "лососем",
+      "300 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "300 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Delicias каперсы 100 г",
+    "cleanTokens": [
+      "каперсы"
+    ],
+    "normalizedTokens": [
+      "каперсы",
+      "100 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "100 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Filippo Berio оливки с креветками 300 г",
+    "cleanTokens": [
+      "с",
+      "креветками"
+    ],
+    "normalizedTokens": [
+      "с",
+      "креветками",
+      "300 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "300 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Delphi оливки Green Pitted Olives 820 г",
+    "cleanTokens": [
+      "green",
+      "pitted",
+      "olives"
+    ],
+    "normalizedTokens": [
+      "green",
+      "pitted",
+      "olives",
+      "820 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "820 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Lorezza маслины без косточки 90 г",
+    "cleanTokens": [
+      "без",
+      "косточки"
+    ],
+    "normalizedTokens": [
+      "без",
+      "косточки",
+      "90 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "90 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Delphi оливки с косточкой 820 г",
+    "cleanTokens": [
+      "с",
+      "косточкой"
+    ],
+    "normalizedTokens": [
+      "с",
+      "косточкой",
+      "820 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "820 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Delphi маслины Superior с косточкой в рассоле 420 г",
+    "cleanTokens": [
+      "superior",
+      "с",
+      "косточкой",
+      "в",
+      "рассоле"
+    ],
+    "normalizedTokens": [
+      "superior",
+      "с",
+      "косточкой",
+      "в",
+      "рассоле",
+      "420 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "420 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Suntat оливки с косточкой 820 г",
+    "cleanTokens": [
+      "с",
+      "косточкой"
+    ],
+    "normalizedTokens": [
+      "с",
+      "косточкой",
+      "820 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "820 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Filippo Berio оливки с тунцом 300 г",
+    "cleanTokens": [
+      "с",
+      "тунцом"
+    ],
+    "normalizedTokens": [
+      "с",
+      "тунцом",
+      "300 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "300 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Delphi оливки маринованные с косточкой с оливковым маслом 250 г",
+    "cleanTokens": [
+      "маринованные",
+      "с",
+      "косточкой",
+      "с",
+      "оливковым",
+      "маслом"
+    ],
+    "normalizedTokens": [
+      "маринованные",
+      "с",
+      "косточкой",
+      "с",
+      "оливковым",
+      "маслом",
+      "250 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "250 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Delphi оливки с косточкой в рассоле 420 г",
+    "cleanTokens": [
+      "с",
+      "косточкой",
+      "в",
+      "рассоле"
+    ],
+    "normalizedTokens": [
+      "с",
+      "косточкой",
+      "в",
+      "рассоле",
+      "420 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "420 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Delphi оливки без косточек в рассоле Superior 420 г",
+    "cleanTokens": [
+      "без",
+      "косточек",
+      "в",
+      "рассоле",
+      "superior"
+    ],
+    "normalizedTokens": [
+      "без",
+      "косточек",
+      "в",
+      "рассоле",
+      "superior",
+      "420 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "420 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  }
+]

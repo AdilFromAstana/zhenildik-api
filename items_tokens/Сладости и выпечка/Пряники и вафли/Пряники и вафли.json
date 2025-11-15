@@ -1,0 +1,1648 @@
+[
+  {
+    "original": "Twix трубочки Crispy Rolls со вкусом карамели, покрытые молочным шоколадом 22.5 г",
+    "cleanTokens": [
+      "трубочки",
+      "crispy",
+      "rolls",
+      "со",
+      "вкусом",
+      "карамели",
+      "покрытые",
+      "молочным",
+      "шоколадом"
+    ],
+    "normalizedTokens": [
+      "трубочки",
+      "crispy",
+      "rolls",
+      "со",
+      "вкусом",
+      "карамели",
+      "покрытые",
+      "молочным",
+      "шоколадом",
+      "22.5 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "22.5 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Султан вафли со вкусом банана 400 г",
+    "cleanTokens": [
+      "со",
+      "вкусом",
+      "банана"
+    ],
+    "normalizedTokens": [
+      "со",
+      "вкусом",
+      "банана",
+      "400 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "400 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Milky Way трубочки Crispy Rolls с кремовой начинкой покрытые молочным шоколадом 22.5 г",
+    "cleanTokens": [
+      "трубочки",
+      "crispy",
+      "rolls",
+      "с",
+      "кремовой",
+      "начинкой",
+      "покрытые",
+      "молочным",
+      "шоколадом"
+    ],
+    "normalizedTokens": [
+      "трубочки",
+      "crispy",
+      "rolls",
+      "с",
+      "кремовой",
+      "начинкой",
+      "покрытые",
+      "молочным",
+      "шоколадом",
+      "22.5 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "22.5 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Султан вафли пломбир 400 г",
+    "cleanTokens": [
+      "пломбир"
+    ],
+    "normalizedTokens": [
+      "пломбир",
+      "400 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "400 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Султан вафли лимонные 400 г",
+    "cleanTokens": [
+      "лимонные"
+    ],
+    "normalizedTokens": [
+      "лимонные",
+      "400 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "400 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Яшкино вафли ореховые 200 г",
+    "cleanTokens": [
+      "ореховые"
+    ],
+    "normalizedTokens": [
+      "ореховые",
+      "200 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "200 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Султан вафли с какао 400 г",
+    "cleanTokens": [
+      "с",
+      "какао"
+    ],
+    "normalizedTokens": [
+      "с",
+      "какао",
+      "400 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "400 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "БКК пряники с вареной сгущенкой 500 г",
+    "cleanTokens": [
+      "с",
+      "вареной",
+      "сгущенкой"
+    ],
+    "normalizedTokens": [
+      "с",
+      "вареной",
+      "сгущенкой",
+      "500 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "500 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Султан вафли с нугой 400 г",
+    "cleanTokens": [
+      "с",
+      "нугой"
+    ],
+    "normalizedTokens": [
+      "с",
+      "нугой",
+      "400 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "400 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "SULTAN вафли крем- брюле 400 г",
+    "cleanTokens": [
+      "крем-",
+      "брюле"
+    ],
+    "normalizedTokens": [
+      "крем-",
+      "брюле",
+      "400 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "400 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "SULTAN вафли сливочные 400 г",
+    "cleanTokens": [
+      "сливочные"
+    ],
+    "normalizedTokens": [
+      "сливочные",
+      "400 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "400 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "БКК пряники пряники вишня 500 г",
+    "cleanTokens": [
+      "вишня"
+    ],
+    "normalizedTokens": [
+      "вишня",
+      "500 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "500 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "БКК пряники шоколадные, ореховые 500 г",
+    "cleanTokens": [
+      "шоколадные",
+      "ореховые"
+    ],
+    "normalizedTokens": [
+      "шоколадные",
+      "ореховые",
+      "500 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "500 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Султан вафли сюрприз ароматизированные 400 г",
+    "cleanTokens": [
+      "сюрприз",
+      "ароматизированные"
+    ],
+    "normalizedTokens": [
+      "сюрприз",
+      "ароматизированные",
+      "400 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "400 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "БКК пряники клубничные 500 г",
+    "cleanTokens": [
+      "клубничные"
+    ],
+    "normalizedTokens": [
+      "клубничные",
+      "500 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "500 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "БКК пряники абрикосовые 500 г",
+    "cleanTokens": [
+      "абрикосовые"
+    ],
+    "normalizedTokens": [
+      "абрикосовые",
+      "500 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "500 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "KINDER вафли bueno White 117 г 3 шт",
+    "cleanTokens": [
+      "bueno",
+      "white"
+    ],
+    "normalizedTokens": [
+      "bueno",
+      "white",
+      "117 г",
+      "3 шт"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "117 г",
+      "count": "3 шт",
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Bounty трубочки Crispy Rolls с кремовой начинкой со вкусом кокоса, покрытые молочным шоколадом и кокосовой стружкой 23.4 г",
+    "cleanTokens": [
+      "трубочки",
+      "crispy",
+      "rolls",
+      "с",
+      "кремовой",
+      "начинкой",
+      "со",
+      "вкусом",
+      "кокоса",
+      "покрытые",
+      "молочным",
+      "шоколадом",
+      "кокосовой",
+      "стружкой"
+    ],
+    "normalizedTokens": [
+      "трубочки",
+      "crispy",
+      "rolls",
+      "с",
+      "кремовой",
+      "начинкой",
+      "со",
+      "вкусом",
+      "кокоса",
+      "покрытые",
+      "молочным",
+      "шоколадом",
+      "кокосовой",
+      "стружкой",
+      "23.4 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "23.4 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Яшкино вафли тонкие с клубничным вкусом 144 г",
+    "cleanTokens": [
+      "тонкие",
+      "с",
+      "клубничным",
+      "вкусом"
+    ],
+    "normalizedTokens": [
+      "тонкие",
+      "с",
+      "клубничным",
+      "вкусом",
+      "144 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "144 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Яшкино пряники мятные 350 г",
+    "cleanTokens": [
+      "мятные"
+    ],
+    "normalizedTokens": [
+      "мятные",
+      "350 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "350 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Adalai трубочки вафельные сливочный 300 г",
+    "cleanTokens": [
+      "трубочки",
+      "вафельные",
+      "сливочный"
+    ],
+    "normalizedTokens": [
+      "трубочки",
+      "вафельные",
+      "сливочный",
+      "300 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "300 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Adalai трубочки вафельные со сгущенкой 300 г",
+    "cleanTokens": [
+      "трубочки",
+      "вафельные",
+      "со",
+      "сгущенкой"
+    ],
+    "normalizedTokens": [
+      "трубочки",
+      "вафельные",
+      "со",
+      "сгущенкой",
+      "300 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "300 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Яшкино вафли сливочные 300 г",
+    "cleanTokens": [
+      "сливочные"
+    ],
+    "normalizedTokens": [
+      "сливочные",
+      "300 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "300 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Яшкино пряники шоколадные 350 г",
+    "cleanTokens": [
+      "шоколадные"
+    ],
+    "normalizedTokens": [
+      "шоколадные",
+      "350 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "350 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Яшкино вафли мягкие с вишневым джемом 120 г",
+    "cleanTokens": [
+      "мягкие",
+      "с",
+      "вишневым",
+      "джемом"
+    ],
+    "normalizedTokens": [
+      "мягкие",
+      "с",
+      "вишневым",
+      "джемом",
+      "120 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "120 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Яшкино вафли с вареной сгущенкой 300 г",
+    "cleanTokens": [
+      "с",
+      "вареной",
+      "сгущенкой"
+    ],
+    "normalizedTokens": [
+      "с",
+      "вареной",
+      "сгущенкой",
+      "300 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "300 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Яшкино вафли мягкие с шоколадным кремом 120 г",
+    "cleanTokens": [
+      "мягкие",
+      "с",
+      "шоколадным",
+      "кремом"
+    ],
+    "normalizedTokens": [
+      "мягкие",
+      "с",
+      "шоколадным",
+      "кремом",
+      "120 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "120 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Яшкино вафли сгущенное молоко 120 г",
+    "cleanTokens": [
+      "сгущенное",
+      "молоко"
+    ],
+    "normalizedTokens": [
+      "сгущенное",
+      "молоко",
+      "120 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "120 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "KINDER вафли bueno mini 97.2 г",
+    "cleanTokens": [
+      "bueno",
+      "mini"
+    ],
+    "normalizedTokens": [
+      "bueno",
+      "mini",
+      "97.2 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "97.2 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Яшкино трубочки ореховые 190 г",
+    "cleanTokens": [
+      "трубочки",
+      "ореховые"
+    ],
+    "normalizedTokens": [
+      "трубочки",
+      "ореховые",
+      "190 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "190 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Яшкино вафли шоколадные 300 г",
+    "cleanTokens": [
+      "шоколадные"
+    ],
+    "normalizedTokens": [
+      "шоколадные",
+      "300 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "300 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Яшкино вафли с кокосовым кремом 144 г",
+    "cleanTokens": [
+      "с",
+      "кокосовым",
+      "кремом"
+    ],
+    "normalizedTokens": [
+      "с",
+      "кокосовым",
+      "кремом",
+      "144 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "144 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Яшкино пряники с вишней 350 г",
+    "cleanTokens": [
+      "с",
+      "вишней"
+    ],
+    "normalizedTokens": [
+      "с",
+      "вишней",
+      "350 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "350 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Bitey вафли фруктово-овощные манго и морковь 35 г",
+    "cleanTokens": [
+      "фруктово-овощные",
+      "манго",
+      "морковь"
+    ],
+    "normalizedTokens": [
+      "фруктово-овощные",
+      "манго",
+      "морковь",
+      "35 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "35 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Яшкино пряники мини со вкусом сгущенного молока 300 г",
+    "cleanTokens": [
+      "мини",
+      "со",
+      "вкусом",
+      "сгущенного",
+      "молока"
+    ],
+    "normalizedTokens": [
+      "мини",
+      "со",
+      "вкусом",
+      "сгущенного",
+      "молока",
+      "300 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "300 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Яшкино вафли ореховые 300 г",
+    "cleanTokens": [
+      "ореховые"
+    ],
+    "normalizedTokens": [
+      "ореховые",
+      "300 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "300 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Bitey вафли фруктово-овощные груша и брокколи 35 г",
+    "cleanTokens": [
+      "фруктово-овощные",
+      "груша",
+      "брокколи"
+    ],
+    "normalizedTokens": [
+      "фруктово-овощные",
+      "груша",
+      "брокколи",
+      "35 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "35 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Loacker вафли Vanille ванильные 90 г",
+    "cleanTokens": [
+      "vanille",
+      "ванильные"
+    ],
+    "normalizedTokens": [
+      "vanille",
+      "ванильные",
+      "90 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "90 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Bitey вафли шоколадные 35 г",
+    "cleanTokens": [
+      "шоколадные"
+    ],
+    "normalizedTokens": [
+      "шоколадные",
+      "35 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "35 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Яшкино вафли тонкие с молочным кремом и какао 143 г",
+    "cleanTokens": [
+      "тонкие",
+      "с",
+      "молочным",
+      "кремом",
+      "какао"
+    ],
+    "normalizedTokens": [
+      "тонкие",
+      "с",
+      "молочным",
+      "кремом",
+      "какао",
+      "143 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "143 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Bitey вафли фруктово-овощные вишня и свекла 35 г",
+    "cleanTokens": [
+      "фруктово-овощные",
+      "вишня",
+      "свекла"
+    ],
+    "normalizedTokens": [
+      "фруктово-овощные",
+      "вишня",
+      "свекла",
+      "35 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "35 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Bite вафли белый чай, личи, без сахара 30 г",
+    "cleanTokens": [
+      "bite",
+      "белый",
+      "чай",
+      "личи",
+      "без",
+      "сахара"
+    ],
+    "normalizedTokens": [
+      "bite",
+      "белый",
+      "чай",
+      "личи",
+      "без",
+      "сахара",
+      "30 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "30 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Яшкино вафли с халвой 300 г",
+    "cleanTokens": [
+      "с",
+      "халвой"
+    ],
+    "normalizedTokens": [
+      "с",
+      "халвой",
+      "300 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "300 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Яшкино вафли с карамельной начинкой 165 г",
+    "cleanTokens": [
+      "с",
+      "карамельной",
+      "начинкой"
+    ],
+    "normalizedTokens": [
+      "с",
+      "карамельной",
+      "начинкой",
+      "165 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "165 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Яшкино вафли голландские со сгущенкой 165 г",
+    "cleanTokens": [
+      "голландские",
+      "со",
+      "сгущенкой"
+    ],
+    "normalizedTokens": [
+      "голландские",
+      "со",
+      "сгущенкой",
+      "165 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "165 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "KINDER вафли Happy Hippo с ореховым кремом 103 г",
+    "cleanTokens": [
+      "happy",
+      "hippo",
+      "с",
+      "ореховым",
+      "кремом"
+    ],
+    "normalizedTokens": [
+      "happy",
+      "hippo",
+      "с",
+      "ореховым",
+      "кремом",
+      "103 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "103 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Яшкино пряники ягодный 300 г",
+    "cleanTokens": [
+      "ягодный"
+    ],
+    "normalizedTokens": [
+      "ягодный",
+      "300 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "300 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Яшкино вафли Вафельный сэндвич с какао и молочной начинкой 168 г",
+    "cleanTokens": [
+      "вафельный",
+      "сэндвич",
+      "с",
+      "какао",
+      "молочной",
+      "начинкой"
+    ],
+    "normalizedTokens": [
+      "вафельный",
+      "сэндвич",
+      "с",
+      "какао",
+      "молочной",
+      "начинкой",
+      "168 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "168 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Milka вафли шоколадные 150 г",
+    "cleanTokens": [
+      "шоколадные"
+    ],
+    "normalizedTokens": [
+      "шоколадные",
+      "150 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "150 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Лаконд трубочки Бамбураш без сахара шоколадные 140 г",
+    "cleanTokens": [
+      "трубочки",
+      "бамбураш",
+      "без",
+      "сахара",
+      "шоколадные"
+    ],
+    "normalizedTokens": [
+      "трубочки",
+      "бамбураш",
+      "без",
+      "сахара",
+      "шоколадные",
+      "140 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "140 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Яшкино вафли вафельный сэндвич с ореховой начинкой 168 г",
+    "cleanTokens": [
+      "вафельный",
+      "сэндвич",
+      "с",
+      "ореховой",
+      "начинкой"
+    ],
+    "normalizedTokens": [
+      "вафельный",
+      "сэндвич",
+      "с",
+      "ореховой",
+      "начинкой",
+      "168 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "168 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Milka вафли шоколадные 32 г",
+    "cleanTokens": [
+      "шоколадные"
+    ],
+    "normalizedTokens": [
+      "шоколадные",
+      "32 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "32 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "KINDER вафли Hippo Cocoa со сливочной начинкой 103 г",
+    "cleanTokens": [
+      "hippo",
+      "cocoa",
+      "со",
+      "сливочной",
+      "начинкой"
+    ],
+    "normalizedTokens": [
+      "hippo",
+      "cocoa",
+      "со",
+      "сливочной",
+      "начинкой",
+      "103 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "103 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Яшкино вафли шоколадный 250 г",
+    "cleanTokens": [
+      "шоколадный"
+    ],
+    "normalizedTokens": [
+      "шоколадный",
+      "250 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "250 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Bitey вафли в глазури без сахара 35 г",
+    "cleanTokens": [
+      "в",
+      "глазури",
+      "без",
+      "сахара"
+    ],
+    "normalizedTokens": [
+      "в",
+      "глазури",
+      "без",
+      "сахара",
+      "35 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "35 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Caprice вафли венские с фундуком и шоколадным кремом 250 г",
+    "cleanTokens": [
+      "венские",
+      "с",
+      "фундуком",
+      "шоколадным",
+      "кремом"
+    ],
+    "normalizedTokens": [
+      "венские",
+      "с",
+      "фундуком",
+      "шоколадным",
+      "кремом",
+      "250 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "250 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Лаконд трубочки Бамбураш без сахара со вкусом сливочного десерта 140 г",
+    "cleanTokens": [
+      "трубочки",
+      "бамбураш",
+      "без",
+      "сахара",
+      "со",
+      "вкусом",
+      "сливочного",
+      "десерта"
+    ],
+    "normalizedTokens": [
+      "трубочки",
+      "бамбураш",
+      "без",
+      "сахара",
+      "со",
+      "вкусом",
+      "сливочного",
+      "десерта",
+      "140 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "140 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Loacker вафли с орехами 90 г",
+    "cleanTokens": [
+      "с",
+      "орехами"
+    ],
+    "normalizedTokens": [
+      "с",
+      "орехами",
+      "90 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "90 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Яшкино вафли шоколадные 200 г",
+    "cleanTokens": [
+      "шоколадные"
+    ],
+    "normalizedTokens": [
+      "шоколадные",
+      "200 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "200 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "KINDER вафли Bueno White Bueno с молочно-ореховой начинкой 39 г",
+    "cleanTokens": [
+      "bueno",
+      "white",
+      "bueno",
+      "с",
+      "молочно-ореховой",
+      "начинкой"
+    ],
+    "normalizedTokens": [
+      "bueno",
+      "white",
+      "bueno",
+      "с",
+      "молочно-ореховой",
+      "начинкой",
+      "39 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "39 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Milka вафли Choco Wafer Hazelnut 30 г",
+    "cleanTokens": [
+      "choco",
+      "wafer",
+      "hazelnut"
+    ],
+    "normalizedTokens": [
+      "choco",
+      "wafer",
+      "hazelnut",
+      "30 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "30 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Яшкино вафли ореховые 300 г",
+    "cleanTokens": [
+      "ореховые"
+    ],
+    "normalizedTokens": [
+      "ореховые",
+      "300 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "300 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Loacker вафли с какао 90 г",
+    "cleanTokens": [
+      "с",
+      "какао"
+    ],
+    "normalizedTokens": [
+      "с",
+      "какао",
+      "90 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "90 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Caprice трубочки венские с ванильным кремом 250 г",
+    "cleanTokens": [
+      "трубочки",
+      "венские",
+      "с",
+      "ванильным",
+      "кремом"
+    ],
+    "normalizedTokens": [
+      "трубочки",
+      "венские",
+      "с",
+      "ванильным",
+      "кремом",
+      "250 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "250 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Bite вафли шоколад, фундук, без сахара 30 г",
+    "cleanTokens": [
+      "bite",
+      "шоколад",
+      "фундук",
+      "без",
+      "сахара"
+    ],
+    "normalizedTokens": [
+      "bite",
+      "шоколад",
+      "фундук",
+      "без",
+      "сахара",
+      "30 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "30 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Яшкино вафли лимон-лайм 300 г",
+    "cleanTokens": [
+      "лимон-лайм"
+    ],
+    "normalizedTokens": [
+      "лимон-лайм",
+      "300 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "300 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Oreo трубочки Chocolate вафельные 54 г",
+    "cleanTokens": [
+      "трубочки",
+      "chocolate",
+      "вафельные"
+    ],
+    "normalizedTokens": [
+      "трубочки",
+      "chocolate",
+      "вафельные",
+      "54 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "54 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Яшкино вафли сэндвич 180 г",
+    "cleanTokens": [
+      "сэндвич"
+    ],
+    "normalizedTokens": [
+      "сэндвич",
+      "180 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "180 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Oreo трубочки Vanilla вафельные 54 г",
+    "cleanTokens": [
+      "трубочки",
+      "vanilla",
+      "вафельные"
+    ],
+    "normalizedTokens": [
+      "трубочки",
+      "vanilla",
+      "вафельные",
+      "54 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "54 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Bitey вафли в глазури апельсин без сахара 35 г",
+    "cleanTokens": [
+      "в",
+      "глазури",
+      "апельсин",
+      "без",
+      "сахара"
+    ],
+    "normalizedTokens": [
+      "в",
+      "глазури",
+      "апельсин",
+      "без",
+      "сахара",
+      "35 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "35 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "KINDER вафли Happy Hippo Hazelnuss 20.7 г",
+    "cleanTokens": [
+      "happy",
+      "hippo",
+      "hazelnuss"
+    ],
+    "normalizedTokens": [
+      "happy",
+      "hippo",
+      "hazelnuss",
+      "20.7 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "20.7 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  }
+]

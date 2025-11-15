@@ -1,0 +1,2983 @@
+[
+  {
+    "original": "ХРУТКА готовый завтрак Duo шоколадные шарики 460 г",
+    "cleanTokens": [
+      "готовый",
+      "завтрак",
+      "duo",
+      "шоколадные",
+      "шарики"
+    ],
+    "normalizedTokens": [
+      "готовый",
+      "завтрак",
+      "duo",
+      "шоколадные",
+      "шарики",
+      "460 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "460 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "ЦАРЬ хлопья геркулес овсяные 400 г",
+    "cleanTokens": [
+      "геркулес",
+      "овсяные"
+    ],
+    "normalizedTokens": [
+      "геркулес",
+      "овсяные",
+      "400 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "400 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "ХРУТКА хлопья медовые хлопья 270 г",
+    "cleanTokens": [
+      "медовые"
+    ],
+    "normalizedTokens": [
+      "медовые",
+      "270 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "270 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "ЦЕСНА хлопья овсяные 400 г",
+    "cleanTokens": [
+      "овсяные"
+    ],
+    "normalizedTokens": [
+      "овсяные",
+      "400 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "400 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "ХИТ хлопья кукурузные без сахара 150 г",
+    "cleanTokens": [
+      "кукурузные",
+      "без",
+      "сахара"
+    ],
+    "normalizedTokens": [
+      "кукурузные",
+      "без",
+      "сахара",
+      "150 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "150 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Nesquik готовый завтрак шоколадные шарики 460 г",
+    "cleanTokens": [
+      "готовый",
+      "завтрак",
+      "шоколадные",
+      "шарики"
+    ],
+    "normalizedTokens": [
+      "готовый",
+      "завтрак",
+      "шоколадные",
+      "шарики",
+      "460 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "460 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "ЦАРЬ хлопья овсяные экстра 400 г",
+    "cleanTokens": [
+      "овсяные",
+      "экстра"
+    ],
+    "normalizedTokens": [
+      "овсяные",
+      "экстра",
+      "400 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "400 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "ХРУТКА хлопья медовые луны и галактики 210 г",
+    "cleanTokens": [
+      "медовые",
+      "луны",
+      "и",
+      "галактики"
+    ],
+    "normalizedTokens": [
+      "медовые",
+      "луны",
+      "и",
+      "галактики",
+      "210 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "210 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Krosby готовый завтрак подушечки с шоколадной начинкой 250 г",
+    "cleanTokens": [
+      "готовый",
+      "завтрак",
+      "подушечки",
+      "с",
+      "шоколадной",
+      "начинкой"
+    ],
+    "normalizedTokens": [
+      "готовый",
+      "завтрак",
+      "подушечки",
+      "с",
+      "шоколадной",
+      "начинкой",
+      "250 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "250 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Ол Лайт гранола Ол'лайт с тропическими фруктами 280 г",
+    "cleanTokens": [
+      "гранола",
+      "ол'лайт",
+      "с",
+      "тропическими",
+      "фруктами"
+    ],
+    "normalizedTokens": [
+      "гранола",
+      "ол'лайт",
+      "с",
+      "тропическими",
+      "фруктами",
+      "280 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "280 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Арнау хлопья геркулес овсяные 3000 г",
+    "cleanTokens": [
+      "геркулес",
+      "овсяные"
+    ],
+    "normalizedTokens": [
+      "геркулес",
+      "овсяные",
+      "3000 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "3000 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Увелка хлопья овсяные мелкий размер 400 г",
+    "cleanTokens": [
+      "овсяные",
+      "мелкий",
+      "размер"
+    ],
+    "normalizedTokens": [
+      "овсяные",
+      "мелкий",
+      "размер",
+      "400 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "400 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Увелка хлопья Доброе утро 5 злаков 350 г",
+    "cleanTokens": [
+      "доброе",
+      "утро",
+      "5",
+      "злаков"
+    ],
+    "normalizedTokens": [
+      "доброе",
+      "утро",
+      "5",
+      "злаков",
+      "350 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "350 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "ЦАРЬ хлопья 6 злаков 400 г",
+    "cleanTokens": [
+      "6",
+      "злаков"
+    ],
+    "normalizedTokens": [
+      "6",
+      "злаков",
+      "400 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "400 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "MAKFA хлопья геркулес традиционный 400 г",
+    "cleanTokens": [
+      "геркулес",
+      "традиционный"
+    ],
+    "normalizedTokens": [
+      "геркулес",
+      "традиционный",
+      "400 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "400 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "ЦАРЬ хлопья 4 злака 400 г",
+    "cleanTokens": [
+      "4",
+      "злака"
+    ],
+    "normalizedTokens": [
+      "4",
+      "злака",
+      "400 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "400 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Ол Лайт хлопья хрустящая медовая с шоколадными орехами 280 г",
+    "cleanTokens": [
+      "хрустящая",
+      "медовая",
+      "с",
+      "шоколадными",
+      "орехами"
+    ],
+    "normalizedTokens": [
+      "хрустящая",
+      "медовая",
+      "с",
+      "шоколадными",
+      "орехами",
+      "280 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "280 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Увелка хлопья овсяные моментальные 400 г",
+    "cleanTokens": [
+      "овсяные",
+      "моментальные"
+    ],
+    "normalizedTokens": [
+      "овсяные",
+      "моментальные",
+      "400 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "400 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "ХРУТКА готовый завтрак медовые шарики 230 г",
+    "cleanTokens": [
+      "готовый",
+      "завтрак",
+      "медовые",
+      "шарики"
+    ],
+    "normalizedTokens": [
+      "готовый",
+      "завтрак",
+      "медовые",
+      "шарики",
+      "230 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "230 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Nesquik готовый завтрак Mix шоколадные шарики 225 г",
+    "cleanTokens": [
+      "готовый",
+      "завтрак",
+      "mix",
+      "шоколадные",
+      "шарики"
+    ],
+    "normalizedTokens": [
+      "готовый",
+      "завтрак",
+      "mix",
+      "шоколадные",
+      "шарики",
+      "225 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "225 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Nesquik готовый завтрак Mix шоколадные шарики 460 г",
+    "cleanTokens": [
+      "готовый",
+      "завтрак",
+      "mix",
+      "шоколадные",
+      "шарики"
+    ],
+    "normalizedTokens": [
+      "готовый",
+      "завтрак",
+      "mix",
+      "шоколадные",
+      "шарики",
+      "460 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "460 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "ЦАРЬ хлопья 3 злака 400 г",
+    "cleanTokens": [
+      "3",
+      "злака"
+    ],
+    "normalizedTokens": [
+      "3",
+      "злака",
+      "400 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "400 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "ХРУТКА готовый завтрак подушечки с шоколадной начинкой 250 г",
+    "cleanTokens": [
+      "готовый",
+      "завтрак",
+      "подушечки",
+      "с",
+      "шоколадной",
+      "начинкой"
+    ],
+    "normalizedTokens": [
+      "готовый",
+      "завтрак",
+      "подушечки",
+      "с",
+      "шоколадной",
+      "начинкой",
+      "250 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "250 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "ЦАРЬ хлопья 5 злаков 400 г",
+    "cleanTokens": [
+      "5",
+      "злаков"
+    ],
+    "normalizedTokens": [
+      "5",
+      "злаков",
+      "400 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "400 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Nesquik готовый завтрак шоколадные шарики 225 г",
+    "cleanTokens": [
+      "готовый",
+      "завтрак",
+      "шоколадные",
+      "шарики"
+    ],
+    "normalizedTokens": [
+      "готовый",
+      "завтрак",
+      "шоколадные",
+      "шарики",
+      "225 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "225 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Krosby готовый завтрак Вкусти Хрусти подушечки со сливочной начинкой 250 г",
+    "cleanTokens": [
+      "готовый",
+      "завтрак",
+      "вкусти",
+      "хрусти",
+      "подушечки",
+      "со",
+      "сливочной",
+      "начинкой"
+    ],
+    "normalizedTokens": [
+      "готовый",
+      "завтрак",
+      "вкусти",
+      "хрусти",
+      "подушечки",
+      "со",
+      "сливочной",
+      "начинкой",
+      "250 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "250 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Увелка хлопья овсяные традиционные 400 г",
+    "cleanTokens": [
+      "овсяные",
+      "традиционные"
+    ],
+    "normalizedTokens": [
+      "овсяные",
+      "традиционные",
+      "400 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "400 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "ЦАРЬ хлопья 6 злаков 400 г",
+    "cleanTokens": [
+      "6",
+      "злаков"
+    ],
+    "normalizedTokens": [
+      "6",
+      "злаков",
+      "400 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "400 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "ХИТ хлопья кукурузные хлопья медовые 150 г",
+    "cleanTokens": [
+      "кукурузные",
+      "медовые"
+    ],
+    "normalizedTokens": [
+      "кукурузные",
+      "медовые",
+      "150 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "150 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "ХИТ готовый завтрак кукурузный с карамелью 200 г",
+    "cleanTokens": [
+      "готовый",
+      "завтрак",
+      "кукурузный",
+      "с",
+      "карамелью"
+    ],
+    "normalizedTokens": [
+      "готовый",
+      "завтрак",
+      "кукурузный",
+      "с",
+      "карамелью",
+      "200 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "200 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "ХИТ готовый завтрак кукурузные шарки с шоколадом 200 г",
+    "cleanTokens": [
+      "готовый",
+      "завтрак",
+      "кукурузные",
+      "шарки",
+      "с",
+      "шоколадом"
+    ],
+    "normalizedTokens": [
+      "готовый",
+      "завтрак",
+      "кукурузные",
+      "шарки",
+      "с",
+      "шоколадом",
+      "200 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "200 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Ярмарка хлопья гречневые 350 г",
+    "cleanTokens": [
+      "гречневые"
+    ],
+    "normalizedTokens": [
+      "гречневые",
+      "350 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "350 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Krosby хлопья Honey Stars звездочки медовые 200 г",
+    "cleanTokens": [
+      "honey",
+      "stars",
+      "звездочки",
+      "медовые"
+    ],
+    "normalizedTokens": [
+      "honey",
+      "stars",
+      "звездочки",
+      "медовые",
+      "200 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "200 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "ХРУТКА готовый завтрак Алфавит 200 г",
+    "cleanTokens": [
+      "готовый",
+      "завтрак",
+      "алфавит"
+    ],
+    "normalizedTokens": [
+      "готовый",
+      "завтрак",
+      "алфавит",
+      "200 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "200 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "OhO! готовый завтрак пшеница со вкусом карамели 400 г",
+    "cleanTokens": [
+      "готовый",
+      "завтрак",
+      "пшеница",
+      "со",
+      "вкусом",
+      "карамели"
+    ],
+    "normalizedTokens": [
+      "готовый",
+      "завтрак",
+      "пшеница",
+      "со",
+      "вкусом",
+      "карамели",
+      "400 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "400 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "ХРУТКА готовый завтрак Банан 220 г",
+    "cleanTokens": [
+      "готовый",
+      "завтрак",
+      "банан"
+    ],
+    "normalizedTokens": [
+      "готовый",
+      "завтрак",
+      "банан",
+      "220 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "220 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Увелка хлопья 6 злаков 350 г",
+    "cleanTokens": [
+      "6",
+      "злаков"
+    ],
+    "normalizedTokens": [
+      "6",
+      "злаков",
+      "350 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "350 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Nesquik готовый завтрак шоколадные шарики 310 г",
+    "cleanTokens": [
+      "готовый",
+      "завтрак",
+      "шоколадные",
+      "шарики"
+    ],
+    "normalizedTokens": [
+      "готовый",
+      "завтрак",
+      "шоколадные",
+      "шарики",
+      "310 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "310 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "ХИТ хлопья кукурузные хлопья сахарные 150 г",
+    "cleanTokens": [
+      "кукурузные",
+      "сахарные"
+    ],
+    "normalizedTokens": [
+      "кукурузные",
+      "сахарные",
+      "150 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "150 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "OhO! готовый завтрак Cookie rings шоколадные колечки 140 г",
+    "cleanTokens": [
+      "готовый",
+      "завтрак",
+      "cookie",
+      "rings",
+      "шоколадные",
+      "колечки"
+    ],
+    "normalizedTokens": [
+      "готовый",
+      "завтрак",
+      "cookie",
+      "rings",
+      "шоколадные",
+      "колечки",
+      "140 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "140 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Nesquik готовый завтрак Mix шоколадные шарики 325 г",
+    "cleanTokens": [
+      "готовый",
+      "завтрак",
+      "mix",
+      "шоколадные",
+      "шарики"
+    ],
+    "normalizedTokens": [
+      "готовый",
+      "завтрак",
+      "mix",
+      "шоколадные",
+      "шарики",
+      "325 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "325 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "ХРУТКА готовый завтрак клубника-ваниль 375 г",
+    "cleanTokens": [
+      "готовый",
+      "завтрак",
+      "клубника-ваниль"
+    ],
+    "normalizedTokens": [
+      "готовый",
+      "завтрак",
+      "клубника-ваниль",
+      "375 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "375 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "OhO! готовый завтрак пшеница с медом 150 г",
+    "cleanTokens": [
+      "готовый",
+      "завтрак",
+      "пшеница",
+      "с",
+      "медом"
+    ],
+    "normalizedTokens": [
+      "готовый",
+      "завтрак",
+      "пшеница",
+      "с",
+      "медом",
+      "150 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "150 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Kellogg's готовый завтрак Krave подушечки с шоколадно-молочной начинкой 220 г",
+    "cleanTokens": [
+      "готовый",
+      "завтрак",
+      "krave",
+      "подушечки",
+      "с",
+      "шоколадно-молочной",
+      "начинкой"
+    ],
+    "normalizedTokens": [
+      "готовый",
+      "завтрак",
+      "krave",
+      "подушечки",
+      "с",
+      "шоколадно-молочной",
+      "начинкой",
+      "220 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "220 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Увелка хлопья овсяные с отрубями 400 г",
+    "cleanTokens": [
+      "овсяные",
+      "с",
+      "отрубями"
+    ],
+    "normalizedTokens": [
+      "овсяные",
+      "с",
+      "отрубями",
+      "400 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "400 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "OhO! готовый завтрак Fruity Froops фруктовые колечки 150 г",
+    "cleanTokens": [
+      "готовый",
+      "завтрак",
+      "fruity",
+      "froops",
+      "фруктовые",
+      "колечки"
+    ],
+    "normalizedTokens": [
+      "готовый",
+      "завтрак",
+      "fruity",
+      "froops",
+      "фруктовые",
+      "колечки",
+      "150 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "150 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "BIONOVA гранола запеченная ореховая 400 г",
+    "cleanTokens": [
+      "гранола",
+      "запеченная",
+      "ореховая"
+    ],
+    "normalizedTokens": [
+      "гранола",
+      "запеченная",
+      "ореховая",
+      "400 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "400 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "ЦАРЬ хлопья 3 злака 400 г",
+    "cleanTokens": [
+      "3",
+      "злака"
+    ],
+    "normalizedTokens": [
+      "3",
+      "злака",
+      "400 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "400 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "ЦАРЬ хлопья 6 злаков 400 г",
+    "cleanTokens": [
+      "6",
+      "злаков"
+    ],
+    "normalizedTokens": [
+      "6",
+      "злаков",
+      "400 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "400 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "ЦАРЬ хлопья 5 злаков 400 г без варки",
+    "cleanTokens": [
+      "5",
+      "злаков",
+      "без",
+      "варки"
+    ],
+    "normalizedTokens": [
+      "5",
+      "злаков",
+      "400 г",
+      "без",
+      "варки"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "400 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Kellogg's готовый завтрак Unicorn 375 г",
+    "cleanTokens": [
+      "готовый",
+      "завтрак",
+      "unicorn"
+    ],
+    "normalizedTokens": [
+      "готовый",
+      "завтрак",
+      "unicorn",
+      "375 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "375 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "KitKat готовый завтрак с какао, покрытый глазурью из молочного шоколада 190 г",
+    "cleanTokens": [
+      "готовый",
+      "завтрак",
+      "с",
+      "какао",
+      "покрытый",
+      "глазурью",
+      "из",
+      "молочного",
+      "шоколада"
+    ],
+    "normalizedTokens": [
+      "готовый",
+      "завтрак",
+      "с",
+      "какао",
+      "покрытый",
+      "глазурью",
+      "из",
+      "молочного",
+      "шоколада",
+      "190 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "190 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Kellogg's готовый завтрак Unicorn радужные колечки с фруктовым вкусом 195 г",
+    "cleanTokens": [
+      "готовый",
+      "завтрак",
+      "unicorn",
+      "радужные",
+      "колечки",
+      "с",
+      "фруктовым",
+      "вкусом"
+    ],
+    "normalizedTokens": [
+      "готовый",
+      "завтрак",
+      "unicorn",
+      "радужные",
+      "колечки",
+      "с",
+      "фруктовым",
+      "вкусом",
+      "195 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "195 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "OhO! готовый завтрак пшеница со вкусом карамели 150 г",
+    "cleanTokens": [
+      "готовый",
+      "завтрак",
+      "пшеница",
+      "со",
+      "вкусом",
+      "карамели"
+    ],
+    "normalizedTokens": [
+      "готовый",
+      "завтрак",
+      "пшеница",
+      "со",
+      "вкусом",
+      "карамели",
+      "150 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "150 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Kellogg's готовый завтрак Фруктовый микс 200 г",
+    "cleanTokens": [
+      "готовый",
+      "завтрак",
+      "фруктовый",
+      "микс"
+    ],
+    "normalizedTokens": [
+      "готовый",
+      "завтрак",
+      "фруктовый",
+      "микс",
+      "200 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "200 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "OhO! готовый завтрак пшеница с медом 400 г",
+    "cleanTokens": [
+      "готовый",
+      "завтрак",
+      "пшеница",
+      "с",
+      "медом"
+    ],
+    "normalizedTokens": [
+      "готовый",
+      "завтрак",
+      "пшеница",
+      "с",
+      "медом",
+      "400 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "400 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Fit Parad хлопья кукурузные 200 г",
+    "cleanTokens": [
+      "кукурузные"
+    ],
+    "normalizedTokens": [
+      "кукурузные",
+      "200 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "200 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Leonardo готовый завтрак подушечки с шоколадно-ореховой начинкой 250 г",
+    "cleanTokens": [
+      "готовый",
+      "завтрак",
+      "подушечки",
+      "с",
+      "шоколадно-ореховой",
+      "начинкой"
+    ],
+    "normalizedTokens": [
+      "готовый",
+      "завтрак",
+      "подушечки",
+      "с",
+      "шоколадно-ореховой",
+      "начинкой",
+      "250 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "250 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Любятово хлопья кукурузные 600 г",
+    "cleanTokens": [
+      "кукурузные"
+    ],
+    "normalizedTokens": [
+      "кукурузные",
+      "600 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "600 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "КУНЦЕВО готовый завтрак Медовые звездочки 200 г",
+    "cleanTokens": [
+      "готовый",
+      "завтрак",
+      "медовые",
+      "звездочки"
+    ],
+    "normalizedTokens": [
+      "готовый",
+      "завтрак",
+      "медовые",
+      "звездочки",
+      "200 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "200 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Krosby готовый завтрак Choco Balls шарики шоколадные 200 г",
+    "cleanTokens": [
+      "готовый",
+      "завтрак",
+      "choco",
+      "balls",
+      "шарики",
+      "шоколадные"
+    ],
+    "normalizedTokens": [
+      "готовый",
+      "завтрак",
+      "choco",
+      "balls",
+      "шарики",
+      "шоколадные",
+      "200 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "200 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "OhO! готовый завтрак Choca шоколадные шарики 400 г",
+    "cleanTokens": [
+      "готовый",
+      "завтрак",
+      "choca",
+      "шоколадные",
+      "шарики"
+    ],
+    "normalizedTokens": [
+      "готовый",
+      "завтрак",
+      "choca",
+      "шоколадные",
+      "шарики",
+      "400 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "400 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мистраль хлопья гречневые 240 г",
+    "cleanTokens": [
+      "гречневые"
+    ],
+    "normalizedTokens": [
+      "гречневые",
+      "240 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "240 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мистраль хлопья 5 злаков 240 г",
+    "cleanTokens": [
+      "5",
+      "злаков"
+    ],
+    "normalizedTokens": [
+      "5",
+      "злаков",
+      "240 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "240 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мистраль овсяные хлопья порционные 240 г",
+    "cleanTokens": [
+      "овсяные",
+      "порционные"
+    ],
+    "normalizedTokens": [
+      "овсяные",
+      "порционные",
+      "240 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "240 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мистраль хлопья геркулес алтайский 400 г",
+    "cleanTokens": [
+      "геркулес",
+      "алтайский"
+    ],
+    "normalizedTokens": [
+      "геркулес",
+      "алтайский",
+      "400 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "400 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Trix готовый завтрак обогащенный витаминами 190 г",
+    "cleanTokens": [
+      "готовый",
+      "завтрак",
+      "обогащенный",
+      "витаминами"
+    ],
+    "normalizedTokens": [
+      "готовый",
+      "завтрак",
+      "обогащенный",
+      "витаминами",
+      "190 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "190 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Гранола ореховая 500 г",
+    "cleanTokens": [
+      "гранола",
+      "ореховая"
+    ],
+    "normalizedTokens": [
+      "гранола",
+      "ореховая",
+      "500 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "500 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Пассим хлопья геркулес овсяные хлопья 250 г",
+    "cleanTokens": [
+      "геркулес",
+      "овсяные"
+    ],
+    "normalizedTokens": [
+      "геркулес",
+      "овсяные",
+      "250 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "250 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Гранола шоколадная 500 г",
+    "cleanTokens": [
+      "гранола",
+      "шоколадная"
+    ],
+    "normalizedTokens": [
+      "гранола",
+      "шоколадная",
+      "500 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "500 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "ЯСНО СОЛНЫШКО гранола манго, ананас, кешью 250 г",
+    "cleanTokens": [
+      "гранола",
+      "манго",
+      "ананас",
+      "кешью"
+    ],
+    "normalizedTokens": [
+      "гранола",
+      "манго",
+      "ананас",
+      "кешью",
+      "250 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "250 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "ЯСНО СОЛНЫШКО гранола клубника, персик, миндаль 250 г",
+    "cleanTokens": [
+      "гранола",
+      "клубника",
+      "персик",
+      "миндаль"
+    ],
+    "normalizedTokens": [
+      "гранола",
+      "клубника",
+      "персик",
+      "миндаль",
+      "250 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "250 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Сташевское хлопья органические из голозерного овса 375 г",
+    "cleanTokens": [
+      "органические",
+      "из",
+      "голозерного",
+      "овса"
+    ],
+    "normalizedTokens": [
+      "органические",
+      "из",
+      "голозерного",
+      "овса",
+      "375 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "375 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Сташевское хлопья овсяные из голозерного овса 275 г",
+    "cleanTokens": [
+      "овсяные",
+      "из",
+      "голозерного",
+      "овса"
+    ],
+    "normalizedTokens": [
+      "овсяные",
+      "из",
+      "голозерного",
+      "овса",
+      "275 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "275 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Happy Mallow готовый завтрак с маршмеллоу 240 г",
+    "cleanTokens": [
+      "готовый",
+      "завтрак",
+      "с",
+      "маршмеллоу"
+    ],
+    "normalizedTokens": [
+      "готовый",
+      "завтрак",
+      "с",
+      "маршмеллоу",
+      "240 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "240 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Krosby готовый завтрак Mixrings toasted breakfast cereals 250 г",
+    "cleanTokens": [
+      "готовый",
+      "завтрак",
+      "mixrings",
+      "toasted",
+      "breakfast",
+      "cereals"
+    ],
+    "normalizedTokens": [
+      "готовый",
+      "завтрак",
+      "mixrings",
+      "toasted",
+      "breakfast",
+      "cereals",
+      "250 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "250 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Fit Parad хлопья кукурузные с шоколадом 200 г",
+    "cleanTokens": [
+      "кукурузные",
+      "с",
+      "шоколадом"
+    ],
+    "normalizedTokens": [
+      "кукурузные",
+      "с",
+      "шоколадом",
+      "200 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "200 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Matti мюсли соленая карамель 250 г",
+    "cleanTokens": [
+      "мюсли",
+      "соленая",
+      "карамель"
+    ],
+    "normalizedTokens": [
+      "мюсли",
+      "соленая",
+      "карамель",
+      "250 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "250 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Гранола ореховая 250 г",
+    "cleanTokens": [
+      "гранола",
+      "ореховая"
+    ],
+    "normalizedTokens": [
+      "гранола",
+      "ореховая",
+      "250 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "250 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Фрутилад хлопья с арахисом, ананасом и клюквой 270 г",
+    "cleanTokens": [
+      "с",
+      "арахисом",
+      "ананасом",
+      "и",
+      "клюквой"
+    ],
+    "normalizedTokens": [
+      "с",
+      "арахисом",
+      "ананасом",
+      "и",
+      "клюквой",
+      "270 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "270 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Настин Сластин готовый завтрак кедровые орешки и клюква 200 г",
+    "cleanTokens": [
+      "готовый",
+      "завтрак",
+      "кедровые",
+      "орешки",
+      "и",
+      "клюква"
+    ],
+    "normalizedTokens": [
+      "готовый",
+      "завтрак",
+      "кедровые",
+      "орешки",
+      "и",
+      "клюква",
+      "200 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "200 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Leonardo готовый завтрак шоколадные шарики 200 г",
+    "cleanTokens": [
+      "готовый",
+      "завтрак",
+      "шоколадные",
+      "шарики"
+    ],
+    "normalizedTokens": [
+      "готовый",
+      "завтрак",
+      "шоколадные",
+      "шарики",
+      "200 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "200 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "R.A.W. LIFE гранола Protein Berries 220 г",
+    "cleanTokens": [
+      "гранола",
+      "protein",
+      "berries"
+    ],
+    "normalizedTokens": [
+      "гранола",
+      "protein",
+      "berries",
+      "220 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "220 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Matti мюсли ежевика и малина 250 г",
+    "cleanTokens": [
+      "мюсли",
+      "ежевика",
+      "и",
+      "малина"
+    ],
+    "normalizedTokens": [
+      "мюсли",
+      "ежевика",
+      "и",
+      "малина",
+      "250 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "250 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Гранола классическая 250 г",
+    "cleanTokens": [
+      "гранола",
+      "классическая"
+    ],
+    "normalizedTokens": [
+      "гранола",
+      "классическая",
+      "250 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "250 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Matti мюсли мультизерновые банан и шоколад 250 г",
+    "cleanTokens": [
+      "мюсли",
+      "мультизерновые",
+      "банан",
+      "и",
+      "шоколад"
+    ],
+    "normalizedTokens": [
+      "мюсли",
+      "мультизерновые",
+      "банан",
+      "и",
+      "шоколад",
+      "250 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "250 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "CULT EDY гранола ШокоЭнергия 200 г",
+    "cleanTokens": [
+      "гранола",
+      "шокоэнергия"
+    ],
+    "normalizedTokens": [
+      "гранола",
+      "шокоэнергия",
+      "200 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "200 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "CULT EDY гранола Детокс-Классик 200 г",
+    "cleanTokens": [
+      "гранола",
+      "детокс-классик"
+    ],
+    "normalizedTokens": [
+      "гранола",
+      "детокс-классик",
+      "200 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "200 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Happy Mallow готовый завтрак Happy Mallow с хрустящим маршмеллоу 240 г",
+    "cleanTokens": [
+      "готовый",
+      "завтрак",
+      "с",
+      "хрустящим",
+      "маршмеллоу"
+    ],
+    "normalizedTokens": [
+      "готовый",
+      "завтрак",
+      "с",
+      "хрустящим",
+      "маршмеллоу",
+      "240 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "240 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Настин Сластин готовый завтрак детский 130 г",
+    "cleanTokens": [
+      "готовый",
+      "завтрак",
+      "детский"
+    ],
+    "normalizedTokens": [
+      "готовый",
+      "завтрак",
+      "детский",
+      "130 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "130 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "KitKat готовый завтрак Cereal 330 г",
+    "cleanTokens": [
+      "готовый",
+      "завтрак",
+      "cereal"
+    ],
+    "normalizedTokens": [
+      "готовый",
+      "завтрак",
+      "cereal",
+      "330 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "330 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "RAW LIFE гранола протеиновая без сахара Яблоко-Корица 220 г",
+    "cleanTokens": [
+      "гранола",
+      "протеиновая",
+      "без",
+      "сахара",
+      "яблоко-корица"
+    ],
+    "normalizedTokens": [
+      "гранола",
+      "протеиновая",
+      "без",
+      "сахара",
+      "яблоко-корица",
+      "220 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "220 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Настин Сластин готовый завтрак 7 семян 200 г",
+    "cleanTokens": [
+      "готовый",
+      "завтрак",
+      "7",
+      "семян"
+    ],
+    "normalizedTokens": [
+      "готовый",
+      "завтрак",
+      "7",
+      "семян",
+      "200 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "200 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Сташевское хлопья овсяные из голозерного овса с медом 375 г",
+    "cleanTokens": [
+      "овсяные",
+      "из",
+      "голозерного",
+      "овса",
+      "с",
+      "медом"
+    ],
+    "normalizedTokens": [
+      "овсяные",
+      "из",
+      "голозерного",
+      "овса",
+      "с",
+      "медом",
+      "375 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "375 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "А4 готовый завтрак Цветные колечки с микс блобсами  60 г",
+    "cleanTokens": [
+      "готовый",
+      "завтрак",
+      "цветные",
+      "колечки",
+      "с",
+      "микс",
+      "блобсами"
+    ],
+    "normalizedTokens": [
+      "готовый",
+      "завтрак",
+      "цветные",
+      "колечки",
+      "с",
+      "микс",
+      "блобсами",
+      "60 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "60 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Сташевское хлопья овсяные из голозерного овса с малиной 375 г",
+    "cleanTokens": [
+      "овсяные",
+      "из",
+      "голозерного",
+      "овса",
+      "с",
+      "малиной"
+    ],
+    "normalizedTokens": [
+      "овсяные",
+      "из",
+      "голозерного",
+      "овса",
+      "с",
+      "малиной",
+      "375 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "375 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "R.A.W. LIFE гранола Protein Choco & Vanilla 220 г",
+    "cleanTokens": [
+      "гранола",
+      "protein",
+      "choco",
+      "&",
+      "vanilla"
+    ],
+    "normalizedTokens": [
+      "гранола",
+      "protein",
+      "choco",
+      "&",
+      "vanilla",
+      "220 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "220 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Сташевское хлопья овсяные из голозерного овса с клубникой 375 г",
+    "cleanTokens": [
+      "овсяные",
+      "из",
+      "голозерного",
+      "овса",
+      "с",
+      "клубникой"
+    ],
+    "normalizedTokens": [
+      "овсяные",
+      "из",
+      "голозерного",
+      "овса",
+      "с",
+      "клубникой",
+      "375 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "375 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Ол Лайт хлопья хлопья с фруктами яблочные 300 г",
+    "cleanTokens": [
+      "с",
+      "фруктами",
+      "яблочные"
+    ],
+    "normalizedTokens": [
+      "с",
+      "фруктами",
+      "яблочные",
+      "300 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "300 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Алтайская Сказка хлопья геркулес овсяные 400 г",
+    "cleanTokens": [
+      "геркулес",
+      "овсяные"
+    ],
+    "normalizedTokens": [
+      "геркулес",
+      "овсяные",
+      "400 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "400 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Настин Сластин хлопья фитнес 250 г",
+    "cleanTokens": [
+      "фитнес"
+    ],
+    "normalizedTokens": [
+      "фитнес",
+      "250 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "250 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Сташевское хлопья овсяные из голозерного овса с вишней 375 г",
+    "cleanTokens": [
+      "овсяные",
+      "из",
+      "голозерного",
+      "овса",
+      "с",
+      "вишней"
+    ],
+    "normalizedTokens": [
+      "овсяные",
+      "из",
+      "голозерного",
+      "овса",
+      "с",
+      "вишней",
+      "375 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "375 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Алтайская Сказка хлопья 5 злаков 400 г",
+    "cleanTokens": [
+      "5",
+      "злаков"
+    ],
+    "normalizedTokens": [
+      "5",
+      "злаков",
+      "400 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "400 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Leonardo хлопья кукурузные 250 г",
+    "cleanTokens": [
+      "кукурузные"
+    ],
+    "normalizedTokens": [
+      "кукурузные",
+      "250 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "250 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Bowl & Basket хлопья bowl & basket 1250 г",
+    "cleanTokens": [],
+    "normalizedTokens": [
+      "1250 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "1250 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Сташевское хлопья овсяные из голозерного овса с яблоком 375 г",
+    "cleanTokens": [
+      "овсяные",
+      "из",
+      "голозерного",
+      "овса",
+      "с",
+      "яблоком"
+    ],
+    "normalizedTokens": [
+      "овсяные",
+      "из",
+      "голозерного",
+      "овса",
+      "с",
+      "яблоком",
+      "375 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "375 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Настин Сластин готовый завтрак молодые семечки и ягоды годжи 200 г",
+    "cleanTokens": [
+      "готовый",
+      "завтрак",
+      "молодые",
+      "семечки",
+      "и",
+      "ягоды",
+      "годжи"
+    ],
+    "normalizedTokens": [
+      "готовый",
+      "завтрак",
+      "молодые",
+      "семечки",
+      "и",
+      "ягоды",
+      "годжи",
+      "200 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "200 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Агрохолдинг Гудвилл хлопья овсяные с клубникой, киви, манго 40 г",
+    "cleanTokens": [
+      "овсяные",
+      "с",
+      "клубникой",
+      "киви",
+      "манго"
+    ],
+    "normalizedTokens": [
+      "овсяные",
+      "с",
+      "клубникой",
+      "киви",
+      "манго",
+      "40 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "40 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Агрохолдинг Гудвилл хлопья овсяные клубника 40 г",
+    "cleanTokens": [
+      "овсяные",
+      "клубника"
+    ],
+    "normalizedTokens": [
+      "овсяные",
+      "клубника",
+      "40 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "40 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Сташевское хлопья из голозерного овса с шоколадом 375 г",
+    "cleanTokens": [
+      "из",
+      "голозерного",
+      "овса",
+      "с",
+      "шоколадом"
+    ],
+    "normalizedTokens": [
+      "из",
+      "голозерного",
+      "овса",
+      "с",
+      "шоколадом",
+      "375 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "375 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Leonardo готовый завтрак шарики карамельные 400 г",
+    "cleanTokens": [
+      "готовый",
+      "завтрак",
+      "шарики",
+      "карамельные"
+    ],
+    "normalizedTokens": [
+      "готовый",
+      "завтрак",
+      "шарики",
+      "карамельные",
+      "400 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "400 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "OhO! готовый завтрак Choca шоколадные шарики 150 г",
+    "cleanTokens": [
+      "готовый",
+      "завтрак",
+      "choca",
+      "шоколадные",
+      "шарики"
+    ],
+    "normalizedTokens": [
+      "готовый",
+      "завтрак",
+      "choca",
+      "шоколадные",
+      "шарики",
+      "150 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "150 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "А4 готовый завтрак кукурузные хлопья с ванильными блобсами 65 г",
+    "cleanTokens": [
+      "готовый",
+      "завтрак",
+      "кукурузные",
+      "с",
+      "ванильными",
+      "блобсами"
+    ],
+    "normalizedTokens": [
+      "готовый",
+      "завтрак",
+      "кукурузные",
+      "с",
+      "ванильными",
+      "блобсами",
+      "65 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "65 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Гранола CULT EDY Choco&Nuts 300 г",
+    "cleanTokens": [
+      "гранола",
+      "choco&nuts"
+    ],
+    "normalizedTokens": [
+      "гранола",
+      "choco&nuts",
+      "300 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "300 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "LION готовый завтрак Wild crush карамельные подушечки с шоколадной начинкой 360 г",
+    "cleanTokens": [
+      "готовый",
+      "завтрак",
+      "wild",
+      "crush",
+      "карамельные",
+      "подушечки",
+      "с",
+      "шоколадной",
+      "начинкой"
+    ],
+    "normalizedTokens": [
+      "готовый",
+      "завтрак",
+      "wild",
+      "crush",
+      "карамельные",
+      "подушечки",
+      "с",
+      "шоколадной",
+      "начинкой",
+      "360 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "360 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "LION готовый завтрак Triple Crunchy salted caramel&chocolate 300 г",
+    "cleanTokens": [
+      "готовый",
+      "завтрак",
+      "triple",
+      "crunchy",
+      "salted",
+      "caramel&chocolate"
+    ],
+    "normalizedTokens": [
+      "готовый",
+      "завтрак",
+      "triple",
+      "crunchy",
+      "salted",
+      "caramel&chocolate",
+      "300 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "300 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Nestlé готовый завтрак Erdbeer minis с клубникой 375 г",
+    "cleanTokens": [
+      "готовый",
+      "завтрак",
+      "erdbeer",
+      "minis",
+      "с",
+      "клубникой"
+    ],
+    "normalizedTokens": [
+      "готовый",
+      "завтрак",
+      "erdbeer",
+      "minis",
+      "с",
+      "клубникой",
+      "375 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "375 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Nestlé готовый завтрак Cini Minis с корицей 375 г",
+    "cleanTokens": [
+      "готовый",
+      "завтрак",
+      "cini",
+      "minis",
+      "с",
+      "корицей"
+    ],
+    "normalizedTokens": [
+      "готовый",
+      "завтрак",
+      "cini",
+      "minis",
+      "с",
+      "корицей",
+      "375 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "375 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Lucky Charms готовый завтрак Magical Unicorn с маршмеллоу 340 г",
+    "cleanTokens": [
+      "готовый",
+      "завтрак",
+      "magical",
+      "unicorn",
+      "с",
+      "маршмеллоу"
+    ],
+    "normalizedTokens": [
+      "готовый",
+      "завтрак",
+      "magical",
+      "unicorn",
+      "с",
+      "маршмеллоу",
+      "340 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "340 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Фрутилад мюсли с пророщенной пшеницей/ячмень и овес с орехами и изюмом 270 г",
+    "cleanTokens": [
+      "мюсли",
+      "с",
+      "пророщенной",
+      "пшеницей/ячмень",
+      "и",
+      "овес",
+      "с",
+      "орехами",
+      "и",
+      "изюмом"
+    ],
+    "normalizedTokens": [
+      "мюсли",
+      "с",
+      "пророщенной",
+      "пшеницей/ячмень",
+      "и",
+      "овес",
+      "с",
+      "орехами",
+      "и",
+      "изюмом",
+      "270 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "270 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  }
+]

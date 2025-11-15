@@ -1,0 +1,1537 @@
+[
+  {
+    "original": "Miskets грецкий орех в молочном шоколаде 70 г",
+    "cleanTokens": [
+      "грецкий",
+      "орех",
+      "молочном",
+      "шоколаде"
+    ],
+    "normalizedTokens": [
+      "грецкий",
+      "орех",
+      "молочном",
+      "шоколаде",
+      "70 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "70 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Восточный базар арахис ёжик в глазури 300 г",
+    "cleanTokens": [
+      "арахис",
+      "ежик"
+    ],
+    "normalizedTokens": [
+      "арахис",
+      "ежик",
+      "300 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "300 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Восточный базар арахис ёжик в карамели 300 г",
+    "cleanTokens": [
+      "арахис",
+      "ежик",
+      "карамели"
+    ],
+    "normalizedTokens": [
+      "арахис",
+      "ежик",
+      "карамели",
+      "300 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "300 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Сибирский кедр клюква вяленая в тёмном шоколаде 60 г",
+    "cleanTokens": [
+      "клюква",
+      "вяленая",
+      "темном",
+      "шоколаде"
+    ],
+    "normalizedTokens": [
+      "клюква",
+      "вяленая",
+      "темном",
+      "шоколаде",
+      "60 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "60 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Findi Milk финики с миндалем в молочном шоколаде 150 г",
+    "cleanTokens": [
+      "milk",
+      "финики",
+      "с",
+      "миндалем",
+      "молочном",
+      "шоколаде"
+    ],
+    "normalizedTokens": [
+      "milk",
+      "финики",
+      "с",
+      "миндалем",
+      "молочном",
+      "шоколаде",
+      "150 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "150 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Bateel Caramelised Almond 160 г",
+    "cleanTokens": [
+      "caramelised",
+      "almond"
+    ],
+    "normalizedTokens": [
+      "caramelised",
+      "almond",
+      "160 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "160 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Bateel Caramelised Pecans 150 г",
+    "cleanTokens": [
+      "caramelised",
+      "pecans"
+    ],
+    "normalizedTokens": [
+      "caramelised",
+      "pecans",
+      "150 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "150 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Сибирский кедр земляника в шоколаде 100 г",
+    "cleanTokens": [
+      "земляника",
+      "шоколаде"
+    ],
+    "normalizedTokens": [
+      "земляника",
+      "шоколаде",
+      "100 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "100 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Findi Финики в карамельной глазури 150 г",
+    "cleanTokens": [
+      "финики",
+      "карамельной"
+    ],
+    "normalizedTokens": [
+      "финики",
+      "карамельной",
+      "150 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "150 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Финики с миндалем в шоколадной глазури Findi BLACK 150 грамм",
+    "cleanTokens": [
+      "финики",
+      "с",
+      "миндалем",
+      "шоколадной",
+      "black",
+      "150",
+      "грамм"
+    ],
+    "normalizedTokens": [
+      "финики",
+      "с",
+      "миндалем",
+      "шоколадной",
+      "black",
+      "150",
+      "грамм"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Сибирский кедр миндаль в белом шоколаде без сахара кофе и облепиха 60 г",
+    "cleanTokens": [
+      "миндаль",
+      "белом",
+      "шоколаде",
+      "без",
+      "сахара",
+      "кофе",
+      "облепиха"
+    ],
+    "normalizedTokens": [
+      "миндаль",
+      "белом",
+      "шоколаде",
+      "без",
+      "сахара",
+      "кофе",
+      "облепиха",
+      "60 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "60 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Funcho миндаль ассорти в белой, в молочной и в темной кондитерской глазури 100 г",
+    "cleanTokens": [
+      "миндаль",
+      "ассорти",
+      "белой",
+      "молочной",
+      "темной",
+      "кондитерской"
+    ],
+    "normalizedTokens": [
+      "миндаль",
+      "ассорти",
+      "белой",
+      "молочной",
+      "темной",
+      "кондитерской",
+      "100 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "100 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Chocodate Финики с миндалём в шоколаде со вкусом карамели 100 г",
+    "cleanTokens": [
+      "финики",
+      "с",
+      "миндалем",
+      "шоколаде",
+      "со",
+      "вкусом",
+      "карамели"
+    ],
+    "normalizedTokens": [
+      "финики",
+      "с",
+      "миндалем",
+      "шоколаде",
+      "со",
+      "вкусом",
+      "карамели",
+      "100 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "100 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Funcho фундук ассорти в белой, в молочной и в темной кондитерской глазури 100 г",
+    "cleanTokens": [
+      "фундук",
+      "ассорти",
+      "белой",
+      "молочной",
+      "темной",
+      "кондитерской"
+    ],
+    "normalizedTokens": [
+      "фундук",
+      "ассорти",
+      "белой",
+      "молочной",
+      "темной",
+      "кондитерской",
+      "100 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "100 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Сибирский кедр крыжовник в тёмном шоколаде со смородиной 60 г",
+    "cleanTokens": [
+      "крыжовник",
+      "темном",
+      "шоколаде",
+      "со",
+      "смородиной"
+    ],
+    "normalizedTokens": [
+      "крыжовник",
+      "темном",
+      "шоколаде",
+      "со",
+      "смородиной",
+      "60 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "60 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Абрикос чернослив в шоколаде 300 г",
+    "cleanTokens": [
+      "чернослив",
+      "шоколаде"
+    ],
+    "normalizedTokens": [
+      "чернослив",
+      "шоколаде",
+      "300 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "300 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Chocodate Финики Moments Lotus 90г",
+    "cleanTokens": [
+      "финики",
+      "moments",
+      "lotus",
+      "90г"
+    ],
+    "normalizedTokens": [
+      "финики",
+      "moments",
+      "lotus",
+      "90г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Funcho манго в темной кондитерской глазури 100 г",
+    "cleanTokens": [
+      "манго",
+      "темной",
+      "кондитерской"
+    ],
+    "normalizedTokens": [
+      "манго",
+      "темной",
+      "кондитерской",
+      "100 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "100 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Funcho миндаль ассорти в белой и в темной кондитерской глазури со вкусом мокко 100 г",
+    "cleanTokens": [
+      "миндаль",
+      "ассорти",
+      "белой",
+      "темной",
+      "кондитерской",
+      "со",
+      "вкусом",
+      "мокко"
+    ],
+    "normalizedTokens": [
+      "миндаль",
+      "ассорти",
+      "белой",
+      "темной",
+      "кондитерской",
+      "со",
+      "вкусом",
+      "мокко",
+      "100 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "100 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Funcho миндаль ассорти в белой кондитерской глазури с фруктовыми и ягодными вкусами 100 г",
+    "cleanTokens": [
+      "миндаль",
+      "ассорти",
+      "белой",
+      "кондитерской",
+      "с",
+      "фруктовыми",
+      "ягодными",
+      "вкусами"
+    ],
+    "normalizedTokens": [
+      "миндаль",
+      "ассорти",
+      "белой",
+      "кондитерской",
+      "с",
+      "фруктовыми",
+      "ягодными",
+      "вкусами",
+      "100 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "100 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Sultanshop Chocolate Dates финики в темном шоколаде 250 г",
+    "cleanTokens": [
+      "chocolate",
+      "dates",
+      "финики",
+      "темном",
+      "шоколаде"
+    ],
+    "normalizedTokens": [
+      "chocolate",
+      "dates",
+      "финики",
+      "темном",
+      "шоколаде",
+      "250 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "250 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Palma финики с миндалем в белом шоколаде 250 г",
+    "cleanTokens": [
+      "финики",
+      "с",
+      "миндалем",
+      "белом",
+      "шоколаде"
+    ],
+    "normalizedTokens": [
+      "финики",
+      "с",
+      "миндалем",
+      "белом",
+      "шоколаде",
+      "250 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "250 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Сибирский кедр крыжовник в белом шоколаде с клубникой 60 г",
+    "cleanTokens": [
+      "крыжовник",
+      "белом",
+      "шоколаде",
+      "с",
+      "клубникой"
+    ],
+    "normalizedTokens": [
+      "крыжовник",
+      "белом",
+      "шоколаде",
+      "с",
+      "клубникой",
+      "60 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "60 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Финики с миндалем в шоколаде Chocolate Dates WHITE 100 грамм",
+    "cleanTokens": [
+      "финики",
+      "с",
+      "миндалем",
+      "шоколаде",
+      "chocolate",
+      "dates",
+      "white",
+      "100",
+      "грамм"
+    ],
+    "normalizedTokens": [
+      "финики",
+      "с",
+      "миндалем",
+      "шоколаде",
+      "chocolate",
+      "dates",
+      "white",
+      "100",
+      "грамм"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Chocodate Финики с миндалём в тёмном 85% шоколаде 250 г",
+    "cleanTokens": [
+      "финики",
+      "с",
+      "миндалем",
+      "темном",
+      "шоколаде"
+    ],
+    "normalizedTokens": [
+      "финики",
+      "с",
+      "миндалем",
+      "темном",
+      "85%",
+      "шоколаде",
+      "250 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "250 г",
+      "count": null,
+      "pack": null,
+      "percent": "85%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Funcho апельсиновая корочка в темной глазури 100 г",
+    "cleanTokens": [
+      "апельсиновая",
+      "корочка",
+      "темной"
+    ],
+    "normalizedTokens": [
+      "апельсиновая",
+      "корочка",
+      "темной",
+      "100 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "100 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Palma финики с миндалем и кокосом в белом шоколаде 250 г",
+    "cleanTokens": [
+      "финики",
+      "с",
+      "миндалем",
+      "кокосом",
+      "белом",
+      "шоколаде"
+    ],
+    "normalizedTokens": [
+      "финики",
+      "с",
+      "миндалем",
+      "кокосом",
+      "белом",
+      "шоколаде",
+      "250 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "250 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Funcho грецкий орех в белой и молочной кондитерской глазури с ароматом капучино 100 г",
+    "cleanTokens": [
+      "грецкий",
+      "орех",
+      "белой",
+      "молочной",
+      "кондитерской",
+      "с",
+      "ароматом",
+      "капучино"
+    ],
+    "normalizedTokens": [
+      "грецкий",
+      "орех",
+      "белой",
+      "молочной",
+      "кондитерской",
+      "с",
+      "ароматом",
+      "капучино",
+      "100 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "100 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Funcho фундук в белой кондитерской глазури тирамису 100 г",
+    "cleanTokens": [
+      "фундук",
+      "белой",
+      "кондитерской",
+      "тирамису"
+    ],
+    "normalizedTokens": [
+      "фундук",
+      "белой",
+      "кондитерской",
+      "тирамису",
+      "100 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "100 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Chocodate Финики с миндалём в тёмном шоколаде 250 г",
+    "cleanTokens": [
+      "финики",
+      "с",
+      "миндалем",
+      "темном",
+      "шоколаде"
+    ],
+    "normalizedTokens": [
+      "финики",
+      "с",
+      "миндалем",
+      "темном",
+      "шоколаде",
+      "250 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "250 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Chocodate Финики с миндалём в шоколаде со вкусом карамели 250 г",
+    "cleanTokens": [
+      "финики",
+      "с",
+      "миндалем",
+      "шоколаде",
+      "со",
+      "вкусом",
+      "карамели"
+    ],
+    "normalizedTokens": [
+      "финики",
+      "с",
+      "миндалем",
+      "шоколаде",
+      "со",
+      "вкусом",
+      "карамели",
+      "250 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "250 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Chocodate Финики с миндалём в шоколаде без сахара 250 г",
+    "cleanTokens": [
+      "финики",
+      "с",
+      "миндалем",
+      "шоколаде",
+      "без",
+      "сахара"
+    ],
+    "normalizedTokens": [
+      "финики",
+      "с",
+      "миндалем",
+      "шоколаде",
+      "без",
+      "сахара",
+      "250 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "250 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Funcho клубника в молочной кондитерской глазури 100 г",
+    "cleanTokens": [
+      "клубника",
+      "молочной",
+      "кондитерской"
+    ],
+    "normalizedTokens": [
+      "клубника",
+      "молочной",
+      "кондитерской",
+      "100 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "100 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Арахис в сахаре 450 г",
+    "cleanTokens": [
+      "арахис",
+      "сахаре"
+    ],
+    "normalizedTokens": [
+      "арахис",
+      "сахаре",
+      "450 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "450 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Сибирский кедр миндаль в горьком шоколаде без сахара с какао и корицей 60 г",
+    "cleanTokens": [
+      "миндаль",
+      "горьком",
+      "шоколаде",
+      "без",
+      "сахара",
+      "с",
+      "какао",
+      "корицей"
+    ],
+    "normalizedTokens": [
+      "миндаль",
+      "горьком",
+      "шоколаде",
+      "без",
+      "сахара",
+      "с",
+      "какао",
+      "корицей",
+      "60 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "60 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Chocodate Moments Raspberry финики в шоколаде с кусочками малины 90 г",
+    "cleanTokens": [
+      "moments",
+      "raspberry",
+      "финики",
+      "шоколаде",
+      "с",
+      "кусочками",
+      "малины"
+    ],
+    "normalizedTokens": [
+      "moments",
+      "raspberry",
+      "финики",
+      "шоколаде",
+      "с",
+      "кусочками",
+      "малины",
+      "90 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "90 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Chocodate Финики с миндалём в шоколаде без сахара 100 г",
+    "cleanTokens": [
+      "финики",
+      "с",
+      "миндалем",
+      "шоколаде",
+      "без",
+      "сахара"
+    ],
+    "normalizedTokens": [
+      "финики",
+      "с",
+      "миндалем",
+      "шоколаде",
+      "без",
+      "сахара",
+      "100 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "100 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Финики с миндалем в шоколаде Chocolate Dates BLACK 100 грамм",
+    "cleanTokens": [
+      "финики",
+      "с",
+      "миндалем",
+      "шоколаде",
+      "chocolate",
+      "dates",
+      "black",
+      "100",
+      "грамм"
+    ],
+    "normalizedTokens": [
+      "финики",
+      "с",
+      "миндалем",
+      "шоколаде",
+      "chocolate",
+      "dates",
+      "black",
+      "100",
+      "грамм"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Miskets инжир в молочном шоколаде 80 г",
+    "cleanTokens": [
+      "инжир",
+      "молочном",
+      "шоколаде"
+    ],
+    "normalizedTokens": [
+      "инжир",
+      "молочном",
+      "шоколаде",
+      "80 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "80 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Funcho лимонная корочка в темной кондитерской глазури 100 г",
+    "cleanTokens": [
+      "лимонная",
+      "корочка",
+      "темной",
+      "кондитерской"
+    ],
+    "normalizedTokens": [
+      "лимонная",
+      "корочка",
+      "темной",
+      "кондитерской",
+      "100 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "100 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "PICKS Миндаль в карамельной глазури 90 г",
+    "cleanTokens": [
+      "миндаль",
+      "карамельной"
+    ],
+    "normalizedTokens": [
+      "миндаль",
+      "карамельной",
+      "90 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "90 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Chocodate Финики Moments Peanut Butter 90г",
+    "cleanTokens": [
+      "финики",
+      "moments",
+      "peanut",
+      "butter",
+      "90г"
+    ],
+    "normalizedTokens": [
+      "финики",
+      "moments",
+      "peanut",
+      "butter",
+      "90г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Chocodate Финики Moments Assorted 90г",
+    "cleanTokens": [
+      "финики",
+      "moments",
+      "assorted",
+      "90г"
+    ],
+    "normalizedTokens": [
+      "финики",
+      "moments",
+      "assorted",
+      "90г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Palma с печеньем в молочном шоколаде 250 г",
+    "cleanTokens": [
+      "с",
+      "печеньем",
+      "молочном",
+      "шоколаде"
+    ],
+    "normalizedTokens": [
+      "с",
+      "печеньем",
+      "молочном",
+      "шоколаде",
+      "250 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "250 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Miskets драже в молочном шоколаде 120 г",
+    "cleanTokens": [
+      "драже",
+      "молочном",
+      "шоколаде"
+    ],
+    "normalizedTokens": [
+      "драже",
+      "молочном",
+      "шоколаде",
+      "120 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "120 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Chocodate Финики с миндалём в тёмном 85% шоколаде 100 г",
+    "cleanTokens": [
+      "финики",
+      "с",
+      "миндалем",
+      "темном",
+      "шоколаде"
+    ],
+    "normalizedTokens": [
+      "финики",
+      "с",
+      "миндалем",
+      "темном",
+      "85%",
+      "шоколаде",
+      "100 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "100 г",
+      "count": null,
+      "pack": null,
+      "percent": "85%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Chocodate Финики с миндалём в шоколаде с кокосовой стружкой 250 г",
+    "cleanTokens": [
+      "финики",
+      "с",
+      "миндалем",
+      "шоколаде",
+      "с",
+      "кокосовой",
+      "стружкой"
+    ],
+    "normalizedTokens": [
+      "финики",
+      "с",
+      "миндалем",
+      "шоколаде",
+      "с",
+      "кокосовой",
+      "стружкой",
+      "250 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "250 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Palma финики в белом шоколаде с клубникой 250 г",
+    "cleanTokens": [
+      "финики",
+      "белом",
+      "шоколаде",
+      "с",
+      "клубникой"
+    ],
+    "normalizedTokens": [
+      "финики",
+      "белом",
+      "шоколаде",
+      "с",
+      "клубникой",
+      "250 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "250 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Tamsan финики с миндалём в молочном шоколаде 300 г",
+    "cleanTokens": [
+      "финики",
+      "с",
+      "миндалем",
+      "молочном",
+      "шоколаде"
+    ],
+    "normalizedTokens": [
+      "финики",
+      "с",
+      "миндалем",
+      "молочном",
+      "шоколаде",
+      "300 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "300 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Финики с миндалем в шоколаде Chocolate Dates MILK 100 грамм",
+    "cleanTokens": [
+      "финики",
+      "с",
+      "миндалем",
+      "шоколаде",
+      "chocolate",
+      "dates",
+      "milk",
+      "100",
+      "грамм"
+    ],
+    "normalizedTokens": [
+      "финики",
+      "с",
+      "миндалем",
+      "шоколаде",
+      "chocolate",
+      "dates",
+      "milk",
+      "100",
+      "грамм"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Miskets Coffee Bean в молочном шоколаде 70 г",
+    "cleanTokens": [
+      "coffee",
+      "bean",
+      "молочном",
+      "шоколаде"
+    ],
+    "normalizedTokens": [
+      "coffee",
+      "bean",
+      "молочном",
+      "шоколаде",
+      "70 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "70 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Sultanshop Chocolate Dates финики в белом шоколаде 250 г",
+    "cleanTokens": [
+      "chocolate",
+      "dates",
+      "финики",
+      "белом",
+      "шоколаде"
+    ],
+    "normalizedTokens": [
+      "chocolate",
+      "dates",
+      "финики",
+      "белом",
+      "шоколаде",
+      "250 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "250 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Palma финики с кофе в темном шоколаде 250 г",
+    "cleanTokens": [
+      "финики",
+      "с",
+      "кофе",
+      "темном",
+      "шоколаде"
+    ],
+    "normalizedTokens": [
+      "финики",
+      "с",
+      "кофе",
+      "темном",
+      "шоколаде",
+      "250 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "250 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Chocodate Финики Moments Nutella Stuffed Hazelnut Creem 90г",
+    "cleanTokens": [
+      "финики",
+      "moments",
+      "nutella",
+      "stuffed",
+      "hazelnut",
+      "creem",
+      "90г"
+    ],
+    "normalizedTokens": [
+      "финики",
+      "moments",
+      "nutella",
+      "stuffed",
+      "hazelnut",
+      "creem",
+      "90г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Konditerka.kz дробленый арахис в карамели 1000 г",
+    "cleanTokens": [
+      "дробленый",
+      "арахис",
+      "карамели"
+    ],
+    "normalizedTokens": [
+      "дробленый",
+      "арахис",
+      "карамели",
+      "1000 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "1000 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "KDV фундук в молочном шоколаде с соленой карамелью 500 г",
+    "cleanTokens": [
+      "фундук",
+      "молочном",
+      "шоколаде",
+      "с",
+      "соленой",
+      "карамелью"
+    ],
+    "normalizedTokens": [
+      "фундук",
+      "молочном",
+      "шоколаде",
+      "с",
+      "соленой",
+      "карамелью",
+      "500 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "500 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Chocodate Финики с миндалём в шоколаде с кокосовой стружкой 100 г",
+    "cleanTokens": [
+      "финики",
+      "с",
+      "миндалем",
+      "шоколаде",
+      "с",
+      "кокосовой",
+      "стружкой"
+    ],
+    "normalizedTokens": [
+      "финики",
+      "с",
+      "миндалем",
+      "шоколаде",
+      "с",
+      "кокосовой",
+      "стружкой",
+      "100 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "100 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  }
+]

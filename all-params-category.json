@@ -1,0 +1,3687 @@
+{
+    "Алкоголь/Вермут": {
+        "groups": {
+            "тип_вкуса": [
+                {
+                    "token": "сладкий",
+                    "count": 5
+                },
+                {
+                    "token": "сухой",
+                    "count": 1
+                },
+                {
+                    "token": "полусладкий",
+                    "count": 1
+                },
+                {
+                    "token": "полусухой",
+                    "count": 1
+                }
+            ],
+            "стиль_или_вариант": [
+                {
+                    "token": "rosso",
+                    "count": 4
+                },
+                {
+                    "token": "bianco",
+                    "count": 3
+                },
+                {
+                    "token": "extra",
+                    "count": 1
+                },
+                {
+                    "token": "dry",
+                    "count": 1
+                }
+            ],
+            "общий_термин": [
+                {
+                    "token": "vermouth",
+                    "count": 2
+                }
+            ],
+            "other": []
+        }
+    },
+    "Алкоголь/Вино": {
+        "groups": {
+            "цвет": [
+                {
+                    "token": "красное",
+                    "count": 485
+                },
+                {
+                    "token": "белое",
+                    "count": 461
+                },
+                {
+                    "token": "розовое",
+                    "count": 50
+                },
+                {
+                    "token": "rose",
+                    "count": 17
+                },
+                {
+                    "token": "rosso",
+                    "count": 17
+                },
+                {
+                    "token": "blanc",
+                    "count": 76
+                },
+                {
+                    "token": "bianco",
+                    "count": 18
+                },
+                {
+                    "token": "blanco",
+                    "count": 19
+                },
+                {
+                    "token": "rosato",
+                    "count": 4
+                },
+                {
+                    "token": "rosado",
+                    "count": 3
+                },
+                {
+                    "token": "rouge",
+                    "count": 2
+                },
+                {
+                    "token": "white",
+                    "count": 1
+                },
+                {
+                    "token": "red",
+                    "count": 11
+                },
+                {
+                    "token": "nero",
+                    "count": 9
+                },
+                {
+                    "token": "noir",
+                    "count": 27
+                },
+                {
+                    "token": "tinto",
+                    "count": 9
+                },
+                {
+                    "token": "рот",
+                    "count": 1
+                },
+                {
+                    "token": "weiß",
+                    "count": 1
+                }
+            ],
+            "тип_сладости": [
+                {
+                    "token": "сухое",
+                    "count": 728
+                },
+                {
+                    "token": "dry",
+                    "count": 8
+                },
+                {
+                    "token": "сухой",
+                    "count": 1
+                },
+                {
+                    "token": "полусладкое",
+                    "count": 128
+                },
+                {
+                    "token": "semisweet",
+                    "count": 3
+                },
+                {
+                    "token": "полусладкий",
+                    "count": 1
+                },
+                {
+                    "token": "полусухое",
+                    "count": 83
+                },
+                {
+                    "token": "semi",
+                    "count": 6
+                },
+                {
+                    "token": "полусухой",
+                    "count": 1
+                },
+                {
+                    "token": "сладкое",
+                    "count": 39
+                },
+                {
+                    "token": "sweet",
+                    "count": 15
+                },
+                {
+                    "token": "dulce",
+                    "count": 2
+                },
+                {
+                    "token": "moelleux",
+                    "count": 6
+                },
+                {
+                    "token": "extra",
+                    "count": 1
+                },
+                {
+                    "token": "sec",
+                    "count": 3
+                },
+                {
+                    "token": "medium",
+                    "count": 7
+                },
+                {
+                    "token": "brut",
+                    "count": 2
+                },
+                {
+                    "token": "extra dry",
+                    "count": 1
+                }
+            ],
+            "сорта_винограда": [
+                {
+                    "token": "sauvignon",
+                    "count": 90
+                },
+                {
+                    "token": "pinot",
+                    "count": 70
+                },
+                {
+                    "token": "chardonnay",
+                    "count": 53
+                },
+                {
+                    "token": "riesling",
+                    "count": 41
+                },
+                {
+                    "token": "cabernet",
+                    "count": 37
+                },
+                {
+                    "token": "grigio",
+                    "count": 37
+                },
+                {
+                    "token": "noir",
+                    "count": 27
+                },
+                {
+                    "token": "merlot",
+                    "count": 24
+                },
+                {
+                    "token": "syrah",
+                    "count": 14
+                },
+                {
+                    "token": "shiraz",
+                    "count": 12
+                },
+                {
+                    "token": "zinfandel",
+                    "count": 12
+                },
+                {
+                    "token": "chianti",
+                    "count": 12
+                },
+                {
+                    "token": "malbec",
+                    "count": 9
+                },
+                {
+                    "token": "saperavi",
+                    "count": 9
+                },
+                {
+                    "token": "nero",
+                    "count": 9
+                },
+                {
+                    "token": "gewurztraminer",
+                    "count": 8
+                },
+                {
+                    "token": "carmenere",
+                    "count": 8
+                },
+                {
+                    "token": "manduria",
+                    "count": 8
+                },
+                {
+                    "token": "muscat",
+                    "count": 7
+                },
+                {
+                    "token": "alazani",
+                    "count": 7
+                },
+                {
+                    "token": "trebbiano",
+                    "count": 6
+                },
+                {
+                    "token": "sangiovese",
+                    "count": 6
+                },
+                {
+                    "token": "garnacha",
+                    "count": 5
+                },
+                {
+                    "token": "moscato",
+                    "count": 5
+                },
+                {
+                    "token": "pinotage",
+                    "count": 5
+                },
+                {
+                    "token": "vermentino",
+                    "count": 5
+                },
+                {
+                    "token": "gavi",
+                    "count": 4
+                },
+                {
+                    "token": "grenache",
+                    "count": 4
+                },
+                {
+                    "token": "gruner",
+                    "count": 4
+                },
+                {
+                    "token": "veltliner",
+                    "count": 4
+                },
+                {
+                    "token": "viognier",
+                    "count": 3
+                },
+                {
+                    "token": "verdejo",
+                    "count": 3
+                },
+                {
+                    "token": "albarino",
+                    "count": 3
+                },
+                {
+                    "token": "furmint",
+                    "count": 3
+                },
+                {
+                    "token": "torrontes",
+                    "count": 3
+                },
+                {
+                    "token": "tinto",
+                    "count": 9
+                }
+            ],
+            "стили_технологии": [
+                {
+                    "token": "blanc",
+                    "count": 76
+                },
+                {
+                    "token": "blanco",
+                    "count": 19
+                },
+                {
+                    "token": "bianco",
+                    "count": 18
+                },
+                {
+                    "token": "rose",
+                    "count": 17
+                },
+                {
+                    "token": "rosso",
+                    "count": 17
+                },
+                {
+                    "token": "sweet",
+                    "count": 15
+                },
+                {
+                    "token": "cru",
+                    "count": 13
+                },
+                {
+                    "token": "cuvee",
+                    "count": 6
+                },
+                {
+                    "token": "moelleux",
+                    "count": 6
+                },
+                {
+                    "token": "semi",
+                    "count": 6
+                },
+                {
+                    "token": "blush",
+                    "count": 6
+                },
+                {
+                    "token": "riserva",
+                    "count": 7
+                },
+                {
+                    "token": "crianza",
+                    "count": 6
+                },
+                {
+                    "token": "clos",
+                    "count": 6
+                },
+                {
+                    "token": "organic",
+                    "count": 4
+                },
+                {
+                    "token": "medium",
+                    "count": 7
+                },
+                {
+                    "token": "sec",
+                    "count": 3
+                },
+                {
+                    "token": "extra",
+                    "count": 1
+                },
+                {
+                    "token": "extra dry",
+                    "count": 1
+                },
+                {
+                    "token": "brut",
+                    "count": 2
+                },
+                {
+                    "token": "aged",
+                    "count": 1
+                },
+                {
+                    "token": "reserve",
+                    "count": 1
+                },
+                {
+                    "token": "barrel",
+                    "count": 1
+                }
+            ],
+            "география_регионы": [
+                {
+                    "token": "rioja",
+                    "count": 10
+                },
+                {
+                    "token": "bourgogne",
+                    "count": 7
+                },
+                {
+                    "token": "toscana",
+                    "count": 7
+                },
+                {
+                    "token": "marlborough",
+                    "count": 6
+                },
+                {
+                    "token": "salento",
+                    "count": 7
+                },
+                {
+                    "token": "puglia",
+                    "count": 7
+                },
+                {
+                    "token": "manduria",
+                    "count": 8
+                },
+                {
+                    "token": "alazani",
+                    "count": 7
+                },
+                {
+                    "token": "алазанская",
+                    "count": 6
+                },
+                {
+                    "token": "sardegna",
+                    "count": 2
+                },
+                {
+                    "token": "sicilia",
+                    "count": 3
+                },
+                {
+                    "token": "siciliane",
+                    "count": 3
+                },
+                {
+                    "token": "sicillia",
+                    "count": 1
+                },
+                {
+                    "token": "veneto",
+                    "count": 3
+                },
+                {
+                    "token": "venezie",
+                    "count": 3
+                },
+                {
+                    "token": "d'abruzzo",
+                    "count": 7
+                },
+                {
+                    "token": "d’abruzzo",
+                    "count": 3
+                },
+                {
+                    "token": "valpolicella",
+                    "count": 4
+                },
+                {
+                    "token": "toscano",
+                    "count": 1
+                },
+                {
+                    "token": "umbria",
+                    "count": 1
+                },
+                {
+                    "token": "campania",
+                    "count": 1
+                },
+                {
+                    "token": "friuli",
+                    "count": 2
+                },
+                {
+                    "token": "orvieto",
+                    "count": 2
+                },
+                {
+                    "token": "chieti",
+                    "count": 2
+                },
+                {
+                    "token": "rhone",
+                    "count": 1
+                },
+                {
+                    "token": "alsace",
+                    "count": 2
+                },
+                {
+                    "token": "beaujolais-villages",
+                    "count": 1
+                },
+                {
+                    "token": "vosne-romanee",
+                    "count": 1
+                },
+                {
+                    "token": "nuits-saint-georges",
+                    "count": 1
+                },
+                {
+                    "token": "pouilly-fumé",
+                    "count": 1
+                },
+                {
+                    "token": "provence",
+                    "count": 4
+                },
+                {
+                    "token": "gevrеy-chambertin",
+                    "count": 2
+                },
+                {
+                    "token": "meursault",
+                    "count": 2
+                },
+                {
+                    "token": "margaux",
+                    "count": 3
+                },
+                {
+                    "token": "bordeaux",
+                    "count": 2
+                },
+                {
+                    "token": "medoc",
+                    "count": 2
+                },
+                {
+                    "token": "haut-medoc",
+                    "count": 1
+                },
+                {
+                    "token": "pomerol",
+                    "count": 1
+                },
+                {
+                    "token": "saint-emilion",
+                    "count": 2
+                },
+                {
+                    "token": "chablis",
+                    "count": 3
+                },
+                {
+                    "token": "burgundy",
+                    "count": 1
+                },
+                {
+                    "token": "argentina",
+                    "count": 1
+                },
+                {
+                    "token": "california",
+                    "count": 2
+                },
+                {
+                    "token": "central",
+                    "count": 2
+                },
+                {
+                    "token": "san",
+                    "count": 8
+                },
+                {
+                    "token": "mendoza",
+                    "count": 1
+                },
+                {
+                    "token": "uко",
+                    "count": 1
+                },
+                {
+                    "token": "duero",
+                    "count": 1
+                },
+                {
+                    "token": "nemea",
+                    "count": 2
+                },
+                {
+                    "token": "melgaco",
+                    "count": 1
+                },
+                {
+                    "token": "sancerre",
+                    "count": 2
+                },
+                {
+                    "token": "stelленbosch",
+                    "count": 1
+                },
+                {
+                    "token": "achаia",
+                    "count": 1
+                },
+                {
+                    "token": "wien",
+                    "count": 1
+                },
+                {
+                    "token": "pfaffl",
+                    "count": 1
+                },
+                {
+                    "token": "etna",
+                    "count": 1
+                },
+                {
+                    "token": "rully",
+                    "count": 1
+                }
+            ],
+            "классификация": [
+                {
+                    "token": "doc",
+                    "count": 27
+                },
+                {
+                    "token": "aoc",
+                    "count": 10
+                },
+                {
+                    "token": "igt",
+                    "count": 11
+                },
+                {
+                    "token": "igp",
+                    "count": 12
+                },
+                {
+                    "token": "riserva",
+                    "count": 7
+                },
+                {
+                    "token": "crianza",
+                    "count": 6
+                },
+                {
+                    "token": "docg",
+                    "count": 3
+                },
+                {
+                    "token": "qba",
+                    "count": 2
+                },
+                {
+                    "token": "d.o.",
+                    "count": 2
+                },
+                {
+                    "token": "aop",
+                    "count": 2
+                },
+                {
+                    "token": "qualitatswein",
+                    "count": 1
+                },
+                {
+                    "token": "d.o.c.g.",
+                    "count": 1
+                },
+                {
+                    "token": "grand cru",
+                    "count": 1
+                },
+                {
+                    "token": "premier",
+                    "count": 2
+                }
+            ],
+            "бренды_линейки": [
+                {
+                    "token": "arba",
+                    "count": 17
+                },
+                {
+                    "token": "bicicleta",
+                    "count": 5
+                },
+                {
+                    "token": "nackenheim",
+                    "count": 5
+                },
+                {
+                    "token": "garoa",
+                    "count": 4
+                },
+                {
+                    "token": "saint",
+                    "count": 4
+                },
+                {
+                    "token": "ak",
+                    "count": 4
+                },
+                {
+                    "token": "bacio",
+                    "count": 4
+                },
+                {
+                    "token": "hunter",
+                    "count": 4
+                },
+                {
+                    "token": "gassier",
+                    "count": 3
+                },
+                {
+                    "token": "andre",
+                    "count": 3
+                },
+                {
+                    "token": "lorentz",
+                    "count": 3
+                },
+                {
+                    "token": "michelle",
+                    "count": 3
+                },
+                {
+                    "token": "1er",
+                    "count": 3
+                },
+                {
+                    "token": "rarities",
+                    "count": 3
+                },
+                {
+                    "token": "casillero",
+                    "count": 3
+                },
+                {
+                    "token": "diablo",
+                    "count": 3
+                },
+                {
+                    "token": "campo",
+                    "count": 3
+                },
+                {
+                    "token": "viejo",
+                    "count": 3
+                },
+                {
+                    "token": "gufo",
+                    "count": 3
+                },
+                {
+                    "token": "veneto",
+                    "count": 3
+                },
+                {
+                    "token": "venezie",
+                    "count": 3
+                },
+                {
+                    "token": "private",
+                    "count": 3
+                },
+                {
+                    "token": "signature",
+                    "count": 3
+                },
+                {
+                    "token": "ste",
+                    "count": 3
+                },
+                {
+                    "token": "terra",
+                    "count": 3
+                },
+                {
+                    "token": "margaux",
+                    "count": 3
+                },
+                {
+                    "token": "palazzo",
+                    "count": 2
+                },
+                {
+                    "token": "clarendelle",
+                    "count": 2
+                },
+                {
+                    "token": "lynch",
+                    "count": 2
+                },
+                {
+                    "token": "bages",
+                    "count": 2
+                },
+                {
+                    "token": "rieussec",
+                    "count": 2
+                },
+                {
+                    "token": "haut-brion",
+                    "count": 2
+                },
+                {
+                    "token": "cosmic",
+                    "count": 2
+                },
+                {
+                    "token": "viajero",
+                    "count": 2
+                },
+                {
+                    "token": "kaori",
+                    "count": 2
+                },
+                {
+                    "token": "minuty",
+                    "count": 2
+                },
+                {
+                    "token": "carillon",
+                    "count": 2
+                },
+                {
+                    "token": "modello",
+                    "count": 2
+                },
+                {
+                    "token": "valdobbiadene",
+                    "count": 2
+                },
+                {
+                    "token": "alma",
+                    "count": 2
+                },
+                {
+                    "token": "baron",
+                    "count": 2
+                },
+                {
+                    "token": "clarion",
+                    "count": 2
+                },
+                {
+                    "token": "giara",
+                    "count": 2
+                },
+                {
+                    "token": "meu",
+                    "count": 2
+                },
+                {
+                    "token": "des",
+                    "count": 3
+                },
+                {
+                    "token": "angel",
+                    "count": 2
+                },
+                {
+                    "token": "lapo",
+                    "count": 2
+                },
+                {
+                    "token": "ville",
+                    "count": 2
+                },
+                {
+                    "token": "colmar",
+                    "count": 2
+                },
+                {
+                    "token": "beaune",
+                    "count": 2
+                },
+                {
+                    "token": "faiveley",
+                    "count": 2
+                },
+                {
+                    "token": "jacques",
+                    "count": 2
+                },
+                {
+                    "token": "prieur",
+                    "count": 2
+                },
+                {
+                    "token": "santenots",
+                    "count": 2
+                },
+                {
+                    "token": "pauillac",
+                    "count": 2
+                },
+                {
+                    "token": "roda",
+                    "count": 2
+                },
+                {
+                    "token": "montrose",
+                    "count": 2
+                },
+                {
+                    "token": "torre",
+                    "count": 2
+                },
+                {
+                    "token": "barrel",
+                    "count": 3
+                },
+                {
+                    "token": "barossa",
+                    "count": 1
+                },
+                {
+                    "token": "mouton",
+                    "count": 1
+                },
+                {
+                    "token": "rothschild",
+                    "count": 1
+                },
+                {
+                    "token": "yvan&co",
+                    "count": 1
+                },
+                {
+                    "token": "nenin",
+                    "count": 1
+                },
+                {
+                    "token": "castello",
+                    "count": 1
+                },
+                {
+                    "token": "fonterutoli",
+                    "count": 1
+                },
+                {
+                    "token": "jean",
+                    "count": 1
+                },
+                {
+                    "token": "collet",
+                    "count": 1
+                },
+                {
+                    "token": "fils",
+                    "count": 1
+                },
+                {
+                    "token": "galoupet",
+                    "count": 1
+                },
+                {
+                    "token": "prieure-lichine",
+                    "count": 1
+                },
+                {
+                    "token": "koonnunga",
+                    "count": 1
+                },
+                {
+                    "token": "penfolds",
+                    "count": 1
+                },
+                {
+                    "token": "runrig",
+                    "count": 1
+                },
+                {
+                    "token": "lafite",
+                    "count": 1
+                },
+                {
+                    "token": "rossignol",
+                    "count": 1
+                },
+                {
+                    "token": "decoy",
+                    "count": 1
+                },
+                {
+                    "token": "cirsion",
+                    "count": 1
+                },
+                {
+                    "token": "laroche",
+                    "count": 1
+                },
+                {
+                    "token": "pichon-longueville",
+                    "count": 1
+                },
+                {
+                    "token": "guigal",
+                    "count": 1
+                },
+                {
+                    "token": "castillo",
+                    "count": 1
+                },
+                {
+                    "token": "talbot",
+                    "count": 1
+                }
+            ],
+            "гео_объекты": [
+                {
+                    "token": "долина",
+                    "count": 7
+                },
+                {
+                    "token": "valley",
+                    "count": 10
+                },
+                {
+                    "token": "vineyard",
+                    "count": 2
+                },
+                {
+                    "token": "hill",
+                    "count": 1
+                },
+                {
+                    "token": "hills",
+                    "count": 1
+                },
+                {
+                    "token": "hillside",
+                    "count": 1
+                },
+                {
+                    "token": "uco",
+                    "count": 1
+                },
+                {
+                    "token": "river",
+                    "count": 1
+                },
+                {
+                    "token": "roero",
+                    "count": 1
+                }
+            ],
+            "традиционные_названия": [
+                {
+                    "token": "киндзмараули",
+                    "count": 4
+                },
+                {
+                    "token": "kindzmarauli",
+                    "count": 3
+                },
+                {
+                    "token": "пиросмани",
+                    "count": 3
+                },
+                {
+                    "token": "pirosmani",
+                    "count": 2
+                },
+                {
+                    "token": "ахашени",
+                    "count": 3
+                },
+                {
+                    "token": "твиши",
+                    "count": 3
+                },
+                {
+                    "token": "tvishi",
+                    "count": 1
+                },
+                {
+                    "token": "хванчкара",
+                    "count": 1
+                },
+                {
+                    "token": "khvanchkara",
+                    "count": 3
+                },
+                {
+                    "token": "оджалеши",
+                    "count": 2
+                },
+                {
+                    "token": "цинандали",
+                    "count": 2
+                },
+                {
+                    "token": "tsinandali",
+                    "count": 2
+                },
+                {
+                    "token": "saperavi",
+                    "count": 9
+                },
+                {
+                    "token": "саперави",
+                    "count": 6
+                },
+                {
+                    "token": "rkatsiteli",
+                    "count": 3
+                },
+                {
+                    "token": "ркацители",
+                    "count": 1
+                },
+                {
+                    "token": "mukuzani",
+                    "count": 1
+                },
+                {
+                    "token": "алазанская",
+                    "count": 6
+                },
+                {
+                    "token": "alazani",
+                    "count": 7
+                },
+                {
+                    "token": "алазани",
+                    "count": 1
+                },
+                {
+                    "token": "кахетинская",
+                    "count": 1
+                },
+                {
+                    "token": "кахетинское",
+                    "count": 1
+                }
+            ],
+            "ароматика_вкус": [
+                {
+                    "token": "sweet",
+                    "count": 15
+                },
+                {
+                    "token": "moscato",
+                    "count": 5
+                },
+                {
+                    "token": "muscat",
+                    "count": 7
+                },
+                {
+                    "token": "херес",
+                    "count": 5
+                },
+                {
+                    "token": "cherry",
+                    "count": 2
+                },
+                {
+                    "token": "strawberry",
+                    "count": 1
+                },
+                {
+                    "token": "plum",
+                    "count": 1
+                },
+                {
+                    "token": "pear",
+                    "count": 1
+                },
+                {
+                    "token": "kiwi",
+                    "count": 1
+                },
+                {
+                    "token": "apricot",
+                    "count": 1
+                },
+                {
+                    "token": "mango",
+                    "count": 1
+                },
+                {
+                    "token": "гранатовое",
+                    "count": 1
+                },
+                {
+                    "token": "pomergranate",
+                    "count": 1
+                },
+                {
+                    "token": "spice",
+                    "count": 1
+                },
+                {
+                    "token": "smooth",
+                    "count": 1
+                },
+                {
+                    "token": "fruit",
+                    "count": 1
+                },
+                {
+                    "token": "relax",
+                    "count": 1
+                },
+                {
+                    "token": "cool",
+                    "count": 1
+                }
+            ],
+            "типы_напитков": [
+                {
+                    "token": "винный",
+                    "count": 4
+                },
+                {
+                    "token": "напиток",
+                    "count": 4
+                },
+                {
+                    "token": "глинтвейн",
+                    "count": 1
+                },
+                {
+                    "token": "gluhwein",
+                    "count": 2
+                },
+                {
+                    "token": "шери",
+                    "count": 0
+                },
+                {
+                    "token": "sherry",
+                    "count": 1
+                },
+                {
+                    "token": "amontillado",
+                    "count": 2
+                },
+                {
+                    "token": "palo",
+                    "count": 1
+                },
+                {
+                    "token": "cortado",
+                    "count": 1
+                },
+                {
+                    "token": "pedro",
+                    "count": 2
+                },
+                {
+                    "token": "ximenez",
+                    "count": 2
+                },
+                {
+                    "token": "prosecco",
+                    "count": 1
+                },
+                {
+                    "token": "sparkling",
+                    "count": 2
+                },
+                {
+                    "token": "игристое",
+                    "count": 1
+                },
+                {
+                    "token": "brut",
+                    "count": 1
+                },
+                {
+                    "token": "alcohol free",
+                    "count": 0
+                },
+                {
+                    "token": "free",
+                    "count": 1
+                },
+                {
+                    "token": "безалкогольное",
+                    "count": 9
+                },
+                {
+                    "token": "ice",
+                    "count": 1
+                },
+                {
+                    "token": "port wine",
+                    "count": 0
+                },
+                {
+                    "token": "tawny",
+                    "count": 0
+                }
+            ],
+            "прочие_характеристики": [
+                {
+                    "token": "organic",
+                    "count": 4
+                },
+                {
+                    "token": "bio",
+                    "count": 3
+                },
+                {
+                    "token": "old",
+                    "count": 2
+                },
+                {
+                    "token": "aged",
+                    "count": 1
+                },
+                {
+                    "token": "premium",
+                    "count": 1
+                },
+                {
+                    "token": "limited",
+                    "count": 1
+                },
+                {
+                    "token": "edition",
+                    "count": 2
+                },
+                {
+                    "token": "crystal",
+                    "count": 1
+                },
+                {
+                    "token": "smooth",
+                    "count": 1
+                },
+                {
+                    "token": "cool",
+                    "count": 1
+                },
+                {
+                    "token": "chilled",
+                    "count": 1
+                },
+                {
+                    "token": "chill",
+                    "count": 1
+                },
+                {
+                    "token": "low calorie",
+                    "count": 0
+                },
+                {
+                    "token": "lower",
+                    "count": 1
+                },
+                {
+                    "token": "calorie",
+                    "count": 1
+                },
+                {
+                    "token": "calories",
+                    "count": 1
+                },
+                {
+                    "token": "reduced",
+                    "count": 1
+                },
+                {
+                    "token": "assemblage",
+                    "count": 1
+                },
+                {
+                    "token": "fermented",
+                    "count": 1
+                },
+                {
+                    "token": "mold",
+                    "count": 1
+                },
+                {
+                    "token": "extra",
+                    "count": 1
+                },
+                {
+                    "token": "extra dry",
+                    "count": 0
+                },
+                {
+                    "token": "original",
+                    "count": 1
+                },
+                {
+                    "token": "nature",
+                    "count": 1
+                },
+                {
+                    "token": "free",
+                    "count": 1
+                },
+                {
+                    "token": "alcohol",
+                    "count": 1
+                },
+                {
+                    "token": "smooth",
+                    "count": 1
+                },
+                {
+                    "token": "spice",
+                    "count": 1
+                },
+                {
+                    "token": "travertin",
+                    "count": 1
+                },
+                {
+                    "token": "number",
+                    "count": 1
+                },
+                {
+                    "token": "0",
+                    "count": 2
+                },
+                {
+                    "token": "1",
+                    "count": 1
+                },
+                {
+                    "token": "3",
+                    "count": 2
+                }
+            ],
+            "other": []
+        }
+    },
+    "Алкоголь/Виски": {
+        "groups": {
+            "типы_виски": [
+                {
+                    "token": "купажированный",
+                    "count": 203
+                },
+                {
+                    "token": "blended",
+                    "count": 16
+                },
+                {
+                    "token": "бленд",
+                    "count": 5
+                },
+                {
+                    "token": "blend",
+                    "count": 1
+                },
+                {
+                    "token": "односолодовый",
+                    "count": 187
+                },
+                {
+                    "token": "malt",
+                    "count": 31
+                },
+                {
+                    "token": "солодовый",
+                    "count": 7
+                },
+                {
+                    "token": "солод",
+                    "count": 16
+                },
+                {
+                    "token": "single",
+                    "count": 30
+                },
+                {
+                    "token": "pure",
+                    "count": 3
+                },
+                {
+                    "token": "зерновой",
+                    "count": 4
+                },
+                {
+                    "token": "grain",
+                    "count": 3
+                },
+                {
+                    "token": "однозерновой",
+                    "count": 2
+                },
+                {
+                    "token": "ржаной",
+                    "count": 3
+                },
+                {
+                    "token": "rye",
+                    "count": 3
+                },
+                {
+                    "token": "бурбон",
+                    "count": 37
+                },
+                {
+                    "token": "bourbon",
+                    "count": 1
+                },
+                {
+                    "token": "american",
+                    "count": 3
+                },
+                {
+                    "token": "irish",
+                    "count": 6
+                },
+                {
+                    "token": "ирландский",
+                    "count": 1
+                },
+                {
+                    "token": "scotch",
+                    "count": 10
+                },
+                {
+                    "token": "whisky",
+                    "count": 10
+                },
+                {
+                    "token": "whiskey",
+                    "count": 3
+                },
+                {
+                    "token": "japanese",
+                    "count": 2
+                },
+                {
+                    "token": "kurayoshi",
+                    "count": 2
+                },
+                {
+                    "token": "miyagikyo",
+                    "count": 1
+                },
+                {
+                    "token": "kakubin",
+                    "count": 1
+                },
+                {
+                    "token": "tennessee",
+                    "count": 1
+                },
+                {
+                    "token": "rum",
+                    "count": 3
+                },
+                {
+                    "token": "caribbean",
+                    "count": 3
+                },
+                {
+                    "token": "whiskyzero",
+                    "count": 1
+                }
+            ],
+            "крепость_возраст": [
+                {
+                    "token": "aged",
+                    "count": 4
+                },
+                {
+                    "token": "matured",
+                    "count": 2
+                },
+                {
+                    "token": "strength",
+                    "count": 2
+                },
+                {
+                    "token": "y.o.",
+                    "count": 3
+                },
+                {
+                    "token": "x.o.",
+                    "count": 2
+                },
+                {
+                    "token": "y.o",
+                    "count": 1
+                },
+                {
+                    "token": "№1",
+                    "count": 2
+                },
+                {
+                    "token": "№04",
+                    "count": 1
+                },
+                {
+                    "token": "№2",
+                    "count": 1
+                },
+                {
+                    "token": "№007",
+                    "count": 1
+                },
+                {
+                    "token": "release",
+                    "count": 1
+                },
+                {
+                    "token": "release#18",
+                    "count": 1
+                },
+                {
+                    "token": "old",
+                    "count": 1
+                },
+                {
+                    "token": "strong",
+                    "count": 0
+                }
+            ],
+            "стили_технологии": [
+                {
+                    "token": "cask",
+                    "count": 30
+                },
+                {
+                    "token": "barrel",
+                    "count": 7
+                },
+                {
+                    "token": "oak",
+                    "count": 8
+                },
+                {
+                    "token": "wood",
+                    "count": 6
+                },
+                {
+                    "token": "finish",
+                    "count": 5
+                },
+                {
+                    "token": "sherry",
+                    "count": 10
+                },
+                {
+                    "token": "oloroso",
+                    "count": 1
+                },
+                {
+                    "token": "px",
+                    "count": 1
+                },
+                {
+                    "token": "p.x.",
+                    "count": 1
+                },
+                {
+                    "token": "marsala",
+                    "count": 2
+                },
+                {
+                    "token": "port",
+                    "count": 3
+                },
+                {
+                    "token": "sauternes",
+                    "count": 2
+                },
+                {
+                    "token": "ruby",
+                    "count": 2
+                },
+                {
+                    "token": "triple",
+                    "count": 5
+                },
+                {
+                    "token": "double",
+                    "count": 8
+                },
+                {
+                    "token": "small",
+                    "count": 5
+                },
+                {
+                    "token": "batch",
+                    "count": 6
+                },
+                {
+                    "token": "peated",
+                    "count": 1
+                },
+                {
+                    "token": "smoky",
+                    "count": 1
+                },
+                {
+                    "token": "smokey",
+                    "count": 1
+                },
+                {
+                    "token": "maturation",
+                    "count": 1
+                },
+                {
+                    "token": "matured",
+                    "count": 2
+                },
+                {
+                    "token": "pot",
+                    "count": 1
+                },
+                {
+                    "token": "still",
+                    "count": 1
+                },
+                {
+                    "token": "пьюр-пот-стилл",
+                    "count": 1
+                },
+                {
+                    "token": "finish",
+                    "count": 5
+                },
+                {
+                    "token": "finition",
+                    "count": 1
+                },
+                {
+                    "token": "distilled",
+                    "count": 1
+                },
+                {
+                    "token": "brew",
+                    "count": 1
+                },
+                {
+                    "token": "crafted",
+                    "count": 1
+                },
+                {
+                    "token": "special",
+                    "count": 1
+                },
+                {
+                    "token": "cold",
+                    "count": 1
+                },
+                {
+                    "token": "oaked",
+                    "count": 1
+                },
+                {
+                    "token": "coffey",
+                    "count": 2
+                },
+                {
+                    "token": "quarter",
+                    "count": 1
+                },
+                {
+                    "token": "casks",
+                    "count": 1
+                },
+                {
+                    "token": "ipa",
+                    "count": 1
+                }
+            ],
+            "ароматика_вкус": [
+                {
+                    "token": "honey",
+                    "count": 5
+                },
+                {
+                    "token": "apple",
+                    "count": 3
+                },
+                {
+                    "token": "orange",
+                    "count": 2
+                },
+                {
+                    "token": "cherry",
+                    "count": 1
+                },
+                {
+                    "token": "tropical",
+                    "count": 1
+                },
+                {
+                    "token": "cacao",
+                    "count": 1
+                },
+                {
+                    "token": "coffee",
+                    "count": 1
+                },
+                {
+                    "token": "spiced",
+                    "count": 1
+                },
+                {
+                    "token": "smooth",
+                    "count": 3
+                },
+                {
+                    "token": "smooth&mellow",
+                    "count": 1
+                },
+                {
+                    "token": "smoky",
+                    "count": 1
+                },
+                {
+                    "token": "smokey",
+                    "count": 1
+                },
+                {
+                    "token": "peated",
+                    "count": 1
+                },
+                {
+                    "token": "dark",
+                    "count": 1
+                },
+                {
+                    "token": "rich",
+                    "count": 2
+                },
+                {
+                    "token": "dessert",
+                    "count": 2
+                },
+                {
+                    "token": "mellon",
+                    "count": 1
+                },
+                {
+                    "token": "nectar",
+                    "count": 1
+                }
+            ],
+            "география_регионы": [
+                {
+                    "token": "irish",
+                    "count": 6
+                },
+                {
+                    "token": "ирландский",
+                    "count": 1
+                },
+                {
+                    "token": "scotch",
+                    "count": 10
+                },
+                {
+                    "token": "highland",
+                    "count": 1
+                },
+                {
+                    "token": "lowland",
+                    "count": 1
+                },
+                {
+                    "token": "dufftown",
+                    "count": 3
+                },
+                {
+                    "token": "skye",
+                    "count": 1
+                },
+                {
+                    "token": "american",
+                    "count": 3
+                },
+                {
+                    "token": "tennessee",
+                    "count": 1
+                },
+                {
+                    "token": "japanese",
+                    "count": 2
+                },
+                {
+                    "token": "kurayoshi",
+                    "count": 2
+                },
+                {
+                    "token": "miyagikyo",
+                    "count": 1
+                },
+                {
+                    "token": "kakubin",
+                    "count": 1
+                },
+                {
+                    "token": "tokyo",
+                    "count": 1
+                },
+                {
+                    "token": "caribbean",
+                    "count": 3
+                },
+                {
+                    "token": "portuguese",
+                    "count": 1
+                },
+                {
+                    "token": "marsala",
+                    "count": 2
+                },
+                {
+                    "token": "sauternes",
+                    "count": 2
+                },
+                {
+                    "token": "ruby",
+                    "count": 2
+                },
+                {
+                    "token": "san-in",
+                    "count": 1
+                }
+            ],
+            "гео_объекты": [
+                {
+                    "token": "sea",
+                    "count": 1
+                },
+                {
+                    "token": "land",
+                    "count": 1
+                },
+                {
+                    "token": "bay",
+                    "count": 1
+                },
+                {
+                    "token": "earth",
+                    "count": 2
+                },
+                {
+                    "token": "island",
+                    "count": 0
+                },
+                {
+                    "token": "skye",
+                    "count": 1
+                }
+            ],
+            "классификация": [
+                {
+                    "token": "reserve",
+                    "count": 7
+                },
+                {
+                    "token": "select",
+                    "count": 4
+                },
+                {
+                    "token": "classic",
+                    "count": 2
+                },
+                {
+                    "token": "grand",
+                    "count": 3
+                },
+                {
+                    "token": "rare",
+                    "count": 3
+                },
+                {
+                    "token": "original",
+                    "count": 12
+                },
+                {
+                    "token": "imported",
+                    "count": 1
+                },
+                {
+                    "token": "edition",
+                    "count": 2
+                },
+                {
+                    "token": "special",
+                    "count": 1
+                },
+                {
+                    "token": "release",
+                    "count": 1
+                },
+                {
+                    "token": "release#18",
+                    "count": 1
+                },
+                {
+                    "token": "heritage",
+                    "count": 1
+                },
+                {
+                    "token": "founders",
+                    "count": 1
+                },
+                {
+                    "token": "founder`s",
+                    "count": 2
+                },
+                {
+                    "token": "master's",
+                    "count": 1
+                },
+                {
+                    "token": "collection",
+                    "count": 1
+                },
+                {
+                    "token": "№1",
+                    "count": 2
+                },
+                {
+                    "token": "№04",
+                    "count": 1
+                },
+                {
+                    "token": "№2",
+                    "count": 1
+                },
+                {
+                    "token": "№007",
+                    "count": 1
+                },
+                {
+                    "token": "x.o.",
+                    "count": 2
+                },
+                {
+                    "token": "y.o.",
+                    "count": 3
+                },
+                {
+                    "token": "y.o",
+                    "count": 1
+                }
+            ],
+            "бренды_линейки": [
+                {
+                    "token": "grants",
+                    "count": 9
+                },
+                {
+                    "token": "dewars",
+                    "count": 4
+                },
+                {
+                    "token": "ballantines",
+                    "count": 3
+                },
+                {
+                    "token": "caskmates",
+                    "count": 3
+                },
+                {
+                    "token": "dufftown",
+                    "count": 3
+                },
+                {
+                    "token": "gb",
+                    "count": 2
+                },
+                {
+                    "token": "kurayoshi",
+                    "count": 2
+                },
+                {
+                    "token": "lasanta",
+                    "count": 2
+                },
+                {
+                    "token": "quinta",
+                    "count": 2
+                },
+                {
+                    "token": "ruban",
+                    "count": 2
+                },
+                {
+                    "token": "project",
+                    "count": 2
+                },
+                {
+                    "token": "coffey",
+                    "count": 2
+                },
+                {
+                    "token": "classic",
+                    "count": 2
+                },
+                {
+                    "token": "harmony",
+                    "count": 2
+                },
+                {
+                    "token": "bruichladdich",
+                    "count": 1
+                },
+                {
+                    "token": "aurora",
+                    "count": 1
+                },
+                {
+                    "token": "casado",
+                    "count": 1
+                },
+                {
+                    "token": "podium",
+                    "count": 1
+                },
+                {
+                    "token": "solist",
+                    "count": 1
+                },
+                {
+                    "token": "bush",
+                    "count": 1
+                },
+                {
+                    "token": "breed",
+                    "count": 1
+                },
+                {
+                    "token": "jack",
+                    "count": 1
+                },
+                {
+                    "token": "deniels",
+                    "count": 1
+                },
+                {
+                    "token": "journey",
+                    "count": 1
+                },
+                {
+                    "token": "heritage",
+                    "count": 1
+                },
+                {
+                    "token": "highland",
+                    "count": 1
+                },
+                {
+                    "token": "lowland",
+                    "count": 1
+                },
+                {
+                    "token": "northland",
+                    "count": 1
+                },
+                {
+                    "token": "ultis",
+                    "count": 1
+                },
+                {
+                    "token": "signet",
+                    "count": 1
+                },
+                {
+                    "token": "stiuireadair",
+                    "count": 1
+                },
+                {
+                    "token": "cane",
+                    "count": 1
+                },
+                {
+                    "token": "bulleit",
+                    "count": 1
+                },
+                {
+                    "token": "kakubin",
+                    "count": 1
+                },
+                {
+                    "token": "miyagikyo",
+                    "count": 1
+                },
+                {
+                    "token": "san-in",
+                    "count": 1
+                },
+                {
+                    "token": "arboralis",
+                    "count": 1
+                },
+                {
+                    "token": "morven",
+                    "count": 1
+                },
+                {
+                    "token": "machir",
+                    "count": 1
+                },
+                {
+                    "token": "couronne",
+                    "count": 1
+                },
+                {
+                    "token": "skye",
+                    "count": 1
+                },
+                {
+                    "token": "glansa",
+                    "count": 1
+                },
+                {
+                    "token": "an",
+                    "count": 1
+                },
+                {
+                    "token": "oa",
+                    "count": 1
+                },
+                {
+                    "token": "tale",
+                    "count": 1
+                },
+                {
+                    "token": "legacy",
+                    "count": 1
+                },
+                {
+                    "token": "corryvreckan",
+                    "count": 1
+                },
+                {
+                    "token": "in",
+                    "count": 1
+                },
+                {
+                    "token": "from",
+                    "count": 1
+                },
+                {
+                    "token": "gold",
+                    "count": 1
+                },
+                {
+                    "token": "good",
+                    "count": 1
+                },
+                {
+                    "token": "love",
+                    "count": 1
+                },
+                {
+                    "token": "you",
+                    "count": 1
+                },
+                {
+                    "token": "days",
+                    "count": 1
+                },
+                {
+                    "token": "queen",
+                    "count": 1
+                },
+                {
+                    "token": "mary",
+                    "count": 1
+                }
+            ],
+            "прочие_характеристики": [
+                {
+                    "token": "original",
+                    "count": 12
+                },
+                {
+                    "token": "black",
+                    "count": 10
+                },
+                {
+                    "token": "white",
+                    "count": 3
+                },
+                {
+                    "token": "red",
+                    "count": 3
+                },
+                {
+                    "token": "box",
+                    "count": 18
+                },
+                {
+                    "token": "tube",
+                    "count": 8
+                },
+                {
+                    "token": "set",
+                    "count": 1
+                },
+                {
+                    "token": "gift",
+                    "count": 1
+                },
+                {
+                    "token": "select",
+                    "count": 4
+                },
+                {
+                    "token": "rare",
+                    "count": 3
+                },
+                {
+                    "token": "special",
+                    "count": 1
+                },
+                {
+                    "token": "limited",
+                    "count": 0
+                },
+                {
+                    "token": "smooth",
+                    "count": 3
+                },
+                {
+                    "token": "smoky",
+                    "count": 1
+                },
+                {
+                    "token": "smokey",
+                    "count": 1
+                },
+                {
+                    "token": "rich",
+                    "count": 2
+                },
+                {
+                    "token": "dark",
+                    "count": 1
+                },
+                {
+                    "token": "imported",
+                    "count": 1
+                },
+                {
+                    "token": "good",
+                    "count": 1
+                },
+                {
+                    "token": "strength",
+                    "count": 2
+                },
+                {
+                    "token": "oaked",
+                    "count": 1
+                },
+                {
+                    "token": "extra",
+                    "count": 1
+                },
+                {
+                    "token": "grand",
+                    "count": 3
+                },
+                {
+                    "token": "mosaic",
+                    "count": 1
+                },
+                {
+                    "token": "crafted",
+                    "count": 1
+                },
+                {
+                    "token": "refined",
+                    "count": 1
+                },
+                {
+                    "token": "smoky",
+                    "count": 1
+                },
+                {
+                    "token": "spiced",
+                    "count": 1
+                },
+                {
+                    "token": "classic",
+                    "count": 2
+                },
+                {
+                    "token": "tradition",
+                    "count": 0
+                },
+                {
+                    "token": "brewed",
+                    "count": 0
+                },
+                {
+                    "token": "cold",
+                    "count": 1
+                },
+                {
+                    "token": "brew",
+                    "count": 1
+                }
+            ],
+            "other": []
+        }
+    },
+    "Алкоголь/Водка": {
+        "groups": {
+            "типы_водки": [
+                {
+                    "token": "классическая",
+                    "count": 391
+                },
+                {
+                    "token": "классический",
+                    "count": 11
+                },
+                {
+                    "token": "original",
+                    "count": 10
+                },
+                {
+                    "token": "оригинальная",
+                    "count": 9
+                },
+                {
+                    "token": "мягкий",
+                    "count": 136
+                },
+                {
+                    "token": "мягкая",
+                    "count": 4
+                },
+                {
+                    "token": "soft",
+                    "count": 1
+                },
+                {
+                    "token": "особая",
+                    "count": 12
+                },
+                {
+                    "token": "традиционная",
+                    "count": 5
+                },
+                {
+                    "token": "авторский",
+                    "count": 2
+                },
+                {
+                    "token": "ординарная",
+                    "count": 1
+                },
+                {
+                    "token": "органическая",
+                    "count": 14
+                },
+                {
+                    "token": "ecologic",
+                    "count": 1
+                },
+                {
+                    "token": "premium",
+                    "count": 17
+                },
+                {
+                    "token": "премиум",
+                    "count": 1
+                },
+                {
+                    "token": "superior",
+                    "count": 1
+                },
+                {
+                    "token": "noble",
+                    "count": 1
+                },
+                {
+                    "token": "regal",
+                    "count": 1
+                },
+                {
+                    "token": "легкая",
+                    "count": 1
+                },
+                {
+                    "token": "зерновой",
+                    "count": 91
+                },
+                {
+                    "token": "зерновая",
+                    "count": 2
+                },
+                {
+                    "token": "солодовая",
+                    "count": 10
+                },
+                {
+                    "token": "солоде",
+                    "count": 2
+                },
+                {
+                    "token": "кукурузная",
+                    "count": 3
+                },
+                {
+                    "token": "пшеничная",
+                    "count": 1
+                },
+                {
+                    "token": "пшеничном",
+                    "count": 1
+                },
+                {
+                    "token": "grain",
+                    "count": 1
+                },
+                {
+                    "token": "corn",
+                    "count": 1
+                },
+                {
+                    "token": "ароматизированная",
+                    "count": 26
+                },
+                {
+                    "token": "фруктовая",
+                    "count": 22
+                },
+                {
+                    "token": "виноградная",
+                    "count": 4
+                },
+                {
+                    "token": "виноград",
+                    "count": 2
+                },
+                {
+                    "token": "соджу",
+                    "count": 13
+                },
+                {
+                    "token": "soju",
+                    "count": 2
+                },
+                {
+                    "token": "chamisul",
+                    "count": 1
+                },
+                {
+                    "token": "sake",
+                    "count": 2
+                },
+                {
+                    "token": "junmai",
+                    "count": 1
+                },
+                {
+                    "token": "grappa",
+                    "count": 2
+                },
+                {
+                    "token": "samogon",
+                    "count": 0
+                },
+                {
+                    "token": "самогон",
+                    "count": 1
+                }
+            ],
+            "ароматика_вкус": [
+                {
+                    "token": "лимон",
+                    "count": 6
+                },
+                {
+                    "token": "лайм",
+                    "count": 4
+                },
+                {
+                    "token": "lime",
+                    "count": 1
+                },
+                {
+                    "token": "цитрус",
+                    "count": 3
+                },
+                {
+                    "token": "citron",
+                    "count": 1
+                },
+                {
+                    "token": "грейпфрут",
+                    "count": 5
+                },
+                {
+                    "token": "grapefruit",
+                    "count": 1
+                },
+                {
+                    "token": "яблоко",
+                    "count": 5
+                },
+                {
+                    "token": "pear",
+                    "count": 1
+                },
+                {
+                    "token": "pears",
+                    "count": 1
+                },
+                {
+                    "token": "слива",
+                    "count": 5
+                },
+                {
+                    "token": "персик",
+                    "count": 2
+                },
+                {
+                    "token": "маракуйя",
+                    "count": 1
+                },
+                {
+                    "token": "passionfruit",
+                    "count": 1
+                },
+                {
+                    "token": "манго",
+                    "count": 2
+                },
+                {
+                    "token": "клубника",
+                    "count": 2
+                },
+                {
+                    "token": "strawberry",
+                    "count": 1
+                },
+                {
+                    "token": "вишня",
+                    "count": 1
+                },
+                {
+                    "token": "малина",
+                    "count": 1
+                },
+                {
+                    "token": "кизил",
+                    "count": 1
+                },
+                {
+                    "token": "морошка",
+                    "count": 1
+                },
+                {
+                    "token": "berry",
+                    "count": 1
+                },
+                {
+                    "token": "wild",
+                    "count": 1
+                },
+                {
+                    "token": "смородина",
+                    "count": 6
+                },
+                {
+                    "token": "currant",
+                    "count": 1
+                },
+                {
+                    "token": "брусника",
+                    "count": 2
+                },
+                {
+                    "token": "клюква",
+                    "count": 5
+                },
+                {
+                    "token": "мед",
+                    "count": 6
+                },
+                {
+                    "token": "медовая",
+                    "count": 1
+                },
+                {
+                    "token": "honey",
+                    "count": 1
+                },
+                {
+                    "token": "ваниль",
+                    "count": 3
+                },
+                {
+                    "token": "vanilla",
+                    "count": 1
+                },
+                {
+                    "token": "миндаль",
+                    "count": 1
+                },
+                {
+                    "token": "специи",
+                    "count": 1
+                },
+                {
+                    "token": "травы",
+                    "count": 2
+                },
+                {
+                    "token": "имбирь",
+                    "count": 1
+                },
+                {
+                    "token": "перец",
+                    "count": 1
+                },
+                {
+                    "token": "перцем",
+                    "count": 1
+                },
+                {
+                    "token": "ocean",
+                    "count": 2
+                },
+                {
+                    "token": "air",
+                    "count": 1
+                },
+                {
+                    "token": "forest",
+                    "count": 1
+                },
+                {
+                    "token": "ice",
+                    "count": 9
+                },
+                {
+                    "token": "deep&ice",
+                    "count": 1
+                },
+                {
+                    "token": "ледяная",
+                    "count": 1
+                },
+                {
+                    "token": "морозная",
+                    "count": 1
+                },
+                {
+                    "token": "ледной",
+                    "count": 1
+                },
+                {
+                    "token": "fresh",
+                    "count": 2
+                },
+                {
+                    "token": "прохлада",
+                    "count": 3
+                },
+                {
+                    "token": "summer",
+                    "count": 2
+                },
+                {
+                    "token": "autumn",
+                    "count": 1
+                },
+                {
+                    "token": "winter",
+                    "count": 1
+                },
+                {
+                    "token": "energy",
+                    "count": 2
+                }
+            ],
+            "стили_технологии": [
+                {
+                    "token": "distilled",
+                    "count": 2
+                },
+                {
+                    "token": "выдержка",
+                    "count": 1
+                },
+                {
+                    "token": "угольная",
+                    "count": 1
+                },
+                {
+                    "token": "угольный",
+                    "count": 1
+                },
+                {
+                    "token": "barrel",
+                    "count": 1
+                },
+                {
+                    "token": "handmade",
+                    "count": 2
+                },
+                {
+                    "token": "made",
+                    "count": 1
+                },
+                {
+                    "token": "craft",
+                    "count": 0
+                },
+                {
+                    "token": "handcrafted",
+                    "count": 0
+                },
+                {
+                    "token": "deep&ice",
+                    "count": 1
+                },
+                {
+                    "token": "export",
+                    "count": 4
+                },
+                {
+                    "token": "standard",
+                    "count": 3
+                },
+                {
+                    "token": "luxe",
+                    "count": 4
+                },
+                {
+                    "token": "lux",
+                    "count": 2
+                },
+                {
+                    "token": "люкс",
+                    "count": 4
+                },
+                {
+                    "token": "select",
+                    "count": 4
+                },
+                {
+                    "token": "premium",
+                    "count": 17
+                },
+                {
+                    "token": "премиум",
+                    "count": 1
+                },
+                {
+                    "token": "platinum",
+                    "count": 5
+                },
+                {
+                    "token": "платинум",
+                    "count": 2
+                },
+                {
+                    "token": "gold",
+                    "count": 9
+                },
+                {
+                    "token": "золотая",
+                    "count": 4
+                },
+                {
+                    "token": "silver",
+                    "count": 1
+                },
+                {
+                    "token": "серебряная",
+                    "count": 4
+                },
+                {
+                    "token": "ultra",
+                    "count": 2
+                },
+                {
+                    "token": "superior",
+                    "count": 1
+                },
+                {
+                    "token": "energy",
+                    "count": 2
+                },
+                {
+                    "token": "export",
+                    "count": 4
+                },
+                {
+                    "token": "transatlantic",
+                    "count": 3
+                },
+                {
+                    "token": "atlantic",
+                    "count": 1
+                },
+                {
+                    "token": "atlantik",
+                    "count": 1
+                },
+                {
+                    "token": "arctic",
+                    "count": 2
+                },
+                {
+                    "token": "siberian",
+                    "count": 2
+                },
+                {
+                    "token": "siberia",
+                    "count": 1
+                },
+                {
+                    "token": "ocean",
+                    "count": 2
+                },
+                {
+                    "token": "tube",
+                    "count": 1
+                },
+                {
+                    "token": "box",
+                    "count": 1
+                }
+            ],
+            "география_регионы": [
+                {
+                    "token": "kazakhstan",
+                    "count": 5
+                },
+                {
+                    "token": "qazaqstan",
+                    "count": 2
+                },
+                {
+                    "token": "republic",
+                    "count": 2
+                },
+                {
+                    "token": "siberian",
+                    "count": 2
+                },
+                {
+                    "token": "siberia",
+                    "count": 1
+                },
+                {
+                    "token": "сибирский",
+                    "count": 2
+                },
+                {
+                    "token": "сибири",
+                    "count": 1
+                },
+                {
+                    "token": "карельские",
+                    "count": 4
+                },
+                {
+                    "token": "карелии",
+                    "count": 1
+                },
+                {
+                    "token": "зеренда",
+                    "count": 3
+                },
+                {
+                    "token": "arctic",
+                    "count": 2
+                },
+                {
+                    "token": "transatlantic",
+                    "count": 3
+                },
+                {
+                    "token": "atlantic",
+                    "count": 1
+                },
+                {
+                    "token": "atlantik",
+                    "count": 1
+                },
+                {
+                    "token": "national",
+                    "count": 1
+                }
+            ],
+            "классификация": [
+                "premium",
+                "премиум",
+                "superior",
+                "luxe",
+                "lux",
+                "люкс",
+                "select",
+                "classic",
+                "standard",
+                "original",
+                "authentic",
+                "gold",
+                "золотая",
+                "silver",
+                "серебряная",
+                "platinum",
+                "платинум",
+                "№1",
+                "№2",
+                "№21",
+                "#1",
+                "1",
+                "2",
+                "3",
+                "edition",
+                "reserve",
+                "royal",
+                "regal",
+                "grand",
+                "absolute"
+            ],
+            "бренды_линейки": [
+                "legend",
+                "nomad",
+                "coral",
+                "kazakhstan",
+                "qazaqstan",
+                "transatlantic",
+                "life",
+                "delikat",
+                "authentic",
+                "fresh",
+                "arctic",
+                "siberian",
+                "siberia",
+                "onyx",
+                "racing",
+                "republic",
+                "горыныч",
+                "grappa",
+                "soju",
+                "sake",
+                "energy",
+                "handmade",
+                "ocean",
+                "mountain",
+                "star",
+                "spirit",
+                "cotton",
+                "atlantic",
+                "карелии",
+                "autumn",
+                "crystal",
+                "air",
+                "royal",
+                "batyl",
+                "nagyz",
+                "novaя",
+                "деревенская",
+                "asyl",
+                "siberia",
+                "forest",
+                "chamisul",
+                "tchaikovskiy",
+                "junmai",
+                "absolute",
+                "family",
+                "made",
+                "atlantik",
+                "первомайский",
+                "samogon",
+                "deep",
+                "drive",
+                "nordic",
+                "line"
+            ],
+            "прочие_характеристики": [
+                "мягкий",
+                "легкая",
+                "мягкая",
+                "мягкости",
+                "органическая",
+                "ecologic",
+                "ice",
+                "ледяная",
+                "ледной",
+                "морозная",
+                "черная",
+                "white",
+                "black",
+                "red",
+                "blue",
+                "light",
+                "standard",
+                "export",
+                "ultra",
+                "superior",
+                "серебряная",
+                "золотая",
+                "platinum",
+                "gold",
+                "silver",
+                "authentic",
+                "original",
+                "classic",
+                "premium",
+                "lux",
+                "luxe",
+                "люкс",
+                "summer",
+                "autumn",
+                "winter",
+                "fresh",
+                "прохлада",
+                "energy",
+                "distilled",
+                "выдержка",
+                "угольная",
+                "угольный",
+                "barrel",
+                "handmade",
+                "made",
+                "deep&ice",
+                "deep",
+                "ultra",
+                "mineral",
+                "минеральной",
+                "воде",
+                "author's",
+                "авторский",
+                "заповедная",
+                "родниковая",
+                "wild",
+                "berry",
+                "ягоды",
+                "традиционная",
+                "отборная",
+                "домашний",
+                "soft",
+                "strong",
+                "огненный",
+                "ecologic",
+                "novaя",
+                "мгла",
+                "вечная",
+                "мерзлота",
+                "угольный",
+                "air",
+                "forest",
+                "crystal",
+                "ледниковая",
+                "swarovsky"
+            ],
+            "other": []
+        }
+    },
+    "Алкоголь/Джин": {
+        "groups": {
+            "типы_джина": [
+                "dry",
+                "extra",
+                "gin",
+                "genever",
+                "london",
+                "premium",
+                "original",
+                "originale"
+            ],
+            "ароматика_вкус": [
+                "strawberry",
+                "strawberry&mint",
+                "blackberry",
+                "blackcurrant",
+                "grapefruit",
+                "lime",
+                "lemon",
+                "orange",
+                "оранжевый",
+                "яблоко",
+                "apple&lychee",
+                "личи",
+                "mango",
+                "cherry",
+                "вишня",
+                "mint",
+                "spiced",
+                "rouge",
+                "rose",
+                "pink",
+                "royale",
+                "rangpur",
+                "jardin",
+                "d'ete",
+                "love"
+            ],
+            "стили_технологии": [
+                "dry",
+                "extra",
+                "coffey",
+                "twisted",
+                "oriental",
+                "spiced",
+                "orbium"
+            ],
+            "география_регионы": [
+                "london",
+                "islay",
+                "kyoto",
+                "oriental"
+            ],
+            "бренды_линейки": [
+                "gordons",
+                "ten",
+                "stork",
+                "orbium",
+                "royale",
+                "royal",
+                "grand",
+                "cabaret",
+                "coffey",
+                "kyoto",
+                "rangpur",
+                "jardin"
+            ],
+            "классификация": [
+                "premium",
+                "original",
+                "originale",
+                "extra",
+                "royal",
+                "grand",
+                "gold",
+                "blue",
+                "pink",
+                "rose",
+                "rouge"
+            ],
+            "прочие_характеристики": [
+                "прозрачный",
+                "белый",
+                "розовый",
+                "фиолетовый",
+                "оранжевый",
+                "голубой",
+                "желтый",
+                "зеленый",
+                "blue",
+                "pink",
+                "rose",
+                "rouge",
+                "dry",
+                "extra",
+                "original",
+                "originale",
+                "premium",
+                "rush",
+                "tonic",
+                "love"
+            ],
+            "other": []
+        }
+    },
+    "Алкоголь/Ингредиенты для приготовления алкоголя": {
+        "groups": {
+            "типы": [
+                "набор",
+                "настойки",
+                "дрожжи",
+                "спиртовые",
+                "ароматизатор",
+                "turbo",
+                "хмель",
+                "пивные",
+                "настаивания",
+                "щепа",
+                "эссенция",
+                "уголь",
+                "солод",
+                "концентрат",
+                "винные",
+                "средство",
+                "фильтрации",
+                "осветитель",
+                "бонификатор",
+                "пеногаситель",
+                "коньяка",
+                "концентрат",
+                "сидр",
+                "декстроза",
+                "софэксил-1520",
+                "чипсы",
+                "turbo",
+                "c48",
+                "classic",
+                "ерофеич",
+                "сбитень",
+                "традиционная",
+                "трава",
+                "настойка",
+                "бражные",
+                "фермент",
+                "стабилизатор",
+                "остановитель",
+                "сусла",
+                "брожения",
+                "liqueur",
+                "краситель",
+                "бочка",
+                "активированный",
+                "инстантные",
+                "сахар",
+                "энзимы",
+                "глюкаваморин",
+                "ферментированный",
+                "экстракт",
+                "плашка",
+                "палочка",
+                "мелассе",
+                "дрожжей",
+                "глицерин",
+                "смесь",
+                "активатор",
+                "роста",
+                "фруктоза",
+                "актив",
+                "bioreactor",
+                "витаминная",
+                "панты",
+                "фруктовые",
+                "glutamate",
+                "натрия",
+                "сульфиты"
+            ],
+            "ароматика_вкус": [
+                "коньяк",
+                "виски",
+                "ликер",
+                "кальвадос",
+                "ром",
+                "зубровка",
+                "хреновуха",
+                "вишня",
+                "грушевый",
+                "вишневый",
+                "лимончелло",
+                "биттер",
+                "карамельный",
+                "яблочный",
+                "фруктовый",
+                "пряный",
+                "пряная",
+                "ореховый",
+                "миндальный",
+                "мятный",
+                "апельсиновый",
+                "кофейный",
+                "лимонная",
+                "лимонный",
+                "ванильная",
+                "ежевика",
+                "малина",
+                "малиновый",
+                "малиново-миндальный",
+                "raspberry",
+                "ягодная",
+                "черри",
+                "чернослив",
+                "сливовый",
+                "фруктовый",
+                "черноплодка",
+                "ягодный",
+                "нектар",
+                "травяная",
+                "кедровая",
+                "карамельный",
+                "черносмородиновая",
+                "анисовая",
+                "кедрач",
+                "мед",
+                "кедровый",
+                "орех",
+                "виноград",
+                "черничная",
+                "лавандовая",
+                "лимоном",
+                "абрикос",
+                "кизиловка",
+                "барбарис",
+                "черемуха",
+                "липa",
+                "цедра",
+                "апельсин",
+                "сангрия",
+                "терн",
+                "айва",
+                "дыня",
+                "манго",
+                "яблоко",
+                "мята",
+                "blue curacao",
+                "samogon",
+                "анисовка",
+                "клюква",
+                "клюковка",
+                "клубничной",
+                "цитрусовая",
+                "экзотика",
+                "черничной",
+                "шоколад",
+                "фисташковый",
+                "чай",
+                "облепиховый",
+                " лимонная",
+                "мятная"
+            ],
+            "стили_технологии": [
+                "гранулированный",
+                "обжига",
+                "дубовая",
+                "дубовые",
+                "дуба",
+                "обжиг",
+                "копченая",
+                "копченый",
+                "сильного",
+                "среднего",
+                "сильный",
+                "торфяной",
+                "меланоидиновый",
+                "ферментированный",
+                "традиционная",
+                "domashniy",
+                "industrial",
+                "distilling",
+                "brew",
+                "samogon",
+                "активированный",
+                "фильтрации",
+                "осветитель",
+                "пеногаситель",
+                "бонификатор",
+                "стабилизатор",
+                "остановитель",
+                "разжижения",
+                "брожения",
+                "фермент",
+                "энзимы",
+                "инстантные",
+                "классический",
+                "premium",
+                "classic",
+                "tradition",
+                "strong",
+                "quick",
+                "universal",
+                "activator",
+                "glucamorin",
+                "malt",
+                "lager",
+                "ale"
+            ],
+            "география_регионы": [
+                "кавказского",
+                "алтайская",
+                "алтайский",
+                "алтая",
+                "арктик",
+                "французский",
+                "армянский",
+                "кубинский",
+                "ирландский",
+                "американского",
+                "французского",
+                "irish",
+                "ukrainian",
+                "москва",
+                "байкал",
+                "чешский",
+                "немецкий",
+                "испанский",
+                "мексиканский",
+                "датская",
+                "dansk",
+                "bavaria",
+                "bavarian",
+                "венский",
+                "мюнхенский",
+                "италия",
+                "italian",
+                "georgian",
+                "японский",
+                "japanese",
+                "kentucky",
+                "jamaican",
+                "moscow"
+            ],
+            "классификация": [
+                "набор",
+                "настойки",
+                "эссенция",
+                "концентрат",
+                "средство",
+                "подарочный",
+                "серия",
+                "premium",
+                "classic",
+                "xxl",
+                "megapack",
+                "industrial",
+                "standard",
+                "универсальный",
+                "quick",
+                "strong",
+                "extra",
+                "tradition"
+            ],
+            "бренды_линейки": [
+                "safspirit",
+                "saflager",
+                "yeast",
+                "wb-06",
+                "s-23",
+                "c48",
+                "m1",
+                "nugget",
+                "kampari",
+                "cognac",
+                "brandy",
+                "m20",
+                "m29",
+                "m31",
+                "m36",
+                "m42",
+                "m44",
+                "m48",
+                "m54",
+                "m66",
+                "m76",
+                "m84",
+                "saphir",
+                "cascade",
+                "perle",
+                "irish",
+                "absinthe",
+                "bavaria",
+                "bavarian",
+                "samogon",
+                "seagrams",
+                "vienna",
+                "distillyarus",
+                "whisky-usw-6",
+                "us-05",
+                "w34/70",
+                "sambuca",
+                "s-62",
+                "s-33",
+                "ec-1118",
+                "k1-v1116",
+                "fd-3",
+                "sn9",
+                "s103"
+            ],
+            "прочие_характеристики": [
+                "гранулированный",
+                "пачек",
+                "по",
+                "на",
+                "сильного",
+                "среднего",
+                "подарочный",
+                "домашний",
+                "граф",
+                "разумовский",
+                "корень",
+                "ореха",
+                "трава",
+                "дух",
+                "скорлупа",
+                "часов",
+                "палочки",
+                "перегородки",
+                "листьев",
+                "листочки",
+                "вес",
+                "грамм",
+                "0",
+                "2",
+                "5",
+                "10",
+                "100l",
+                "200l",
+                "2×250",
+                "№1",
+                "№2",
+                "№5",
+                "№6",
+                "№9",
+                "№11",
+                "№19",
+                "№41",
+                "№45",
+                "№48",
+                "№50",
+                "№53",
+                "№54",
+                "№55",
+                "№59",
+                "№61",
+                "№62",
+                "№64",
+                "№72",
+                "№74",
+                "№77",
+                "№79",
+                "яркость",
+                "домашнего",
+                "история",
+                "здоровье",
+                "благодать",
+                "изобилие",
+                "сбор",
+                "трав",
+                "бодрость",
+                "вечерняя",
+                "новый",
+                "старый"
+            ]
+        }
+    }
+}

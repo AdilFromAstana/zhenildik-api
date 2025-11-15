@@ -1,0 +1,336 @@
+[
+  {
+    "original": "Kovis мини-маффин с вареной сгущенкой 12 шт",
+    "cleanTokens": [
+      "мини-маффин",
+      "с",
+      "вареной",
+      "сгущенкой"
+    ],
+    "normalizedTokens": [
+      "мини-маффин",
+      "с",
+      "вареной",
+      "сгущенкой",
+      "12 шт"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": "12 шт",
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Kovis мини-маффин Шоколадный крем 470 г",
+    "cleanTokens": [
+      "мини-маффин",
+      "шоколадный",
+      "крем"
+    ],
+    "normalizedTokens": [
+      "мини-маффин",
+      "шоколадный",
+      "крем",
+      "470 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "470 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "MAGNUM маффин ванильный 6 шт 210 г",
+    "cleanTokens": [
+      "маффин",
+      "ванильный"
+    ],
+    "normalizedTokens": [
+      "маффин",
+      "ванильный",
+      "6 шт",
+      "210 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "210 г",
+      "count": "6 шт",
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Kovis мини-маффин Клубника 470 г",
+    "cleanTokens": [
+      "мини-маффин",
+      "клубника"
+    ],
+    "normalizedTokens": [
+      "мини-маффин",
+      "клубника",
+      "470 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "470 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мастер Десерта мини-рулет с клубничным джемом",
+    "cleanTokens": [
+      "мини-рулет",
+      "с",
+      "клубничным",
+      "джемом"
+    ],
+    "normalizedTokens": [
+      "мини-рулет",
+      "с",
+      "клубничным",
+      "джемом"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Kovis маффин С ванильным кремом 470 г",
+    "cleanTokens": [
+      "маффин",
+      "с",
+      "ванильным",
+      "кремом"
+    ],
+    "normalizedTokens": [
+      "маффин",
+      "с",
+      "ванильным",
+      "кремом",
+      "470 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "470 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мастер Десерта мини-рулет шоколад, орех",
+    "cleanTokens": [
+      "мини-рулет",
+      "шоколад",
+      "орех"
+    ],
+    "normalizedTokens": [
+      "мини-рулет",
+      "шоколад",
+      "орех"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мастер Десерта мини-рулет с вареной сгущенкой",
+    "cleanTokens": [
+      "мини-рулет",
+      "с",
+      "вареной",
+      "сгущенкой"
+    ],
+    "normalizedTokens": [
+      "мини-рулет",
+      "с",
+      "вареной",
+      "сгущенкой"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Kovis маффин Ягодное ассорти 470 г",
+    "cleanTokens": [
+      "маффин",
+      "ягодное",
+      "ассорти"
+    ],
+    "normalizedTokens": [
+      "маффин",
+      "ягодное",
+      "ассорти",
+      "470 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "470 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Kovis мини-маффин Вишневый 470 г",
+    "cleanTokens": [
+      "мини-маффин",
+      "вишневый"
+    ],
+    "normalizedTokens": [
+      "мини-маффин",
+      "вишневый",
+      "470 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "470 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Milka кекс Soft and Choc c кусочками шоколада 35 г",
+    "cleanTokens": [
+      "кекс",
+      "soft",
+      "and",
+      "choc",
+      "c",
+      "кусочками",
+      "шоколада"
+    ],
+    "normalizedTokens": [
+      "кекс",
+      "soft",
+      "and",
+      "choc",
+      "c",
+      "кусочками",
+      "шоколада",
+      "35 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "35 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Pechenka круассан с вареной сгущенкой",
+    "cleanTokens": [
+      "круассан",
+      "с",
+      "вареной",
+      "сгущенкой"
+    ],
+    "normalizedTokens": [
+      "круассан",
+      "с",
+      "вареной",
+      "сгущенкой"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мастер Десерта мини-рулет ягодный сбор",
+    "cleanTokens": [
+      "мини-рулет",
+      "ягодный",
+      "сбор"
+    ],
+    "normalizedTokens": [
+      "мини-рулет",
+      "ягодный",
+      "сбор"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "JOUY&CO бисквит Cravingz Spongiez chocolate шоколадный 200 г",
+    "cleanTokens": [
+      "бисквит",
+      "cravingz",
+      "spongiez",
+      "chocolate",
+      "шоколадный"
+    ],
+    "normalizedTokens": [
+      "бисквит",
+      "cravingz",
+      "spongiez",
+      "chocolate",
+      "шоколадный",
+      "200 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "200 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  }
+]

@@ -1,0 +1,2123 @@
+[
+  {
+    "original": "Джин Beefeater оранжевый 37.5% 0.7 л",
+    "cleanTokens": [
+      "оранжевый"
+    ],
+    "normalizedTokens": [
+      "оранжевый",
+      "37.5%",
+      "0.7 л"
+    ],
+    "params": {
+      "volume": "0.7 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "37.5%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Джин BACCHUS яблоко, личи 5% 0.45 л",
+    "cleanTokens": [
+      "яблоко",
+      "личи"
+    ],
+    "normalizedTokens": [
+      "яблоко",
+      "личи",
+      "5%",
+      "0.45 л"
+    ],
+    "params": {
+      "volume": "0.45 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "5%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Джин Campobay прозрачный 40% 500 мл",
+    "cleanTokens": [
+      "прозрачный"
+    ],
+    "normalizedTokens": [
+      "прозрачный",
+      "40%",
+      "500 мл"
+    ],
+    "params": {
+      "volume": "500 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "40%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Джин Bombay Sapphire Gin 47% 1 л",
+    "cleanTokens": [
+      "gin"
+    ],
+    "normalizedTokens": [
+      "gin",
+      "47%",
+      "1 л"
+    ],
+    "params": {
+      "volume": "1 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "47%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Джин Hendrick's прозрачный 41.4% 700 мл",
+    "cleanTokens": [
+      "прозрачный"
+    ],
+    "normalizedTokens": [
+      "прозрачный",
+      "41.4%",
+      "700 мл"
+    ],
+    "params": {
+      "volume": "700 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "41.4%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Джин Bombay Sapphire голубой 47% 0.7 л",
+    "cleanTokens": [
+      "голубой"
+    ],
+    "normalizedTokens": [
+      "голубой",
+      "47%",
+      "0.7 л"
+    ],
+    "params": {
+      "volume": "0.7 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "47%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Джин Gordon`s Premium Pink 37.5% 0.7 л",
+    "cleanTokens": [
+      "premium",
+      "pink"
+    ],
+    "normalizedTokens": [
+      "premium",
+      "pink",
+      "37.5%",
+      "0.7 л"
+    ],
+    "params": {
+      "volume": "0.7 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "37.5%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Джин Finsbury London Dry Gin прозрачный 47% 0.7 л",
+    "cleanTokens": [
+      "london",
+      "dry",
+      "gin",
+      "прозрачный"
+    ],
+    "normalizedTokens": [
+      "london",
+      "dry",
+      "gin",
+      "прозрачный",
+      "47%",
+      "0.7 л"
+    ],
+    "params": {
+      "volume": "0.7 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "47%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Джин Hoppers прозрачный 40% 700 мл",
+    "cleanTokens": [
+      "прозрачный"
+    ],
+    "normalizedTokens": [
+      "прозрачный",
+      "40%",
+      "700 мл"
+    ],
+    "params": {
+      "volume": "700 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "40%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Джин HENKES Royal Stork Gin белый 43% 0.75 л",
+    "cleanTokens": [
+      "royal",
+      "stork",
+      "gin",
+      "белый"
+    ],
+    "normalizedTokens": [
+      "royal",
+      "stork",
+      "gin",
+      "белый",
+      "43%",
+      "0.75 л"
+    ],
+    "params": {
+      "volume": "0.75 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "43%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Джин Finsbury London Dry Gin прозрачный 60% 1 л",
+    "cleanTokens": [
+      "london",
+      "dry",
+      "gin",
+      "прозрачный"
+    ],
+    "normalizedTokens": [
+      "london",
+      "dry",
+      "gin",
+      "прозрачный",
+      "60%",
+      "1 л"
+    ],
+    "params": {
+      "volume": "1 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "60%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Джин Zantho прозрачный 40% 500 мл",
+    "cleanTokens": [
+      "прозрачный"
+    ],
+    "normalizedTokens": [
+      "прозрачный",
+      "40%",
+      "500 мл"
+    ],
+    "params": {
+      "volume": "500 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "40%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Джин Zantho белый, прозрачный 40% 500 мл",
+    "cleanTokens": [
+      "белый",
+      "прозрачный"
+    ],
+    "normalizedTokens": [
+      "белый",
+      "прозрачный",
+      "40%",
+      "500 мл"
+    ],
+    "params": {
+      "volume": "500 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "40%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Джин Tanqueray прозрачный 47.3% 700 мл",
+    "cleanTokens": [
+      "прозрачный"
+    ],
+    "normalizedTokens": [
+      "прозрачный",
+      "47.3%",
+      "700 мл"
+    ],
+    "params": {
+      "volume": "700 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "47.3%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Джин Beefeater dry прозрачный 47% 0.05 л",
+    "cleanTokens": [
+      "dry",
+      "прозрачный"
+    ],
+    "normalizedTokens": [
+      "dry",
+      "прозрачный",
+      "47%",
+      "0.05 л"
+    ],
+    "params": {
+      "volume": "0.05 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "47%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Джин Hendrick's Orbium 44% 0.7 л",
+    "cleanTokens": [
+      "orbium"
+    ],
+    "normalizedTokens": [
+      "orbium",
+      "44%",
+      "0.7 л"
+    ],
+    "params": {
+      "volume": "0.7 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "44%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Джин Beefeater Blackberry фиолетовый 37.5% 0.7 л",
+    "cleanTokens": [
+      "blackberry",
+      "фиолетовый"
+    ],
+    "normalizedTokens": [
+      "blackberry",
+      "фиолетовый",
+      "37.5%",
+      "0.7 л"
+    ],
+    "params": {
+      "volume": "0.7 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "37.5%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Джин Larios Dry Gin 40% 1 л",
+    "cleanTokens": [
+      "dry",
+      "gin"
+    ],
+    "normalizedTokens": [
+      "dry",
+      "gin",
+      "40%",
+      "1 л"
+    ],
+    "params": {
+      "volume": "1 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "40%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Джин The Botanist Islay Dry Gin 22 белый 46% 0.7 л",
+    "cleanTokens": [
+      "islay",
+      "dry",
+      "gin",
+      "22",
+      "белый"
+    ],
+    "normalizedTokens": [
+      "islay",
+      "dry",
+      "gin",
+      "22",
+      "белый",
+      "46%",
+      "0.7 л"
+    ],
+    "params": {
+      "volume": "0.7 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "46%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Джин Barrister фиолетовый 40% 0.7 л",
+    "cleanTokens": [
+      "фиолетовый"
+    ],
+    "normalizedTokens": [
+      "фиолетовый",
+      "40%",
+      "0.7 л"
+    ],
+    "params": {
+      "volume": "0.7 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "40%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Джин Hendrick's Grand Cabaret прозрачный 43.4% 700 мл",
+    "cleanTokens": [
+      "grand",
+      "cabaret",
+      "прозрачный"
+    ],
+    "normalizedTokens": [
+      "grand",
+      "cabaret",
+      "прозрачный",
+      "43.4%",
+      "700 мл"
+    ],
+    "params": {
+      "volume": "700 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "43.4%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Джин Barrister Orange 43% 0.7 л",
+    "cleanTokens": [
+      "orange"
+    ],
+    "normalizedTokens": [
+      "orange",
+      "43%",
+      "0.7 л"
+    ],
+    "params": {
+      "volume": "0.7 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "43%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Джин Marlborough прозрачный 37.5% 1 л",
+    "cleanTokens": [
+      "прозрачный"
+    ],
+    "normalizedTokens": [
+      "прозрачный",
+      "37.5%",
+      "1 л"
+    ],
+    "params": {
+      "volume": "1 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "37.5%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Джин Gordons оранжевый 37.5% 0.7 л",
+    "cleanTokens": [
+      "gordons",
+      "оранжевый"
+    ],
+    "normalizedTokens": [
+      "gordons",
+      "оранжевый",
+      "37.5%",
+      "0.7 л"
+    ],
+    "params": {
+      "volume": "0.7 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "37.5%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Джин Tanqueray оранжевый 41% 700 мл",
+    "cleanTokens": [
+      "оранжевый"
+    ],
+    "normalizedTokens": [
+      "оранжевый",
+      "41%",
+      "700 мл"
+    ],
+    "params": {
+      "volume": "700 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "41%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Джин Tanqueray Ten прозрачный 47.3% 0.7 л",
+    "cleanTokens": [
+      "ten",
+      "прозрачный"
+    ],
+    "normalizedTokens": [
+      "ten",
+      "прозрачный",
+      "47.3%",
+      "0.7 л"
+    ],
+    "params": {
+      "volume": "0.7 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "47.3%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Джин Bickens London Dry Gin 40% 1 л",
+    "cleanTokens": [
+      "london",
+      "dry",
+      "gin"
+    ],
+    "normalizedTokens": [
+      "london",
+      "dry",
+      "gin",
+      "40%",
+      "1 л"
+    ],
+    "params": {
+      "volume": "1 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "40%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Джин Nikka Coffey прозрачный 47% 700 мл",
+    "cleanTokens": [
+      "coffey",
+      "прозрачный"
+    ],
+    "normalizedTokens": [
+      "coffey",
+      "прозрачный",
+      "47%",
+      "700 мл"
+    ],
+    "params": {
+      "volume": "700 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "47%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Джин WINDSOR Gin белый 37.5% 0.7 л",
+    "cleanTokens": [
+      "gin",
+      "белый"
+    ],
+    "normalizedTokens": [
+      "gin",
+      "белый",
+      "37.5%",
+      "0.7 л"
+    ],
+    "params": {
+      "volume": "0.7 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "37.5%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Джин Rose D Argent London Dry прозрачный 40% 0.7 л",
+    "cleanTokens": [
+      "london",
+      "dry",
+      "прозрачный"
+    ],
+    "normalizedTokens": [
+      "london",
+      "dry",
+      "прозрачный",
+      "40%",
+      "0.7 л"
+    ],
+    "params": {
+      "volume": "0.7 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "40%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Джин Jamun прозрачный 42.8% 0.75 л",
+    "cleanTokens": [
+      "прозрачный"
+    ],
+    "normalizedTokens": [
+      "прозрачный",
+      "42.8%",
+      "0.75 л"
+    ],
+    "params": {
+      "volume": "0.75 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "42.8%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Джин Opihr Oriental Spiced Gin белый 42.5% 0.7 л",
+    "cleanTokens": [
+      "oriental",
+      "spiced",
+      "gin",
+      "белый"
+    ],
+    "normalizedTokens": [
+      "oriental",
+      "spiced",
+      "gin",
+      "белый",
+      "42.5%",
+      "0.7 л"
+    ],
+    "params": {
+      "volume": "0.7 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "42.5%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Джин BACCHUS Strawberry&Mint розовый 7.7% 0.7 л",
+    "cleanTokens": [
+      "strawberry&mint",
+      "розовый"
+    ],
+    "normalizedTokens": [
+      "strawberry&mint",
+      "розовый",
+      "7.7%",
+      "0.7 л"
+    ],
+    "params": {
+      "volume": "0.7 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "7.7%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Джин Jamun прозрачный 42.8% 750 мл",
+    "cleanTokens": [
+      "прозрачный"
+    ],
+    "normalizedTokens": [
+      "прозрачный",
+      "42.8%",
+      "750 мл"
+    ],
+    "params": {
+      "volume": "750 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "42.8%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Джин Bickens London Dry Gin 40% 0.7 л",
+    "cleanTokens": [
+      "london",
+      "dry",
+      "gin"
+    ],
+    "normalizedTokens": [
+      "london",
+      "dry",
+      "gin",
+      "40%",
+      "0.7 л"
+    ],
+    "params": {
+      "volume": "0.7 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "40%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Джин BACCHUS Apple&lychee зеленый 7.7% 0.7 л",
+    "cleanTokens": [
+      "apple&lychee",
+      "зеленый"
+    ],
+    "normalizedTokens": [
+      "apple&lychee",
+      "зеленый",
+      "7.7%",
+      "0.7 л"
+    ],
+    "params": {
+      "volume": "0.7 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "7.7%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Джин Tanqueray Ten прозрачный 47% 0.7 л",
+    "cleanTokens": [
+      "ten",
+      "прозрачный"
+    ],
+    "normalizedTokens": [
+      "ten",
+      "прозрачный",
+      "47%",
+      "0.7 л"
+    ],
+    "params": {
+      "volume": "0.7 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "47%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Джин Ki No Bi Kyoto Dry Gin белый 50% 0.7 л",
+    "cleanTokens": [
+      "kyoto",
+      "dry",
+      "gin",
+      "белый"
+    ],
+    "normalizedTokens": [
+      "kyoto",
+      "dry",
+      "gin",
+      "белый",
+      "50%",
+      "0.7 л"
+    ],
+    "params": {
+      "volume": "0.7 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "50%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Джин The London №1 голубой 47% 700 мл",
+    "cleanTokens": [
+      "голубой"
+    ],
+    "normalizedTokens": [
+      "голубой",
+      "47%",
+      "700 мл"
+    ],
+    "params": {
+      "volume": "700 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "47%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Джин BACCHUS Cherry 8.7% 0.33 л",
+    "cleanTokens": [
+      "cherry"
+    ],
+    "normalizedTokens": [
+      "cherry",
+      "8.7%",
+      "0.33 л"
+    ],
+    "params": {
+      "volume": "0.33 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "8.7%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Джин Gordon`s London Dry розовый 37.5% 1 л",
+    "cleanTokens": [
+      "london",
+      "dry",
+      "розовый"
+    ],
+    "normalizedTokens": [
+      "london",
+      "dry",
+      "розовый",
+      "37.5%",
+      "1 л"
+    ],
+    "params": {
+      "volume": "1 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "37.5%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Джин Seagram's Extra Dry белый 40% 1000 мл",
+    "cleanTokens": [
+      "extra",
+      "dry",
+      "белый"
+    ],
+    "normalizedTokens": [
+      "extra",
+      "dry",
+      "белый",
+      "40%",
+      "1000 мл"
+    ],
+    "params": {
+      "volume": "1000 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "40%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Джин Citadelle Rouge прозрачный 41.7% 0.75 л",
+    "cleanTokens": [
+      "rouge",
+      "прозрачный"
+    ],
+    "normalizedTokens": [
+      "rouge",
+      "прозрачный",
+      "41.7%",
+      "0.75 л"
+    ],
+    "params": {
+      "volume": "0.75 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "41.7%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Джин Green Baboon белый 43% 0.5 л",
+    "cleanTokens": [
+      "белый"
+    ],
+    "normalizedTokens": [
+      "белый",
+      "43%",
+      "0.5 л"
+    ],
+    "params": {
+      "volume": "0.5 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "43%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Джин Tanqueray Rangpur прозрачный 41.3% 1 л",
+    "cleanTokens": [
+      "rangpur",
+      "прозрачный"
+    ],
+    "normalizedTokens": [
+      "rangpur",
+      "прозрачный",
+      "41.3%",
+      "1 л"
+    ],
+    "params": {
+      "volume": "1 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "41.3%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Джин Drumshanbo Gunpowder прозрачный 43% 0.7 л",
+    "cleanTokens": [
+      "прозрачный"
+    ],
+    "normalizedTokens": [
+      "прозрачный",
+      "43%",
+      "0.7 л"
+    ],
+    "params": {
+      "volume": "0.7 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "43%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Джин BULLDOG прозрачный 40% 0.7 л",
+    "cleanTokens": [
+      "прозрачный"
+    ],
+    "normalizedTokens": [
+      "прозрачный",
+      "40%",
+      "0.7 л"
+    ],
+    "params": {
+      "volume": "0.7 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "40%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Джин Mr.H белый 40% 0.5 л",
+    "cleanTokens": [
+      "белый"
+    ],
+    "normalizedTokens": [
+      "белый",
+      "40%",
+      "0.5 л"
+    ],
+    "params": {
+      "volume": "0.5 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "40%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Джин Tanqueray прозрачный 47.3% 1 л",
+    "cleanTokens": [
+      "прозрачный"
+    ],
+    "normalizedTokens": [
+      "прозрачный",
+      "47.3%",
+      "1 л"
+    ],
+    "params": {
+      "volume": "1 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "47.3%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Джин BACCHUS вишня прозрачный 8.7% 0.7 л",
+    "cleanTokens": [
+      "вишня",
+      "прозрачный"
+    ],
+    "normalizedTokens": [
+      "вишня",
+      "прозрачный",
+      "8.7%",
+      "0.7 л"
+    ],
+    "params": {
+      "volume": "0.7 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "8.7%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Джин Bols Genever Original 42% 0.7 л",
+    "cleanTokens": [
+      "genever",
+      "original"
+    ],
+    "normalizedTokens": [
+      "genever",
+      "original",
+      "42%",
+      "0.7 л"
+    ],
+    "params": {
+      "volume": "0.7 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "42%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Джин BACCHUS Rush прозрачный 7.7% 0.33 л",
+    "cleanTokens": [
+      "rush",
+      "прозрачный"
+    ],
+    "normalizedTokens": [
+      "rush",
+      "прозрачный",
+      "7.7%",
+      "0.33 л"
+    ],
+    "params": {
+      "volume": "0.33 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "7.7%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Джин Queen Rose розовый 40% 0.5 л",
+    "cleanTokens": [
+      "rose",
+      "розовый"
+    ],
+    "normalizedTokens": [
+      "rose",
+      "розовый",
+      "40%",
+      "0.5 л"
+    ],
+    "params": {
+      "volume": "0.5 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "40%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Джин Queen Gold желтый 40% 0.5 л",
+    "cleanTokens": [
+      "gold",
+      "желтый"
+    ],
+    "normalizedTokens": [
+      "gold",
+      "желтый",
+      "40%",
+      "0.5 л"
+    ],
+    "params": {
+      "volume": "0.5 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "40%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Джин BACCHUS Strawberry & Mint розовый 7.7% 0.33 л",
+    "cleanTokens": [
+      "strawberry",
+      "&",
+      "mint",
+      "розовый"
+    ],
+    "normalizedTokens": [
+      "strawberry",
+      "&",
+      "mint",
+      "розовый",
+      "7.7%",
+      "0.33 л"
+    ],
+    "params": {
+      "volume": "0.33 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "7.7%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Джин BACCHUS Gin Tonic Mango 8.7% 0.33 л",
+    "cleanTokens": [
+      "gin",
+      "tonic",
+      "mango"
+    ],
+    "normalizedTokens": [
+      "gin",
+      "tonic",
+      "mango",
+      "8.7%",
+      "0.33 л"
+    ],
+    "params": {
+      "volume": "0.33 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "8.7%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Джин Damrak Gin 42% 0.7 л",
+    "cleanTokens": [
+      "gin"
+    ],
+    "normalizedTokens": [
+      "gin",
+      "42%",
+      "0.7 л"
+    ],
+    "params": {
+      "volume": "0.7 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "42%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Джин Beefeater London Dry Gin прозрачный 40% 0.05 л",
+    "cleanTokens": [
+      "london",
+      "dry",
+      "gin",
+      "прозрачный"
+    ],
+    "normalizedTokens": [
+      "london",
+      "dry",
+      "gin",
+      "прозрачный",
+      "40%",
+      "0.05 л"
+    ],
+    "params": {
+      "volume": "0.05 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "40%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Джин BULLDOG London Dry Gin прозрачный 40% 1 л",
+    "cleanTokens": [
+      "london",
+      "dry",
+      "gin",
+      "прозрачный"
+    ],
+    "normalizedTokens": [
+      "london",
+      "dry",
+      "gin",
+      "прозрачный",
+      "40%",
+      "1 л"
+    ],
+    "params": {
+      "volume": "1 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "40%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Джин Drumshanbo Gunpowder прозрачный 43% 0.7 л",
+    "cleanTokens": [
+      "прозрачный"
+    ],
+    "normalizedTokens": [
+      "прозрачный",
+      "43%",
+      "0.7 л"
+    ],
+    "params": {
+      "volume": "0.7 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "43%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Джин Rose D Argent Strawberry розовый 40% 0.7 л",
+    "cleanTokens": [
+      "strawberry",
+      "розовый"
+    ],
+    "normalizedTokens": [
+      "strawberry",
+      "розовый",
+      "40%",
+      "0.7 л"
+    ],
+    "params": {
+      "volume": "0.7 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "40%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Джин Tanqueray Blackcurrant Royale фиолетовый 41.3% 1 л",
+    "cleanTokens": [
+      "blackcurrant",
+      "royale",
+      "фиолетовый"
+    ],
+    "normalizedTokens": [
+      "blackcurrant",
+      "royale",
+      "фиолетовый",
+      "41.3%",
+      "1 л"
+    ],
+    "params": {
+      "volume": "1 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "41.3%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Джин Tanqueray прозрачный 43.1% 1 л",
+    "cleanTokens": [
+      "прозрачный"
+    ],
+    "normalizedTokens": [
+      "прозрачный",
+      "43.1%",
+      "1 л"
+    ],
+    "params": {
+      "volume": "1 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "43.1%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Джин Drumshanbo Gunpowder прозрачный 43% 0.7 л",
+    "cleanTokens": [
+      "прозрачный"
+    ],
+    "normalizedTokens": [
+      "прозрачный",
+      "43%",
+      "0.7 л"
+    ],
+    "params": {
+      "volume": "0.7 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "43%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Джин PROPELLER 40% 0.75 л",
+    "cleanTokens": [],
+    "normalizedTokens": [
+      "40%",
+      "0.75 л"
+    ],
+    "params": {
+      "volume": "0.75 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "40%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Джин Seagrams Extra dry белый, прозрачный 40% 0.75 л",
+    "cleanTokens": [
+      "extra",
+      "dry",
+      "белый",
+      "прозрачный"
+    ],
+    "normalizedTokens": [
+      "extra",
+      "dry",
+      "белый",
+      "прозрачный",
+      "40%",
+      "0.75 л"
+    ],
+    "params": {
+      "volume": "0.75 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "40%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Джин BACCHUS Grapefruit 8.7% 0.33 л",
+    "cleanTokens": [
+      "grapefruit"
+    ],
+    "normalizedTokens": [
+      "grapefruit",
+      "8.7%",
+      "0.33 л"
+    ],
+    "params": {
+      "volume": "0.33 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "8.7%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Джин Seagrams Lime twisted прозрачный, желтый 35% 0.75 л",
+    "cleanTokens": [
+      "lime",
+      "twisted",
+      "прозрачный",
+      "желтый"
+    ],
+    "normalizedTokens": [
+      "lime",
+      "twisted",
+      "прозрачный",
+      "желтый",
+      "35%",
+      "0.75 л"
+    ],
+    "params": {
+      "volume": "0.75 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "35%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Джин Citadelle Jardin D'Ete прозрачный 41.5% 0.7 л",
+    "cleanTokens": [
+      "jardin",
+      "d'ete",
+      "прозрачный"
+    ],
+    "normalizedTokens": [
+      "jardin",
+      "d'ete",
+      "прозрачный",
+      "41.5%",
+      "0.7 л"
+    ],
+    "params": {
+      "volume": "0.7 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "41.5%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Джин Larios Rose розовый 37.5% 1 л",
+    "cleanTokens": [
+      "rose",
+      "розовый"
+    ],
+    "normalizedTokens": [
+      "rose",
+      "розовый",
+      "37.5%",
+      "1 л"
+    ],
+    "params": {
+      "volume": "1 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "37.5%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Джин MOM Love strawberry розовый 37.5% 0.7 л",
+    "cleanTokens": [
+      "love",
+      "strawberry",
+      "розовый"
+    ],
+    "normalizedTokens": [
+      "love",
+      "strawberry",
+      "розовый",
+      "37.5%",
+      "0.7 л"
+    ],
+    "params": {
+      "volume": "0.7 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "37.5%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Джин BACCHUS Gin Tonic Lemon 8.7% 0.33 л",
+    "cleanTokens": [
+      "gin",
+      "tonic",
+      "lemon"
+    ],
+    "normalizedTokens": [
+      "gin",
+      "tonic",
+      "lemon",
+      "8.7%",
+      "0.33 л"
+    ],
+    "params": {
+      "volume": "0.33 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "8.7%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Джин Lady Ann Gin Rose розовый 40% 0.7 л",
+    "cleanTokens": [
+      "gin",
+      "rose",
+      "розовый"
+    ],
+    "normalizedTokens": [
+      "gin",
+      "rose",
+      "розовый",
+      "40%",
+      "0.7 л"
+    ],
+    "params": {
+      "volume": "0.7 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "40%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Джин Citadelle Original прозрачный 44% 0.7 л",
+    "cleanTokens": [
+      "original",
+      "прозрачный"
+    ],
+    "normalizedTokens": [
+      "original",
+      "прозрачный",
+      "44%",
+      "0.7 л"
+    ],
+    "params": {
+      "volume": "0.7 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "44%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Джин BACCHUS Rush прозрачный 7.7% 0.7 л",
+    "cleanTokens": [
+      "rush",
+      "прозрачный"
+    ],
+    "normalizedTokens": [
+      "rush",
+      "прозрачный",
+      "7.7%",
+      "0.7 л"
+    ],
+    "params": {
+      "volume": "0.7 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "7.7%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Джин Bombay Sapphire Gin 47% 0.5 л",
+    "cleanTokens": [
+      "gin"
+    ],
+    "normalizedTokens": [
+      "gin",
+      "47%",
+      "0.5 л"
+    ],
+    "params": {
+      "volume": "0.5 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "47%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Джин Roku белый 43% 700 мл",
+    "cleanTokens": [
+      "белый"
+    ],
+    "normalizedTokens": [
+      "белый",
+      "43%",
+      "700 мл"
+    ],
+    "params": {
+      "volume": "700 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "43%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Джин Ameris зеленый 40% 700 мл",
+    "cleanTokens": [
+      "зеленый"
+    ],
+    "normalizedTokens": [
+      "зеленый",
+      "40%",
+      "700 мл"
+    ],
+    "params": {
+      "volume": "700 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "40%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Джин Monkey 47 прозрачный 47% 0.5 л",
+    "cleanTokens": [
+      "прозрачный"
+    ],
+    "normalizedTokens": [
+      "прозрачный",
+      "47%",
+      "0.5 л"
+    ],
+    "params": {
+      "volume": "0.5 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "47%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Джин Bickens Premium Pink Dry Gin 40% 0.7 л",
+    "cleanTokens": [
+      "premium",
+      "pink",
+      "dry",
+      "gin"
+    ],
+    "normalizedTokens": [
+      "premium",
+      "pink",
+      "dry",
+      "gin",
+      "40%",
+      "0.7 л"
+    ],
+    "params": {
+      "volume": "0.7 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "40%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Джин Barrister Pink 40% 0.7 л",
+    "cleanTokens": [
+      "pink"
+    ],
+    "normalizedTokens": [
+      "pink",
+      "40%",
+      "0.7 л"
+    ],
+    "params": {
+      "volume": "0.7 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "40%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Джин Tanqueray прозрачный 43.1% 700 мл",
+    "cleanTokens": [
+      "прозрачный"
+    ],
+    "normalizedTokens": [
+      "прозрачный",
+      "43.1%",
+      "700 мл"
+    ],
+    "params": {
+      "volume": "700 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "43.1%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Джин Malfy розовый 41% 700 мл",
+    "cleanTokens": [
+      "розовый"
+    ],
+    "normalizedTokens": [
+      "розовый",
+      "41%",
+      "700 мл"
+    ],
+    "params": {
+      "volume": "700 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "41%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Джин Hendrick's прозрачный 41.4% 0.05 л",
+    "cleanTokens": [
+      "прозрачный"
+    ],
+    "normalizedTokens": [
+      "прозрачный",
+      "41.4%",
+      "0.05 л"
+    ],
+    "params": {
+      "volume": "0.05 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "41.4%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Джин Gordons желтый 37.5% 700 мл",
+    "cleanTokens": [
+      "gordons",
+      "желтый"
+    ],
+    "normalizedTokens": [
+      "gordons",
+      "желтый",
+      "37.5%",
+      "700 мл"
+    ],
+    "params": {
+      "volume": "700 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "37.5%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Джин Beefeater Gin 40% 0.5 л",
+    "cleanTokens": [
+      "gin"
+    ],
+    "normalizedTokens": [
+      "gin",
+      "40%",
+      "0.5 л"
+    ],
+    "params": {
+      "volume": "0.5 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "40%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Джин Malfy прозрачный 41% 700 мл",
+    "cleanTokens": [
+      "прозрачный"
+    ],
+    "normalizedTokens": [
+      "прозрачный",
+      "41%",
+      "700 мл"
+    ],
+    "params": {
+      "volume": "700 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "41%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Джин Barrister Blue 40% 0.7 л",
+    "cleanTokens": [
+      "blue"
+    ],
+    "normalizedTokens": [
+      "blue",
+      "40%",
+      "0.7 л"
+    ],
+    "params": {
+      "volume": "0.7 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "40%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Джин Ameris голубой 40% 700 мл",
+    "cleanTokens": [
+      "голубой"
+    ],
+    "normalizedTokens": [
+      "голубой",
+      "40%",
+      "700 мл"
+    ],
+    "params": {
+      "volume": "700 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "40%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Джин Gordons прозрачный 37.5% 1000 мл",
+    "cleanTokens": [
+      "gordons",
+      "прозрачный"
+    ],
+    "normalizedTokens": [
+      "gordons",
+      "прозрачный",
+      "37.5%",
+      "1000 мл"
+    ],
+    "params": {
+      "volume": "1000 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "37.5%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Джин Tenjaku Gin 38% 0.7 л",
+    "cleanTokens": [
+      "gin"
+    ],
+    "normalizedTokens": [
+      "gin",
+      "38%",
+      "0.7 л"
+    ],
+    "params": {
+      "volume": "0.7 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "38%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Джин BACCHUS Gin Tonic Mango 8.7% 0.7 л",
+    "cleanTokens": [
+      "gin",
+      "tonic",
+      "mango"
+    ],
+    "normalizedTokens": [
+      "gin",
+      "tonic",
+      "mango",
+      "8.7%",
+      "0.7 л"
+    ],
+    "params": {
+      "volume": "0.7 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "8.7%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Джин Tanqueray Royale фиолетовый 41.3% 700 мл",
+    "cleanTokens": [
+      "royale",
+      "фиолетовый"
+    ],
+    "normalizedTokens": [
+      "royale",
+      "фиолетовый",
+      "41.3%",
+      "700 мл"
+    ],
+    "params": {
+      "volume": "700 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "41.3%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Джин Barrister Dry Gin 40% 0.5 л",
+    "cleanTokens": [
+      "dry",
+      "gin"
+    ],
+    "normalizedTokens": [
+      "dry",
+      "gin",
+      "40%",
+      "0.5 л"
+    ],
+    "params": {
+      "volume": "0.5 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "40%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Джин Tanqueray прозрачный 0% 700 мл",
+    "cleanTokens": [
+      "прозрачный"
+    ],
+    "normalizedTokens": [
+      "прозрачный",
+      "0%",
+      "700 мл"
+    ],
+    "params": {
+      "volume": "700 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "0%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Джин Malfy Originale белый 41% 0.7 л",
+    "cleanTokens": [
+      "originale",
+      "белый"
+    ],
+    "normalizedTokens": [
+      "originale",
+      "белый",
+      "41%",
+      "0.7 л"
+    ],
+    "params": {
+      "volume": "0.7 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "41%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Джин Ki No Bi прозрачный 45.7% 0.7 л",
+    "cleanTokens": [
+      "прозрачный"
+    ],
+    "normalizedTokens": [
+      "прозрачный",
+      "45.7%",
+      "0.7 л"
+    ],
+    "params": {
+      "volume": "0.7 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "45.7%",
+      "age": null,
+      "stars": null
+    }
+  }
+]

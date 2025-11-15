@@ -1,0 +1,388 @@
+[
+  {
+    "original": "Happy Corn в зернах сладко-соленый без добавок 100 г",
+    "cleanTokens": [
+      "в",
+      "зернах",
+      "сладко-соленый",
+      "без",
+      "добавок"
+    ],
+    "normalizedTokens": [
+      "в",
+      "зернах",
+      "сладко-соленый",
+      "без",
+      "добавок",
+      "100 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "100 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Happy Corn готовый классическая карамель 90 г",
+    "cleanTokens": [
+      "готовый",
+      "классическая",
+      "карамель"
+    ],
+    "normalizedTokens": [
+      "готовый",
+      "классическая",
+      "карамель",
+      "90 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "90 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Mister Popcorn в зернах сладко-соленый без добавок 22680 г",
+    "cleanTokens": [
+      "в",
+      "зернах",
+      "сладко-соленый",
+      "без",
+      "добавок"
+    ],
+    "normalizedTokens": [
+      "в",
+      "зернах",
+      "сладко-соленый",
+      "без",
+      "добавок",
+      "22680 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "22680 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Happy Corn готовый с солью 30 г",
+    "cleanTokens": [
+      "готовый",
+      "с",
+      "солью"
+    ],
+    "normalizedTokens": [
+      "готовый",
+      "с",
+      "солью",
+      "30 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "30 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Miss Popcorn в зернах сладко-соленый без добавок 22680 г",
+    "cleanTokens": [
+      "в",
+      "зернах",
+      "сладко-соленый",
+      "без",
+      "добавок"
+    ],
+    "normalizedTokens": [
+      "в",
+      "зернах",
+      "сладко-соленый",
+      "без",
+      "добавок",
+      "22680 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "22680 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Happy Corn готовый карамель с кокосовой стружкой 90 г",
+    "cleanTokens": [
+      "готовый",
+      "карамель",
+      "с",
+      "кокосовой",
+      "стружкой"
+    ],
+    "normalizedTokens": [
+      "готовый",
+      "карамель",
+      "с",
+      "кокосовой",
+      "стружкой",
+      "90 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "90 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "ЕВРО ФУДС готовый соленый шашлык 35 г",
+    "cleanTokens": [
+      "готовый",
+      "соленый",
+      "шашлык"
+    ],
+    "normalizedTokens": [
+      "готовый",
+      "соленый",
+      "шашлык",
+      "35 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "35 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Happy Corn готовый банан 85 г",
+    "cleanTokens": [
+      "готовый",
+      "банан"
+    ],
+    "normalizedTokens": [
+      "готовый",
+      "банан",
+      "85 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "85 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Happy Corn готовый карамель 85 г",
+    "cleanTokens": [
+      "готовый",
+      "карамель"
+    ],
+    "normalizedTokens": [
+      "готовый",
+      "карамель",
+      "85 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "85 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Chilimba готовый соленый краб 35 г",
+    "cleanTokens": [
+      "chilimba",
+      "готовый",
+      "соленый",
+      "краб"
+    ],
+    "normalizedTokens": [
+      "chilimba",
+      "готовый",
+      "соленый",
+      "краб",
+      "35 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "35 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Happy Corn готовый вишня 85 г",
+    "cleanTokens": [
+      "готовый",
+      "вишня"
+    ],
+    "normalizedTokens": [
+      "готовый",
+      "вишня",
+      "85 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "85 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Happy Corn в зернах сладко-соленый без добавок 300 г",
+    "cleanTokens": [
+      "в",
+      "зернах",
+      "сладко-соленый",
+      "без",
+      "добавок"
+    ],
+    "normalizedTokens": [
+      "в",
+      "зернах",
+      "сладко-соленый",
+      "без",
+      "добавок",
+      "300 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "300 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Happy Corn готовый сыр чеддер 40 г",
+    "cleanTokens": [
+      "готовый",
+      "сыр",
+      "чеддер"
+    ],
+    "normalizedTokens": [
+      "готовый",
+      "сыр",
+      "чеддер",
+      "40 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "40 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Chilimba готовый соленый васаби 35 г",
+    "cleanTokens": [
+      "chilimba",
+      "готовый",
+      "соленый",
+      "васаби"
+    ],
+    "normalizedTokens": [
+      "chilimba",
+      "готовый",
+      "соленый",
+      "васаби",
+      "35 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "35 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Happy Corn со вкусом карамели 100 г",
+    "cleanTokens": [
+      "со",
+      "вкусом",
+      "карамели"
+    ],
+    "normalizedTokens": [
+      "со",
+      "вкусом",
+      "карамели",
+      "100 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "100 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Happy Corn Фруктовый микс готовый 85 г",
+    "cleanTokens": [
+      "фруктовый",
+      "микс",
+      "готовый"
+    ],
+    "normalizedTokens": [
+      "фруктовый",
+      "микс",
+      "готовый",
+      "85 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "85 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  }
+]

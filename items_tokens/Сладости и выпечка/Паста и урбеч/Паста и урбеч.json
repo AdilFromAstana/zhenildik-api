@@ -1,0 +1,3516 @@
+[
+  {
+    "original": "Мералад урбеч из расторопши 230 г",
+    "cleanTokens": [
+      "из",
+      "расторопши"
+    ],
+    "normalizedTokens": [
+      "из",
+      "расторопши",
+      "230 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "230 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Better Valu паста арахисовая мягкая 454 г",
+    "cleanTokens": [
+      "арахисовая",
+      "мягкая"
+    ],
+    "normalizedTokens": [
+      "арахисовая",
+      "мягкая",
+      "454 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "454 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мералад урбеч из арахиса без обжарки 230 г",
+    "cleanTokens": [
+      "из",
+      "арахиса",
+      "без",
+      "обжарки"
+    ],
+    "normalizedTokens": [
+      "из",
+      "арахиса",
+      "без",
+      "обжарки",
+      "230 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "230 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мералад урбеч из тёмного льна 230 г",
+    "cleanTokens": [
+      "из",
+      "темного",
+      "льна"
+    ],
+    "normalizedTokens": [
+      "из",
+      "темного",
+      "льна",
+      "230 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "230 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мералад урбеч из семян конопли 230 г",
+    "cleanTokens": [
+      "из",
+      "семян",
+      "конопли"
+    ],
+    "normalizedTokens": [
+      "из",
+      "семян",
+      "конопли",
+      "230 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "230 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мералад урбеч из кунжута черного 230 г",
+    "cleanTokens": [
+      "из",
+      "кунжута",
+      "черного"
+    ],
+    "normalizedTokens": [
+      "из",
+      "кунжута",
+      "черного",
+      "230 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "230 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "ООО Унитрон урбеч арахисовая 1000 г",
+    "cleanTokens": [
+      "арахисовая"
+    ],
+    "normalizedTokens": [
+      "арахисовая",
+      "1000 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "1000 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Konditerka.kz паста арахисовая Crunchy с кусочками арахиса 200 г",
+    "cleanTokens": [
+      "арахисовая",
+      "crunchy",
+      "с",
+      "кусочками",
+      "арахиса"
+    ],
+    "normalizedTokens": [
+      "арахисовая",
+      "crunchy",
+      "с",
+      "кусочками",
+      "арахиса",
+      "200 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "200 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мералад урбеч из кунжута белого 230 г",
+    "cleanTokens": [
+      "из",
+      "кунжута",
+      "белого"
+    ],
+    "normalizedTokens": [
+      "из",
+      "кунжута",
+      "белого",
+      "230 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "230 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Bowl & Basket паста кремовая арахисовая 462 г",
+    "cleanTokens": [
+      "кремовая",
+      "арахисовая"
+    ],
+    "normalizedTokens": [
+      "кремовая",
+      "арахисовая",
+      "462 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "462 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мералад урбеч из мякоти кокоса 230 г",
+    "cleanTokens": [
+      "из",
+      "мякоти",
+      "кокоса"
+    ],
+    "normalizedTokens": [
+      "из",
+      "мякоти",
+      "кокоса",
+      "230 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "230 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мералад урбеч из черного тмина 230 г",
+    "cleanTokens": [
+      "из",
+      "черного",
+      "тмина"
+    ],
+    "normalizedTokens": [
+      "из",
+      "черного",
+      "тмина",
+      "230 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "230 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мералад урбеч кешью, кокос 230 г",
+    "cleanTokens": [
+      "кешью",
+      "кокос"
+    ],
+    "normalizedTokens": [
+      "кешью",
+      "кокос",
+      "230 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "230 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "ООО Унитрон урбеч кешью 200 г",
+    "cleanTokens": [
+      "кешью"
+    ],
+    "normalizedTokens": [
+      "кешью",
+      "200 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "200 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мералад урбеч из ядер абрикоса 230 г",
+    "cleanTokens": [
+      "из",
+      "ядер",
+      "абрикоса"
+    ],
+    "normalizedTokens": [
+      "из",
+      "ядер",
+      "абрикоса",
+      "230 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "230 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мералад урбеч из подсолнечных семечек 230 г",
+    "cleanTokens": [
+      "из",
+      "подсолнечных",
+      "семечек"
+    ],
+    "normalizedTokens": [
+      "из",
+      "подсолнечных",
+      "семечек",
+      "230 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "230 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Nut story паста из отборного фундука 350 г",
+    "cleanTokens": [
+      "из",
+      "отборного",
+      "фундука"
+    ],
+    "normalizedTokens": [
+      "из",
+      "отборного",
+      "фундука",
+      "350 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "350 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Konditerka.kz паста арахисовая Crunchy с кусочками арахиса 500 г",
+    "cleanTokens": [
+      "арахисовая",
+      "crunchy",
+      "с",
+      "кусочками",
+      "арахиса"
+    ],
+    "normalizedTokens": [
+      "арахисовая",
+      "crunchy",
+      "с",
+      "кусочками",
+      "арахиса",
+      "500 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "500 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "100% Финиковая паста 500г",
+    "cleanTokens": [
+      "финиковая",
+      "500г"
+    ],
+    "normalizedTokens": [
+      "100%",
+      "финиковая",
+      "500г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "100%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "ООО Унитрон паста арахисовая 200 г",
+    "cleanTokens": [
+      "арахисовая"
+    ],
+    "normalizedTokens": [
+      "арахисовая",
+      "200 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "200 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "HY-TOP паста арахисовая peanut butter crunchy 510 г",
+    "cleanTokens": [
+      "арахисовая",
+      "peanut",
+      "butter",
+      "crunchy"
+    ],
+    "normalizedTokens": [
+      "арахисовая",
+      "peanut",
+      "butter",
+      "crunchy",
+      "510 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "510 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "ООО Унитрон урбеч кокосовая 200 г",
+    "cleanTokens": [
+      "кокосовая"
+    ],
+    "normalizedTokens": [
+      "кокосовая",
+      "200 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "200 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мералад урбеч из золотистого льна 230 г",
+    "cleanTokens": [
+      "из",
+      "золотистого",
+      "льна"
+    ],
+    "normalizedTokens": [
+      "из",
+      "золотистого",
+      "льна",
+      "230 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "230 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "ООО Унитрон урбеч кокосовая 500 г",
+    "cleanTokens": [
+      "кокосовая"
+    ],
+    "normalizedTokens": [
+      "кокосовая",
+      "500 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "500 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Konditerka.kz паста арахисовая с солёной карамелью 200 г",
+    "cleanTokens": [
+      "арахисовая",
+      "с",
+      "соленой",
+      "карамелью"
+    ],
+    "normalizedTokens": [
+      "арахисовая",
+      "с",
+      "соленой",
+      "карамелью",
+      "200 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "200 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "ООО Унитрон урбеч кокосовая 1000 г",
+    "cleanTokens": [
+      "кокосовая"
+    ],
+    "normalizedTokens": [
+      "кокосовая",
+      "1000 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "1000 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мералад урбеч из тыквенных семечек 230 г",
+    "cleanTokens": [
+      "из",
+      "тыквенных",
+      "семечек"
+    ],
+    "normalizedTokens": [
+      "из",
+      "тыквенных",
+      "семечек",
+      "230 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "230 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "ООО Унитрон урбеч грецкий орех 200 г",
+    "cleanTokens": [
+      "грецкий",
+      "орех"
+    ],
+    "normalizedTokens": [
+      "грецкий",
+      "орех",
+      "200 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "200 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Nutley урбеч из кешью без сахара 180 г",
+    "cleanTokens": [
+      "из",
+      "кешью",
+      "без",
+      "сахара"
+    ],
+    "normalizedTokens": [
+      "из",
+      "кешью",
+      "без",
+      "сахара",
+      "180 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "180 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Konditerka.kz паста арахисовая Завтрак Астронавта 120 г",
+    "cleanTokens": [
+      "арахисовая",
+      "завтрак",
+      "астронавта"
+    ],
+    "normalizedTokens": [
+      "арахисовая",
+      "завтрак",
+      "астронавта",
+      "120 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "120 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "ООО Унитрон тахини кунжутная 500 г",
+    "cleanTokens": [
+      "тахини",
+      "кунжутная"
+    ],
+    "normalizedTokens": [
+      "тахини",
+      "кунжутная",
+      "500 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "500 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мералад паста арахисовая 230 г",
+    "cleanTokens": [
+      "арахисовая"
+    ],
+    "normalizedTokens": [
+      "арахисовая",
+      "230 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "230 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "ООО Унитрон тахини кунжутная 1000 г",
+    "cleanTokens": [
+      "тахини",
+      "кунжутная"
+    ],
+    "normalizedTokens": [
+      "тахини",
+      "кунжутная",
+      "1000 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "1000 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Nutley урбеч из тыквенных семечек 180 г",
+    "cleanTokens": [
+      "из",
+      "тыквенных",
+      "семечек"
+    ],
+    "normalizedTokens": [
+      "из",
+      "тыквенных",
+      "семечек",
+      "180 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "180 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Goodtraditions урбеч из семян тыквы 230 г",
+    "cleanTokens": [
+      "из",
+      "семян",
+      "тыквы"
+    ],
+    "normalizedTokens": [
+      "из",
+      "семян",
+      "тыквы",
+      "230 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "230 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Goodtraditions урбеч из расторопши 230 г",
+    "cleanTokens": [
+      "из",
+      "расторопши"
+    ],
+    "normalizedTokens": [
+      "из",
+      "расторопши",
+      "230 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "230 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Настин Сластин паста кокосовая сгущенка 230 г",
+    "cleanTokens": [
+      "кокосовая",
+      "сгущенка"
+    ],
+    "normalizedTokens": [
+      "кокосовая",
+      "сгущенка",
+      "230 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "230 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Goodtraditions паста классическая арахисовая 240 г",
+    "cleanTokens": [
+      "классическая",
+      "арахисовая"
+    ],
+    "normalizedTokens": [
+      "классическая",
+      "арахисовая",
+      "240 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "240 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мералад урбеч кокос+манго 230 г",
+    "cleanTokens": [
+      "кокос+манго"
+    ],
+    "normalizedTokens": [
+      "кокос+манго",
+      "230 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "230 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мералад урбеч из амаранта белого 230 г",
+    "cleanTokens": [
+      "из",
+      "амаранта",
+      "белого"
+    ],
+    "normalizedTokens": [
+      "из",
+      "амаранта",
+      "белого",
+      "230 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "230 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Jabsons паста арахисовое масло с кусочками арахиса 350 г",
+    "cleanTokens": [
+      "арахисовое",
+      "масло",
+      "с",
+      "кусочками",
+      "арахиса"
+    ],
+    "normalizedTokens": [
+      "арахисовое",
+      "масло",
+      "с",
+      "кусочками",
+      "арахиса",
+      "350 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "350 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Konditerka.kz паста арахисовая с солёной карамелью 500 г",
+    "cleanTokens": [
+      "арахисовая",
+      "с",
+      "соленой",
+      "карамелью"
+    ],
+    "normalizedTokens": [
+      "арахисовая",
+      "с",
+      "соленой",
+      "карамелью",
+      "500 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "500 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мералад урбеч из миндаля 230 г",
+    "cleanTokens": [
+      "из",
+      "миндаля"
+    ],
+    "normalizedTokens": [
+      "из",
+      "миндаля",
+      "230 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "230 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Jabsons паста арахисовая 350 г",
+    "cleanTokens": [
+      "арахисовая"
+    ],
+    "normalizedTokens": [
+      "арахисовая",
+      "350 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "350 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Goodtraditions урбеч из расторопши 110 г",
+    "cleanTokens": [
+      "из",
+      "расторопши"
+    ],
+    "normalizedTokens": [
+      "из",
+      "расторопши",
+      "110 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "110 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Goodtraditions урбеч из мякоти кокоса 230 г",
+    "cleanTokens": [
+      "из",
+      "мякоти",
+      "кокоса"
+    ],
+    "normalizedTokens": [
+      "из",
+      "мякоти",
+      "кокоса",
+      "230 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "230 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Konditerka.kz паста арахисовая с кусочками арахиса 1000 г",
+    "cleanTokens": [
+      "арахисовая",
+      "с",
+      "кусочками",
+      "арахиса"
+    ],
+    "normalizedTokens": [
+      "арахисовая",
+      "с",
+      "кусочками",
+      "арахиса",
+      "1000 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "1000 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мералад урбеч из арахиса с розовой солью 230 г",
+    "cleanTokens": [
+      "из",
+      "арахиса",
+      "с",
+      "розовой",
+      "солью"
+    ],
+    "normalizedTokens": [
+      "из",
+      "арахиса",
+      "с",
+      "розовой",
+      "солью",
+      "230 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "230 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Зеленый слон паста арахисовая без сахара хрустящая с солью 500 г",
+    "cleanTokens": [
+      "арахисовая",
+      "без",
+      "сахара",
+      "хрустящая",
+      "с",
+      "солью"
+    ],
+    "normalizedTokens": [
+      "арахисовая",
+      "без",
+      "сахара",
+      "хрустящая",
+      "с",
+      "солью",
+      "500 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "500 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Bulayhan тахини кунжутная паста 300 г",
+    "cleanTokens": [
+      "тахини",
+      "кунжутная"
+    ],
+    "normalizedTokens": [
+      "тахини",
+      "кунжутная",
+      "300 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "300 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "ООО Унитрон урбеч грецкий орех 500 г",
+    "cleanTokens": [
+      "грецкий",
+      "орех"
+    ],
+    "normalizedTokens": [
+      "грецкий",
+      "орех",
+      "500 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "500 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "ООО Унитрон паста кешью 500 г",
+    "cleanTokens": [
+      "кешью"
+    ],
+    "normalizedTokens": [
+      "кешью",
+      "500 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "500 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Паста из семян мака 200 г",
+    "cleanTokens": [
+      "из",
+      "семян",
+      "мака"
+    ],
+    "normalizedTokens": [
+      "из",
+      "семян",
+      "мака",
+      "200 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "200 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Mark Sevouni паста фисташковая 220 г",
+    "cleanTokens": [
+      "фисташковая"
+    ],
+    "normalizedTokens": [
+      "фисташковая",
+      "220 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "220 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Goodtraditions урбеч из золотистого льна 230 г",
+    "cleanTokens": [
+      "из",
+      "золотистого",
+      "льна"
+    ],
+    "normalizedTokens": [
+      "из",
+      "золотистого",
+      "льна",
+      "230 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "230 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Snaq Fabriq паста молочно-ореховая без сахара 250 г",
+    "cleanTokens": [
+      "молочно-ореховая",
+      "без",
+      "сахара"
+    ],
+    "normalizedTokens": [
+      "молочно-ореховая",
+      "без",
+      "сахара",
+      "250 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "250 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Nut story паста из отборного фундука 270 г",
+    "cleanTokens": [
+      "из",
+      "отборного",
+      "фундука"
+    ],
+    "normalizedTokens": [
+      "из",
+      "отборного",
+      "фундука",
+      "270 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "270 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Goodtraditions урбеч из семян конопли 230 г",
+    "cleanTokens": [
+      "из",
+      "семян",
+      "конопли"
+    ],
+    "normalizedTokens": [
+      "из",
+      "семян",
+      "конопли",
+      "230 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "230 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Goodtraditions урбеч из кунжута черного 230 г",
+    "cleanTokens": [
+      "из",
+      "кунжута",
+      "черного"
+    ],
+    "normalizedTokens": [
+      "из",
+      "кунжута",
+      "черного",
+      "230 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "230 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "ООО Унитрон урбеч грецкий орех 1000 г",
+    "cleanTokens": [
+      "грецкий",
+      "орех"
+    ],
+    "normalizedTokens": [
+      "грецкий",
+      "орех",
+      "1000 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "1000 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мералад урбеч из кешью 230 г",
+    "cleanTokens": [
+      "из",
+      "кешью"
+    ],
+    "normalizedTokens": [
+      "из",
+      "кешью",
+      "230 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "230 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Goodtraditions урбеч из кунжута белого 110 г",
+    "cleanTokens": [
+      "из",
+      "кунжута",
+      "белого"
+    ],
+    "normalizedTokens": [
+      "из",
+      "кунжута",
+      "белого",
+      "110 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "110 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Goodtraditions урбеч из белого кунжута 110 г",
+    "cleanTokens": [
+      "из",
+      "белого",
+      "кунжута"
+    ],
+    "normalizedTokens": [
+      "из",
+      "белого",
+      "кунжута",
+      "110 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "110 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Goodtraditions паста сгущенка кокосовая 120 г",
+    "cleanTokens": [
+      "сгущенка",
+      "кокосовая"
+    ],
+    "normalizedTokens": [
+      "сгущенка",
+      "кокосовая",
+      "120 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "120 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Goodtraditions урбеч из мякоти кокоса 110 г",
+    "cleanTokens": [
+      "из",
+      "мякоти",
+      "кокоса"
+    ],
+    "normalizedTokens": [
+      "из",
+      "мякоти",
+      "кокоса",
+      "110 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "110 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Паста из семян мака 1000 г",
+    "cleanTokens": [
+      "из",
+      "семян",
+      "мака"
+    ],
+    "normalizedTokens": [
+      "из",
+      "семян",
+      "мака",
+      "1000 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "1000 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Findi паста кокосовая 300 г",
+    "cleanTokens": [
+      "кокосовая"
+    ],
+    "normalizedTokens": [
+      "кокосовая",
+      "300 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "300 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Nutley урбеч из кокоса 180 г",
+    "cleanTokens": [
+      "из",
+      "кокоса"
+    ],
+    "normalizedTokens": [
+      "из",
+      "кокоса",
+      "180 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "180 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Goodtraditions урбеч из темного льна 230 г",
+    "cleanTokens": [
+      "из",
+      "темного",
+      "льна"
+    ],
+    "normalizedTokens": [
+      "из",
+      "темного",
+      "льна",
+      "230 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "230 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Зеленый слон паста арахисовая без сахара хрустящая с кусочками арахиса без соли 500 г",
+    "cleanTokens": [
+      "арахисовая",
+      "без",
+      "сахара",
+      "хрустящая",
+      "с",
+      "кусочками",
+      "арахиса",
+      "без",
+      "соли"
+    ],
+    "normalizedTokens": [
+      "арахисовая",
+      "без",
+      "сахара",
+      "хрустящая",
+      "с",
+      "кусочками",
+      "арахиса",
+      "без",
+      "соли",
+      "500 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "500 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Babyfox паста шоколадно-ореховая 270 г",
+    "cleanTokens": [
+      "шоколадно-ореховая"
+    ],
+    "normalizedTokens": [
+      "шоколадно-ореховая",
+      "270 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "270 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мералад паста арахисовая с кокосовым урбечом 230 г",
+    "cleanTokens": [
+      "арахисовая",
+      "с",
+      "кокосовым",
+      "урбечом"
+    ],
+    "normalizedTokens": [
+      "арахисовая",
+      "с",
+      "кокосовым",
+      "урбечом",
+      "230 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "230 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "DopDrops паста арахисовая крем сладкая без сахара 500 г",
+    "cleanTokens": [
+      "арахисовая",
+      "крем",
+      "сладкая",
+      "без",
+      "сахара"
+    ],
+    "normalizedTokens": [
+      "арахисовая",
+      "крем",
+      "сладкая",
+      "без",
+      "сахара",
+      "500 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "500 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Konditerka.kz паста финиковая 200 г",
+    "cleanTokens": [
+      "финиковая"
+    ],
+    "normalizedTokens": [
+      "финиковая",
+      "200 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "200 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Konditerka.kz паста финиковая паста 1000 г",
+    "cleanTokens": [
+      "финиковая"
+    ],
+    "normalizedTokens": [
+      "финиковая",
+      "1000 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "1000 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Настин Сластин паста ореховая сгущенка с миндальными лепестками 100 г",
+    "cleanTokens": [
+      "ореховая",
+      "сгущенка",
+      "с",
+      "миндальными",
+      "лепестками"
+    ],
+    "normalizedTokens": [
+      "ореховая",
+      "сгущенка",
+      "с",
+      "миндальными",
+      "лепестками",
+      "100 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "100 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Goodtraditions урбеч из семян мака 230 г",
+    "cleanTokens": [
+      "из",
+      "семян",
+      "мака"
+    ],
+    "normalizedTokens": [
+      "из",
+      "семян",
+      "мака",
+      "230 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "230 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Goodtraditions урбеч из кунжута белого 230 г",
+    "cleanTokens": [
+      "из",
+      "кунжута",
+      "белого"
+    ],
+    "normalizedTokens": [
+      "из",
+      "кунжута",
+      "белого",
+      "230 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "230 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Konditerka.kz паста арахисовая Crunchy с кусочками арахиса 4 кг",
+    "cleanTokens": [
+      "арахисовая",
+      "crunchy",
+      "с",
+      "кусочками",
+      "арахиса"
+    ],
+    "normalizedTokens": [
+      "арахисовая",
+      "crunchy",
+      "с",
+      "кусочками",
+      "арахиса",
+      "4 кг"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "4 кг",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "ООО Унитрон урбеч кешью 1000 г",
+    "cleanTokens": [
+      "кешью"
+    ],
+    "normalizedTokens": [
+      "кешью",
+      "1000 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "1000 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Паста из семян мака 500 г",
+    "cleanTokens": [
+      "из",
+      "семян",
+      "мака"
+    ],
+    "normalizedTokens": [
+      "из",
+      "семян",
+      "мака",
+      "500 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "500 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Настин Сластин паста соленая кокосовая карамель с чили 230 г",
+    "cleanTokens": [
+      "соленая",
+      "кокосовая",
+      "карамель",
+      "с",
+      "чили"
+    ],
+    "normalizedTokens": [
+      "соленая",
+      "кокосовая",
+      "карамель",
+      "с",
+      "чили",
+      "230 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "230 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Goodtraditions урбеч из ядер абрикоса 230 г",
+    "cleanTokens": [
+      "из",
+      "ядер",
+      "абрикоса"
+    ],
+    "normalizedTokens": [
+      "из",
+      "ядер",
+      "абрикоса",
+      "230 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "230 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Konditerka.kz паста микс Арахис и Финик 500 г",
+    "cleanTokens": [
+      "микс",
+      "арахис",
+      "финик"
+    ],
+    "normalizedTokens": [
+      "микс",
+      "арахис",
+      "финик",
+      "500 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "500 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Goodtraditions урбеч из семян конопли 110 г",
+    "cleanTokens": [
+      "из",
+      "семян",
+      "конопли"
+    ],
+    "normalizedTokens": [
+      "из",
+      "семян",
+      "конопли",
+      "110 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "110 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Goodtraditions паста сгущенка кокосовая с шоколадом 120 г",
+    "cleanTokens": [
+      "сгущенка",
+      "кокосовая",
+      "с",
+      "шоколадом"
+    ],
+    "normalizedTokens": [
+      "сгущенка",
+      "кокосовая",
+      "с",
+      "шоколадом",
+      "120 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "120 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "HY-TOP паста Creamy 510 г",
+    "cleanTokens": [
+      "creamy"
+    ],
+    "normalizedTokens": [
+      "creamy",
+      "510 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "510 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "DopDrops паста арахисовая с гималайской солью 500 г",
+    "cleanTokens": [
+      "арахисовая",
+      "с",
+      "гималайской",
+      "солью"
+    ],
+    "normalizedTokens": [
+      "арахисовая",
+      "с",
+      "гималайской",
+      "солью",
+      "500 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "500 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Goodtraditions урбеч из семян тыквы 110 г",
+    "cleanTokens": [
+      "из",
+      "семян",
+      "тыквы"
+    ],
+    "normalizedTokens": [
+      "из",
+      "семян",
+      "тыквы",
+      "110 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "110 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "DopDrops арахисовая паста 1000 г",
+    "cleanTokens": [
+      "арахисовая"
+    ],
+    "normalizedTokens": [
+      "арахисовая",
+      "1000 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "1000 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Konditerka.kz паста лен темный 200 г",
+    "cleanTokens": [
+      "лен",
+      "темный"
+    ],
+    "normalizedTokens": [
+      "лен",
+      "темный",
+      "200 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "200 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Goodtraditions урбеч из семян чиа 230 г",
+    "cleanTokens": [
+      "из",
+      "семян",
+      "чиа"
+    ],
+    "normalizedTokens": [
+      "из",
+      "семян",
+      "чиа",
+      "230 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "230 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Настин Сластин паста кокосово-арахисовая сгущенка 230 г",
+    "cleanTokens": [
+      "кокосово-арахисовая",
+      "сгущенка"
+    ],
+    "normalizedTokens": [
+      "кокосово-арахисовая",
+      "сгущенка",
+      "230 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "230 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Konditerka.kz паста арахисовая с солёной карамелью 1000 г",
+    "cleanTokens": [
+      "арахисовая",
+      "с",
+      "соленой",
+      "карамелью"
+    ],
+    "normalizedTokens": [
+      "арахисовая",
+      "с",
+      "соленой",
+      "карамелью",
+      "1000 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "1000 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "ООО Унитрон урбеч фундучная 1000 г",
+    "cleanTokens": [
+      "фундучная"
+    ],
+    "normalizedTokens": [
+      "фундучная",
+      "1000 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "1000 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Goodtraditions урбеч из кешью 230 г",
+    "cleanTokens": [
+      "из",
+      "кешью"
+    ],
+    "normalizedTokens": [
+      "из",
+      "кешью",
+      "230 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "230 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "DopDrops паста арахисовая особая без добавок 500 г",
+    "cleanTokens": [
+      "арахисовая",
+      "особая",
+      "без",
+      "добавок"
+    ],
+    "normalizedTokens": [
+      "арахисовая",
+      "особая",
+      "без",
+      "добавок",
+      "500 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "500 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "DopDrops паста арахисовая сладкая с кусочками и гималайской солью 500 г",
+    "cleanTokens": [
+      "арахисовая",
+      "сладкая",
+      "с",
+      "кусочками",
+      "гималайской",
+      "солью"
+    ],
+    "normalizedTokens": [
+      "арахисовая",
+      "сладкая",
+      "с",
+      "кусочками",
+      "гималайской",
+      "солью",
+      "500 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "500 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "DopDrops паста арахисовая сладкая пряная 500 г",
+    "cleanTokens": [
+      "арахисовая",
+      "сладкая",
+      "пряная"
+    ],
+    "normalizedTokens": [
+      "арахисовая",
+      "сладкая",
+      "пряная",
+      "500 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "500 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мералад урбеч из семян киноа 230 г",
+    "cleanTokens": [
+      "из",
+      "семян",
+      "киноа"
+    ],
+    "normalizedTokens": [
+      "из",
+      "семян",
+      "киноа",
+      "230 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "230 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Findi паста арахисовая с кусочками арахиса 350 г",
+    "cleanTokens": [
+      "арахисовая",
+      "с",
+      "кусочками",
+      "арахиса"
+    ],
+    "normalizedTokens": [
+      "арахисовая",
+      "с",
+      "кусочками",
+      "арахиса",
+      "350 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "350 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Настин Сластин паста ореховая сгущенка с миндальными лепестками 230 г",
+    "cleanTokens": [
+      "ореховая",
+      "сгущенка",
+      "с",
+      "миндальными",
+      "лепестками"
+    ],
+    "normalizedTokens": [
+      "ореховая",
+      "сгущенка",
+      "с",
+      "миндальными",
+      "лепестками",
+      "230 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "230 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Konditerka.kz паста лен темный 500 г",
+    "cleanTokens": [
+      "лен",
+      "темный"
+    ],
+    "normalizedTokens": [
+      "лен",
+      "темный",
+      "500 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "500 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Зеленый слон паста арахисовая натуральная хрустящая без сахара 1000 г",
+    "cleanTokens": [
+      "арахисовая",
+      "натуральная",
+      "хрустящая",
+      "без",
+      "сахара"
+    ],
+    "normalizedTokens": [
+      "арахисовая",
+      "натуральная",
+      "хрустящая",
+      "без",
+      "сахара",
+      "1000 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "1000 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "NutMix паста Chocolate арахисовая с шоколадом 175 г",
+    "cleanTokens": [
+      "chocolate",
+      "арахисовая",
+      "с",
+      "шоколадом"
+    ],
+    "normalizedTokens": [
+      "chocolate",
+      "арахисовая",
+      "с",
+      "шоколадом",
+      "175 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "175 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Goodtraditions паста Кокосовый пломбир 110 г",
+    "cleanTokens": [
+      "кокосовый",
+      "пломбир"
+    ],
+    "normalizedTokens": [
+      "кокосовый",
+      "пломбир",
+      "110 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "110 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мералад урбеч крем-шоколад кешью 230 г",
+    "cleanTokens": [
+      "крем-шоколад",
+      "кешью"
+    ],
+    "normalizedTokens": [
+      "крем-шоколад",
+      "кешью",
+      "230 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "230 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Goodtraditions паста сгущёнка кокосовая с миндальными лепестками 100 г",
+    "cleanTokens": [
+      "сгущенка",
+      "кокосовая",
+      "с",
+      "миндальными",
+      "лепестками"
+    ],
+    "normalizedTokens": [
+      "сгущенка",
+      "кокосовая",
+      "с",
+      "миндальными",
+      "лепестками",
+      "100 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "100 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Konditerka.kz паста микс Арахис и Финик 1000 г",
+    "cleanTokens": [
+      "микс",
+      "арахис",
+      "финик"
+    ],
+    "normalizedTokens": [
+      "микс",
+      "арахис",
+      "финик",
+      "1000 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "1000 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "ООО Унитрон паста пралине фундучное 1000 г",
+    "cleanTokens": [
+      "пралине",
+      "фундучное"
+    ],
+    "normalizedTokens": [
+      "пралине",
+      "фундучное",
+      "1000 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "1000 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "DopDrops паста арахисовая хрустящая кранч с гималайской солью 1000 г",
+    "cleanTokens": [
+      "арахисовая",
+      "хрустящая",
+      "кранч",
+      "с",
+      "гималайской",
+      "солью"
+    ],
+    "normalizedTokens": [
+      "арахисовая",
+      "хрустящая",
+      "кранч",
+      "с",
+      "гималайской",
+      "солью",
+      "1000 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "1000 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Plantago Кокосовая сгущёнка с манго, 100 г",
+    "cleanTokens": [
+      "кокосовая",
+      "сгущенка",
+      "с",
+      "манго"
+    ],
+    "normalizedTokens": [
+      "кокосовая",
+      "сгущенка",
+      "с",
+      "манго",
+      "100 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "100 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "DopDrops паста паста арахисовая хрустящая кранч с гималайской солью 500 г",
+    "cleanTokens": [
+      "арахисовая",
+      "хрустящая",
+      "кранч",
+      "с",
+      "гималайской",
+      "солью"
+    ],
+    "normalizedTokens": [
+      "арахисовая",
+      "хрустящая",
+      "кранч",
+      "с",
+      "гималайской",
+      "солью",
+      "500 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "500 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "DopDrops паста Chocolate butter 250 г",
+    "cleanTokens": [
+      "chocolate",
+      "butter"
+    ],
+    "normalizedTokens": [
+      "chocolate",
+      "butter",
+      "250 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "250 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "DopDrops паста арахисовая хрустящая кранч без добавок 1000 г",
+    "cleanTokens": [
+      "арахисовая",
+      "хрустящая",
+      "кранч",
+      "без",
+      "добавок"
+    ],
+    "normalizedTokens": [
+      "арахисовая",
+      "хрустящая",
+      "кранч",
+      "без",
+      "добавок",
+      "1000 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "1000 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "DopDrops арахисовая паста без добавок 3000 г",
+    "cleanTokens": [
+      "арахисовая",
+      "без",
+      "добавок"
+    ],
+    "normalizedTokens": [
+      "арахисовая",
+      "без",
+      "добавок",
+      "3000 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "3000 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "ООО Унитрон урбеч фисташковая 200 г",
+    "cleanTokens": [
+      "фисташковая"
+    ],
+    "normalizedTokens": [
+      "фисташковая",
+      "200 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "200 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Goodtraditions урбеч из ядер абрикоса 110 г",
+    "cleanTokens": [
+      "из",
+      "ядер",
+      "абрикоса"
+    ],
+    "normalizedTokens": [
+      "из",
+      "ядер",
+      "абрикоса",
+      "110 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "110 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "DopDrops паста миндаль 250 г",
+    "cleanTokens": [
+      "миндаль"
+    ],
+    "normalizedTokens": [
+      "миндаль",
+      "250 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "250 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Kandy’s паста тахини 350 г",
+    "cleanTokens": [
+      "тахини"
+    ],
+    "normalizedTokens": [
+      "тахини",
+      "350 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "350 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Plantago паста шоколад-кокос 100 г",
+    "cleanTokens": [
+      "шоколад-кокос"
+    ],
+    "normalizedTokens": [
+      "шоколад-кокос",
+      "100 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "100 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "ООО Унитрон паста пралине миндальное 500 г",
+    "cleanTokens": [
+      "пралине",
+      "миндальное"
+    ],
+    "normalizedTokens": [
+      "пралине",
+      "миндальное",
+      "500 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "500 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Konditerka.kz паста лен темный 1000 г",
+    "cleanTokens": [
+      "лен",
+      "темный"
+    ],
+    "normalizedTokens": [
+      "лен",
+      "темный",
+      "1000 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "1000 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Goodtraditions урбеч из золотого льна 110 г",
+    "cleanTokens": [
+      "из",
+      "золотого",
+      "льна"
+    ],
+    "normalizedTokens": [
+      "из",
+      "золотого",
+      "льна",
+      "110 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "110 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "ООО Унитрон урбеч фисташковая паста 1000 г",
+    "cleanTokens": [
+      "фисташковая"
+    ],
+    "normalizedTokens": [
+      "фисташковая",
+      "1000 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "1000 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Ulker паста Шоколадная COKOKREM 400 г",
+    "cleanTokens": [
+      "шоколадная",
+      "cokokrem"
+    ],
+    "normalizedTokens": [
+      "шоколадная",
+      "cokokrem",
+      "400 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "400 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "DopDrops паста арахисовая с гималайской солью 250 г",
+    "cleanTokens": [
+      "арахисовая",
+      "с",
+      "гималайской",
+      "солью"
+    ],
+    "normalizedTokens": [
+      "арахисовая",
+      "с",
+      "гималайской",
+      "солью",
+      "250 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "250 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Goodtraditions урбеч из фисташек 110 г",
+    "cleanTokens": [
+      "из",
+      "фисташек"
+    ],
+    "normalizedTokens": [
+      "из",
+      "фисташек",
+      "110 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "110 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Konditerka.kz паста арахисовая 4000 г",
+    "cleanTokens": [
+      "арахисовая"
+    ],
+    "normalizedTokens": [
+      "арахисовая",
+      "4000 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "4000 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "ООО Унитрон урбеч фисташковая 500 г",
+    "cleanTokens": [
+      "фисташковая"
+    ],
+    "normalizedTokens": [
+      "фисташковая",
+      "500 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "500 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Bowl & Basket паста Creamy кремовая арахисовая 462 г",
+    "cleanTokens": [
+      "creamy",
+      "кремовая",
+      "арахисовая"
+    ],
+    "normalizedTokens": [
+      "creamy",
+      "кремовая",
+      "арахисовая",
+      "462 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "462 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Bulayhan тахини кунжутная паста 1000 г",
+    "cleanTokens": [
+      "тахини",
+      "кунжутная"
+    ],
+    "normalizedTokens": [
+      "тахини",
+      "кунжутная",
+      "1000 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "1000 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Bowl & Basket паста арахисовая 453 г",
+    "cleanTokens": [
+      "арахисовая"
+    ],
+    "normalizedTokens": [
+      "арахисовая",
+      "453 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "453 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Goodtraditions урбеч какао-бобы и мёд 230 г",
+    "cleanTokens": [
+      "какао-бобы",
+      "мед"
+    ],
+    "normalizedTokens": [
+      "какао-бобы",
+      "мед",
+      "230 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "230 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Goodtraditions урбеч из ореха кешью 110 г",
+    "cleanTokens": [
+      "из",
+      "ореха",
+      "кешью"
+    ],
+    "normalizedTokens": [
+      "из",
+      "ореха",
+      "кешью",
+      "110 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "110 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Goodtraditions урбеч из арахиса 230 г",
+    "cleanTokens": [
+      "из",
+      "арахиса"
+    ],
+    "normalizedTokens": [
+      "из",
+      "арахиса",
+      "230 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "230 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Konditerka.kz паста абрикосовая 200 г",
+    "cleanTokens": [
+      "абрикосовая"
+    ],
+    "normalizedTokens": [
+      "абрикосовая",
+      "200 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "200 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Азбука продуктов паста арахисовая с кусочками 340 г",
+    "cleanTokens": [
+      "арахисовая",
+      "с",
+      "кусочками"
+    ],
+    "normalizedTokens": [
+      "арахисовая",
+      "с",
+      "кусочками",
+      "340 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "340 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Konditerka.kz тахини кунжутная паста 11000 г",
+    "cleanTokens": [
+      "тахини",
+      "кунжутная"
+    ],
+    "normalizedTokens": [
+      "тахини",
+      "кунжутная",
+      "11000 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "11000 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Зеленый слон паста арахисовая с мёдом 500 г",
+    "cleanTokens": [
+      "арахисовая",
+      "с",
+      "медом"
+    ],
+    "normalizedTokens": [
+      "арахисовая",
+      "с",
+      "медом",
+      "500 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "500 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Plantago урбеч кокосовая сгущёнка 100 г",
+    "cleanTokens": [
+      "кокосовая",
+      "сгущенка"
+    ],
+    "normalizedTokens": [
+      "кокосовая",
+      "сгущенка",
+      "100 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "100 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Konditerka.kz паста абрикосовая 500 г",
+    "cleanTokens": [
+      "абрикосовая"
+    ],
+    "normalizedTokens": [
+      "абрикосовая",
+      "500 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "500 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Настин Сластин паста кокосовая с манго 200 г",
+    "cleanTokens": [
+      "кокосовая",
+      "с",
+      "манго"
+    ],
+    "normalizedTokens": [
+      "кокосовая",
+      "с",
+      "манго",
+      "200 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "200 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Konditerka.kz паста абрикосовая 1000 г",
+    "cleanTokens": [
+      "абрикосовая"
+    ],
+    "normalizedTokens": [
+      "абрикосовая",
+      "1000 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "1000 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "ООО Унитрон паста пралине миндальное 1000 г",
+    "cleanTokens": [
+      "пралине",
+      "миндальное"
+    ],
+    "normalizedTokens": [
+      "пралине",
+      "миндальное",
+      "1000 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "1000 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "DopDrops паста фундук 250 г",
+    "cleanTokens": [
+      "фундук"
+    ],
+    "normalizedTokens": [
+      "фундук",
+      "250 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "250 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Goodtraditions урбеч из черного тмина 230 г",
+    "cleanTokens": [
+      "из",
+      "черного",
+      "тмина"
+    ],
+    "normalizedTokens": [
+      "из",
+      "черного",
+      "тмина",
+      "230 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "230 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Konditerka.kz паста финиковая 12000 г",
+    "cleanTokens": [
+      "финиковая"
+    ],
+    "normalizedTokens": [
+      "финиковая",
+      "12000 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "12000 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Настин Сластин урбеч сладкая расторопша 230 г",
+    "cleanTokens": [
+      "сладкая",
+      "расторопша"
+    ],
+    "normalizedTokens": [
+      "сладкая",
+      "расторопша",
+      "230 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "230 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Настин Сластин паста сгущенка арахисовая 230 г",
+    "cleanTokens": [
+      "сгущенка",
+      "арахисовая"
+    ],
+    "normalizedTokens": [
+      "сгущенка",
+      "арахисовая",
+      "230 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "230 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Унитрон паста арахисовая 11000 г",
+    "cleanTokens": [
+      "арахисовая"
+    ],
+    "normalizedTokens": [
+      "арахисовая",
+      "11000 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "11000 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Bulayhan тахини кунжутная паста 5 кг.",
+    "cleanTokens": [
+      "тахини",
+      "кунжутная",
+      "5",
+      "кг."
+    ],
+    "normalizedTokens": [
+      "тахини",
+      "кунжутная",
+      "5",
+      "кг."
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Goodtraditions паста карамель ореховая 120 г",
+    "cleanTokens": [
+      "карамель",
+      "ореховая"
+    ],
+    "normalizedTokens": [
+      "карамель",
+      "ореховая",
+      "120 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "120 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Goodtraditions паста сгущенка кокосовая 120 г",
+    "cleanTokens": [
+      "сгущенка",
+      "кокосовая"
+    ],
+    "normalizedTokens": [
+      "сгущенка",
+      "кокосовая",
+      "120 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "120 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "DopDrops паста арахисовая пряная 250 г",
+    "cleanTokens": [
+      "арахисовая",
+      "пряная"
+    ],
+    "normalizedTokens": [
+      "арахисовая",
+      "пряная",
+      "250 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "250 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Goodtraditions паста кокосовая сгущёнка с манго 120 г",
+    "cleanTokens": [
+      "кокосовая",
+      "сгущенка",
+      "с",
+      "манго"
+    ],
+    "normalizedTokens": [
+      "кокосовая",
+      "сгущенка",
+      "с",
+      "манго",
+      "120 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "120 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Konditerka.kz паста микс фундук + финик 500 г",
+    "cleanTokens": [
+      "микс",
+      "фундук",
+      "+",
+      "финик"
+    ],
+    "normalizedTokens": [
+      "микс",
+      "фундук",
+      "+",
+      "финик",
+      "500 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "500 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  }
+]

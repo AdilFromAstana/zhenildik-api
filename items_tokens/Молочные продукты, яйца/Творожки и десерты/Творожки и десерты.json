@@ -1,0 +1,420 @@
+[
+  {
+    "original": "Даниссимо творожок с изысканным шоколадом 6.7% 130 г",
+    "cleanTokens": [
+      "творожок",
+      "с",
+      "изысканным",
+      "шоколадом"
+    ],
+    "normalizedTokens": [
+      "творожок",
+      "с",
+      "изысканным",
+      "шоколадом",
+      "6.7%",
+      "130 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "130 г",
+      "count": null,
+      "pack": null,
+      "percent": "6.7%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Ehrmann Grand Dessert Белый Шоколад с Клубничным муссом 6% 200 г",
+    "cleanTokens": [
+      "grand",
+      "dessert",
+      "белый",
+      "шоколад",
+      "с",
+      "клубничным",
+      "муссом"
+    ],
+    "normalizedTokens": [
+      "grand",
+      "dessert",
+      "белый",
+      "шоколад",
+      "с",
+      "клубничным",
+      "муссом",
+      "6%",
+      "200 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "200 г",
+      "count": null,
+      "pack": null,
+      "percent": "6%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Ehrmann Grand Dessert ваниль со сливочным муссом 4,7% 200 г",
+    "cleanTokens": [
+      "grand",
+      "dessert",
+      "ваниль",
+      "со",
+      "сливочным",
+      "муссом",
+      "4"
+    ],
+    "normalizedTokens": [
+      "grand",
+      "dessert",
+      "ваниль",
+      "со",
+      "сливочным",
+      "муссом",
+      "4",
+      "7%",
+      "200 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "200 г",
+      "count": null,
+      "pack": null,
+      "percent": "7%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Даниссимо творожок натуральный с хрустящими шариками 7.2% 130 г",
+    "cleanTokens": [
+      "творожок",
+      "натуральный",
+      "с",
+      "хрустящими",
+      "шариками"
+    ],
+    "normalizedTokens": [
+      "творожок",
+      "натуральный",
+      "с",
+      "хрустящими",
+      "шариками",
+      "7.2%",
+      "130 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "130 г",
+      "count": null,
+      "pack": null,
+      "percent": "7.2%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Ehrmann пудинг шоколадный 1.5% 200 г",
+    "cleanTokens": [
+      "пудинг",
+      "шоколадный"
+    ],
+    "normalizedTokens": [
+      "пудинг",
+      "шоколадный",
+      "1.5%",
+      "200 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "200 г",
+      "count": null,
+      "pack": null,
+      "percent": "1.5%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Foodmaster творожок персик 4% 100 г",
+    "cleanTokens": [
+      "творожок",
+      "персик"
+    ],
+    "normalizedTokens": [
+      "творожок",
+      "персик",
+      "4%",
+      "100 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "100 г",
+      "count": null,
+      "pack": null,
+      "percent": "4%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Эмиль десерт малина 10% 165 г",
+    "cleanTokens": [
+      "десерт",
+      "малина"
+    ],
+    "normalizedTokens": [
+      "десерт",
+      "малина",
+      "10%",
+      "165 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "165 г",
+      "count": null,
+      "pack": null,
+      "percent": "10%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Ehrmann пудинг ваниль безлактозный 1.5% 200 г",
+    "cleanTokens": [
+      "пудинг",
+      "ваниль",
+      "безлактозный"
+    ],
+    "normalizedTokens": [
+      "пудинг",
+      "ваниль",
+      "безлактозный",
+      "1.5%",
+      "200 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "200 г",
+      "count": null,
+      "pack": null,
+      "percent": "1.5%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Эмиль десерт черника 10% 165 г",
+    "cleanTokens": [
+      "десерт",
+      "черника"
+    ],
+    "normalizedTokens": [
+      "десерт",
+      "черника",
+      "10%",
+      "165 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "165 г",
+      "count": null,
+      "pack": null,
+      "percent": "10%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Foodmaster Снежок творожок натуральный 3.8% 100 г",
+    "cleanTokens": [
+      "снежок",
+      "творожок",
+      "натуральный"
+    ],
+    "normalizedTokens": [
+      "снежок",
+      "творожок",
+      "натуральный",
+      "3.8%",
+      "100 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "100 г",
+      "count": null,
+      "pack": null,
+      "percent": "3.8%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Эмиль десерт клубника 10% 165 г",
+    "cleanTokens": [
+      "десерт",
+      "клубника"
+    ],
+    "normalizedTokens": [
+      "десерт",
+      "клубника",
+      "10%",
+      "165 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "165 г",
+      "count": null,
+      "pack": null,
+      "percent": "10%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "EPICA десерт банан, ореховый 7.6% 130 г",
+    "cleanTokens": [
+      "десерт",
+      "банан",
+      "ореховый"
+    ],
+    "normalizedTokens": [
+      "десерт",
+      "банан",
+      "ореховый",
+      "7.6%",
+      "130 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "130 г",
+      "count": null,
+      "pack": null,
+      "percent": "7.6%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Даниссимо десерт Творожный пломбир 5.4% 130 г",
+    "cleanTokens": [
+      "десерт",
+      "творожный",
+      "пломбир"
+    ],
+    "normalizedTokens": [
+      "десерт",
+      "творожный",
+      "пломбир",
+      "5.4%",
+      "130 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "130 г",
+      "count": null,
+      "pack": null,
+      "percent": "5.4%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Даниссимо десерт мороженое, клубника, крем-брюле 5.7% 130 г",
+    "cleanTokens": [
+      "десерт",
+      "мороженое",
+      "клубника",
+      "крем-брюле"
+    ],
+    "normalizedTokens": [
+      "десерт",
+      "мороженое",
+      "клубника",
+      "крем-брюле",
+      "5.7%",
+      "130 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "130 г",
+      "count": null,
+      "pack": null,
+      "percent": "5.7%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "EPICA десерт малина 7.7% 130 г",
+    "cleanTokens": [
+      "десерт",
+      "малина"
+    ],
+    "normalizedTokens": [
+      "десерт",
+      "малина",
+      "7.7%",
+      "130 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "130 г",
+      "count": null,
+      "pack": null,
+      "percent": "7.7%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "EPICA десерт шоколадный, вишня 8.1% 130 г",
+    "cleanTokens": [
+      "десерт",
+      "шоколадный",
+      "вишня"
+    ],
+    "normalizedTokens": [
+      "десерт",
+      "шоколадный",
+      "вишня",
+      "8.1%",
+      "130 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "130 г",
+      "count": null,
+      "pack": null,
+      "percent": "8.1%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Galamilk десерт жент 9.7% 130 г",
+    "cleanTokens": [
+      "десерт",
+      "жент"
+    ],
+    "normalizedTokens": [
+      "десерт",
+      "жент",
+      "9.7%",
+      "130 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "130 г",
+      "count": null,
+      "pack": null,
+      "percent": "9.7%",
+      "age": null,
+      "stars": null
+    }
+  }
+]

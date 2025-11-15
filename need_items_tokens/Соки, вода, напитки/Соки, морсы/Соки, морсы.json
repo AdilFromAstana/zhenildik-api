@@ -1,0 +1,5593 @@
+[
+  {
+    "original": "Piko Pulpy напиток сокосодержащий апельсин 1 л",
+    "cleanTokens": [
+      "pulpy",
+      "напиток",
+      "сокосодержащий",
+      "апельсин"
+    ],
+    "normalizedTokens": [
+      "pulpy",
+      "напиток",
+      "сокосодержащий",
+      "апельсин",
+      "1 л"
+    ],
+    "params": {
+      "volume": "1 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Piko напиток сокосодержащий апельсин 1 л",
+    "cleanTokens": [
+      "напиток",
+      "сокосодержащий",
+      "апельсин"
+    ],
+    "normalizedTokens": [
+      "напиток",
+      "сокосодержащий",
+      "апельсин",
+      "1 л"
+    ],
+    "params": {
+      "volume": "1 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Фруктовый сад нектар апельсин 0.95 л",
+    "cleanTokens": [
+      "нектар",
+      "апельсин"
+    ],
+    "normalizedTokens": [
+      "нектар",
+      "апельсин",
+      "0.95 л"
+    ],
+    "params": {
+      "volume": "0.95 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Сады Придонья сок вишня, яблоко 1 л",
+    "cleanTokens": [
+      "сок",
+      "вишня",
+      "яблоко"
+    ],
+    "normalizedTokens": [
+      "сок",
+      "вишня",
+      "яблоко",
+      "1 л"
+    ],
+    "params": {
+      "volume": "1 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Rich сок яблоко 1 л",
+    "cleanTokens": [
+      "сок",
+      "яблоко"
+    ],
+    "normalizedTokens": [
+      "сок",
+      "яблоко",
+      "1 л"
+    ],
+    "params": {
+      "volume": "1 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Сады Придонья сок томат 1 л",
+    "cleanTokens": [
+      "сок",
+      "томат"
+    ],
+    "normalizedTokens": [
+      "сок",
+      "томат",
+      "1 л"
+    ],
+    "params": {
+      "volume": "1 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Gracio сок ананас 0.95 л",
+    "cleanTokens": [
+      "сок",
+      "ананас"
+    ],
+    "normalizedTokens": [
+      "сок",
+      "ананас",
+      "0.95 л"
+    ],
+    "params": {
+      "volume": "0.95 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Rich нектар апельсин, манго 1 л",
+    "cleanTokens": [
+      "нектар",
+      "апельсин",
+      "манго"
+    ],
+    "normalizedTokens": [
+      "нектар",
+      "апельсин",
+      "манго",
+      "1 л"
+    ],
+    "params": {
+      "volume": "1 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "DaDa морс виноград, клубника, черника 1.95 л",
+    "cleanTokens": [
+      "морс",
+      "виноград",
+      "клубника",
+      "черника"
+    ],
+    "normalizedTokens": [
+      "морс",
+      "виноград",
+      "клубника",
+      "черника",
+      "1.95 л"
+    ],
+    "params": {
+      "volume": "1.95 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Фруктовый сад нектар яблоко, персик 1.93 л",
+    "cleanTokens": [
+      "нектар",
+      "яблоко",
+      "персик"
+    ],
+    "normalizedTokens": [
+      "нектар",
+      "яблоко",
+      "персик",
+      "1.93 л"
+    ],
+    "params": {
+      "volume": "1.93 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Нектар Солнечный нектар зеленое яблоко 1.9 л",
+    "cleanTokens": [
+      "нектар",
+      "зеленое",
+      "яблоко"
+    ],
+    "normalizedTokens": [
+      "нектар",
+      "зеленое",
+      "яблоко",
+      "1.9 л"
+    ],
+    "params": {
+      "volume": "1.9 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Gracio сок томат 0.95 л",
+    "cleanTokens": [
+      "сок",
+      "томат"
+    ],
+    "normalizedTokens": [
+      "сок",
+      "томат",
+      "0.95 л"
+    ],
+    "params": {
+      "volume": "0.95 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Piko нектар яблоко 1 л",
+    "cleanTokens": [
+      "нектар",
+      "яблоко"
+    ],
+    "normalizedTokens": [
+      "нектар",
+      "яблоко",
+      "1 л"
+    ],
+    "params": {
+      "volume": "1 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "JUICY сок зеленое яблоко 1.95 л",
+    "cleanTokens": [
+      "сок",
+      "зеленое",
+      "яблоко"
+    ],
+    "normalizedTokens": [
+      "сок",
+      "зеленое",
+      "яблоко",
+      "1.95 л"
+    ],
+    "params": {
+      "volume": "1.95 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Фруктовый сад нектар мультифрукт 1.93 л",
+    "cleanTokens": [
+      "нектар",
+      "мультифрукт"
+    ],
+    "normalizedTokens": [
+      "нектар",
+      "мультифрукт",
+      "1.93 л"
+    ],
+    "params": {
+      "volume": "1.93 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Нектар Солнечный напиток сокосодержащий тропик 1.9 л",
+    "cleanTokens": [
+      "напиток",
+      "сокосодержащий",
+      "тропик"
+    ],
+    "normalizedTokens": [
+      "напиток",
+      "сокосодержащий",
+      "тропик",
+      "1.9 л"
+    ],
+    "params": {
+      "volume": "1.9 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Rich нектар вишня 1 л",
+    "cleanTokens": [
+      "нектар",
+      "вишня"
+    ],
+    "normalizedTokens": [
+      "нектар",
+      "вишня",
+      "1 л"
+    ],
+    "params": {
+      "volume": "1 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Сады Придонья сок виноград, яблоко 2 л",
+    "cleanTokens": [
+      "сок",
+      "виноград",
+      "яблоко"
+    ],
+    "normalizedTokens": [
+      "сок",
+      "виноград",
+      "яблоко",
+      "2 л"
+    ],
+    "params": {
+      "volume": "2 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Rich сок мультифрукт 1 л",
+    "cleanTokens": [
+      "сок",
+      "мультифрукт"
+    ],
+    "normalizedTokens": [
+      "сок",
+      "мультифрукт",
+      "1 л"
+    ],
+    "params": {
+      "volume": "1 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Добрый сок яблоко 1 л",
+    "cleanTokens": [
+      "сок",
+      "яблоко"
+    ],
+    "normalizedTokens": [
+      "сок",
+      "яблоко",
+      "1 л"
+    ],
+    "params": {
+      "volume": "1 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Сады Придонья сок яблоко, черная смородина 1 л",
+    "cleanTokens": [
+      "сок",
+      "яблоко",
+      "черная",
+      "смородина"
+    ],
+    "normalizedTokens": [
+      "сок",
+      "яблоко",
+      "черная",
+      "смородина",
+      "1 л"
+    ],
+    "params": {
+      "volume": "1 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "MAGNUM фреш морковный 0.3 л",
+    "cleanTokens": [
+      "фреш",
+      "морковный"
+    ],
+    "normalizedTokens": [
+      "фреш",
+      "морковный",
+      "0.3 л"
+    ],
+    "params": {
+      "volume": "0.3 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Gracio сок тропик 0.95 л",
+    "cleanTokens": [
+      "сок",
+      "тропик"
+    ],
+    "normalizedTokens": [
+      "сок",
+      "тропик",
+      "0.95 л"
+    ],
+    "params": {
+      "volume": "0.95 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Компотай напиток сокосодержащий вишня 1.5 л",
+    "cleanTokens": [
+      "напиток",
+      "сокосодержащий",
+      "вишня"
+    ],
+    "normalizedTokens": [
+      "напиток",
+      "сокосодержащий",
+      "вишня",
+      "1.5 л"
+    ],
+    "params": {
+      "volume": "1.5 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Сады Придонья сок абрикос, яблоко 1 л",
+    "cleanTokens": [
+      "сок",
+      "абрикос",
+      "яблоко"
+    ],
+    "normalizedTokens": [
+      "сок",
+      "абрикос",
+      "яблоко",
+      "1 л"
+    ],
+    "params": {
+      "volume": "1 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Rich сок апельсин 0.2 л",
+    "cleanTokens": [
+      "сок",
+      "апельсин"
+    ],
+    "normalizedTokens": [
+      "сок",
+      "апельсин",
+      "0.2 л"
+    ],
+    "params": {
+      "volume": "0.2 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Rich сок апельсин 1 л",
+    "cleanTokens": [
+      "сок",
+      "апельсин"
+    ],
+    "normalizedTokens": [
+      "сок",
+      "апельсин",
+      "1 л"
+    ],
+    "params": {
+      "volume": "1 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Сады Придонья сок груша, яблоко 1 л",
+    "cleanTokens": [
+      "сок",
+      "груша",
+      "яблоко"
+    ],
+    "normalizedTokens": [
+      "сок",
+      "груша",
+      "яблоко",
+      "1 л"
+    ],
+    "params": {
+      "volume": "1 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "DaDa нектар апельсин 0.95 л",
+    "cleanTokens": [
+      "нектар",
+      "апельсин"
+    ],
+    "normalizedTokens": [
+      "нектар",
+      "апельсин",
+      "0.95 л"
+    ],
+    "params": {
+      "volume": "0.95 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Piko напиток сокосодержащий ананас 1 л",
+    "cleanTokens": [
+      "напиток",
+      "сокосодержащий",
+      "ананас"
+    ],
+    "normalizedTokens": [
+      "напиток",
+      "сокосодержащий",
+      "ананас",
+      "1 л"
+    ],
+    "params": {
+      "volume": "1 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Piko нектар томат 1 л",
+    "cleanTokens": [
+      "нектар",
+      "томат"
+    ],
+    "normalizedTokens": [
+      "нектар",
+      "томат",
+      "1 л"
+    ],
+    "params": {
+      "volume": "1 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "DaDa сок зеленое яблоко 0.2 л",
+    "cleanTokens": [
+      "сок",
+      "зеленое",
+      "яблоко"
+    ],
+    "normalizedTokens": [
+      "сок",
+      "зеленое",
+      "яблоко",
+      "0.2 л"
+    ],
+    "params": {
+      "volume": "0.2 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Сады Придонья сок виноград, яблоко 1 л",
+    "cleanTokens": [
+      "сок",
+      "виноград",
+      "яблоко"
+    ],
+    "normalizedTokens": [
+      "сок",
+      "виноград",
+      "яблоко",
+      "1 л"
+    ],
+    "params": {
+      "volume": "1 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "DaDa нектар яблоко 0.95 л",
+    "cleanTokens": [
+      "нектар",
+      "яблоко"
+    ],
+    "normalizedTokens": [
+      "нектар",
+      "яблоко",
+      "0.95 л"
+    ],
+    "params": {
+      "volume": "0.95 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Сады Придонья сок персик, яблоко 1 л",
+    "cleanTokens": [
+      "сок",
+      "персик",
+      "яблоко"
+    ],
+    "normalizedTokens": [
+      "сок",
+      "персик",
+      "яблоко",
+      "1 л"
+    ],
+    "params": {
+      "volume": "1 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Сады Придонья сок яблоко 0.13 л",
+    "cleanTokens": [
+      "сок",
+      "яблоко"
+    ],
+    "normalizedTokens": [
+      "сок",
+      "яблоко",
+      "0.13 л"
+    ],
+    "params": {
+      "volume": "0.13 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "JUICY сок томат 0.95 л",
+    "cleanTokens": [
+      "сок",
+      "томат"
+    ],
+    "normalizedTokens": [
+      "сок",
+      "томат",
+      "0.95 л"
+    ],
+    "params": {
+      "volume": "0.95 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Rich нектар персик 1 л",
+    "cleanTokens": [
+      "нектар",
+      "персик"
+    ],
+    "normalizedTokens": [
+      "нектар",
+      "персик",
+      "1 л"
+    ],
+    "params": {
+      "volume": "1 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Компотай напиток сокосодержащий сухофрукты 1.5 л",
+    "cleanTokens": [
+      "напиток",
+      "сокосодержащий",
+      "сухофрукты"
+    ],
+    "normalizedTokens": [
+      "напиток",
+      "сокосодержащий",
+      "сухофрукты",
+      "1.5 л"
+    ],
+    "params": {
+      "volume": "1.5 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Piko напиток сокосодержащий апельсин 2 л",
+    "cleanTokens": [
+      "напиток",
+      "сокосодержащий",
+      "апельсин"
+    ],
+    "normalizedTokens": [
+      "напиток",
+      "сокосодержащий",
+      "апельсин",
+      "2 л"
+    ],
+    "params": {
+      "volume": "2 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Piko морс черная смородина, клубника 1 л",
+    "cleanTokens": [
+      "морс",
+      "черная",
+      "смородина",
+      "клубника"
+    ],
+    "normalizedTokens": [
+      "морс",
+      "черная",
+      "смородина",
+      "клубника",
+      "1 л"
+    ],
+    "params": {
+      "volume": "1 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "MAGNUM фреш морковь, яблоко 0.3 л",
+    "cleanTokens": [
+      "фреш",
+      "морковь",
+      "яблоко"
+    ],
+    "normalizedTokens": [
+      "фреш",
+      "морковь",
+      "яблоко",
+      "0.3 л"
+    ],
+    "params": {
+      "volume": "0.3 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Фруктовый сад нектар яблоко 1.93 л",
+    "cleanTokens": [
+      "нектар",
+      "яблоко"
+    ],
+    "normalizedTokens": [
+      "нектар",
+      "яблоко",
+      "1.93 л"
+    ],
+    "params": {
+      "volume": "1.93 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "MAGNUM фреш свекольный 0.3 л",
+    "cleanTokens": [
+      "фреш",
+      "свекольный"
+    ],
+    "normalizedTokens": [
+      "фреш",
+      "свекольный",
+      "0.3 л"
+    ],
+    "params": {
+      "volume": "0.3 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "IL PRIMO сок яблоко 0.2 л",
+    "cleanTokens": [
+      "сок",
+      "яблоко"
+    ],
+    "normalizedTokens": [
+      "сок",
+      "яблоко",
+      "0.2 л"
+    ],
+    "params": {
+      "volume": "0.2 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Сады Придонья сок яблоко, морковь 1 л",
+    "cleanTokens": [
+      "сок",
+      "яблоко",
+      "морковь"
+    ],
+    "normalizedTokens": [
+      "сок",
+      "яблоко",
+      "морковь",
+      "1 л"
+    ],
+    "params": {
+      "volume": "1 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Фруктовый сад напиток сокосодержащий апельсин, манго, мандарин 0.95 л",
+    "cleanTokens": [
+      "напиток",
+      "сокосодержащий",
+      "апельсин",
+      "манго",
+      "мандарин"
+    ],
+    "normalizedTokens": [
+      "напиток",
+      "сокосодержащий",
+      "апельсин",
+      "манго",
+      "мандарин",
+      "0.95 л"
+    ],
+    "params": {
+      "volume": "0.95 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "DaDa сок томат 0.95 л",
+    "cleanTokens": [
+      "сок",
+      "томат"
+    ],
+    "normalizedTokens": [
+      "сок",
+      "томат",
+      "0.95 л"
+    ],
+    "params": {
+      "volume": "0.95 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "DaDa нектар тропик 0.95 л",
+    "cleanTokens": [
+      "нектар",
+      "тропик"
+    ],
+    "normalizedTokens": [
+      "нектар",
+      "тропик",
+      "0.95 л"
+    ],
+    "params": {
+      "volume": "0.95 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мой сок зеленое яблоко 0.2 л",
+    "cleanTokens": [
+      "сок",
+      "зеленое",
+      "яблоко"
+    ],
+    "normalizedTokens": [
+      "сок",
+      "зеленое",
+      "яблоко",
+      "0.2 л"
+    ],
+    "params": {
+      "volume": "0.2 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Компотай напиток сокосодержащий малина, клубника, ежевика 1.5 л",
+    "cleanTokens": [
+      "напиток",
+      "сокосодержащий",
+      "малина",
+      "клубника",
+      "ежевика"
+    ],
+    "normalizedTokens": [
+      "напиток",
+      "сокосодержащий",
+      "малина",
+      "клубника",
+      "ежевика",
+      "1.5 л"
+    ],
+    "params": {
+      "volume": "1.5 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "DaDa нектар персик 0.95 л",
+    "cleanTokens": [
+      "нектар",
+      "персик"
+    ],
+    "normalizedTokens": [
+      "нектар",
+      "персик",
+      "0.95 л"
+    ],
+    "params": {
+      "volume": "0.95 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Rich сок томат 1 л",
+    "cleanTokens": [
+      "сок",
+      "томат"
+    ],
+    "normalizedTokens": [
+      "сок",
+      "томат",
+      "1 л"
+    ],
+    "params": {
+      "volume": "1 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "JUICY King сок апельсин 0.95 л",
+    "cleanTokens": [
+      "king",
+      "сок",
+      "апельсин"
+    ],
+    "normalizedTokens": [
+      "king",
+      "сок",
+      "апельсин",
+      "0.95 л"
+    ],
+    "params": {
+      "volume": "0.95 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Добрый нектар мультифрукт 1 л",
+    "cleanTokens": [
+      "нектар",
+      "мультифрукт"
+    ],
+    "normalizedTokens": [
+      "нектар",
+      "мультифрукт",
+      "1 л"
+    ],
+    "params": {
+      "volume": "1 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Нектар Солнечный напиток сокосодержащий персик 1.9 л",
+    "cleanTokens": [
+      "напиток",
+      "сокосодержащий",
+      "персик"
+    ],
+    "normalizedTokens": [
+      "напиток",
+      "сокосодержащий",
+      "персик",
+      "1.9 л"
+    ],
+    "params": {
+      "volume": "1.9 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "IL PRIMO сок апельсин 0.2 л",
+    "cleanTokens": [
+      "сок",
+      "апельсин"
+    ],
+    "normalizedTokens": [
+      "сок",
+      "апельсин",
+      "0.2 л"
+    ],
+    "params": {
+      "volume": "0.2 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Добрый сок апельсин, мандарин 2 л",
+    "cleanTokens": [
+      "сок",
+      "апельсин",
+      "мандарин"
+    ],
+    "normalizedTokens": [
+      "сок",
+      "апельсин",
+      "мандарин",
+      "2 л"
+    ],
+    "params": {
+      "volume": "2 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Сады Придонья сок томат без соли 1 л",
+    "cleanTokens": [
+      "сок",
+      "томат",
+      "без",
+      "соли"
+    ],
+    "normalizedTokens": [
+      "сок",
+      "томат",
+      "без",
+      "соли",
+      "1 л"
+    ],
+    "params": {
+      "volume": "1 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "JUICY сок зеленое яблоко 0.95 л",
+    "cleanTokens": [
+      "сок",
+      "зеленое",
+      "яблоко"
+    ],
+    "normalizedTokens": [
+      "сок",
+      "зеленое",
+      "яблоко",
+      "0.95 л"
+    ],
+    "params": {
+      "volume": "0.95 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Gracio нектар персик 0.95 л",
+    "cleanTokens": [
+      "нектар",
+      "персик"
+    ],
+    "normalizedTokens": [
+      "нектар",
+      "персик",
+      "0.95 л"
+    ],
+    "params": {
+      "volume": "0.95 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Фруктовый сад Яркий микс напиток сокосодержащий рябина, земляника, клубника, яблоко 0.95 л",
+    "cleanTokens": [
+      "яркий",
+      "микс",
+      "напиток",
+      "сокосодержащий",
+      "рябина",
+      "земляника",
+      "клубника",
+      "яблоко"
+    ],
+    "normalizedTokens": [
+      "яркий",
+      "микс",
+      "напиток",
+      "сокосодержащий",
+      "рябина",
+      "земляника",
+      "клубника",
+      "яблоко",
+      "0.95 л"
+    ],
+    "params": {
+      "volume": "0.95 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Фруктовый сад нектар персик, яблоко 0.95 л",
+    "cleanTokens": [
+      "нектар",
+      "персик",
+      "яблоко"
+    ],
+    "normalizedTokens": [
+      "нектар",
+      "персик",
+      "яблоко",
+      "0.95 л"
+    ],
+    "params": {
+      "volume": "0.95 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Компотай напиток сокосодержащий гранат 1.5 л",
+    "cleanTokens": [
+      "напиток",
+      "сокосодержащий",
+      "гранат"
+    ],
+    "normalizedTokens": [
+      "напиток",
+      "сокосодержащий",
+      "гранат",
+      "1.5 л"
+    ],
+    "params": {
+      "volume": "1.5 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Фруктовый сад сок томат 0.95 л",
+    "cleanTokens": [
+      "сок",
+      "томат"
+    ],
+    "normalizedTokens": [
+      "сок",
+      "томат",
+      "0.95 л"
+    ],
+    "params": {
+      "volume": "0.95 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Фруктовый сад напиток сокосодержащий гранат, яблоко, рябина 0.95 л",
+    "cleanTokens": [
+      "напиток",
+      "сокосодержащий",
+      "гранат",
+      "яблоко",
+      "рябина"
+    ],
+    "normalizedTokens": [
+      "напиток",
+      "сокосодержащий",
+      "гранат",
+      "яблоко",
+      "рябина",
+      "0.95 л"
+    ],
+    "params": {
+      "volume": "0.95 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Фруктовый сад нектар яблоко 0.95 л",
+    "cleanTokens": [
+      "нектар",
+      "яблоко"
+    ],
+    "normalizedTokens": [
+      "нектар",
+      "яблоко",
+      "0.95 л"
+    ],
+    "params": {
+      "volume": "0.95 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Фруктовый сад нектар мультифрукт 0.95 л",
+    "cleanTokens": [
+      "нектар",
+      "мультифрукт"
+    ],
+    "normalizedTokens": [
+      "нектар",
+      "мультифрукт",
+      "0.95 л"
+    ],
+    "params": {
+      "volume": "0.95 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "JUICY морс малина, клюква 0.95 л",
+    "cleanTokens": [
+      "морс",
+      "малина",
+      "клюква"
+    ],
+    "normalizedTokens": [
+      "морс",
+      "малина",
+      "клюква",
+      "0.95 л"
+    ],
+    "params": {
+      "volume": "0.95 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Компотай напиток сокосодержащий вишня 1 л",
+    "cleanTokens": [
+      "напиток",
+      "сокосодержащий",
+      "вишня"
+    ],
+    "normalizedTokens": [
+      "напиток",
+      "сокосодержащий",
+      "вишня",
+      "1 л"
+    ],
+    "params": {
+      "volume": "1 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Компотай напиток сокосодержащий гранат 1 л",
+    "cleanTokens": [
+      "напиток",
+      "сокосодержащий",
+      "гранат"
+    ],
+    "normalizedTokens": [
+      "напиток",
+      "сокосодержащий",
+      "гранат",
+      "1 л"
+    ],
+    "params": {
+      "volume": "1 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Piko нектар яблоко 2 л",
+    "cleanTokens": [
+      "нектар",
+      "яблоко"
+    ],
+    "normalizedTokens": [
+      "нектар",
+      "яблоко",
+      "2 л"
+    ],
+    "params": {
+      "volume": "2 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "JUICY Junior сок зеленое яблоко 0.2 л",
+    "cleanTokens": [
+      "junior",
+      "сок",
+      "зеленое",
+      "яблоко"
+    ],
+    "normalizedTokens": [
+      "junior",
+      "сок",
+      "зеленое",
+      "яблоко",
+      "0.2 л"
+    ],
+    "params": {
+      "volume": "0.2 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "DaDa напиток сокосодержащий вишня 0.95 л",
+    "cleanTokens": [
+      "напиток",
+      "сокосодержащий",
+      "вишня"
+    ],
+    "normalizedTokens": [
+      "напиток",
+      "сокосодержащий",
+      "вишня",
+      "0.95 л"
+    ],
+    "params": {
+      "volume": "0.95 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Rich нектар яблоко 0.2 л",
+    "cleanTokens": [
+      "нектар",
+      "яблоко"
+    ],
+    "normalizedTokens": [
+      "нектар",
+      "яблоко",
+      "0.2 л"
+    ],
+    "params": {
+      "volume": "0.2 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Сады Придонья сок яблоко, тыква 1 л",
+    "cleanTokens": [
+      "сок",
+      "яблоко",
+      "тыква"
+    ],
+    "normalizedTokens": [
+      "сок",
+      "яблоко",
+      "тыква",
+      "1 л"
+    ],
+    "params": {
+      "volume": "1 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Добрый нектар зеленое яблоко 2 л",
+    "cleanTokens": [
+      "нектар",
+      "зеленое",
+      "яблоко"
+    ],
+    "normalizedTokens": [
+      "нектар",
+      "зеленое",
+      "яблоко",
+      "2 л"
+    ],
+    "params": {
+      "volume": "2 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Piko Pulpy напиток сокосодержащий виноград 1 л",
+    "cleanTokens": [
+      "pulpy",
+      "напиток",
+      "сокосодержащий",
+      "виноград"
+    ],
+    "normalizedTokens": [
+      "pulpy",
+      "напиток",
+      "сокосодержащий",
+      "виноград",
+      "1 л"
+    ],
+    "params": {
+      "volume": "1 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Capri-Sonne напиток сокосодержащий мультифрукт 0.21 л",
+    "cleanTokens": [
+      "напиток",
+      "сокосодержащий",
+      "мультифрукт"
+    ],
+    "normalizedTokens": [
+      "напиток",
+      "сокосодержащий",
+      "мультифрукт",
+      "0.21 л"
+    ],
+    "params": {
+      "volume": "0.21 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Danone Актуаль напиток сокосодержащий апельсин, манго 0.93 л",
+    "cleanTokens": [
+      "актуаль",
+      "напиток",
+      "сокосодержащий",
+      "апельсин",
+      "манго"
+    ],
+    "normalizedTokens": [
+      "актуаль",
+      "напиток",
+      "сокосодержащий",
+      "апельсин",
+      "манго",
+      "0.93 л"
+    ],
+    "params": {
+      "volume": "0.93 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Сады Придонья сок свекла 1 л",
+    "cleanTokens": [
+      "сок",
+      "свекла"
+    ],
+    "normalizedTokens": [
+      "сок",
+      "свекла",
+      "1 л"
+    ],
+    "params": {
+      "volume": "1 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Компотай напиток сокосодержащий сухофрукты 1 л",
+    "cleanTokens": [
+      "напиток",
+      "сокосодержащий",
+      "сухофрукты"
+    ],
+    "normalizedTokens": [
+      "напиток",
+      "сокосодержащий",
+      "сухофрукты",
+      "1 л"
+    ],
+    "params": {
+      "volume": "1 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Garden напиток сокосодержащий груша 1.2 л",
+    "cleanTokens": [
+      "напиток",
+      "сокосодержащий",
+      "груша"
+    ],
+    "normalizedTokens": [
+      "напиток",
+      "сокосодержащий",
+      "груша",
+      "1.2 л"
+    ],
+    "params": {
+      "volume": "1.2 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "MAGNUM фреш яблочный 0.3 л",
+    "cleanTokens": [
+      "фреш",
+      "яблочный"
+    ],
+    "normalizedTokens": [
+      "фреш",
+      "яблочный",
+      "0.3 л"
+    ],
+    "params": {
+      "volume": "0.3 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Добрый нектар мультифрукт 2 л",
+    "cleanTokens": [
+      "нектар",
+      "мультифрукт"
+    ],
+    "normalizedTokens": [
+      "нектар",
+      "мультифрукт",
+      "2 л"
+    ],
+    "params": {
+      "volume": "2 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "JUICY напиток сокосодержащий гранат 0.95 л",
+    "cleanTokens": [
+      "напиток",
+      "сокосодержащий",
+      "гранат"
+    ],
+    "normalizedTokens": [
+      "напиток",
+      "сокосодержащий",
+      "гранат",
+      "0.95 л"
+    ],
+    "params": {
+      "volume": "0.95 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Piko нектар яблоко 0.2 л",
+    "cleanTokens": [
+      "нектар",
+      "яблоко"
+    ],
+    "normalizedTokens": [
+      "нектар",
+      "яблоко",
+      "0.2 л"
+    ],
+    "params": {
+      "volume": "0.2 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Фруктовый сад нектар яблоко 0.2 л",
+    "cleanTokens": [
+      "нектар",
+      "яблоко"
+    ],
+    "normalizedTokens": [
+      "нектар",
+      "яблоко",
+      "0.2 л"
+    ],
+    "params": {
+      "volume": "0.2 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Rich нектар вишня 0.2 л",
+    "cleanTokens": [
+      "нектар",
+      "вишня"
+    ],
+    "normalizedTokens": [
+      "нектар",
+      "вишня",
+      "0.2 л"
+    ],
+    "params": {
+      "volume": "0.2 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "JUICY напиток сокосодержащий вишня 1.95 л",
+    "cleanTokens": [
+      "напиток",
+      "сокосодержащий",
+      "вишня"
+    ],
+    "normalizedTokens": [
+      "напиток",
+      "сокосодержащий",
+      "вишня",
+      "1.95 л"
+    ],
+    "params": {
+      "volume": "1.95 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Фруктовый сад нектар персик, яблоко 0.2 л",
+    "cleanTokens": [
+      "нектар",
+      "персик",
+      "яблоко"
+    ],
+    "normalizedTokens": [
+      "нектар",
+      "персик",
+      "яблоко",
+      "0.2 л"
+    ],
+    "params": {
+      "volume": "0.2 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "DaDa морс клубника, черная смородина 0.95 л",
+    "cleanTokens": [
+      "морс",
+      "клубника",
+      "черная",
+      "смородина"
+    ],
+    "normalizedTokens": [
+      "морс",
+      "клубника",
+      "черная",
+      "смородина",
+      "0.95 л"
+    ],
+    "params": {
+      "volume": "0.95 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "J7 нектар ананас 1 л",
+    "cleanTokens": [
+      "нектар",
+      "ананас"
+    ],
+    "normalizedTokens": [
+      "нектар",
+      "ананас",
+      "1 л"
+    ],
+    "params": {
+      "volume": "1 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Piko напиток сокосодержащий персик 1 л",
+    "cleanTokens": [
+      "напиток",
+      "сокосодержащий",
+      "персик"
+    ],
+    "normalizedTokens": [
+      "напиток",
+      "сокосодержащий",
+      "персик",
+      "1 л"
+    ],
+    "params": {
+      "volume": "1 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Фруктовый сад нектар мультифрукт 0.2 л",
+    "cleanTokens": [
+      "нектар",
+      "мультифрукт"
+    ],
+    "normalizedTokens": [
+      "нектар",
+      "мультифрукт",
+      "0.2 л"
+    ],
+    "params": {
+      "volume": "0.2 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Garden напиток сокосодержащий вишня 1.2 л",
+    "cleanTokens": [
+      "напиток",
+      "сокосодержащий",
+      "вишня"
+    ],
+    "normalizedTokens": [
+      "напиток",
+      "сокосодержащий",
+      "вишня",
+      "1.2 л"
+    ],
+    "params": {
+      "volume": "1.2 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Piko напиток сокосодержащий мультифрукт 1 л",
+    "cleanTokens": [
+      "напиток",
+      "сокосодержащий",
+      "мультифрукт"
+    ],
+    "normalizedTokens": [
+      "напиток",
+      "сокосодержащий",
+      "мультифрукт",
+      "1 л"
+    ],
+    "params": {
+      "volume": "1 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Rich нектар апельсин, манго 0.3 л",
+    "cleanTokens": [
+      "нектар",
+      "апельсин",
+      "манго"
+    ],
+    "normalizedTokens": [
+      "нектар",
+      "апельсин",
+      "манго",
+      "0.3 л"
+    ],
+    "params": {
+      "volume": "0.3 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Добрый напиток сокосодержащий манго 1 л",
+    "cleanTokens": [
+      "напиток",
+      "сокосодержащий",
+      "манго"
+    ],
+    "normalizedTokens": [
+      "напиток",
+      "сокосодержащий",
+      "манго",
+      "1 л"
+    ],
+    "params": {
+      "volume": "1 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "JUICY нектар мультифрукт 1.95 л",
+    "cleanTokens": [
+      "нектар",
+      "мультифрукт"
+    ],
+    "normalizedTokens": [
+      "нектар",
+      "мультифрукт",
+      "1.95 л"
+    ],
+    "params": {
+      "volume": "1.95 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "J7 сок зеленое яблоко 1 л",
+    "cleanTokens": [
+      "сок",
+      "зеленое",
+      "яблоко"
+    ],
+    "normalizedTokens": [
+      "сок",
+      "зеленое",
+      "яблоко",
+      "1 л"
+    ],
+    "params": {
+      "volume": "1 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "J7 сок томат 1 л",
+    "cleanTokens": [
+      "сок",
+      "томат"
+    ],
+    "normalizedTokens": [
+      "сок",
+      "томат",
+      "1 л"
+    ],
+    "params": {
+      "volume": "1 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Piko напиток сокосодержащий персик 2 л",
+    "cleanTokens": [
+      "напиток",
+      "сокосодержащий",
+      "персик"
+    ],
+    "normalizedTokens": [
+      "напиток",
+      "сокосодержащий",
+      "персик",
+      "2 л"
+    ],
+    "params": {
+      "volume": "2 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Piko напиток сокосодержащий мультифрукт 2 л",
+    "cleanTokens": [
+      "напиток",
+      "сокосодержащий",
+      "мультифрукт"
+    ],
+    "normalizedTokens": [
+      "напиток",
+      "сокосодержащий",
+      "мультифрукт",
+      "2 л"
+    ],
+    "params": {
+      "volume": "2 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "JUICY нектар абрикос 0.95 л",
+    "cleanTokens": [
+      "нектар",
+      "абрикос"
+    ],
+    "normalizedTokens": [
+      "нектар",
+      "абрикос",
+      "0.95 л"
+    ],
+    "params": {
+      "volume": "0.95 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "JUICY нектар мультифрукт 0.95 л",
+    "cleanTokens": [
+      "нектар",
+      "мультифрукт"
+    ],
+    "normalizedTokens": [
+      "нектар",
+      "мультифрукт",
+      "0.95 л"
+    ],
+    "params": {
+      "volume": "0.95 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Rich нектар вишня 0.3 л",
+    "cleanTokens": [
+      "нектар",
+      "вишня"
+    ],
+    "normalizedTokens": [
+      "нектар",
+      "вишня",
+      "0.3 л"
+    ],
+    "params": {
+      "volume": "0.3 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Piko нектар персик 0.2 л",
+    "cleanTokens": [
+      "нектар",
+      "персик"
+    ],
+    "normalizedTokens": [
+      "нектар",
+      "персик",
+      "0.2 л"
+    ],
+    "params": {
+      "volume": "0.2 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Rich сок ананас 1 л",
+    "cleanTokens": [
+      "сок",
+      "ананас"
+    ],
+    "normalizedTokens": [
+      "сок",
+      "ананас",
+      "1 л"
+    ],
+    "params": {
+      "volume": "1 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "IL PRIMO нектар вишня 1 л",
+    "cleanTokens": [
+      "нектар",
+      "вишня"
+    ],
+    "normalizedTokens": [
+      "нектар",
+      "вишня",
+      "1 л"
+    ],
+    "params": {
+      "volume": "1 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Нектар Солнечный нектар зеленое яблоко 0.2 л",
+    "cleanTokens": [
+      "нектар",
+      "зеленое",
+      "яблоко"
+    ],
+    "normalizedTokens": [
+      "нектар",
+      "зеленое",
+      "яблоко",
+      "0.2 л"
+    ],
+    "params": {
+      "volume": "0.2 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Rich сок яблоко 0.3 л",
+    "cleanTokens": [
+      "сок",
+      "яблоко"
+    ],
+    "normalizedTokens": [
+      "сок",
+      "яблоко",
+      "0.3 л"
+    ],
+    "params": {
+      "volume": "0.3 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Piko напиток сокосодержащий апельсин 0.2 л",
+    "cleanTokens": [
+      "напиток",
+      "сокосодержащий",
+      "апельсин"
+    ],
+    "normalizedTokens": [
+      "напиток",
+      "сокосодержащий",
+      "апельсин",
+      "0.2 л"
+    ],
+    "params": {
+      "volume": "0.2 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Добрый Супер джус сок персик, яблоко 0.2 л",
+    "cleanTokens": [
+      "супер",
+      "джус",
+      "сок",
+      "персик",
+      "яблоко"
+    ],
+    "normalizedTokens": [
+      "супер",
+      "джус",
+      "сок",
+      "персик",
+      "яблоко",
+      "0.2 л"
+    ],
+    "params": {
+      "volume": "0.2 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Добрый нектар томат 2 л",
+    "cleanTokens": [
+      "нектар",
+      "томат"
+    ],
+    "normalizedTokens": [
+      "нектар",
+      "томат",
+      "2 л"
+    ],
+    "params": {
+      "volume": "2 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Telli сок гранат 1 л",
+    "cleanTokens": [
+      "сок",
+      "гранат"
+    ],
+    "normalizedTokens": [
+      "сок",
+      "гранат",
+      "1 л"
+    ],
+    "params": {
+      "volume": "1 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Добрый нектар персик, яблоко 1 л",
+    "cleanTokens": [
+      "нектар",
+      "персик",
+      "яблоко"
+    ],
+    "normalizedTokens": [
+      "нектар",
+      "персик",
+      "яблоко",
+      "1 л"
+    ],
+    "params": {
+      "volume": "1 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Piko Pulpy напиток сокосодержащий апельсин 0.5 л",
+    "cleanTokens": [
+      "pulpy",
+      "напиток",
+      "сокосодержащий",
+      "апельсин"
+    ],
+    "normalizedTokens": [
+      "pulpy",
+      "напиток",
+      "сокосодержащий",
+      "апельсин",
+      "0.5 л"
+    ],
+    "params": {
+      "volume": "0.5 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Shaurma-Food морс ягодный 1 л",
+    "cleanTokens": [
+      "морс",
+      "ягодный"
+    ],
+    "normalizedTokens": [
+      "морс",
+      "ягодный",
+      "1 л"
+    ],
+    "params": {
+      "volume": "1 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "IL PRIMO сок ананас 1 л",
+    "cleanTokens": [
+      "сок",
+      "ананас"
+    ],
+    "normalizedTokens": [
+      "сок",
+      "ананас",
+      "1 л"
+    ],
+    "params": {
+      "volume": "1 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Shaurma-Food морс ягодный 0.5 л",
+    "cleanTokens": [
+      "морс",
+      "ягодный"
+    ],
+    "normalizedTokens": [
+      "морс",
+      "ягодный",
+      "0.5 л"
+    ],
+    "params": {
+      "volume": "0.5 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Компотай напиток сокосодержащий ягодный 1 л",
+    "cleanTokens": [
+      "напиток",
+      "сокосодержащий",
+      "ягодный"
+    ],
+    "normalizedTokens": [
+      "напиток",
+      "сокосодержащий",
+      "ягодный",
+      "1 л"
+    ],
+    "params": {
+      "volume": "1 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Dario нектар мультифрукт 1 л",
+    "cleanTokens": [
+      "нектар",
+      "мультифрукт"
+    ],
+    "normalizedTokens": [
+      "нектар",
+      "мультифрукт",
+      "1 л"
+    ],
+    "params": {
+      "volume": "1 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Telli нектар гранат 1 л",
+    "cleanTokens": [
+      "нектар",
+      "гранат"
+    ],
+    "normalizedTokens": [
+      "нектар",
+      "гранат",
+      "1 л"
+    ],
+    "params": {
+      "volume": "1 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Shaurma-Food морс вишня, яблоко 0.5 л",
+    "cleanTokens": [
+      "морс",
+      "вишня",
+      "яблоко"
+    ],
+    "normalizedTokens": [
+      "морс",
+      "вишня",
+      "яблоко",
+      "0.5 л"
+    ],
+    "params": {
+      "volume": "0.5 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Dario нектар манго, личи, маракуйя 1 л",
+    "cleanTokens": [
+      "нектар",
+      "манго",
+      "личи",
+      "маракуйя"
+    ],
+    "normalizedTokens": [
+      "нектар",
+      "манго",
+      "личи",
+      "маракуйя",
+      "1 л"
+    ],
+    "params": {
+      "volume": "1 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Waters Service напиток сокосодержащий мультифрукт 5 л",
+    "cleanTokens": [
+      "waters",
+      "service",
+      "напиток",
+      "сокосодержащий",
+      "мультифрукт"
+    ],
+    "normalizedTokens": [
+      "waters",
+      "service",
+      "напиток",
+      "сокосодержащий",
+      "мультифрукт",
+      "5 л"
+    ],
+    "params": {
+      "volume": "5 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Dario нектар гуава, банан, клубника 1 л",
+    "cleanTokens": [
+      "нектар",
+      "гуава",
+      "банан",
+      "клубника"
+    ],
+    "normalizedTokens": [
+      "нектар",
+      "гуава",
+      "банан",
+      "клубника",
+      "1 л"
+    ],
+    "params": {
+      "volume": "1 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Dario нектар банан 1 л",
+    "cleanTokens": [
+      "нектар",
+      "банан"
+    ],
+    "normalizedTokens": [
+      "нектар",
+      "банан",
+      "1 л"
+    ],
+    "params": {
+      "volume": "1 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Dario нектар персик 1 л",
+    "cleanTokens": [
+      "нектар",
+      "персик"
+    ],
+    "normalizedTokens": [
+      "нектар",
+      "персик",
+      "1 л"
+    ],
+    "params": {
+      "volume": "1 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Добрый сок мультифрукт 0.2 л",
+    "cleanTokens": [
+      "сок",
+      "мультифрукт"
+    ],
+    "normalizedTokens": [
+      "сок",
+      "мультифрукт",
+      "0.2 л"
+    ],
+    "params": {
+      "volume": "0.2 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Dario нектар вишня, черешня 1 л",
+    "cleanTokens": [
+      "нектар",
+      "вишня",
+      "черешня"
+    ],
+    "normalizedTokens": [
+      "нектар",
+      "вишня",
+      "черешня",
+      "1 л"
+    ],
+    "params": {
+      "volume": "1 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "DaDa напиток сокосодержащий гранат 1 л",
+    "cleanTokens": [
+      "напиток",
+      "сокосодержащий",
+      "гранат"
+    ],
+    "normalizedTokens": [
+      "напиток",
+      "сокосодержащий",
+      "гранат",
+      "1 л"
+    ],
+    "params": {
+      "volume": "1 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Waters Service напиток сокосодержащий абрикос 5 л",
+    "cleanTokens": [
+      "waters",
+      "service",
+      "напиток",
+      "сокосодержащий",
+      "абрикос"
+    ],
+    "normalizedTokens": [
+      "waters",
+      "service",
+      "напиток",
+      "сокосодержащий",
+      "абрикос",
+      "5 л"
+    ],
+    "params": {
+      "volume": "5 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Waters Service напиток сокосодержащий яблоко 5 л",
+    "cleanTokens": [
+      "waters",
+      "service",
+      "напиток",
+      "сокосодержащий",
+      "яблоко"
+    ],
+    "normalizedTokens": [
+      "waters",
+      "service",
+      "напиток",
+      "сокосодержащий",
+      "яблоко",
+      "5 л"
+    ],
+    "params": {
+      "volume": "5 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Добрый сок яблоко 0.2 л",
+    "cleanTokens": [
+      "сок",
+      "яблоко"
+    ],
+    "normalizedTokens": [
+      "сок",
+      "яблоко",
+      "0.2 л"
+    ],
+    "params": {
+      "volume": "0.2 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Сады Придонья нектар апельсин 2 л",
+    "cleanTokens": [
+      "нектар",
+      "апельсин"
+    ],
+    "normalizedTokens": [
+      "нектар",
+      "апельсин",
+      "2 л"
+    ],
+    "params": {
+      "volume": "2 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "JUICY нектар персик 0.95 л",
+    "cleanTokens": [
+      "нектар",
+      "персик"
+    ],
+    "normalizedTokens": [
+      "нектар",
+      "персик",
+      "0.95 л"
+    ],
+    "params": {
+      "volume": "0.95 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "IL PRIMO нектар манго 1 л",
+    "cleanTokens": [
+      "нектар",
+      "манго"
+    ],
+    "normalizedTokens": [
+      "нектар",
+      "манго",
+      "1 л"
+    ],
+    "params": {
+      "volume": "1 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Shaurma-Food Банановый коктейль 0.4 л",
+    "cleanTokens": [
+      "банановый",
+      "коктейль"
+    ],
+    "normalizedTokens": [
+      "банановый",
+      "коктейль",
+      "0.4 л"
+    ],
+    "params": {
+      "volume": "0.4 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Shaurma-Food Клубничный коктейль 0.4 л",
+    "cleanTokens": [
+      "клубничный",
+      "коктейль"
+    ],
+    "normalizedTokens": [
+      "клубничный",
+      "коктейль",
+      "0.4 л"
+    ],
+    "params": {
+      "volume": "0.4 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Компотай напиток сокосодержащий гранат 0.45 л",
+    "cleanTokens": [
+      "напиток",
+      "сокосодержащий",
+      "гранат"
+    ],
+    "normalizedTokens": [
+      "напиток",
+      "сокосодержащий",
+      "гранат",
+      "0.45 л"
+    ],
+    "params": {
+      "volume": "0.45 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Waters Service напиток сокосодержащий малина, клюква 2 л",
+    "cleanTokens": [
+      "waters",
+      "service",
+      "напиток",
+      "сокосодержащий",
+      "малина",
+      "клюква"
+    ],
+    "normalizedTokens": [
+      "waters",
+      "service",
+      "напиток",
+      "сокосодержащий",
+      "малина",
+      "клюква",
+      "2 л"
+    ],
+    "params": {
+      "volume": "2 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "J7 нектар вишня 1 л",
+    "cleanTokens": [
+      "нектар",
+      "вишня"
+    ],
+    "normalizedTokens": [
+      "нектар",
+      "вишня",
+      "1 л"
+    ],
+    "params": {
+      "volume": "1 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "JUICY Junior нектар мультифрукт 0.2 л",
+    "cleanTokens": [
+      "junior",
+      "нектар",
+      "мультифрукт"
+    ],
+    "normalizedTokens": [
+      "junior",
+      "нектар",
+      "мультифрукт",
+      "0.2 л"
+    ],
+    "params": {
+      "volume": "0.2 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Добрый нектар яблоко 2 л",
+    "cleanTokens": [
+      "нектар",
+      "яблоко"
+    ],
+    "normalizedTokens": [
+      "нектар",
+      "яблоко",
+      "2 л"
+    ],
+    "params": {
+      "volume": "2 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "JUICY напиток сокосодержащий вишня 0.95 л",
+    "cleanTokens": [
+      "напиток",
+      "сокосодержащий",
+      "вишня"
+    ],
+    "normalizedTokens": [
+      "напиток",
+      "сокосодержащий",
+      "вишня",
+      "0.95 л"
+    ],
+    "params": {
+      "volume": "0.95 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Dario сок ананас 1 л",
+    "cleanTokens": [
+      "сок",
+      "ананас"
+    ],
+    "normalizedTokens": [
+      "сок",
+      "ананас",
+      "1 л"
+    ],
+    "params": {
+      "volume": "1 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Waters Service напиток сокосодержащий гранат 2 л",
+    "cleanTokens": [
+      "waters",
+      "service",
+      "напиток",
+      "сокосодержащий",
+      "гранат"
+    ],
+    "normalizedTokens": [
+      "waters",
+      "service",
+      "напиток",
+      "сокосодержащий",
+      "гранат",
+      "2 л"
+    ],
+    "params": {
+      "volume": "2 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Dario сок яблоко 1 л",
+    "cleanTokens": [
+      "сок",
+      "яблоко"
+    ],
+    "normalizedTokens": [
+      "сок",
+      "яблоко",
+      "1 л"
+    ],
+    "params": {
+      "volume": "1 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Vinut напиток сокосодержащий мультифрукт 0.33 л",
+    "cleanTokens": [
+      "напиток",
+      "сокосодержащий",
+      "мультифрукт"
+    ],
+    "normalizedTokens": [
+      "напиток",
+      "сокосодержащий",
+      "мультифрукт",
+      "0.33 л"
+    ],
+    "params": {
+      "volume": "0.33 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "IL PRIMO сок яблоко 1 л",
+    "cleanTokens": [
+      "сок",
+      "яблоко"
+    ],
+    "normalizedTokens": [
+      "сок",
+      "яблоко",
+      "1 л"
+    ],
+    "params": {
+      "volume": "1 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Shaurma-Food морс черная смородина 1 л",
+    "cleanTokens": [
+      "морс",
+      "черная",
+      "смородина"
+    ],
+    "normalizedTokens": [
+      "морс",
+      "черная",
+      "смородина",
+      "1 л"
+    ],
+    "params": {
+      "volume": "1 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Shaurma-Food морс черная смородина 0.5 л",
+    "cleanTokens": [
+      "морс",
+      "черная",
+      "смородина"
+    ],
+    "normalizedTokens": [
+      "морс",
+      "черная",
+      "смородина",
+      "0.5 л"
+    ],
+    "params": {
+      "volume": "0.5 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Shaurma-Food Шоколадный коктейль 0.4 л",
+    "cleanTokens": [
+      "шоколадный",
+      "коктейль"
+    ],
+    "normalizedTokens": [
+      "шоколадный",
+      "коктейль",
+      "0.4 л"
+    ],
+    "params": {
+      "volume": "0.4 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "JUICY нектар персик 0.95 л",
+    "cleanTokens": [
+      "нектар",
+      "персик"
+    ],
+    "normalizedTokens": [
+      "нектар",
+      "персик",
+      "0.95 л"
+    ],
+    "params": {
+      "volume": "0.95 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Sun Planet Kazakhstan сок яблоко 0.2 л",
+    "cleanTokens": [
+      "сок",
+      "яблоко"
+    ],
+    "normalizedTokens": [
+      "сок",
+      "яблоко",
+      "0.2 л"
+    ],
+    "params": {
+      "volume": "0.2 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Sun Planet Kazakhstan сок яблоко 3 л",
+    "cleanTokens": [
+      "сок",
+      "яблоко"
+    ],
+    "normalizedTokens": [
+      "сок",
+      "яблоко",
+      "3 л"
+    ],
+    "params": {
+      "volume": "3 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Rich нектар персик 0.2 л",
+    "cleanTokens": [
+      "нектар",
+      "персик"
+    ],
+    "normalizedTokens": [
+      "нектар",
+      "персик",
+      "0.2 л"
+    ],
+    "params": {
+      "volume": "0.2 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "JUICY домашний лимонад кайпиринья 1 л",
+    "cleanTokens": [
+      "домашний",
+      "лимонад",
+      "кайпиринья"
+    ],
+    "normalizedTokens": [
+      "домашний",
+      "лимонад",
+      "кайпиринья",
+      "1 л"
+    ],
+    "params": {
+      "volume": "1 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Vinut напиток сокосодержащий питайя 0.33 л",
+    "cleanTokens": [
+      "напиток",
+      "сокосодержащий",
+      "питайя"
+    ],
+    "normalizedTokens": [
+      "напиток",
+      "сокосодержащий",
+      "питайя",
+      "0.33 л"
+    ],
+    "params": {
+      "volume": "0.33 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Vinut напиток сокосодержащий гуава 0.33 л",
+    "cleanTokens": [
+      "напиток",
+      "сокосодержащий",
+      "гуава"
+    ],
+    "normalizedTokens": [
+      "напиток",
+      "сокосодержащий",
+      "гуава",
+      "0.33 л"
+    ],
+    "params": {
+      "volume": "0.33 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "JUICY морс черная смородина, красная смородина 0.95 л",
+    "cleanTokens": [
+      "морс",
+      "черная",
+      "смородина",
+      "красная",
+      "смородина"
+    ],
+    "normalizedTokens": [
+      "морс",
+      "черная",
+      "смородина",
+      "красная",
+      "смородина",
+      "0.95 л"
+    ],
+    "params": {
+      "volume": "0.95 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Vinut напиток сокосодержащий маракуйя 0.33 л",
+    "cleanTokens": [
+      "напиток",
+      "сокосодержащий",
+      "маракуйя"
+    ],
+    "normalizedTokens": [
+      "напиток",
+      "сокосодержащий",
+      "маракуйя",
+      "0.33 л"
+    ],
+    "params": {
+      "volume": "0.33 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Vinut напиток сокосодержащий кокос 0.33 л",
+    "cleanTokens": [
+      "напиток",
+      "сокосодержащий",
+      "кокос"
+    ],
+    "normalizedTokens": [
+      "напиток",
+      "сокосодержащий",
+      "кокос",
+      "0.33 л"
+    ],
+    "params": {
+      "volume": "0.33 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Waters Service напиток сокосодержащий абрикос 2 л",
+    "cleanTokens": [
+      "waters",
+      "service",
+      "напиток",
+      "сокосодержащий",
+      "абрикос"
+    ],
+    "normalizedTokens": [
+      "waters",
+      "service",
+      "напиток",
+      "сокосодержащий",
+      "абрикос",
+      "2 л"
+    ],
+    "params": {
+      "volume": "2 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Vinut напиток сокосодержащий банан 0.33 л",
+    "cleanTokens": [
+      "напиток",
+      "сокосодержащий",
+      "банан"
+    ],
+    "normalizedTokens": [
+      "напиток",
+      "сокосодержащий",
+      "банан",
+      "0.33 л"
+    ],
+    "params": {
+      "volume": "0.33 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "А4 напиток сокосодержащий Ирис Карамель с кусочками кокосового желе 0.24 л",
+    "cleanTokens": [
+      "напиток",
+      "сокосодержащий",
+      "ирис",
+      "карамель",
+      "с",
+      "кусочками",
+      "кокосового",
+      "желе"
+    ],
+    "normalizedTokens": [
+      "напиток",
+      "сокосодержащий",
+      "ирис",
+      "карамель",
+      "с",
+      "кусочками",
+      "кокосового",
+      "желе",
+      "0.24 л"
+    ],
+    "params": {
+      "volume": "0.24 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Vinut напиток сокосодержащий личи 0.33 л",
+    "cleanTokens": [
+      "напиток",
+      "сокосодержащий",
+      "личи"
+    ],
+    "normalizedTokens": [
+      "напиток",
+      "сокосодержащий",
+      "личи",
+      "0.33 л"
+    ],
+    "params": {
+      "volume": "0.33 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Dario сок гранат 1 л",
+    "cleanTokens": [
+      "сок",
+      "гранат"
+    ],
+    "normalizedTokens": [
+      "сок",
+      "гранат",
+      "1 л"
+    ],
+    "params": {
+      "volume": "1 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Garden напиток сокосодержащий березовый 1.2 л",
+    "cleanTokens": [
+      "напиток",
+      "сокосодержащий",
+      "березовый"
+    ],
+    "normalizedTokens": [
+      "напиток",
+      "сокосодержащий",
+      "березовый",
+      "1.2 л"
+    ],
+    "params": {
+      "volume": "1.2 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Dario напиток сокосодержащий огурец, яблоко, лимон 1 л",
+    "cleanTokens": [
+      "напиток",
+      "сокосодержащий",
+      "огурец",
+      "яблоко",
+      "лимон"
+    ],
+    "normalizedTokens": [
+      "напиток",
+      "сокосодержащий",
+      "огурец",
+      "яблоко",
+      "лимон",
+      "1 л"
+    ],
+    "params": {
+      "volume": "1 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "А4 напиток сокосодержащий Сахарная вата с кусочками кокосового желе 0.33 л",
+    "cleanTokens": [
+      "напиток",
+      "сокосодержащий",
+      "сахарная",
+      "вата",
+      "с",
+      "кусочками",
+      "кокосового",
+      "желе"
+    ],
+    "normalizedTokens": [
+      "напиток",
+      "сокосодержащий",
+      "сахарная",
+      "вата",
+      "с",
+      "кусочками",
+      "кокосового",
+      "желе",
+      "0.33 л"
+    ],
+    "params": {
+      "volume": "0.33 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Vinut напиток сокосодержащий клубника 0.33 л",
+    "cleanTokens": [
+      "напиток",
+      "сокосодержащий",
+      "клубника"
+    ],
+    "normalizedTokens": [
+      "напиток",
+      "сокосодержащий",
+      "клубника",
+      "0.33 л"
+    ],
+    "params": {
+      "volume": "0.33 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "PAGO нектар ананас 1 л",
+    "cleanTokens": [
+      "нектар",
+      "ананас"
+    ],
+    "normalizedTokens": [
+      "нектар",
+      "ананас",
+      "1 л"
+    ],
+    "params": {
+      "volume": "1 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "PAGO сок яблоко 1 л",
+    "cleanTokens": [
+      "сок",
+      "яблоко"
+    ],
+    "normalizedTokens": [
+      "сок",
+      "яблоко",
+      "1 л"
+    ],
+    "params": {
+      "volume": "1 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "А4 напиток сокосодержащий Сливочный попкорн с кусочками кокосового желе 0.33 л",
+    "cleanTokens": [
+      "напиток",
+      "сокосодержащий",
+      "сливочный",
+      "попкорн",
+      "с",
+      "кусочками",
+      "кокосового",
+      "желе"
+    ],
+    "normalizedTokens": [
+      "напиток",
+      "сокосодержащий",
+      "сливочный",
+      "попкорн",
+      "с",
+      "кусочками",
+      "кокосового",
+      "желе",
+      "0.33 л"
+    ],
+    "params": {
+      "volume": "0.33 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "PAGO нектар апельсин 1 л",
+    "cleanTokens": [
+      "нектар",
+      "апельсин"
+    ],
+    "normalizedTokens": [
+      "нектар",
+      "апельсин",
+      "1 л"
+    ],
+    "params": {
+      "volume": "1 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Vinut напиток сокосодержащий рамбутан 0.33 л",
+    "cleanTokens": [
+      "напиток",
+      "сокосодержащий",
+      "рамбутан"
+    ],
+    "normalizedTokens": [
+      "напиток",
+      "сокосодержащий",
+      "рамбутан",
+      "0.33 л"
+    ],
+    "params": {
+      "volume": "0.33 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Vinut напиток сокосодержащий груша 0.33 л",
+    "cleanTokens": [
+      "напиток",
+      "сокосодержащий",
+      "груша"
+    ],
+    "normalizedTokens": [
+      "напиток",
+      "сокосодержащий",
+      "груша",
+      "0.33 л"
+    ],
+    "params": {
+      "volume": "0.33 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "AZIANO нектар дыня с семенами базилика 0.29 л",
+    "cleanTokens": [
+      "нектар",
+      "дыня",
+      "с",
+      "семенами",
+      "базилика"
+    ],
+    "normalizedTokens": [
+      "нектар",
+      "дыня",
+      "с",
+      "семенами",
+      "базилика",
+      "0.29 л"
+    ],
+    "params": {
+      "volume": "0.29 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Shaurma-Food морс вишня, яблоко 1 л",
+    "cleanTokens": [
+      "морс",
+      "вишня",
+      "яблоко"
+    ],
+    "normalizedTokens": [
+      "морс",
+      "вишня",
+      "яблоко",
+      "1 л"
+    ],
+    "params": {
+      "volume": "1 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Dario напиток сокосодержащий гуава, яблоко, банан 1 л",
+    "cleanTokens": [
+      "напиток",
+      "сокосодержащий",
+      "гуава",
+      "яблоко",
+      "банан"
+    ],
+    "normalizedTokens": [
+      "напиток",
+      "сокосодержащий",
+      "гуава",
+      "яблоко",
+      "банан",
+      "1 л"
+    ],
+    "params": {
+      "volume": "1 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "IL PRIMO сок апельсин 1 л",
+    "cleanTokens": [
+      "сок",
+      "апельсин"
+    ],
+    "normalizedTokens": [
+      "сок",
+      "апельсин",
+      "1 л"
+    ],
+    "params": {
+      "volume": "1 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "PAGO нектар персик 1 л",
+    "cleanTokens": [
+      "нектар",
+      "персик"
+    ],
+    "normalizedTokens": [
+      "нектар",
+      "персик",
+      "1 л"
+    ],
+    "params": {
+      "volume": "1 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Paldo напиток сокосодержащий яблоко 0.235 л",
+    "cleanTokens": [
+      "напиток",
+      "сокосодержащий",
+      "яблоко"
+    ],
+    "normalizedTokens": [
+      "напиток",
+      "сокосодержащий",
+      "яблоко",
+      "0.235 л"
+    ],
+    "params": {
+      "volume": "0.235 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Vinut напиток сокосодержащий апельсин 0.33 л",
+    "cleanTokens": [
+      "напиток",
+      "сокосодержащий",
+      "апельсин"
+    ],
+    "normalizedTokens": [
+      "напиток",
+      "сокосодержащий",
+      "апельсин",
+      "0.33 л"
+    ],
+    "params": {
+      "volume": "0.33 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "AZIANO нектар маракуйя с семенами базилика 0.29 л",
+    "cleanTokens": [
+      "нектар",
+      "маракуйя",
+      "с",
+      "семенами",
+      "базилика"
+    ],
+    "normalizedTokens": [
+      "нектар",
+      "маракуйя",
+      "с",
+      "семенами",
+      "базилика",
+      "0.29 л"
+    ],
+    "params": {
+      "volume": "0.29 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Vinut напиток сокосодержащий гуанабана 0.33 л",
+    "cleanTokens": [
+      "напиток",
+      "сокосодержащий",
+      "гуанабана"
+    ],
+    "normalizedTokens": [
+      "напиток",
+      "сокосодержащий",
+      "гуанабана",
+      "0.33 л"
+    ],
+    "params": {
+      "volume": "0.33 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Vinut напиток сокосодержащий яблоко 0.33 л",
+    "cleanTokens": [
+      "напиток",
+      "сокосодержащий",
+      "яблоко"
+    ],
+    "normalizedTokens": [
+      "напиток",
+      "сокосодержащий",
+      "яблоко",
+      "0.33 л"
+    ],
+    "params": {
+      "volume": "0.33 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Vinut напиток сокосодержащий мангустин 0.33 л",
+    "cleanTokens": [
+      "напиток",
+      "сокосодержащий",
+      "мангустин"
+    ],
+    "normalizedTokens": [
+      "напиток",
+      "сокосодержащий",
+      "мангустин",
+      "0.33 л"
+    ],
+    "params": {
+      "volume": "0.33 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "PAGO сок вишня 0.75 л",
+    "cleanTokens": [
+      "сок",
+      "вишня"
+    ],
+    "normalizedTokens": [
+      "сок",
+      "вишня",
+      "0.75 л"
+    ],
+    "params": {
+      "volume": "0.75 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "MAGNUM кокос питьевой 0.3 л",
+    "cleanTokens": [
+      "кокос",
+      "питьевой"
+    ],
+    "normalizedTokens": [
+      "кокос",
+      "питьевой",
+      "0.3 л"
+    ],
+    "params": {
+      "volume": "0.3 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "AZIANO нектар манго 0.29 л",
+    "cleanTokens": [
+      "нектар",
+      "манго"
+    ],
+    "normalizedTokens": [
+      "нектар",
+      "манго",
+      "0.29 л"
+    ],
+    "params": {
+      "volume": "0.29 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "PAGO сок персик 0.2 л",
+    "cleanTokens": [
+      "сок",
+      "персик"
+    ],
+    "normalizedTokens": [
+      "сок",
+      "персик",
+      "0.2 л"
+    ],
+    "params": {
+      "volume": "0.2 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "PAGO сок яблоко 0.2 л",
+    "cleanTokens": [
+      "сок",
+      "яблоко"
+    ],
+    "normalizedTokens": [
+      "сок",
+      "яблоко",
+      "0.2 л"
+    ],
+    "params": {
+      "volume": "0.2 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "PAGO сок апельсин 0.2 л",
+    "cleanTokens": [
+      "сок",
+      "апельсин"
+    ],
+    "normalizedTokens": [
+      "сок",
+      "апельсин",
+      "0.2 л"
+    ],
+    "params": {
+      "volume": "0.2 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "А4 напиток сокосодержащий Кола с кусочками кокосового желе 0.24 л",
+    "cleanTokens": [
+      "напиток",
+      "сокосодержащий",
+      "кола",
+      "с",
+      "кусочками",
+      "кокосового",
+      "желе"
+    ],
+    "normalizedTokens": [
+      "напиток",
+      "сокосодержащий",
+      "кола",
+      "с",
+      "кусочками",
+      "кокосового",
+      "желе",
+      "0.24 л"
+    ],
+    "params": {
+      "volume": "0.24 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Dario напиток сокосодержащий гранат, клубника, свекла 1 л",
+    "cleanTokens": [
+      "напиток",
+      "сокосодержащий",
+      "гранат",
+      "клубника",
+      "свекла"
+    ],
+    "normalizedTokens": [
+      "напиток",
+      "сокосодержащий",
+      "гранат",
+      "клубника",
+      "свекла",
+      "1 л"
+    ],
+    "params": {
+      "volume": "1 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "А4 напиток сокосодержащий Тутти-Фрутти с кусочками кокосового желе 0.24 л",
+    "cleanTokens": [
+      "напиток",
+      "сокосодержащий",
+      "тутти-фрутти",
+      "с",
+      "кусочками",
+      "кокосового",
+      "желе"
+    ],
+    "normalizedTokens": [
+      "напиток",
+      "сокосодержащий",
+      "тутти-фрутти",
+      "с",
+      "кусочками",
+      "кокосового",
+      "желе",
+      "0.24 л"
+    ],
+    "params": {
+      "volume": "0.24 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Chupa Chups сок манго 0.35 л",
+    "cleanTokens": [
+      "сок",
+      "манго"
+    ],
+    "normalizedTokens": [
+      "сок",
+      "манго",
+      "0.35 л"
+    ],
+    "params": {
+      "volume": "0.35 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "AZIANO нектар арбуз с семенами базилика 0.29 л",
+    "cleanTokens": [
+      "нектар",
+      "арбуз",
+      "с",
+      "семенами",
+      "базилика"
+    ],
+    "normalizedTokens": [
+      "нектар",
+      "арбуз",
+      "с",
+      "семенами",
+      "базилика",
+      "0.29 л"
+    ],
+    "params": {
+      "volume": "0.29 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "JUICY домашний лимонад кумкват 0.95 л",
+    "cleanTokens": [
+      "домашний",
+      "лимонад",
+      "кумкват"
+    ],
+    "normalizedTokens": [
+      "домашний",
+      "лимонад",
+      "кумкват",
+      "0.95 л"
+    ],
+    "params": {
+      "volume": "0.95 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "FruitLab нектар яблоко 0.2 л",
+    "cleanTokens": [
+      "нектар",
+      "яблоко"
+    ],
+    "normalizedTokens": [
+      "нектар",
+      "яблоко",
+      "0.2 л"
+    ],
+    "params": {
+      "volume": "0.2 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "AZIANO нектар ананас с семенами базилика 0.29 л",
+    "cleanTokens": [
+      "нектар",
+      "ананас",
+      "с",
+      "семенами",
+      "базилика"
+    ],
+    "normalizedTokens": [
+      "нектар",
+      "ананас",
+      "с",
+      "семенами",
+      "базилика",
+      "0.29 л"
+    ],
+    "params": {
+      "volume": "0.29 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "А4 напиток сокосодержащий Лимонный чизкейк с кусочками кокосового желе 0.3 л",
+    "cleanTokens": [
+      "напиток",
+      "сокосодержащий",
+      "лимонный",
+      "чизкейк",
+      "с",
+      "кусочками",
+      "кокосового",
+      "желе"
+    ],
+    "normalizedTokens": [
+      "напиток",
+      "сокосодержащий",
+      "лимонный",
+      "чизкейк",
+      "с",
+      "кусочками",
+      "кокосового",
+      "желе",
+      "0.3 л"
+    ],
+    "params": {
+      "volume": "0.3 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Rich сок томат 0.2 л",
+    "cleanTokens": [
+      "сок",
+      "томат"
+    ],
+    "normalizedTokens": [
+      "сок",
+      "томат",
+      "0.2 л"
+    ],
+    "params": {
+      "volume": "0.2 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Sagiko сок манго 0.3 л",
+    "cleanTokens": [
+      "сок",
+      "манго"
+    ],
+    "normalizedTokens": [
+      "сок",
+      "манго",
+      "0.3 л"
+    ],
+    "params": {
+      "volume": "0.3 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "PAGO сок ананас 0.2 л",
+    "cleanTokens": [
+      "сок",
+      "ананас"
+    ],
+    "normalizedTokens": [
+      "сок",
+      "ананас",
+      "0.2 л"
+    ],
+    "params": {
+      "volume": "0.2 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Sagiko сок гранат 0.3 л",
+    "cleanTokens": [
+      "сок",
+      "гранат"
+    ],
+    "normalizedTokens": [
+      "сок",
+      "гранат",
+      "0.3 л"
+    ],
+    "params": {
+      "volume": "0.3 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Sagiko сок апельсин 0.3 л",
+    "cleanTokens": [
+      "сок",
+      "апельсин"
+    ],
+    "normalizedTokens": [
+      "сок",
+      "апельсин",
+      "0.3 л"
+    ],
+    "params": {
+      "volume": "0.3 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "PAGO сок томат 0.2 л",
+    "cleanTokens": [
+      "сок",
+      "томат"
+    ],
+    "normalizedTokens": [
+      "сок",
+      "томат",
+      "0.2 л"
+    ],
+    "params": {
+      "volume": "0.2 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Sagiko сок мультифрукт 0.3 л",
+    "cleanTokens": [
+      "сок",
+      "мультифрукт"
+    ],
+    "normalizedTokens": [
+      "сок",
+      "мультифрукт",
+      "0.3 л"
+    ],
+    "params": {
+      "volume": "0.3 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Vinut напиток сокосодержащий арбуз 0.33 л",
+    "cleanTokens": [
+      "напиток",
+      "сокосодержащий",
+      "арбуз"
+    ],
+    "normalizedTokens": [
+      "напиток",
+      "сокосодержащий",
+      "арбуз",
+      "0.33 л"
+    ],
+    "params": {
+      "volume": "0.33 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Lotte напиток сокосодержащий алоэ, манго 0.24 л",
+    "cleanTokens": [
+      "напиток",
+      "сокосодержащий",
+      "алоэ",
+      "манго"
+    ],
+    "normalizedTokens": [
+      "напиток",
+      "сокосодержащий",
+      "алоэ",
+      "манго",
+      "0.24 л"
+    ],
+    "params": {
+      "volume": "0.24 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "FruitLab нектар манго 0.2 л",
+    "cleanTokens": [
+      "нектар",
+      "манго"
+    ],
+    "normalizedTokens": [
+      "нектар",
+      "манго",
+      "0.2 л"
+    ],
+    "params": {
+      "volume": "0.2 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "AmericanDrinks напиток сокосодержащий киви с семенами базилика 0.29 л",
+    "cleanTokens": [
+      "напиток",
+      "сокосодержащий",
+      "киви",
+      "с",
+      "семенами",
+      "базилика"
+    ],
+    "normalizedTokens": [
+      "напиток",
+      "сокосодержащий",
+      "киви",
+      "с",
+      "семенами",
+      "базилика",
+      "0.29 л"
+    ],
+    "params": {
+      "volume": "0.29 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Arizona напиток сокосодержащий тропические фрукты 0.6 л",
+    "cleanTokens": [
+      "напиток",
+      "сокосодержащий",
+      "тропические",
+      "фрукты"
+    ],
+    "normalizedTokens": [
+      "напиток",
+      "сокосодержащий",
+      "тропические",
+      "фрукты",
+      "0.6 л"
+    ],
+    "params": {
+      "volume": "0.6 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Dellos Напиток Алое-вера с оригинальным вкусом 240 мл",
+    "cleanTokens": [
+      "напиток",
+      "алое-вера",
+      "с",
+      "оригинальным",
+      "вкусом"
+    ],
+    "normalizedTokens": [
+      "напиток",
+      "алое-вера",
+      "с",
+      "оригинальным",
+      "вкусом",
+      "240 мл"
+    ],
+    "params": {
+      "volume": "240 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "FruitLab нектар вишня 0.2 л",
+    "cleanTokens": [
+      "нектар",
+      "вишня"
+    ],
+    "normalizedTokens": [
+      "нектар",
+      "вишня",
+      "0.2 л"
+    ],
+    "params": {
+      "volume": "0.2 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "FruitLab нектар персик 0.2 л",
+    "cleanTokens": [
+      "нектар",
+      "персик"
+    ],
+    "normalizedTokens": [
+      "нектар",
+      "персик",
+      "0.2 л"
+    ],
+    "params": {
+      "volume": "0.2 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Vinut напиток сокосодержащий папайя 0.33 л",
+    "cleanTokens": [
+      "напиток",
+      "сокосодержащий",
+      "папайя"
+    ],
+    "normalizedTokens": [
+      "напиток",
+      "сокосодержащий",
+      "папайя",
+      "0.33 л"
+    ],
+    "params": {
+      "volume": "0.33 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Run Planet Organic сок яблоко 0.2 л",
+    "cleanTokens": [
+      "сок",
+      "яблоко"
+    ],
+    "normalizedTokens": [
+      "сок",
+      "яблоко",
+      "0.2 л"
+    ],
+    "params": {
+      "volume": "0.2 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "AZIANO нектар личи с семенами базилика 0.29 л",
+    "cleanTokens": [
+      "нектар",
+      "личи",
+      "с",
+      "семенами",
+      "базилика"
+    ],
+    "normalizedTokens": [
+      "нектар",
+      "личи",
+      "с",
+      "семенами",
+      "базилика",
+      "0.29 л"
+    ],
+    "params": {
+      "volume": "0.29 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "AZIANO нектар мультифрукт с семенами базилика 0.29 л",
+    "cleanTokens": [
+      "нектар",
+      "мультифрукт",
+      "с",
+      "семенами",
+      "базилика"
+    ],
+    "normalizedTokens": [
+      "нектар",
+      "мультифрукт",
+      "с",
+      "семенами",
+      "базилика",
+      "0.29 л"
+    ],
+    "params": {
+      "volume": "0.29 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "AZIANO нектар гранат с семенами базилика 0.29 л",
+    "cleanTokens": [
+      "нектар",
+      "гранат",
+      "с",
+      "семенами",
+      "базилика"
+    ],
+    "normalizedTokens": [
+      "нектар",
+      "гранат",
+      "с",
+      "семенами",
+      "базилика",
+      "0.29 л"
+    ],
+    "params": {
+      "volume": "0.29 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Vinut напиток сокосодержащий виноград 0.33 л",
+    "cleanTokens": [
+      "напиток",
+      "сокосодержащий",
+      "виноград"
+    ],
+    "normalizedTokens": [
+      "напиток",
+      "сокосодержащий",
+      "виноград",
+      "0.33 л"
+    ],
+    "params": {
+      "volume": "0.33 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Taylo сок манго 0.25 л",
+    "cleanTokens": [
+      "сок",
+      "манго"
+    ],
+    "normalizedTokens": [
+      "сок",
+      "манго",
+      "0.25 л"
+    ],
+    "params": {
+      "volume": "0.25 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Vinut напиток сокосодержащий персик 0.33 л",
+    "cleanTokens": [
+      "напиток",
+      "сокосодержащий",
+      "персик"
+    ],
+    "normalizedTokens": [
+      "напиток",
+      "сокосодержащий",
+      "персик",
+      "0.33 л"
+    ],
+    "params": {
+      "volume": "0.33 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Zhenchun напиток сокосодержащий лимон 0.56 л",
+    "cleanTokens": [
+      "напиток",
+      "сокосодержащий",
+      "лимон"
+    ],
+    "normalizedTokens": [
+      "напиток",
+      "сокосодержащий",
+      "лимон",
+      "0.56 л"
+    ],
+    "params": {
+      "volume": "0.56 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Sagiko сок манго 0.3 л",
+    "cleanTokens": [
+      "сок",
+      "манго"
+    ],
+    "normalizedTokens": [
+      "сок",
+      "манго",
+      "0.3 л"
+    ],
+    "params": {
+      "volume": "0.3 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Zhenchun напиток сокосодержащий грейпфрут, личи 0.56 л",
+    "cleanTokens": [
+      "напиток",
+      "сокосодержащий",
+      "грейпфрут",
+      "личи"
+    ],
+    "normalizedTokens": [
+      "напиток",
+      "сокосодержащий",
+      "грейпфрут",
+      "личи",
+      "0.56 л"
+    ],
+    "params": {
+      "volume": "0.56 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Zhenchun напиток сокосодержащий маракуйя 0.56 л",
+    "cleanTokens": [
+      "напиток",
+      "сокосодержащий",
+      "маракуйя"
+    ],
+    "normalizedTokens": [
+      "напиток",
+      "сокосодержащий",
+      "маракуйя",
+      "0.56 л"
+    ],
+    "params": {
+      "volume": "0.56 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "FruitLab сок яблоко 0.2 л",
+    "cleanTokens": [
+      "сок",
+      "яблоко"
+    ],
+    "normalizedTokens": [
+      "сок",
+      "яблоко",
+      "0.2 л"
+    ],
+    "params": {
+      "volume": "0.2 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Zhenchun напиток сокосодержащий ананас, персик 0.56 л",
+    "cleanTokens": [
+      "напиток",
+      "сокосодержащий",
+      "ананас",
+      "персик"
+    ],
+    "normalizedTokens": [
+      "напиток",
+      "сокосодержащий",
+      "ананас",
+      "персик",
+      "0.56 л"
+    ],
+    "params": {
+      "volume": "0.56 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Zhenchun напиток сокосодержащий апельсин 0.56 л",
+    "cleanTokens": [
+      "напиток",
+      "сокосодержащий",
+      "апельсин"
+    ],
+    "normalizedTokens": [
+      "напиток",
+      "сокосодержащий",
+      "апельсин",
+      "0.56 л"
+    ],
+    "params": {
+      "volume": "0.56 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "AZIANO нектар банан с семенами базилика 0.29 л",
+    "cleanTokens": [
+      "нектар",
+      "банан",
+      "с",
+      "семенами",
+      "базилика"
+    ],
+    "normalizedTokens": [
+      "нектар",
+      "банан",
+      "с",
+      "семенами",
+      "базилика",
+      "0.29 л"
+    ],
+    "params": {
+      "volume": "0.29 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Zhenchun напиток сокосодержащий арбуз, дыня 0.56 л",
+    "cleanTokens": [
+      "напиток",
+      "сокосодержащий",
+      "арбуз",
+      "дыня"
+    ],
+    "normalizedTokens": [
+      "напиток",
+      "сокосодержащий",
+      "арбуз",
+      "дыня",
+      "0.56 л"
+    ],
+    "params": {
+      "volume": "0.56 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Zhenchun напиток сокосодержащий виноград 0.56 л",
+    "cleanTokens": [
+      "напиток",
+      "сокосодержащий",
+      "виноград"
+    ],
+    "normalizedTokens": [
+      "напиток",
+      "сокосодержащий",
+      "виноград",
+      "0.56 л"
+    ],
+    "params": {
+      "volume": "0.56 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "AZIANO нектар клубника с семенами базилика 0.29 л",
+    "cleanTokens": [
+      "нектар",
+      "клубника",
+      "с",
+      "семенами",
+      "базилика"
+    ],
+    "normalizedTokens": [
+      "нектар",
+      "клубника",
+      "с",
+      "семенами",
+      "базилика",
+      "0.29 л"
+    ],
+    "params": {
+      "volume": "0.29 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "BARBIE напиток сокосодержащий тропические фрукты 0.2 л",
+    "cleanTokens": [
+      "напиток",
+      "сокосодержащий",
+      "тропические",
+      "фрукты"
+    ],
+    "normalizedTokens": [
+      "напиток",
+      "сокосодержащий",
+      "тропические",
+      "фрукты",
+      "0.2 л"
+    ],
+    "params": {
+      "volume": "0.2 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Zhenchun напиток сокосодержащий клубника, черника 0.56 л",
+    "cleanTokens": [
+      "напиток",
+      "сокосодержащий",
+      "клубника",
+      "черника"
+    ],
+    "normalizedTokens": [
+      "напиток",
+      "сокосодержащий",
+      "клубника",
+      "черника",
+      "0.56 л"
+    ],
+    "params": {
+      "volume": "0.56 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "AZIANO нектар виноград с семенами базилика 0.29 л",
+    "cleanTokens": [
+      "нектар",
+      "виноград",
+      "с",
+      "семенами",
+      "базилика"
+    ],
+    "normalizedTokens": [
+      "нектар",
+      "виноград",
+      "с",
+      "семенами",
+      "базилика",
+      "0.29 л"
+    ],
+    "params": {
+      "volume": "0.29 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  }
+]

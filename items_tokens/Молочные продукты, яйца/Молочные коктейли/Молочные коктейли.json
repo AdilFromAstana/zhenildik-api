@@ -1,0 +1,404 @@
+[
+  {
+    "original": "Чудо молочный коктейль банан 2% 950 г",
+    "cleanTokens": [
+      "молочный",
+      "коктейль",
+      "банан"
+    ],
+    "normalizedTokens": [
+      "молочный",
+      "коктейль",
+      "банан",
+      "2%",
+      "950 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "950 г",
+      "count": null,
+      "pack": null,
+      "percent": "2%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Foodmaster Му-у молочный коктейль клубника 2% 1000 мл",
+    "cleanTokens": [
+      "му-у",
+      "молочный",
+      "коктейль",
+      "клубника"
+    ],
+    "normalizedTokens": [
+      "му-у",
+      "молочный",
+      "коктейль",
+      "клубника",
+      "2%",
+      "1000 мл"
+    ],
+    "params": {
+      "volume": "1000 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "2%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Exponenta кисломолочный напиток High-Pro кокос, миндаль 250 г",
+    "cleanTokens": [
+      "кисломолочный",
+      "напиток",
+      "high-pro",
+      "кокос",
+      "миндаль"
+    ],
+    "normalizedTokens": [
+      "кисломолочный",
+      "напиток",
+      "high-pro",
+      "кокос",
+      "миндаль",
+      "250 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "250 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Exponenta кисломолочный напиток High-Pro клубника, арбуз 250 г",
+    "cleanTokens": [
+      "кисломолочный",
+      "напиток",
+      "high-pro",
+      "клубника",
+      "арбуз"
+    ],
+    "normalizedTokens": [
+      "кисломолочный",
+      "напиток",
+      "high-pro",
+      "клубника",
+      "арбуз",
+      "250 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "250 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Exponenta кисломолочный напиток High-pro малина-банан 250 г",
+    "cleanTokens": [
+      "кисломолочный",
+      "напиток",
+      "high-pro",
+      "малина-банан"
+    ],
+    "normalizedTokens": [
+      "кисломолочный",
+      "напиток",
+      "high-pro",
+      "малина-банан",
+      "250 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "250 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Exponenta кисломолочный напиток High-pro натуральный 250 г",
+    "cleanTokens": [
+      "кисломолочный",
+      "напиток",
+      "high-pro",
+      "натуральный"
+    ],
+    "normalizedTokens": [
+      "кисломолочный",
+      "напиток",
+      "high-pro",
+      "натуральный",
+      "250 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "250 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Айсик молочный коктейль какао 2.5% 950 мл",
+    "cleanTokens": [
+      "молочный",
+      "коктейль",
+      "какао"
+    ],
+    "normalizedTokens": [
+      "молочный",
+      "коктейль",
+      "какао",
+      "2.5%",
+      "950 мл"
+    ],
+    "params": {
+      "volume": "950 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "2.5%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Exponenta кисломолочный напиток High-pro безлактозный манго, кокос 250 г",
+    "cleanTokens": [
+      "кисломолочный",
+      "напиток",
+      "high-pro",
+      "безлактозный",
+      "манго",
+      "кокос"
+    ],
+    "normalizedTokens": [
+      "кисломолочный",
+      "напиток",
+      "high-pro",
+      "безлактозный",
+      "манго",
+      "кокос",
+      "250 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "250 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Айсик молочный коктейль клубника 2.5% 950 мл",
+    "cleanTokens": [
+      "молочный",
+      "коктейль",
+      "клубника"
+    ],
+    "normalizedTokens": [
+      "молочный",
+      "коктейль",
+      "клубника",
+      "2.5%",
+      "950 мл"
+    ],
+    "params": {
+      "volume": "950 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "2.5%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Сывороточный напиток Danone Актуаль персик, маракуйя 2.5% 930 г",
+    "cleanTokens": [
+      "сывороточный",
+      "напиток",
+      "актуаль",
+      "персик",
+      "маракуйя"
+    ],
+    "normalizedTokens": [
+      "сывороточный",
+      "напиток",
+      "актуаль",
+      "персик",
+      "маракуйя",
+      "2.5%",
+      "930 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "930 г",
+      "count": null,
+      "pack": null,
+      "percent": "2.5%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Foodmaster Му-у молочный коктейль шоколад 2% 1000 мл",
+    "cleanTokens": [
+      "му-у",
+      "молочный",
+      "коктейль",
+      "шоколад"
+    ],
+    "normalizedTokens": [
+      "му-у",
+      "молочный",
+      "коктейль",
+      "шоколад",
+      "2%",
+      "1000 мл"
+    ],
+    "params": {
+      "volume": "1000 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "2%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Mars Молочный Коктейль Milky Way 350 мл",
+    "cleanTokens": [
+      "молочный",
+      "коктейль",
+      "milky",
+      "way"
+    ],
+    "normalizedTokens": [
+      "молочный",
+      "коктейль",
+      "milky",
+      "way",
+      "350 мл"
+    ],
+    "params": {
+      "volume": "350 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Mars молочный коктейль какао 350 мл",
+    "cleanTokens": [
+      "молочный",
+      "коктейль",
+      "какао"
+    ],
+    "normalizedTokens": [
+      "молочный",
+      "коктейль",
+      "какао",
+      "350 мл"
+    ],
+    "params": {
+      "volume": "350 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Mars Молочный Коктейль Bounty 350 мл",
+    "cleanTokens": [
+      "молочный",
+      "коктейль",
+      "bounty"
+    ],
+    "normalizedTokens": [
+      "молочный",
+      "коктейль",
+      "bounty",
+      "350 мл"
+    ],
+    "params": {
+      "volume": "350 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "M&Ms молочный коктейль какао 350 мл",
+    "cleanTokens": [
+      "молочный",
+      "коктейль",
+      "какао"
+    ],
+    "normalizedTokens": [
+      "молочный",
+      "коктейль",
+      "какао",
+      "350 мл"
+    ],
+    "params": {
+      "volume": "350 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Twix молочный коктейль шоколад 350 мл",
+    "cleanTokens": [
+      "молочный",
+      "коктейль",
+      "шоколад"
+    ],
+    "normalizedTokens": [
+      "молочный",
+      "коктейль",
+      "шоколад",
+      "350 мл"
+    ],
+    "params": {
+      "volume": "350 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  }
+]

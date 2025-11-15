@@ -1,0 +1,117 @@
+[
+  {
+    "original": "Фарш Курочка Ряба мусульманский постный замороженный 1000 г",
+    "cleanTokens": [
+      "мусульманский",
+      "постный",
+      "замороженный"
+    ],
+    "normalizedTokens": [
+      "мусульманский",
+      "постный",
+      "замороженный",
+      "1000 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "1000 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Фарш Meat to Eat говяжий постный замороженный 500 г",
+    "cleanTokens": [
+      "говяжий",
+      "постный",
+      "замороженный"
+    ],
+    "normalizedTokens": [
+      "говяжий",
+      "постный",
+      "замороженный",
+      "500 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "500 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Фарш Boszhan из говядины замороженный 700 г",
+    "cleanTokens": [
+      "из",
+      "говядины",
+      "замороженный"
+    ],
+    "normalizedTokens": [
+      "из",
+      "говядины",
+      "замороженный",
+      "700 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "700 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Фарш Boszhan из баранины замороженный 700 г",
+    "cleanTokens": [
+      "из",
+      "баранины",
+      "замороженный"
+    ],
+    "normalizedTokens": [
+      "из",
+      "баранины",
+      "замороженный",
+      "700 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "700 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Фарш ADAL FOOD куриный постный замороженный 500 г",
+    "cleanTokens": [
+      "куриный",
+      "постный",
+      "замороженный"
+    ],
+    "normalizedTokens": [
+      "куриный",
+      "постный",
+      "замороженный",
+      "500 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "500 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  }
+]

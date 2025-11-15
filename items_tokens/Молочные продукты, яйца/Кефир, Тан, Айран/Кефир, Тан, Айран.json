@@ -1,0 +1,1193 @@
+[
+  {
+    "original": "Шоро чалап 1.2% 1000 мл",
+    "cleanTokens": [
+      "чалап"
+    ],
+    "normalizedTokens": [
+      "чалап",
+      "1.2%",
+      "1000 мл"
+    ],
+    "params": {
+      "volume": "1000 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "1.2%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Айс варенец 2.5% 1000 г",
+    "cleanTokens": [
+      "варенец"
+    ],
+    "normalizedTokens": [
+      "варенец",
+      "2.5%",
+      "1000 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "1000 г",
+      "count": null,
+      "pack": null,
+      "percent": "2.5%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Foodmaster ряженка 2.5% 900 г",
+    "cleanTokens": [
+      "ряженка"
+    ],
+    "normalizedTokens": [
+      "ряженка",
+      "2.5%",
+      "900 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "900 г",
+      "count": null,
+      "pack": null,
+      "percent": "2.5%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Foodmaster кефир 2.3% 900 мл",
+    "cleanTokens": [],
+    "normalizedTokens": [
+      "2.3%",
+      "900 мл"
+    ],
+    "params": {
+      "volume": "900 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "2.3%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Родина снежок 2% 1000 г",
+    "cleanTokens": [
+      "снежок"
+    ],
+    "normalizedTokens": [
+      "снежок",
+      "2%",
+      "1000 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "1000 г",
+      "count": null,
+      "pack": null,
+      "percent": "2%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Nәtige снежок 1.5% 900 г",
+    "cleanTokens": [
+      "снежок"
+    ],
+    "normalizedTokens": [
+      "снежок",
+      "1.5%",
+      "900 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "900 г",
+      "count": null,
+      "pack": null,
+      "percent": "1.5%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Foodmaster снежок 2% 900 г",
+    "cleanTokens": [
+      "снежок"
+    ],
+    "normalizedTokens": [
+      "снежок",
+      "2%",
+      "900 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "900 г",
+      "count": null,
+      "pack": null,
+      "percent": "2%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Молочный Бидончик кефир 2.5% 1000 г",
+    "cleanTokens": [],
+    "normalizedTokens": [
+      "2.5%",
+      "1000 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "1000 г",
+      "count": null,
+      "pack": null,
+      "percent": "2.5%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Село Лесное тан 0.7-1.8% 1500 г",
+    "cleanTokens": [
+      "0.7-1.8%"
+    ],
+    "normalizedTokens": [
+      "0.7-1.8%",
+      "1500 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "1500 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Nәtige снежок 1.5% 450 г",
+    "cleanTokens": [
+      "снежок"
+    ],
+    "normalizedTokens": [
+      "снежок",
+      "1.5%",
+      "450 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "450 г",
+      "count": null,
+      "pack": null,
+      "percent": "1.5%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Рудненский Тан 0.7-1.8% 1000 мл",
+    "cleanTokens": [
+      "рудненский",
+      "0.7-1.8%"
+    ],
+    "normalizedTokens": [
+      "рудненский",
+      "0.7-1.8%",
+      "1000 мл"
+    ],
+    "params": {
+      "volume": "1000 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Foodmaster снежок 2% 900 г",
+    "cleanTokens": [
+      "снежок"
+    ],
+    "normalizedTokens": [
+      "снежок",
+      "2%",
+      "900 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "900 г",
+      "count": null,
+      "pack": null,
+      "percent": "2%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Зенченко и Ко ряженка 2.5% 900 г",
+    "cleanTokens": [
+      "ряженка"
+    ],
+    "normalizedTokens": [
+      "ряженка",
+      "2.5%",
+      "900 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "900 г",
+      "count": null,
+      "pack": null,
+      "percent": "2.5%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Foodmaster кефир 2.5% 900 г",
+    "cleanTokens": [],
+    "normalizedTokens": [
+      "2.5%",
+      "900 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "900 г",
+      "count": null,
+      "pack": null,
+      "percent": "2.5%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Foodmaster ряженка 2.5% 450 г",
+    "cleanTokens": [
+      "ряженка"
+    ],
+    "normalizedTokens": [
+      "ряженка",
+      "2.5%",
+      "450 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "450 г",
+      "count": null,
+      "pack": null,
+      "percent": "2.5%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Айс айран 1.2% 260 г",
+    "cleanTokens": [],
+    "normalizedTokens": [
+      "1.2%",
+      "260 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "260 г",
+      "count": null,
+      "pack": null,
+      "percent": "1.2%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Nәtige кефир 2.5% 450 г",
+    "cleanTokens": [],
+    "normalizedTokens": [
+      "2.5%",
+      "450 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "450 г",
+      "count": null,
+      "pack": null,
+      "percent": "2.5%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Село Лесное кефир 2.5% 930 г",
+    "cleanTokens": [],
+    "normalizedTokens": [
+      "2.5%",
+      "930 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "930 г",
+      "count": null,
+      "pack": null,
+      "percent": "2.5%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Село Лесное айран по-турецки 1.5% 930 г",
+    "cleanTokens": [
+      "по-турецки"
+    ],
+    "normalizedTokens": [
+      "по-турецки",
+      "1.5%",
+      "930 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "930 г",
+      "count": null,
+      "pack": null,
+      "percent": "1.5%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Айс айран 2.5% 1000 г",
+    "cleanTokens": [],
+    "normalizedTokens": [
+      "2.5%",
+      "1000 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "1000 г",
+      "count": null,
+      "pack": null,
+      "percent": "2.5%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Foodmaster кефир 1% 900 г",
+    "cleanTokens": [],
+    "normalizedTokens": [
+      "1%",
+      "900 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "900 г",
+      "count": null,
+      "pack": null,
+      "percent": "1%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Эмиль снежок 2.5% 900 г",
+    "cleanTokens": [
+      "снежок"
+    ],
+    "normalizedTokens": [
+      "снежок",
+      "2.5%",
+      "900 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "900 г",
+      "count": null,
+      "pack": null,
+      "percent": "2.5%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Зенченко и Ко кефир 1% 900 г",
+    "cleanTokens": [],
+    "normalizedTokens": [
+      "1%",
+      "900 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "900 г",
+      "count": null,
+      "pack": null,
+      "percent": "1%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Шоро Максым 1.2% 1000 мл",
+    "cleanTokens": [
+      "максым"
+    ],
+    "normalizedTokens": [
+      "максым",
+      "1.2%",
+      "1000 мл"
+    ],
+    "params": {
+      "volume": "1000 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "1.2%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Молочный Бидончик кефир 2.5% 1000 г",
+    "cleanTokens": [],
+    "normalizedTokens": [
+      "2.5%",
+      "1000 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "1000 г",
+      "count": null,
+      "pack": null,
+      "percent": "2.5%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Село Лесное кефир 1% 930 г",
+    "cleanTokens": [],
+    "normalizedTokens": [
+      "1%",
+      "930 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "930 г",
+      "count": null,
+      "pack": null,
+      "percent": "1%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Шоро тан 1% 1000 мл",
+    "cleanTokens": [],
+    "normalizedTokens": [
+      "1%",
+      "1000 мл"
+    ],
+    "params": {
+      "volume": "1000 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "1%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Деп варенец 2.5% 500 г",
+    "cleanTokens": [
+      "варенец"
+    ],
+    "normalizedTokens": [
+      "варенец",
+      "2.5%",
+      "500 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "500 г",
+      "count": null,
+      "pack": null,
+      "percent": "2.5%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Родина ряженка 2.5% 1000 мл",
+    "cleanTokens": [
+      "ряженка"
+    ],
+    "normalizedTokens": [
+      "ряженка",
+      "2.5%",
+      "1000 мл"
+    ],
+    "params": {
+      "volume": "1000 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "2.5%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Деп кефир 2.5% 500 г",
+    "cleanTokens": [],
+    "normalizedTokens": [
+      "2.5%",
+      "500 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "500 г",
+      "count": null,
+      "pack": null,
+      "percent": "2.5%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Foodmaster снежок 2% 450 г",
+    "cleanTokens": [
+      "снежок"
+    ],
+    "normalizedTokens": [
+      "снежок",
+      "2%",
+      "450 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "450 г",
+      "count": null,
+      "pack": null,
+      "percent": "2%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Родина кефир 1% 1000 мл",
+    "cleanTokens": [],
+    "normalizedTokens": [
+      "1%",
+      "1000 мл"
+    ],
+    "params": {
+      "volume": "1000 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "1%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Рудненский Тан 0.7-1.8% 500 мл",
+    "cleanTokens": [
+      "рудненский",
+      "0.7-1.8%"
+    ],
+    "normalizedTokens": [
+      "рудненский",
+      "0.7-1.8%",
+      "500 мл"
+    ],
+    "params": {
+      "volume": "500 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Деп снежок 2.5% 500 г",
+    "cleanTokens": [
+      "снежок"
+    ],
+    "normalizedTokens": [
+      "снежок",
+      "2.5%",
+      "500 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "500 г",
+      "count": null,
+      "pack": null,
+      "percent": "2.5%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Nәtige снежок 1.5% 450 г",
+    "cleanTokens": [
+      "снежок"
+    ],
+    "normalizedTokens": [
+      "снежок",
+      "1.5%",
+      "450 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "450 г",
+      "count": null,
+      "pack": null,
+      "percent": "1.5%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Село Лесное кефир 2.5% 900 г",
+    "cleanTokens": [],
+    "normalizedTokens": [
+      "2.5%",
+      "900 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "900 г",
+      "count": null,
+      "pack": null,
+      "percent": "2.5%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "МОЯ ФЕРМА айран 3.8% 1000 мл",
+    "cleanTokens": [],
+    "normalizedTokens": [
+      "3.8%",
+      "1000 мл"
+    ],
+    "params": {
+      "volume": "1000 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "3.8%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Село Лесное айран 1.5% 300 г",
+    "cleanTokens": [],
+    "normalizedTokens": [
+      "1.5%",
+      "300 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "300 г",
+      "count": null,
+      "pack": null,
+      "percent": "1.5%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Село Лесное ряженка 3.2% 900 г",
+    "cleanTokens": [
+      "ряженка"
+    ],
+    "normalizedTokens": [
+      "ряженка",
+      "3.2%",
+      "900 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "900 г",
+      "count": null,
+      "pack": null,
+      "percent": "3.2%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Эмиль кефир 2.5% 450 г",
+    "cleanTokens": [],
+    "normalizedTokens": [
+      "2.5%",
+      "450 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "450 г",
+      "count": null,
+      "pack": null,
+      "percent": "2.5%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Эмиль ряженка 2.5% 900 г",
+    "cleanTokens": [
+      "ряженка"
+    ],
+    "normalizedTokens": [
+      "ряженка",
+      "2.5%",
+      "900 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "900 г",
+      "count": null,
+      "pack": null,
+      "percent": "2.5%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Эмиль ряженка 2.5% 450 г",
+    "cleanTokens": [
+      "ряженка"
+    ],
+    "normalizedTokens": [
+      "ряженка",
+      "2.5%",
+      "450 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "450 г",
+      "count": null,
+      "pack": null,
+      "percent": "2.5%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "МАСЛО-ДЕЛ кефир 3.2% 1000 г",
+    "cleanTokens": [],
+    "normalizedTokens": [
+      "3.2%",
+      "1000 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "1000 г",
+      "count": null,
+      "pack": null,
+      "percent": "3.2%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Astana-Өнім кефир 2.5% 1000 мл",
+    "cleanTokens": [],
+    "normalizedTokens": [
+      "2.5%",
+      "1000 мл"
+    ],
+    "params": {
+      "volume": "1000 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "2.5%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Эмиль токтамыш 2.5% 450 г",
+    "cleanTokens": [
+      "токтамыш"
+    ],
+    "normalizedTokens": [
+      "токтамыш",
+      "2.5%",
+      "450 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "450 г",
+      "count": null,
+      "pack": null,
+      "percent": "2.5%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Три батыра кумыс 1% 1000 мл",
+    "cleanTokens": [
+      "кумыс"
+    ],
+    "normalizedTokens": [
+      "кумыс",
+      "1%",
+      "1000 мл"
+    ],
+    "params": {
+      "volume": "1000 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "1%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Эмиль снежок 2.5% 450 г",
+    "cleanTokens": [
+      "снежок"
+    ],
+    "normalizedTokens": [
+      "снежок",
+      "2.5%",
+      "450 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "450 г",
+      "count": null,
+      "pack": null,
+      "percent": "2.5%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Astana-Өнім кефир 2.5% 1000 мл",
+    "cleanTokens": [],
+    "normalizedTokens": [
+      "2.5%",
+      "1000 мл"
+    ],
+    "params": {
+      "volume": "1000 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "2.5%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "МОЯ ФЕРМА коже 1000 мл",
+    "cleanTokens": [
+      "коже"
+    ],
+    "normalizedTokens": [
+      "коже",
+      "1000 мл"
+    ],
+    "params": {
+      "volume": "1000 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Саржайлау кумыс 1% 1000 мл",
+    "cleanTokens": [
+      "кумыс"
+    ],
+    "normalizedTokens": [
+      "кумыс",
+      "1%",
+      "1000 мл"
+    ],
+    "params": {
+      "volume": "1000 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "1%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Foodmaster кефир 2.5% 500 г",
+    "cleanTokens": [],
+    "normalizedTokens": [
+      "2.5%",
+      "500 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "500 г",
+      "count": null,
+      "pack": null,
+      "percent": "2.5%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Foodmaster кефир 2.5% 1000 г",
+    "cleanTokens": [],
+    "normalizedTokens": [
+      "2.5%",
+      "1000 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "1000 г",
+      "count": null,
+      "pack": null,
+      "percent": "2.5%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Саржайлау кумыс 1% 1000 мл",
+    "cleanTokens": [
+      "кумыс"
+    ],
+    "normalizedTokens": [
+      "кумыс",
+      "1%",
+      "1000 мл"
+    ],
+    "params": {
+      "volume": "1000 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "1%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Саржайлау шубат 4% 1000 мл",
+    "cleanTokens": [
+      "шубат"
+    ],
+    "normalizedTokens": [
+      "шубат",
+      "4%",
+      "1000 мл"
+    ],
+    "params": {
+      "volume": "1000 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "4%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Qara Koz кефир 2.5% 900 г",
+    "cleanTokens": [],
+    "normalizedTokens": [
+      "2.5%",
+      "900 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "900 г",
+      "count": null,
+      "pack": null,
+      "percent": "2.5%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Эмиль айран Турецкий 1.2% 900 г",
+    "cleanTokens": [
+      "турецкий"
+    ],
+    "normalizedTokens": [
+      "турецкий",
+      "1.2%",
+      "900 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "900 г",
+      "count": null,
+      "pack": null,
+      "percent": "1.2%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "DOS кумыс 1% 1000 мл",
+    "cleanTokens": [
+      "кумыс"
+    ],
+    "normalizedTokens": [
+      "кумыс",
+      "1%",
+      "1000 мл"
+    ],
+    "params": {
+      "volume": "1000 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "1%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Три батыра кумыс с мёдом 1% 500 мл",
+    "cleanTokens": [
+      "кумыс",
+      "с",
+      "медом"
+    ],
+    "normalizedTokens": [
+      "кумыс",
+      "с",
+      "медом",
+      "1%",
+      "500 мл"
+    ],
+    "params": {
+      "volume": "500 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "1%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Astana-Өнім кефирный напиток 2.2% 400 г",
+    "cleanTokens": [
+      "кефирный",
+      "напиток"
+    ],
+    "normalizedTokens": [
+      "кефирный",
+      "напиток",
+      "2.2%",
+      "400 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "400 г",
+      "count": null,
+      "pack": null,
+      "percent": "2.2%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "DOS кумыс 1% 500 мл",
+    "cleanTokens": [
+      "кумыс"
+    ],
+    "normalizedTokens": [
+      "кумыс",
+      "1%",
+      "500 мл"
+    ],
+    "params": {
+      "volume": "500 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "1%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Эмиль кефир 3.2% 900 г",
+    "cleanTokens": [],
+    "normalizedTokens": [
+      "3.2%",
+      "900 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "900 г",
+      "count": null,
+      "pack": null,
+      "percent": "3.2%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Astana-Өнім кумыс 1% 1000 мл",
+    "cleanTokens": [
+      "кумыс"
+    ],
+    "normalizedTokens": [
+      "кумыс",
+      "1%",
+      "1000 мл"
+    ],
+    "params": {
+      "volume": "1000 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "1%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "МОЯ ФЕРМА айран турецкий 1.5% 280 г",
+    "cleanTokens": [
+      "турецкий"
+    ],
+    "normalizedTokens": [
+      "турецкий",
+      "1.5%",
+      "280 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "280 г",
+      "count": null,
+      "pack": null,
+      "percent": "1.5%",
+      "age": null,
+      "stars": null
+    }
+  }
+]

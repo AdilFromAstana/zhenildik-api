@@ -1,0 +1,133 @@
+[
+  {
+    "original": "Fitelle сгущенное молоко Крем-десерт без сахара 1.5% 100 г",
+    "cleanTokens": [
+      "крем-десерт",
+      "без",
+      "сахара"
+    ],
+    "normalizedTokens": [
+      "крем-десерт",
+      "без",
+      "сахара",
+      "1.5%",
+      "100 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "100 г",
+      "count": null,
+      "pack": null,
+      "percent": "1.5%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Ecostar молокосодержащий продукт сгущенный Sozo 8.5% 1300 г",
+    "cleanTokens": [
+      "молокосодержащий",
+      "продукт",
+      "сгущенный",
+      "sozo"
+    ],
+    "normalizedTokens": [
+      "молокосодержащий",
+      "продукт",
+      "сгущенный",
+      "sozo",
+      "8.5%",
+      "1300 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "1300 г",
+      "count": null,
+      "pack": null,
+      "percent": "8.5%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "FitFeel сгущенное молоко кокосовое 1.5% 100 г",
+    "cleanTokens": [
+      "кокосовое"
+    ],
+    "normalizedTokens": [
+      "кокосовое",
+      "1.5%",
+      "100 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "100 г",
+      "count": null,
+      "pack": null,
+      "percent": "1.5%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Fitelle сгущенное молоко Крем-десерт Вареное 1.5% 100 г",
+    "cleanTokens": [
+      "крем-десерт",
+      "вареное"
+    ],
+    "normalizedTokens": [
+      "крем-десерт",
+      "вареное",
+      "1.5%",
+      "100 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "100 г",
+      "count": null,
+      "pack": null,
+      "percent": "1.5%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Fit Parad сгущенное молоко сгущенка овсяная 5% 270 г",
+    "cleanTokens": [
+      "сгущенка",
+      "овсяная"
+    ],
+    "normalizedTokens": [
+      "сгущенка",
+      "овсяная",
+      "5%",
+      "270 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "270 г",
+      "count": null,
+      "pack": null,
+      "percent": "5%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Fitelle сгущенное молоко 1.5% 100 г",
+    "cleanTokens": [],
+    "normalizedTokens": [
+      "1.5%",
+      "100 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "100 г",
+      "count": null,
+      "pack": null,
+      "percent": "1.5%",
+      "age": null,
+      "stars": null
+    }
+  }
+]

@@ -1,0 +1,1082 @@
+[
+  {
+    "original": "Щедрые Хлебцы гречневые 200 г",
+    "cleanTokens": [
+      "гречневые"
+    ],
+    "normalizedTokens": [
+      "гречневые",
+      "200 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "200 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Dr.Korner кукурузно-рисовые карамельные 90 г",
+    "cleanTokens": [
+      "кукурузно-рисовые",
+      "карамельные"
+    ],
+    "normalizedTokens": [
+      "кукурузно-рисовые",
+      "карамельные",
+      "90 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "90 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Щедрые Бородинские хлебцы пшеничные, ржаные 200 г",
+    "cleanTokens": [
+      "бородинские",
+      "пшеничные",
+      "ржаные"
+    ],
+    "normalizedTokens": [
+      "бородинские",
+      "пшеничные",
+      "ржаные",
+      "200 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "200 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Dr.Korner Гречневые с витаминами 100 г",
+    "cleanTokens": [
+      "гречневые",
+      "с",
+      "витаминами"
+    ],
+    "normalizedTokens": [
+      "гречневые",
+      "с",
+      "витаминами",
+      "100 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "100 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Хлебцы Молодцы Фитнес линия витамин плюс 100 гр",
+    "cleanTokens": [
+      "молодцы",
+      "фитнес",
+      "линия",
+      "витамин",
+      "плюс"
+    ],
+    "normalizedTokens": [
+      "молодцы",
+      "фитнес",
+      "линия",
+      "витамин",
+      "плюс",
+      "100 гр"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "100 гр",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Хлебец-Молодец ФитнесЛайн Железо плюc цельнозерновые 100 г",
+    "cleanTokens": [
+      "хлебец-молодец",
+      "фитнеслайн",
+      "железо",
+      "плюc",
+      "цельнозерновые"
+    ],
+    "normalizedTokens": [
+      "хлебец-молодец",
+      "фитнеслайн",
+      "железо",
+      "плюc",
+      "цельнозерновые",
+      "100 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "100 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Хлебцы Молодцы Фитнес линия минерал плюс 100 г",
+    "cleanTokens": [
+      "молодцы",
+      "фитнес",
+      "линия",
+      "минерал",
+      "плюс"
+    ],
+    "normalizedTokens": [
+      "молодцы",
+      "фитнес",
+      "линия",
+      "минерал",
+      "плюс",
+      "100 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "100 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Щедрые ржаные с чесноком 100 г",
+    "cleanTokens": [
+      "ржаные",
+      "с",
+      "чесноком"
+    ],
+    "normalizedTokens": [
+      "ржаные",
+      "с",
+      "чесноком",
+      "100 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "100 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Щедрые Многозерновые тонкие 170 г",
+    "cleanTokens": [
+      "многозерновые",
+      "тонкие"
+    ],
+    "normalizedTokens": [
+      "многозерновые",
+      "тонкие",
+      "170 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "170 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Dr.Korner хлебцы гречневые, пшеничные, рисовые 90 г",
+    "cleanTokens": [
+      "гречневые",
+      "пшеничные",
+      "рисовые"
+    ],
+    "normalizedTokens": [
+      "гречневые",
+      "пшеничные",
+      "рисовые",
+      "90 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "90 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Щедрые Хлебцы ржаные 100 г",
+    "cleanTokens": [
+      "ржаные"
+    ],
+    "normalizedTokens": [
+      "ржаные",
+      "100 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "100 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Щедрые хлебцы пшеничные, ржаные 170 г",
+    "cleanTokens": [
+      "пшеничные",
+      "ржаные"
+    ],
+    "normalizedTokens": [
+      "пшеничные",
+      "ржаные",
+      "170 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "170 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "BioFoodLab Bite гречневые 150 г",
+    "cleanTokens": [
+      "biofoodlab",
+      "bite",
+      "гречневые"
+    ],
+    "normalizedTokens": [
+      "biofoodlab",
+      "bite",
+      "гречневые",
+      "150 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "150 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Dr.Korner Сырные 100 г",
+    "cleanTokens": [
+      "сырные"
+    ],
+    "normalizedTokens": [
+      "сырные",
+      "100 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "100 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Щедрые хлебцы ржаные тонкие 170 г",
+    "cleanTokens": [
+      "ржаные",
+      "тонкие"
+    ],
+    "normalizedTokens": [
+      "ржаные",
+      "тонкие",
+      "170 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "170 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Baker House хлебные палочки пшеничные 80 г",
+    "cleanTokens": [
+      "хлебные",
+      "палочки",
+      "пшеничные"
+    ],
+    "normalizedTokens": [
+      "хлебные",
+      "палочки",
+      "пшеничные",
+      "80 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "80 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Dr.Korner кукурузно-рисовые имбирь, лимон 90 г",
+    "cleanTokens": [
+      "кукурузно-рисовые",
+      "имбирь",
+      "лимон"
+    ],
+    "normalizedTokens": [
+      "кукурузно-рисовые",
+      "имбирь",
+      "лимон",
+      "90 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "90 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "BioFoodLab Bite кукурузно-рисовые с морской солью 150 г",
+    "cleanTokens": [
+      "biofoodlab",
+      "bite",
+      "кукурузно-рисовые",
+      "с",
+      "морской",
+      "солью"
+    ],
+    "normalizedTokens": [
+      "biofoodlab",
+      "bite",
+      "кукурузно-рисовые",
+      "с",
+      "морской",
+      "солью",
+      "150 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "150 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Baker House итальянские с черным кунжутом 250 г",
+    "cleanTokens": [
+      "итальянские",
+      "с",
+      "черным",
+      "кунжутом"
+    ],
+    "normalizedTokens": [
+      "итальянские",
+      "с",
+      "черным",
+      "кунжутом",
+      "250 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "250 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Щедрые пшеничные-ржаные с укропом и чесноком 200 г",
+    "cleanTokens": [
+      "пшеничные-ржаные",
+      "с",
+      "укропом",
+      "и",
+      "чесноком"
+    ],
+    "normalizedTokens": [
+      "пшеничные-ржаные",
+      "с",
+      "укропом",
+      "и",
+      "чесноком",
+      "200 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "200 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Щедрые хлебцы ржаные с чесноком 200 г",
+    "cleanTokens": [
+      "ржаные",
+      "с",
+      "чесноком"
+    ],
+    "normalizedTokens": [
+      "ржаные",
+      "с",
+      "чесноком",
+      "200 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "200 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Щедрые Хлебцы гречневые 100 г",
+    "cleanTokens": [
+      "гречневые"
+    ],
+    "normalizedTokens": [
+      "гречневые",
+      "100 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "100 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Wasa ржаные цельнозерновые 275 г",
+    "cleanTokens": [
+      "ржаные",
+      "цельнозерновые"
+    ],
+    "normalizedTokens": [
+      "ржаные",
+      "цельнозерновые",
+      "275 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "275 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Dr.Korner Бородинские 100 г",
+    "cleanTokens": [
+      "бородинские"
+    ],
+    "normalizedTokens": [
+      "бородинские",
+      "100 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "100 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Bite хлебцы чечевичные 100 г",
+    "cleanTokens": [
+      "bite",
+      "чечевичные"
+    ],
+    "normalizedTokens": [
+      "bite",
+      "чечевичные",
+      "100 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "100 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Wasa хлебцы пшеничные с розмарином и морской солью 190 г",
+    "cleanTokens": [
+      "пшеничные",
+      "с",
+      "розмарином",
+      "и",
+      "морской",
+      "солью"
+    ],
+    "normalizedTokens": [
+      "пшеничные",
+      "с",
+      "розмарином",
+      "и",
+      "морской",
+      "солью",
+      "190 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "190 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Щедрые Хлебцы бородинские 100 г",
+    "cleanTokens": [
+      "бородинские"
+    ],
+    "normalizedTokens": [
+      "бородинские",
+      "100 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "100 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "BioFoodLab Bite рисово-гречневые 150 г",
+    "cleanTokens": [
+      "biofoodlab",
+      "bite",
+      "рисово-гречневые"
+    ],
+    "normalizedTokens": [
+      "biofoodlab",
+      "bite",
+      "рисово-гречневые",
+      "150 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "150 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Dr.Korner рисовые с витаминами 100 г",
+    "cleanTokens": [
+      "рисовые",
+      "с",
+      "витаминами"
+    ],
+    "normalizedTokens": [
+      "рисовые",
+      "с",
+      "витаминами",
+      "100 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "100 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Bite крекеры овсяные 200 г",
+    "cleanTokens": [
+      "bite",
+      "крекеры",
+      "овсяные"
+    ],
+    "normalizedTokens": [
+      "bite",
+      "крекеры",
+      "овсяные",
+      "200 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "200 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Щедрые хлебцы пшеничные 100 г",
+    "cleanTokens": [
+      "пшеничные"
+    ],
+    "normalizedTokens": [
+      "пшеничные",
+      "100 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "100 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "BioFoodLab крекеры овсяные с кунжутом и чиа 200 гр",
+    "cleanTokens": [
+      "biofoodlab",
+      "крекеры",
+      "овсяные",
+      "с",
+      "кунжутом",
+      "и",
+      "чиа"
+    ],
+    "normalizedTokens": [
+      "biofoodlab",
+      "крекеры",
+      "овсяные",
+      "с",
+      "кунжутом",
+      "и",
+      "чиа",
+      "200 гр"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "200 гр",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "BioFoodLab Bite рисовые с морковью и томатом 150 г",
+    "cleanTokens": [
+      "biofoodlab",
+      "bite",
+      "рисовые",
+      "с",
+      "морковью",
+      "и",
+      "томатом"
+    ],
+    "normalizedTokens": [
+      "biofoodlab",
+      "bite",
+      "рисовые",
+      "с",
+      "морковью",
+      "и",
+      "томатом",
+      "150 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "150 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Bite крекеры овсяные 200 г",
+    "cleanTokens": [
+      "bite",
+      "крекеры",
+      "овсяные"
+    ],
+    "normalizedTokens": [
+      "bite",
+      "крекеры",
+      "овсяные",
+      "200 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "200 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Щедрые хлебцы пшеничные 200 г",
+    "cleanTokens": [
+      "пшеничные"
+    ],
+    "normalizedTokens": [
+      "пшеничные",
+      "200 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "200 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Хлебцы Молодцы Мультизлаковые с томатами и базиликом 100 г",
+    "cleanTokens": [
+      "молодцы",
+      "мультизлаковые",
+      "с",
+      "томатами",
+      "и",
+      "базиликом"
+    ],
+    "normalizedTokens": [
+      "молодцы",
+      "мультизлаковые",
+      "с",
+      "томатами",
+      "и",
+      "базиликом",
+      "100 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "100 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Wasa пшеничные с кунжутом 200 г",
+    "cleanTokens": [
+      "пшеничные",
+      "с",
+      "кунжутом"
+    ],
+    "normalizedTokens": [
+      "пшеничные",
+      "с",
+      "кунжутом",
+      "200 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "200 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "BioFoodLab Bite кукурузно-рисовые с луком 150 г",
+    "cleanTokens": [
+      "biofoodlab",
+      "bite",
+      "кукурузно-рисовые",
+      "с",
+      "луком"
+    ],
+    "normalizedTokens": [
+      "biofoodlab",
+      "bite",
+      "кукурузно-рисовые",
+      "с",
+      "луком",
+      "150 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "150 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Dr.Korner злаковый коктейль черничный 100 г",
+    "cleanTokens": [
+      "злаковый",
+      "коктейль",
+      "черничный"
+    ],
+    "normalizedTokens": [
+      "злаковый",
+      "коктейль",
+      "черничный",
+      "100 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "100 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Dr.Korner злаковый коктейль клюквенный 100 г",
+    "cleanTokens": [
+      "злаковый",
+      "коктейль",
+      "клюквенный"
+    ],
+    "normalizedTokens": [
+      "злаковый",
+      "коктейль",
+      "клюквенный",
+      "100 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "100 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "HAPPY CRISP кукурузно-рисовые цельнозерновые сметана и лук 50 г",
+    "cleanTokens": [
+      "кукурузно-рисовые",
+      "цельнозерновые",
+      "сметана",
+      "и",
+      "лук"
+    ],
+    "normalizedTokens": [
+      "кукурузно-рисовые",
+      "цельнозерновые",
+      "сметана",
+      "и",
+      "лук",
+      "50 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "50 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Bite хлебцы гречневые с протеином 100 г",
+    "cleanTokens": [
+      "bite",
+      "гречневые",
+      "с",
+      "протеином"
+    ],
+    "normalizedTokens": [
+      "bite",
+      "гречневые",
+      "с",
+      "протеином",
+      "100 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "100 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Хлебцы Молодцы Фитнес линия железо плюс 100 гр",
+    "cleanTokens": [
+      "молодцы",
+      "фитнес",
+      "линия",
+      "железо",
+      "плюс"
+    ],
+    "normalizedTokens": [
+      "молодцы",
+      "фитнес",
+      "линия",
+      "железо",
+      "плюс",
+      "100 гр"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "100 гр",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "HAPPY CRISP криспы кукурузно-рисовые итальянская пицца 50 г",
+    "cleanTokens": [
+      "криспы",
+      "кукурузно-рисовые",
+      "итальянская",
+      "пицца"
+    ],
+    "normalizedTokens": [
+      "криспы",
+      "кукурузно-рисовые",
+      "итальянская",
+      "пицца",
+      "50 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "50 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "HAPPY CRISP криспы кукурузно-рисовые пряный томат 50 г",
+    "cleanTokens": [
+      "криспы",
+      "кукурузно-рисовые",
+      "пряный",
+      "томат"
+    ],
+    "normalizedTokens": [
+      "криспы",
+      "кукурузно-рисовые",
+      "пряный",
+      "томат",
+      "50 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "50 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Dr.AMARANTH хлебцы амарантовые 60 г",
+    "cleanTokens": [
+      "амарантовые"
+    ],
+    "normalizedTokens": [
+      "амарантовые",
+      "60 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "60 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  }
+]

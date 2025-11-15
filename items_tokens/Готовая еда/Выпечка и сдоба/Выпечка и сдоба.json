@@ -1,0 +1,594 @@
+[
+  {
+    "original": "MAGNUM булочка сдобная со сгущенкой 100 г",
+    "cleanTokens": [
+      "булочка",
+      "сдобная",
+      "со",
+      "сгущенкой"
+    ],
+    "normalizedTokens": [
+      "булочка",
+      "сдобная",
+      "со",
+      "сгущенкой",
+      "100 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "100 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "MAGNUM плюшка московская 240 г",
+    "cleanTokens": [
+      "плюшка",
+      "московская"
+    ],
+    "normalizedTokens": [
+      "плюшка",
+      "московская",
+      "240 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "240 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "MAGNUM пирожки печёные с капустой 150 г",
+    "cleanTokens": [
+      "пирожки",
+      "печеные",
+      "с",
+      "капустой"
+    ],
+    "normalizedTokens": [
+      "пирожки",
+      "печеные",
+      "с",
+      "капустой",
+      "150 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "150 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "MAGNUM пирожок курица, сыр 2 шт",
+    "cleanTokens": [
+      "пирожок",
+      "курица",
+      "сыр"
+    ],
+    "normalizedTokens": [
+      "пирожок",
+      "курица",
+      "сыр",
+      "2 шт"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": "2 шт",
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "MAGNUM пирожок жареный, лук, яйцо 2 шт 150 г",
+    "cleanTokens": [
+      "пирожок",
+      "жареный",
+      "лук",
+      "яйцо"
+    ],
+    "normalizedTokens": [
+      "пирожок",
+      "жареный",
+      "лук",
+      "яйцо",
+      "2 шт",
+      "150 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "150 г",
+      "count": "2 шт",
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "MAGNUM сосиска в тесте 200 г",
+    "cleanTokens": [
+      "сосиска",
+      "в",
+      "тесте"
+    ],
+    "normalizedTokens": [
+      "сосиска",
+      "в",
+      "тесте",
+      "200 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "200 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "MAGNUM круассан с вареной сгущенкой 105 г",
+    "cleanTokens": [
+      "круассан",
+      "с",
+      "вареной",
+      "сгущенкой"
+    ],
+    "normalizedTokens": [
+      "круассан",
+      "с",
+      "вареной",
+      "сгущенкой",
+      "105 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "105 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "MAGNUM булочка с яблоком 80 г",
+    "cleanTokens": [
+      "булочка",
+      "с",
+      "яблоком"
+    ],
+    "normalizedTokens": [
+      "булочка",
+      "с",
+      "яблоком",
+      "80 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "80 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "MAGNUM булочка с маком 240 г",
+    "cleanTokens": [
+      "булочка",
+      "с",
+      "маком"
+    ],
+    "normalizedTokens": [
+      "булочка",
+      "с",
+      "маком",
+      "240 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "240 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "MAGNUM завитушка изюм 90 г",
+    "cleanTokens": [
+      "завитушка",
+      "изюм"
+    ],
+    "normalizedTokens": [
+      "завитушка",
+      "изюм",
+      "90 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "90 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "MAGNUM самса с курицей 240 г",
+    "cleanTokens": [
+      "самса",
+      "с",
+      "курицей"
+    ],
+    "normalizedTokens": [
+      "самса",
+      "с",
+      "курицей",
+      "240 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "240 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "MAGNUM пирожки жареные с картошкой 150 г",
+    "cleanTokens": [
+      "пирожки",
+      "жареные",
+      "с",
+      "картошкой"
+    ],
+    "normalizedTokens": [
+      "пирожки",
+      "жареные",
+      "с",
+      "картошкой",
+      "150 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "150 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "MAGNUM борек шпинат, брынза 300 г",
+    "cleanTokens": [
+      "борек",
+      "шпинат",
+      "брынза"
+    ],
+    "normalizedTokens": [
+      "борек",
+      "шпинат",
+      "брынза",
+      "300 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "300 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "MAGNUM пирожки печёные с картошкой 150 г",
+    "cleanTokens": [
+      "пирожки",
+      "печеные",
+      "с",
+      "картошкой"
+    ],
+    "normalizedTokens": [
+      "пирожки",
+      "печеные",
+      "с",
+      "картошкой",
+      "150 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "150 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "MAGNUM беляш с мясом 2 шт",
+    "cleanTokens": [
+      "беляш",
+      "с",
+      "мясом"
+    ],
+    "normalizedTokens": [
+      "беляш",
+      "с",
+      "мясом",
+      "2 шт"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": "2 шт",
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "MAGNUM пирожки жареные с капустой 150 г",
+    "cleanTokens": [
+      "пирожки",
+      "жареные",
+      "с",
+      "капустой"
+    ],
+    "normalizedTokens": [
+      "пирожки",
+      "жареные",
+      "с",
+      "капустой",
+      "150 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "150 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "MAGNUM борек куриный фарш 300 г",
+    "cleanTokens": [
+      "борек",
+      "куриный",
+      "фарш"
+    ],
+    "normalizedTokens": [
+      "борек",
+      "куриный",
+      "фарш",
+      "300 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "300 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "MAGNUM самса с мясом 240 г",
+    "cleanTokens": [
+      "самса",
+      "с",
+      "мясом"
+    ],
+    "normalizedTokens": [
+      "самса",
+      "с",
+      "мясом",
+      "240 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "240 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "MAGNUM борек говяжий фарш 300 г",
+    "cleanTokens": [
+      "борек",
+      "говяжий",
+      "фарш"
+    ],
+    "normalizedTokens": [
+      "борек",
+      "говяжий",
+      "фарш",
+      "300 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "300 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Shaurma-Food Чебупели с говядиной 145 г",
+    "cleanTokens": [
+      "чебупели",
+      "с",
+      "говядиной"
+    ],
+    "normalizedTokens": [
+      "чебупели",
+      "с",
+      "говядиной",
+      "145 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "145 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Shaurma-Food блин с бананом в шоколаде 343 г",
+    "cleanTokens": [
+      "блин",
+      "с",
+      "бананом",
+      "в",
+      "шоколаде"
+    ],
+    "normalizedTokens": [
+      "блин",
+      "с",
+      "бананом",
+      "в",
+      "шоколаде",
+      "343 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "343 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Shaurma-Food чебупели с курицей 169 г",
+    "cleanTokens": [
+      "чебупели",
+      "с",
+      "курицей"
+    ],
+    "normalizedTokens": [
+      "чебупели",
+      "с",
+      "курицей",
+      "169 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "169 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Shaurma-Food блины грибы, зелень, курица 354 г",
+    "cleanTokens": [
+      "блины",
+      "грибы",
+      "зелень",
+      "курица"
+    ],
+    "normalizedTokens": [
+      "блины",
+      "грибы",
+      "зелень",
+      "курица",
+      "354 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "354 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Shaurma-Food блин со сгущенкой 313 г",
+    "cleanTokens": [
+      "блин",
+      "со",
+      "сгущенкой"
+    ],
+    "normalizedTokens": [
+      "блин",
+      "со",
+      "сгущенкой",
+      "313 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "313 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Shaurma-Food блин с нутеллой 288 г",
+    "cleanTokens": [
+      "блин",
+      "с",
+      "нутеллой"
+    ],
+    "normalizedTokens": [
+      "блин",
+      "с",
+      "нутеллой",
+      "288 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "288 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  }
+]

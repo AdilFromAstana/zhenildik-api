@@ -1,0 +1,205 @@
+[
+  {
+    "id": "117530500",
+    "configSku": "117530500",
+    "title": "MAGNUM сдобные палочки с кунжутом 225 г",
+    "brand": "MAGNUM",
+    "categoryId": "05570",
+    "hasVariants": false,
+    "loanAvailable": false,
+    "shopLink": "/p/magnum-sdobnye-palochki-s-kunzhutom-225-g-117530500/?c=710000000",
+    "unitPrice": 495,
+    "unitSalePrice": 495,
+    "priceFormatted": "495 ₸",
+    "createdTime": "2024-03-20T06:48:19.371Z",
+    "stickers": [
+      "magnum_offer_available"
+    ],
+    "previewImages": [
+      {
+        "small": "https://resources.cdn-kaspi.kz/img/m/p/h42/he2/85463799070750.jpg?format=preview-small",
+        "medium": "https://resources.cdn-kaspi.kz/img/m/p/h42/he2/85463799070750.jpg?format=preview-medium",
+        "large": "https://resources.cdn-kaspi.kz/img/m/p/h42/he2/85463799070750.jpg?format=preview-large"
+      }
+    ],
+    "teasers": [],
+    "creditMonthlyPrice": 165,
+    "monthlyInstallment": {
+      "id": 3,
+      "installment": true,
+      "formattedPerMonth": "165 ₸"
+    },
+    "reviewsLink": "/p/magnum-sdobnye-palochki-s-kunzhutom-225-g-117530500/?c=710000000&tab=reviews",
+    "weight": 0,
+    "unit": {
+      "type": "PIECES",
+      "increment": 1,
+      "measurementLiteral": "шт",
+      "countingLiteral": "шт"
+    },
+    "rating": 4.9,
+    "reviewsQuantity": 11,
+    "stock": 1,
+    "currency": "KZT",
+    "mods": "",
+    "deliveryDuration": "TODAY",
+    "shortNameText": "",
+    "category": [
+      "Продукты питания",
+      "Хлебные изделия",
+      "Хлеб"
+    ],
+    "categoryRu": [
+      "Продукты питания",
+      "Хлебные изделия",
+      "Хлеб"
+    ],
+    "categoryCodes": [
+      "Bread",
+      "Bread and bakery",
+      "Food",
+      "Categories"
+    ],
+    "groups": [],
+    "promo": [
+      {
+        "code": "magnum 0012",
+        "text": null,
+        "type": "LOAN",
+        "priority": 12,
+        "owner": "KASPI",
+        "bonusType": "",
+        "img": {
+          "alt": null,
+          "medium": {
+            "src": "https://resources.cdn-kaspi.kz/yml/static/assets/badges/l12.svg?v=1",
+            "width": 40,
+            "height": 22
+          },
+          "large": {
+            "src": "https://resources.cdn-kaspi.kz/yml/static/assets/badges/l12.svg?v=1",
+            "width": 55,
+            "height": 31
+          },
+          "small": {
+            "src": "https://resources.cdn-kaspi.kz/yml/static/assets/badges/l12.svg?v=1",
+            "width": 40,
+            "height": 22
+          }
+        }
+      }
+    ],
+    "majorMerchants": [
+      "Magnum"
+    ],
+    "deliveryZones": [
+      "magnum_f_zone",
+      "Magnum_ZONE3",
+      "Magnum_ZONE5"
+    ]
+  },
+  {
+    "id": "105216142",
+    "configSku": "105216142",
+    "title": "ВКУС ХЛЕБА хлеб 500 г",
+    "brand": "ВКУС ХЛЕБА",
+    "categoryId": "05570",
+    "hasVariants": false,
+    "loanAvailable": false,
+    "shopLink": "/p/vkus-hleba-hleb-500-g-105216142/?c=710000000",
+    "unitPrice": 525,
+    "unitSalePrice": 525,
+    "priceFormatted": "525 ₸",
+    "createdTime": "2022-06-16T11:39:55.263Z",
+    "stickers": [
+      "magnum_offer_available"
+    ],
+    "previewImages": [
+      {
+        "small": "https://resources.cdn-kaspi.kz/img/m/p/h05/h1b/81186013249566.jpg?format=preview-small",
+        "medium": "https://resources.cdn-kaspi.kz/img/m/p/h05/h1b/81186013249566.jpg?format=preview-medium",
+        "large": "https://resources.cdn-kaspi.kz/img/m/p/h05/h1b/81186013249566.jpg?format=preview-large"
+      },
+      {
+        "small": "https://resources.cdn-kaspi.kz/img/m/p/hca/h30/81186013282334.jpg?format=preview-small",
+        "medium": "https://resources.cdn-kaspi.kz/img/m/p/hca/h30/81186013282334.jpg?format=preview-medium",
+        "large": "https://resources.cdn-kaspi.kz/img/m/p/hca/h30/81186013282334.jpg?format=preview-large"
+      }
+    ],
+    "teasers": [],
+    "creditMonthlyPrice": 175,
+    "monthlyInstallment": {
+      "id": 3,
+      "installment": true,
+      "formattedPerMonth": "175 ₸"
+    },
+    "reviewsLink": "/p/vkus-hleba-hleb-500-g-105216142/?c=710000000&tab=reviews",
+    "weight": 0,
+    "unit": {
+      "type": "PIECES",
+      "increment": 1,
+      "measurementLiteral": "шт",
+      "countingLiteral": "шт"
+    },
+    "rating": 4.3,
+    "reviewsQuantity": 6,
+    "stock": 1,
+    "currency": "KZT",
+    "mods": "",
+    "deliveryDuration": "TODAY",
+    "shortNameText": "",
+    "category": [
+      "Продукты питания",
+      "Хлебные изделия",
+      "Хлеб"
+    ],
+    "categoryRu": [
+      "Продукты питания",
+      "Хлебные изделия",
+      "Хлеб"
+    ],
+    "categoryCodes": [
+      "Bread",
+      "Bread and bakery",
+      "Food",
+      "Categories"
+    ],
+    "groups": [],
+    "promo": [
+      {
+        "code": "magnum 0012",
+        "text": null,
+        "type": "LOAN",
+        "priority": 12,
+        "owner": "KASPI",
+        "bonusType": "",
+        "img": {
+          "alt": null,
+          "medium": {
+            "src": "https://resources.cdn-kaspi.kz/yml/static/assets/badges/l12.svg?v=1",
+            "width": 40,
+            "height": 22
+          },
+          "large": {
+            "src": "https://resources.cdn-kaspi.kz/yml/static/assets/badges/l12.svg?v=1",
+            "width": 55,
+            "height": 31
+          },
+          "small": {
+            "src": "https://resources.cdn-kaspi.kz/yml/static/assets/badges/l12.svg?v=1",
+            "width": 40,
+            "height": 22
+          }
+        }
+      }
+    ],
+    "majorMerchants": [
+      "Magnum"
+    ],
+    "deliveryZones": [
+      "magnum_f_zone",
+      "Magnum_ZONE3",
+      "Magnum_ZONE5"
+    ]
+  }
+]

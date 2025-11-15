@@ -1,0 +1,864 @@
+[
+  {
+    "original": "Nemoloko растительный напиток банан 1000 мл",
+    "cleanTokens": [
+      "растительный",
+      "напиток",
+      "банан"
+    ],
+    "normalizedTokens": [
+      "растительный",
+      "напиток",
+      "банан",
+      "1000 мл"
+    ],
+    "params": {
+      "volume": "1000 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "AROY-D растительный напиток кокос 17% 500 мл",
+    "cleanTokens": [
+      "растительный",
+      "напиток",
+      "кокос"
+    ],
+    "normalizedTokens": [
+      "растительный",
+      "напиток",
+      "кокос",
+      "17%",
+      "500 мл"
+    ],
+    "params": {
+      "volume": "500 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "17%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Nemoloko Овсяный Классический Экстралайт 0.5% 1 л",
+    "cleanTokens": [
+      "овсяный",
+      "классический",
+      "экстралайт"
+    ],
+    "normalizedTokens": [
+      "овсяный",
+      "классический",
+      "экстралайт",
+      "0.5%",
+      "1 л"
+    ],
+    "params": {
+      "volume": "1 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "0.5%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Nemoloko Гречневое классическое лайт 1.5% 1 л",
+    "cleanTokens": [
+      "гречневое",
+      "классическое",
+      "лайт"
+    ],
+    "normalizedTokens": [
+      "гречневое",
+      "классическое",
+      "лайт",
+      "1.5%",
+      "1 л"
+    ],
+    "params": {
+      "volume": "1 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "1.5%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Alpro растительный напиток натуральный 1.8% 1000 мл",
+    "cleanTokens": [
+      "растительный",
+      "напиток",
+      "натуральный"
+    ],
+    "normalizedTokens": [
+      "растительный",
+      "напиток",
+      "натуральный",
+      "1.8%",
+      "1000 мл"
+    ],
+    "params": {
+      "volume": "1000 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "1.8%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Green Milk Professional Рисовый напиток Миндаль 1000 мл",
+    "cleanTokens": [
+      "professional",
+      "рисовый",
+      "напиток",
+      "миндаль"
+    ],
+    "normalizedTokens": [
+      "professional",
+      "рисовый",
+      "напиток",
+      "миндаль",
+      "1000 мл"
+    ],
+    "params": {
+      "volume": "1000 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Nemoloko растительный напиток клубника 1000 мл",
+    "cleanTokens": [
+      "растительный",
+      "напиток",
+      "клубника"
+    ],
+    "normalizedTokens": [
+      "растительный",
+      "напиток",
+      "клубника",
+      "1000 мл"
+    ],
+    "params": {
+      "volume": "1000 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Green Milk растительный напиток овсяный 1% 1000 мл",
+    "cleanTokens": [
+      "растительный",
+      "напиток",
+      "овсяный"
+    ],
+    "normalizedTokens": [
+      "растительный",
+      "напиток",
+      "овсяный",
+      "1%",
+      "1000 мл"
+    ],
+    "params": {
+      "volume": "1000 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "1%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Nemoloko растительный напиток соевый 1.5% 1000 мл",
+    "cleanTokens": [
+      "растительный",
+      "напиток",
+      "соевый"
+    ],
+    "normalizedTokens": [
+      "растительный",
+      "напиток",
+      "соевый",
+      "1.5%",
+      "1000 мл"
+    ],
+    "params": {
+      "volume": "1000 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "1.5%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "AROY-D растительный напиток кокос 17% 1000 мл",
+    "cleanTokens": [
+      "растительный",
+      "напиток",
+      "кокос"
+    ],
+    "normalizedTokens": [
+      "растительный",
+      "напиток",
+      "кокос",
+      "17%",
+      "1000 мл"
+    ],
+    "params": {
+      "volume": "1000 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "17%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Alpro растительный напиток кокос 0.9% 1000 мл",
+    "cleanTokens": [
+      "растительный",
+      "напиток",
+      "кокос"
+    ],
+    "normalizedTokens": [
+      "растительный",
+      "напиток",
+      "кокос",
+      "0.9%",
+      "1000 мл"
+    ],
+    "params": {
+      "volume": "1000 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "0.9%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Nemoloko Professional растительный напиток кокос 1000 мл",
+    "cleanTokens": [
+      "professional",
+      "растительный",
+      "напиток",
+      "кокос"
+    ],
+    "normalizedTokens": [
+      "professional",
+      "растительный",
+      "напиток",
+      "кокос",
+      "1000 мл"
+    ],
+    "params": {
+      "volume": "1000 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Chaokoh Кокосовые сливки 22% 250 мл",
+    "cleanTokens": [
+      "кокосовые",
+      "сливки"
+    ],
+    "normalizedTokens": [
+      "кокосовые",
+      "сливки",
+      "22%",
+      "250 мл"
+    ],
+    "params": {
+      "volume": "250 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "22%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Green Milk Barista растительный напиток банан 1000 мл",
+    "cleanTokens": [
+      "barista",
+      "растительный",
+      "напиток",
+      "банан"
+    ],
+    "normalizedTokens": [
+      "barista",
+      "растительный",
+      "напиток",
+      "банан",
+      "1000 мл"
+    ],
+    "params": {
+      "volume": "1000 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Vega Natura растительный напиток овсяный 1000 г",
+    "cleanTokens": [
+      "растительный",
+      "напиток",
+      "овсяный"
+    ],
+    "normalizedTokens": [
+      "растительный",
+      "напиток",
+      "овсяный",
+      "1000 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "1000 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Vega Natura растительный напиток банан 1000 г",
+    "cleanTokens": [
+      "растительный",
+      "напиток",
+      "банан"
+    ],
+    "normalizedTokens": [
+      "растительный",
+      "напиток",
+      "банан",
+      "1000 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "1000 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Vega Natura растительный напиток миндаль 1000 мл",
+    "cleanTokens": [
+      "растительный",
+      "напиток",
+      "миндаль"
+    ],
+    "normalizedTokens": [
+      "растительный",
+      "напиток",
+      "миндаль",
+      "1000 мл"
+    ],
+    "params": {
+      "volume": "1000 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Green Milk растительный напиток соевый 1000 мл",
+    "cleanTokens": [
+      "растительный",
+      "напиток",
+      "соевый"
+    ],
+    "normalizedTokens": [
+      "растительный",
+      "напиток",
+      "соевый",
+      "1000 мл"
+    ],
+    "params": {
+      "volume": "1000 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Nemoloko овсяное ванильное 1 л",
+    "cleanTokens": [
+      "овсяное",
+      "ванильное"
+    ],
+    "normalizedTokens": [
+      "овсяное",
+      "ванильное",
+      "1 л"
+    ],
+    "params": {
+      "volume": "1 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Green Milk растительный напиток лесной орех 1000 мл",
+    "cleanTokens": [
+      "растительный",
+      "напиток",
+      "лесной",
+      "орех"
+    ],
+    "normalizedTokens": [
+      "растительный",
+      "напиток",
+      "лесной",
+      "орех",
+      "1000 мл"
+    ],
+    "params": {
+      "volume": "1000 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Green Milk растительный напиток миндаль 1000 мл",
+    "cleanTokens": [
+      "растительный",
+      "напиток",
+      "миндаль"
+    ],
+    "normalizedTokens": [
+      "растительный",
+      "напиток",
+      "миндаль",
+      "1000 мл"
+    ],
+    "params": {
+      "volume": "1000 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Bite растительный напиток миндаль 2.2% 1000 мл",
+    "cleanTokens": [
+      "bite",
+      "растительный",
+      "напиток",
+      "миндаль"
+    ],
+    "normalizedTokens": [
+      "bite",
+      "растительный",
+      "напиток",
+      "миндаль",
+      "2.2%",
+      "1000 мл"
+    ],
+    "params": {
+      "volume": "1000 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "2.2%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "BioFoodLab BITE растительное молоко банановое 1.5% 1000 мл",
+    "cleanTokens": [
+      "biofoodlab",
+      "bite",
+      "банановое"
+    ],
+    "normalizedTokens": [
+      "biofoodlab",
+      "bite",
+      "банановое",
+      "1.5%",
+      "1000 мл"
+    ],
+    "params": {
+      "volume": "1000 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "1.5%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Chaokoh Кокосовое молоко 250 мл",
+    "cleanTokens": [
+      "кокосовое"
+    ],
+    "normalizedTokens": [
+      "кокосовое",
+      "250 мл"
+    ],
+    "params": {
+      "volume": "250 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "BioFoodLab BITE растительное молоко миндальное 1.5% 1000 мл",
+    "cleanTokens": [
+      "biofoodlab",
+      "bite",
+      "миндальное"
+    ],
+    "normalizedTokens": [
+      "biofoodlab",
+      "bite",
+      "миндальное",
+      "1.5%",
+      "1000 мл"
+    ],
+    "params": {
+      "volume": "1000 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "1.5%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Bite растительный напиток натуральный 1.8% 1000 мл",
+    "cleanTokens": [
+      "bite",
+      "растительный",
+      "напиток",
+      "натуральный"
+    ],
+    "normalizedTokens": [
+      "bite",
+      "растительный",
+      "напиток",
+      "натуральный",
+      "1.8%",
+      "1000 мл"
+    ],
+    "params": {
+      "volume": "1000 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "1.8%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Bite растительное молоко с кешью-макадамия 1 л",
+    "cleanTokens": [
+      "bite",
+      "с",
+      "кешью-макадамия"
+    ],
+    "normalizedTokens": [
+      "bite",
+      "с",
+      "кешью-макадамия",
+      "1 л"
+    ],
+    "params": {
+      "volume": "1 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Green Milk растительный напиток со вкусом клубники 1% 1000 мл",
+    "cleanTokens": [
+      "растительный",
+      "напиток",
+      "со",
+      "вкусом",
+      "клубники"
+    ],
+    "normalizedTokens": [
+      "растительный",
+      "напиток",
+      "со",
+      "вкусом",
+      "клубники",
+      "1%",
+      "1000 мл"
+    ],
+    "params": {
+      "volume": "1000 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "1%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "BioFoodLab Bite овсяное 1 л",
+    "cleanTokens": [
+      "biofoodlab",
+      "bite",
+      "овсяное"
+    ],
+    "normalizedTokens": [
+      "biofoodlab",
+      "bite",
+      "овсяное",
+      "1 л"
+    ],
+    "params": {
+      "volume": "1 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "BioFoodLab BITE растительное молоко гречичное 1.5% 1000 мл",
+    "cleanTokens": [
+      "biofoodlab",
+      "bite",
+      "гречичное"
+    ],
+    "normalizedTokens": [
+      "biofoodlab",
+      "bite",
+      "гречичное",
+      "1.5%",
+      "1000 мл"
+    ],
+    "params": {
+      "volume": "1000 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "1.5%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Bite растительное молоко с грецким орехом 1 л",
+    "cleanTokens": [
+      "bite",
+      "с",
+      "грецким",
+      "орехом"
+    ],
+    "normalizedTokens": [
+      "bite",
+      "с",
+      "грецким",
+      "орехом",
+      "1 л"
+    ],
+    "params": {
+      "volume": "1 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Bite растительный напиток шоколад 1000 мл",
+    "cleanTokens": [
+      "bite",
+      "растительный",
+      "напиток",
+      "шоколад"
+    ],
+    "normalizedTokens": [
+      "bite",
+      "растительный",
+      "напиток",
+      "шоколад",
+      "1000 мл"
+    ],
+    "params": {
+      "volume": "1000 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "BioFoodLab BITE растительное молоко кокос и рис 1.3% 1000 мл",
+    "cleanTokens": [
+      "biofoodlab",
+      "bite",
+      "кокос",
+      "и",
+      "рис"
+    ],
+    "normalizedTokens": [
+      "biofoodlab",
+      "bite",
+      "кокос",
+      "и",
+      "рис",
+      "1.3%",
+      "1000 мл"
+    ],
+    "params": {
+      "volume": "1000 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "1.3%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Bite растительный напиток кокос 1000 мл",
+    "cleanTokens": [
+      "bite",
+      "растительный",
+      "напиток",
+      "кокос"
+    ],
+    "normalizedTokens": [
+      "bite",
+      "растительный",
+      "напиток",
+      "кокос",
+      "1000 мл"
+    ],
+    "params": {
+      "volume": "1000 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Chaokoh Кокосовые сливки 22% 1000 мл",
+    "cleanTokens": [
+      "кокосовые",
+      "сливки"
+    ],
+    "normalizedTokens": [
+      "кокосовые",
+      "сливки",
+      "22%",
+      "1000 мл"
+    ],
+    "params": {
+      "volume": "1000 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "22%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "BioFoodLab BITE растительное молоко овсяное 1.5% 1000 мл",
+    "cleanTokens": [
+      "biofoodlab",
+      "bite",
+      "овсяное"
+    ],
+    "normalizedTokens": [
+      "biofoodlab",
+      "bite",
+      "овсяное",
+      "1.5%",
+      "1000 мл"
+    ],
+    "params": {
+      "volume": "1000 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "1.5%",
+      "age": null,
+      "stars": null
+    }
+  }
+]

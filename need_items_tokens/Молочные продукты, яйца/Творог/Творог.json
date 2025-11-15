@@ -1,0 +1,334 @@
+[
+  {
+    "original": "Эмиль творог крестьянский 5% 180 г",
+    "cleanTokens": [
+      "крестьянский"
+    ],
+    "normalizedTokens": [
+      "крестьянский",
+      "5%",
+      "180 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "180 г",
+      "count": null,
+      "pack": null,
+      "percent": "5%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мама Лама творог клубника+банан 3.8% 100 г",
+    "cleanTokens": [
+      "клубника+банан"
+    ],
+    "normalizedTokens": [
+      "клубника+банан",
+      "3.8%",
+      "100 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "100 г",
+      "count": null,
+      "pack": null,
+      "percent": "3.8%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Простоквашино творог мягкий 5% 200 г",
+    "cleanTokens": [
+      "мягкий"
+    ],
+    "normalizedTokens": [
+      "мягкий",
+      "5%",
+      "200 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "200 г",
+      "count": null,
+      "pack": null,
+      "percent": "5%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Простоквашино творог мягкий 2% 200 г",
+    "cleanTokens": [
+      "мягкий"
+    ],
+    "normalizedTokens": [
+      "мягкий",
+      "2%",
+      "200 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "200 г",
+      "count": null,
+      "pack": null,
+      "percent": "2%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мама Лама творог черника 3.8% 100 г",
+    "cleanTokens": [
+      "черника"
+    ],
+    "normalizedTokens": [
+      "черника",
+      "3.8%",
+      "100 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "100 г",
+      "count": null,
+      "pack": null,
+      "percent": "3.8%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мама Лама творог груша+персик 3.8% 100 г",
+    "cleanTokens": [
+      "груша+персик"
+    ],
+    "normalizedTokens": [
+      "груша+персик",
+      "3.8%",
+      "100 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "100 г",
+      "count": null,
+      "pack": null,
+      "percent": "3.8%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Astana-Өнім творог рассыпчатый 5% 500 г",
+    "cleanTokens": [
+      "рассыпчатый"
+    ],
+    "normalizedTokens": [
+      "рассыпчатый",
+      "5%",
+      "500 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "500 г",
+      "count": null,
+      "pack": null,
+      "percent": "5%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Карат творожный продукт с персиком 9% 100 г",
+    "cleanTokens": [
+      "творожный",
+      "продукт",
+      "с",
+      "персиком"
+    ],
+    "normalizedTokens": [
+      "творожный",
+      "продукт",
+      "с",
+      "персиком",
+      "9%",
+      "100 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "100 г",
+      "count": null,
+      "pack": null,
+      "percent": "9%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Простоквашино творог рассыпчатый 9% 200 г",
+    "cleanTokens": [
+      "рассыпчатый"
+    ],
+    "normalizedTokens": [
+      "рассыпчатый",
+      "9%",
+      "200 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "200 г",
+      "count": null,
+      "pack": null,
+      "percent": "9%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мама Лама творог манго 3.8% 100 г",
+    "cleanTokens": [
+      "манго"
+    ],
+    "normalizedTokens": [
+      "манго",
+      "3.8%",
+      "100 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "100 г",
+      "count": null,
+      "pack": null,
+      "percent": "3.8%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Молочный Бидончик творог рассыпчатый 5% 300 г",
+    "cleanTokens": [
+      "рассыпчатый"
+    ],
+    "normalizedTokens": [
+      "рассыпчатый",
+      "5%",
+      "300 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "300 г",
+      "count": null,
+      "pack": null,
+      "percent": "5%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мама Лама творог классический 4.5% 100 г",
+    "cleanTokens": [
+      "классический"
+    ],
+    "normalizedTokens": [
+      "классический",
+      "4.5%",
+      "100 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "100 г",
+      "count": null,
+      "pack": null,
+      "percent": "4.5%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Astana-Өнім творог рассыпчатый 9% 400 г",
+    "cleanTokens": [
+      "рассыпчатый"
+    ],
+    "normalizedTokens": [
+      "рассыпчатый",
+      "9%",
+      "400 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "400 г",
+      "count": null,
+      "pack": null,
+      "percent": "9%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Astana-Өнім творог рассыпчатый 5% 200 г",
+    "cleanTokens": [
+      "рассыпчатый"
+    ],
+    "normalizedTokens": [
+      "рассыпчатый",
+      "5%",
+      "200 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "200 г",
+      "count": null,
+      "pack": null,
+      "percent": "5%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Карат творожный продукт с вишней 9% 100 г",
+    "cleanTokens": [
+      "творожный",
+      "продукт",
+      "с",
+      "вишней"
+    ],
+    "normalizedTokens": [
+      "творожный",
+      "продукт",
+      "с",
+      "вишней",
+      "9%",
+      "100 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "100 г",
+      "count": null,
+      "pack": null,
+      "percent": "9%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Садовое творог рассыпчатый 5% 350 г",
+    "cleanTokens": [
+      "рассыпчатый"
+    ],
+    "normalizedTokens": [
+      "рассыпчатый",
+      "5%",
+      "350 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "350 г",
+      "count": null,
+      "pack": null,
+      "percent": "5%",
+      "age": null,
+      "stars": null
+    }
+  }
+]

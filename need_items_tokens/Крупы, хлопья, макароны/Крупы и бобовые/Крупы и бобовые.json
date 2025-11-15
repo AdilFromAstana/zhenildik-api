@@ -1,0 +1,4708 @@
+[
+  {
+    "original": "ЛИДЕР рис 3000 г",
+    "cleanTokens": [
+      "рис"
+    ],
+    "normalizedTokens": [
+      "рис",
+      "3000 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "3000 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "MAKFA пшено 800 г",
+    "cleanTokens": [
+      "пшено"
+    ],
+    "normalizedTokens": [
+      "пшено",
+      "800 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "800 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Пассим пшенная крупа 800 г",
+    "cleanTokens": [
+      "пшенная",
+      "крупа"
+    ],
+    "normalizedTokens": [
+      "пшенная",
+      "крупа",
+      "800 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "800 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "MAKFA кукурузная крупа 700 г",
+    "cleanTokens": [
+      "кукурузная",
+      "крупа"
+    ],
+    "normalizedTokens": [
+      "кукурузная",
+      "крупа",
+      "700 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "700 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Увелка гречневая крупа 400 г",
+    "cleanTokens": [
+      "гречневая",
+      "крупа"
+    ],
+    "normalizedTokens": [
+      "гречневая",
+      "крупа",
+      "400 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "400 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Увелка гречневая крупа 800 г",
+    "cleanTokens": [
+      "гречневая",
+      "крупа"
+    ],
+    "normalizedTokens": [
+      "гречневая",
+      "крупа",
+      "800 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "800 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Натуральная Кухня чечевица красная 700 г",
+    "cleanTokens": [
+      "чечевица",
+      "красная"
+    ],
+    "normalizedTokens": [
+      "чечевица",
+      "красная",
+      "700 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "700 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "MAKFA рис круглозерный 800 г",
+    "cleanTokens": [
+      "рис",
+      "круглозерный"
+    ],
+    "normalizedTokens": [
+      "рис",
+      "круглозерный",
+      "800 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "800 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Увелка манная крупа 700 г",
+    "cleanTokens": [
+      "манная",
+      "крупа"
+    ],
+    "normalizedTokens": [
+      "манная",
+      "крупа",
+      "700 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "700 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "MAKFA гречневая крупа экстра 400 г",
+    "cleanTokens": [
+      "гречневая",
+      "крупа",
+      "экстра"
+    ],
+    "normalizedTokens": [
+      "гречневая",
+      "крупа",
+      "экстра",
+      "400 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "400 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Султан манная крупа 650 г",
+    "cleanTokens": [
+      "манная",
+      "крупа"
+    ],
+    "normalizedTokens": [
+      "манная",
+      "крупа",
+      "650 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "650 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Пассим манная крупа 700 г",
+    "cleanTokens": [
+      "манная",
+      "крупа"
+    ],
+    "normalizedTokens": [
+      "манная",
+      "крупа",
+      "700 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "700 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "MAKFA манная крупа 700 г",
+    "cleanTokens": [
+      "манная",
+      "крупа"
+    ],
+    "normalizedTokens": [
+      "манная",
+      "крупа",
+      "700 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "700 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "ЦЕСНА гречневая крупа 700 г",
+    "cleanTokens": [
+      "гречневая",
+      "крупа"
+    ],
+    "normalizedTokens": [
+      "гречневая",
+      "крупа",
+      "700 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "700 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Увелка ячневая крупа 600 г",
+    "cleanTokens": [
+      "ячневая",
+      "крупа"
+    ],
+    "normalizedTokens": [
+      "ячневая",
+      "крупа",
+      "600 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "600 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Пассим рис круглозерный 800 г",
+    "cleanTokens": [
+      "рис",
+      "круглозерный"
+    ],
+    "normalizedTokens": [
+      "рис",
+      "круглозерный",
+      "800 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "800 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Натуральная Кухня рис Camolino 700 г",
+    "cleanTokens": [
+      "рис",
+      "camolino"
+    ],
+    "normalizedTokens": [
+      "рис",
+      "camolino",
+      "700 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "700 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "MAKFA горох колотый 800 г",
+    "cleanTokens": [
+      "горох",
+      "колотый"
+    ],
+    "normalizedTokens": [
+      "горох",
+      "колотый",
+      "800 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "800 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Ярмарка горох, чечевица 350 г",
+    "cleanTokens": [
+      "горох",
+      "чечевица"
+    ],
+    "normalizedTokens": [
+      "горох",
+      "чечевица",
+      "350 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "350 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "MAKFA перловая крупа 800 г",
+    "cleanTokens": [
+      "перловая",
+      "крупа"
+    ],
+    "normalizedTokens": [
+      "перловая",
+      "крупа",
+      "800 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "800 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "ЦЕСНА рис длиннозерный 700 г",
+    "cleanTokens": [
+      "рис",
+      "длиннозерный"
+    ],
+    "normalizedTokens": [
+      "рис",
+      "длиннозерный",
+      "700 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "700 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Ярмарка гречневая крупа 700 г",
+    "cleanTokens": [
+      "гречневая",
+      "крупа"
+    ],
+    "normalizedTokens": [
+      "гречневая",
+      "крупа",
+      "700 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "700 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Арнау рис элита 1000 г",
+    "cleanTokens": [
+      "рис",
+      "элита"
+    ],
+    "normalizedTokens": [
+      "рис",
+      "элита",
+      "1000 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "1000 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Султан рис круглозерный 700 г",
+    "cleanTokens": [
+      "рис",
+      "круглозерный"
+    ],
+    "normalizedTokens": [
+      "рис",
+      "круглозерный",
+      "700 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "700 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Bravolli нут 350 г",
+    "cleanTokens": [
+      "нут"
+    ],
+    "normalizedTokens": [
+      "нут",
+      "350 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "350 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Adal рис баракат 5000 г",
+    "cleanTokens": [
+      "рис",
+      "баракат"
+    ],
+    "normalizedTokens": [
+      "рис",
+      "баракат",
+      "5000 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "5000 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мир круп рис круглозерный 1500 г",
+    "cleanTokens": [
+      "рис",
+      "круглозерный"
+    ],
+    "normalizedTokens": [
+      "рис",
+      "круглозерный",
+      "1500 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "1500 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "ЦАРЬ манная крупа 800 г",
+    "cleanTokens": [
+      "манная",
+      "крупа"
+    ],
+    "normalizedTokens": [
+      "манная",
+      "крупа",
+      "800 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "800 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "MAKFA пшенная крупа 400 г",
+    "cleanTokens": [
+      "пшенная",
+      "крупа"
+    ],
+    "normalizedTokens": [
+      "пшенная",
+      "крупа",
+      "400 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "400 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Ярмарка булгур 5 пакетиков по 80 г",
+    "cleanTokens": [
+      "булгур",
+      "5",
+      "пакетиков",
+      "по"
+    ],
+    "normalizedTokens": [
+      "булгур",
+      "5",
+      "пакетиков",
+      "по",
+      "80 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "80 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Увелка рис длиннозерный 400 г",
+    "cleanTokens": [
+      "рис",
+      "длиннозерный"
+    ],
+    "normalizedTokens": [
+      "рис",
+      "длиннозерный",
+      "400 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "400 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Арнау горох 1000 г",
+    "cleanTokens": [
+      "горох"
+    ],
+    "normalizedTokens": [
+      "горох",
+      "1000 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "1000 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Гарнец кукурузная крупа манка 450 г",
+    "cleanTokens": [
+      "кукурузная",
+      "крупа",
+      "манка"
+    ],
+    "normalizedTokens": [
+      "кукурузная",
+      "крупа",
+      "манка",
+      "450 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "450 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Увелка пшеничная крупа 400 г",
+    "cleanTokens": [
+      "пшеничная",
+      "крупа"
+    ],
+    "normalizedTokens": [
+      "пшеничная",
+      "крупа",
+      "400 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "400 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Достык рис Элита 750 г",
+    "cleanTokens": [
+      "рис",
+      "элита"
+    ],
+    "normalizedTokens": [
+      "рис",
+      "элита",
+      "750 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "750 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Султан горох шлифованный 700 г",
+    "cleanTokens": [
+      "горох",
+      "шлифованный"
+    ],
+    "normalizedTokens": [
+      "горох",
+      "шлифованный",
+      "700 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "700 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Ярмарка чечевица красная 700 г",
+    "cleanTokens": [
+      "чечевица",
+      "красная"
+    ],
+    "normalizedTokens": [
+      "чечевица",
+      "красная",
+      "700 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "700 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "ЦЕСНА рис круглозерный 700 г",
+    "cleanTokens": [
+      "рис",
+      "круглозерный"
+    ],
+    "normalizedTokens": [
+      "рис",
+      "круглозерный",
+      "700 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "700 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "MAKFA рис круглозерный 400 г",
+    "cleanTokens": [
+      "рис",
+      "круглозерный"
+    ],
+    "normalizedTokens": [
+      "рис",
+      "круглозерный",
+      "400 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "400 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Увелка булгур из твердых сортов пшеницы 450 г",
+    "cleanTokens": [
+      "булгур",
+      "из",
+      "твердых",
+      "сортов",
+      "пшеницы"
+    ],
+    "normalizedTokens": [
+      "булгур",
+      "из",
+      "твердых",
+      "сортов",
+      "пшеницы",
+      "450 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "450 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Увелка пшенная крупа 400 г",
+    "cleanTokens": [
+      "пшенная",
+      "крупа"
+    ],
+    "normalizedTokens": [
+      "пшенная",
+      "крупа",
+      "400 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "400 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Bravolli маш 350 г",
+    "cleanTokens": [
+      "маш"
+    ],
+    "normalizedTokens": [
+      "маш",
+      "350 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "350 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Увелка рис круглозерный 400 г",
+    "cleanTokens": [
+      "рис",
+      "круглозерный"
+    ],
+    "normalizedTokens": [
+      "рис",
+      "круглозерный",
+      "400 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "400 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Натуральная Кухня фасоль красная 700 г",
+    "cleanTokens": [
+      "фасоль",
+      "красная"
+    ],
+    "normalizedTokens": [
+      "фасоль",
+      "красная",
+      "700 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "700 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Увелка пшенная крупа шлифованное 800 г",
+    "cleanTokens": [
+      "пшенная",
+      "крупа",
+      "шлифованное"
+    ],
+    "normalizedTokens": [
+      "пшенная",
+      "крупа",
+      "шлифованное",
+      "800 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "800 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мир круп манная крупа 700 г",
+    "cleanTokens": [
+      "манная",
+      "крупа"
+    ],
+    "normalizedTokens": [
+      "манная",
+      "крупа",
+      "700 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "700 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Bravolli булгур 350 г",
+    "cleanTokens": [
+      "булгур"
+    ],
+    "normalizedTokens": [
+      "булгур",
+      "350 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "350 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Пассим рис длинозерный Азиатский 800 г",
+    "cleanTokens": [
+      "рис",
+      "длинозерный",
+      "азиатский"
+    ],
+    "normalizedTokens": [
+      "рис",
+      "длинозерный",
+      "азиатский",
+      "800 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "800 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Увелка пшеничная крупа 650 г",
+    "cleanTokens": [
+      "пшеничная",
+      "крупа"
+    ],
+    "normalizedTokens": [
+      "пшеничная",
+      "крупа",
+      "650 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "650 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мир круп рис Баракат 5000 г",
+    "cleanTokens": [
+      "рис",
+      "баракат"
+    ],
+    "normalizedTokens": [
+      "рис",
+      "баракат",
+      "5000 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "5000 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Султан пшенная крупа шлифованное 700 г",
+    "cleanTokens": [
+      "пшенная",
+      "крупа",
+      "шлифованное"
+    ],
+    "normalizedTokens": [
+      "пшенная",
+      "крупа",
+      "шлифованное",
+      "700 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "700 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Рис Мир Круп Баракат 800 г",
+    "cleanTokens": [
+      "рис",
+      "баракат"
+    ],
+    "normalizedTokens": [
+      "рис",
+      "баракат",
+      "800 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "800 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Султан перловая крупа 700 г",
+    "cleanTokens": [
+      "перловая",
+      "крупа"
+    ],
+    "normalizedTokens": [
+      "перловая",
+      "крупа",
+      "700 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "700 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Увелка кускус из твердых сортов пшеницы 400 г",
+    "cleanTokens": [
+      "кускус",
+      "из",
+      "твердых",
+      "сортов",
+      "пшеницы"
+    ],
+    "normalizedTokens": [
+      "кускус",
+      "из",
+      "твердых",
+      "сортов",
+      "пшеницы",
+      "400 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "400 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "MAKFA рис длиннозерный 800 г",
+    "cleanTokens": [
+      "рис",
+      "длиннозерный"
+    ],
+    "normalizedTokens": [
+      "рис",
+      "длиннозерный",
+      "800 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "800 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Увелка перловая крупа 400 г",
+    "cleanTokens": [
+      "перловая",
+      "крупа"
+    ],
+    "normalizedTokens": [
+      "перловая",
+      "крупа",
+      "400 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "400 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Bravolli кукурузная крупа 300 г",
+    "cleanTokens": [
+      "кукурузная",
+      "крупа"
+    ],
+    "normalizedTokens": [
+      "кукурузная",
+      "крупа",
+      "300 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "300 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "MAKFA кукурузная крупа 400 г",
+    "cleanTokens": [
+      "кукурузная",
+      "крупа"
+    ],
+    "normalizedTokens": [
+      "кукурузная",
+      "крупа",
+      "400 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "400 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Bravolli чечевица футбол красная 350 г",
+    "cleanTokens": [
+      "чечевица",
+      "футбол",
+      "красная"
+    ],
+    "normalizedTokens": [
+      "чечевица",
+      "футбол",
+      "красная",
+      "350 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "350 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Увелка рис длиннозерный обработанный паром 400 г",
+    "cleanTokens": [
+      "рис",
+      "длиннозерный",
+      "обработанный",
+      "паром"
+    ],
+    "normalizedTokens": [
+      "рис",
+      "длиннозерный",
+      "обработанный",
+      "паром",
+      "400 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "400 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мир круп кукурузная крупа 700 г",
+    "cleanTokens": [
+      "кукурузная",
+      "крупа"
+    ],
+    "normalizedTokens": [
+      "кукурузная",
+      "крупа",
+      "700 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "700 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Ярмарка горох колотый 700 г",
+    "cleanTokens": [
+      "горох",
+      "колотый"
+    ],
+    "normalizedTokens": [
+      "горох",
+      "колотый",
+      "700 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "700 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "MAKFA рис длиннозерный 400 г",
+    "cleanTokens": [
+      "рис",
+      "длиннозерный"
+    ],
+    "normalizedTokens": [
+      "рис",
+      "длиннозерный",
+      "400 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "400 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Ярмарка манная крупа 600 г",
+    "cleanTokens": [
+      "манная",
+      "крупа"
+    ],
+    "normalizedTokens": [
+      "манная",
+      "крупа",
+      "600 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "600 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мир круп пшенная крупа 800 г",
+    "cleanTokens": [
+      "пшенная",
+      "крупа"
+    ],
+    "normalizedTokens": [
+      "пшенная",
+      "крупа",
+      "800 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "800 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Увелка кукурузная крупа 750 г",
+    "cleanTokens": [
+      "кукурузная",
+      "крупа"
+    ],
+    "normalizedTokens": [
+      "кукурузная",
+      "крупа",
+      "750 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "750 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "ЦЕСНА пшенная крупа 700 г",
+    "cleanTokens": [
+      "пшенная",
+      "крупа"
+    ],
+    "normalizedTokens": [
+      "пшенная",
+      "крупа",
+      "700 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "700 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Bravolli кускус 350 г",
+    "cleanTokens": [
+      "кускус"
+    ],
+    "normalizedTokens": [
+      "кускус",
+      "350 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "350 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Ярмарка рис круглозерный 700 г",
+    "cleanTokens": [
+      "рис",
+      "круглозерный"
+    ],
+    "normalizedTokens": [
+      "рис",
+      "круглозерный",
+      "700 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "700 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Увелка рис круглозерный 800 г",
+    "cleanTokens": [
+      "рис",
+      "круглозерный"
+    ],
+    "normalizedTokens": [
+      "рис",
+      "круглозерный",
+      "800 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "800 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Увелка рис пропаренный 800 г",
+    "cleanTokens": [
+      "рис",
+      "пропаренный"
+    ],
+    "normalizedTokens": [
+      "рис",
+      "пропаренный",
+      "800 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "800 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Увелка рис длиннозерный 800 г",
+    "cleanTokens": [
+      "рис",
+      "длиннозерный"
+    ],
+    "normalizedTokens": [
+      "рис",
+      "длиннозерный",
+      "800 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "800 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мир круп пшеничная крупа 700 г",
+    "cleanTokens": [
+      "пшеничная",
+      "крупа"
+    ],
+    "normalizedTokens": [
+      "пшеничная",
+      "крупа",
+      "700 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "700 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Пассим горох колотый 800 г",
+    "cleanTokens": [
+      "горох",
+      "колотый"
+    ],
+    "normalizedTokens": [
+      "горох",
+      "колотый",
+      "800 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "800 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "MAKFA рис обработанный паром 800 г",
+    "cleanTokens": [
+      "рис",
+      "обработанный",
+      "паром"
+    ],
+    "normalizedTokens": [
+      "рис",
+      "обработанный",
+      "паром",
+      "800 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "800 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Bravolli чечевица красная 350 г",
+    "cleanTokens": [
+      "чечевица",
+      "красная"
+    ],
+    "normalizedTokens": [
+      "чечевица",
+      "красная",
+      "350 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "350 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "MAKFA перловая крупа 400 г",
+    "cleanTokens": [
+      "перловая",
+      "крупа"
+    ],
+    "normalizedTokens": [
+      "перловая",
+      "крупа",
+      "400 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "400 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Натуральная Кухня манная крупа 700 г",
+    "cleanTokens": [
+      "манная",
+      "крупа"
+    ],
+    "normalizedTokens": [
+      "манная",
+      "крупа",
+      "700 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "700 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Увелка горох колотый 800 г",
+    "cleanTokens": [
+      "горох",
+      "колотый"
+    ],
+    "normalizedTokens": [
+      "горох",
+      "колотый",
+      "800 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "800 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "ЦЕСНА перловая крупа 700 г",
+    "cleanTokens": [
+      "перловая",
+      "крупа"
+    ],
+    "normalizedTokens": [
+      "перловая",
+      "крупа",
+      "700 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "700 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Пассим рис пропаренный 800 г",
+    "cleanTokens": [
+      "рис",
+      "пропаренный"
+    ],
+    "normalizedTokens": [
+      "рис",
+      "пропаренный",
+      "800 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "800 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Абзал и К рис Камолино янтарь шлифованный 3000 г",
+    "cleanTokens": [
+      "абзал",
+      "к",
+      "рис",
+      "камолино",
+      "янтарь",
+      "шлифованный"
+    ],
+    "normalizedTokens": [
+      "абзал",
+      "к",
+      "рис",
+      "камолино",
+      "янтарь",
+      "шлифованный",
+      "3000 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "3000 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Увелка чечевица зеленая 450 г",
+    "cleanTokens": [
+      "чечевица",
+      "зеленая"
+    ],
+    "normalizedTokens": [
+      "чечевица",
+      "зеленая",
+      "450 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "450 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мир круп рис длиннозерный 800 г",
+    "cleanTokens": [
+      "рис",
+      "длиннозерный"
+    ],
+    "normalizedTokens": [
+      "рис",
+      "длиннозерный",
+      "800 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "800 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "КЕРУЕН пшенная крупа 800 г",
+    "cleanTokens": [
+      "пшенная",
+      "крупа"
+    ],
+    "normalizedTokens": [
+      "пшенная",
+      "крупа",
+      "800 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "800 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Пассим чечевица Русская 700 г",
+    "cleanTokens": [
+      "чечевица",
+      "русская"
+    ],
+    "normalizedTokens": [
+      "чечевица",
+      "русская",
+      "700 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "700 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "MAKFA рис обработанный паром 400 г",
+    "cleanTokens": [
+      "рис",
+      "обработанный",
+      "паром"
+    ],
+    "normalizedTokens": [
+      "рис",
+      "обработанный",
+      "паром",
+      "400 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "400 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Добрая крупа горох 800 г",
+    "cleanTokens": [
+      "горох"
+    ],
+    "normalizedTokens": [
+      "горох",
+      "800 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "800 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Султан рис длиннозерный 700 г",
+    "cleanTokens": [
+      "рис",
+      "длиннозерный"
+    ],
+    "normalizedTokens": [
+      "рис",
+      "длиннозерный",
+      "700 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "700 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мир круп перловая крупа 800 г",
+    "cleanTokens": [
+      "перловая",
+      "крупа"
+    ],
+    "normalizedTokens": [
+      "перловая",
+      "крупа",
+      "800 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "800 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Yelli чечевица 250 г",
+    "cleanTokens": [
+      "чечевица"
+    ],
+    "normalizedTokens": [
+      "чечевица",
+      "250 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "250 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Yelli суп Турецкий с булгуром 250 г",
+    "cleanTokens": [
+      "суп",
+      "турецкий",
+      "с",
+      "булгуром"
+    ],
+    "normalizedTokens": [
+      "суп",
+      "турецкий",
+      "с",
+      "булгуром",
+      "250 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "250 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Увелка перловая крупа 800 г",
+    "cleanTokens": [
+      "перловая",
+      "крупа"
+    ],
+    "normalizedTokens": [
+      "перловая",
+      "крупа",
+      "800 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "800 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Ярмарка рис длиннозерный 700 г",
+    "cleanTokens": [
+      "рис",
+      "длиннозерный"
+    ],
+    "normalizedTokens": [
+      "рис",
+      "длиннозерный",
+      "700 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "700 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Султан рис обработанный паром 700 г",
+    "cleanTokens": [
+      "рис",
+      "обработанный",
+      "паром"
+    ],
+    "normalizedTokens": [
+      "рис",
+      "обработанный",
+      "паром",
+      "700 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "700 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Yelli суп детский буковки 80 г",
+    "cleanTokens": [
+      "суп",
+      "детский",
+      "буковки"
+    ],
+    "normalizedTokens": [
+      "суп",
+      "детский",
+      "буковки",
+      "80 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "80 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Ярмарка чечевица масурдал 250 г",
+    "cleanTokens": [
+      "чечевица",
+      "масурдал"
+    ],
+    "normalizedTokens": [
+      "чечевица",
+      "масурдал",
+      "250 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "250 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Увелка чечевица зеленая 400 г",
+    "cleanTokens": [
+      "чечевица",
+      "зеленая"
+    ],
+    "normalizedTokens": [
+      "чечевица",
+      "зеленая",
+      "400 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "400 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Казахстан рис лазер",
+    "cleanTokens": [
+      "рис",
+      "лазер"
+    ],
+    "normalizedTokens": [
+      "рис",
+      "лазер"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Пассим пшенная крупа 500 г",
+    "cleanTokens": [
+      "пшенная",
+      "крупа"
+    ],
+    "normalizedTokens": [
+      "пшенная",
+      "крупа",
+      "500 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "500 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "КЕРУЕН рис круглозерный 800 г",
+    "cleanTokens": [
+      "рис",
+      "круглозерный"
+    ],
+    "normalizedTokens": [
+      "рис",
+      "круглозерный",
+      "800 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "800 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Образ Жизни гречневая крупа зеленая 500 г",
+    "cleanTokens": [
+      "гречневая",
+      "крупа",
+      "зеленая"
+    ],
+    "normalizedTokens": [
+      "гречневая",
+      "крупа",
+      "зеленая",
+      "500 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "500 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Байдала рис шлифованный 5000 г",
+    "cleanTokens": [
+      "рис",
+      "шлифованный"
+    ],
+    "normalizedTokens": [
+      "рис",
+      "шлифованный",
+      "5000 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "5000 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "КЕРУЕН перловая 700 г",
+    "cleanTokens": [
+      "перловая"
+    ],
+    "normalizedTokens": [
+      "перловая",
+      "700 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "700 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Пассим рис длиннозерный азиатский 500 г",
+    "cleanTokens": [
+      "рис",
+      "длиннозерный",
+      "азиатский"
+    ],
+    "normalizedTokens": [
+      "рис",
+      "длиннозерный",
+      "азиатский",
+      "500 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "500 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Bravolli смесь 4 риса 350 г",
+    "cleanTokens": [
+      "смесь",
+      "4",
+      "риса"
+    ],
+    "normalizedTokens": [
+      "смесь",
+      "4",
+      "риса",
+      "350 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "350 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "ЭкоПак рис баракат 5000 г",
+    "cleanTokens": [
+      "рис",
+      "баракат"
+    ],
+    "normalizedTokens": [
+      "рис",
+      "баракат",
+      "5000 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "5000 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Ярмарка рис пропаренный 700 г",
+    "cleanTokens": [
+      "рис",
+      "пропаренный"
+    ],
+    "normalizedTokens": [
+      "рис",
+      "пропаренный",
+      "700 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "700 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Добрая крупа кукурузная крупа 700 г",
+    "cleanTokens": [
+      "кукурузная",
+      "крупа"
+    ],
+    "normalizedTokens": [
+      "кукурузная",
+      "крупа",
+      "700 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "700 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Besta рис басмати 800 г",
+    "cleanTokens": [
+      "рис",
+      "басмати"
+    ],
+    "normalizedTokens": [
+      "рис",
+      "басмати",
+      "800 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "800 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Leader рис камолино 3000 г",
+    "cleanTokens": [
+      "рис",
+      "камолино"
+    ],
+    "normalizedTokens": [
+      "рис",
+      "камолино",
+      "3000 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "3000 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мир круп рис круглозерный 5000 г",
+    "cleanTokens": [
+      "рис",
+      "круглозерный"
+    ],
+    "normalizedTokens": [
+      "рис",
+      "круглозерный",
+      "5000 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "5000 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Добрая крупа манная крупа 700 г",
+    "cleanTokens": [
+      "манная",
+      "крупа"
+    ],
+    "normalizedTokens": [
+      "манная",
+      "крупа",
+      "700 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "700 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Увелка кукурузная крупа 400 г",
+    "cleanTokens": [
+      "кукурузная",
+      "крупа"
+    ],
+    "normalizedTokens": [
+      "кукурузная",
+      "крупа",
+      "400 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "400 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Yelli горох с карри 250 г",
+    "cleanTokens": [
+      "горох",
+      "с",
+      "карри"
+    ],
+    "normalizedTokens": [
+      "горох",
+      "с",
+      "карри",
+      "250 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "250 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Yelli кускус с ароматными травами 250 г",
+    "cleanTokens": [
+      "кускус",
+      "с",
+      "ароматными",
+      "травами"
+    ],
+    "normalizedTokens": [
+      "кускус",
+      "с",
+      "ароматными",
+      "травами",
+      "250 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "250 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Bravolli гречневая крупа зеленая 350 г",
+    "cleanTokens": [
+      "гречневая",
+      "крупа",
+      "зеленая"
+    ],
+    "normalizedTokens": [
+      "гречневая",
+      "крупа",
+      "зеленая",
+      "350 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "350 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Bravolli рис экстрадлинный для плова 350 г",
+    "cleanTokens": [
+      "рис",
+      "экстрадлинный",
+      "для",
+      "плова"
+    ],
+    "normalizedTokens": [
+      "рис",
+      "экстрадлинный",
+      "для",
+      "плова",
+      "350 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "350 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Гречневая крупа 1000 г",
+    "cleanTokens": [
+      "гречневая",
+      "крупа"
+    ],
+    "normalizedTokens": [
+      "гречневая",
+      "крупа",
+      "1000 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "1000 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Пассим гречневая крупа 500 г",
+    "cleanTokens": [
+      "гречневая",
+      "крупа"
+    ],
+    "normalizedTokens": [
+      "гречневая",
+      "крупа",
+      "500 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "500 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Yelli детский супчик гороховый 100 г",
+    "cleanTokens": [
+      "детский",
+      "супчик",
+      "гороховый"
+    ],
+    "normalizedTokens": [
+      "детский",
+      "супчик",
+      "гороховый",
+      "100 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "100 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Эндакси булгур 500 г",
+    "cleanTokens": [
+      "булгур"
+    ],
+    "normalizedTokens": [
+      "булгур",
+      "500 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "500 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Гарнец гречневая крупа манка 450 г",
+    "cleanTokens": [
+      "гречневая",
+      "крупа",
+      "манка"
+    ],
+    "normalizedTokens": [
+      "гречневая",
+      "крупа",
+      "манка",
+      "450 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "450 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Пассим перловая крупа 500 г",
+    "cleanTokens": [
+      "перловая",
+      "крупа"
+    ],
+    "normalizedTokens": [
+      "перловая",
+      "крупа",
+      "500 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "500 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "TopLife гречка зеленая 300 г",
+    "cleanTokens": [
+      "гречка",
+      "зеленая"
+    ],
+    "normalizedTokens": [
+      "гречка",
+      "зеленая",
+      "300 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "300 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Дихан рис баракат 4800 г",
+    "cleanTokens": [
+      "рис",
+      "баракат"
+    ],
+    "normalizedTokens": [
+      "рис",
+      "баракат",
+      "4800 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "4800 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мистраль рис жасмин 5000 г",
+    "cleanTokens": [
+      "рис",
+      "жасмин"
+    ],
+    "normalizedTokens": [
+      "рис",
+      "жасмин",
+      "5000 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "5000 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "100 пудов пшенная крупа 1000 г",
+    "cleanTokens": [
+      "пшенная",
+      "крупа"
+    ],
+    "normalizedTokens": [
+      "пшенная",
+      "крупа",
+      "1000 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "1000 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мистраль чечевица персидская 450 г",
+    "cleanTokens": [
+      "чечевица",
+      "персидская"
+    ],
+    "normalizedTokens": [
+      "чечевица",
+      "персидская",
+      "450 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "450 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "100 пудов кукурузная крупа 1000 г",
+    "cleanTokens": [
+      "кукурузная",
+      "крупа"
+    ],
+    "normalizedTokens": [
+      "кукурузная",
+      "крупа",
+      "1000 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "1000 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мистраль киноа 500 г",
+    "cleanTokens": [
+      "киноа"
+    ],
+    "normalizedTokens": [
+      "киноа",
+      "500 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "500 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мистраль нут 450 г",
+    "cleanTokens": [
+      "нут"
+    ],
+    "normalizedTokens": [
+      "нут",
+      "450 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "450 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мистраль фасоль жасмин 450 г",
+    "cleanTokens": [
+      "фасоль",
+      "жасмин"
+    ],
+    "normalizedTokens": [
+      "фасоль",
+      "жасмин",
+      "450 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "450 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "100 пудов манная крупа 1000 г",
+    "cleanTokens": [
+      "манная",
+      "крупа"
+    ],
+    "normalizedTokens": [
+      "манная",
+      "крупа",
+      "1000 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "1000 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мистраль фасоль пинто 450 г",
+    "cleanTokens": [
+      "фасоль",
+      "пинто"
+    ],
+    "normalizedTokens": [
+      "фасоль",
+      "пинто",
+      "450 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "450 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Здороведа рис длиннозерный 250 г",
+    "cleanTokens": [
+      "рис",
+      "длиннозерный"
+    ],
+    "normalizedTokens": [
+      "рис",
+      "длиннозерный",
+      "250 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "250 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Asia Rice рис басмати 800 г",
+    "cleanTokens": [
+      "рис",
+      "басмати"
+    ],
+    "normalizedTokens": [
+      "рис",
+      "басмати",
+      "800 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "800 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Эко Дом-Павлодар пшенная крупа 250 г",
+    "cleanTokens": [
+      "пшенная",
+      "крупа"
+    ],
+    "normalizedTokens": [
+      "пшенная",
+      "крупа",
+      "250 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "250 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Asia Rice рис черный 800 г",
+    "cleanTokens": [
+      "рис",
+      "черный"
+    ],
+    "normalizedTokens": [
+      "рис",
+      "черный",
+      "800 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "800 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Asia Rice рис бурый 800 г",
+    "cleanTokens": [
+      "рис",
+      "бурый"
+    ],
+    "normalizedTokens": [
+      "рис",
+      "бурый",
+      "800 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "800 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Дихан рис лазер 4800 г",
+    "cleanTokens": [
+      "рис",
+      "лазер"
+    ],
+    "normalizedTokens": [
+      "рис",
+      "лазер",
+      "4800 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "4800 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Гарнец рис рисовая манка 450 г",
+    "cleanTokens": [
+      "рис",
+      "рисовая",
+      "манка"
+    ],
+    "normalizedTokens": [
+      "рис",
+      "рисовая",
+      "манка",
+      "450 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "450 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Дихан рис камолино 4800 г",
+    "cleanTokens": [
+      "рис",
+      "камолино"
+    ],
+    "normalizedTokens": [
+      "рис",
+      "камолино",
+      "4800 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "4800 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мистраль горох колотый 900 г",
+    "cleanTokens": [
+      "горох",
+      "колотый"
+    ],
+    "normalizedTokens": [
+      "горох",
+      "колотый",
+      "900 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "900 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мистраль гречневая крупа 900 г",
+    "cleanTokens": [
+      "гречневая",
+      "крупа"
+    ],
+    "normalizedTokens": [
+      "гречневая",
+      "крупа",
+      "900 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "900 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мистраль гречневая крупа зеленая 450 г",
+    "cleanTokens": [
+      "гречневая",
+      "крупа",
+      "зеленая"
+    ],
+    "normalizedTokens": [
+      "гречневая",
+      "крупа",
+      "зеленая",
+      "450 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "450 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мистраль рис жасмин red 500 г",
+    "cleanTokens": [
+      "рис",
+      "жасмин",
+      "red"
+    ],
+    "normalizedTokens": [
+      "рис",
+      "жасмин",
+      "red",
+      "500 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "500 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мистраль рис Арборио среднезерный 500 г",
+    "cleanTokens": [
+      "рис",
+      "арборио",
+      "среднезерный"
+    ],
+    "normalizedTokens": [
+      "рис",
+      "арборио",
+      "среднезерный",
+      "500 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "500 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мистраль кускус 450 г",
+    "cleanTokens": [
+      "кускус"
+    ],
+    "normalizedTokens": [
+      "кускус",
+      "450 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "450 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мистраль булгур 500 г",
+    "cleanTokens": [
+      "булгур"
+    ],
+    "normalizedTokens": [
+      "булгур",
+      "500 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "500 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мистраль Фитнес эксперт рис 450 г",
+    "cleanTokens": [
+      "фитнес",
+      "эксперт",
+      "рис"
+    ],
+    "normalizedTokens": [
+      "фитнес",
+      "эксперт",
+      "рис",
+      "450 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "450 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "нут 1000 гр",
+    "cleanTokens": [
+      "нут"
+    ],
+    "normalizedTokens": [
+      "нут",
+      "1000 гр"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "1000 гр",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Ярмарка рис круглозерный 400 г",
+    "cleanTokens": [
+      "рис",
+      "круглозерный"
+    ],
+    "normalizedTokens": [
+      "рис",
+      "круглозерный",
+      "400 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "400 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "TopLife киноа триколор премиум 300 г",
+    "cleanTokens": [
+      "киноа",
+      "триколор",
+      "премиум"
+    ],
+    "normalizedTokens": [
+      "киноа",
+      "триколор",
+      "премиум",
+      "300 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "300 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "#markaOne маш 1000 г",
+    "cleanTokens": [
+      "маш"
+    ],
+    "normalizedTokens": [
+      "маш",
+      "1000 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "1000 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Казахстан фасоль красная 1000 г",
+    "cleanTokens": [
+      "фасоль",
+      "красная"
+    ],
+    "normalizedTokens": [
+      "фасоль",
+      "красная",
+      "1000 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "1000 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мистраль гречневая крупа 2000 г",
+    "cleanTokens": [
+      "гречневая",
+      "крупа"
+    ],
+    "normalizedTokens": [
+      "гречневая",
+      "крупа",
+      "2000 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "2000 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мистраль рис круглозерный Кубань 900 г",
+    "cleanTokens": [
+      "рис",
+      "круглозерный",
+      "кубань"
+    ],
+    "normalizedTokens": [
+      "рис",
+      "круглозерный",
+      "кубань",
+      "900 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "900 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Най-Мир рис камолино 25 кг",
+    "cleanTokens": [
+      "рис",
+      "камолино"
+    ],
+    "normalizedTokens": [
+      "рис",
+      "камолино",
+      "25 кг"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "25 кг",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мистраль рис басмати 500 г",
+    "cleanTokens": [
+      "рис",
+      "басмати"
+    ],
+    "normalizedTokens": [
+      "рис",
+      "басмати",
+      "500 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "500 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Asia Rice рис-микс диетический 800 г",
+    "cleanTokens": [
+      "рис-микс",
+      "диетический"
+    ],
+    "normalizedTokens": [
+      "рис-микс",
+      "диетический",
+      "800 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "800 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мистраль рис для плова традиционного 900 г",
+    "cleanTokens": [
+      "рис",
+      "для",
+      "плова",
+      "традиционного"
+    ],
+    "normalizedTokens": [
+      "рис",
+      "для",
+      "плова",
+      "традиционного",
+      "900 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "900 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "ЛИДЕР рис 5000 г",
+    "cleanTokens": [
+      "рис"
+    ],
+    "normalizedTokens": [
+      "рис",
+      "5000 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "5000 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Най-Мир рис лидер 25 кг",
+    "cleanTokens": [
+      "рис"
+    ],
+    "normalizedTokens": [
+      "рис",
+      "25 кг"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "25 кг",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Sawat-D рис тайский черный 1000 г",
+    "cleanTokens": [
+      "рис",
+      "тайский",
+      "черный"
+    ],
+    "normalizedTokens": [
+      "рис",
+      "тайский",
+      "черный",
+      "1000 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "1000 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Asia Rice рис красный 800 г",
+    "cleanTokens": [
+      "рис",
+      "красный"
+    ],
+    "normalizedTokens": [
+      "рис",
+      "красный",
+      "800 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "800 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "#markaOne горох 1000 г",
+    "cleanTokens": [
+      "горох"
+    ],
+    "normalizedTokens": [
+      "горох",
+      "1000 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "1000 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "TopLife рис красный 300 г",
+    "cleanTokens": [
+      "рис",
+      "красный"
+    ],
+    "normalizedTokens": [
+      "рис",
+      "красный",
+      "300 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "300 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Овсяная крупа 1000 г",
+    "cleanTokens": [
+      "овсяная",
+      "крупа"
+    ],
+    "normalizedTokens": [
+      "овсяная",
+      "крупа",
+      "1000 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "1000 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "#markaOne чечевица 1000 г",
+    "cleanTokens": [
+      "чечевица"
+    ],
+    "normalizedTokens": [
+      "чечевица",
+      "1000 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "1000 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "AROY-D рис тайский жасмин 4500 г",
+    "cleanTokens": [
+      "рис",
+      "тайский",
+      "жасмин"
+    ],
+    "normalizedTokens": [
+      "рис",
+      "тайский",
+      "жасмин",
+      "4500 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "4500 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Байдала рис шлифованный 25 кг",
+    "cleanTokens": [
+      "рис",
+      "шлифованный"
+    ],
+    "normalizedTokens": [
+      "рис",
+      "шлифованный",
+      "25 кг"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "25 кг",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мир круп рис 1700 г",
+    "cleanTokens": [
+      "рис"
+    ],
+    "normalizedTokens": [
+      "рис",
+      "1700 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "1700 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Ottogi Cooked Rice Five Grains рис 210 г",
+    "cleanTokens": [
+      "cooked",
+      "rice",
+      "five",
+      "grains",
+      "рис"
+    ],
+    "normalizedTokens": [
+      "cooked",
+      "rice",
+      "five",
+      "grains",
+      "рис",
+      "210 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "210 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Asia Rice рис для суши 800 г",
+    "cleanTokens": [
+      "рис",
+      "для",
+      "суши"
+    ],
+    "normalizedTokens": [
+      "рис",
+      "для",
+      "суши",
+      "800 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "800 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Asia Rice рис для суши 800 г",
+    "cleanTokens": [
+      "рис",
+      "для",
+      "суши"
+    ],
+    "normalizedTokens": [
+      "рис",
+      "для",
+      "суши",
+      "800 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "800 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Asia Rice красный рис 800 г",
+    "cleanTokens": [
+      "красный",
+      "рис"
+    ],
+    "normalizedTokens": [
+      "красный",
+      "рис",
+      "800 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "800 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Ottogi рис Cooked Rice Sputed Brown 210 г",
+    "cleanTokens": [
+      "рис",
+      "cooked",
+      "rice",
+      "sputed",
+      "brown"
+    ],
+    "normalizedTokens": [
+      "рис",
+      "cooked",
+      "rice",
+      "sputed",
+      "brown",
+      "210 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "210 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Пассим горох 500 г",
+    "cleanTokens": [
+      "горох"
+    ],
+    "normalizedTokens": [
+      "горох",
+      "500 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "500 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Asia Rice черный рис 800 г",
+    "cleanTokens": [
+      "черный",
+      "рис"
+    ],
+    "normalizedTokens": [
+      "черный",
+      "рис",
+      "800 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "800 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "DUNAR рис Festiva басмати 500 г",
+    "cleanTokens": [
+      "рис",
+      "festiva",
+      "басмати"
+    ],
+    "normalizedTokens": [
+      "рис",
+      "festiva",
+      "басмати",
+      "500 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "500 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Эндакси киноа черное 450 г",
+    "cleanTokens": [
+      "киноа",
+      "черное"
+    ],
+    "normalizedTokens": [
+      "киноа",
+      "черное",
+      "450 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "450 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Эндакси киноа красное 450 г",
+    "cleanTokens": [
+      "киноа",
+      "красное"
+    ],
+    "normalizedTokens": [
+      "киноа",
+      "красное",
+      "450 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "450 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "ЭкоДом пшеничная крупа бидай 250 г",
+    "cleanTokens": [
+      "пшеничная",
+      "крупа",
+      "бидай"
+    ],
+    "normalizedTokens": [
+      "пшеничная",
+      "крупа",
+      "бидай",
+      "250 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "250 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Дихан рис красный 400 г",
+    "cleanTokens": [
+      "рис",
+      "красный"
+    ],
+    "normalizedTokens": [
+      "рис",
+      "красный",
+      "400 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "400 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Asia Rice рис для плова Лазер 800 г",
+    "cleanTokens": [
+      "рис",
+      "для",
+      "плова",
+      "лазер"
+    ],
+    "normalizedTokens": [
+      "рис",
+      "для",
+      "плова",
+      "лазер",
+      "800 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "800 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Дихан рис черный 400 г",
+    "cleanTokens": [
+      "рис",
+      "черный"
+    ],
+    "normalizedTokens": [
+      "рис",
+      "черный",
+      "400 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "400 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Дихан рис лазер 3 упаковки по 800 г",
+    "cleanTokens": [
+      "рис",
+      "лазер"
+    ],
+    "normalizedTokens": [
+      "рис",
+      "лазер",
+      "3 упаковки по 800 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": null,
+      "pack": {
+        "packs": 3,
+        "perPack": 800,
+        "unit": "г"
+      },
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "TopLife рис черный 300 г",
+    "cleanTokens": [
+      "рис",
+      "черный"
+    ],
+    "normalizedTokens": [
+      "рис",
+      "черный",
+      "300 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "300 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Дихан рис микс 400 г",
+    "cleanTokens": [
+      "рис",
+      "микс"
+    ],
+    "normalizedTokens": [
+      "рис",
+      "микс",
+      "400 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "400 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Казахстан перловая крупа",
+    "cleanTokens": [
+      "перловая",
+      "крупа"
+    ],
+    "normalizedTokens": [
+      "перловая",
+      "крупа"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Дихан рис баракат 3 упаковки по 800 г",
+    "cleanTokens": [
+      "рис",
+      "баракат"
+    ],
+    "normalizedTokens": [
+      "рис",
+      "баракат",
+      "3 упаковки по 800 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": null,
+      "pack": {
+        "packs": 3,
+        "perPack": 800,
+        "unit": "г"
+      },
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Дихан рис басмати 400 г",
+    "cleanTokens": [
+      "рис",
+      "басмати"
+    ],
+    "normalizedTokens": [
+      "рис",
+      "басмати",
+      "400 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "400 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Wuchang рис Даохуасян 1000 г",
+    "cleanTokens": [
+      "рис",
+      "даохуасян"
+    ],
+    "normalizedTokens": [
+      "рис",
+      "даохуасян",
+      "1000 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "1000 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Продукты XXII века киноа крупа",
+    "cleanTokens": [
+      "киноа",
+      "крупа"
+    ],
+    "normalizedTokens": [
+      "киноа",
+      "крупа"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "TopLife булгур 300 г",
+    "cleanTokens": [
+      "булгур"
+    ],
+    "normalizedTokens": [
+      "булгур",
+      "300 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "300 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Нұр рис Баракат 5000 г",
+    "cleanTokens": [
+      "рис",
+      "баракат"
+    ],
+    "normalizedTokens": [
+      "рис",
+      "баракат",
+      "5000 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "5000 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Дихан рис бурый 400 г",
+    "cleanTokens": [
+      "рис",
+      "бурый"
+    ],
+    "normalizedTokens": [
+      "рис",
+      "бурый",
+      "400 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "400 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Дихан рис лазер 400 г",
+    "cleanTokens": [
+      "рис",
+      "лазер"
+    ],
+    "normalizedTokens": [
+      "рис",
+      "лазер",
+      "400 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "400 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Дихан рис для плова Камолино 3 упаковки по 800 г",
+    "cleanTokens": [
+      "рис",
+      "для",
+      "плова",
+      "камолино"
+    ],
+    "normalizedTokens": [
+      "рис",
+      "для",
+      "плова",
+      "камолино",
+      "3 упаковки по 800 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": null,
+      "pack": {
+        "packs": 3,
+        "perPack": 800,
+        "unit": "г"
+      },
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "DUNAR рис басмати 1 кг",
+    "cleanTokens": [
+      "рис",
+      "басмати"
+    ],
+    "normalizedTokens": [
+      "рис",
+      "басмати",
+      "1 кг"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "1 кг",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Алтайская Сказка пшеничная крупа полтавская 600 г",
+    "cleanTokens": [
+      "пшеничная",
+      "крупа",
+      "полтавская"
+    ],
+    "normalizedTokens": [
+      "пшеничная",
+      "крупа",
+      "полтавская",
+      "600 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "600 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Нұр рис Камолино 5000 г",
+    "cleanTokens": [
+      "рис",
+      "камолино"
+    ],
+    "normalizedTokens": [
+      "рис",
+      "камолино",
+      "5000 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "5000 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Дихан рис для суши 400 г",
+    "cleanTokens": [
+      "рис",
+      "для",
+      "суши"
+    ],
+    "normalizedTokens": [
+      "рис",
+      "для",
+      "суши",
+      "400 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "400 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Это полезно зеленая гречневая крупа 300 г",
+    "cleanTokens": [
+      "зеленая",
+      "гречневая",
+      "крупа"
+    ],
+    "normalizedTokens": [
+      "зеленая",
+      "гречневая",
+      "крупа",
+      "300 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "300 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "TopLife рис басмати 300 г",
+    "cleanTokens": [
+      "рис",
+      "басмати"
+    ],
+    "normalizedTokens": [
+      "рис",
+      "басмати",
+      "300 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "300 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Алтайская Сказка пшенная крупа 800 г",
+    "cleanTokens": [
+      "пшенная",
+      "крупа"
+    ],
+    "normalizedTokens": [
+      "пшенная",
+      "крупа",
+      "800 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "800 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "DUNAR рис 1000 г",
+    "cleanTokens": [
+      "рис"
+    ],
+    "normalizedTokens": [
+      "рис",
+      "1000 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "1000 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "DUNAR рис басмати 1000 г",
+    "cleanTokens": [
+      "рис",
+      "басмати"
+    ],
+    "normalizedTokens": [
+      "рис",
+      "басмати",
+      "1000 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "1000 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "DUNAR рис 500 г",
+    "cleanTokens": [
+      "рис"
+    ],
+    "normalizedTokens": [
+      "рис",
+      "500 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "500 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Алтайская Сказка рис круглозерный 800 г",
+    "cleanTokens": [
+      "рис",
+      "круглозерный"
+    ],
+    "normalizedTokens": [
+      "рис",
+      "круглозерный",
+      "800 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "800 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Алтайская Сказка кукурузная крупа шлифованная №4 700 г",
+    "cleanTokens": [
+      "кукурузная",
+      "крупа",
+      "шлифованная",
+      "№4"
+    ],
+    "normalizedTokens": [
+      "кукурузная",
+      "крупа",
+      "шлифованная",
+      "№4",
+      "700 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "700 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Здороведа маш 400 г",
+    "cleanTokens": [
+      "маш"
+    ],
+    "normalizedTokens": [
+      "маш",
+      "400 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "400 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Алтайская Сказка горох колотый шлифованный 800 г",
+    "cleanTokens": [
+      "горох",
+      "колотый",
+      "шлифованный"
+    ],
+    "normalizedTokens": [
+      "горох",
+      "колотый",
+      "шлифованный",
+      "800 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "800 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "DUNAR рис экстрадлинный басмати 1000 г",
+    "cleanTokens": [
+      "рис",
+      "экстрадлинный",
+      "басмати"
+    ],
+    "normalizedTokens": [
+      "рис",
+      "экстрадлинный",
+      "басмати",
+      "1000 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "1000 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Ottogi рис cooked rice five grains 18 упаковок по 210 г",
+    "cleanTokens": [
+      "рис",
+      "cooked",
+      "rice",
+      "five",
+      "grains",
+      "18",
+      "упаковок",
+      "по"
+    ],
+    "normalizedTokens": [
+      "рис",
+      "cooked",
+      "rice",
+      "five",
+      "grains",
+      "18",
+      "упаковок",
+      "по",
+      "210 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "210 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Casa Rinaldi рис Арборио 500 г",
+    "cleanTokens": [
+      "рис",
+      "арборио"
+    ],
+    "normalizedTokens": [
+      "рис",
+      "арборио",
+      "500 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "500 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "DUNAR рис 1000 г",
+    "cleanTokens": [
+      "рис"
+    ],
+    "normalizedTokens": [
+      "рис",
+      "1000 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "1000 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мистраль рис жасмин белый ароматный 500 г",
+    "cleanTokens": [
+      "рис",
+      "жасмин",
+      "белый",
+      "ароматный"
+    ],
+    "normalizedTokens": [
+      "рис",
+      "жасмин",
+      "белый",
+      "ароматный",
+      "500 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "500 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  }
+]

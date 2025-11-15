@@ -1,0 +1,1563 @@
+[
+  {
+    "original": "Ambar.kz куриные слайсы 100 г",
+    "cleanTokens": [
+      "куриные",
+      "слайсы"
+    ],
+    "normalizedTokens": [
+      "куриные",
+      "слайсы",
+      "100 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "100 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Fishdream кальмар косичка 200 г",
+    "cleanTokens": [
+      "кальмар",
+      "косичка"
+    ],
+    "normalizedTokens": [
+      "кальмар",
+      "косичка",
+      "200 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "200 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "BEERка Кальмар сушено-вяленый 70 г",
+    "cleanTokens": [
+      "кальмар",
+      "сушено-вяленый"
+    ],
+    "normalizedTokens": [
+      "кальмар",
+      "сушено-вяленый",
+      "70 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "70 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Cabandos Meat Chips 30 г",
+    "cleanTokens": [
+      "meat",
+      "chips"
+    ],
+    "normalizedTokens": [
+      "meat",
+      "chips",
+      "30 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "30 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Черкизово мясной снек салями 70 г",
+    "cleanTokens": [
+      "мясной",
+      "снек",
+      "салями"
+    ],
+    "normalizedTokens": [
+      "мясной",
+      "снек",
+      "салями",
+      "70 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "70 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Miwang ячменное лакомство 570 г",
+    "cleanTokens": [
+      "ячменное",
+      "лакомство"
+    ],
+    "normalizedTokens": [
+      "ячменное",
+      "лакомство",
+      "570 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "570 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Ambar.kz фирменная нарезка ассорти Амбарчик 100 г",
+    "cleanTokens": [
+      "фирменная",
+      "нарезка",
+      "ассорти",
+      "амбарчик"
+    ],
+    "normalizedTokens": [
+      "фирменная",
+      "нарезка",
+      "ассорти",
+      "амбарчик",
+      "100 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "100 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "BEERка копченые кольца кальмара 70 г",
+    "cleanTokens": [
+      "копченые",
+      "кольца",
+      "кальмара"
+    ],
+    "normalizedTokens": [
+      "копченые",
+      "кольца",
+      "кальмара",
+      "70 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "70 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "BEERка Кальмар копченый кольца 18 г",
+    "cleanTokens": [
+      "кальмар",
+      "копченый",
+      "кольца"
+    ],
+    "normalizedTokens": [
+      "кальмар",
+      "копченый",
+      "кольца",
+      "18 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "18 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "NONGSHIM Snacks with apple & honey снэки яблоко и мёд 90 г",
+    "cleanTokens": [
+      "snacks",
+      "with",
+      "apple",
+      "&",
+      "honey",
+      "яблоко",
+      "и",
+      "мед"
+    ],
+    "normalizedTokens": [
+      "snacks",
+      "with",
+      "apple",
+      "&",
+      "honey",
+      "яблоко",
+      "и",
+      "мед",
+      "90 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "90 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Янтарная соломка с перцем 100 г",
+    "cleanTokens": [
+      "янтарная",
+      "соломка",
+      "с",
+      "перцем"
+    ],
+    "normalizedTokens": [
+      "янтарная",
+      "соломка",
+      "с",
+      "перцем",
+      "100 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "100 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "BEERка Путассу янтарная с перцем 25 г",
+    "cleanTokens": [
+      "путассу",
+      "янтарная",
+      "с",
+      "перцем"
+    ],
+    "normalizedTokens": [
+      "путассу",
+      "янтарная",
+      "с",
+      "перцем",
+      "25 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "25 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "BEERка Кольца кальмара копченые 38 г",
+    "cleanTokens": [
+      "кольца",
+      "кальмара",
+      "копченые"
+    ],
+    "normalizedTokens": [
+      "кольца",
+      "кальмара",
+      "копченые",
+      "38 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "38 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Ambar.kz кукуруза обжаренная барбекю 80 г",
+    "cleanTokens": [
+      "кукуруза",
+      "обжаренная",
+      "барбекю"
+    ],
+    "normalizedTokens": [
+      "кукуруза",
+      "обжаренная",
+      "барбекю",
+      "80 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "80 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Ambar.kz сушеный минтай люкс 100 г",
+    "cleanTokens": [
+      "сушеный",
+      "минтай",
+      "люкс"
+    ],
+    "normalizedTokens": [
+      "сушеный",
+      "минтай",
+      "люкс",
+      "100 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "100 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "BEERка Кальмар сушено-вяленый 38 г",
+    "cleanTokens": [
+      "кальмар",
+      "сушено-вяленый"
+    ],
+    "normalizedTokens": [
+      "кальмар",
+      "сушено-вяленый",
+      "38 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "38 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Roksy лещ вяленый 450 г",
+    "cleanTokens": [
+      "лещ",
+      "вяленый"
+    ],
+    "normalizedTokens": [
+      "лещ",
+      "вяленый",
+      "450 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "450 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Ambar.kz вобла вяленная (Капчагай) 500 г",
+    "cleanTokens": [
+      "вобла",
+      "вяленная",
+      "капчагай"
+    ],
+    "normalizedTokens": [
+      "вобла",
+      "вяленная",
+      "капчагай",
+      "500 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "500 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "РЫБПРОМ Желтый полосатик копчёно-вяленый 100 г",
+    "cleanTokens": [
+      "желтый",
+      "полосатик",
+      "копчено-вяленый"
+    ],
+    "normalizedTokens": [
+      "желтый",
+      "полосатик",
+      "копчено-вяленый",
+      "100 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "100 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "BEERка минтай ломтики филе сушено-вяленые 70 г",
+    "cleanTokens": [
+      "минтай",
+      "ломтики",
+      "филе",
+      "сушено-вяленые"
+    ],
+    "normalizedTokens": [
+      "минтай",
+      "ломтики",
+      "филе",
+      "сушено-вяленые",
+      "70 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "70 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Mammoth воздушный рис (Тыбап ганжонг) 70 г",
+    "cleanTokens": [
+      "воздушный",
+      "рис",
+      "тыбап",
+      "ганжонг"
+    ],
+    "normalizedTokens": [
+      "воздушный",
+      "рис",
+      "тыбап",
+      "ганжонг",
+      "70 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "70 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "РИХА чипсы из мяса курицы 80 г",
+    "cleanTokens": [
+      "из",
+      "мяса",
+      "курицы"
+    ],
+    "normalizedTokens": [
+      "из",
+      "мяса",
+      "курицы",
+      "80 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "80 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Ambar.kz джерки из мяса конины 80 г",
+    "cleanTokens": [
+      "джерки",
+      "из",
+      "мяса",
+      "конины"
+    ],
+    "normalizedTokens": [
+      "джерки",
+      "из",
+      "мяса",
+      "конины",
+      "80 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "80 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Ambar.kz тилапия сладко-соленая 100 г",
+    "cleanTokens": [
+      "тилапия",
+      "сладко-соленая"
+    ],
+    "normalizedTokens": [
+      "тилапия",
+      "сладко-соленая",
+      "100 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "100 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Ambar.kz палочки сома 100 г",
+    "cleanTokens": [
+      "палочки",
+      "сома"
+    ],
+    "normalizedTokens": [
+      "палочки",
+      "сома",
+      "100 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "100 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Ambar.kz филе щуки косичка 100 г",
+    "cleanTokens": [
+      "филе",
+      "щуки",
+      "косичка"
+    ],
+    "normalizedTokens": [
+      "филе",
+      "щуки",
+      "косичка",
+      "100 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "100 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Ambar.kz путассу с перцем сушёно-вяленая 100 г",
+    "cleanTokens": [
+      "путассу",
+      "с",
+      "перцем",
+      "сушено-вяленая"
+    ],
+    "normalizedTokens": [
+      "путассу",
+      "с",
+      "перцем",
+      "сушено-вяленая",
+      "100 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "100 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Ambar.kz Щучка солено сушеная (астраханская) 100 г",
+    "cleanTokens": [
+      "щучка",
+      "солено",
+      "сушеная",
+      "астраханская"
+    ],
+    "normalizedTokens": [
+      "щучка",
+      "солено",
+      "сушеная",
+      "астраханская",
+      "100 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "100 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Ambar.kz кукуруза обжаренная двойной сыр 80 г",
+    "cleanTokens": [
+      "кукуруза",
+      "обжаренная",
+      "двойной",
+      "сыр"
+    ],
+    "normalizedTokens": [
+      "кукуруза",
+      "обжаренная",
+      "двойной",
+      "сыр",
+      "80 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "80 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Ambar.kz курочка сыровяленая грудка со специями 100 г",
+    "cleanTokens": [
+      "курочка",
+      "сыровяленая",
+      "грудка",
+      "со",
+      "специями"
+    ],
+    "normalizedTokens": [
+      "курочка",
+      "сыровяленая",
+      "грудка",
+      "со",
+      "специями",
+      "100 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "100 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "MartKorea сладкая воздушная пшеница Тонг мил пон гадя 70 г",
+    "cleanTokens": [
+      "сладкая",
+      "воздушная",
+      "пшеница",
+      "тонг",
+      "мил",
+      "пон",
+      "гадя"
+    ],
+    "normalizedTokens": [
+      "сладкая",
+      "воздушная",
+      "пшеница",
+      "тонг",
+      "мил",
+      "пон",
+      "гадя",
+      "70 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "70 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Ambar.kz рыбные медальончики 100 г",
+    "cleanTokens": [
+      "рыбные",
+      "медальончики"
+    ],
+    "normalizedTokens": [
+      "рыбные",
+      "медальончики",
+      "100 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "100 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "NONGSHIM Снеки со вкусом кукурузы 70 г",
+    "cleanTokens": [
+      "снеки",
+      "со",
+      "вкусом",
+      "кукурузы"
+    ],
+    "normalizedTokens": [
+      "снеки",
+      "со",
+      "вкусом",
+      "кукурузы",
+      "70 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "70 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "РИХА чипсы из мяса конины 80 г",
+    "cleanTokens": [
+      "из",
+      "мяса",
+      "конины"
+    ],
+    "normalizedTokens": [
+      "из",
+      "мяса",
+      "конины",
+      "80 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "80 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "РИХА джерки куриные сырокопченые 80 г",
+    "cleanTokens": [
+      "джерки",
+      "куриные",
+      "сырокопченые"
+    ],
+    "normalizedTokens": [
+      "джерки",
+      "куриные",
+      "сырокопченые",
+      "80 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "80 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Ambar.kz палочки лосося 100 г",
+    "cleanTokens": [
+      "палочки",
+      "лосося"
+    ],
+    "normalizedTokens": [
+      "палочки",
+      "лосося",
+      "100 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "100 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Ambar.kz вобла тушка вяленая чищенная 250 г",
+    "cleanTokens": [
+      "вобла",
+      "тушка",
+      "вяленая",
+      "чищенная"
+    ],
+    "normalizedTokens": [
+      "вобла",
+      "тушка",
+      "вяленая",
+      "чищенная",
+      "250 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "250 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Ломтики гималайская соль 100 г",
+    "cleanTokens": [
+      "ломтики",
+      "гималайская",
+      "соль"
+    ],
+    "normalizedTokens": [
+      "ломтики",
+      "гималайская",
+      "соль",
+      "100 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "100 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Ambar.kz палочки янтарные с перцем 100 г",
+    "cleanTokens": [
+      "палочки",
+      "янтарные",
+      "с",
+      "перцем"
+    ],
+    "normalizedTokens": [
+      "палочки",
+      "янтарные",
+      "с",
+      "перцем",
+      "100 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "100 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "РИХА чипсы из мяса говядины 80 г",
+    "cleanTokens": [
+      "из",
+      "мяса",
+      "говядины"
+    ],
+    "normalizedTokens": [
+      "из",
+      "мяса",
+      "говядины",
+      "80 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "80 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Fishdream берш в вакууме холодного копчения 300 г",
+    "cleanTokens": [
+      "берш",
+      "в",
+      "вакууме",
+      "холодного",
+      "копчения"
+    ],
+    "normalizedTokens": [
+      "берш",
+      "в",
+      "вакууме",
+      "холодного",
+      "копчения",
+      "300 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "300 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Ambar.kz стружка кальмара со вкусом краба 100 г",
+    "cleanTokens": [
+      "стружка",
+      "кальмара",
+      "со",
+      "вкусом",
+      "краба"
+    ],
+    "normalizedTokens": [
+      "стружка",
+      "кальмара",
+      "со",
+      "вкусом",
+      "краба",
+      "100 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "100 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Ambar.kz палочки сазана 100 г",
+    "cleanTokens": [
+      "палочки",
+      "сазана"
+    ],
+    "normalizedTokens": [
+      "палочки",
+      "сазана",
+      "100 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "100 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Ambar.kz кукуруза обжаренная с солью 80 г",
+    "cleanTokens": [
+      "кукуруза",
+      "обжаренная",
+      "с",
+      "солью"
+    ],
+    "normalizedTokens": [
+      "кукуруза",
+      "обжаренная",
+      "с",
+      "солью",
+      "80 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "80 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Черкизово Снэк из индейки 70 г",
+    "cleanTokens": [
+      "снэк",
+      "из",
+      "индейки"
+    ],
+    "normalizedTokens": [
+      "снэк",
+      "из",
+      "индейки",
+      "70 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "70 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Fishdream кириешки змееголова холодного копчения 125 г",
+    "cleanTokens": [
+      "кириешки",
+      "змееголова",
+      "холодного",
+      "копчения"
+    ],
+    "normalizedTokens": [
+      "кириешки",
+      "змееголова",
+      "холодного",
+      "копчения",
+      "125 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "125 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Ambar.kz палочки змееголова 100 г",
+    "cleanTokens": [
+      "палочки",
+      "змееголова"
+    ],
+    "normalizedTokens": [
+      "палочки",
+      "змееголова",
+      "100 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "100 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Roksy вобла вяленая 220 г",
+    "cleanTokens": [
+      "вобла",
+      "вяленая"
+    ],
+    "normalizedTokens": [
+      "вобла",
+      "вяленая",
+      "220 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "220 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Ambar.kz боченок копченый сырный 100 г",
+    "cleanTokens": [
+      "боченок",
+      "копченый",
+      "сырный"
+    ],
+    "normalizedTokens": [
+      "боченок",
+      "копченый",
+      "сырный",
+      "100 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "100 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "#markaOne Meat Chips острые 30 г",
+    "cleanTokens": [
+      "meat",
+      "chips",
+      "острые"
+    ],
+    "normalizedTokens": [
+      "meat",
+      "chips",
+      "острые",
+      "30 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "30 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Ambar.kz тунец серебристый кусочками 100 г",
+    "cleanTokens": [
+      "тунец",
+      "серебристый",
+      "кусочками"
+    ],
+    "normalizedTokens": [
+      "тунец",
+      "серебристый",
+      "кусочками",
+      "100 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "100 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "ООО Морские деликатесы Треска с перцем 100 г",
+    "cleanTokens": [
+      "треска",
+      "с",
+      "перцем"
+    ],
+    "normalizedTokens": [
+      "треска",
+      "с",
+      "перцем",
+      "100 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "100 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Черкизово Снэк мясной со сладким чили 70 г",
+    "cleanTokens": [
+      "снэк",
+      "мясной",
+      "со",
+      "сладким",
+      "чили"
+    ],
+    "normalizedTokens": [
+      "снэк",
+      "мясной",
+      "со",
+      "сладким",
+      "чили",
+      "70 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "70 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Ambar.kz кальмар хот-тейст с перцем 100 г",
+    "cleanTokens": [
+      "кальмар",
+      "хот-тейст",
+      "с",
+      "перцем"
+    ],
+    "normalizedTokens": [
+      "кальмар",
+      "хот-тейст",
+      "с",
+      "перцем",
+      "100 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "100 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Ambar.kz золотая рыбка 100 г",
+    "cleanTokens": [
+      "золотая",
+      "рыбка"
+    ],
+    "normalizedTokens": [
+      "золотая",
+      "рыбка",
+      "100 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "100 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Ambar.kz анчоус по-шанхайски 100 г",
+    "cleanTokens": [
+      "анчоус",
+      "по-шанхайски"
+    ],
+    "normalizedTokens": [
+      "анчоус",
+      "по-шанхайски",
+      "100 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "100 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Черкизово Мясной снэк 70 г",
+    "cleanTokens": [
+      "мясной",
+      "снэк"
+    ],
+    "normalizedTokens": [
+      "мясной",
+      "снэк",
+      "70 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "70 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Ambar.kz анчоус солено-сушеный 100 г",
+    "cleanTokens": [
+      "анчоус",
+      "солено-сушеный"
+    ],
+    "normalizedTokens": [
+      "анчоус",
+      "солено-сушеный",
+      "100 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "100 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Ambar.kz кальмар солено-сушеный кольца 100 г",
+    "cleanTokens": [
+      "кальмар",
+      "солено-сушеный",
+      "кольца"
+    ],
+    "normalizedTokens": [
+      "кальмар",
+      "солено-сушеный",
+      "кольца",
+      "100 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "100 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Черкизово Снэк из курицы 70 г",
+    "cleanTokens": [
+      "снэк",
+      "из",
+      "курицы"
+    ],
+    "normalizedTokens": [
+      "снэк",
+      "из",
+      "курицы",
+      "70 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "70 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Salysol Roasted Giant Corn BBQ обжаренная кукуруза со вкусом барбекю 30 г",
+    "cleanTokens": [
+      "roasted",
+      "giant",
+      "corn",
+      "bbq",
+      "обжаренная",
+      "кукуруза",
+      "со",
+      "вкусом",
+      "барбекю"
+    ],
+    "normalizedTokens": [
+      "roasted",
+      "giant",
+      "corn",
+      "bbq",
+      "обжаренная",
+      "кукуруза",
+      "со",
+      "вкусом",
+      "барбекю",
+      "30 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "30 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Ottogi Игра кальмара со сливочным вкусом 24 упаковки по 90 г",
+    "cleanTokens": [
+      "игра",
+      "кальмара",
+      "со",
+      "сливочным",
+      "вкусом"
+    ],
+    "normalizedTokens": [
+      "игра",
+      "кальмара",
+      "со",
+      "сливочным",
+      "вкусом",
+      "24 упаковки по 90 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": null,
+      "pack": {
+        "packs": 24,
+        "perPack": 90,
+        "unit": "г"
+      },
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Ambar.kz кальмар стружка с кунжутом по-шанхайски 100 г",
+    "cleanTokens": [
+      "кальмар",
+      "стружка",
+      "с",
+      "кунжутом",
+      "по-шанхайски"
+    ],
+    "normalizedTokens": [
+      "кальмар",
+      "стружка",
+      "с",
+      "кунжутом",
+      "по-шанхайски",
+      "100 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "100 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Ambar.kz уточка по-пекински копченая в вакууме 500 г",
+    "cleanTokens": [
+      "уточка",
+      "по-пекински",
+      "копченая",
+      "в",
+      "вакууме"
+    ],
+    "normalizedTokens": [
+      "уточка",
+      "по-пекински",
+      "копченая",
+      "в",
+      "вакууме",
+      "500 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "500 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Ottogi снэк острый Оджиногейм пуще хвангымат меунмат 24 упаковки по 90 г",
+    "cleanTokens": [
+      "снэк",
+      "острый",
+      "оджиногейм",
+      "пуще",
+      "хвангымат",
+      "меунмат"
+    ],
+    "normalizedTokens": [
+      "снэк",
+      "острый",
+      "оджиногейм",
+      "пуще",
+      "хвангымат",
+      "меунмат",
+      "24 упаковки по 90 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": null,
+      "pack": {
+        "packs": 24,
+        "perPack": 90,
+        "unit": "г"
+      },
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  }
+]

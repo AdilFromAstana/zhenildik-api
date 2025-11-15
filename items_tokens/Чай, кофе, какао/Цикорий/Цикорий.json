@@ -1,0 +1,1306 @@
+[
+  {
+    "original": "Цикорий Доброе утро мокко с какао и сливками 80 г",
+    "cleanTokens": [
+      "мокко",
+      "с",
+      "и",
+      "сливками"
+    ],
+    "normalizedTokens": [
+      "мокко",
+      "с",
+      "и",
+      "сливками",
+      "80 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "80 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Цикорий Доброе утро с ароматом макиато 80 г",
+    "cleanTokens": [
+      "с",
+      "ароматом",
+      "макиато"
+    ],
+    "normalizedTokens": [
+      "с",
+      "ароматом",
+      "макиато",
+      "80 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "80 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Цикорий Фамильный доктор без добавок 100 г",
+    "cleanTokens": [
+      "без",
+      "добавок"
+    ],
+    "normalizedTokens": [
+      "без",
+      "добавок",
+      "100 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "100 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Цикорий Доброе утро с черникой 80 г",
+    "cleanTokens": [
+      "с",
+      "черникой"
+    ],
+    "normalizedTokens": [
+      "с",
+      "черникой",
+      "80 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "80 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Цикорий Доброе утро классический 80 г",
+    "cleanTokens": [
+      "классический"
+    ],
+    "normalizedTokens": [
+      "классический",
+      "80 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "80 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Цикорий Фамильный доктор без добавок 100 г",
+    "cleanTokens": [
+      "без",
+      "добавок"
+    ],
+    "normalizedTokens": [
+      "без",
+      "добавок",
+      "100 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "100 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Цикорий Экологика с корицей 85 г",
+    "cleanTokens": [
+      "с",
+      "корицей"
+    ],
+    "normalizedTokens": [
+      "с",
+      "корицей",
+      "85 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "85 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Цикорий Московская кофейня на паяхъ без добавок 95 г",
+    "cleanTokens": [
+      "без",
+      "добавок"
+    ],
+    "normalizedTokens": [
+      "без",
+      "добавок",
+      "95 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "95 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Цикорий Elza Natural Chicory отборный 100 г",
+    "cleanTokens": [
+      "natural",
+      "chicory",
+      "отборный"
+    ],
+    "normalizedTokens": [
+      "natural",
+      "chicory",
+      "отборный",
+      "100 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "100 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Цикорий Tibet's Herbs Натуральный 160 г",
+    "cleanTokens": [
+      "tibet's",
+      "herbs",
+      "натуральный"
+    ],
+    "normalizedTokens": [
+      "tibet's",
+      "herbs",
+      "натуральный",
+      "160 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "160 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Цикорий ULISS Uniqa без добавок 95 г",
+    "cleanTokens": [
+      "uniqa",
+      "без",
+      "добавок"
+    ],
+    "normalizedTokens": [
+      "uniqa",
+      "без",
+      "добавок",
+      "95 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "95 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Цикорий Magellan без добавок 95 г",
+    "cleanTokens": [
+      "без",
+      "добавок"
+    ],
+    "normalizedTokens": [
+      "без",
+      "добавок",
+      "95 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "95 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Цикорий Здравник с экстрактом черники 85 г",
+    "cleanTokens": [
+      "с",
+      "экстрактом",
+      "черники"
+    ],
+    "normalizedTokens": [
+      "с",
+      "экстрактом",
+      "черники",
+      "85 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "85 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Цикорий Tibet's Herbs Натуральный 100 г",
+    "cleanTokens": [
+      "tibet's",
+      "herbs",
+      "натуральный"
+    ],
+    "normalizedTokens": [
+      "tibet's",
+      "herbs",
+      "натуральный",
+      "100 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "100 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Цикорий ULISS 75 г",
+    "cleanTokens": [],
+    "normalizedTokens": [
+      "75 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "75 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Цикорий ULISS с экстрактом черники 85 г",
+    "cleanTokens": [
+      "с",
+      "экстрактом",
+      "черники"
+    ],
+    "normalizedTokens": [
+      "с",
+      "экстрактом",
+      "черники",
+      "85 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "85 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Цикорий Экологика натуральный, сублимированный 75 г",
+    "cleanTokens": [
+      "натуральный",
+      "сублимированный"
+    ],
+    "normalizedTokens": [
+      "натуральный",
+      "сублимированный",
+      "75 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "75 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Цикорий Московская кофейня на паяхъ без добавок 95 г",
+    "cleanTokens": [
+      "без",
+      "добавок"
+    ],
+    "normalizedTokens": [
+      "без",
+      "добавок",
+      "95 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "95 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Цикорий Здравник медовый 85 г",
+    "cleanTokens": [
+      "медовый"
+    ],
+    "normalizedTokens": [
+      "медовый",
+      "85 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "85 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Цикорий Большая чашка сублимированный 75 г",
+    "cleanTokens": [
+      "большая",
+      "чашка",
+      "сублимированный"
+    ],
+    "normalizedTokens": [
+      "большая",
+      "чашка",
+      "сублимированный",
+      "75 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "75 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Цикорий Здравник с экстрактом женьшеня 85 г",
+    "cleanTokens": [
+      "с",
+      "экстрактом",
+      "женьшеня"
+    ],
+    "normalizedTokens": [
+      "с",
+      "экстрактом",
+      "женьшеня",
+      "85 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "85 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Цикорий Здравник с экстрактом брусники 85 г",
+    "cleanTokens": [
+      "с",
+      "экстрактом",
+      "брусники"
+    ],
+    "normalizedTokens": [
+      "с",
+      "экстрактом",
+      "брусники",
+      "85 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "85 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Цикорий El Passa без добавок 100 г",
+    "cleanTokens": [
+      "без",
+      "добавок"
+    ],
+    "normalizedTokens": [
+      "без",
+      "добавок",
+      "100 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "100 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Цикорий Экологика с шиповником 85 г",
+    "cleanTokens": [
+      "с",
+      "шиповником"
+    ],
+    "normalizedTokens": [
+      "с",
+      "шиповником",
+      "85 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "85 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Цикорий Polezium без добавок 200 г",
+    "cleanTokens": [
+      "без",
+      "добавок"
+    ],
+    "normalizedTokens": [
+      "без",
+      "добавок",
+      "200 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "200 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Цикорий ULISS с экстрактом шиповника 85 г",
+    "cleanTokens": [
+      "с",
+      "экстрактом",
+      "шиповника"
+    ],
+    "normalizedTokens": [
+      "с",
+      "экстрактом",
+      "шиповника",
+      "85 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "85 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Цикорий Экологика с женьшенем 85 г",
+    "cleanTokens": [
+      "с",
+      "женьшенем"
+    ],
+    "normalizedTokens": [
+      "с",
+      "женьшенем",
+      "85 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "85 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Цикорий Экологика c черникой 85 г",
+    "cleanTokens": [
+      "c",
+      "черникой"
+    ],
+    "normalizedTokens": [
+      "c",
+      "черникой",
+      "85 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "85 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Цикорий Русский цикорий без добавок 200 г",
+    "cleanTokens": [
+      "русский",
+      "без",
+      "добавок"
+    ],
+    "normalizedTokens": [
+      "русский",
+      "без",
+      "добавок",
+      "200 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "200 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Цикорий Здоровье без добавок 100 г",
+    "cleanTokens": [
+      "без",
+      "добавок"
+    ],
+    "normalizedTokens": [
+      "без",
+      "добавок",
+      "100 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "100 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Цикорий Цикорень боярышник 75 г",
+    "cleanTokens": [
+      "боярышник"
+    ],
+    "normalizedTokens": [
+      "боярышник",
+      "75 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "75 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Цикорий Здравник Растворимый 85 г",
+    "cleanTokens": [
+      "растворимый"
+    ],
+    "normalizedTokens": [
+      "растворимый",
+      "85 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "85 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Цикорий Fit Parad быстрорастворимый 100 г",
+    "cleanTokens": [
+      "быстрорастворимый"
+    ],
+    "normalizedTokens": [
+      "быстрорастворимый",
+      "100 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "100 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Цикорий Большая чашка натуральный 85 г",
+    "cleanTokens": [
+      "большая",
+      "чашка",
+      "натуральный"
+    ],
+    "normalizedTokens": [
+      "большая",
+      "чашка",
+      "натуральный",
+      "85 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "85 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Цикорий Здоровье корица 85 г",
+    "cleanTokens": [
+      "корица"
+    ],
+    "normalizedTokens": [
+      "корица",
+      "85 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "85 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Цикорий ULISS Chicory без добавок 85 г",
+    "cleanTokens": [
+      "chicory",
+      "без",
+      "добавок"
+    ],
+    "normalizedTokens": [
+      "chicory",
+      "без",
+      "добавок",
+      "85 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "85 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Цикорий Русский цикорий без добавок 100 г",
+    "cleanTokens": [
+      "русский",
+      "без",
+      "добавок"
+    ],
+    "normalizedTokens": [
+      "русский",
+      "без",
+      "добавок",
+      "100 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "100 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Цикорий Здоровье без добавок 200 г",
+    "cleanTokens": [
+      "без",
+      "добавок"
+    ],
+    "normalizedTokens": [
+      "без",
+      "добавок",
+      "200 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "200 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Цикорий Бабушкин хуторок без добавок 100 г",
+    "cleanTokens": [
+      "без",
+      "добавок"
+    ],
+    "normalizedTokens": [
+      "без",
+      "добавок",
+      "100 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "100 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Цикорий Большая чашка классический 85 г",
+    "cleanTokens": [
+      "большая",
+      "чашка",
+      "классический"
+    ],
+    "normalizedTokens": [
+      "большая",
+      "чашка",
+      "классический",
+      "85 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "85 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Цикорий Здоровье шиповник 85 г",
+    "cleanTokens": [
+      "шиповник"
+    ],
+    "normalizedTokens": [
+      "шиповник",
+      "85 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "85 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Цикорий Elite без добавок 100 г",
+    "cleanTokens": [
+      "без",
+      "добавок"
+    ],
+    "normalizedTokens": [
+      "без",
+      "добавок",
+      "100 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "100 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Цикорий Фамильный доктор без добавок 110 г",
+    "cleanTokens": [
+      "без",
+      "добавок"
+    ],
+    "normalizedTokens": [
+      "без",
+      "добавок",
+      "110 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "110 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Цикорий Fitolain без добавок 85 г",
+    "cleanTokens": [
+      "без",
+      "добавок"
+    ],
+    "normalizedTokens": [
+      "без",
+      "добавок",
+      "85 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "85 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Цикорий Здоровье облепиха 85 г",
+    "cleanTokens": [
+      "облепиха"
+    ],
+    "normalizedTokens": [
+      "облепиха",
+      "85 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "85 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Цикорий ЗдравКо с черникой 100 г",
+    "cleanTokens": [
+      "с",
+      "черникой"
+    ],
+    "normalizedTokens": [
+      "с",
+      "черникой",
+      "100 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "100 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Цикорий Русский цикорий капучино со сливками 150 г",
+    "cleanTokens": [
+      "русский",
+      "капучино",
+      "со",
+      "сливками"
+    ],
+    "normalizedTokens": [
+      "русский",
+      "капучино",
+      "со",
+      "сливками",
+      "150 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "150 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Цикорий Здоровье без добавок 95 г",
+    "cleanTokens": [
+      "без",
+      "добавок"
+    ],
+    "normalizedTokens": [
+      "без",
+      "добавок",
+      "95 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "95 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Цикорий Здравко растворимый натуральный 100 г",
+    "cleanTokens": [
+      "растворимый",
+      "натуральный"
+    ],
+    "normalizedTokens": [
+      "растворимый",
+      "натуральный",
+      "100 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "100 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Цикорий А.П. Селиванов без добавок 90 г",
+    "cleanTokens": [
+      "без",
+      "добавок"
+    ],
+    "normalizedTokens": [
+      "без",
+      "добавок",
+      "90 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "90 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Цикорий А.П. Селиванов без добавок 200 г",
+    "cleanTokens": [
+      "без",
+      "добавок"
+    ],
+    "normalizedTokens": [
+      "без",
+      "добавок",
+      "200 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "200 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Цикорий Здоровье таежные травы 85 г",
+    "cleanTokens": [
+      "таежные",
+      "травы"
+    ],
+    "normalizedTokens": [
+      "таежные",
+      "травы",
+      "85 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "85 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Цикорий Здоровье черника 85 г",
+    "cleanTokens": [
+      "черника"
+    ],
+    "normalizedTokens": [
+      "черника",
+      "85 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "85 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Цикорий Я забочусь о здоровье без добавок 12 пакетиков",
+    "cleanTokens": [
+      "я",
+      "забочусь",
+      "о",
+      "без",
+      "добавок",
+      "12",
+      "пакетиков"
+    ],
+    "normalizedTokens": [
+      "я",
+      "забочусь",
+      "о",
+      "без",
+      "добавок",
+      "12",
+      "пакетиков"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Цикорий Здоровье женьшень 85 г",
+    "cleanTokens": [
+      "женьшень"
+    ],
+    "normalizedTokens": [
+      "женьшень",
+      "85 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "85 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Цикорий Я забочусь о здоровье ячмень, рожь с карамелью 114 г",
+    "cleanTokens": [
+      "я",
+      "забочусь",
+      "о",
+      "ячмень",
+      "рожь",
+      "с",
+      "карамелью"
+    ],
+    "normalizedTokens": [
+      "я",
+      "забочусь",
+      "о",
+      "ячмень",
+      "рожь",
+      "с",
+      "карамелью",
+      "114 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "114 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Цикорий Я забочусь о здоровье ячмень 114 г",
+    "cleanTokens": [
+      "я",
+      "забочусь",
+      "о",
+      "ячмень"
+    ],
+    "normalizedTokens": [
+      "я",
+      "забочусь",
+      "о",
+      "ячмень",
+      "114 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "114 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Цикорий Я забочусь о здоровье ячмень, рожь, одуванчик 114 г",
+    "cleanTokens": [
+      "я",
+      "забочусь",
+      "о",
+      "ячмень",
+      "рожь",
+      "одуванчик"
+    ],
+    "normalizedTokens": [
+      "я",
+      "забочусь",
+      "о",
+      "ячмень",
+      "рожь",
+      "одуванчик",
+      "114 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "114 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Цикорий Здоровье брусника 85 г",
+    "cleanTokens": [
+      "брусника"
+    ],
+    "normalizedTokens": [
+      "брусника",
+      "85 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "85 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Цикорий Доброе утро без добавок 70 г",
+    "cleanTokens": [
+      "без",
+      "добавок"
+    ],
+    "normalizedTokens": [
+      "без",
+      "добавок",
+      "70 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "70 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  }
+]

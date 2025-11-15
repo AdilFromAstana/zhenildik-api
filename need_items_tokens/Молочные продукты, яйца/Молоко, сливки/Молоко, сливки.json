@@ -1,0 +1,1584 @@
+[
+  {
+    "original": "Петропавловское молоко 3.2% 900 мл",
+    "cleanTokens": [],
+    "normalizedTokens": [
+      "3.2%",
+      "900 мл"
+    ],
+    "params": {
+      "volume": "900 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "3.2%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Петропавловское молоко 2.5% 900 мл",
+    "cleanTokens": [],
+    "normalizedTokens": [
+      "2.5%",
+      "900 мл"
+    ],
+    "params": {
+      "volume": "900 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "2.5%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Lactel молоко 2.5% 1000 мл",
+    "cleanTokens": [],
+    "normalizedTokens": [
+      "2.5%",
+      "1000 мл"
+    ],
+    "params": {
+      "volume": "1000 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "2.5%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Айс топленое молоко 3.2% 1000 мл",
+    "cleanTokens": [
+      "топленое"
+    ],
+    "normalizedTokens": [
+      "топленое",
+      "3.2%",
+      "1000 мл"
+    ],
+    "params": {
+      "volume": "1000 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "3.2%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Родина молоко 3.2% 1000 мл",
+    "cleanTokens": [],
+    "normalizedTokens": [
+      "3.2%",
+      "1000 мл"
+    ],
+    "params": {
+      "volume": "1000 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "3.2%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Astana-Өнім молоко 3.2% 1000 мл",
+    "cleanTokens": [],
+    "normalizedTokens": [
+      "3.2%",
+      "1000 мл"
+    ],
+    "params": {
+      "volume": "1000 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "3.2%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Зенченко и Ко молоко 3.2% 900 мл",
+    "cleanTokens": [],
+    "normalizedTokens": [
+      "3.2%",
+      "900 мл"
+    ],
+    "params": {
+      "volume": "900 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "3.2%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "МОЁ молоко 3.2% 950 мл",
+    "cleanTokens": [],
+    "normalizedTokens": [
+      "3.2%",
+      "950 мл"
+    ],
+    "params": {
+      "volume": "950 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "3.2%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Lactel молоко 3.2% 1000 мл",
+    "cleanTokens": [],
+    "normalizedTokens": [
+      "3.2%",
+      "1000 мл"
+    ],
+    "params": {
+      "volume": "1000 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "3.2%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Петропавловское молоко 6% 900 мл",
+    "cleanTokens": [],
+    "normalizedTokens": [
+      "6%",
+      "900 мл"
+    ],
+    "params": {
+      "volume": "900 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "6%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "МОЁ молоко 2.5% 950 мл",
+    "cleanTokens": [],
+    "normalizedTokens": [
+      "2.5%",
+      "950 мл"
+    ],
+    "params": {
+      "volume": "950 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "2.5%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Умут и Ко Милка молоко 3.2% 1000 г",
+    "cleanTokens": [
+      "милка"
+    ],
+    "normalizedTokens": [
+      "милка",
+      "3.2%",
+      "1000 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "1000 г",
+      "count": null,
+      "pack": null,
+      "percent": "3.2%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Айс молоко 3.2% 1000 мл",
+    "cleanTokens": [],
+    "normalizedTokens": [
+      "3.2%",
+      "1000 мл"
+    ],
+    "params": {
+      "volume": "1000 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "3.2%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Родина молоко 2.5% 1000 мл",
+    "cleanTokens": [],
+    "normalizedTokens": [
+      "2.5%",
+      "1000 мл"
+    ],
+    "params": {
+      "volume": "1000 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "2.5%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Шадринское молоко 7.1% 500 г",
+    "cleanTokens": [],
+    "normalizedTokens": [
+      "7.1%",
+      "500 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "500 г",
+      "count": null,
+      "pack": null,
+      "percent": "7.1%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Lactel молоко 1.5% 1000 мл",
+    "cleanTokens": [],
+    "normalizedTokens": [
+      "1.5%",
+      "1000 мл"
+    ],
+    "params": {
+      "volume": "1000 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "1.5%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Айс молоко 2.5% 1000 мл",
+    "cleanTokens": [],
+    "normalizedTokens": [
+      "2.5%",
+      "1000 мл"
+    ],
+    "params": {
+      "volume": "1000 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "2.5%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Зенченко и Ко молоко 2.5% 900 мл",
+    "cleanTokens": [],
+    "normalizedTokens": [
+      "2.5%",
+      "900 мл"
+    ],
+    "params": {
+      "volume": "900 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "2.5%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Новый день молоко 3.2% 1000 мл",
+    "cleanTokens": [],
+    "normalizedTokens": [
+      "3.2%",
+      "1000 мл"
+    ],
+    "params": {
+      "volume": "1000 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "3.2%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Деп низколактозное молоко 2.5% 500 г",
+    "cleanTokens": [
+      "низколактозное"
+    ],
+    "normalizedTokens": [
+      "низколактозное",
+      "2.5%",
+      "500 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "500 г",
+      "count": null,
+      "pack": null,
+      "percent": "2.5%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Домик в деревне сливки 20% 480 г",
+    "cleanTokens": [],
+    "normalizedTokens": [
+      "20%",
+      "480 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "480 г",
+      "count": null,
+      "pack": null,
+      "percent": "20%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Новый день молоко 6% 1000 мл",
+    "cleanTokens": [],
+    "normalizedTokens": [
+      "6%",
+      "1000 мл"
+    ],
+    "params": {
+      "volume": "1000 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "6%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Чудское озеро сливки 33% 200 мл",
+    "cleanTokens": [],
+    "normalizedTokens": [
+      "33%",
+      "200 мл"
+    ],
+    "params": {
+      "volume": "200 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "33%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "PRESIDENT сливки 23% 200 г",
+    "cleanTokens": [],
+    "normalizedTokens": [
+      "23%",
+      "200 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "200 г",
+      "count": null,
+      "pack": null,
+      "percent": "23%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Деп к чаю молоко 6% 500 г",
+    "cleanTokens": [
+      "к",
+      "чаю"
+    ],
+    "normalizedTokens": [
+      "к",
+      "чаю",
+      "6%",
+      "500 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "500 г",
+      "count": null,
+      "pack": null,
+      "percent": "6%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Новый день молоко 2.5% 1000 мл",
+    "cleanTokens": [],
+    "normalizedTokens": [
+      "2.5%",
+      "1000 мл"
+    ],
+    "params": {
+      "volume": "1000 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "2.5%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Айналайын молоко 3.2% 1000 мл",
+    "cleanTokens": [],
+    "normalizedTokens": [
+      "3.2%",
+      "1000 мл"
+    ],
+    "params": {
+      "volume": "1000 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "3.2%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Шадринское молоко 6% 950 мл",
+    "cleanTokens": [],
+    "normalizedTokens": [
+      "6%",
+      "950 мл"
+    ],
+    "params": {
+      "volume": "950 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "6%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "МАСЛО-ДЕЛ Деревенское молокосодержащий продукт 3.2% 2000 мл",
+    "cleanTokens": [
+      "деревенское",
+      "молокосодержащий",
+      "продукт"
+    ],
+    "normalizedTokens": [
+      "деревенское",
+      "молокосодержащий",
+      "продукт",
+      "3.2%",
+      "2000 мл"
+    ],
+    "params": {
+      "volume": "2000 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "3.2%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Деп молоко 2.5% 900 г",
+    "cleanTokens": [],
+    "normalizedTokens": [
+      "2.5%",
+      "900 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "900 г",
+      "count": null,
+      "pack": null,
+      "percent": "2.5%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Чудское озеро сливки 20% 200 мл",
+    "cleanTokens": [],
+    "normalizedTokens": [
+      "20%",
+      "200 мл"
+    ],
+    "params": {
+      "volume": "200 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "20%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Простоквашино сливки 20% 200 г",
+    "cleanTokens": [],
+    "normalizedTokens": [
+      "20%",
+      "200 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "200 г",
+      "count": null,
+      "pack": null,
+      "percent": "20%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Бурненское молоко 2.5% 1000 мл",
+    "cleanTokens": [],
+    "normalizedTokens": [
+      "2.5%",
+      "1000 мл"
+    ],
+    "params": {
+      "volume": "1000 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "2.5%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Село Лесное молоко 2.5% 930 г",
+    "cleanTokens": [],
+    "normalizedTokens": [
+      "2.5%",
+      "930 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "930 г",
+      "count": null,
+      "pack": null,
+      "percent": "2.5%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Бурненское молоко 3.2% 1000 мл",
+    "cleanTokens": [],
+    "normalizedTokens": [
+      "3.2%",
+      "1000 мл"
+    ],
+    "params": {
+      "volume": "1000 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "3.2%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Домик в деревне сливки 10% 480 г",
+    "cleanTokens": [],
+    "normalizedTokens": [
+      "10%",
+      "480 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "480 г",
+      "count": null,
+      "pack": null,
+      "percent": "10%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Айналайын молоко 2.5% 1000 мл",
+    "cleanTokens": [],
+    "normalizedTokens": [
+      "2.5%",
+      "1000 мл"
+    ],
+    "params": {
+      "volume": "1000 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "2.5%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Садовое Milk Project молоко 3.2% 900 мл",
+    "cleanTokens": [
+      "milk",
+      "project"
+    ],
+    "normalizedTokens": [
+      "milk",
+      "project",
+      "3.2%",
+      "900 мл"
+    ],
+    "params": {
+      "volume": "900 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "3.2%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Село Лесное топленое молоко 4% 930 г",
+    "cleanTokens": [
+      "топленое"
+    ],
+    "normalizedTokens": [
+      "топленое",
+      "4%",
+      "930 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "930 г",
+      "count": null,
+      "pack": null,
+      "percent": "4%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Домик в деревне молоко 3.2% 925 мл",
+    "cleanTokens": [],
+    "normalizedTokens": [
+      "3.2%",
+      "925 мл"
+    ],
+    "params": {
+      "volume": "925 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "3.2%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "PRESIDENT сливки 11% 500 г",
+    "cleanTokens": [],
+    "normalizedTokens": [
+      "11%",
+      "500 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "500 г",
+      "count": null,
+      "pack": null,
+      "percent": "11%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Простоквашино молоко 2.5% 950 мл",
+    "cleanTokens": [],
+    "normalizedTokens": [
+      "2.5%",
+      "950 мл"
+    ],
+    "params": {
+      "volume": "950 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "2.5%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Простоквашино сливки 10% 205 г",
+    "cleanTokens": [],
+    "normalizedTokens": [
+      "10%",
+      "205 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "205 г",
+      "count": null,
+      "pack": null,
+      "percent": "10%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "PRESIDENT сливки 23% 500 г",
+    "cleanTokens": [],
+    "normalizedTokens": [
+      "23%",
+      "500 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "500 г",
+      "count": null,
+      "pack": null,
+      "percent": "23%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "МОЁ Отборное молоко 3.5% 950 мл",
+    "cleanTokens": [
+      "отборное"
+    ],
+    "normalizedTokens": [
+      "отборное",
+      "3.5%",
+      "950 мл"
+    ],
+    "params": {
+      "volume": "950 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "3.5%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Буренкино молокосодержащий продукт 3.2% 1950 мл",
+    "cleanTokens": [
+      "молокосодержащий",
+      "продукт"
+    ],
+    "normalizedTokens": [
+      "молокосодержащий",
+      "продукт",
+      "3.2%",
+      "1950 мл"
+    ],
+    "params": {
+      "volume": "1950 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "3.2%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Садовое молоко 3.2% 900 мл",
+    "cleanTokens": [],
+    "normalizedTokens": [
+      "3.2%",
+      "900 мл"
+    ],
+    "params": {
+      "volume": "900 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "3.2%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Буренкино молокосодержащий продукт 2.5% 1950 мл",
+    "cleanTokens": [
+      "молокосодержащий",
+      "продукт"
+    ],
+    "normalizedTokens": [
+      "молокосодержащий",
+      "продукт",
+      "2.5%",
+      "1950 мл"
+    ],
+    "params": {
+      "volume": "1950 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "2.5%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Новый день молоко 3.2% 1000 мл",
+    "cleanTokens": [],
+    "normalizedTokens": [
+      "3.2%",
+      "1000 мл"
+    ],
+    "params": {
+      "volume": "1000 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "3.2%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Простоквашино молоко 3.2% 950 мл",
+    "cleanTokens": [],
+    "normalizedTokens": [
+      "3.2%",
+      "950 мл"
+    ],
+    "params": {
+      "volume": "950 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "3.2%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "МОЁ молоко 6% 950 мл",
+    "cleanTokens": [],
+    "normalizedTokens": [
+      "6%",
+      "950 мл"
+    ],
+    "params": {
+      "volume": "950 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "6%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Милоко молокосодержащий продукт 6% 950 мл",
+    "cleanTokens": [
+      "молокосодержащий",
+      "продукт"
+    ],
+    "normalizedTokens": [
+      "молокосодержащий",
+      "продукт",
+      "6%",
+      "950 мл"
+    ],
+    "params": {
+      "volume": "950 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "6%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Чудское озеро сливки 33% 500 мл",
+    "cleanTokens": [],
+    "normalizedTokens": [
+      "33%",
+      "500 мл"
+    ],
+    "params": {
+      "volume": "500 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "33%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Милоко молокосодержащий продукт 2.5% 950 мл",
+    "cleanTokens": [
+      "молокосодержащий",
+      "продукт"
+    ],
+    "normalizedTokens": [
+      "молокосодержащий",
+      "продукт",
+      "2.5%",
+      "950 мл"
+    ],
+    "params": {
+      "volume": "950 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "2.5%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Деп молоко 4% 500 г",
+    "cleanTokens": [],
+    "normalizedTokens": [
+      "4%",
+      "500 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "500 г",
+      "count": null,
+      "pack": null,
+      "percent": "4%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Деп молоко 2.5% 500 г",
+    "cleanTokens": [],
+    "normalizedTokens": [
+      "2.5%",
+      "500 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "500 г",
+      "count": null,
+      "pack": null,
+      "percent": "2.5%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Домик в деревне молоко 2.5% 950 г",
+    "cleanTokens": [],
+    "normalizedTokens": [
+      "2.5%",
+      "950 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "950 г",
+      "count": null,
+      "pack": null,
+      "percent": "2.5%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Nәtige молоко 3.2% 900 мл",
+    "cleanTokens": [],
+    "normalizedTokens": [
+      "3.2%",
+      "900 мл"
+    ],
+    "params": {
+      "volume": "900 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "3.2%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Домик в деревне молоко 6% 950 г",
+    "cleanTokens": [],
+    "normalizedTokens": [
+      "6%",
+      "950 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "950 г",
+      "count": null,
+      "pack": null,
+      "percent": "6%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Садовое молоко 6% 900 мл",
+    "cleanTokens": [],
+    "normalizedTokens": [
+      "6%",
+      "900 мл"
+    ],
+    "params": {
+      "volume": "900 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "6%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "МОЯ ФЕРМА молоко 3.2% 900 мл",
+    "cleanTokens": [],
+    "normalizedTokens": [
+      "3.2%",
+      "900 мл"
+    ],
+    "params": {
+      "volume": "900 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "3.2%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Садовое Milk Project молоко 2.5% 900 мл",
+    "cleanTokens": [
+      "milk",
+      "project"
+    ],
+    "normalizedTokens": [
+      "milk",
+      "project",
+      "2.5%",
+      "900 мл"
+    ],
+    "params": {
+      "volume": "900 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "2.5%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Nәtige SUT молоко 3.2% 900 мл",
+    "cleanTokens": [
+      "sut"
+    ],
+    "normalizedTokens": [
+      "sut",
+      "3.2%",
+      "900 мл"
+    ],
+    "params": {
+      "volume": "900 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "3.2%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Новый день молоко 2.5% 1000 мл",
+    "cleanTokens": [],
+    "normalizedTokens": [
+      "2.5%",
+      "1000 мл"
+    ],
+    "params": {
+      "volume": "1000 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "2.5%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Ehrmann сливки 10% 100 мл",
+    "cleanTokens": [],
+    "normalizedTokens": [
+      "10%",
+      "100 мл"
+    ],
+    "params": {
+      "volume": "100 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "10%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Милоко молокосодержащий продукт 6% 1950 мл",
+    "cleanTokens": [
+      "молокосодержащий",
+      "продукт"
+    ],
+    "normalizedTokens": [
+      "молокосодержащий",
+      "продукт",
+      "6%",
+      "1950 мл"
+    ],
+    "params": {
+      "volume": "1950 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "6%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Qara Koz молоко 1.5% 900 мл",
+    "cleanTokens": [],
+    "normalizedTokens": [
+      "1.5%",
+      "900 мл"
+    ],
+    "params": {
+      "volume": "900 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "1.5%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Милоко молокосодержащий продукт 3.2% 1950 мл",
+    "cleanTokens": [
+      "молокосодержащий",
+      "продукт"
+    ],
+    "normalizedTokens": [
+      "молокосодержащий",
+      "продукт",
+      "3.2%",
+      "1950 мл"
+    ],
+    "params": {
+      "volume": "1950 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "3.2%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Astana-Өнім молоко 2.5% 1000 мл",
+    "cleanTokens": [],
+    "normalizedTokens": [
+      "2.5%",
+      "1000 мл"
+    ],
+    "params": {
+      "volume": "1000 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "2.5%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Qara Koz молоко 6% 900 мл",
+    "cleanTokens": [],
+    "normalizedTokens": [
+      "6%",
+      "900 мл"
+    ],
+    "params": {
+      "volume": "900 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "6%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Домик в деревне молоко 1.5% 950 г",
+    "cleanTokens": [],
+    "normalizedTokens": [
+      "1.5%",
+      "950 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "950 г",
+      "count": null,
+      "pack": null,
+      "percent": "1.5%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Буренкино молокосодержащий продукт 6% 1950 мл",
+    "cleanTokens": [
+      "молокосодержащий",
+      "продукт"
+    ],
+    "normalizedTokens": [
+      "молокосодержащий",
+      "продукт",
+      "6%",
+      "1950 мл"
+    ],
+    "params": {
+      "volume": "1950 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "6%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Просто молоко 6% 900 мл",
+    "cleanTokens": [],
+    "normalizedTokens": [
+      "6%",
+      "900 мл"
+    ],
+    "params": {
+      "volume": "900 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "6%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "МАСЛО-ДЕЛ молоко 7.1% 250 мл",
+    "cleanTokens": [],
+    "normalizedTokens": [
+      "7.1%",
+      "250 мл"
+    ],
+    "params": {
+      "volume": "250 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "7.1%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Милоко молокосодержащий продукт 3.2% 950 мл",
+    "cleanTokens": [
+      "молокосодержащий",
+      "продукт"
+    ],
+    "normalizedTokens": [
+      "молокосодержащий",
+      "продукт",
+      "3.2%",
+      "950 мл"
+    ],
+    "params": {
+      "volume": "950 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "3.2%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Просто молоко 3.2% 900 мл",
+    "cleanTokens": [],
+    "normalizedTokens": [
+      "3.2%",
+      "900 мл"
+    ],
+    "params": {
+      "volume": "900 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "3.2%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "В лучших традициях молоко 3.2% 900 мл",
+    "cleanTokens": [],
+    "normalizedTokens": [
+      "3.2%",
+      "900 мл"
+    ],
+    "params": {
+      "volume": "900 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "3.2%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Деп молоко 3.5% 900 г",
+    "cleanTokens": [],
+    "normalizedTokens": [
+      "3.5%",
+      "900 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "900 г",
+      "count": null,
+      "pack": null,
+      "percent": "3.5%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "В лучших традициях молоко 2.5% 900 мл",
+    "cleanTokens": [],
+    "normalizedTokens": [
+      "2.5%",
+      "900 мл"
+    ],
+    "params": {
+      "volume": "900 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "2.5%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Milkavita сливки 33% 500 г",
+    "cleanTokens": [],
+    "normalizedTokens": [
+      "33%",
+      "500 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "500 г",
+      "count": null,
+      "pack": null,
+      "percent": "33%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "БМК молоко 3.2% 975 мл",
+    "cleanTokens": [],
+    "normalizedTokens": [
+      "3.2%",
+      "975 мл"
+    ],
+    "params": {
+      "volume": "975 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "3.2%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Эмиль молоко 2.5% 900 мл",
+    "cleanTokens": [],
+    "normalizedTokens": [
+      "2.5%",
+      "900 мл"
+    ],
+    "params": {
+      "volume": "900 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "2.5%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "БМК молоко 2.5% 975 мл",
+    "cleanTokens": [],
+    "normalizedTokens": [
+      "2.5%",
+      "975 мл"
+    ],
+    "params": {
+      "volume": "975 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "2.5%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Чудское озеро сливки 33% 1000 мл",
+    "cleanTokens": [],
+    "normalizedTokens": [
+      "33%",
+      "1000 мл"
+    ],
+    "params": {
+      "volume": "1000 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "33%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Просто молоко 2.5% 900 мл",
+    "cleanTokens": [],
+    "normalizedTokens": [
+      "2.5%",
+      "900 мл"
+    ],
+    "params": {
+      "volume": "900 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "2.5%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Добрая Коза молоко козье 4.2% 500 мл",
+    "cleanTokens": [
+      "козье"
+    ],
+    "normalizedTokens": [
+      "козье",
+      "4.2%",
+      "500 мл"
+    ],
+    "params": {
+      "volume": "500 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "4.2%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Бабушкина крынка сливки 10% 1000 г",
+    "cleanTokens": [],
+    "normalizedTokens": [
+      "10%",
+      "1000 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "1000 г",
+      "count": null,
+      "pack": null,
+      "percent": "10%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Добрая Коза молоко козье 4.2% 1000 мл",
+    "cleanTokens": [
+      "козье"
+    ],
+    "normalizedTokens": [
+      "козье",
+      "4.2%",
+      "1000 мл"
+    ],
+    "params": {
+      "volume": "1000 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "4.2%",
+      "age": null,
+      "stars": null
+    }
+  }
+]

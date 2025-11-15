@@ -1,0 +1,2354 @@
+[
+  {
+    "original": "Приправыч кисель лесная ягода 110 г",
+    "cleanTokens": [
+      "кисель",
+      "лесная",
+      "ягода"
+    ],
+    "normalizedTokens": [
+      "кисель",
+      "лесная",
+      "ягода",
+      "110 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "110 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Приправыч кисель черника 110 г",
+    "cleanTokens": [
+      "кисель",
+      "черника"
+    ],
+    "normalizedTokens": [
+      "кисель",
+      "черника",
+      "110 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "110 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Приправыч кисель клюквенный 110 г",
+    "cleanTokens": [
+      "кисель",
+      "клюквенный"
+    ],
+    "normalizedTokens": [
+      "кисель",
+      "клюквенный",
+      "110 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "110 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Приправыч кисель брусника 110 г",
+    "cleanTokens": [
+      "кисель",
+      "брусника"
+    ],
+    "normalizedTokens": [
+      "кисель",
+      "брусника",
+      "110 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "110 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Приправыч Кисель вишневый 110 г",
+    "cleanTokens": [
+      "кисель",
+      "вишневый"
+    ],
+    "normalizedTokens": [
+      "кисель",
+      "вишневый",
+      "110 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "110 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Приправыч кисель малиновый 110 г",
+    "cleanTokens": [
+      "кисель",
+      "малиновый"
+    ],
+    "normalizedTokens": [
+      "кисель",
+      "малиновый",
+      "110 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "110 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Приправыч Кисель персиковый 110 г",
+    "cleanTokens": [
+      "кисель",
+      "персиковый"
+    ],
+    "normalizedTokens": [
+      "кисель",
+      "персиковый",
+      "110 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "110 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Приправыч кисель плодово-ягодный 110 г",
+    "cleanTokens": [
+      "кисель",
+      "плодово-ягодный"
+    ],
+    "normalizedTokens": [
+      "кисель",
+      "плодово-ягодный",
+      "110 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "110 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Compass смесь для Vending Горячий Шоколад 1000 г",
+    "cleanTokens": [
+      "смесь",
+      "vending",
+      "горячий",
+      "шоколад"
+    ],
+    "normalizedTokens": [
+      "смесь",
+      "vending",
+      "горячий",
+      "шоколад",
+      "1000 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "1000 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Приправыч кисель ежевика 110 г",
+    "cleanTokens": [
+      "кисель",
+      "ежевика"
+    ],
+    "normalizedTokens": [
+      "кисель",
+      "ежевика",
+      "110 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "110 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Выбор шефа кисель лесные ягоды 170 г",
+    "cleanTokens": [
+      "кисель",
+      "лесные",
+      "ягоды"
+    ],
+    "normalizedTokens": [
+      "кисель",
+      "лесные",
+      "ягоды",
+      "170 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "170 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Выбор шефа кисель клубника 170 г",
+    "cleanTokens": [
+      "кисель",
+      "клубника"
+    ],
+    "normalizedTokens": [
+      "кисель",
+      "клубника",
+      "170 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "170 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Гурмикс Vita Bar смесь для напитка мята, малина 25 г",
+    "cleanTokens": [
+      "vita",
+      "bar",
+      "смесь",
+      "напитка",
+      "мята",
+      "малина"
+    ],
+    "normalizedTokens": [
+      "vita",
+      "bar",
+      "смесь",
+      "напитка",
+      "мята",
+      "малина",
+      "25 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "25 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Гурмикс смесь для напитка облепиха, имбирь 25 г",
+    "cleanTokens": [
+      "смесь",
+      "напитка",
+      "облепиха",
+      "имбирь"
+    ],
+    "normalizedTokens": [
+      "смесь",
+      "напитка",
+      "облепиха",
+      "имбирь",
+      "25 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "25 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Compass смесь для напитка банан 1000 г",
+    "cleanTokens": [
+      "смесь",
+      "напитка",
+      "банан"
+    ],
+    "normalizedTokens": [
+      "смесь",
+      "напитка",
+      "банан",
+      "1000 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "1000 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Гурмикс смесь для напитка апельсин, имбирь, корица 25 г",
+    "cleanTokens": [
+      "смесь",
+      "напитка",
+      "апельсин",
+      "имбирь",
+      "корица"
+    ],
+    "normalizedTokens": [
+      "смесь",
+      "напитка",
+      "апельсин",
+      "имбирь",
+      "корица",
+      "25 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "25 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Приправыч кисель красная смородина 110 г",
+    "cleanTokens": [
+      "кисель",
+      "красная",
+      "смородина"
+    ],
+    "normalizedTokens": [
+      "кисель",
+      "красная",
+      "смородина",
+      "110 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "110 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Bubble Boss смесь для коктейля зеленое яблоко 3000 г",
+    "cleanTokens": [
+      "смесь",
+      "коктейля",
+      "зеленое",
+      "яблоко"
+    ],
+    "normalizedTokens": [
+      "смесь",
+      "коктейля",
+      "зеленое",
+      "яблоко",
+      "3000 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "3000 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Fit Effectum кисель черника 30 г",
+    "cleanTokens": [
+      "кисель",
+      "черника"
+    ],
+    "normalizedTokens": [
+      "кисель",
+      "черника",
+      "30 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "30 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Doking фруктовая смесь со вкусом таро 1000 г",
+    "cleanTokens": [
+      "фруктовая",
+      "смесь",
+      "со",
+      "вкусом",
+      "таро"
+    ],
+    "normalizedTokens": [
+      "фруктовая",
+      "смесь",
+      "со",
+      "вкусом",
+      "таро",
+      "1000 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "1000 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Doking фруктовая смесь со вкусом дыни 1000 г",
+    "cleanTokens": [
+      "фруктовая",
+      "смесь",
+      "со",
+      "вкусом",
+      "дыни"
+    ],
+    "normalizedTokens": [
+      "фруктовая",
+      "смесь",
+      "со",
+      "вкусом",
+      "дыни",
+      "1000 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "1000 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Bubble Boss тапиока шарики 6 мм 1000 г",
+    "cleanTokens": [
+      "тапиока",
+      "шарики",
+      "6",
+      "мм"
+    ],
+    "normalizedTokens": [
+      "тапиока",
+      "шарики",
+      "6",
+      "мм",
+      "1000 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "1000 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Bubble Boss джус боллы йогурт 1000 г",
+    "cleanTokens": [
+      "джус",
+      "боллы",
+      "йогурт"
+    ],
+    "normalizedTokens": [
+      "джус",
+      "боллы",
+      "йогурт",
+      "1000 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "1000 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Doking фруктовая смесь со вкусом клубники 1000 г",
+    "cleanTokens": [
+      "фруктовая",
+      "смесь",
+      "со",
+      "вкусом",
+      "клубники"
+    ],
+    "normalizedTokens": [
+      "фруктовая",
+      "смесь",
+      "со",
+      "вкусом",
+      "клубники",
+      "1000 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "1000 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Bubble boss Тапиока 0.6 для бабл ти",
+    "cleanTokens": [
+      "тапиока",
+      "0.6",
+      "бабл",
+      "ти"
+    ],
+    "normalizedTokens": [
+      "тапиока",
+      "0.6",
+      "бабл",
+      "ти"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Doking фруктовая смесь со вкусом кокоса 1000 г",
+    "cleanTokens": [
+      "фруктовая",
+      "смесь",
+      "со",
+      "вкусом",
+      "кокоса"
+    ],
+    "normalizedTokens": [
+      "фруктовая",
+      "смесь",
+      "со",
+      "вкусом",
+      "кокоса",
+      "1000 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "1000 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Doking фруктовая смесь со вкусом ананаса 1000 г",
+    "cleanTokens": [
+      "фруктовая",
+      "смесь",
+      "со",
+      "вкусом",
+      "ананаса"
+    ],
+    "normalizedTokens": [
+      "фруктовая",
+      "смесь",
+      "со",
+      "вкусом",
+      "ананаса",
+      "1000 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "1000 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Bubble Boss джус боллы манго 3000 г",
+    "cleanTokens": [
+      "джус",
+      "боллы",
+      "манго"
+    ],
+    "normalizedTokens": [
+      "джус",
+      "боллы",
+      "манго",
+      "3000 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "3000 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Bubble Boss джус боллы персик 3000 г",
+    "cleanTokens": [
+      "джус",
+      "боллы",
+      "персик"
+    ],
+    "normalizedTokens": [
+      "джус",
+      "боллы",
+      "персик",
+      "3000 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "3000 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Doking фруктовая смесь со вкусом винограда 1000 г",
+    "cleanTokens": [
+      "фруктовая",
+      "смесь",
+      "со",
+      "вкусом",
+      "винограда"
+    ],
+    "normalizedTokens": [
+      "фруктовая",
+      "смесь",
+      "со",
+      "вкусом",
+      "винограда",
+      "1000 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "1000 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Doking фруктовая смесь со вкусом арбуза 1000 г",
+    "cleanTokens": [
+      "фруктовая",
+      "смесь",
+      "со",
+      "вкусом",
+      "арбуза"
+    ],
+    "normalizedTokens": [
+      "фруктовая",
+      "смесь",
+      "со",
+      "вкусом",
+      "арбуза",
+      "1000 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "1000 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Doking фруктовая смесь со вкусом шоколада 1000 г",
+    "cleanTokens": [
+      "фруктовая",
+      "смесь",
+      "со",
+      "вкусом",
+      "шоколада"
+    ],
+    "normalizedTokens": [
+      "фруктовая",
+      "смесь",
+      "со",
+      "вкусом",
+      "шоколада",
+      "1000 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "1000 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Кокосовые дольки для бабл ти 1000 г",
+    "cleanTokens": [
+      "кокосовые",
+      "дольки",
+      "бабл",
+      "ти"
+    ],
+    "normalizedTokens": [
+      "кокосовые",
+      "дольки",
+      "бабл",
+      "ти",
+      "1000 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "1000 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Doking фруктовая смесь со вкусом банана 1000 г",
+    "cleanTokens": [
+      "фруктовая",
+      "смесь",
+      "со",
+      "вкусом",
+      "банана"
+    ],
+    "normalizedTokens": [
+      "фруктовая",
+      "смесь",
+      "со",
+      "вкусом",
+      "банана",
+      "1000 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "1000 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Bubble Boss джус боллы маракуйя 3000 г",
+    "cleanTokens": [
+      "джус",
+      "боллы",
+      "маракуйя"
+    ],
+    "normalizedTokens": [
+      "джус",
+      "боллы",
+      "маракуйя",
+      "3000 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "3000 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Bubble Boss тапиока шарики 8 мм 1000 г",
+    "cleanTokens": [
+      "тапиока",
+      "шарики",
+      "8",
+      "мм"
+    ],
+    "normalizedTokens": [
+      "тапиока",
+      "шарики",
+      "8",
+      "мм",
+      "1000 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "1000 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Bubble Boss тапиока шарики 8 мм 1000 г",
+    "cleanTokens": [
+      "тапиока",
+      "шарики",
+      "8",
+      "мм"
+    ],
+    "normalizedTokens": [
+      "тапиока",
+      "шарики",
+      "8",
+      "мм",
+      "1000 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "1000 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Compass сухая смесь для быстрорастворимого чайного напитка с лимоном 1000 г",
+    "cleanTokens": [
+      "сухая",
+      "смесь",
+      "быстрорастворимого",
+      "чайного",
+      "напитка",
+      "с",
+      "лимоном"
+    ],
+    "normalizedTokens": [
+      "сухая",
+      "смесь",
+      "быстрорастворимого",
+      "чайного",
+      "напитка",
+      "с",
+      "лимоном",
+      "1000 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "1000 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Смесь для молочного коктейля с кусочками клубники 1000 г",
+    "cleanTokens": [
+      "смесь",
+      "молочного",
+      "коктейля",
+      "с",
+      "кусочками",
+      "клубники"
+    ],
+    "normalizedTokens": [
+      "смесь",
+      "молочного",
+      "коктейля",
+      "с",
+      "кусочками",
+      "клубники",
+      "1000 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "1000 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Doking фруктовая смесь со вкусом маракуйи 1000 г",
+    "cleanTokens": [
+      "фруктовая",
+      "смесь",
+      "со",
+      "вкусом",
+      "маракуйи"
+    ],
+    "normalizedTokens": [
+      "фруктовая",
+      "смесь",
+      "со",
+      "вкусом",
+      "маракуйи",
+      "1000 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "1000 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Bubble Boss джус боллы черника 3000 г",
+    "cleanTokens": [
+      "джус",
+      "боллы",
+      "черника"
+    ],
+    "normalizedTokens": [
+      "джус",
+      "боллы",
+      "черника",
+      "3000 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "3000 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Смесь для молочного коктейля с кусочками манго 1000 г",
+    "cleanTokens": [
+      "смесь",
+      "молочного",
+      "коктейля",
+      "с",
+      "кусочками",
+      "манго"
+    ],
+    "normalizedTokens": [
+      "смесь",
+      "молочного",
+      "коктейля",
+      "с",
+      "кусочками",
+      "манго",
+      "1000 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "1000 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Bubble Boss тапиока шарики 8 мм 1000 г",
+    "cleanTokens": [
+      "тапиока",
+      "шарики",
+      "8",
+      "мм"
+    ],
+    "normalizedTokens": [
+      "тапиока",
+      "шарики",
+      "8",
+      "мм",
+      "1000 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "1000 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Compass сухая смесь для быстрорастворимого чайного напитка чай Марокканский 1000 г",
+    "cleanTokens": [
+      "сухая",
+      "смесь",
+      "быстрорастворимого",
+      "чайного",
+      "напитка",
+      "чай",
+      "марокканский"
+    ],
+    "normalizedTokens": [
+      "сухая",
+      "смесь",
+      "быстрорастворимого",
+      "чайного",
+      "напитка",
+      "чай",
+      "марокканский",
+      "1000 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "1000 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Смесь для молочного коктейля с кусочками финика 1000 г",
+    "cleanTokens": [
+      "смесь",
+      "молочного",
+      "коктейля",
+      "с",
+      "кусочками",
+      "финика"
+    ],
+    "normalizedTokens": [
+      "смесь",
+      "молочного",
+      "коктейля",
+      "с",
+      "кусочками",
+      "финика",
+      "1000 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "1000 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Doking смесь со вкусом молочно-карамельным 1000 г",
+    "cleanTokens": [
+      "смесь",
+      "со",
+      "вкусом",
+      "молочно-карамельным"
+    ],
+    "normalizedTokens": [
+      "смесь",
+      "со",
+      "вкусом",
+      "молочно-карамельным",
+      "1000 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "1000 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Doking смесь со вкусом матчи 1000 г",
+    "cleanTokens": [
+      "смесь",
+      "со",
+      "вкусом",
+      "матчи"
+    ],
+    "normalizedTokens": [
+      "смесь",
+      "со",
+      "вкусом",
+      "матчи",
+      "1000 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "1000 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Bubble Boss джус боллы клубника 3000 г",
+    "cleanTokens": [
+      "джус",
+      "боллы",
+      "клубника"
+    ],
+    "normalizedTokens": [
+      "джус",
+      "боллы",
+      "клубника",
+      "3000 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "3000 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Fit Effectum кисель клюква 30 г",
+    "cleanTokens": [
+      "кисель",
+      "клюква"
+    ],
+    "normalizedTokens": [
+      "кисель",
+      "клюква",
+      "30 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "30 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Fit Effectum кисель земляника 30 г",
+    "cleanTokens": [
+      "кисель",
+      "земляника"
+    ],
+    "normalizedTokens": [
+      "кисель",
+      "земляника",
+      "30 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "30 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Приправыч кисель клубничный 110 г",
+    "cleanTokens": [
+      "кисель",
+      "клубничный"
+    ],
+    "normalizedTokens": [
+      "кисель",
+      "клубничный",
+      "110 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "110 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "ALMAFOOD смесь для напитка Saturato 1000 г",
+    "cleanTokens": [
+      "смесь",
+      "напитка",
+      "saturato"
+    ],
+    "normalizedTokens": [
+      "смесь",
+      "напитка",
+      "saturato",
+      "1000 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "1000 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Дачный кисель ягодный 300 г",
+    "cleanTokens": [
+      "кисель",
+      "ягодный"
+    ],
+    "normalizedTokens": [
+      "кисель",
+      "ягодный",
+      "300 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "300 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Compass смесь для Vending Капучино 1000 г",
+    "cleanTokens": [
+      "смесь",
+      "vending",
+      "капучино"
+    ],
+    "normalizedTokens": [
+      "смесь",
+      "vending",
+      "капучино",
+      "1000 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "1000 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Гурмикс Vita Bar смесь для напитка смородина, чабрец и мята 25 г",
+    "cleanTokens": [
+      "vita",
+      "bar",
+      "смесь",
+      "напитка",
+      "смородина",
+      "чабрец",
+      "мята"
+    ],
+    "normalizedTokens": [
+      "vita",
+      "bar",
+      "смесь",
+      "напитка",
+      "смородина",
+      "чабрец",
+      "мята",
+      "25 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "25 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Fain Berry трубочки для молока со вкусом клубники 30 г",
+    "cleanTokens": [
+      "трубочки",
+      "молока",
+      "со",
+      "вкусом",
+      "клубники"
+    ],
+    "normalizedTokens": [
+      "трубочки",
+      "молока",
+      "со",
+      "вкусом",
+      "клубники",
+      "30 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "30 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Compass смесь для напитка клубника 1000 г",
+    "cleanTokens": [
+      "смесь",
+      "напитка",
+      "клубника"
+    ],
+    "normalizedTokens": [
+      "смесь",
+      "напитка",
+      "клубника",
+      "1000 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "1000 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Костровок смесь для глинтвейна 100 г",
+    "cleanTokens": [
+      "смесь",
+      "глинтвейна"
+    ],
+    "normalizedTokens": [
+      "смесь",
+      "глинтвейна",
+      "100 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "100 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "ГОСТик смесь для мороженого ванильное мороженое 1000 г",
+    "cleanTokens": [
+      "смесь",
+      "мороженого",
+      "ванильное",
+      "мороженое"
+    ],
+    "normalizedTokens": [
+      "смесь",
+      "мороженого",
+      "ванильное",
+      "мороженое",
+      "1000 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "1000 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Fain Berry Астро Микс трубочки для молока фруктовые 30 г",
+    "cleanTokens": [
+      "астро",
+      "микс",
+      "трубочки",
+      "молока",
+      "фруктовые"
+    ],
+    "normalizedTokens": [
+      "астро",
+      "микс",
+      "трубочки",
+      "молока",
+      "фруктовые",
+      "30 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "30 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Danice смесь для мороженого со вкусом бабл гам 1000 г",
+    "cleanTokens": [
+      "смесь",
+      "мороженого",
+      "со",
+      "вкусом",
+      "бабл",
+      "гам"
+    ],
+    "normalizedTokens": [
+      "смесь",
+      "мороженого",
+      "со",
+      "вкусом",
+      "бабл",
+      "гам",
+      "1000 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "1000 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "ГОСТик смесь для мороженого клубника 1000 г",
+    "cleanTokens": [
+      "смесь",
+      "мороженого",
+      "клубника"
+    ],
+    "normalizedTokens": [
+      "смесь",
+      "мороженого",
+      "клубника",
+      "1000 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "1000 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Это полезно Куркума Latte смесь для напитка натуральный 200 г",
+    "cleanTokens": [
+      "куркума",
+      "latte",
+      "смесь",
+      "напитка",
+      "натуральный"
+    ],
+    "normalizedTokens": [
+      "куркума",
+      "latte",
+      "смесь",
+      "напитка",
+      "натуральный",
+      "200 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "200 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Konditerka.kz стабилизатор для мороженого PC_IS 3670 1000 г",
+    "cleanTokens": [
+      "стабилизатор",
+      "мороженого",
+      "pc_is",
+      "3670"
+    ],
+    "normalizedTokens": [
+      "стабилизатор",
+      "мороженого",
+      "pc_is",
+      "3670",
+      "1000 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "1000 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Konditerka.kz стабилизатор для приготовления мороженого 1000 г",
+    "cleanTokens": [
+      "стабилизатор",
+      "мороженого"
+    ],
+    "normalizedTokens": [
+      "стабилизатор",
+      "мороженого",
+      "1000 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "1000 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Fain Berry трубочки для молока со вкусом шоколада 30 г",
+    "cleanTokens": [
+      "трубочки",
+      "молока",
+      "со",
+      "вкусом",
+      "шоколада"
+    ],
+    "normalizedTokens": [
+      "трубочки",
+      "молока",
+      "со",
+      "вкусом",
+      "шоколада",
+      "30 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "30 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "ALMAFOOD Raf-Dolce Banana 1000 г",
+    "cleanTokens": [
+      "raf-dolce",
+      "banana"
+    ],
+    "normalizedTokens": [
+      "raf-dolce",
+      "banana",
+      "1000 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "1000 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Гурмикс смесь для напитка мандарин 150 г",
+    "cleanTokens": [
+      "смесь",
+      "напитка",
+      "мандарин"
+    ],
+    "normalizedTokens": [
+      "смесь",
+      "напитка",
+      "мандарин",
+      "150 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "150 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Fain Berry трубочки для молока со вкусом бабл-гам 30 г",
+    "cleanTokens": [
+      "трубочки",
+      "молока",
+      "со",
+      "вкусом",
+      "бабл-гам"
+    ],
+    "normalizedTokens": [
+      "трубочки",
+      "молока",
+      "со",
+      "вкусом",
+      "бабл-гам",
+      "30 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "30 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Fain Berry трубочки для молока со вкусом лесных ягод 30 г",
+    "cleanTokens": [
+      "трубочки",
+      "молока",
+      "со",
+      "вкусом",
+      "лесных",
+      "ягод"
+    ],
+    "normalizedTokens": [
+      "трубочки",
+      "молока",
+      "со",
+      "вкусом",
+      "лесных",
+      "ягод",
+      "30 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "30 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "ГОСТик смесь для мороженого шоколад 1000 г",
+    "cleanTokens": [
+      "смесь",
+      "мороженого",
+      "шоколад"
+    ],
+    "normalizedTokens": [
+      "смесь",
+      "мороженого",
+      "шоколад",
+      "1000 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "1000 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Danice смесь для мороженого клубника 1000 г",
+    "cleanTokens": [
+      "смесь",
+      "мороженого",
+      "клубника"
+    ],
+    "normalizedTokens": [
+      "смесь",
+      "мороженого",
+      "клубника",
+      "1000 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "1000 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Danice смесь для мороженого банан 1000 г",
+    "cleanTokens": [
+      "смесь",
+      "мороженого",
+      "банан"
+    ],
+    "normalizedTokens": [
+      "смесь",
+      "мороженого",
+      "банан",
+      "1000 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "1000 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Icedream смесь для мороженого шоколад 1000 г",
+    "cleanTokens": [
+      "смесь",
+      "мороженого",
+      "шоколад"
+    ],
+    "normalizedTokens": [
+      "смесь",
+      "мороженого",
+      "шоколад",
+      "1000 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "1000 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Fain Berry Сладкотека трубочки для молока фруктовые 30 г",
+    "cleanTokens": [
+      "сладкотека",
+      "трубочки",
+      "молока",
+      "фруктовые"
+    ],
+    "normalizedTokens": [
+      "сладкотека",
+      "трубочки",
+      "молока",
+      "фруктовые",
+      "30 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "30 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Osnova tech смесь для коктейля молочный вафля-попкорн 500 г",
+    "cleanTokens": [
+      "смесь",
+      "коктейля",
+      "молочный",
+      "вафля-попкорн"
+    ],
+    "normalizedTokens": [
+      "смесь",
+      "коктейля",
+      "молочный",
+      "вафля-попкорн",
+      "500 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "500 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Osnova tech смесь для коктейля банановое мороженое с соленой карамелью 500 г",
+    "cleanTokens": [
+      "смесь",
+      "коктейля",
+      "банановое",
+      "мороженое",
+      "с",
+      "соленой",
+      "карамелью"
+    ],
+    "normalizedTokens": [
+      "смесь",
+      "коктейля",
+      "банановое",
+      "мороженое",
+      "с",
+      "соленой",
+      "карамелью",
+      "500 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "500 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Danice смесь для мороженого шоколад 1000 г",
+    "cleanTokens": [
+      "смесь",
+      "мороженого",
+      "шоколад"
+    ],
+    "normalizedTokens": [
+      "смесь",
+      "мороженого",
+      "шоколад",
+      "1000 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "1000 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Osnova tech смесь для напитка лесной орех 500 г",
+    "cleanTokens": [
+      "смесь",
+      "напитка",
+      "лесной",
+      "орех"
+    ],
+    "normalizedTokens": [
+      "смесь",
+      "напитка",
+      "лесной",
+      "орех",
+      "500 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "500 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Danice смесь для мороженого ваниль 1000 г",
+    "cleanTokens": [
+      "смесь",
+      "мороженого",
+      "ваниль"
+    ],
+    "normalizedTokens": [
+      "смесь",
+      "мороженого",
+      "ваниль",
+      "1000 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "1000 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Danice смесь для мороженого фисташка 1000 г",
+    "cleanTokens": [
+      "смесь",
+      "мороженого",
+      "фисташка"
+    ],
+    "normalizedTokens": [
+      "смесь",
+      "мороженого",
+      "фисташка",
+      "1000 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "1000 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Fain Berry Космо Микс трубочки для молока фруктовые 30 г",
+    "cleanTokens": [
+      "космо",
+      "микс",
+      "трубочки",
+      "молока",
+      "фруктовые"
+    ],
+    "normalizedTokens": [
+      "космо",
+      "микс",
+      "трубочки",
+      "молока",
+      "фруктовые",
+      "30 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "30 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Чай osnova tech Osnova tech Малина -Розмарин фруктовый порошок 500 г",
+    "cleanTokens": [
+      "чай",
+      "малина",
+      "-розмарин",
+      "фруктовый",
+      "порошок"
+    ],
+    "normalizedTokens": [
+      "чай",
+      "малина",
+      "-розмарин",
+      "фруктовый",
+      "порошок",
+      "500 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "500 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Osnova tech смесь для напитка лимонный тарт с меренгой 500 г",
+    "cleanTokens": [
+      "смесь",
+      "напитка",
+      "лимонный",
+      "тарт",
+      "с",
+      "меренгой"
+    ],
+    "normalizedTokens": [
+      "смесь",
+      "напитка",
+      "лимонный",
+      "тарт",
+      "с",
+      "меренгой",
+      "500 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "500 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Osnova tech смесь для напитка карамель-сливочный ирис 500 г",
+    "cleanTokens": [
+      "смесь",
+      "напитка",
+      "карамель-сливочный",
+      "ирис"
+    ],
+    "normalizedTokens": [
+      "смесь",
+      "напитка",
+      "карамель-сливочный",
+      "ирис",
+      "500 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "500 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Osnova tech смесь для напитка манго, маракуйя, чили 500 г",
+    "cleanTokens": [
+      "смесь",
+      "напитка",
+      "манго",
+      "маракуйя",
+      "чили"
+    ],
+    "normalizedTokens": [
+      "смесь",
+      "напитка",
+      "манго",
+      "маракуйя",
+      "чили",
+      "500 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "500 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Fain Berry Вкуснотека трубочки для молока фруктовые 30 г",
+    "cleanTokens": [
+      "вкуснотека",
+      "трубочки",
+      "молока",
+      "фруктовые"
+    ],
+    "normalizedTokens": [
+      "вкуснотека",
+      "трубочки",
+      "молока",
+      "фруктовые",
+      "30 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "30 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Osnova tech смесь для напитка лесные ягоды 500 г",
+    "cleanTokens": [
+      "смесь",
+      "напитка",
+      "лесные",
+      "ягоды"
+    ],
+    "normalizedTokens": [
+      "смесь",
+      "напитка",
+      "лесные",
+      "ягоды",
+      "500 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "500 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Osnova tech смесь для напитка ваниль 500 г",
+    "cleanTokens": [
+      "смесь",
+      "напитка",
+      "ваниль"
+    ],
+    "normalizedTokens": [
+      "смесь",
+      "напитка",
+      "ваниль",
+      "500 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "500 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Osnova tech смесь для коктейля шоколадный пломбир 500 г",
+    "cleanTokens": [
+      "смесь",
+      "коктейля",
+      "шоколадный",
+      "пломбир"
+    ],
+    "normalizedTokens": [
+      "смесь",
+      "коктейля",
+      "шоколадный",
+      "пломбир",
+      "500 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "500 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "ALMAFOOD смесь для напитка Raf Dolce Caramel 1000 г",
+    "cleanTokens": [
+      "смесь",
+      "напитка",
+      "raf",
+      "dolce",
+      "caramel"
+    ],
+    "normalizedTokens": [
+      "смесь",
+      "напитка",
+      "raf",
+      "dolce",
+      "caramel",
+      "1000 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "1000 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Osnova tech смесь для напитка кокос, малина 500 г",
+    "cleanTokens": [
+      "смесь",
+      "напитка",
+      "кокос",
+      "малина"
+    ],
+    "normalizedTokens": [
+      "смесь",
+      "напитка",
+      "кокос",
+      "малина",
+      "500 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "500 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Osnova tech смесь для коктейля банан 500 г",
+    "cleanTokens": [
+      "смесь",
+      "коктейля",
+      "банан"
+    ],
+    "normalizedTokens": [
+      "смесь",
+      "коктейля",
+      "банан",
+      "500 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "500 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Icedream Гранита смесь для фруктового снега, лайм 1000 г",
+    "cleanTokens": [
+      "гранита",
+      "смесь",
+      "фруктового",
+      "снега",
+      "лайм"
+    ],
+    "normalizedTokens": [
+      "гранита",
+      "смесь",
+      "фруктового",
+      "снега",
+      "лайм",
+      "1000 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "1000 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Osnova tech смесь для напитка вишневая панакота 500 г",
+    "cleanTokens": [
+      "смесь",
+      "напитка",
+      "вишневая",
+      "панакота"
+    ],
+    "normalizedTokens": [
+      "смесь",
+      "напитка",
+      "вишневая",
+      "панакота",
+      "500 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "500 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  }
+]

@@ -1,17 +1,24 @@
-import { ProductLink } from "src/product-links/entities/product-link.entity";
-import { Column, Entity, ManyToOne, PrimaryGeneratedColumn } from "typeorm";
+// src/price-history/entities/price-history.entity.ts
+import { Column, Entity, ManyToOne, PrimaryGeneratedColumn } from 'typeorm';
+import { ProductOffer } from 'src/product-offers/product-offer.entity';
 
-// price-history/entities/price-history.entity.ts
 @Entity()
 export class PriceHistory {
-  @PrimaryGeneratedColumn() id: number;
+  @PrimaryGeneratedColumn()
+  id: number;
 
-  @ManyToOne(() => ProductLink, (link) => link.history)
-  link: ProductLink;
+  @ManyToOne(() => ProductOffer, (offer) => offer.history)
+  offer: ProductOffer;
 
-  @Column('date') date: Date;
-  @Column('decimal', { precision: 10, scale: 2 }) price: number;
+  @Column('timestamptz')
+  capturedAt: Date;
+
+  @Column('decimal', { precision: 10, scale: 2 })
+  price: number;
+
   @Column('decimal', { precision: 10, scale: 2, nullable: true })
-  oldPrice: number;
-  @Column({ default: 0 }) discountPercent: number;
+  oldPrice: number | null;
+
+  @Column({ default: 0 })
+  discountPercent: number;
 }

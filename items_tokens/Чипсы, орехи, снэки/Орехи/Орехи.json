@@ -1,0 +1,2995 @@
+[
+  {
+    "original": "MAGNUM арахис 200 г",
+    "cleanTokens": [
+      "арахис"
+    ],
+    "normalizedTokens": [
+      "арахис",
+      "200 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "200 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Караван арахис жареный соленый 150 г",
+    "cleanTokens": [
+      "арахис",
+      "жареный",
+      "соленый"
+    ],
+    "normalizedTokens": [
+      "арахис",
+      "жареный",
+      "соленый",
+      "150 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "150 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "MAGNUM грецкий орех очищенный 200 г",
+    "cleanTokens": [
+      "грецкий",
+      "орех",
+      "очищенный"
+    ],
+    "normalizedTokens": [
+      "грецкий",
+      "орех",
+      "очищенный",
+      "200 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "200 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Immune Up грецкий орех 150 г",
+    "cleanTokens": [
+      "грецкий",
+      "орех"
+    ],
+    "normalizedTokens": [
+      "грецкий",
+      "орех",
+      "150 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "150 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Immune Up миндаль 150 г",
+    "cleanTokens": [
+      "миндаль"
+    ],
+    "normalizedTokens": [
+      "миндаль",
+      "150 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "150 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Восточный базар кешью 200 г",
+    "cleanTokens": [
+      "кешью"
+    ],
+    "normalizedTokens": [
+      "кешью",
+      "200 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "200 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Восточный базар арахис соленый 200 г",
+    "cleanTokens": [
+      "арахис",
+      "соленый"
+    ],
+    "normalizedTokens": [
+      "арахис",
+      "соленый",
+      "200 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "200 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "MAGNUM фисташка 200 г",
+    "cleanTokens": [
+      "фисташка"
+    ],
+    "normalizedTokens": [
+      "фисташка",
+      "200 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "200 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Восточный базар миндаль 400 г",
+    "cleanTokens": [
+      "миндаль"
+    ],
+    "normalizedTokens": [
+      "миндаль",
+      "400 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "400 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Караван арахис 50 г",
+    "cleanTokens": [
+      "арахис"
+    ],
+    "normalizedTokens": [
+      "арахис",
+      "50 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "50 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Восточный базар кешью 400 г",
+    "cleanTokens": [
+      "кешью"
+    ],
+    "normalizedTokens": [
+      "кешью",
+      "400 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "400 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "MAGNUM абрикосовая косточка 200 г",
+    "cleanTokens": [
+      "абрикосовая",
+      "косточка"
+    ],
+    "normalizedTokens": [
+      "абрикосовая",
+      "косточка",
+      "200 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "200 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Восточный базар арахис 400 г",
+    "cleanTokens": [
+      "арахис"
+    ],
+    "normalizedTokens": [
+      "арахис",
+      "400 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "400 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Ореховый Микс Greenberry кешью, орехи в карамели 150 гр",
+    "cleanTokens": [
+      "ореховый",
+      "микс",
+      "кешью",
+      "в",
+      "карамели"
+    ],
+    "normalizedTokens": [
+      "ореховый",
+      "микс",
+      "кешью",
+      "в",
+      "карамели",
+      "150 гр"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "150 гр",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Восточный базар арахис соленый 400 г",
+    "cleanTokens": [
+      "арахис",
+      "соленый"
+    ],
+    "normalizedTokens": [
+      "арахис",
+      "соленый",
+      "400 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "400 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Восточный базар грецкий орех 400 г",
+    "cleanTokens": [
+      "грецкий",
+      "орех"
+    ],
+    "normalizedTokens": [
+      "грецкий",
+      "орех",
+      "400 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "400 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Восточный базар бразильский орех 200 г",
+    "cleanTokens": [
+      "бразильский",
+      "орех"
+    ],
+    "normalizedTokens": [
+      "бразильский",
+      "орех",
+      "200 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "200 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Восточный базар арахис 200 г",
+    "cleanTokens": [
+      "арахис"
+    ],
+    "normalizedTokens": [
+      "арахис",
+      "200 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "200 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Абрикос грецкий орех без обжарки 300 г",
+    "cleanTokens": [
+      "грецкий",
+      "орех",
+      "без",
+      "обжарки"
+    ],
+    "normalizedTokens": [
+      "грецкий",
+      "орех",
+      "без",
+      "обжарки",
+      "300 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "300 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Абрикос пекан 300 г",
+    "cleanTokens": [
+      "пекан"
+    ],
+    "normalizedTokens": [
+      "пекан",
+      "300 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "300 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Абрикос макадамия 300 г",
+    "cleanTokens": [
+      "макадамия"
+    ],
+    "normalizedTokens": [
+      "макадамия",
+      "300 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "300 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Абрикос арахис обжаренный 300 г",
+    "cleanTokens": [
+      "арахис",
+      "обжаренный"
+    ],
+    "normalizedTokens": [
+      "арахис",
+      "обжаренный",
+      "300 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "300 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Абрикос арахис обжаренный, соленый 300 г",
+    "cleanTokens": [
+      "арахис",
+      "обжаренный",
+      "соленый"
+    ],
+    "normalizedTokens": [
+      "арахис",
+      "обжаренный",
+      "соленый",
+      "300 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "300 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Immune Up кешью, миндаль, фундук, изюм 150 г",
+    "cleanTokens": [
+      "кешью",
+      "миндаль",
+      "фундук",
+      "изюм"
+    ],
+    "normalizedTokens": [
+      "кешью",
+      "миндаль",
+      "фундук",
+      "изюм",
+      "150 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "150 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Восточный базар жареный кешью 200 г",
+    "cleanTokens": [
+      "жареный",
+      "кешью"
+    ],
+    "normalizedTokens": [
+      "жареный",
+      "кешью",
+      "200 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "200 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Ореховый Микс Greenberry миндаль, орехи в карамели 150 гр",
+    "cleanTokens": [
+      "ореховый",
+      "микс",
+      "миндаль",
+      "в",
+      "карамели"
+    ],
+    "normalizedTokens": [
+      "ореховый",
+      "микс",
+      "миндаль",
+      "в",
+      "карамели",
+      "150 гр"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "150 гр",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Абрикос миндаль без обжарки 300 г",
+    "cleanTokens": [
+      "миндаль",
+      "без",
+      "обжарки"
+    ],
+    "normalizedTokens": [
+      "миндаль",
+      "без",
+      "обжарки",
+      "300 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "300 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Восточный базар миндаль соленый 400 г",
+    "cleanTokens": [
+      "миндаль",
+      "соленый"
+    ],
+    "normalizedTokens": [
+      "миндаль",
+      "соленый",
+      "400 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "400 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Абрикос кешью обжаренный, соленый 300 г",
+    "cleanTokens": [
+      "кешью",
+      "обжаренный",
+      "соленый"
+    ],
+    "normalizedTokens": [
+      "кешью",
+      "обжаренный",
+      "соленый",
+      "300 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "300 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Восточный базар кешью жареный 400 г",
+    "cleanTokens": [
+      "кешью",
+      "жареный"
+    ],
+    "normalizedTokens": [
+      "кешью",
+      "жареный",
+      "400 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "400 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Восточный базар пекан 200 г",
+    "cleanTokens": [
+      "пекан"
+    ],
+    "normalizedTokens": [
+      "пекан",
+      "200 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "200 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Восточный базар фисташка соленая 400 г",
+    "cleanTokens": [
+      "фисташка",
+      "соленая"
+    ],
+    "normalizedTokens": [
+      "фисташка",
+      "соленая",
+      "400 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "400 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Абрикос фисташка обжаренный, соленый 300 г",
+    "cleanTokens": [
+      "фисташка",
+      "обжаренный",
+      "соленый"
+    ],
+    "normalizedTokens": [
+      "фисташка",
+      "обжаренный",
+      "соленый",
+      "300 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "300 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Абрикос миндаль обжаренный, соленый 300 г",
+    "cleanTokens": [
+      "миндаль",
+      "обжаренный",
+      "соленый"
+    ],
+    "normalizedTokens": [
+      "миндаль",
+      "обжаренный",
+      "соленый",
+      "300 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "300 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Восточный базар пекан 400 г",
+    "cleanTokens": [
+      "пекан"
+    ],
+    "normalizedTokens": [
+      "пекан",
+      "400 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "400 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Абрикос кешью без обжарки, очищенный 300 г",
+    "cleanTokens": [
+      "кешью",
+      "без",
+      "обжарки",
+      "очищенный"
+    ],
+    "normalizedTokens": [
+      "кешью",
+      "без",
+      "обжарки",
+      "очищенный",
+      "300 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "300 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Сибирский кедр кедровый орех 500 г",
+    "cleanTokens": [
+      "кедровый",
+      "орех"
+    ],
+    "normalizedTokens": [
+      "кедровый",
+      "орех",
+      "500 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "500 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Сибирский кедр кедровый орех Premium 500 г",
+    "cleanTokens": [
+      "кедровый",
+      "орех",
+      "premium"
+    ],
+    "normalizedTokens": [
+      "кедровый",
+      "орех",
+      "premium",
+      "500 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "500 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Абрикос кедровый орех 300 г",
+    "cleanTokens": [
+      "кедровый",
+      "орех"
+    ],
+    "normalizedTokens": [
+      "кедровый",
+      "орех",
+      "300 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "300 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Абрикос фундук без обжарки 300 г",
+    "cleanTokens": [
+      "фундук",
+      "без",
+      "обжарки"
+    ],
+    "normalizedTokens": [
+      "фундук",
+      "без",
+      "обжарки",
+      "300 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "300 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "BEERка арахис 90 г",
+    "cleanTokens": [
+      "арахис"
+    ],
+    "normalizedTokens": [
+      "арахис",
+      "90 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "90 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Арахис 500 г",
+    "cleanTokens": [
+      "арахис"
+    ],
+    "normalizedTokens": [
+      "арахис",
+      "500 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "500 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Абрикос бразильский орех 300 г",
+    "cleanTokens": [
+      "бразильский",
+      "орех"
+    ],
+    "normalizedTokens": [
+      "бразильский",
+      "орех",
+      "300 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "300 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Восточный базар фисташка 400 г",
+    "cleanTokens": [
+      "фисташка"
+    ],
+    "normalizedTokens": [
+      "фисташка",
+      "400 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "400 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Орешек бобы соленные жаренные 150 г",
+    "cleanTokens": [
+      "бобы",
+      "соленные",
+      "жаренные"
+    ],
+    "normalizedTokens": [
+      "бобы",
+      "соленные",
+      "жаренные",
+      "150 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "150 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Арахис 500 г",
+    "cleanTokens": [
+      "арахис"
+    ],
+    "normalizedTokens": [
+      "арахис",
+      "500 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "500 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Восточный базар фундук 400 г",
+    "cleanTokens": [
+      "фундук"
+    ],
+    "normalizedTokens": [
+      "фундук",
+      "400 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "400 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Абрикос крупный кешью без обжарки 300 г",
+    "cleanTokens": [
+      "крупный",
+      "кешью",
+      "без",
+      "обжарки"
+    ],
+    "normalizedTokens": [
+      "крупный",
+      "кешью",
+      "без",
+      "обжарки",
+      "300 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "300 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Восточный базар кедровый орех 500 г",
+    "cleanTokens": [
+      "кедровый",
+      "орех"
+    ],
+    "normalizedTokens": [
+      "кедровый",
+      "орех",
+      "500 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "500 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Восточный базар макадамия 400 г",
+    "cleanTokens": [
+      "макадамия"
+    ],
+    "normalizedTokens": [
+      "макадамия",
+      "400 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "400 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Восточный базар бразильский орех 400 г",
+    "cleanTokens": [
+      "бразильский",
+      "орех"
+    ],
+    "normalizedTokens": [
+      "бразильский",
+      "орех",
+      "400 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "400 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Абрикос фундук обжаренный, очищенный 300 г",
+    "cleanTokens": [
+      "фундук",
+      "обжаренный",
+      "очищенный"
+    ],
+    "normalizedTokens": [
+      "фундук",
+      "обжаренный",
+      "очищенный",
+      "300 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "300 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Восточный базар фисташка 200 г",
+    "cleanTokens": [
+      "фисташка"
+    ],
+    "normalizedTokens": [
+      "фисташка",
+      "200 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "200 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Immune Up Соленый арахис 200 г",
+    "cleanTokens": [
+      "соленый",
+      "арахис"
+    ],
+    "normalizedTokens": [
+      "соленый",
+      "арахис",
+      "200 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "200 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Миндаль 500 г",
+    "cleanTokens": [
+      "миндаль"
+    ],
+    "normalizedTokens": [
+      "миндаль",
+      "500 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "500 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "ХрусNut арахис в хрустящей корочке сметана и лук 60 г",
+    "cleanTokens": [
+      "арахис",
+      "в",
+      "хрустящей",
+      "корочке",
+      "сметана",
+      "и",
+      "лук"
+    ],
+    "normalizedTokens": [
+      "арахис",
+      "в",
+      "хрустящей",
+      "корочке",
+      "сметана",
+      "и",
+      "лук",
+      "60 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "60 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Абрикос кедровый орех очищенный 500 г",
+    "cleanTokens": [
+      "кедровый",
+      "орех",
+      "очищенный"
+    ],
+    "normalizedTokens": [
+      "кедровый",
+      "орех",
+      "очищенный",
+      "500 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "500 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Абрикос кешью обжаренный 300 г",
+    "cleanTokens": [
+      "кешью",
+      "обжаренный"
+    ],
+    "normalizedTokens": [
+      "кешью",
+      "обжаренный",
+      "300 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "300 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Абрикос миндаль в скорлупе 300 г",
+    "cleanTokens": [
+      "миндаль",
+      "в",
+      "скорлупе"
+    ],
+    "normalizedTokens": [
+      "миндаль",
+      "в",
+      "скорлупе",
+      "300 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "300 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Узбекистан миндаль соль 300 г",
+    "cleanTokens": [
+      "миндаль",
+      "соль"
+    ],
+    "normalizedTokens": [
+      "миндаль",
+      "соль",
+      "300 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "300 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Immune Up фисташки 150 г",
+    "cleanTokens": [
+      "фисташки"
+    ],
+    "normalizedTokens": [
+      "фисташки",
+      "150 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "150 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Кешью 500 г",
+    "cleanTokens": [
+      "кешью"
+    ],
+    "normalizedTokens": [
+      "кешью",
+      "500 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "500 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "ХрусNut Crunch арахис мексиканский соус 60 г",
+    "cleanTokens": [
+      "crunch",
+      "арахис",
+      "мексиканский",
+      "соус"
+    ],
+    "normalizedTokens": [
+      "crunch",
+      "арахис",
+      "мексиканский",
+      "соус",
+      "60 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "60 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Арахис в хрустящей корочке со вкусом бекона 80 г",
+    "cleanTokens": [
+      "арахис",
+      "в",
+      "хрустящей",
+      "корочке",
+      "со",
+      "вкусом",
+      "бекона"
+    ],
+    "normalizedTokens": [
+      "арахис",
+      "в",
+      "хрустящей",
+      "корочке",
+      "со",
+      "вкусом",
+      "бекона",
+      "80 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "80 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Арахис 500 г",
+    "cleanTokens": [
+      "арахис"
+    ],
+    "normalizedTokens": [
+      "арахис",
+      "500 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "500 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Миндаль соленый 200 г",
+    "cleanTokens": [
+      "миндаль",
+      "соленый"
+    ],
+    "normalizedTokens": [
+      "миндаль",
+      "соленый",
+      "200 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "200 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Арахис в хрустящей корочке микс 80 г",
+    "cleanTokens": [
+      "арахис",
+      "в",
+      "хрустящей",
+      "корочке",
+      "микс"
+    ],
+    "normalizedTokens": [
+      "арахис",
+      "в",
+      "хрустящей",
+      "корочке",
+      "микс",
+      "80 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "80 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Орешек бобы со вкусом говядины 150 г",
+    "cleanTokens": [
+      "бобы",
+      "со",
+      "вкусом",
+      "говядины"
+    ],
+    "normalizedTokens": [
+      "бобы",
+      "со",
+      "вкусом",
+      "говядины",
+      "150 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "150 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "ХрусNut арахис сочное барбекю 60 г",
+    "cleanTokens": [
+      "арахис",
+      "сочное",
+      "барбекю"
+    ],
+    "normalizedTokens": [
+      "арахис",
+      "сочное",
+      "барбекю",
+      "60 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "60 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Макадамия премиум 450 г",
+    "cleanTokens": [
+      "макадамия",
+      "премиум"
+    ],
+    "normalizedTokens": [
+      "макадамия",
+      "премиум",
+      "450 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "450 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Фундук 500 г",
+    "cleanTokens": [
+      "фундук"
+    ],
+    "normalizedTokens": [
+      "фундук",
+      "500 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "500 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "BEERка фисташки жаренные 80 гр",
+    "cleanTokens": [
+      "фисташки",
+      "жаренные"
+    ],
+    "normalizedTokens": [
+      "фисташки",
+      "жаренные",
+      "80 гр"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "80 гр",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Пекан 450 г",
+    "cleanTokens": [
+      "пекан"
+    ],
+    "normalizedTokens": [
+      "пекан",
+      "450 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "450 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Фрутовит миндаль жареный 120 г",
+    "cleanTokens": [
+      "миндаль",
+      "жареный"
+    ],
+    "normalizedTokens": [
+      "миндаль",
+      "жареный",
+      "120 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "120 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Bandito Crunchy Peanut Sour Onion со сметаной и луком 100 г",
+    "cleanTokens": [
+      "crunchy",
+      "peanut",
+      "sour",
+      "onion",
+      "со",
+      "сметаной",
+      "и",
+      "луком"
+    ],
+    "normalizedTokens": [
+      "crunchy",
+      "peanut",
+      "sour",
+      "onion",
+      "со",
+      "сметаной",
+      "и",
+      "луком",
+      "100 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "100 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Абрикос грецкий орех 500 г",
+    "cleanTokens": [
+      "грецкий",
+      "орех"
+    ],
+    "normalizedTokens": [
+      "грецкий",
+      "орех",
+      "500 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "500 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Арахис в хрустящей корочке со вкусом васаби 80 г",
+    "cleanTokens": [
+      "арахис",
+      "в",
+      "хрустящей",
+      "корочке",
+      "со",
+      "вкусом",
+      "васаби"
+    ],
+    "normalizedTokens": [
+      "арахис",
+      "в",
+      "хрустящей",
+      "корочке",
+      "со",
+      "вкусом",
+      "васаби",
+      "80 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "80 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Bandito Crunchy Peanut Nacho Cheese сырные 100 г",
+    "cleanTokens": [
+      "crunchy",
+      "peanut",
+      "nacho",
+      "cheese",
+      "сырные"
+    ],
+    "normalizedTokens": [
+      "crunchy",
+      "peanut",
+      "nacho",
+      "cheese",
+      "сырные",
+      "100 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "100 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Фисташка 500 г",
+    "cleanTokens": [
+      "фисташка"
+    ],
+    "normalizedTokens": [
+      "фисташка",
+      "500 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "500 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Кешью 500 г",
+    "cleanTokens": [
+      "кешью"
+    ],
+    "normalizedTokens": [
+      "кешью",
+      "500 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "500 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Salysol Salted peanuts солёный арахис 60 г",
+    "cleanTokens": [
+      "salted",
+      "peanuts",
+      "соленый",
+      "арахис"
+    ],
+    "normalizedTokens": [
+      "salted",
+      "peanuts",
+      "соленый",
+      "арахис",
+      "60 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "60 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Conguitos Party жаренный арахис в шоколаде и разноцветной глазури 168 г",
+    "cleanTokens": [
+      "party",
+      "жаренный",
+      "арахис",
+      "в",
+      "шоколаде",
+      "и",
+      "разноцветной",
+      "глазури"
+    ],
+    "normalizedTokens": [
+      "party",
+      "жаренный",
+      "арахис",
+      "в",
+      "шоколаде",
+      "и",
+      "разноцветной",
+      "глазури",
+      "168 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "168 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Salysol Country mix миндаль в глазури 45 г",
+    "cleanTokens": [
+      "country",
+      "mix",
+      "миндаль",
+      "в",
+      "глазури"
+    ],
+    "normalizedTokens": [
+      "country",
+      "mix",
+      "миндаль",
+      "в",
+      "глазури",
+      "45 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "45 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Ambar.kz арахис крупный отборный 100 г",
+    "cleanTokens": [
+      "арахис",
+      "крупный",
+      "отборный"
+    ],
+    "normalizedTokens": [
+      "арахис",
+      "крупный",
+      "отборный",
+      "100 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "100 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Фрутовит микс фруктово-ореховый 100 г",
+    "cleanTokens": [
+      "микс",
+      "фруктово-ореховый"
+    ],
+    "normalizedTokens": [
+      "микс",
+      "фруктово-ореховый",
+      "100 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "100 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "ХрусNut арахис в хрустящей корочке с сыром 60 г",
+    "cleanTokens": [
+      "арахис",
+      "в",
+      "хрустящей",
+      "корочке",
+      "с",
+      "сыром"
+    ],
+    "normalizedTokens": [
+      "арахис",
+      "в",
+      "хрустящей",
+      "корочке",
+      "с",
+      "сыром",
+      "60 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "60 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Ambar.kz арахис со вкусом сыра 80 г",
+    "cleanTokens": [
+      "арахис",
+      "со",
+      "вкусом",
+      "сыра"
+    ],
+    "normalizedTokens": [
+      "арахис",
+      "со",
+      "вкусом",
+      "сыра",
+      "80 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "80 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Fishdream арахис со вкусом салями 80 г",
+    "cleanTokens": [
+      "арахис",
+      "со",
+      "вкусом",
+      "салями"
+    ],
+    "normalizedTokens": [
+      "арахис",
+      "со",
+      "вкусом",
+      "салями",
+      "80 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "80 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "MAGNUM подарочный набор №2 710 г",
+    "cleanTokens": [
+      "подарочный",
+      "набор",
+      "№2"
+    ],
+    "normalizedTokens": [
+      "подарочный",
+      "набор",
+      "№2",
+      "710 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "710 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Сибирский кедр кедровый орех 300 г",
+    "cleanTokens": [
+      "кедровый",
+      "орех"
+    ],
+    "normalizedTokens": [
+      "кедровый",
+      "орех",
+      "300 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "300 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "MAGNUM подарочный набор №1 700 г",
+    "cleanTokens": [
+      "подарочный",
+      "набор",
+      "№1"
+    ],
+    "normalizedTokens": [
+      "подарочный",
+      "набор",
+      "№1",
+      "700 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "700 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Абрикос подарочный набор Салем 1000 г",
+    "cleanTokens": [
+      "подарочный",
+      "набор",
+      "салем"
+    ],
+    "normalizedTokens": [
+      "подарочный",
+      "набор",
+      "салем",
+      "1000 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "1000 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Kuraga.kz фисташка Иранский сорт 250 г",
+    "cleanTokens": [
+      "фисташка",
+      "иранский",
+      "сорт"
+    ],
+    "normalizedTokens": [
+      "фисташка",
+      "иранский",
+      "сорт",
+      "250 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "250 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Ambar.kz фисташка 100 г",
+    "cleanTokens": [
+      "фисташка"
+    ],
+    "normalizedTokens": [
+      "фисташка",
+      "100 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "100 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Immune Up Energy mix кешью, миндаль, фундук 150 г",
+    "cleanTokens": [
+      "energy",
+      "mix",
+      "кешью",
+      "миндаль",
+      "фундук"
+    ],
+    "normalizedTokens": [
+      "energy",
+      "mix",
+      "кешью",
+      "миндаль",
+      "фундук",
+      "150 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "150 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Konditerka.kz арахис дробленый обжаренный 1000 г",
+    "cleanTokens": [
+      "арахис",
+      "дробленый",
+      "обжаренный"
+    ],
+    "normalizedTokens": [
+      "арахис",
+      "дробленый",
+      "обжаренный",
+      "1000 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "1000 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Фрутовит микс ореховый 100 г",
+    "cleanTokens": [
+      "микс",
+      "ореховый"
+    ],
+    "normalizedTokens": [
+      "микс",
+      "ореховый",
+      "100 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "100 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Ambar.kz арахис со вкусом барбекю 80 г",
+    "cleanTokens": [
+      "арахис",
+      "со",
+      "вкусом",
+      "барбекю"
+    ],
+    "normalizedTokens": [
+      "арахис",
+      "со",
+      "вкусом",
+      "барбекю",
+      "80 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "80 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Ambar.kz бобы соленые жареные с перцем чили 150 г",
+    "cleanTokens": [
+      "бобы",
+      "соленые",
+      "жареные",
+      "с",
+      "перцем",
+      "чили"
+    ],
+    "normalizedTokens": [
+      "бобы",
+      "соленые",
+      "жареные",
+      "с",
+      "перцем",
+      "чили",
+      "150 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "150 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "ХрусNut арахис в хрустящей корочке со вкусом креветки 60 г",
+    "cleanTokens": [
+      "арахис",
+      "в",
+      "хрустящей",
+      "корочке",
+      "со",
+      "вкусом",
+      "креветки"
+    ],
+    "normalizedTokens": [
+      "арахис",
+      "в",
+      "хрустящей",
+      "корочке",
+      "со",
+      "вкусом",
+      "креветки",
+      "60 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "60 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Ambar.kz кешью 100 г",
+    "cleanTokens": [
+      "кешью"
+    ],
+    "normalizedTokens": [
+      "кешью",
+      "100 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "100 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Турция фисташка 200 г",
+    "cleanTokens": [
+      "фисташка"
+    ],
+    "normalizedTokens": [
+      "фисташка",
+      "200 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "200 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Ambar.kz бобы с васаби 150 г",
+    "cleanTokens": [
+      "бобы",
+      "с",
+      "васаби"
+    ],
+    "normalizedTokens": [
+      "бобы",
+      "с",
+      "васаби",
+      "150 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "150 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "ЭкоБор фисташки 250 г",
+    "cleanTokens": [
+      "фисташки"
+    ],
+    "normalizedTokens": [
+      "фисташки",
+      "250 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "250 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Ambar.kz миндаль 100 г",
+    "cleanTokens": [
+      "миндаль"
+    ],
+    "normalizedTokens": [
+      "миндаль",
+      "100 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "100 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Бобы с холодцом жареные 150 г",
+    "cleanTokens": [
+      "бобы",
+      "с",
+      "холодцом",
+      "жареные"
+    ],
+    "normalizedTokens": [
+      "бобы",
+      "с",
+      "холодцом",
+      "жареные",
+      "150 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "150 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Bandito Crunchy Peanut Hot Spicy острые 100 г",
+    "cleanTokens": [
+      "crunchy",
+      "peanut",
+      "hot",
+      "spicy",
+      "острые"
+    ],
+    "normalizedTokens": [
+      "crunchy",
+      "peanut",
+      "hot",
+      "spicy",
+      "острые",
+      "100 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "100 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Salysol Chilli Peanuts арахис острый 60 г",
+    "cleanTokens": [
+      "chilli",
+      "peanuts",
+      "арахис",
+      "острый"
+    ],
+    "normalizedTokens": [
+      "chilli",
+      "peanuts",
+      "арахис",
+      "острый",
+      "60 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "60 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "ХрусNut, арахис в хрустящей корочке Бекон, 60 гр",
+    "cleanTokens": [
+      "арахис",
+      "в",
+      "хрустящей",
+      "корочке",
+      "бекон"
+    ],
+    "normalizedTokens": [
+      "арахис",
+      "в",
+      "хрустящей",
+      "корочке",
+      "бекон",
+      "60 гр"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "60 гр",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Фрутовит фундук очищенный 150 г",
+    "cleanTokens": [
+      "фундук",
+      "очищенный"
+    ],
+    "normalizedTokens": [
+      "фундук",
+      "очищенный",
+      "150 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "150 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Bateel грецкий орех, миндаль, пекан 160 г",
+    "cleanTokens": [
+      "грецкий",
+      "орех",
+      "миндаль",
+      "пекан"
+    ],
+    "normalizedTokens": [
+      "грецкий",
+      "орех",
+      "миндаль",
+      "пекан",
+      "160 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "160 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Konditerka.kz арахис дробленый обжаренный 500 г",
+    "cleanTokens": [
+      "арахис",
+      "дробленый",
+      "обжаренный"
+    ],
+    "normalizedTokens": [
+      "арахис",
+      "дробленый",
+      "обжаренный",
+      "500 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "500 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Kuraga.kz миндаль Бадам в скорлупе 200 г",
+    "cleanTokens": [
+      "миндаль",
+      "бадам",
+      "в",
+      "скорлупе"
+    ],
+    "normalizedTokens": [
+      "миндаль",
+      "бадам",
+      "в",
+      "скорлупе",
+      "200 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "200 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Фрутовит кешью сушеный 120 г",
+    "cleanTokens": [
+      "кешью",
+      "сушеный"
+    ],
+    "normalizedTokens": [
+      "кешью",
+      "сушеный",
+      "120 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "120 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Абрикос фисташка 300 г",
+    "cleanTokens": [
+      "фисташка"
+    ],
+    "normalizedTokens": [
+      "фисташка",
+      "300 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "300 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Фрутовит грецкий орех очищенный 120 г",
+    "cleanTokens": [
+      "грецкий",
+      "орех",
+      "очищенный"
+    ],
+    "normalizedTokens": [
+      "грецкий",
+      "орех",
+      "очищенный",
+      "120 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "120 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Бобы Чеснок 150 г",
+    "cleanTokens": [
+      "бобы",
+      "чеснок"
+    ],
+    "normalizedTokens": [
+      "бобы",
+      "чеснок",
+      "150 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "150 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Fishdream арахис в хрустящей корочке со вкусом морской коктейль 80 г",
+    "cleanTokens": [
+      "арахис",
+      "в",
+      "хрустящей",
+      "корочке",
+      "со",
+      "вкусом",
+      "морской",
+      "коктейль"
+    ],
+    "normalizedTokens": [
+      "арахис",
+      "в",
+      "хрустящей",
+      "корочке",
+      "со",
+      "вкусом",
+      "морской",
+      "коктейль",
+      "80 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "80 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Фрутовит фисташки жареные с солью 120 г",
+    "cleanTokens": [
+      "фисташки",
+      "жареные",
+      "с",
+      "солью"
+    ],
+    "normalizedTokens": [
+      "фисташки",
+      "жареные",
+      "с",
+      "солью",
+      "120 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "120 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Fishdream арахис со вкусом черной икры 80 г",
+    "cleanTokens": [
+      "арахис",
+      "со",
+      "вкусом",
+      "черной",
+      "икры"
+    ],
+    "normalizedTokens": [
+      "арахис",
+      "со",
+      "вкусом",
+      "черной",
+      "икры",
+      "80 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "80 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Nut story арахис жареный 150 г",
+    "cleanTokens": [
+      "арахис",
+      "жареный"
+    ],
+    "normalizedTokens": [
+      "арахис",
+      "жареный",
+      "150 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "150 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Jabsons нут с перцем 140 г",
+    "cleanTokens": [
+      "нут",
+      "с",
+      "перцем"
+    ],
+    "normalizedTokens": [
+      "нут",
+      "с",
+      "перцем",
+      "140 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "140 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Fishdream арахис мясное ассорти 80 г",
+    "cleanTokens": [
+      "арахис",
+      "мясное",
+      "ассорти"
+    ],
+    "normalizedTokens": [
+      "арахис",
+      "мясное",
+      "ассорти",
+      "80 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "80 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Konditerka.kz миндаль 0-2 мм 500 г",
+    "cleanTokens": [
+      "миндаль",
+      "0-2",
+      "мм"
+    ],
+    "normalizedTokens": [
+      "миндаль",
+      "0-2",
+      "мм",
+      "500 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "500 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Фрутовит арахис жареный соленый 150 г",
+    "cleanTokens": [
+      "арахис",
+      "жареный",
+      "соленый"
+    ],
+    "normalizedTokens": [
+      "арахис",
+      "жареный",
+      "соленый",
+      "150 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "150 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Абрикос подарочный набор Сказка Востока 1000 г",
+    "cleanTokens": [
+      "подарочный",
+      "набор",
+      "сказка",
+      "востока"
+    ],
+    "normalizedTokens": [
+      "подарочный",
+      "набор",
+      "сказка",
+      "востока",
+      "1000 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "1000 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Fishdream арахис со вкусом семги и сыра 80 г",
+    "cleanTokens": [
+      "арахис",
+      "со",
+      "вкусом",
+      "семги",
+      "и",
+      "сыра"
+    ],
+    "normalizedTokens": [
+      "арахис",
+      "со",
+      "вкусом",
+      "семги",
+      "и",
+      "сыра",
+      "80 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "80 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Bandito Crunchy Peanut Paprika с паприкой 100 г",
+    "cleanTokens": [
+      "crunchy",
+      "peanut",
+      "paprika",
+      "с",
+      "паприкой"
+    ],
+    "normalizedTokens": [
+      "crunchy",
+      "peanut",
+      "paprika",
+      "с",
+      "паприкой",
+      "100 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "100 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Jabsons арахис обжаренный с черным перцем 140 г",
+    "cleanTokens": [
+      "арахис",
+      "обжаренный",
+      "с",
+      "черным",
+      "перцем"
+    ],
+    "normalizedTokens": [
+      "арахис",
+      "обжаренный",
+      "с",
+      "черным",
+      "перцем",
+      "140 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "140 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Fishdream арахис в хрустящей корочке со вкусом холодца и хрена 80 г",
+    "cleanTokens": [
+      "арахис",
+      "в",
+      "хрустящей",
+      "корочке",
+      "со",
+      "вкусом",
+      "холодца",
+      "и",
+      "хрена"
+    ],
+    "normalizedTokens": [
+      "арахис",
+      "в",
+      "хрустящей",
+      "корочке",
+      "со",
+      "вкусом",
+      "холодца",
+      "и",
+      "хрена",
+      "80 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "80 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Fishdream арахис в хрустящей корочке со вкусом красной икры 80 г",
+    "cleanTokens": [
+      "арахис",
+      "в",
+      "хрустящей",
+      "корочке",
+      "со",
+      "вкусом",
+      "красной",
+      "икры"
+    ],
+    "normalizedTokens": [
+      "арахис",
+      "в",
+      "хрустящей",
+      "корочке",
+      "со",
+      "вкусом",
+      "красной",
+      "икры",
+      "80 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "80 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  }
+]

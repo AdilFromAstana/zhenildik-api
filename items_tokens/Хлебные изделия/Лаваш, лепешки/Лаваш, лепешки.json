@@ -1,0 +1,73 @@
+[
+  {
+    "original": "Chachos тортилья 400 г",
+    "cleanTokens": [
+      "тортилья"
+    ],
+    "normalizedTokens": [
+      "тортилья",
+      "400 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "400 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Chachos тортилья с помидорами и укропом 400 г",
+    "cleanTokens": [
+      "тортилья",
+      "с",
+      "помидорами",
+      "и",
+      "укропом"
+    ],
+    "normalizedTokens": [
+      "тортилья",
+      "с",
+      "помидорами",
+      "и",
+      "укропом",
+      "400 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "400 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Chachos тортилья с активированным углем 400 г",
+    "cleanTokens": [
+      "тортилья",
+      "с",
+      "активированным",
+      "углем"
+    ],
+    "normalizedTokens": [
+      "тортилья",
+      "с",
+      "активированным",
+      "углем",
+      "400 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "400 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  }
+]

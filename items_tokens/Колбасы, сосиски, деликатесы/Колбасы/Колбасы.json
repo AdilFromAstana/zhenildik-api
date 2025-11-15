@@ -1,0 +1,2878 @@
+[
+  {
+    "original": "Колбаса Мясная Губерния вареная сочная со шпиком",
+    "cleanTokens": [
+      "колбаса",
+      "мясная",
+      "губерния",
+      "вареная",
+      "сочная",
+      "со",
+      "шпиком"
+    ],
+    "normalizedTokens": [
+      "колбаса",
+      "мясная",
+      "губерния",
+      "вареная",
+      "сочная",
+      "со",
+      "шпиком"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Колбаса Микоян сервелат таллинский 350 г",
+    "cleanTokens": [
+      "колбаса",
+      "сервелат",
+      "таллинский"
+    ],
+    "normalizedTokens": [
+      "колбаса",
+      "сервелат",
+      "таллинский",
+      "350 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "350 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Колбаса Курочка Ряба мусульманская варено-копченая 560 г",
+    "cleanTokens": [
+      "колбаса",
+      "мусульманская",
+      "варено-копченая"
+    ],
+    "normalizedTokens": [
+      "колбаса",
+      "мусульманская",
+      "варено-копченая",
+      "560 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "560 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Колбаса DAS президентская 600 г",
+    "cleanTokens": [
+      "колбаса",
+      "президентская"
+    ],
+    "normalizedTokens": [
+      "колбаса",
+      "президентская",
+      "600 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "600 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Колбаса DAS молочная 500 г",
+    "cleanTokens": [
+      "колбаса",
+      "молочная"
+    ],
+    "normalizedTokens": [
+      "колбаса",
+      "молочная",
+      "500 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "500 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Колбаса Первомайские Деликатесы Колбаса докторская вареная + говяжья вареная 1000 г",
+    "cleanTokens": [
+      "колбаса",
+      "первомайские",
+      "колбаса",
+      "докторская",
+      "вареная",
+      "+",
+      "говяжья",
+      "вареная"
+    ],
+    "normalizedTokens": [
+      "колбаса",
+      "первомайские",
+      "колбаса",
+      "докторская",
+      "вареная",
+      "+",
+      "говяжья",
+      "вареная",
+      "1000 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "1000 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Колбаса DAS колбаса сервелат 600 г",
+    "cleanTokens": [
+      "колбаса",
+      "колбаса",
+      "сервелат"
+    ],
+    "normalizedTokens": [
+      "колбаса",
+      "колбаса",
+      "сервелат",
+      "600 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "600 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Колбаса Первомайские Деликатесы вареная 460 г",
+    "cleanTokens": [
+      "колбаса",
+      "первомайские",
+      "вареная"
+    ],
+    "normalizedTokens": [
+      "колбаса",
+      "первомайские",
+      "вареная",
+      "460 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "460 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Колбаса Папа Может экстра вареная",
+    "cleanTokens": [
+      "колбаса",
+      "экстра",
+      "вареная"
+    ],
+    "normalizedTokens": [
+      "колбаса",
+      "экстра",
+      "вареная"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Колбаса Черкизово Богородская сырокопченая 300 г",
+    "cleanTokens": [
+      "колбаса",
+      "богородская",
+      "сырокопченая"
+    ],
+    "normalizedTokens": [
+      "колбаса",
+      "богородская",
+      "сырокопченая",
+      "300 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "300 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Колбаса Папа Может сервелат охотничий варено-копченый",
+    "cleanTokens": [
+      "колбаса",
+      "сервелат",
+      "охотничий",
+      "варено-копченый"
+    ],
+    "normalizedTokens": [
+      "колбаса",
+      "сервелат",
+      "охотничий",
+      "варено-копченый"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Колбаса Мясодел говяжья варено-копченая 370 г",
+    "cleanTokens": [
+      "колбаса",
+      "говяжья",
+      "варено-копченая"
+    ],
+    "normalizedTokens": [
+      "колбаса",
+      "говяжья",
+      "варено-копченая",
+      "370 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "370 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Колбаса DAS краковская 350 г",
+    "cleanTokens": [
+      "колбаса",
+      "краковская"
+    ],
+    "normalizedTokens": [
+      "колбаса",
+      "краковская",
+      "350 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "350 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Колбаса Рубиком купеческая 500 г",
+    "cleanTokens": [
+      "колбаса",
+      "купеческая"
+    ],
+    "normalizedTokens": [
+      "колбаса",
+      "купеческая",
+      "500 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "500 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Колбаса Папа Может филейная вареная",
+    "cleanTokens": [
+      "колбаса",
+      "филейная",
+      "вареная"
+    ],
+    "normalizedTokens": [
+      "колбаса",
+      "филейная",
+      "вареная"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Колбаса Ет Байрам Мусульманская вареная 1.3 кг",
+    "cleanTokens": [
+      "колбаса",
+      "мусульманская",
+      "вареная"
+    ],
+    "normalizedTokens": [
+      "колбаса",
+      "мусульманская",
+      "вареная",
+      "1.3 кг"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "1.3 кг",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Колбаса Микоян московская 350 г",
+    "cleanTokens": [
+      "колбаса",
+      "московская"
+    ],
+    "normalizedTokens": [
+      "колбаса",
+      "московская",
+      "350 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "350 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Колбаса Мясодел конская полукопченая 500 г",
+    "cleanTokens": [
+      "колбаса",
+      "конская",
+      "полукопченая"
+    ],
+    "normalizedTokens": [
+      "колбаса",
+      "конская",
+      "полукопченая",
+      "500 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "500 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Колбаса Черкизово бородинская сырокопченая 300 г",
+    "cleanTokens": [
+      "колбаса",
+      "бородинская",
+      "сырокопченая"
+    ],
+    "normalizedTokens": [
+      "колбаса",
+      "бородинская",
+      "сырокопченая",
+      "300 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "300 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Колбаса Рубиком классическая 500 г",
+    "cleanTokens": [
+      "колбаса",
+      "классическая"
+    ],
+    "normalizedTokens": [
+      "колбаса",
+      "классическая",
+      "500 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "500 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Колбаса Черкизово молочная по-черкизовски 400 г",
+    "cleanTokens": [
+      "колбаса",
+      "молочная",
+      "по-черкизовски"
+    ],
+    "normalizedTokens": [
+      "колбаса",
+      "молочная",
+      "по-черкизовски",
+      "400 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "400 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Колбаса Папа Может Ароматная 250 г",
+    "cleanTokens": [
+      "колбаса",
+      "ароматная"
+    ],
+    "normalizedTokens": [
+      "колбаса",
+      "ароматная",
+      "250 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "250 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Колбаса Abzal мусульманская 500 г",
+    "cleanTokens": [
+      "колбаса",
+      "мусульманская"
+    ],
+    "normalizedTokens": [
+      "колбаса",
+      "мусульманская",
+      "500 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "500 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Колбаса Черкизово салями 100 г",
+    "cleanTokens": [
+      "колбаса",
+      "салями"
+    ],
+    "normalizedTokens": [
+      "колбаса",
+      "салями",
+      "100 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "100 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Колбаса Рубиком финская 380 г",
+    "cleanTokens": [
+      "колбаса",
+      "финская"
+    ],
+    "normalizedTokens": [
+      "колбаса",
+      "финская",
+      "380 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "380 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Шах Конская колбаса сырокопченая 400 г",
+    "cleanTokens": [
+      "конская",
+      "колбаса",
+      "сырокопченая"
+    ],
+    "normalizedTokens": [
+      "конская",
+      "колбаса",
+      "сырокопченая",
+      "400 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "400 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Первомайские Деликатесы колбаса салями сырокопченая 200 г",
+    "cleanTokens": [
+      "первомайские",
+      "колбаса",
+      "салями",
+      "сырокопченая"
+    ],
+    "normalizedTokens": [
+      "первомайские",
+      "колбаса",
+      "салями",
+      "сырокопченая",
+      "200 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "200 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Колбаса Рубиком молочная для вас 500 г",
+    "cleanTokens": [
+      "колбаса",
+      "молочная",
+      "для",
+      "вас"
+    ],
+    "normalizedTokens": [
+      "колбаса",
+      "молочная",
+      "для",
+      "вас",
+      "500 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "500 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Колбаса Курочка Ряба настоящая 2000 г",
+    "cleanTokens": [
+      "колбаса",
+      "настоящая"
+    ],
+    "normalizedTokens": [
+      "колбаса",
+      "настоящая",
+      "2000 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "2000 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Колбаса Микоян Докторская классическая вареная 500 г",
+    "cleanTokens": [
+      "колбаса",
+      "докторская",
+      "классическая",
+      "вареная"
+    ],
+    "normalizedTokens": [
+      "колбаса",
+      "докторская",
+      "классическая",
+      "вареная",
+      "500 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "500 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Колбаса Курочка Ряба королевская с сыром полукопченая 560 г",
+    "cleanTokens": [
+      "колбаса",
+      "королевская",
+      "с",
+      "сыром",
+      "полукопченая"
+    ],
+    "normalizedTokens": [
+      "колбаса",
+      "королевская",
+      "с",
+      "сыром",
+      "полукопченая",
+      "560 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "560 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Колбаса DAS индейка с сыром 600 г",
+    "cleanTokens": [
+      "колбаса",
+      "индейка",
+      "с",
+      "сыром"
+    ],
+    "normalizedTokens": [
+      "колбаса",
+      "индейка",
+      "с",
+      "сыром",
+      "600 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "600 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Колбаса Черкизово чесночная 300 г",
+    "cleanTokens": [
+      "колбаса",
+      "чесночная"
+    ],
+    "normalizedTokens": [
+      "колбаса",
+      "чесночная",
+      "300 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "300 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Колбаса DAS сервелат 600 г",
+    "cleanTokens": [
+      "колбаса",
+      "сервелат"
+    ],
+    "normalizedTokens": [
+      "колбаса",
+      "сервелат",
+      "600 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "600 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Колбаса Папа Может Юбилейная 250 г",
+    "cleanTokens": [
+      "колбаса",
+      "юбилейная"
+    ],
+    "normalizedTokens": [
+      "колбаса",
+      "юбилейная",
+      "250 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "250 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Колбаса Мясодел Сервелат мусульманская варено-копченая 500 г",
+    "cleanTokens": [
+      "колбаса",
+      "сервелат",
+      "мусульманская",
+      "варено-копченая"
+    ],
+    "normalizedTokens": [
+      "колбаса",
+      "сервелат",
+      "мусульманская",
+      "варено-копченая",
+      "500 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "500 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Колбаса Рубиком венская полукопченая 380 г",
+    "cleanTokens": [
+      "колбаса",
+      "венская",
+      "полукопченая"
+    ],
+    "normalizedTokens": [
+      "колбаса",
+      "венская",
+      "полукопченая",
+      "380 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "380 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Колбаса YET конская 500 г",
+    "cleanTokens": [
+      "колбаса",
+      "конская"
+    ],
+    "normalizedTokens": [
+      "колбаса",
+      "конская",
+      "500 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "500 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Колбаса Тай колбаса полукопченая 800 г",
+    "cleanTokens": [
+      "колбаса",
+      "колбаса",
+      "полукопченая"
+    ],
+    "normalizedTokens": [
+      "колбаса",
+      "колбаса",
+      "полукопченая",
+      "800 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "800 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Колбаса Рубиком классическая для вас со шпиком 500 г",
+    "cleanTokens": [
+      "колбаса",
+      "классическая",
+      "для",
+      "вас",
+      "со",
+      "шпиком"
+    ],
+    "normalizedTokens": [
+      "колбаса",
+      "классическая",
+      "для",
+      "вас",
+      "со",
+      "шпиком",
+      "500 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "500 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Колбаса Рубиком ветчинная 400 г",
+    "cleanTokens": [
+      "колбаса",
+      "ветчинная"
+    ],
+    "normalizedTokens": [
+      "колбаса",
+      "ветчинная",
+      "400 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "400 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Колбаса Омский Бекон краковская 380 г",
+    "cleanTokens": [
+      "колбаса",
+      "краковская"
+    ],
+    "normalizedTokens": [
+      "колбаса",
+      "краковская",
+      "380 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "380 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Колбаса Ет Байрам Докторская вареная 700 г",
+    "cleanTokens": [
+      "колбаса",
+      "докторская",
+      "вареная"
+    ],
+    "normalizedTokens": [
+      "колбаса",
+      "докторская",
+      "вареная",
+      "700 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "700 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Колбаса Ет Байрам Сервелат мусульманская полукопченая 450 г",
+    "cleanTokens": [
+      "колбаса",
+      "сервелат",
+      "мусульманская",
+      "полукопченая"
+    ],
+    "normalizedTokens": [
+      "колбаса",
+      "сервелат",
+      "мусульманская",
+      "полукопченая",
+      "450 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "450 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Колбаса Ряба Малиновская 560 г",
+    "cleanTokens": [
+      "колбаса",
+      "малиновская"
+    ],
+    "normalizedTokens": [
+      "колбаса",
+      "малиновская",
+      "560 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "560 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Колбаса Дархан мусульманская халал вареная 700 г",
+    "cleanTokens": [
+      "колбаса",
+      "мусульманская",
+      "халал",
+      "вареная"
+    ],
+    "normalizedTokens": [
+      "колбаса",
+      "мусульманская",
+      "халал",
+      "вареная",
+      "700 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "700 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Колбаса Рубиком Питерская-Р 380 г",
+    "cleanTokens": [
+      "колбаса",
+      "питерская-р"
+    ],
+    "normalizedTokens": [
+      "колбаса",
+      "питерская-р",
+      "380 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "380 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Колбаса Рубиком вареная 500 г",
+    "cleanTokens": [
+      "колбаса",
+      "вареная"
+    ],
+    "normalizedTokens": [
+      "колбаса",
+      "вареная",
+      "500 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "500 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Колбаса Тай колбаса мусульманская 800 г",
+    "cleanTokens": [
+      "колбаса",
+      "колбаса",
+      "мусульманская"
+    ],
+    "normalizedTokens": [
+      "колбаса",
+      "колбаса",
+      "мусульманская",
+      "800 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "800 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Колбаса Рубиком говяжья для вас 500 г",
+    "cleanTokens": [
+      "колбаса",
+      "говяжья",
+      "для",
+      "вас"
+    ],
+    "normalizedTokens": [
+      "колбаса",
+      "говяжья",
+      "для",
+      "вас",
+      "500 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "500 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Колбаса Бутербродыч нежная вареная 450 г",
+    "cleanTokens": [
+      "колбаса",
+      "бутербродыч",
+      "нежная",
+      "вареная"
+    ],
+    "normalizedTokens": [
+      "колбаса",
+      "бутербродыч",
+      "нежная",
+      "вареная",
+      "450 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "450 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Колбаса Рубиком ливерная",
+    "cleanTokens": [
+      "колбаса",
+      "ливерная"
+    ],
+    "normalizedTokens": [
+      "колбаса",
+      "ливерная"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Колбаса Тай колбаса сервелат 800 г",
+    "cleanTokens": [
+      "колбаса",
+      "колбаса",
+      "сервелат"
+    ],
+    "normalizedTokens": [
+      "колбаса",
+      "колбаса",
+      "сервелат",
+      "800 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "800 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Колбаса Мясодел Русская вареная 1.2 кг",
+    "cleanTokens": [
+      "колбаса",
+      "русская",
+      "вареная"
+    ],
+    "normalizedTokens": [
+      "колбаса",
+      "русская",
+      "вареная",
+      "1.2 кг"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "1.2 кг",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Колбаса Омский Бекон бутербродная вареная 450 г",
+    "cleanTokens": [
+      "колбаса",
+      "бутербродная",
+      "вареная"
+    ],
+    "normalizedTokens": [
+      "колбаса",
+      "бутербродная",
+      "вареная",
+      "450 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "450 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Колбаса Курочка Ряба халал вареная 2000 г",
+    "cleanTokens": [
+      "колбаса",
+      "халал",
+      "вареная"
+    ],
+    "normalizedTokens": [
+      "колбаса",
+      "халал",
+      "вареная",
+      "2000 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "2000 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Колбаса Рубиком классическая для вас 500 г",
+    "cleanTokens": [
+      "колбаса",
+      "классическая",
+      "для",
+      "вас"
+    ],
+    "normalizedTokens": [
+      "колбаса",
+      "классическая",
+      "для",
+      "вас",
+      "500 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "500 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Микоян колбаса кремлевская сырокопченый 100 г",
+    "cleanTokens": [
+      "колбаса",
+      "кремлевская",
+      "сырокопченый"
+    ],
+    "normalizedTokens": [
+      "колбаса",
+      "кремлевская",
+      "сырокопченый",
+      "100 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "100 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Колбаса Курочка Ряба чесночная 420 г",
+    "cleanTokens": [
+      "колбаса",
+      "чесночная"
+    ],
+    "normalizedTokens": [
+      "колбаса",
+      "чесночная",
+      "420 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "420 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Колбаса Рубиком сервелат 450 г",
+    "cleanTokens": [
+      "колбаса",
+      "сервелат"
+    ],
+    "normalizedTokens": [
+      "колбаса",
+      "сервелат",
+      "450 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "450 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Колбаса Омский Бекон сервелат 380 г",
+    "cleanTokens": [
+      "колбаса",
+      "сервелат"
+    ],
+    "normalizedTokens": [
+      "колбаса",
+      "сервелат",
+      "380 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "380 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Колбаса Курочка Ряба салями из мяса птицы 210 г",
+    "cleanTokens": [
+      "колбаса",
+      "салями",
+      "из",
+      "мяса",
+      "птицы"
+    ],
+    "normalizedTokens": [
+      "колбаса",
+      "салями",
+      "из",
+      "мяса",
+      "птицы",
+      "210 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "210 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Колбаса Папа Может сервелат зернистый 350 г",
+    "cleanTokens": [
+      "колбаса",
+      "сервелат",
+      "зернистый"
+    ],
+    "normalizedTokens": [
+      "колбаса",
+      "сервелат",
+      "зернистый",
+      "350 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "350 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Колбаса МАМИНО сервелат чесночный полукопченый 450 г",
+    "cleanTokens": [
+      "колбаса",
+      "сервелат",
+      "чесночный",
+      "полукопченый"
+    ],
+    "normalizedTokens": [
+      "колбаса",
+      "сервелат",
+      "чесночный",
+      "полукопченый",
+      "450 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "450 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Колбаса МАМИНО Сервелат из индейки с сыром полукопченый 450 г",
+    "cleanTokens": [
+      "колбаса",
+      "сервелат",
+      "из",
+      "индейки",
+      "с",
+      "сыром",
+      "полукопченый"
+    ],
+    "normalizedTokens": [
+      "колбаса",
+      "сервелат",
+      "из",
+      "индейки",
+      "с",
+      "сыром",
+      "полукопченый",
+      "450 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "450 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Микоян колбаса классическая сырокопченый",
+    "cleanTokens": [
+      "колбаса",
+      "классическая",
+      "сырокопченый"
+    ],
+    "normalizedTokens": [
+      "колбаса",
+      "классическая",
+      "сырокопченый"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Колбаса Тай колбаса полукопченая 800 г",
+    "cleanTokens": [
+      "колбаса",
+      "колбаса",
+      "полукопченая"
+    ],
+    "normalizedTokens": [
+      "колбаса",
+      "колбаса",
+      "полукопченая",
+      "800 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "800 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Ветчина Курочка Ряба кусковая из мяса птицы 630 г",
+    "cleanTokens": [
+      "ветчина",
+      "кусковая",
+      "из",
+      "мяса",
+      "птицы"
+    ],
+    "normalizedTokens": [
+      "ветчина",
+      "кусковая",
+      "из",
+      "мяса",
+      "птицы",
+      "630 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "630 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Колбаса Папа Может сервелат карельский 280 г",
+    "cleanTokens": [
+      "колбаса",
+      "сервелат",
+      "карельский"
+    ],
+    "normalizedTokens": [
+      "колбаса",
+      "сервелат",
+      "карельский",
+      "280 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "280 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Колбаса Омский Бекон Колбаса докторская вареная 450 г",
+    "cleanTokens": [
+      "колбаса",
+      "колбаса",
+      "докторская",
+      "вареная"
+    ],
+    "normalizedTokens": [
+      "колбаса",
+      "колбаса",
+      "докторская",
+      "вареная",
+      "450 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "450 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Колбаса Русский Фермер Докторская оригинальная вареная 400 г",
+    "cleanTokens": [
+      "колбаса",
+      "докторская",
+      "оригинальная",
+      "вареная"
+    ],
+    "normalizedTokens": [
+      "колбаса",
+      "докторская",
+      "оригинальная",
+      "вареная",
+      "400 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "400 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Колбаса Омский Бекон сервелат европейская варено-копченая 380 г",
+    "cleanTokens": [
+      "колбаса",
+      "сервелат",
+      "европейская",
+      "варено-копченая"
+    ],
+    "normalizedTokens": [
+      "колбаса",
+      "сервелат",
+      "европейская",
+      "варено-копченая",
+      "380 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "380 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Дәстур колбаса чесночная варено-копченая 500 г",
+    "cleanTokens": [
+      "колбаса",
+      "чесночная",
+      "варено-копченая"
+    ],
+    "normalizedTokens": [
+      "колбаса",
+      "чесночная",
+      "варено-копченая",
+      "500 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "500 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Ветчина Омский Бекон плетенка 500 г",
+    "cleanTokens": [
+      "ветчина",
+      "плетенка"
+    ],
+    "normalizedTokens": [
+      "ветчина",
+      "плетенка",
+      "500 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "500 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Колбаса Тай Конская полукопченая халал 800 г",
+    "cleanTokens": [
+      "колбаса",
+      "конская",
+      "полукопченая",
+      "халал"
+    ],
+    "normalizedTokens": [
+      "колбаса",
+      "конская",
+      "полукопченая",
+      "халал",
+      "800 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "800 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Колбаса Рокос вареная по-мусульмански 500 г",
+    "cleanTokens": [
+      "колбаса",
+      "вареная",
+      "по-мусульмански"
+    ],
+    "normalizedTokens": [
+      "колбаса",
+      "вареная",
+      "по-мусульмански",
+      "500 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "500 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Колбаса Первомайские Деликатесы чайная люкс 460 г",
+    "cleanTokens": [
+      "колбаса",
+      "первомайские",
+      "чайная",
+      "люкс"
+    ],
+    "normalizedTokens": [
+      "колбаса",
+      "первомайские",
+      "чайная",
+      "люкс",
+      "460 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "460 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Колбаса СПК салями русская сырокопченая 260 г",
+    "cleanTokens": [
+      "колбаса",
+      "спк",
+      "салями",
+      "русская",
+      "сырокопченая"
+    ],
+    "normalizedTokens": [
+      "колбаса",
+      "спк",
+      "салями",
+      "русская",
+      "сырокопченая",
+      "260 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "260 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Колбаса ДермеН говяжья 500 г",
+    "cleanTokens": [
+      "колбаса",
+      "говяжья"
+    ],
+    "normalizedTokens": [
+      "колбаса",
+      "говяжья",
+      "500 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "500 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Колбаса Первомайские Деликатесы прима мусульманская варено-копченая 500 г",
+    "cleanTokens": [
+      "колбаса",
+      "первомайские",
+      "прима",
+      "мусульманская",
+      "варено-копченая"
+    ],
+    "normalizedTokens": [
+      "колбаса",
+      "первомайские",
+      "прима",
+      "мусульманская",
+      "варено-копченая",
+      "500 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "500 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Колбаса Черкизово салями Астория 225 г",
+    "cleanTokens": [
+      "колбаса",
+      "салями",
+      "астория"
+    ],
+    "normalizedTokens": [
+      "колбаса",
+      "салями",
+      "астория",
+      "225 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "225 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Колбаса Первомайские Деликатесы царский варено-копченая 500 г",
+    "cleanTokens": [
+      "колбаса",
+      "первомайские",
+      "царский",
+      "варено-копченая"
+    ],
+    "normalizedTokens": [
+      "колбаса",
+      "первомайские",
+      "царский",
+      "варено-копченая",
+      "500 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "500 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Колбаса РОКОС сервелат мусульманский 650 г",
+    "cleanTokens": [
+      "колбаса",
+      "сервелат",
+      "мусульманский"
+    ],
+    "normalizedTokens": [
+      "колбаса",
+      "сервелат",
+      "мусульманский",
+      "650 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "650 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Колбаса Рубиком молочная для вас",
+    "cleanTokens": [
+      "колбаса",
+      "молочная",
+      "для",
+      "вас"
+    ],
+    "normalizedTokens": [
+      "колбаса",
+      "молочная",
+      "для",
+      "вас"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Колбаса ДермеН мусульманская 380 г",
+    "cleanTokens": [
+      "колбаса",
+      "мусульманская"
+    ],
+    "normalizedTokens": [
+      "колбаса",
+      "мусульманская",
+      "380 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "380 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Колбаса Курочка Ряба бутербродная вареная 750 г",
+    "cleanTokens": [
+      "колбаса",
+      "бутербродная",
+      "вареная"
+    ],
+    "normalizedTokens": [
+      "колбаса",
+      "бутербродная",
+      "вареная",
+      "750 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "750 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Колбаса Первомайские Деликатесы докторская люкс 480 г",
+    "cleanTokens": [
+      "колбаса",
+      "первомайские",
+      "докторская",
+      "люкс"
+    ],
+    "normalizedTokens": [
+      "колбаса",
+      "первомайские",
+      "докторская",
+      "люкс",
+      "480 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "480 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Колбаса МАМИНО Сервелат из конины полукопченый 450 г",
+    "cleanTokens": [
+      "колбаса",
+      "сервелат",
+      "из",
+      "конины",
+      "полукопченый"
+    ],
+    "normalizedTokens": [
+      "колбаса",
+      "сервелат",
+      "из",
+      "конины",
+      "полукопченый",
+      "450 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "450 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Колбаса Омский Бекон мускат пренцлау полукопченая",
+    "cleanTokens": [
+      "колбаса",
+      "мускат",
+      "пренцлау",
+      "полукопченая"
+    ],
+    "normalizedTokens": [
+      "колбаса",
+      "мускат",
+      "пренцлау",
+      "полукопченая"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Колбаса Первомайские Деликатесы докторская, мусульманская вареная, полукопченая 960 г",
+    "cleanTokens": [
+      "колбаса",
+      "первомайские",
+      "докторская",
+      "мусульманская",
+      "вареная",
+      "полукопченая"
+    ],
+    "normalizedTokens": [
+      "колбаса",
+      "первомайские",
+      "докторская",
+      "мусульманская",
+      "вареная",
+      "полукопченая",
+      "960 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "960 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Ветчина Рубиком праздничная 400 г",
+    "cleanTokens": [
+      "ветчина",
+      "праздничная"
+    ],
+    "normalizedTokens": [
+      "ветчина",
+      "праздничная",
+      "400 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "400 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Бат колбаса сервелат варено-копченый 600 г",
+    "cleanTokens": [
+      "колбаса",
+      "сервелат",
+      "варено-копченый"
+    ],
+    "normalizedTokens": [
+      "колбаса",
+      "сервелат",
+      "варено-копченый",
+      "600 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "600 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Колбаса Рубиком говяжья",
+    "cleanTokens": [
+      "колбаса",
+      "говяжья"
+    ],
+    "normalizedTokens": [
+      "колбаса",
+      "говяжья"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Колбаса Рубиком говяжья для вас вареная",
+    "cleanTokens": [
+      "колбаса",
+      "говяжья",
+      "для",
+      "вас",
+      "вареная"
+    ],
+    "normalizedTokens": [
+      "колбаса",
+      "говяжья",
+      "для",
+      "вас",
+      "вареная"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Колбаса Абырой сервелат халал 500 г",
+    "cleanTokens": [
+      "колбаса",
+      "сервелат",
+      "халал"
+    ],
+    "normalizedTokens": [
+      "колбаса",
+      "сервелат",
+      "халал",
+      "500 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "500 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Колбаса Омский Бекон колбаса краковская 800 г",
+    "cleanTokens": [
+      "колбаса",
+      "колбаса",
+      "краковская"
+    ],
+    "normalizedTokens": [
+      "колбаса",
+      "колбаса",
+      "краковская",
+      "800 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "800 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Колбаса Уральские колбасы краковская экстра высший сорт",
+    "cleanTokens": [
+      "колбаса",
+      "уральские",
+      "краковская",
+      "экстра",
+      "высший",
+      "сорт"
+    ],
+    "normalizedTokens": [
+      "колбаса",
+      "уральские",
+      "краковская",
+      "экстра",
+      "высший",
+      "сорт"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Колбаса Рубиком классическая",
+    "cleanTokens": [
+      "колбаса",
+      "классическая"
+    ],
+    "normalizedTokens": [
+      "колбаса",
+      "классическая"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Колбаса Тай Мусульманская полукопченая халал 800 г",
+    "cleanTokens": [
+      "колбаса",
+      "мусульманская",
+      "полукопченая",
+      "халал"
+    ],
+    "normalizedTokens": [
+      "колбаса",
+      "мусульманская",
+      "полукопченая",
+      "халал",
+      "800 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "800 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Колбаса Мясодел Сервелат Казахстанский варено-копченая 500 г",
+    "cleanTokens": [
+      "колбаса",
+      "сервелат",
+      "казахстанский",
+      "варено-копченая"
+    ],
+    "normalizedTokens": [
+      "колбаса",
+      "сервелат",
+      "казахстанский",
+      "варено-копченая",
+      "500 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "500 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Колбаса Рокос вареная говяжья 1 кг",
+    "cleanTokens": [
+      "колбаса",
+      "вареная",
+      "говяжья"
+    ],
+    "normalizedTokens": [
+      "колбаса",
+      "вареная",
+      "говяжья",
+      "1 кг"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "1 кг",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Колбаса Рокос сервелат мусульманская 500 г",
+    "cleanTokens": [
+      "колбаса",
+      "сервелат",
+      "мусульманская"
+    ],
+    "normalizedTokens": [
+      "колбаса",
+      "сервелат",
+      "мусульманская",
+      "500 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "500 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Европейская Коллекция колбаса классическая вареный",
+    "cleanTokens": [
+      "колбаса",
+      "классическая",
+      "вареный"
+    ],
+    "normalizedTokens": [
+      "колбаса",
+      "классическая",
+      "вареный"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Дархан колбаса деликатесная варено-копченая 700 г",
+    "cleanTokens": [
+      "колбаса",
+      "деликатесная",
+      "варено-копченая"
+    ],
+    "normalizedTokens": [
+      "колбаса",
+      "деликатесная",
+      "варено-копченая",
+      "700 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "700 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Колбаса Первомайские Деликатесы прима мусульманская 1 кг",
+    "cleanTokens": [
+      "колбаса",
+      "первомайские",
+      "прима",
+      "мусульманская"
+    ],
+    "normalizedTokens": [
+      "колбаса",
+      "первомайские",
+      "прима",
+      "мусульманская",
+      "1 кг"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "1 кг",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Колбаса Abzal Мусульманская 1000 г",
+    "cleanTokens": [
+      "колбаса",
+      "мусульманская"
+    ],
+    "normalizedTokens": [
+      "колбаса",
+      "мусульманская",
+      "1000 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "1000 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Колбаса МАМИНО сервелат полукопченая 450 г",
+    "cleanTokens": [
+      "колбаса",
+      "сервелат",
+      "полукопченая"
+    ],
+    "normalizedTokens": [
+      "колбаса",
+      "сервелат",
+      "полукопченая",
+      "450 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "450 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Колбаса Шах президентская 400 г",
+    "cleanTokens": [
+      "колбаса",
+      "президентская"
+    ],
+    "normalizedTokens": [
+      "колбаса",
+      "президентская",
+      "400 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "400 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Колбаса Останкино докторская вареная гост",
+    "cleanTokens": [
+      "колбаса",
+      "докторская",
+      "вареная",
+      "гост"
+    ],
+    "normalizedTokens": [
+      "колбаса",
+      "докторская",
+      "вареная",
+      "гост"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Колбаса Рокос сервелат Туркестан 650 г",
+    "cleanTokens": [
+      "колбаса",
+      "сервелат",
+      "туркестан"
+    ],
+    "normalizedTokens": [
+      "колбаса",
+      "сервелат",
+      "туркестан",
+      "650 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "650 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Колбаса Мясодел Люкс Хуторская вареная 400 г",
+    "cleanTokens": [
+      "колбаса",
+      "люкс",
+      "хуторская",
+      "вареная"
+    ],
+    "normalizedTokens": [
+      "колбаса",
+      "люкс",
+      "хуторская",
+      "вареная",
+      "400 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "400 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Колбаса Просто выгодно классическая сырокопченый 235 г",
+    "cleanTokens": [
+      "колбаса",
+      "классическая",
+      "сырокопченый"
+    ],
+    "normalizedTokens": [
+      "колбаса",
+      "классическая",
+      "сырокопченый",
+      "235 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "235 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Колбаса Bizhan конская 360 г",
+    "cleanTokens": [
+      "колбаса",
+      "конская"
+    ],
+    "normalizedTokens": [
+      "колбаса",
+      "конская",
+      "360 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "360 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Колбаса Мясодел Кремлевская Премиум полукопченая 370 г",
+    "cleanTokens": [
+      "колбаса",
+      "кремлевская",
+      "премиум",
+      "полукопченая"
+    ],
+    "normalizedTokens": [
+      "колбаса",
+      "кремлевская",
+      "премиум",
+      "полукопченая",
+      "370 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "370 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Колбаса Бат говяжья 600 г",
+    "cleanTokens": [
+      "колбаса",
+      "говяжья"
+    ],
+    "normalizedTokens": [
+      "колбаса",
+      "говяжья",
+      "600 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "600 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Колбаса Рубиком классическая для вас",
+    "cleanTokens": [
+      "колбаса",
+      "классическая",
+      "для",
+      "вас"
+    ],
+    "normalizedTokens": [
+      "колбаса",
+      "классическая",
+      "для",
+      "вас"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Колбаса Папа Может экстра колбаса 250 г",
+    "cleanTokens": [
+      "колбаса",
+      "экстра",
+      "колбаса"
+    ],
+    "normalizedTokens": [
+      "колбаса",
+      "экстра",
+      "колбаса",
+      "250 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "250 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Колбаса Абырой конская варено-копченая 500 г",
+    "cleanTokens": [
+      "колбаса",
+      "конская",
+      "варено-копченая"
+    ],
+    "normalizedTokens": [
+      "колбаса",
+      "конская",
+      "варено-копченая",
+      "500 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "500 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Колбаса РОКОС сервелат 500 г",
+    "cleanTokens": [
+      "колбаса",
+      "сервелат"
+    ],
+    "normalizedTokens": [
+      "колбаса",
+      "сервелат",
+      "500 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "500 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Дәстур колбаса сервелат ореховый варено-копченый 500 г",
+    "cleanTokens": [
+      "колбаса",
+      "сервелат",
+      "ореховый",
+      "варено-копченый"
+    ],
+    "normalizedTokens": [
+      "колбаса",
+      "сервелат",
+      "ореховый",
+      "варено-копченый",
+      "500 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "500 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Колбаса Bizhan Aqbozat 350 г",
+    "cleanTokens": [
+      "колбаса",
+      "aqbozat"
+    ],
+    "normalizedTokens": [
+      "колбаса",
+      "aqbozat",
+      "350 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "350 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Колбаса Абырой колбаса прима варено-копченая 500 г",
+    "cleanTokens": [
+      "колбаса",
+      "колбаса",
+      "прима",
+      "варено-копченая"
+    ],
+    "normalizedTokens": [
+      "колбаса",
+      "колбаса",
+      "прима",
+      "варено-копченая",
+      "500 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "500 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Колбаса Абырой колбаса президентская варено-копченая 500 г",
+    "cleanTokens": [
+      "колбаса",
+      "колбаса",
+      "президентская",
+      "варено-копченая"
+    ],
+    "normalizedTokens": [
+      "колбаса",
+      "колбаса",
+      "президентская",
+      "варено-копченая",
+      "500 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "500 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  }
+]

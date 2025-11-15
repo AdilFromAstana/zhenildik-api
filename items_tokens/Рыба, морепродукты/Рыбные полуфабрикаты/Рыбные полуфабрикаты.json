@@ -1,0 +1,23 @@
+[
+  {
+    "original": "Vici палочки сурими 250 г",
+    "cleanTokens": [
+      "палочки",
+      "сурими"
+    ],
+    "normalizedTokens": [
+      "палочки",
+      "сурими",
+      "250 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "250 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  }
+]

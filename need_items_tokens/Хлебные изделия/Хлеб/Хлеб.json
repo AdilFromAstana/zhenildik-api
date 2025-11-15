@@ -1,0 +1,43 @@
+[
+  {
+    "original": "MAGNUM сдобные палочки с кунжутом 225 г",
+    "cleanTokens": [
+      "сдобные",
+      "палочки",
+      "с",
+      "кунжутом"
+    ],
+    "normalizedTokens": [
+      "сдобные",
+      "палочки",
+      "с",
+      "кунжутом",
+      "225 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "225 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "ВКУС ХЛЕБА хлеб 500 г",
+    "cleanTokens": [],
+    "normalizedTokens": [
+      "500 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "500 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  }
+]

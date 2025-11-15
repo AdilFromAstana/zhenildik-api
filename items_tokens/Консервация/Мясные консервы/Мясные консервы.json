@@ -1,0 +1,867 @@
+[
+  {
+    "original": "PODRAVKA паштет из куриной печени 100 г",
+    "cleanTokens": [
+      "паштет",
+      "из",
+      "куриной",
+      "печени"
+    ],
+    "normalizedTokens": [
+      "паштет",
+      "из",
+      "куриной",
+      "печени",
+      "100 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "100 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "КУБЛЕЙ шужык Конина тушеная 325 г",
+    "cleanTokens": [
+      "шужык",
+      "конина",
+      "тушеная"
+    ],
+    "normalizedTokens": [
+      "шужык",
+      "конина",
+      "тушеная",
+      "325 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "325 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "КУБЛЕЙ каша говядина 325 г",
+    "cleanTokens": [
+      "каша",
+      "говядина"
+    ],
+    "normalizedTokens": [
+      "каша",
+      "говядина",
+      "325 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "325 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "КУБЛЕЙ куырдак баранина 325 г",
+    "cleanTokens": [
+      "куырдак",
+      "баранина"
+    ],
+    "normalizedTokens": [
+      "куырдак",
+      "баранина",
+      "325 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "325 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "КУБЛЕЙ Куырдак мясо тушеное говядина 325 г",
+    "cleanTokens": [
+      "куырдак",
+      "мясо",
+      "тушеное",
+      "говядина"
+    ],
+    "normalizedTokens": [
+      "куырдак",
+      "мясо",
+      "тушеное",
+      "говядина",
+      "325 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "325 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "PODRAVKA паштет куриный с овощами 100 г",
+    "cleanTokens": [
+      "паштет",
+      "куриный",
+      "с",
+      "овощами"
+    ],
+    "normalizedTokens": [
+      "паштет",
+      "куриный",
+      "с",
+      "овощами",
+      "100 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "100 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Столбцовский мясоконсервный комбинат мясо тушеное говядина тушеная 2 банки по 525 г",
+    "cleanTokens": [
+      "мясо",
+      "тушеное",
+      "говядина",
+      "тушеная",
+      "2",
+      "банки",
+      "по"
+    ],
+    "normalizedTokens": [
+      "мясо",
+      "тушеное",
+      "говядина",
+      "тушеная",
+      "2",
+      "банки",
+      "по",
+      "525 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "525 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Сила мясо в собственном соку говядина 340 г",
+    "cleanTokens": [
+      "мясо",
+      "в",
+      "собственном",
+      "соку",
+      "говядина"
+    ],
+    "normalizedTokens": [
+      "мясо",
+      "в",
+      "собственном",
+      "соку",
+      "говядина",
+      "340 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "340 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Столбцовский мясоконсервный комбинат мясо тушеное говядина тушеная 4 банки по 525 г",
+    "cleanTokens": [
+      "мясо",
+      "тушеное",
+      "говядина",
+      "тушеная",
+      "4",
+      "банки",
+      "по"
+    ],
+    "normalizedTokens": [
+      "мясо",
+      "тушеное",
+      "говядина",
+      "тушеная",
+      "4",
+      "банки",
+      "по",
+      "525 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "525 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "1778 паштет из печени кролика с кедровыми орехами 170 г",
+    "cleanTokens": [
+      "паштет",
+      "из",
+      "печени",
+      "кролика",
+      "с",
+      "кедровыми",
+      "орехами"
+    ],
+    "normalizedTokens": [
+      "паштет",
+      "из",
+      "печени",
+      "кролика",
+      "с",
+      "кедровыми",
+      "орехами",
+      "170 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "170 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Столбцовский мясоконсервный комбинат каша перловая с говядиной 6 шт по 325 г",
+    "cleanTokens": [
+      "каша",
+      "перловая",
+      "с",
+      "говядиной",
+      "по"
+    ],
+    "normalizedTokens": [
+      "каша",
+      "перловая",
+      "с",
+      "говядиной",
+      "6 шт",
+      "по",
+      "325 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "325 г",
+      "count": "6 шт",
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Столбцовский мясоконсервный комбинат каша гречневая с говядиной 6 шт по 325 г",
+    "cleanTokens": [
+      "каша",
+      "гречневая",
+      "с",
+      "говядиной",
+      "по"
+    ],
+    "normalizedTokens": [
+      "каша",
+      "гречневая",
+      "с",
+      "говядиной",
+      "6 шт",
+      "по",
+      "325 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "325 г",
+      "count": "6 шт",
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Столбцовский мясоконсервный комбинат каша перловая с говядиной 12 шт по 325 г",
+    "cleanTokens": [
+      "каша",
+      "перловая",
+      "с",
+      "говядиной",
+      "по"
+    ],
+    "normalizedTokens": [
+      "каша",
+      "перловая",
+      "с",
+      "говядиной",
+      "12 шт",
+      "по",
+      "325 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "325 г",
+      "count": "12 шт",
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Столбцовский мясоконсервный комбинат каша гречневая с говядиной 12 шт по 325 г",
+    "cleanTokens": [
+      "каша",
+      "гречневая",
+      "с",
+      "говядиной",
+      "по"
+    ],
+    "normalizedTokens": [
+      "каша",
+      "гречневая",
+      "с",
+      "говядиной",
+      "12 шт",
+      "по",
+      "325 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "325 г",
+      "count": "12 шт",
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "1778 паштет из куриной печени со сладким чили 170 г",
+    "cleanTokens": [
+      "паштет",
+      "из",
+      "куриной",
+      "печени",
+      "со",
+      "сладким",
+      "чили"
+    ],
+    "normalizedTokens": [
+      "паштет",
+      "из",
+      "куриной",
+      "печени",
+      "со",
+      "сладким",
+      "чили",
+      "170 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "170 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Столбцовский мясоконсервный комбинат мясо тушеное говядина 6 шт по 525 г",
+    "cleanTokens": [
+      "мясо",
+      "тушеное",
+      "говядина",
+      "по"
+    ],
+    "normalizedTokens": [
+      "мясо",
+      "тушеное",
+      "говядина",
+      "6 шт",
+      "по",
+      "525 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "525 г",
+      "count": "6 шт",
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Сила мясо в собственном соку конина 338 г",
+    "cleanTokens": [
+      "мясо",
+      "в",
+      "собственном",
+      "соку",
+      "конина"
+    ],
+    "normalizedTokens": [
+      "мясо",
+      "в",
+      "собственном",
+      "соку",
+      "конина",
+      "338 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "338 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Столбцовский мясоконсервный комбинат мясо тушеное говядина 24 шт по 525 г",
+    "cleanTokens": [
+      "мясо",
+      "тушеное",
+      "говядина",
+      "по"
+    ],
+    "normalizedTokens": [
+      "мясо",
+      "тушеное",
+      "говядина",
+      "24 шт",
+      "по",
+      "525 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "525 г",
+      "count": "24 шт",
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "ОАО Слонимский мясокомбинат мясо тушеное говядина 8 шт по 525 г",
+    "cleanTokens": [
+      "мясо",
+      "тушеное",
+      "говядина",
+      "по"
+    ],
+    "normalizedTokens": [
+      "мясо",
+      "тушеное",
+      "говядина",
+      "8 шт",
+      "по",
+      "525 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "525 г",
+      "count": "8 шт",
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Казмясопродукт мясо тушеное конина тушеная высший сорт 338 г",
+    "cleanTokens": [
+      "мясо",
+      "тушеное",
+      "конина",
+      "тушеная",
+      "высший",
+      "сорт"
+    ],
+    "normalizedTokens": [
+      "мясо",
+      "тушеное",
+      "конина",
+      "тушеная",
+      "высший",
+      "сорт",
+      "338 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "338 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Казмясопродукт мясо тушеное говядина тушеная высший сорт 338 г",
+    "cleanTokens": [
+      "мясо",
+      "тушеное",
+      "говядина",
+      "тушеная",
+      "высший",
+      "сорт"
+    ],
+    "normalizedTokens": [
+      "мясо",
+      "тушеное",
+      "говядина",
+      "тушеная",
+      "высший",
+      "сорт",
+      "338 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "338 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Столбцовский мясоконсервный комбинат мясо тушеное говядина 12 шт по 525 г",
+    "cleanTokens": [
+      "мясо",
+      "тушеное",
+      "говядина",
+      "по"
+    ],
+    "normalizedTokens": [
+      "мясо",
+      "тушеное",
+      "говядина",
+      "12 шт",
+      "по",
+      "525 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "525 г",
+      "count": "12 шт",
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Сила Алтайская мясо в собственном соку говядина 338 г",
+    "cleanTokens": [
+      "алтайская",
+      "мясо",
+      "в",
+      "собственном",
+      "соку",
+      "говядина"
+    ],
+    "normalizedTokens": [
+      "алтайская",
+      "мясо",
+      "в",
+      "собственном",
+      "соку",
+      "говядина",
+      "338 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "338 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Орский Мясокомбинат паштет с печенью гусей и пряными травами 100 г",
+    "cleanTokens": [
+      "паштет",
+      "с",
+      "печенью",
+      "гусей",
+      "и",
+      "пряными",
+      "травами"
+    ],
+    "normalizedTokens": [
+      "паштет",
+      "с",
+      "печенью",
+      "гусей",
+      "и",
+      "пряными",
+      "травами",
+      "100 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "100 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Казмясопродукт мясо тушеное говядина тушеная первый сорт 338 г",
+    "cleanTokens": [
+      "мясо",
+      "тушеное",
+      "говядина",
+      "тушеная",
+      "первый",
+      "сорт"
+    ],
+    "normalizedTokens": [
+      "мясо",
+      "тушеное",
+      "говядина",
+      "тушеная",
+      "первый",
+      "сорт",
+      "338 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "338 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "ОАО Слонимский мясокомбинат мясо тушеное походная говядина 8 шт по 525 г",
+    "cleanTokens": [
+      "мясо",
+      "тушеное",
+      "походная",
+      "говядина",
+      "по"
+    ],
+    "normalizedTokens": [
+      "мясо",
+      "тушеное",
+      "походная",
+      "говядина",
+      "8 шт",
+      "по",
+      "525 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "525 г",
+      "count": "8 шт",
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Казмясопродукт конина тушеная первый сорт 338 г",
+    "cleanTokens": [
+      "конина",
+      "тушеная",
+      "первый",
+      "сорт"
+    ],
+    "normalizedTokens": [
+      "конина",
+      "тушеная",
+      "первый",
+      "сорт",
+      "338 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "338 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Орский Мясокомбинат паштет с печенью кур 100 г",
+    "cleanTokens": [
+      "паштет",
+      "с",
+      "печенью",
+      "кур"
+    ],
+    "normalizedTokens": [
+      "паштет",
+      "с",
+      "печенью",
+      "кур",
+      "100 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "100 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Орский Мясокомбинат паштет печеночный 100 г",
+    "cleanTokens": [
+      "паштет",
+      "печеночный"
+    ],
+    "normalizedTokens": [
+      "паштет",
+      "печеночный",
+      "100 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "100 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Орский Мясокомбинат паштет с печенью кур и грибами 100 г",
+    "cleanTokens": [
+      "паштет",
+      "с",
+      "печенью",
+      "кур",
+      "и",
+      "грибами"
+    ],
+    "normalizedTokens": [
+      "паштет",
+      "с",
+      "печенью",
+      "кур",
+      "и",
+      "грибами",
+      "100 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "100 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Столбцовский мясоконсервный комбинат каша гречневая с говядиной 24 шт по 325 г",
+    "cleanTokens": [
+      "каша",
+      "гречневая",
+      "с",
+      "говядиной",
+      "по"
+    ],
+    "normalizedTokens": [
+      "каша",
+      "гречневая",
+      "с",
+      "говядиной",
+      "24 шт",
+      "по",
+      "325 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "325 г",
+      "count": "24 шт",
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Столбцовский мясоконсервный комбинат каша перловая с говядиной 24 шт по 325 г",
+    "cleanTokens": [
+      "каша",
+      "перловая",
+      "с",
+      "говядиной",
+      "по"
+    ],
+    "normalizedTokens": [
+      "каша",
+      "перловая",
+      "с",
+      "говядиной",
+      "24 шт",
+      "по",
+      "325 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "325 г",
+      "count": "24 шт",
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  }
+]

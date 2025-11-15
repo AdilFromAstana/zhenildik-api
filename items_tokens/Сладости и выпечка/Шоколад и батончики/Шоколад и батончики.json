@@ -1,0 +1,6942 @@
+[
+  {
+    "original": "Twix печенье и карамель шоколадный батончик молочный 55 г",
+    "cleanTokens": [
+      "печенье",
+      "карамель",
+      "шоколадный",
+      "батончик",
+      "молочный"
+    ],
+    "normalizedTokens": [
+      "печенье",
+      "карамель",
+      "шоколадный",
+      "батончик",
+      "молочный",
+      "55 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "55 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "KINDER Country шоколадная плитка молочный 23.5 г",
+    "cleanTokens": [
+      "country",
+      "шоколадная",
+      "плитка",
+      "молочный"
+    ],
+    "normalizedTokens": [
+      "country",
+      "шоколадная",
+      "плитка",
+      "молочный",
+      "23.5 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "23.5 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Albeni XXL шоколадный батончик молочный 70 г",
+    "cleanTokens": [
+      "xxl",
+      "шоколадный",
+      "батончик",
+      "молочный"
+    ],
+    "normalizedTokens": [
+      "xxl",
+      "шоколадный",
+      "батончик",
+      "молочный",
+      "70 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "70 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Nestlé молочный шоколадная плитка молочный 75 г",
+    "cleanTokens": [
+      "молочный",
+      "шоколадная",
+      "плитка",
+      "молочный"
+    ],
+    "normalizedTokens": [
+      "молочный",
+      "шоколадная",
+      "плитка",
+      "молочный",
+      "75 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "75 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Alpen Gold фундук и изюм шоколадная плитка молочный 80 г",
+    "cleanTokens": [
+      "фундук",
+      "изюм",
+      "шоколадная",
+      "плитка",
+      "молочный"
+    ],
+    "normalizedTokens": [
+      "фундук",
+      "изюм",
+      "шоколадная",
+      "плитка",
+      "молочный",
+      "80 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "80 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "KINDER Surprise Playmobil шоколадное яйцо молочный 20 г",
+    "cleanTokens": [
+      "surprise",
+      "playmobil",
+      "шоколадное",
+      "яйцо",
+      "молочный"
+    ],
+    "normalizedTokens": [
+      "surprise",
+      "playmobil",
+      "шоколадное",
+      "яйцо",
+      "молочный",
+      "20 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "20 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Шоколадное яйцо Kinder сюрприз Unicorns 20 г",
+    "cleanTokens": [
+      "шоколадное",
+      "яйцо",
+      "сюрприз",
+      "unicorns"
+    ],
+    "normalizedTokens": [
+      "шоколадное",
+      "яйцо",
+      "сюрприз",
+      "unicorns",
+      "20 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "20 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Вафли Яшкино Джумка с мягкой карамелью и воздушной кукурузой 37 г",
+    "cleanTokens": [
+      "вафли",
+      "джумка",
+      "с",
+      "мягкой",
+      "карамелью",
+      "воздушной",
+      "кукурузой"
+    ],
+    "normalizedTokens": [
+      "вафли",
+      "джумка",
+      "с",
+      "мягкой",
+      "карамелью",
+      "воздушной",
+      "кукурузой",
+      "37 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "37 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Albeni шоколадный батончик молочный 40 г",
+    "cleanTokens": [
+      "шоколадный",
+      "батончик",
+      "молочный"
+    ],
+    "normalizedTokens": [
+      "шоколадный",
+      "батончик",
+      "молочный",
+      "40 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "40 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Mars с нугой и карамелью шоколадный батончик молочный 50 г",
+    "cleanTokens": [
+      "с",
+      "нугой",
+      "карамелью",
+      "шоколадный",
+      "батончик",
+      "молочный"
+    ],
+    "normalizedTokens": [
+      "с",
+      "нугой",
+      "карамелью",
+      "шоколадный",
+      "батончик",
+      "молочный",
+      "50 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "50 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Alpen Gold молочный шоколадная плитка молочный 80 г",
+    "cleanTokens": [
+      "молочный",
+      "шоколадная",
+      "плитка",
+      "молочный"
+    ],
+    "normalizedTokens": [
+      "молочный",
+      "шоколадная",
+      "плитка",
+      "молочный",
+      "80 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "80 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "KitKat с хрустящей вафлей шоколадная плитка молочный 41.5 г",
+    "cleanTokens": [
+      "с",
+      "хрустящей",
+      "вафлей",
+      "шоколадная",
+      "плитка",
+      "молочный"
+    ],
+    "normalizedTokens": [
+      "с",
+      "хрустящей",
+      "вафлей",
+      "шоколадная",
+      "плитка",
+      "молочный",
+      "41.5 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "41.5 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Nuts с цельным фундуком шоколадный батончик молочный 50 г",
+    "cleanTokens": [
+      "с",
+      "цельным",
+      "фундуком",
+      "шоколадный",
+      "батончик",
+      "молочный"
+    ],
+    "normalizedTokens": [
+      "с",
+      "цельным",
+      "фундуком",
+      "шоколадный",
+      "батончик",
+      "молочный",
+      "50 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "50 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Albeni Super Size шоколадный батончик молочный 55 г",
+    "cleanTokens": [
+      "super",
+      "size",
+      "шоколадный",
+      "батончик",
+      "молочный"
+    ],
+    "normalizedTokens": [
+      "super",
+      "size",
+      "шоколадный",
+      "батончик",
+      "молочный",
+      "55 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "55 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Шоколадное яйцо Kinder Surprise Team Racing 20 г",
+    "cleanTokens": [
+      "шоколадное",
+      "яйцо",
+      "surprise",
+      "team",
+      "racing"
+    ],
+    "normalizedTokens": [
+      "шоколадное",
+      "яйцо",
+      "surprise",
+      "team",
+      "racing",
+      "20 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "20 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Nestlé Лесной орех шоколадная плитка молочный 75 г",
+    "cleanTokens": [
+      "лесной",
+      "орех",
+      "шоколадная",
+      "плитка",
+      "молочный"
+    ],
+    "normalizedTokens": [
+      "лесной",
+      "орех",
+      "шоколадная",
+      "плитка",
+      "молочный",
+      "75 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "75 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Milka Tuc шоколадная плитка молочный 87 г",
+    "cleanTokens": [
+      "tuc",
+      "шоколадная",
+      "плитка",
+      "молочный"
+    ],
+    "normalizedTokens": [
+      "tuc",
+      "шоколадная",
+      "плитка",
+      "молочный",
+      "87 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "87 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Bounty нежнейшая мякоть кокоса шоколадный батончик молочный 55 г",
+    "cleanTokens": [
+      "нежнейшая",
+      "мякоть",
+      "кокоса",
+      "шоколадный",
+      "батончик",
+      "молочный"
+    ],
+    "normalizedTokens": [
+      "нежнейшая",
+      "мякоть",
+      "кокоса",
+      "шоколадный",
+      "батончик",
+      "молочный",
+      "55 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "55 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Bon Time со вкусом пломбира шоколадный батончик молочный 20 г",
+    "cleanTokens": [
+      "со",
+      "вкусом",
+      "пломбира",
+      "шоколадный",
+      "батончик",
+      "молочный"
+    ],
+    "normalizedTokens": [
+      "со",
+      "вкусом",
+      "пломбира",
+      "шоколадный",
+      "батончик",
+      "молочный",
+      "20 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "20 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "KitKat с хрустящей вафлей шоколадный батончик молочный 40 г",
+    "cleanTokens": [
+      "с",
+      "хрустящей",
+      "вафлей",
+      "шоколадный",
+      "батончик",
+      "молочный"
+    ],
+    "normalizedTokens": [
+      "с",
+      "хрустящей",
+      "вафлей",
+      "шоколадный",
+      "батончик",
+      "молочный",
+      "40 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "40 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "KINDER Chocolate шоколад порционный молочный 50 г",
+    "cleanTokens": [
+      "chocolate",
+      "порционный",
+      "молочный"
+    ],
+    "normalizedTokens": [
+      "chocolate",
+      "порционный",
+      "молочный",
+      "50 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "50 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "OZera Milk & Extra Hazelnuts шоколадная плитка молочный 90 г",
+    "cleanTokens": [
+      "ozera",
+      "milk",
+      "&",
+      "extra",
+      "hazelnuts",
+      "шоколадная",
+      "плитка",
+      "молочный"
+    ],
+    "normalizedTokens": [
+      "ozera",
+      "milk",
+      "&",
+      "extra",
+      "hazelnuts",
+      "шоколадная",
+      "плитка",
+      "молочный",
+      "90 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "90 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Milka Цельный лесной орех шоколадная плитка молочный 80 г",
+    "cleanTokens": [
+      "цельный",
+      "лесной",
+      "орех",
+      "шоколадная",
+      "плитка",
+      "молочный"
+    ],
+    "normalizedTokens": [
+      "цельный",
+      "лесной",
+      "орех",
+      "шоколадная",
+      "плитка",
+      "молочный",
+      "80 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "80 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Яшкино Yarche! Peanuts and Caramel шоколадный батончик молочный 50 г",
+    "cleanTokens": [
+      "yarche!",
+      "peanuts",
+      "and",
+      "caramel",
+      "шоколадный",
+      "батончик",
+      "молочный"
+    ],
+    "normalizedTokens": [
+      "yarche!",
+      "peanuts",
+      "and",
+      "caramel",
+      "шоколадный",
+      "батончик",
+      "молочный",
+      "50 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "50 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Milka Oreo шоколадная плитка молочный 92 г",
+    "cleanTokens": [
+      "oreo",
+      "шоколадная",
+      "плитка",
+      "молочный"
+    ],
+    "normalizedTokens": [
+      "oreo",
+      "шоколадная",
+      "плитка",
+      "молочный",
+      "92 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "92 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Milka Alpine Milk шоколадная плитка молочный 80 г",
+    "cleanTokens": [
+      "alpine",
+      "milk",
+      "шоколадная",
+      "плитка",
+      "молочный"
+    ],
+    "normalizedTokens": [
+      "alpine",
+      "milk",
+      "шоколадная",
+      "плитка",
+      "молочный",
+      "80 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "80 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Alpen Gold Aerated белый шоколадная плитка белый 80 г",
+    "cleanTokens": [
+      "aerated",
+      "белый",
+      "шоколадная",
+      "плитка",
+      "белый"
+    ],
+    "normalizedTokens": [
+      "aerated",
+      "белый",
+      "шоколадная",
+      "плитка",
+      "белый",
+      "80 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "80 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Alpen Gold арахис и кукурузные хлопья шоколадная плитка молочный 80 г",
+    "cleanTokens": [
+      "арахис",
+      "кукурузные",
+      "хлопья",
+      "шоколадная",
+      "плитка",
+      "молочный"
+    ],
+    "normalizedTokens": [
+      "арахис",
+      "кукурузные",
+      "хлопья",
+      "шоколадная",
+      "плитка",
+      "молочный",
+      "80 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "80 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Баян Сулу Казахстанский Premium шоколадная плитка молочный 100 г",
+    "cleanTokens": [
+      "казахстанский",
+      "premium",
+      "шоколадная",
+      "плитка",
+      "молочный"
+    ],
+    "normalizedTokens": [
+      "казахстанский",
+      "premium",
+      "шоколадная",
+      "плитка",
+      "молочный",
+      "100 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "100 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Nestlé карамель арахис шоколадная плитка молочный 75 г",
+    "cleanTokens": [
+      "карамель",
+      "арахис",
+      "шоколадная",
+      "плитка",
+      "молочный"
+    ],
+    "normalizedTokens": [
+      "карамель",
+      "арахис",
+      "шоколадная",
+      "плитка",
+      "молочный",
+      "75 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "75 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Milka Bubbles Alpine Milk шоколадная плитка молочный 80 г",
+    "cleanTokens": [
+      "bubbles",
+      "alpine",
+      "milk",
+      "шоколадная",
+      "плитка",
+      "молочный"
+    ],
+    "normalizedTokens": [
+      "bubbles",
+      "alpine",
+      "milk",
+      "шоколадная",
+      "плитка",
+      "молочный",
+      "80 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "80 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Яшкино Бельгийский рецепт с арахисом шоколадная плитка молочный 90 г",
+    "cleanTokens": [
+      "бельгийский",
+      "рецепт",
+      "с",
+      "арахисом",
+      "шоколадная",
+      "плитка",
+      "молочный"
+    ],
+    "normalizedTokens": [
+      "бельгийский",
+      "рецепт",
+      "с",
+      "арахисом",
+      "шоколадная",
+      "плитка",
+      "молочный",
+      "90 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "90 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Яшкино Чио Рио шоколадный батончик молочный 30 г",
+    "cleanTokens": [
+      "чио",
+      "рио",
+      "шоколадный",
+      "батончик",
+      "молочный"
+    ],
+    "normalizedTokens": [
+      "чио",
+      "рио",
+      "шоколадный",
+      "батончик",
+      "молочный",
+      "30 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "30 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Milky Way нуга шоколадный батончик молочный 26 г",
+    "cleanTokens": [
+      "нуга",
+      "шоколадный",
+      "батончик",
+      "молочный"
+    ],
+    "normalizedTokens": [
+      "нуга",
+      "шоколадный",
+      "батончик",
+      "молочный",
+      "26 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "26 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Яшкино шоколадная плитка молочный 90 г",
+    "cleanTokens": [
+      "шоколадная",
+      "плитка",
+      "молочный"
+    ],
+    "normalizedTokens": [
+      "шоколадная",
+      "плитка",
+      "молочный",
+      "90 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "90 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Milka MMMAX Oreo шоколадная плитка молочный 300 г",
+    "cleanTokens": [
+      "mmmax",
+      "oreo",
+      "шоколадная",
+      "плитка",
+      "молочный"
+    ],
+    "normalizedTokens": [
+      "mmmax",
+      "oreo",
+      "шоколадная",
+      "плитка",
+      "молочный",
+      "300 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "300 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Nestlé миндаль и изюм шоколадная плитка молочный 75 г",
+    "cleanTokens": [
+      "миндаль",
+      "изюм",
+      "шоколадная",
+      "плитка",
+      "молочный"
+    ],
+    "normalizedTokens": [
+      "миндаль",
+      "изюм",
+      "шоколадная",
+      "плитка",
+      "молочный",
+      "75 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "75 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Яшкино Крокант с миндалем шоколадный батончик молочный 28 г",
+    "cleanTokens": [
+      "крокант",
+      "с",
+      "миндалем",
+      "шоколадный",
+      "батончик",
+      "молочный"
+    ],
+    "normalizedTokens": [
+      "крокант",
+      "с",
+      "миндалем",
+      "шоколадный",
+      "батончик",
+      "молочный",
+      "28 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "28 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "KINDER Country шоколадная плитка молочный 94 г",
+    "cleanTokens": [
+      "country",
+      "шоколадная",
+      "плитка",
+      "молочный"
+    ],
+    "normalizedTokens": [
+      "country",
+      "шоколадная",
+      "плитка",
+      "молочный",
+      "94 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "94 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Milka MMMAX Wholenut Caramel шоколадная плитка молочный 300 г",
+    "cleanTokens": [
+      "mmmax",
+      "wholenut",
+      "caramel",
+      "шоколадная",
+      "плитка",
+      "молочный"
+    ],
+    "normalizedTokens": [
+      "mmmax",
+      "wholenut",
+      "caramel",
+      "шоколадная",
+      "плитка",
+      "молочный",
+      "300 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "300 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Рахат Snatch шоколадный батончик молочный 45 г",
+    "cleanTokens": [
+      "snatch",
+      "шоколадный",
+      "батончик",
+      "молочный"
+    ],
+    "normalizedTokens": [
+      "snatch",
+      "шоколадный",
+      "батончик",
+      "молочный",
+      "45 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "45 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Milka Lu шоколадная плитка молочный 87 г",
+    "cleanTokens": [
+      "lu",
+      "шоколадная",
+      "плитка",
+      "молочный"
+    ],
+    "normalizedTokens": [
+      "lu",
+      "шоколадная",
+      "плитка",
+      "молочный",
+      "87 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "87 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "NUTELLA B-ready шоколадный батончик молочный 22 г",
+    "cleanTokens": [
+      "b-ready",
+      "шоколадный",
+      "батончик",
+      "молочный"
+    ],
+    "normalizedTokens": [
+      "b-ready",
+      "шоколадный",
+      "батончик",
+      "молочный",
+      "22 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "22 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Milka MMMAX Peanut Caramel шоколадная плитка молочный 276 г",
+    "cleanTokens": [
+      "mmmax",
+      "peanut",
+      "caramel",
+      "шоколадная",
+      "плитка",
+      "молочный"
+    ],
+    "normalizedTokens": [
+      "mmmax",
+      "peanut",
+      "caramel",
+      "шоколадная",
+      "плитка",
+      "молочный",
+      "276 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "276 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "KitKat Duo шоколадный батончик молочный 64 г",
+    "cleanTokens": [
+      "duo",
+      "шоколадный",
+      "батончик",
+      "молочный"
+    ],
+    "normalizedTokens": [
+      "duo",
+      "шоколадный",
+      "батончик",
+      "молочный",
+      "64 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "64 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Bounty Trio шоколадный батончик молочный 82.5 г",
+    "cleanTokens": [
+      "trio",
+      "шоколадный",
+      "батончик",
+      "молочный"
+    ],
+    "normalizedTokens": [
+      "trio",
+      "шоколадный",
+      "батончик",
+      "молочный",
+      "82.5 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "82.5 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Alpen Gold Aerated темный шоколадная плитка темный 80 г",
+    "cleanTokens": [
+      "aerated",
+      "темный",
+      "шоколадная",
+      "плитка",
+      "темный"
+    ],
+    "normalizedTokens": [
+      "aerated",
+      "темный",
+      "шоколадная",
+      "плитка",
+      "темный",
+      "80 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "80 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "KitKat соленая карамель с хрустящей вафлей шоколадная плитка молочный 99 г",
+    "cleanTokens": [
+      "соленая",
+      "карамель",
+      "с",
+      "хрустящей",
+      "вафлей",
+      "шоколадная",
+      "плитка",
+      "молочный"
+    ],
+    "normalizedTokens": [
+      "соленая",
+      "карамель",
+      "с",
+      "хрустящей",
+      "вафлей",
+      "шоколадная",
+      "плитка",
+      "молочный",
+      "99 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "99 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Alpen Gold Aerated молочный шоколадная плитка молочный 80 г",
+    "cleanTokens": [
+      "aerated",
+      "молочный",
+      "шоколадная",
+      "плитка",
+      "молочный"
+    ],
+    "normalizedTokens": [
+      "aerated",
+      "молочный",
+      "шоколадная",
+      "плитка",
+      "молочный",
+      "80 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "80 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Milka Bubbles Coconut шоколадная плитка молочный 97 г",
+    "cleanTokens": [
+      "bubbles",
+      "coconut",
+      "шоколадная",
+      "плитка",
+      "молочный"
+    ],
+    "normalizedTokens": [
+      "bubbles",
+      "coconut",
+      "шоколадная",
+      "плитка",
+      "молочный",
+      "97 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "97 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "KINDER Maxi шоколад порционный молочный 21 г",
+    "cleanTokens": [
+      "maxi",
+      "порционный",
+      "молочный"
+    ],
+    "normalizedTokens": [
+      "maxi",
+      "порционный",
+      "молочный",
+      "21 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "21 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Milka Strawberry Cheesecake шоколадная плитка молочный 300 г",
+    "cleanTokens": [
+      "strawberry",
+      "cheesecake",
+      "шоколадная",
+      "плитка",
+      "молочный"
+    ],
+    "normalizedTokens": [
+      "strawberry",
+      "cheesecake",
+      "шоколадная",
+      "плитка",
+      "молочный",
+      "300 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "300 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "KINDER Maxi шоколад порционный молочный 84 г",
+    "cleanTokens": [
+      "maxi",
+      "порционный",
+      "молочный"
+    ],
+    "normalizedTokens": [
+      "maxi",
+      "порционный",
+      "молочный",
+      "84 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "84 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Milka Bubbles Капучино шоколадная плитка молочный 97 г",
+    "cleanTokens": [
+      "bubbles",
+      "капучино",
+      "шоколадная",
+      "плитка",
+      "молочный"
+    ],
+    "normalizedTokens": [
+      "bubbles",
+      "капучино",
+      "шоколадная",
+      "плитка",
+      "молочный",
+      "97 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "97 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Milka MMMAX Nutty Choco Wafer шоколадная плитка молочный 270 г",
+    "cleanTokens": [
+      "mmmax",
+      "nutty",
+      "choco",
+      "wafer",
+      "шоколадная",
+      "плитка",
+      "молочный"
+    ],
+    "normalizedTokens": [
+      "mmmax",
+      "nutty",
+      "choco",
+      "wafer",
+      "шоколадная",
+      "плитка",
+      "молочный",
+      "270 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "270 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Ulker Meshur Dubai Lezzeti шоколадная плитка молочный 93 г",
+    "cleanTokens": [
+      "meshur",
+      "dubai",
+      "lezzeti",
+      "шоколадная",
+      "плитка",
+      "молочный"
+    ],
+    "normalizedTokens": [
+      "meshur",
+      "dubai",
+      "lezzeti",
+      "шоколадная",
+      "плитка",
+      "молочный",
+      "93 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "93 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "KDV Super шоколадный батончик темный 40 г",
+    "cleanTokens": [
+      "super",
+      "шоколадный",
+      "батончик",
+      "темный"
+    ],
+    "normalizedTokens": [
+      "super",
+      "шоколадный",
+      "батончик",
+      "темный",
+      "40 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "40 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "KitKat двойной шоколад с хрустящей вафлей шоколадная плитка темный 99 г",
+    "cleanTokens": [
+      "двойной",
+      "с",
+      "хрустящей",
+      "вафлей",
+      "шоколадная",
+      "плитка",
+      "темный"
+    ],
+    "normalizedTokens": [
+      "двойной",
+      "с",
+      "хрустящей",
+      "вафлей",
+      "шоколадная",
+      "плитка",
+      "темный",
+      "99 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "99 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Milka Цельный миндаль шоколадная плитка молочный 80 г",
+    "cleanTokens": [
+      "цельный",
+      "миндаль",
+      "шоколадная",
+      "плитка",
+      "молочный"
+    ],
+    "normalizedTokens": [
+      "цельный",
+      "миндаль",
+      "шоколадная",
+      "плитка",
+      "молочный",
+      "80 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "80 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Alpen Gold Max Fun Клубника, малина, черника, черная смородина, взрывная карамель, шипучие шарики шоколадная плитка молочный 130 г",
+    "cleanTokens": [
+      "max",
+      "fun",
+      "клубника",
+      "малина",
+      "черника",
+      "черная",
+      "смородина",
+      "взрывная",
+      "карамель",
+      "шипучие",
+      "шарики",
+      "шоколадная",
+      "плитка",
+      "молочный"
+    ],
+    "normalizedTokens": [
+      "max",
+      "fun",
+      "клубника",
+      "малина",
+      "черника",
+      "черная",
+      "смородина",
+      "взрывная",
+      "карамель",
+      "шипучие",
+      "шарики",
+      "шоколадная",
+      "плитка",
+      "молочный",
+      "130 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "130 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Nuts Mini шоколадный батончик молочный 148 г",
+    "cleanTokens": [
+      "mini",
+      "шоколадный",
+      "батончик",
+      "молочный"
+    ],
+    "normalizedTokens": [
+      "mini",
+      "шоколадный",
+      "батончик",
+      "молочный",
+      "148 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "148 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Ritter Sport Цельный лесной орех и хлопья шоколадная плитка белый 100 г",
+    "cleanTokens": [
+      "цельный",
+      "лесной",
+      "орех",
+      "хлопья",
+      "шоколадная",
+      "плитка",
+      "белый"
+    ],
+    "normalizedTokens": [
+      "цельный",
+      "лесной",
+      "орех",
+      "хлопья",
+      "шоколадная",
+      "плитка",
+      "белый",
+      "100 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "100 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "KitKat с фундуком с хрустящей вафлей шоколадная плитка темный 99 г",
+    "cleanTokens": [
+      "с",
+      "фундуком",
+      "с",
+      "хрустящей",
+      "вафлей",
+      "шоколадная",
+      "плитка",
+      "темный"
+    ],
+    "normalizedTokens": [
+      "с",
+      "фундуком",
+      "с",
+      "хрустящей",
+      "вафлей",
+      "шоколадная",
+      "плитка",
+      "темный",
+      "99 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "99 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "KitKat Christmas Break шоколадный батончик молочный 29 г",
+    "cleanTokens": [
+      "christmas",
+      "break",
+      "шоколадный",
+      "батончик",
+      "молочный"
+    ],
+    "normalizedTokens": [
+      "christmas",
+      "break",
+      "шоколадный",
+      "батончик",
+      "молочный",
+      "29 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "29 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Milka MMMAX Choco & Biscuit шоколадная плитка молочный 300 г",
+    "cleanTokens": [
+      "mmmax",
+      "choco",
+      "&",
+      "biscuit",
+      "шоколадная",
+      "плитка",
+      "молочный"
+    ],
+    "normalizedTokens": [
+      "mmmax",
+      "choco",
+      "&",
+      "biscuit",
+      "шоколадная",
+      "плитка",
+      "молочный",
+      "300 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "300 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Ritter Sport Лесной орех и клюква шоколадная плитка молочный 100 г",
+    "cleanTokens": [
+      "лесной",
+      "орех",
+      "клюква",
+      "шоколадная",
+      "плитка",
+      "молочный"
+    ],
+    "normalizedTokens": [
+      "лесной",
+      "орех",
+      "клюква",
+      "шоколадная",
+      "плитка",
+      "молочный",
+      "100 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "100 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Ritter Sport Марципан шоколадная плитка темный 100 г",
+    "cleanTokens": [
+      "марципан",
+      "шоколадная",
+      "плитка",
+      "темный"
+    ],
+    "normalizedTokens": [
+      "марципан",
+      "шоколадная",
+      "плитка",
+      "темный",
+      "100 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "100 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Milka MMMAX Strawberry шоколадная плитка молочный 300 г",
+    "cleanTokens": [
+      "mmmax",
+      "strawberry",
+      "шоколадная",
+      "плитка",
+      "молочный"
+    ],
+    "normalizedTokens": [
+      "mmmax",
+      "strawberry",
+      "шоколадная",
+      "плитка",
+      "молочный",
+      "300 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "300 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "KINDER новогодний шоколад фигурный молочный 45 г",
+    "cleanTokens": [
+      "новогодний",
+      "фигурный",
+      "молочный"
+    ],
+    "normalizedTokens": [
+      "новогодний",
+      "фигурный",
+      "молочный",
+      "45 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "45 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Ritter Sport Лесной орех шоколадная плитка молочный 100 г",
+    "cleanTokens": [
+      "лесной",
+      "орех",
+      "шоколадная",
+      "плитка",
+      "молочный"
+    ],
+    "normalizedTokens": [
+      "лесной",
+      "орех",
+      "шоколадная",
+      "плитка",
+      "молочный",
+      "100 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "100 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "KINDER Дед мороз шоколад фигурный молочный 55 г",
+    "cleanTokens": [
+      "дед",
+      "мороз",
+      "фигурный",
+      "молочный"
+    ],
+    "normalizedTokens": [
+      "дед",
+      "мороз",
+      "фигурный",
+      "молочный",
+      "55 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "55 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Merci Milk шоколадная плитка молочный 100 г",
+    "cleanTokens": [
+      "milk",
+      "шоколадная",
+      "плитка",
+      "молочный"
+    ],
+    "normalizedTokens": [
+      "milk",
+      "шоколадная",
+      "плитка",
+      "молочный",
+      "100 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "100 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Merci Марципан шоколадная плитка темный 112 г",
+    "cleanTokens": [
+      "марципан",
+      "шоколадная",
+      "плитка",
+      "темный"
+    ],
+    "normalizedTokens": [
+      "марципан",
+      "шоколадная",
+      "плитка",
+      "темный",
+      "112 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "112 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Merci Кофе и сливки шоколадная плитка белый, молочный 100 г",
+    "cleanTokens": [
+      "кофе",
+      "сливки",
+      "шоколадная",
+      "плитка",
+      "белый",
+      "молочный"
+    ],
+    "normalizedTokens": [
+      "кофе",
+      "сливки",
+      "шоколадная",
+      "плитка",
+      "белый",
+      "молочный",
+      "100 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "100 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Ferrero Raffaello Coconut Almond Cream шоколадная плитка белый 90 г",
+    "cleanTokens": [
+      "raffaello",
+      "coconut",
+      "almond",
+      "cream",
+      "шоколадная",
+      "плитка",
+      "белый"
+    ],
+    "normalizedTokens": [
+      "raffaello",
+      "coconut",
+      "almond",
+      "cream",
+      "шоколадная",
+      "плитка",
+      "белый",
+      "90 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "90 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "LION White шоколадный батончик белый 150 г",
+    "cleanTokens": [
+      "white",
+      "шоколадный",
+      "батончик",
+      "белый"
+    ],
+    "normalizedTokens": [
+      "white",
+      "шоколадный",
+      "батончик",
+      "белый",
+      "150 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "150 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Chokodelika Dubai Pistachio шоколадная плитка молочный 50 г",
+    "cleanTokens": [
+      "dubai",
+      "pistachio",
+      "шоколадная",
+      "плитка",
+      "молочный"
+    ],
+    "normalizedTokens": [
+      "dubai",
+      "pistachio",
+      "шоколадная",
+      "плитка",
+      "молочный",
+      "50 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "50 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Chokodelika Dubai Peanut шоколадная плитка молочный 180 г",
+    "cleanTokens": [
+      "dubai",
+      "peanut",
+      "шоколадная",
+      "плитка",
+      "молочный"
+    ],
+    "normalizedTokens": [
+      "dubai",
+      "peanut",
+      "шоколадная",
+      "плитка",
+      "молочный",
+      "180 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "180 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Chokodelika Ягодный бум шоколадная плитка белый 150 г",
+    "cleanTokens": [
+      "ягодный",
+      "бум",
+      "шоколадная",
+      "плитка",
+      "белый"
+    ],
+    "normalizedTokens": [
+      "ягодный",
+      "бум",
+      "шоколадная",
+      "плитка",
+      "белый",
+      "150 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "150 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Hershey’s Cookies'n'Crème Salted Caramel шоколадная плитка молочный 90 г",
+    "cleanTokens": [
+      "cookies'n'crème",
+      "salted",
+      "caramel",
+      "шоколадная",
+      "плитка",
+      "молочный"
+    ],
+    "normalizedTokens": [
+      "cookies'n'crème",
+      "salted",
+      "caramel",
+      "шоколадная",
+      "плитка",
+      "молочный",
+      "90 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "90 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Chokodelika Dubai Raspberry  шоколадная плитка белый 180 г",
+    "cleanTokens": [
+      "dubai",
+      "raspberry",
+      "шоколадная",
+      "плитка",
+      "белый"
+    ],
+    "normalizedTokens": [
+      "dubai",
+      "raspberry",
+      "шоколадная",
+      "плитка",
+      "белый",
+      "180 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "180 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Chokodelika Angel Hair апельсин-кешью шоколадная плитка белый 150 г",
+    "cleanTokens": [
+      "angel",
+      "hair",
+      "апельсин-кешью",
+      "шоколадная",
+      "плитка",
+      "белый"
+    ],
+    "normalizedTokens": [
+      "angel",
+      "hair",
+      "апельсин-кешью",
+      "шоколадная",
+      "плитка",
+      "белый",
+      "150 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "150 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Chokodelika Ореховый фейерверк шоколадная плитка молочный 150 г",
+    "cleanTokens": [
+      "ореховый",
+      "фейерверк",
+      "шоколадная",
+      "плитка",
+      "молочный"
+    ],
+    "normalizedTokens": [
+      "ореховый",
+      "фейерверк",
+      "шоколадная",
+      "плитка",
+      "молочный",
+      "150 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "150 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Chokodelika Dubai Pistachio шоколадная плитка молочный 180 г",
+    "cleanTokens": [
+      "dubai",
+      "pistachio",
+      "шоколадная",
+      "плитка",
+      "молочный"
+    ],
+    "normalizedTokens": [
+      "dubai",
+      "pistachio",
+      "шоколадная",
+      "плитка",
+      "молочный",
+      "180 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "180 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Chokodelika Райские Мечты шоколадная плитка молочный 150 г",
+    "cleanTokens": [
+      "райские",
+      "мечты",
+      "шоколадная",
+      "плитка",
+      "молочный"
+    ],
+    "normalizedTokens": [
+      "райские",
+      "мечты",
+      "шоколадная",
+      "плитка",
+      "молочный",
+      "150 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "150 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Hershey’s Cookies'n'Crème шоколадная плитка белый 90 г",
+    "cleanTokens": [
+      "cookies'n'crème",
+      "шоколадная",
+      "плитка",
+      "белый"
+    ],
+    "normalizedTokens": [
+      "cookies'n'crème",
+      "шоколадная",
+      "плитка",
+      "белый",
+      "90 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "90 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "LION Brownie шоколадный батончик молочный 150 г",
+    "cleanTokens": [
+      "brownie",
+      "шоколадный",
+      "батончик",
+      "молочный"
+    ],
+    "normalizedTokens": [
+      "brownie",
+      "шоколадный",
+      "батончик",
+      "молочный",
+      "150 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "150 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Chokodelika Angel Hair малина-фисташка шоколадная плитка белый 150 г",
+    "cleanTokens": [
+      "angel",
+      "hair",
+      "малина-фисташка",
+      "шоколадная",
+      "плитка",
+      "белый"
+    ],
+    "normalizedTokens": [
+      "angel",
+      "hair",
+      "малина-фисташка",
+      "шоколадная",
+      "плитка",
+      "белый",
+      "150 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "150 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Chokodelika кешью, ананас, апельсин шоколадная плитка молочный 75 г",
+    "cleanTokens": [
+      "кешью",
+      "ананас",
+      "апельсин",
+      "шоколадная",
+      "плитка",
+      "молочный"
+    ],
+    "normalizedTokens": [
+      "кешью",
+      "ананас",
+      "апельсин",
+      "шоколадная",
+      "плитка",
+      "молочный",
+      "75 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "75 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Chokodelika Dubai Pecan шоколадная плитка темный 180 г",
+    "cleanTokens": [
+      "dubai",
+      "pecan",
+      "шоколадная",
+      "плитка",
+      "темный"
+    ],
+    "normalizedTokens": [
+      "dubai",
+      "pecan",
+      "шоколадная",
+      "плитка",
+      "темный",
+      "180 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "180 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Merci Апельсин-миндаль шоколадная плитка горький 100 г",
+    "cleanTokens": [
+      "апельсин-миндаль",
+      "шоколадная",
+      "плитка",
+      "горький"
+    ],
+    "normalizedTokens": [
+      "апельсин-миндаль",
+      "шоколадная",
+      "плитка",
+      "горький",
+      "100 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "100 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Chokodelika Райские мечты шоколадная плитка молочный 150 г",
+    "cleanTokens": [
+      "райские",
+      "мечты",
+      "шоколадная",
+      "плитка",
+      "молочный"
+    ],
+    "normalizedTokens": [
+      "райские",
+      "мечты",
+      "шоколадная",
+      "плитка",
+      "молочный",
+      "150 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "150 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Ferrero Rocher Original Hazelnut шоколадная плитка молочный 90 г",
+    "cleanTokens": [
+      "rocher",
+      "original",
+      "hazelnut",
+      "шоколадная",
+      "плитка",
+      "молочный"
+    ],
+    "normalizedTokens": [
+      "rocher",
+      "original",
+      "hazelnut",
+      "шоколадная",
+      "плитка",
+      "молочный",
+      "90 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "90 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Баян Сулу набор Казахстанский шоколад порционный молочный, темный 185 г",
+    "cleanTokens": [
+      "набор",
+      "казахстанский",
+      "порционный",
+      "молочный",
+      "темный"
+    ],
+    "normalizedTokens": [
+      "набор",
+      "казахстанский",
+      "порционный",
+      "молочный",
+      "темный",
+      "185 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "185 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Alma Chocolates Nomad's Sweets с куртом шоколадная плитка темный 200 г",
+    "cleanTokens": [
+      "nomad's",
+      "sweets",
+      "с",
+      "куртом",
+      "шоколадная",
+      "плитка",
+      "темный"
+    ],
+    "normalizedTokens": [
+      "nomad's",
+      "sweets",
+      "с",
+      "куртом",
+      "шоколадная",
+      "плитка",
+      "темный",
+      "200 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "200 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Шоколадное яйцо Kinder Сюрприз Maxi с игрушкой Natoons 100 г",
+    "cleanTokens": [
+      "шоколадное",
+      "яйцо",
+      "сюрприз",
+      "maxi",
+      "с",
+      "игрушкой",
+      "natoons"
+    ],
+    "normalizedTokens": [
+      "шоколадное",
+      "яйцо",
+      "сюрприз",
+      "maxi",
+      "с",
+      "игрушкой",
+      "natoons",
+      "100 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "100 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "TOBLERONE with Raisins & Honey & Almond Nougat шоколадный батончик молочный 100 г",
+    "cleanTokens": [
+      "with",
+      "raisins",
+      "&",
+      "honey",
+      "&",
+      "almond",
+      "nougat",
+      "шоколадный",
+      "батончик",
+      "молочный"
+    ],
+    "normalizedTokens": [
+      "with",
+      "raisins",
+      "&",
+      "honey",
+      "&",
+      "almond",
+      "nougat",
+      "шоколадный",
+      "батончик",
+      "молочный",
+      "100 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "100 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Ritter Sport Кокос шоколадная плитка молочный 100 г",
+    "cleanTokens": [
+      "кокос",
+      "шоколадная",
+      "плитка",
+      "молочный"
+    ],
+    "normalizedTokens": [
+      "кокос",
+      "шоколадная",
+      "плитка",
+      "молочный",
+      "100 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "100 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Karl Fazer 47% какао Dark шоколадная плитка темный 200 г",
+    "cleanTokens": [
+      "какао",
+      "dark",
+      "шоколадная",
+      "плитка",
+      "темный"
+    ],
+    "normalizedTokens": [
+      "47%",
+      "какао",
+      "dark",
+      "шоколадная",
+      "плитка",
+      "темный",
+      "200 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "200 г",
+      "count": null,
+      "pack": null,
+      "percent": "47%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Milka Alpine Milk шоколадная плитка молочный 270 г",
+    "cleanTokens": [
+      "alpine",
+      "milk",
+      "шоколадная",
+      "плитка",
+      "молочный"
+    ],
+    "normalizedTokens": [
+      "alpine",
+      "milk",
+      "шоколадная",
+      "плитка",
+      "молочный",
+      "270 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "270 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Bucheron 72% какао миндаль шоколадная плитка горький 90 г",
+    "cleanTokens": [
+      "какао",
+      "миндаль",
+      "шоколадная",
+      "плитка",
+      "горький"
+    ],
+    "normalizedTokens": [
+      "72%",
+      "какао",
+      "миндаль",
+      "шоколадная",
+      "плитка",
+      "горький",
+      "90 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "90 г",
+      "count": null,
+      "pack": null,
+      "percent": "72%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Merci Ореховый крем шоколадная плитка темный 112 г",
+    "cleanTokens": [
+      "ореховый",
+      "крем",
+      "шоколадная",
+      "плитка",
+      "темный"
+    ],
+    "normalizedTokens": [
+      "ореховый",
+      "крем",
+      "шоколадная",
+      "плитка",
+      "темный",
+      "112 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "112 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Ritter Sport Funky Лимонный мусс шоколадная плитка белый 100 г",
+    "cleanTokens": [
+      "funky",
+      "лимонный",
+      "мусс",
+      "шоколадная",
+      "плитка",
+      "белый"
+    ],
+    "normalizedTokens": [
+      "funky",
+      "лимонный",
+      "мусс",
+      "шоколадная",
+      "плитка",
+      "белый",
+      "100 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "100 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Feastables Mr.Beast Milk шоколадная плитка молочный 60 г",
+    "cleanTokens": [
+      "mr.beast",
+      "milk",
+      "шоколадная",
+      "плитка",
+      "молочный"
+    ],
+    "normalizedTokens": [
+      "mr.beast",
+      "milk",
+      "шоколадная",
+      "плитка",
+      "молочный",
+      "60 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "60 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Ferrero Дед Мороз шоколад фигурный молочный 110 г",
+    "cleanTokens": [
+      "дед",
+      "мороз",
+      "фигурный",
+      "молочный"
+    ],
+    "normalizedTokens": [
+      "дед",
+      "мороз",
+      "фигурный",
+      "молочный",
+      "110 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "110 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Grondard Marzipan Классический шоколадный батончик темный 50 г",
+    "cleanTokens": [
+      "marzipan",
+      "классический",
+      "шоколадный",
+      "батончик",
+      "темный"
+    ],
+    "normalizedTokens": [
+      "marzipan",
+      "классический",
+      "шоколадный",
+      "батончик",
+      "темный",
+      "50 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "50 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "TOBLERONE with Honey & Almond Nougat шоколадный батончик белый 100 г",
+    "cleanTokens": [
+      "with",
+      "honey",
+      "&",
+      "almond",
+      "nougat",
+      "шоколадный",
+      "батончик",
+      "белый"
+    ],
+    "normalizedTokens": [
+      "with",
+      "honey",
+      "&",
+      "almond",
+      "nougat",
+      "шоколадный",
+      "батончик",
+      "белый",
+      "100 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "100 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Bucheron 72% какао фундук шоколадная плитка горький 90 г",
+    "cleanTokens": [
+      "какао",
+      "фундук",
+      "шоколадная",
+      "плитка",
+      "горький"
+    ],
+    "normalizedTokens": [
+      "72%",
+      "какао",
+      "фундук",
+      "шоколадная",
+      "плитка",
+      "горький",
+      "90 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "90 г",
+      "count": null,
+      "pack": null,
+      "percent": "72%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Grondard Marzipan Нежный кокос шоколадный батончик темный 50 г",
+    "cleanTokens": [
+      "marzipan",
+      "нежный",
+      "кокос",
+      "шоколадный",
+      "батончик",
+      "темный"
+    ],
+    "normalizedTokens": [
+      "marzipan",
+      "нежный",
+      "кокос",
+      "шоколадный",
+      "батончик",
+      "темный",
+      "50 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "50 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Feastables Mr.Beast Deez Nuts with Peanut Butter шоколадная плитка молочный 60 г",
+    "cleanTokens": [
+      "mr.beast",
+      "deez",
+      "with",
+      "peanut",
+      "butter",
+      "шоколадная",
+      "плитка",
+      "молочный"
+    ],
+    "normalizedTokens": [
+      "mr.beast",
+      "deez",
+      "with",
+      "peanut",
+      "butter",
+      "шоколадная",
+      "плитка",
+      "молочный",
+      "60 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "60 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Feastables Mr. Beast Almond шоколадная плитка молочный 60 г",
+    "cleanTokens": [
+      "mr.",
+      "beast",
+      "almond",
+      "шоколадная",
+      "плитка",
+      "молочный"
+    ],
+    "normalizedTokens": [
+      "mr.",
+      "beast",
+      "almond",
+      "шоколадная",
+      "плитка",
+      "молочный",
+      "60 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "60 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Bucheron 72% какао Coffee + Sicilian Orange шоколадная плитка горький 100 г",
+    "cleanTokens": [
+      "какао",
+      "coffee",
+      "+",
+      "sicilian",
+      "orange",
+      "шоколадная",
+      "плитка",
+      "горький"
+    ],
+    "normalizedTokens": [
+      "72%",
+      "какао",
+      "coffee",
+      "+",
+      "sicilian",
+      "orange",
+      "шоколадная",
+      "плитка",
+      "горький",
+      "100 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "100 г",
+      "count": null,
+      "pack": null,
+      "percent": "72%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Grondard Marzipan Кусочки клюквы шоколадный батончик темный 50 г",
+    "cleanTokens": [
+      "marzipan",
+      "кусочки",
+      "клюквы",
+      "шоколадный",
+      "батончик",
+      "темный"
+    ],
+    "normalizedTokens": [
+      "marzipan",
+      "кусочки",
+      "клюквы",
+      "шоколадный",
+      "батончик",
+      "темный",
+      "50 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "50 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Grondard Marzipan Шоколадный мусс шоколадный батончик темный 50 г",
+    "cleanTokens": [
+      "marzipan",
+      "шоколадный",
+      "мусс",
+      "шоколадный",
+      "батончик",
+      "темный"
+    ],
+    "normalizedTokens": [
+      "marzipan",
+      "шоколадный",
+      "мусс",
+      "шоколадный",
+      "батончик",
+      "темный",
+      "50 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "50 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Bucheron Milk шоколадная плитка молочный 100 г",
+    "cleanTokens": [
+      "milk",
+      "шоколадная",
+      "плитка",
+      "молочный"
+    ],
+    "normalizedTokens": [
+      "milk",
+      "шоколадная",
+      "плитка",
+      "молочный",
+      "100 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "100 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Hershey’s Cookies 'n' Creme шоколадная плитка белый 43 г",
+    "cleanTokens": [
+      "cookies",
+      "'n'",
+      "creme",
+      "шоколадная",
+      "плитка",
+      "белый"
+    ],
+    "normalizedTokens": [
+      "cookies",
+      "'n'",
+      "creme",
+      "шоколадная",
+      "плитка",
+      "белый",
+      "43 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "43 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Karl Fazer with Salty Toffee Crunch шоколадная плитка молочный 200 г",
+    "cleanTokens": [
+      "with",
+      "salty",
+      "toffee",
+      "crunch",
+      "шоколадная",
+      "плитка",
+      "молочный"
+    ],
+    "normalizedTokens": [
+      "with",
+      "salty",
+      "toffee",
+      "crunch",
+      "шоколадная",
+      "плитка",
+      "молочный",
+      "200 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "200 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Milka Joghurt шоколадная плитка молочный 100 г",
+    "cleanTokens": [
+      "joghurt",
+      "шоколадная",
+      "плитка",
+      "молочный"
+    ],
+    "normalizedTokens": [
+      "joghurt",
+      "шоколадная",
+      "плитка",
+      "молочный",
+      "100 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "100 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Bucheron STAND'ART Milky Raspberry шоколадная плитка молочный 100 г",
+    "cleanTokens": [
+      "stand'art",
+      "milky",
+      "raspberry",
+      "шоколадная",
+      "плитка",
+      "молочный"
+    ],
+    "normalizedTokens": [
+      "stand'art",
+      "milky",
+      "raspberry",
+      "шоколадная",
+      "плитка",
+      "молочный",
+      "100 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "100 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Alma Chocolates Dzen с чаем матча и манго шоколадная плитка белый 90 г",
+    "cleanTokens": [
+      "dzen",
+      "с",
+      "чаем",
+      "матча",
+      "манго",
+      "шоколадная",
+      "плитка",
+      "белый"
+    ],
+    "normalizedTokens": [
+      "dzen",
+      "с",
+      "чаем",
+      "матча",
+      "манго",
+      "шоколадная",
+      "плитка",
+      "белый",
+      "90 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "90 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Milka Caramel шоколадная плитка молочный 100 г",
+    "cleanTokens": [
+      "caramel",
+      "шоколадная",
+      "плитка",
+      "молочный"
+    ],
+    "normalizedTokens": [
+      "caramel",
+      "шоколадная",
+      "плитка",
+      "молочный",
+      "100 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "100 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Milka Bubbly White шоколадная плитка белый, молочный 95 г",
+    "cleanTokens": [
+      "bubbly",
+      "white",
+      "шоколадная",
+      "плитка",
+      "белый",
+      "молочный"
+    ],
+    "normalizedTokens": [
+      "bubbly",
+      "white",
+      "шоколадная",
+      "плитка",
+      "белый",
+      "молочный",
+      "95 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "95 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Schogetten Macadamia Cookie шоколадная плитка молочный 100 г",
+    "cleanTokens": [
+      "macadamia",
+      "cookie",
+      "шоколадная",
+      "плитка",
+      "молочный"
+    ],
+    "normalizedTokens": [
+      "macadamia",
+      "cookie",
+      "шоколадная",
+      "плитка",
+      "молочный",
+      "100 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "100 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Alma Chocolates Nomad's Sweets с тары шоколадная плитка молочный 200 г",
+    "cleanTokens": [
+      "nomad's",
+      "sweets",
+      "с",
+      "тары",
+      "шоколадная",
+      "плитка",
+      "молочный"
+    ],
+    "normalizedTokens": [
+      "nomad's",
+      "sweets",
+      "с",
+      "тары",
+      "шоколадная",
+      "плитка",
+      "молочный",
+      "200 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "200 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Reese's Nutrageous шоколадный батончик молочный 47 г",
+    "cleanTokens": [
+      "nutrageous",
+      "шоколадный",
+      "батончик",
+      "молочный"
+    ],
+    "normalizedTokens": [
+      "nutrageous",
+      "шоколадный",
+      "батончик",
+      "молочный",
+      "47 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "47 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Karl Fazer Milk шоколадная плитка молочный 200 г",
+    "cleanTokens": [
+      "milk",
+      "шоколадная",
+      "плитка",
+      "молочный"
+    ],
+    "normalizedTokens": [
+      "milk",
+      "шоколадная",
+      "плитка",
+      "молочный",
+      "200 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "200 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Bucheron с изюмом и орехами шоколадная плитка молочный 100 г",
+    "cleanTokens": [
+      "с",
+      "изюмом",
+      "орехами",
+      "шоколадная",
+      "плитка",
+      "молочный"
+    ],
+    "normalizedTokens": [
+      "с",
+      "изюмом",
+      "орехами",
+      "шоколадная",
+      "плитка",
+      "молочный",
+      "100 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "100 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Reese's Big Cup Puffs King шоколад фигурный молочный 68 г",
+    "cleanTokens": [
+      "big",
+      "cup",
+      "puffs",
+      "king",
+      "фигурный",
+      "молочный"
+    ],
+    "normalizedTokens": [
+      "big",
+      "cup",
+      "puffs",
+      "king",
+      "фигурный",
+      "молочный",
+      "68 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "68 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Alma Chocolates Dzen с чаем матча и чиа шоколадная плитка белый 90 г",
+    "cleanTokens": [
+      "dzen",
+      "с",
+      "чаем",
+      "матча",
+      "чиа",
+      "шоколадная",
+      "плитка",
+      "белый"
+    ],
+    "normalizedTokens": [
+      "dzen",
+      "с",
+      "чаем",
+      "матча",
+      "чиа",
+      "шоколадная",
+      "плитка",
+      "белый",
+      "90 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "90 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Reese's Sticks Peanut Butter Creme & Crispy Wafers шоколадный батончик молочный 42 г",
+    "cleanTokens": [
+      "sticks",
+      "peanut",
+      "butter",
+      "creme",
+      "&",
+      "crispy",
+      "wafers",
+      "шоколадный",
+      "батончик",
+      "молочный"
+    ],
+    "normalizedTokens": [
+      "sticks",
+      "peanut",
+      "butter",
+      "creme",
+      "&",
+      "crispy",
+      "wafers",
+      "шоколадный",
+      "батончик",
+      "молочный",
+      "42 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "42 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "KINDER Сюрприз Super Maxi для девочек шоколадное яйцо молочный 220 г",
+    "cleanTokens": [
+      "сюрприз",
+      "super",
+      "maxi",
+      "для",
+      "девочек",
+      "шоколадное",
+      "яйцо",
+      "молочный"
+    ],
+    "normalizedTokens": [
+      "сюрприз",
+      "super",
+      "maxi",
+      "для",
+      "девочек",
+      "шоколадное",
+      "яйцо",
+      "молочный",
+      "220 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "220 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "А4 квадрат-шоколад с печенькой-начинкой шоколадная плитка молочный 66 г",
+    "cleanTokens": [
+      "квадрат-шоколад",
+      "с",
+      "печенькой-начинкой",
+      "шоколадная",
+      "плитка",
+      "молочный"
+    ],
+    "normalizedTokens": [
+      "квадрат-шоколад",
+      "с",
+      "печенькой-начинкой",
+      "шоколадная",
+      "плитка",
+      "молочный",
+      "66 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "66 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Alma Chocolates с жентом шоколадная плитка темный 200 г",
+    "cleanTokens": [
+      "с",
+      "жентом",
+      "шоколадная",
+      "плитка",
+      "темный"
+    ],
+    "normalizedTokens": [
+      "с",
+      "жентом",
+      "шоколадная",
+      "плитка",
+      "темный",
+      "200 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "200 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Nestlé inci damak с фисташками шоколадный батончик белый 30 г",
+    "cleanTokens": [
+      "inci",
+      "damak",
+      "с",
+      "фисташками",
+      "шоколадный",
+      "батончик",
+      "белый"
+    ],
+    "normalizedTokens": [
+      "inci",
+      "damak",
+      "с",
+      "фисташками",
+      "шоколадный",
+      "батончик",
+      "белый",
+      "30 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "30 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Ferrero Grand с измельченными лесными орешками шоколадное яйцо молочный 125 г",
+    "cleanTokens": [
+      "grand",
+      "с",
+      "измельченными",
+      "лесными",
+      "орешками",
+      "шоколадное",
+      "яйцо",
+      "молочный"
+    ],
+    "normalizedTokens": [
+      "grand",
+      "с",
+      "измельченными",
+      "лесными",
+      "орешками",
+      "шоколадное",
+      "яйцо",
+      "молочный",
+      "125 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "125 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Schogetten Blonde Pistacho шоколадная плитка белый 100 г",
+    "cleanTokens": [
+      "blonde",
+      "pistacho",
+      "шоколадная",
+      "плитка",
+      "белый"
+    ],
+    "normalizedTokens": [
+      "blonde",
+      "pistacho",
+      "шоколадная",
+      "плитка",
+      "белый",
+      "100 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "100 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Milka Lotus Biscoff шоколадная плитка молочный 90 г",
+    "cleanTokens": [
+      "lotus",
+      "biscoff",
+      "шоколадная",
+      "плитка",
+      "молочный"
+    ],
+    "normalizedTokens": [
+      "lotus",
+      "biscoff",
+      "шоколадная",
+      "плитка",
+      "молочный",
+      "90 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "90 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Alma Chocolates с маком шоколадная плитка молочный 200 г",
+    "cleanTokens": [
+      "с",
+      "маком",
+      "шоколадная",
+      "плитка",
+      "молочный"
+    ],
+    "normalizedTokens": [
+      "с",
+      "маком",
+      "шоколадная",
+      "плитка",
+      "молочный",
+      "200 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "200 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Milka Oreo шоколадная плитка молочный 100 г",
+    "cleanTokens": [
+      "oreo",
+      "шоколадная",
+      "плитка",
+      "молочный"
+    ],
+    "normalizedTokens": [
+      "oreo",
+      "шоколадная",
+      "плитка",
+      "молочный",
+      "100 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "100 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Alma Chocolates Dzen с чаем матча и малиной шоколадная плитка белый 90 г",
+    "cleanTokens": [
+      "dzen",
+      "с",
+      "чаем",
+      "матча",
+      "малиной",
+      "шоколадная",
+      "плитка",
+      "белый"
+    ],
+    "normalizedTokens": [
+      "dzen",
+      "с",
+      "чаем",
+      "матча",
+      "малиной",
+      "шоколадная",
+      "плитка",
+      "белый",
+      "90 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "90 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Grondard Marzipan Яблоко и корица шоколадный батончик темный 50 г",
+    "cleanTokens": [
+      "marzipan",
+      "яблоко",
+      "корица",
+      "шоколадный",
+      "батончик",
+      "темный"
+    ],
+    "normalizedTokens": [
+      "marzipan",
+      "яблоко",
+      "корица",
+      "шоколадный",
+      "батончик",
+      "темный",
+      "50 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "50 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Cadbury Wispa шоколадный батончик молочный 36 г",
+    "cleanTokens": [
+      "wispa",
+      "шоколадный",
+      "батончик",
+      "молочный"
+    ],
+    "normalizedTokens": [
+      "wispa",
+      "шоколадный",
+      "батончик",
+      "молочный",
+      "36 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "36 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Bucheron 72% какао Pistachios + Strawberry + Cranberry шоколадная плитка горький 100 г",
+    "cleanTokens": [
+      "какао",
+      "pistachios",
+      "+",
+      "strawberry",
+      "+",
+      "cranberry",
+      "шоколадная",
+      "плитка",
+      "горький"
+    ],
+    "normalizedTokens": [
+      "72%",
+      "какао",
+      "pistachios",
+      "+",
+      "strawberry",
+      "+",
+      "cranberry",
+      "шоколадная",
+      "плитка",
+      "горький",
+      "100 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "100 г",
+      "count": null,
+      "pack": null,
+      "percent": "72%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Grondard Marzipan Лесные ягоды шоколадный батончик темный 50 г",
+    "cleanTokens": [
+      "marzipan",
+      "лесные",
+      "ягоды",
+      "шоколадный",
+      "батончик",
+      "темный"
+    ],
+    "normalizedTokens": [
+      "marzipan",
+      "лесные",
+      "ягоды",
+      "шоколадный",
+      "батончик",
+      "темный",
+      "50 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "50 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Bucheron The Dark 72% какао шоколадная плитка горький 90 г",
+    "cleanTokens": [
+      "the",
+      "dark",
+      "какао",
+      "шоколадная",
+      "плитка",
+      "горький"
+    ],
+    "normalizedTokens": [
+      "the",
+      "dark",
+      "72%",
+      "какао",
+      "шоколадная",
+      "плитка",
+      "горький",
+      "90 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "90 г",
+      "count": null,
+      "pack": null,
+      "percent": "72%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Milka Oreo шоколадная плитка молочный 37 г",
+    "cleanTokens": [
+      "oreo",
+      "шоколадная",
+      "плитка",
+      "молочный"
+    ],
+    "normalizedTokens": [
+      "oreo",
+      "шоколадная",
+      "плитка",
+      "молочный",
+      "37 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "37 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Alma Chocolates Dzen с чаем матча и кокосом шоколадная плитка белый 90 г",
+    "cleanTokens": [
+      "dzen",
+      "с",
+      "чаем",
+      "матча",
+      "кокосом",
+      "шоколадная",
+      "плитка",
+      "белый"
+    ],
+    "normalizedTokens": [
+      "dzen",
+      "с",
+      "чаем",
+      "матча",
+      "кокосом",
+      "шоколадная",
+      "плитка",
+      "белый",
+      "90 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "90 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Milka Milkinis Sticks шоколад порционный молочный 87.5 г",
+    "cleanTokens": [
+      "milkinis",
+      "sticks",
+      "порционный",
+      "молочный"
+    ],
+    "normalizedTokens": [
+      "milkinis",
+      "sticks",
+      "порционный",
+      "молочный",
+      "87.5 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "87.5 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Bucheron 72% какао морская соль шоколадная плитка горький 90 г",
+    "cleanTokens": [
+      "какао",
+      "морская",
+      "соль",
+      "шоколадная",
+      "плитка",
+      "горький"
+    ],
+    "normalizedTokens": [
+      "72%",
+      "какао",
+      "морская",
+      "соль",
+      "шоколадная",
+      "плитка",
+      "горький",
+      "90 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "90 г",
+      "count": null,
+      "pack": null,
+      "percent": "72%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Alma Chocolates Kazakhstan 53% какао шоколадная плитка темный 200 г",
+    "cleanTokens": [
+      "kazakhstan",
+      "какао",
+      "шоколадная",
+      "плитка",
+      "темный"
+    ],
+    "normalizedTokens": [
+      "kazakhstan",
+      "53%",
+      "какао",
+      "шоколадная",
+      "плитка",
+      "темный",
+      "200 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "200 г",
+      "count": null,
+      "pack": null,
+      "percent": "53%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Milka Crispy Rice шоколадная плитка молочный 100 г",
+    "cleanTokens": [
+      "crispy",
+      "rice",
+      "шоколадная",
+      "плитка",
+      "молочный"
+    ],
+    "normalizedTokens": [
+      "crispy",
+      "rice",
+      "шоколадная",
+      "плитка",
+      "молочный",
+      "100 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "100 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Milka Chips Ahoy шоколадная плитка молочный 100 г",
+    "cleanTokens": [
+      "chips",
+      "ahoy",
+      "шоколадная",
+      "плитка",
+      "молочный"
+    ],
+    "normalizedTokens": [
+      "chips",
+      "ahoy",
+      "шоколадная",
+      "плитка",
+      "молочный",
+      "100 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "100 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "KitKat с хрустящей вафлей шоколадная плитка молочный 41.5 г",
+    "cleanTokens": [
+      "с",
+      "хрустящей",
+      "вафлей",
+      "шоколадная",
+      "плитка",
+      "молочный"
+    ],
+    "normalizedTokens": [
+      "с",
+      "хрустящей",
+      "вафлей",
+      "шоколадная",
+      "плитка",
+      "молочный",
+      "41.5 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "41.5 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "TRAPA Intenso Whole Hazelnuts шоколадная плитка молочный 175 г",
+    "cleanTokens": [
+      "intenso",
+      "whole",
+      "hazelnuts",
+      "шоколадная",
+      "плитка",
+      "молочный"
+    ],
+    "normalizedTokens": [
+      "intenso",
+      "whole",
+      "hazelnuts",
+      "шоколадная",
+      "плитка",
+      "молочный",
+      "175 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "175 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Hershey’s Cookies'n'Crème Flat White шоколадная плитка белый 90 г",
+    "cleanTokens": [
+      "cookies'n'crème",
+      "flat",
+      "white",
+      "шоколадная",
+      "плитка",
+      "белый"
+    ],
+    "normalizedTokens": [
+      "cookies'n'crème",
+      "flat",
+      "white",
+      "шоколадная",
+      "плитка",
+      "белый",
+      "90 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "90 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Bucheron Californian Almond + Cranberry + Strawberry шоколадная плитка белый 100 г",
+    "cleanTokens": [
+      "californian",
+      "almond",
+      "+",
+      "cranberry",
+      "+",
+      "strawberry",
+      "шоколадная",
+      "плитка",
+      "белый"
+    ],
+    "normalizedTokens": [
+      "californian",
+      "almond",
+      "+",
+      "cranberry",
+      "+",
+      "strawberry",
+      "шоколадная",
+      "плитка",
+      "белый",
+      "100 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "100 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Bucheron 72% какао Californian Almond + Cranberry + Pistachios шоколадная плитка горький 100 г",
+    "cleanTokens": [
+      "какао",
+      "californian",
+      "almond",
+      "+",
+      "cranberry",
+      "+",
+      "pistachios",
+      "шоколадная",
+      "плитка",
+      "горький"
+    ],
+    "normalizedTokens": [
+      "72%",
+      "какао",
+      "californian",
+      "almond",
+      "+",
+      "cranberry",
+      "+",
+      "pistachios",
+      "шоколадная",
+      "плитка",
+      "горький",
+      "100 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "100 г",
+      "count": null,
+      "pack": null,
+      "percent": "72%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Reese's Peanut Butter шоколадная плитка белый 90 г",
+    "cleanTokens": [
+      "peanut",
+      "butter",
+      "шоколадная",
+      "плитка",
+      "белый"
+    ],
+    "normalizedTokens": [
+      "peanut",
+      "butter",
+      "шоколадная",
+      "плитка",
+      "белый",
+      "90 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "90 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "TRAPA Intenso 70% Noir Whole Hazelnuts шоколадная плитка темный 175 г",
+    "cleanTokens": [
+      "intenso",
+      "noir",
+      "whole",
+      "hazelnuts",
+      "шоколадная",
+      "плитка",
+      "темный"
+    ],
+    "normalizedTokens": [
+      "intenso",
+      "70%",
+      "noir",
+      "whole",
+      "hazelnuts",
+      "шоколадная",
+      "плитка",
+      "темный",
+      "175 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "175 г",
+      "count": null,
+      "pack": null,
+      "percent": "70%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Bucheron STAND'ART Hazelnut шоколадная плитка горький 100 г",
+    "cleanTokens": [
+      "stand'art",
+      "hazelnut",
+      "шоколадная",
+      "плитка",
+      "горький"
+    ],
+    "normalizedTokens": [
+      "stand'art",
+      "hazelnut",
+      "шоколадная",
+      "плитка",
+      "горький",
+      "100 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "100 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Milka White шоколадная плитка белый 90 г",
+    "cleanTokens": [
+      "white",
+      "шоколадная",
+      "плитка",
+      "белый"
+    ],
+    "normalizedTokens": [
+      "white",
+      "шоколадная",
+      "плитка",
+      "белый",
+      "90 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "90 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Alma Chocolates Большой Казахстан шоколадная плитка горький 200 г",
+    "cleanTokens": [
+      "большой",
+      "казахстан",
+      "шоколадная",
+      "плитка",
+      "горький"
+    ],
+    "normalizedTokens": [
+      "большой",
+      "казахстан",
+      "шоколадная",
+      "плитка",
+      "горький",
+      "200 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "200 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Alma Chocolates Dzen с чаем матча шоколадная плитка белый 90 г",
+    "cleanTokens": [
+      "dzen",
+      "с",
+      "чаем",
+      "матча",
+      "шоколадная",
+      "плитка",
+      "белый"
+    ],
+    "normalizedTokens": [
+      "dzen",
+      "с",
+      "чаем",
+      "матча",
+      "шоколадная",
+      "плитка",
+      "белый",
+      "90 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "90 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Bucheron STAND'ART Bitter 72% какао шоколадная плитка горький 100 г",
+    "cleanTokens": [
+      "stand'art",
+      "bitter",
+      "какао",
+      "шоколадная",
+      "плитка",
+      "горький"
+    ],
+    "normalizedTokens": [
+      "stand'art",
+      "bitter",
+      "72%",
+      "какао",
+      "шоколадная",
+      "плитка",
+      "горький",
+      "100 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "100 г",
+      "count": null,
+      "pack": null,
+      "percent": "72%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Bucheron с апельсином и орехами шоколадная плитка горький 100 г",
+    "cleanTokens": [
+      "с",
+      "апельсином",
+      "орехами",
+      "шоколадная",
+      "плитка",
+      "горький"
+    ],
+    "normalizedTokens": [
+      "с",
+      "апельсином",
+      "орехами",
+      "шоколадная",
+      "плитка",
+      "горький",
+      "100 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "100 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Schogetten Popcorn шоколадная плитка молочный 100 г",
+    "cleanTokens": [
+      "popcorn",
+      "шоколадная",
+      "плитка",
+      "молочный"
+    ],
+    "normalizedTokens": [
+      "popcorn",
+      "шоколадная",
+      "плитка",
+      "молочный",
+      "100 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "100 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Schogetten Caramel brownie шоколадная плитка молочный 100 г",
+    "cleanTokens": [
+      "caramel",
+      "brownie",
+      "шоколадная",
+      "плитка",
+      "молочный"
+    ],
+    "normalizedTokens": [
+      "caramel",
+      "brownie",
+      "шоколадная",
+      "плитка",
+      "молочный",
+      "100 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "100 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Nestlé Beyaz шоколадная плитка белый 60 г",
+    "cleanTokens": [
+      "beyaz",
+      "шоколадная",
+      "плитка",
+      "белый"
+    ],
+    "normalizedTokens": [
+      "beyaz",
+      "шоколадная",
+      "плитка",
+      "белый",
+      "60 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "60 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "KitKat Chunky Cookies & Cream шоколадный батончик молочный 38 г",
+    "cleanTokens": [
+      "chunky",
+      "cookies",
+      "&",
+      "cream",
+      "шоколадный",
+      "батончик",
+      "молочный"
+    ],
+    "normalizedTokens": [
+      "chunky",
+      "cookies",
+      "&",
+      "cream",
+      "шоколадный",
+      "батончик",
+      "молочный",
+      "38 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "38 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Grondard Marzipan Finest Classic шоколадный батончик темный 50 г",
+    "cleanTokens": [
+      "marzipan",
+      "finest",
+      "classic",
+      "шоколадный",
+      "батончик",
+      "темный"
+    ],
+    "normalizedTokens": [
+      "marzipan",
+      "finest",
+      "classic",
+      "шоколадный",
+      "батончик",
+      "темный",
+      "50 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "50 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "KitKat Fingers Foil Wrap шоколадный батончик молочный 17 г",
+    "cleanTokens": [
+      "fingers",
+      "foil",
+      "wrap",
+      "шоколадный",
+      "батончик",
+      "молочный"
+    ],
+    "normalizedTokens": [
+      "fingers",
+      "foil",
+      "wrap",
+      "шоколадный",
+      "батончик",
+      "молочный",
+      "17 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "17 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Chokodelika Кватро шоколадная плитка молочный, белый, темный 220 г",
+    "cleanTokens": [
+      "кватро",
+      "шоколадная",
+      "плитка",
+      "молочный",
+      "белый",
+      "темный"
+    ],
+    "normalizedTokens": [
+      "кватро",
+      "шоколадная",
+      "плитка",
+      "молочный",
+      "белый",
+      "темный",
+      "220 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "220 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Schogetten Freeze Ме Peach Passionfruit шоколадная плитка молочный 100 г",
+    "cleanTokens": [
+      "freeze",
+      "ме",
+      "peach",
+      "passionfruit",
+      "шоколадная",
+      "плитка",
+      "молочный"
+    ],
+    "normalizedTokens": [
+      "freeze",
+      "ме",
+      "peach",
+      "passionfruit",
+      "шоколадная",
+      "плитка",
+      "молочный",
+      "100 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "100 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Chokocat Ты для меня целый мир шоколадная плитка молочный 20 г",
+    "cleanTokens": [
+      "ты",
+      "для",
+      "меня",
+      "целый",
+      "мир",
+      "шоколадная",
+      "плитка",
+      "молочный"
+    ],
+    "normalizedTokens": [
+      "ты",
+      "для",
+      "меня",
+      "целый",
+      "мир",
+      "шоколадная",
+      "плитка",
+      "молочный",
+      "20 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "20 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Grondard Mango Coconut шоколадный батончик белый 40 г",
+    "cleanTokens": [
+      "mango",
+      "coconut",
+      "шоколадный",
+      "батончик",
+      "белый"
+    ],
+    "normalizedTokens": [
+      "mango",
+      "coconut",
+      "шоколадный",
+      "батончик",
+      "белый",
+      "40 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "40 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Handy Candy Когда ты рядом шоколадная плитка молочный 45 г",
+    "cleanTokens": [
+      "когда",
+      "ты",
+      "рядом",
+      "шоколадная",
+      "плитка",
+      "молочный"
+    ],
+    "normalizedTokens": [
+      "когда",
+      "ты",
+      "рядом",
+      "шоколадная",
+      "плитка",
+      "молочный",
+      "45 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "45 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Schogetten Blonde Almond шоколадная плитка белый 100 г",
+    "cleanTokens": [
+      "blonde",
+      "almond",
+      "шоколадная",
+      "плитка",
+      "белый"
+    ],
+    "normalizedTokens": [
+      "blonde",
+      "almond",
+      "шоколадная",
+      "плитка",
+      "белый",
+      "100 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "100 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Bucheron Горький с апельсином шоколадная плитка горький 90 г",
+    "cleanTokens": [
+      "горький",
+      "с",
+      "апельсином",
+      "шоколадная",
+      "плитка",
+      "горький"
+    ],
+    "normalizedTokens": [
+      "горький",
+      "с",
+      "апельсином",
+      "шоколадная",
+      "плитка",
+      "горький",
+      "90 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "90 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Chokocat Тебе сегодня можно все шоколадная плитка молочный 20 г",
+    "cleanTokens": [
+      "тебе",
+      "сегодня",
+      "можно",
+      "все",
+      "шоколадная",
+      "плитка",
+      "молочный"
+    ],
+    "normalizedTokens": [
+      "тебе",
+      "сегодня",
+      "можно",
+      "все",
+      "шоколадная",
+      "плитка",
+      "молочный",
+      "20 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "20 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "А4 Шокобат с ванильными блобсами шоколадный батончик молочный 50 г",
+    "cleanTokens": [
+      "шокобат",
+      "с",
+      "ванильными",
+      "блобсами",
+      "шоколадный",
+      "батончик",
+      "молочный"
+    ],
+    "normalizedTokens": [
+      "шокобат",
+      "с",
+      "ванильными",
+      "блобсами",
+      "шоколадный",
+      "батончик",
+      "молочный",
+      "50 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "50 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Prod.Art Love Loading шоколадная плитка молочный 20 г",
+    "cleanTokens": [
+      "love",
+      "loading",
+      "шоколадная",
+      "плитка",
+      "молочный"
+    ],
+    "normalizedTokens": [
+      "love",
+      "loading",
+      "шоколадная",
+      "плитка",
+      "молочный",
+      "20 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "20 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Chokocat Люблю, все для тебя! шоколадная плитка молочный 20 г",
+    "cleanTokens": [
+      "люблю",
+      "все",
+      "для",
+      "тебя!",
+      "шоколадная",
+      "плитка",
+      "молочный"
+    ],
+    "normalizedTokens": [
+      "люблю",
+      "все",
+      "для",
+      "тебя!",
+      "шоколадная",
+      "плитка",
+      "молочный",
+      "20 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "20 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Chokocat Помурлычим шоколадная плитка молочный 20 г",
+    "cleanTokens": [
+      "помурлычим",
+      "шоколадная",
+      "плитка",
+      "молочный"
+    ],
+    "normalizedTokens": [
+      "помурлычим",
+      "шоколадная",
+      "плитка",
+      "молочный",
+      "20 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "20 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Bucheron Grand Cru Salted Caramel Cornflower Saffron шоколадная плитка молочный 100 г",
+    "cleanTokens": [
+      "grand",
+      "cru",
+      "salted",
+      "caramel",
+      "cornflower",
+      "saffron",
+      "шоколадная",
+      "плитка",
+      "молочный"
+    ],
+    "normalizedTokens": [
+      "grand",
+      "cru",
+      "salted",
+      "caramel",
+      "cornflower",
+      "saffron",
+      "шоколадная",
+      "плитка",
+      "молочный",
+      "100 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "100 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Bucheron Grand Cru Blackberries Almonds Strawberries шоколадная плитка молочный 100 г",
+    "cleanTokens": [
+      "grand",
+      "cru",
+      "blackberries",
+      "almonds",
+      "strawberries",
+      "шоколадная",
+      "плитка",
+      "молочный"
+    ],
+    "normalizedTokens": [
+      "grand",
+      "cru",
+      "blackberries",
+      "almonds",
+      "strawberries",
+      "шоколадная",
+      "плитка",
+      "молочный",
+      "100 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "100 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Prod.Art Посылаю тебе свою любовь шоколад порционный молочный 20 г",
+    "cleanTokens": [
+      "посылаю",
+      "тебе",
+      "свою",
+      "любовь",
+      "порционный",
+      "молочный"
+    ],
+    "normalizedTokens": [
+      "посылаю",
+      "тебе",
+      "свою",
+      "любовь",
+      "порционный",
+      "молочный",
+      "20 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "20 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "TRAPA Intenso 70% Noir Whole Almonds шоколадная плитка темный 175 г",
+    "cleanTokens": [
+      "intenso",
+      "noir",
+      "whole",
+      "almonds",
+      "шоколадная",
+      "плитка",
+      "темный"
+    ],
+    "normalizedTokens": [
+      "intenso",
+      "70%",
+      "noir",
+      "whole",
+      "almonds",
+      "шоколадная",
+      "плитка",
+      "темный",
+      "175 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "175 г",
+      "count": null,
+      "pack": null,
+      "percent": "70%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "TRAPA Intenso шоколадная плитка молочный 175 г",
+    "cleanTokens": [
+      "intenso",
+      "шоколадная",
+      "плитка",
+      "молочный"
+    ],
+    "normalizedTokens": [
+      "intenso",
+      "шоколадная",
+      "плитка",
+      "молочный",
+      "175 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "175 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Prod.Art Я тебя люблю шоколадная плитка молочный 5 г",
+    "cleanTokens": [
+      "я",
+      "тебя",
+      "люблю",
+      "шоколадная",
+      "плитка",
+      "молочный"
+    ],
+    "normalizedTokens": [
+      "я",
+      "тебя",
+      "люблю",
+      "шоколадная",
+      "плитка",
+      "молочный",
+      "5 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "5 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Milka Whole Hazelnuts шоколадная плитка молочный 95 г",
+    "cleanTokens": [
+      "whole",
+      "hazelnuts",
+      "шоколадная",
+      "плитка",
+      "молочный"
+    ],
+    "normalizedTokens": [
+      "whole",
+      "hazelnuts",
+      "шоколадная",
+      "плитка",
+      "молочный",
+      "95 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "95 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Chokocat Купоны любви шоколадная плитка молочный 45 г",
+    "cleanTokens": [
+      "купоны",
+      "любви",
+      "шоколадная",
+      "плитка",
+      "молочный"
+    ],
+    "normalizedTokens": [
+      "купоны",
+      "любви",
+      "шоколадная",
+      "плитка",
+      "молочный",
+      "45 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "45 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "TRAPA Intenso Whole Hazelnuts шоколадная плитка молочный 175 г",
+    "cleanTokens": [
+      "intenso",
+      "whole",
+      "hazelnuts",
+      "шоколадная",
+      "плитка",
+      "молочный"
+    ],
+    "normalizedTokens": [
+      "intenso",
+      "whole",
+      "hazelnuts",
+      "шоколадная",
+      "плитка",
+      "молочный",
+      "175 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "175 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Milka Hazelnuts шоколадная плитка молочный 90 г",
+    "cleanTokens": [
+      "hazelnuts",
+      "шоколадная",
+      "плитка",
+      "молочный"
+    ],
+    "normalizedTokens": [
+      "hazelnuts",
+      "шоколадная",
+      "плитка",
+      "молочный",
+      "90 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "90 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Prod.Art Люблю тебя шоколадная плитка молочный 20 г",
+    "cleanTokens": [
+      "люблю",
+      "тебя",
+      "шоколадная",
+      "плитка",
+      "молочный"
+    ],
+    "normalizedTokens": [
+      "люблю",
+      "тебя",
+      "шоколадная",
+      "плитка",
+      "молочный",
+      "20 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "20 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Chokocat И в тепло, и в холода шоколадная плитка молочный 20 г",
+    "cleanTokens": [
+      "в",
+      "тепло",
+      "в",
+      "холода",
+      "шоколадная",
+      "плитка",
+      "молочный"
+    ],
+    "normalizedTokens": [
+      "в",
+      "тепло",
+      "в",
+      "холода",
+      "шоколадная",
+      "плитка",
+      "молочный",
+      "20 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "20 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "TRAPA Intenso Blanco Whole Almonds шоколадная плитка белый 175 г",
+    "cleanTokens": [
+      "intenso",
+      "blanco",
+      "whole",
+      "almonds",
+      "шоколадная",
+      "плитка",
+      "белый"
+    ],
+    "normalizedTokens": [
+      "intenso",
+      "blanco",
+      "whole",
+      "almonds",
+      "шоколадная",
+      "плитка",
+      "белый",
+      "175 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "175 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Chokocat Я люблю тебя очень сильно шоколадная плитка молочный 5 г",
+    "cleanTokens": [
+      "я",
+      "люблю",
+      "тебя",
+      "очень",
+      "сильно",
+      "шоколадная",
+      "плитка",
+      "молочный"
+    ],
+    "normalizedTokens": [
+      "я",
+      "люблю",
+      "тебя",
+      "очень",
+      "сильно",
+      "шоколадная",
+      "плитка",
+      "молочный",
+      "5 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "5 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Chokocat Моей половинке шоколадная плитка молочный 5 г",
+    "cleanTokens": [
+      "моей",
+      "половинке",
+      "шоколадная",
+      "плитка",
+      "молочный"
+    ],
+    "normalizedTokens": [
+      "моей",
+      "половинке",
+      "шоколадная",
+      "плитка",
+      "молочный",
+      "5 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "5 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Chokodelika Ореховый фейерверк шоколадная плитка молочный 180 г",
+    "cleanTokens": [
+      "ореховый",
+      "фейерверк",
+      "шоколадная",
+      "плитка",
+      "молочный"
+    ],
+    "normalizedTokens": [
+      "ореховый",
+      "фейерверк",
+      "шоколадная",
+      "плитка",
+      "молочный",
+      "180 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "180 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Prod.Art До луны и обратно шоколадная плитка молочный 20 г",
+    "cleanTokens": [
+      "до",
+      "луны",
+      "обратно",
+      "шоколадная",
+      "плитка",
+      "молочный"
+    ],
+    "normalizedTokens": [
+      "до",
+      "луны",
+      "обратно",
+      "шоколадная",
+      "плитка",
+      "молочный",
+      "20 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "20 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Milka Cream & Biscuit шоколадная плитка молочный 100 г",
+    "cleanTokens": [
+      "cream",
+      "&",
+      "biscuit",
+      "шоколадная",
+      "плитка",
+      "молочный"
+    ],
+    "normalizedTokens": [
+      "cream",
+      "&",
+      "biscuit",
+      "шоколадная",
+      "плитка",
+      "молочный",
+      "100 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "100 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Grondard Marzipan Сочный апельсин шоколадный батончик молочный 50 г",
+    "cleanTokens": [
+      "marzipan",
+      "сочный",
+      "апельсин",
+      "шоколадный",
+      "батончик",
+      "молочный"
+    ],
+    "normalizedTokens": [
+      "marzipan",
+      "сочный",
+      "апельсин",
+      "шоколадный",
+      "батончик",
+      "молочный",
+      "50 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "50 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Chokocat Принцессе шоколадная плитка молочный 5 г",
+    "cleanTokens": [
+      "принцессе",
+      "шоколадная",
+      "плитка",
+      "молочный"
+    ],
+    "normalizedTokens": [
+      "принцессе",
+      "шоколадная",
+      "плитка",
+      "молочный",
+      "5 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "5 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Schogetten Blonde Pure шоколадная плитка белый 100 г",
+    "cleanTokens": [
+      "blonde",
+      "pure",
+      "шоколадная",
+      "плитка",
+      "белый"
+    ],
+    "normalizedTokens": [
+      "blonde",
+      "pure",
+      "шоколадная",
+      "плитка",
+      "белый",
+      "100 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "100 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Happy Mallow Pusheen с маршмеллоу шоколадное яйцо молочный 70 г",
+    "cleanTokens": [
+      "pusheen",
+      "с",
+      "маршмеллоу",
+      "шоколадное",
+      "яйцо",
+      "молочный"
+    ],
+    "normalizedTokens": [
+      "pusheen",
+      "с",
+      "маршмеллоу",
+      "шоколадное",
+      "яйцо",
+      "молочный",
+      "70 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "70 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "TOBLERONE with Honey & Almond Nougat шоколадный батончик молочный 50 г",
+    "cleanTokens": [
+      "with",
+      "honey",
+      "&",
+      "almond",
+      "nougat",
+      "шоколадный",
+      "батончик",
+      "молочный"
+    ],
+    "normalizedTokens": [
+      "with",
+      "honey",
+      "&",
+      "almond",
+      "nougat",
+      "шоколадный",
+      "батончик",
+      "молочный",
+      "50 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "50 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Prod.Art Какая красотка шоколадная плитка молочный 10 г",
+    "cleanTokens": [
+      "какая",
+      "красотка",
+      "шоколадная",
+      "плитка",
+      "молочный"
+    ],
+    "normalizedTokens": [
+      "какая",
+      "красотка",
+      "шоколадная",
+      "плитка",
+      "молочный",
+      "10 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "10 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Schogetten Freeze Me Vanilla шоколадная плитка молочный 100 г",
+    "cleanTokens": [
+      "freeze",
+      "me",
+      "vanilla",
+      "шоколадная",
+      "плитка",
+      "молочный"
+    ],
+    "normalizedTokens": [
+      "freeze",
+      "me",
+      "vanilla",
+      "шоколадная",
+      "плитка",
+      "молочный",
+      "100 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "100 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Chokocat С твоим днем шоколадная плитка молочный 20 г",
+    "cleanTokens": [
+      "с",
+      "твоим",
+      "днем",
+      "шоколадная",
+      "плитка",
+      "молочный"
+    ],
+    "normalizedTokens": [
+      "с",
+      "твоим",
+      "днем",
+      "шоколадная",
+      "плитка",
+      "молочный",
+      "20 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "20 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Chokocat I Love You шоколадная плитка молочный 5 г",
+    "cleanTokens": [
+      "i",
+      "love",
+      "you",
+      "шоколадная",
+      "плитка",
+      "молочный"
+    ],
+    "normalizedTokens": [
+      "i",
+      "love",
+      "you",
+      "шоколадная",
+      "плитка",
+      "молочный",
+      "5 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "5 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Bucheron Milky Hazelnut шоколадная плитка молочный 90 г",
+    "cleanTokens": [
+      "milky",
+      "hazelnut",
+      "шоколадная",
+      "плитка",
+      "молочный"
+    ],
+    "normalizedTokens": [
+      "milky",
+      "hazelnut",
+      "шоколадная",
+      "плитка",
+      "молочный",
+      "90 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "90 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Nestlé damak с фисташками шоколадный батончик молочный 30 г",
+    "cleanTokens": [
+      "damak",
+      "с",
+      "фисташками",
+      "шоколадный",
+      "батончик",
+      "молочный"
+    ],
+    "normalizedTokens": [
+      "damak",
+      "с",
+      "фисташками",
+      "шоколадный",
+      "батончик",
+      "молочный",
+      "30 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "30 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Grondard Berry Coconut шоколадный батончик белый 40 г",
+    "cleanTokens": [
+      "berry",
+      "coconut",
+      "шоколадный",
+      "батончик",
+      "белый"
+    ],
+    "normalizedTokens": [
+      "berry",
+      "coconut",
+      "шоколадный",
+      "батончик",
+      "белый",
+      "40 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "40 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Prod.Art Ты хорошенький шоколадная плитка молочный 5 г",
+    "cleanTokens": [
+      "ты",
+      "хорошенький",
+      "шоколадная",
+      "плитка",
+      "молочный"
+    ],
+    "normalizedTokens": [
+      "ты",
+      "хорошенький",
+      "шоколадная",
+      "плитка",
+      "молочный",
+      "5 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "5 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Chokocat Самой самой шоколадная плитка молочный 5 г",
+    "cleanTokens": [
+      "самой",
+      "самой",
+      "шоколадная",
+      "плитка",
+      "молочный"
+    ],
+    "normalizedTokens": [
+      "самой",
+      "самой",
+      "шоколадная",
+      "плитка",
+      "молочный",
+      "5 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "5 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Bucheron 72% какао кайенский перец шоколадная плитка горький 90 г",
+    "cleanTokens": [
+      "какао",
+      "кайенский",
+      "перец",
+      "шоколадная",
+      "плитка",
+      "горький"
+    ],
+    "normalizedTokens": [
+      "72%",
+      "какао",
+      "кайенский",
+      "перец",
+      "шоколадная",
+      "плитка",
+      "горький",
+      "90 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "90 г",
+      "count": null,
+      "pack": null,
+      "percent": "72%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Prod.Art Эй ты шоколадная плитка молочный 5 г",
+    "cleanTokens": [
+      "эй",
+      "ты",
+      "шоколадная",
+      "плитка",
+      "молочный"
+    ],
+    "normalizedTokens": [
+      "эй",
+      "ты",
+      "шоколадная",
+      "плитка",
+      "молочный",
+      "5 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "5 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Prod.Art 9 жизней шоколадная плитка молочный 45 г",
+    "cleanTokens": [
+      "9",
+      "жизней",
+      "шоколадная",
+      "плитка",
+      "молочный"
+    ],
+    "normalizedTokens": [
+      "9",
+      "жизней",
+      "шоколадная",
+      "плитка",
+      "молочный",
+      "45 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "45 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Chokocat Скорей открой эту открытку шоколадная плитка молочный 20 г",
+    "cleanTokens": [
+      "скорей",
+      "открой",
+      "эту",
+      "открытку",
+      "шоколадная",
+      "плитка",
+      "молочный"
+    ],
+    "normalizedTokens": [
+      "скорей",
+      "открой",
+      "эту",
+      "открытку",
+      "шоколадная",
+      "плитка",
+      "молочный",
+      "20 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "20 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Milka Alpine Milk шоколадная плитка молочный 90 г",
+    "cleanTokens": [
+      "alpine",
+      "milk",
+      "шоколадная",
+      "плитка",
+      "молочный"
+    ],
+    "normalizedTokens": [
+      "alpine",
+      "milk",
+      "шоколадная",
+      "плитка",
+      "молочный",
+      "90 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "90 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Milka Bubbly Alpine Milk шоколадная плитка молочный 90 г",
+    "cleanTokens": [
+      "bubbly",
+      "alpine",
+      "milk",
+      "шоколадная",
+      "плитка",
+      "молочный"
+    ],
+    "normalizedTokens": [
+      "bubbly",
+      "alpine",
+      "milk",
+      "шоколадная",
+      "плитка",
+      "молочный",
+      "90 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "90 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Шоколад Alma Chocolates Большой Казахстан молочный 200 г",
+    "cleanTokens": [
+      "большой",
+      "казахстан",
+      "молочный"
+    ],
+    "normalizedTokens": [
+      "большой",
+      "казахстан",
+      "молочный",
+      "200 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "200 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Milka MMMAX Choco & Cookie шоколадная плитка молочный 300 г",
+    "cleanTokens": [
+      "mmmax",
+      "choco",
+      "&",
+      "cookie",
+      "шоколадная",
+      "плитка",
+      "молочный"
+    ],
+    "normalizedTokens": [
+      "mmmax",
+      "choco",
+      "&",
+      "cookie",
+      "шоколадная",
+      "плитка",
+      "молочный",
+      "300 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "300 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "TRAPA Intenso Blanco Whole Hazelnuts шоколадная плитка белый 175 г",
+    "cleanTokens": [
+      "intenso",
+      "blanco",
+      "whole",
+      "hazelnuts",
+      "шоколадная",
+      "плитка",
+      "белый"
+    ],
+    "normalizedTokens": [
+      "intenso",
+      "blanco",
+      "whole",
+      "hazelnuts",
+      "шоколадная",
+      "плитка",
+      "белый",
+      "175 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "175 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Chokocat С Днем рождения шоколадная плитка молочный 20 г",
+    "cleanTokens": [
+      "с",
+      "днем",
+      "рождения",
+      "шоколадная",
+      "плитка",
+      "молочный"
+    ],
+    "normalizedTokens": [
+      "с",
+      "днем",
+      "рождения",
+      "шоколадная",
+      "плитка",
+      "молочный",
+      "20 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "20 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Karl Fazer with Salty Toffee Crunch шоколадная плитка молочный 180 г",
+    "cleanTokens": [
+      "with",
+      "salty",
+      "toffee",
+      "crunch",
+      "шоколадная",
+      "плитка",
+      "молочный"
+    ],
+    "normalizedTokens": [
+      "with",
+      "salty",
+      "toffee",
+      "crunch",
+      "шоколадная",
+      "плитка",
+      "молочный",
+      "180 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "180 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Chokocat КЭТ9 С днем рождения шоколадная плитка молочный 45 г",
+    "cleanTokens": [
+      "кэт9",
+      "с",
+      "днем",
+      "рождения",
+      "шоколадная",
+      "плитка",
+      "молочный"
+    ],
+    "normalizedTokens": [
+      "кэт9",
+      "с",
+      "днем",
+      "рождения",
+      "шоколадная",
+      "плитка",
+      "молочный",
+      "45 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "45 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Grondard Cocos Active шоколадный батончик темный 40 г",
+    "cleanTokens": [
+      "cocos",
+      "active",
+      "шоколадный",
+      "батончик",
+      "темный"
+    ],
+    "normalizedTokens": [
+      "cocos",
+      "active",
+      "шоколадный",
+      "батончик",
+      "темный",
+      "40 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "40 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Chokocat Я люблю тебя, это здорово шоколадная плитка молочный 5 г",
+    "cleanTokens": [
+      "я",
+      "люблю",
+      "тебя",
+      "это",
+      "здорово",
+      "шоколадная",
+      "плитка",
+      "молочный"
+    ],
+    "normalizedTokens": [
+      "я",
+      "люблю",
+      "тебя",
+      "это",
+      "здорово",
+      "шоколадная",
+      "плитка",
+      "молочный",
+      "5 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "5 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Milka Happy Cows шоколадная плитка молочный 90 г",
+    "cleanTokens": [
+      "happy",
+      "cows",
+      "шоколадная",
+      "плитка",
+      "молочный"
+    ],
+    "normalizedTokens": [
+      "happy",
+      "cows",
+      "шоколадная",
+      "плитка",
+      "молочный",
+      "90 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "90 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Milka Cherry Cream шоколадная плитка молочный 100 г",
+    "cleanTokens": [
+      "cherry",
+      "cream",
+      "шоколадная",
+      "плитка",
+      "молочный"
+    ],
+    "normalizedTokens": [
+      "cherry",
+      "cream",
+      "шоколадная",
+      "плитка",
+      "молочный",
+      "100 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "100 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Chokocat Давай останемся вдвоём шоколадная плитка молочный 5 г",
+    "cleanTokens": [
+      "давай",
+      "останемся",
+      "вдвоем",
+      "шоколадная",
+      "плитка",
+      "молочный"
+    ],
+    "normalizedTokens": [
+      "давай",
+      "останемся",
+      "вдвоем",
+      "шоколадная",
+      "плитка",
+      "молочный",
+      "5 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "5 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Hibbi Safari шоколадная плитка молочный, пралине 100 г",
+    "cleanTokens": [
+      "safari",
+      "шоколадная",
+      "плитка",
+      "молочный",
+      "пралине"
+    ],
+    "normalizedTokens": [
+      "safari",
+      "шоколадная",
+      "плитка",
+      "молочный",
+      "пралине",
+      "100 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "100 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Prod.Art Причины любви шоколадная плитка молочный 5 г",
+    "cleanTokens": [
+      "причины",
+      "любви",
+      "шоколадная",
+      "плитка",
+      "молочный"
+    ],
+    "normalizedTokens": [
+      "причины",
+      "любви",
+      "шоколадная",
+      "плитка",
+      "молочный",
+      "5 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "5 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Prod.Art На любой повод шоколадная плитка молочный 10 г",
+    "cleanTokens": [
+      "на",
+      "любой",
+      "повод",
+      "шоколадная",
+      "плитка",
+      "молочный"
+    ],
+    "normalizedTokens": [
+      "на",
+      "любой",
+      "повод",
+      "шоколадная",
+      "плитка",
+      "молочный",
+      "10 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "10 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Germiyan Angel Hair с фисташковой пастой и пашмалой шоколадная плитка молочный, белый 100 г",
+    "cleanTokens": [
+      "angel",
+      "hair",
+      "с",
+      "фисташковой",
+      "пастой",
+      "пашмалой",
+      "шоколадная",
+      "плитка",
+      "молочный",
+      "белый"
+    ],
+    "normalizedTokens": [
+      "angel",
+      "hair",
+      "с",
+      "фисташковой",
+      "пастой",
+      "пашмалой",
+      "шоколадная",
+      "плитка",
+      "молочный",
+      "белый",
+      "100 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "100 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Chokocat Принцессе шоколадная плитка молочный 20 г",
+    "cleanTokens": [
+      "принцессе",
+      "шоколадная",
+      "плитка",
+      "молочный"
+    ],
+    "normalizedTokens": [
+      "принцессе",
+      "шоколадная",
+      "плитка",
+      "молочный",
+      "20 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "20 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Hershey’s Acai & Blueberry шоколадная плитка темный 38 г",
+    "cleanTokens": [
+      "acai",
+      "&",
+      "blueberry",
+      "шоколадная",
+      "плитка",
+      "темный"
+    ],
+    "normalizedTokens": [
+      "acai",
+      "&",
+      "blueberry",
+      "шоколадная",
+      "плитка",
+      "темный",
+      "38 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "38 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Bucheron Cocoa + Whole Almond шоколадная плитка горький 100 г",
+    "cleanTokens": [
+      "cocoa",
+      "+",
+      "whole",
+      "almond",
+      "шоколадная",
+      "плитка",
+      "горький"
+    ],
+    "normalizedTokens": [
+      "cocoa",
+      "+",
+      "whole",
+      "almond",
+      "шоколадная",
+      "плитка",
+      "горький",
+      "100 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "100 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "KitKat Chunky шоколадный батончик молочный 40 г",
+    "cleanTokens": [
+      "chunky",
+      "шоколадный",
+      "батончик",
+      "молочный"
+    ],
+    "normalizedTokens": [
+      "chunky",
+      "шоколадный",
+      "батончик",
+      "молочный",
+      "40 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "40 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Schogetten for Kids шоколад порционный молочный 100 г",
+    "cleanTokens": [
+      "for",
+      "kids",
+      "порционный",
+      "молочный"
+    ],
+    "normalizedTokens": [
+      "for",
+      "kids",
+      "порционный",
+      "молочный",
+      "100 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "100 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Bucheron STAND'ART Milky Saffron шоколадная плитка молочный 100 г",
+    "cleanTokens": [
+      "stand'art",
+      "milky",
+      "saffron",
+      "шоколадная",
+      "плитка",
+      "молочный"
+    ],
+    "normalizedTokens": [
+      "stand'art",
+      "milky",
+      "saffron",
+      "шоколадная",
+      "плитка",
+      "молочный",
+      "100 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "100 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Prod.Art Роллентинка шоколадная плитка молочный 5 г",
+    "cleanTokens": [
+      "роллентинка",
+      "шоколадная",
+      "плитка",
+      "молочный"
+    ],
+    "normalizedTokens": [
+      "роллентинка",
+      "шоколадная",
+      "плитка",
+      "молочный",
+      "5 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "5 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Bucheron The Original шоколадная плитка горький с кусочками клюквы 90 г",
+    "cleanTokens": [
+      "the",
+      "original",
+      "шоколадная",
+      "плитка",
+      "горький",
+      "с",
+      "кусочками",
+      "клюквы"
+    ],
+    "normalizedTokens": [
+      "the",
+      "original",
+      "шоколадная",
+      "плитка",
+      "горький",
+      "с",
+      "кусочками",
+      "клюквы",
+      "90 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "90 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Milka Alpine Milk шоколадная плитка молочный 100 г",
+    "cleanTokens": [
+      "alpine",
+      "milk",
+      "шоколадная",
+      "плитка",
+      "молочный"
+    ],
+    "normalizedTokens": [
+      "alpine",
+      "milk",
+      "шоколадная",
+      "плитка",
+      "молочный",
+      "100 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "100 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  }
+]

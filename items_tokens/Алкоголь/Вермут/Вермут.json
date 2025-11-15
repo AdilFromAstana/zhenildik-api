@@ -1,0 +1,184 @@
+[
+  {
+    "original": "Вермут CINZANO Rosso сладкий 15% 1 л",
+    "cleanTokens": [
+      "rosso",
+      "сладкий"
+    ],
+    "normalizedTokens": [
+      "rosso",
+      "сладкий",
+      "15%",
+      "1 л"
+    ],
+    "params": {
+      "volume": "1 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "15%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Вермут Gancia сухой extra dry 18% 1 л",
+    "cleanTokens": [
+      "сухой",
+      "extra",
+      "dry"
+    ],
+    "normalizedTokens": [
+      "сухой",
+      "extra",
+      "dry",
+      "18%",
+      "1 л"
+    ],
+    "params": {
+      "volume": "1 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "18%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Вермут Silvio Carta Vermouth Rosso сладкий 18% 0.75 л",
+    "cleanTokens": [
+      "vermouth",
+      "rosso",
+      "сладкий"
+    ],
+    "normalizedTokens": [
+      "vermouth",
+      "rosso",
+      "сладкий",
+      "18%",
+      "0.75 л"
+    ],
+    "params": {
+      "volume": "0.75 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "18%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Вермут CINZANO Bianco полусладкий 15% 0.75 л",
+    "cleanTokens": [
+      "bianco",
+      "полусладкий"
+    ],
+    "normalizedTokens": [
+      "bianco",
+      "полусладкий",
+      "15%",
+      "0.75 л"
+    ],
+    "params": {
+      "volume": "0.75 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "15%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Вермут Gancia сладкий rosso 16% 1 л",
+    "cleanTokens": [
+      "сладкий",
+      "rosso"
+    ],
+    "normalizedTokens": [
+      "сладкий",
+      "rosso",
+      "16%",
+      "1 л"
+    ],
+    "params": {
+      "volume": "1 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "16%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Вермут Silvio Carta Vermouth Bianco полусухой 16% 0.75 л",
+    "cleanTokens": [
+      "vermouth",
+      "bianco",
+      "полусухой"
+    ],
+    "normalizedTokens": [
+      "vermouth",
+      "bianco",
+      "полусухой",
+      "16%",
+      "0.75 л"
+    ],
+    "params": {
+      "volume": "0.75 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "16%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Вермут Gancia сладкий bianco 15% 1 л",
+    "cleanTokens": [
+      "сладкий",
+      "bianco"
+    ],
+    "normalizedTokens": [
+      "сладкий",
+      "bianco",
+      "15%",
+      "1 л"
+    ],
+    "params": {
+      "volume": "1 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "15%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Вермут CINZANO Rosso сладкий 15% 0.75 л",
+    "cleanTokens": [
+      "rosso",
+      "сладкий"
+    ],
+    "normalizedTokens": [
+      "rosso",
+      "сладкий",
+      "15%",
+      "0.75 л"
+    ],
+    "params": {
+      "volume": "0.75 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "15%",
+      "age": null,
+      "stars": null
+    }
+  }
+]

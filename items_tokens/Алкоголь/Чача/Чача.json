@@ -1,0 +1,46 @@
+[
+  {
+    "original": "Чача Долины Грузии Ркацители виноградный 40% 0.5 л",
+    "cleanTokens": [
+      "ркацители",
+      "виноградный"
+    ],
+    "normalizedTokens": [
+      "ркацители",
+      "виноградный",
+      "40%",
+      "0.5 л"
+    ],
+    "params": {
+      "volume": "0.5 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "40%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Чача Askaneli Platinum виноградная 40% 0.5 л",
+    "cleanTokens": [
+      "platinum",
+      "виноградная"
+    ],
+    "normalizedTokens": [
+      "platinum",
+      "виноградная",
+      "40%",
+      "0.5 л"
+    ],
+    "params": {
+      "volume": "0.5 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "40%",
+      "age": null,
+      "stars": null
+    }
+  }
+]

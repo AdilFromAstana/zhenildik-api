@@ -1,0 +1,5985 @@
+[
+  {
+    "original": "Буратино лимонад буратино 1 л",
+    "cleanTokens": [
+      "лимонад"
+    ],
+    "normalizedTokens": [
+      "лимонад",
+      "1 л"
+    ],
+    "params": {
+      "volume": "1 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Schweppes тоник натуральный 0.45 л",
+    "cleanTokens": [
+      "тоник",
+      "натуральный"
+    ],
+    "normalizedTokens": [
+      "тоник",
+      "натуральный",
+      "0.45 л"
+    ],
+    "params": {
+      "volume": "0.45 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "AVA газированный напиток оранжело 0.45 л",
+    "cleanTokens": [
+      "газированный",
+      "напиток",
+      "оранжело"
+    ],
+    "normalizedTokens": [
+      "газированный",
+      "напиток",
+      "оранжело",
+      "0.45 л"
+    ],
+    "params": {
+      "volume": "0.45 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "AVA газированный напиток цитрон 0.45 л",
+    "cleanTokens": [
+      "газированный",
+      "напиток",
+      "цитрон"
+    ],
+    "normalizedTokens": [
+      "газированный",
+      "напиток",
+      "цитрон",
+      "0.45 л"
+    ],
+    "params": {
+      "volume": "0.45 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Coca-Cola газированный напиток кола 0.5 л",
+    "cleanTokens": [
+      "газированный",
+      "напиток",
+      "кола"
+    ],
+    "normalizedTokens": [
+      "газированный",
+      "напиток",
+      "кола",
+      "0.5 л"
+    ],
+    "params": {
+      "volume": "0.5 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "IRINKA газированный напиток черная смородина, клубника 0.45 л",
+    "cleanTokens": [
+      "газированный",
+      "напиток",
+      "черная",
+      "смородина",
+      "клубника"
+    ],
+    "normalizedTokens": [
+      "газированный",
+      "напиток",
+      "черная",
+      "смородина",
+      "клубника",
+      "0.45 л"
+    ],
+    "params": {
+      "volume": "0.45 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Riks газированный напиток лайм, мята 0.45 л",
+    "cleanTokens": [
+      "газированный",
+      "напиток",
+      "лайм",
+      "мята"
+    ],
+    "normalizedTokens": [
+      "газированный",
+      "напиток",
+      "лайм",
+      "мята",
+      "0.45 л"
+    ],
+    "params": {
+      "volume": "0.45 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "IRINKA газированный напиток манго, маракуйя 0.45 л",
+    "cleanTokens": [
+      "газированный",
+      "напиток",
+      "манго",
+      "маракуйя"
+    ],
+    "normalizedTokens": [
+      "газированный",
+      "напиток",
+      "манго",
+      "маракуйя",
+      "0.45 л"
+    ],
+    "params": {
+      "volume": "0.45 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "AVA газированный напиток классический лимонад 1 л",
+    "cleanTokens": [
+      "газированный",
+      "напиток",
+      "классический",
+      "лимонад"
+    ],
+    "normalizedTokens": [
+      "газированный",
+      "напиток",
+      "классический",
+      "лимонад",
+      "1 л"
+    ],
+    "params": {
+      "volume": "1 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Sprite газированный напиток лайм, лимон 1 л",
+    "cleanTokens": [
+      "газированный",
+      "напиток",
+      "лайм",
+      "лимон"
+    ],
+    "normalizedTokens": [
+      "газированный",
+      "напиток",
+      "лайм",
+      "лимон",
+      "1 л"
+    ],
+    "params": {
+      "volume": "1 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "IRINKA газированный напиток ананас, груша 0.45 л",
+    "cleanTokens": [
+      "газированный",
+      "напиток",
+      "ананас",
+      "груша"
+    ],
+    "normalizedTokens": [
+      "газированный",
+      "напиток",
+      "ананас",
+      "груша",
+      "0.45 л"
+    ],
+    "params": {
+      "volume": "0.45 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "RC газированный напиток кола 1.5 л",
+    "cleanTokens": [
+      "газированный",
+      "напиток",
+      "кола"
+    ],
+    "normalizedTokens": [
+      "газированный",
+      "напиток",
+      "кола",
+      "1.5 л"
+    ],
+    "params": {
+      "volume": "1.5 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "IRINKA газированный напиток лайм, дыня 0.45 л",
+    "cleanTokens": [
+      "газированный",
+      "напиток",
+      "лайм",
+      "дыня"
+    ],
+    "normalizedTokens": [
+      "газированный",
+      "напиток",
+      "лайм",
+      "дыня",
+      "0.45 л"
+    ],
+    "params": {
+      "volume": "0.45 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "IRINKA газированный напиток мохито 0.45 л",
+    "cleanTokens": [
+      "газированный",
+      "напиток",
+      "мохито"
+    ],
+    "normalizedTokens": [
+      "газированный",
+      "напиток",
+      "мохито",
+      "0.45 л"
+    ],
+    "params": {
+      "volume": "0.45 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Borjomi лимонад мандарин 0.33 л",
+    "cleanTokens": [
+      "лимонад",
+      "мандарин"
+    ],
+    "normalizedTokens": [
+      "лимонад",
+      "мандарин",
+      "0.33 л"
+    ],
+    "params": {
+      "volume": "0.33 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Riks газированный напиток клубника, лайм, мята 0.45 л",
+    "cleanTokens": [
+      "газированный",
+      "напиток",
+      "клубника",
+      "лайм",
+      "мята"
+    ],
+    "normalizedTokens": [
+      "газированный",
+      "напиток",
+      "клубника",
+      "лайм",
+      "мята",
+      "0.45 л"
+    ],
+    "params": {
+      "volume": "0.45 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Borjomi лимонад груша 0.33 л",
+    "cleanTokens": [
+      "лимонад",
+      "груша"
+    ],
+    "normalizedTokens": [
+      "лимонад",
+      "груша",
+      "0.33 л"
+    ],
+    "params": {
+      "volume": "0.33 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Визит газированный напиток буратино 1.5 л",
+    "cleanTokens": [
+      "газированный",
+      "напиток"
+    ],
+    "normalizedTokens": [
+      "газированный",
+      "напиток",
+      "1.5 л"
+    ],
+    "params": {
+      "volume": "1.5 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Riks газированный напиток манго, мята 0.45 л",
+    "cleanTokens": [
+      "газированный",
+      "напиток",
+      "манго",
+      "мята"
+    ],
+    "normalizedTokens": [
+      "газированный",
+      "напиток",
+      "манго",
+      "мята",
+      "0.45 л"
+    ],
+    "params": {
+      "volume": "0.45 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "IRINKA газированный напиток яблоко, киви 0.45 л",
+    "cleanTokens": [
+      "газированный",
+      "напиток",
+      "яблоко",
+      "киви"
+    ],
+    "normalizedTokens": [
+      "газированный",
+      "напиток",
+      "яблоко",
+      "киви",
+      "0.45 л"
+    ],
+    "params": {
+      "volume": "0.45 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Визит газированный напиток классический 1.5 л",
+    "cleanTokens": [
+      "газированный",
+      "напиток",
+      "классический"
+    ],
+    "normalizedTokens": [
+      "газированный",
+      "напиток",
+      "классический",
+      "1.5 л"
+    ],
+    "params": {
+      "volume": "1.5 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "AVA газированный напиток гранат 0.45 л",
+    "cleanTokens": [
+      "газированный",
+      "напиток",
+      "гранат"
+    ],
+    "normalizedTokens": [
+      "газированный",
+      "напиток",
+      "гранат",
+      "0.45 л"
+    ],
+    "params": {
+      "volume": "0.45 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Borjomi лимонад цитрус 0.33 л",
+    "cleanTokens": [
+      "лимонад",
+      "цитрус"
+    ],
+    "normalizedTokens": [
+      "лимонад",
+      "цитрус",
+      "0.33 л"
+    ],
+    "params": {
+      "volume": "0.33 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Holiday лимонад классический лимонад 1 л",
+    "cleanTokens": [
+      "лимонад",
+      "классический",
+      "лимонад"
+    ],
+    "normalizedTokens": [
+      "лимонад",
+      "классический",
+      "лимонад",
+      "1 л"
+    ],
+    "params": {
+      "volume": "1 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Riks газированный напиток гранат 0.45 л",
+    "cleanTokens": [
+      "газированный",
+      "напиток",
+      "гранат"
+    ],
+    "normalizedTokens": [
+      "газированный",
+      "напиток",
+      "гранат",
+      "0.45 л"
+    ],
+    "params": {
+      "volume": "0.45 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Borjomi лимонад тархун 0.33 л",
+    "cleanTokens": [
+      "лимонад",
+      "тархун"
+    ],
+    "normalizedTokens": [
+      "лимонад",
+      "тархун",
+      "0.33 л"
+    ],
+    "params": {
+      "volume": "0.33 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Coca-Cola газированный напиток без сахара 0.5 л",
+    "cleanTokens": [
+      "газированный",
+      "напиток",
+      "без",
+      "сахара"
+    ],
+    "normalizedTokens": [
+      "газированный",
+      "напиток",
+      "без",
+      "сахара",
+      "0.5 л"
+    ],
+    "params": {
+      "volume": "0.5 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Coca-Cola Zero 0.25 л",
+    "cleanTokens": [
+      "zero"
+    ],
+    "normalizedTokens": [
+      "zero",
+      "0.25 л"
+    ],
+    "params": {
+      "volume": "0.25 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Borjomi лимонад мандарин 0.5 л",
+    "cleanTokens": [
+      "лимонад",
+      "мандарин"
+    ],
+    "normalizedTokens": [
+      "лимонад",
+      "мандарин",
+      "0.5 л"
+    ],
+    "params": {
+      "volume": "0.5 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Holiday лимонад тархун 1 л",
+    "cleanTokens": [
+      "лимонад",
+      "тархун"
+    ],
+    "normalizedTokens": [
+      "лимонад",
+      "тархун",
+      "1 л"
+    ],
+    "params": {
+      "volume": "1 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Holiday лимонад классический лимонад 1.5 л",
+    "cleanTokens": [
+      "лимонад",
+      "классический",
+      "лимонад"
+    ],
+    "normalizedTokens": [
+      "лимонад",
+      "классический",
+      "лимонад",
+      "1.5 л"
+    ],
+    "params": {
+      "volume": "1.5 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Schweppes тоник мохито 0.45 л",
+    "cleanTokens": [
+      "тоник",
+      "мохито"
+    ],
+    "normalizedTokens": [
+      "тоник",
+      "мохито",
+      "0.45 л"
+    ],
+    "params": {
+      "volume": "0.45 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Fanta газированный напиток апельсин 0.45 л",
+    "cleanTokens": [
+      "газированный",
+      "напиток",
+      "апельсин"
+    ],
+    "normalizedTokens": [
+      "газированный",
+      "напиток",
+      "апельсин",
+      "0.45 л"
+    ],
+    "params": {
+      "volume": "0.45 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Fanta лимонад виноград, яблоко, лимон 1.75 л",
+    "cleanTokens": [
+      "лимонад",
+      "виноград",
+      "яблоко",
+      "лимон"
+    ],
+    "normalizedTokens": [
+      "лимонад",
+      "виноград",
+      "яблоко",
+      "лимон",
+      "1.75 л"
+    ],
+    "params": {
+      "volume": "1.75 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Fanta газированный напиток гранат 0.45 л",
+    "cleanTokens": [
+      "газированный",
+      "напиток",
+      "гранат"
+    ],
+    "normalizedTokens": [
+      "газированный",
+      "напиток",
+      "гранат",
+      "0.45 л"
+    ],
+    "params": {
+      "volume": "0.45 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Happy лимонад дюшес 1.5 л",
+    "cleanTokens": [
+      "лимонад",
+      "дюшес"
+    ],
+    "normalizedTokens": [
+      "лимонад",
+      "дюшес",
+      "1.5 л"
+    ],
+    "params": {
+      "volume": "1.5 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Schweppes газированный напиток мандарин 0.45 л",
+    "cleanTokens": [
+      "газированный",
+      "напиток",
+      "мандарин"
+    ],
+    "normalizedTokens": [
+      "газированный",
+      "напиток",
+      "мандарин",
+      "0.45 л"
+    ],
+    "params": {
+      "volume": "0.45 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Borjomi лимонад груша 0.5 л",
+    "cleanTokens": [
+      "лимонад",
+      "груша"
+    ],
+    "normalizedTokens": [
+      "лимонад",
+      "груша",
+      "0.5 л"
+    ],
+    "params": {
+      "volume": "0.5 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Happy лимонад тархун 1.5 л",
+    "cleanTokens": [
+      "лимонад",
+      "тархун"
+    ],
+    "normalizedTokens": [
+      "лимонад",
+      "тархун",
+      "1.5 л"
+    ],
+    "params": {
+      "volume": "1.5 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "San pellegrino газированный напиток апельсин, гранат 0.33 л",
+    "cleanTokens": [
+      "газированный",
+      "напиток",
+      "апельсин",
+      "гранат"
+    ],
+    "normalizedTokens": [
+      "газированный",
+      "напиток",
+      "апельсин",
+      "гранат",
+      "0.33 л"
+    ],
+    "params": {
+      "volume": "0.33 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Borjomi лимонад цитрус 0.5 л",
+    "cleanTokens": [
+      "лимонад",
+      "цитрус"
+    ],
+    "normalizedTokens": [
+      "лимонад",
+      "цитрус",
+      "0.5 л"
+    ],
+    "params": {
+      "volume": "0.5 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Златояр Буратино 1 л",
+    "cleanTokens": [],
+    "normalizedTokens": [
+      "1 л"
+    ],
+    "params": {
+      "volume": "1 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Holiday лимонад мохито 1 л",
+    "cleanTokens": [
+      "лимонад",
+      "мохито"
+    ],
+    "normalizedTokens": [
+      "лимонад",
+      "мохито",
+      "1 л"
+    ],
+    "params": {
+      "volume": "1 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "San Pellegrino газированный напиток апельсин 0.33 л",
+    "cleanTokens": [
+      "газированный",
+      "напиток",
+      "апельсин"
+    ],
+    "normalizedTokens": [
+      "газированный",
+      "напиток",
+      "апельсин",
+      "0.33 л"
+    ],
+    "params": {
+      "volume": "0.33 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Буратино лимонад буратино 0.5 л",
+    "cleanTokens": [
+      "лимонад"
+    ],
+    "normalizedTokens": [
+      "лимонад",
+      "0.5 л"
+    ],
+    "params": {
+      "volume": "0.5 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Fanta газированный напиток апельсин 0.5 л",
+    "cleanTokens": [
+      "газированный",
+      "напиток",
+      "апельсин"
+    ],
+    "normalizedTokens": [
+      "газированный",
+      "напиток",
+      "апельсин",
+      "0.5 л"
+    ],
+    "params": {
+      "volume": "0.5 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "JUMBO газированный напиток кола 1 л",
+    "cleanTokens": [
+      "газированный",
+      "напиток",
+      "кола"
+    ],
+    "normalizedTokens": [
+      "газированный",
+      "напиток",
+      "кола",
+      "1 л"
+    ],
+    "params": {
+      "volume": "1 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Lemonade Kazbegi лимонад груша 0.5 л",
+    "cleanTokens": [
+      "лимонад",
+      "груша"
+    ],
+    "normalizedTokens": [
+      "лимонад",
+      "груша",
+      "0.5 л"
+    ],
+    "params": {
+      "volume": "0.5 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Lime Time газированный напиток лайм, лимон 1 л",
+    "cleanTokens": [
+      "газированный",
+      "напиток",
+      "лайм",
+      "лимон"
+    ],
+    "normalizedTokens": [
+      "газированный",
+      "напиток",
+      "лайм",
+      "лимон",
+      "1 л"
+    ],
+    "params": {
+      "volume": "1 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Holiday лимонад тархун 2 л",
+    "cleanTokens": [
+      "лимонад",
+      "тархун"
+    ],
+    "normalizedTokens": [
+      "лимонад",
+      "тархун",
+      "2 л"
+    ],
+    "params": {
+      "volume": "2 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Sprite газированный напиток лайм, лимон 0.45 л",
+    "cleanTokens": [
+      "газированный",
+      "напиток",
+      "лайм",
+      "лимон"
+    ],
+    "normalizedTokens": [
+      "газированный",
+      "напиток",
+      "лайм",
+      "лимон",
+      "0.45 л"
+    ],
+    "params": {
+      "volume": "0.45 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Holiday лимонад лимон 2 л",
+    "cleanTokens": [
+      "лимонад",
+      "лимон"
+    ],
+    "normalizedTokens": [
+      "лимонад",
+      "лимон",
+      "2 л"
+    ],
+    "params": {
+      "volume": "2 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Waters Service лимонад классический 2 л",
+    "cleanTokens": [
+      "лимонад",
+      "классический"
+    ],
+    "normalizedTokens": [
+      "лимонад",
+      "классический",
+      "2 л"
+    ],
+    "params": {
+      "volume": "2 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Waters Service газированный напиток тархун 2 л",
+    "cleanTokens": [
+      "газированный",
+      "напиток",
+      "тархун"
+    ],
+    "normalizedTokens": [
+      "газированный",
+      "напиток",
+      "тархун",
+      "2 л"
+    ],
+    "params": {
+      "volume": "2 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Златояр Лимонад тархун 1 л",
+    "cleanTokens": [
+      "лимонад",
+      "тархун"
+    ],
+    "normalizedTokens": [
+      "лимонад",
+      "тархун",
+      "1 л"
+    ],
+    "params": {
+      "volume": "1 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Holiday газированный напиток гранат 2 л",
+    "cleanTokens": [
+      "газированный",
+      "напиток",
+      "гранат"
+    ],
+    "normalizedTokens": [
+      "газированный",
+      "напиток",
+      "гранат",
+      "2 л"
+    ],
+    "params": {
+      "volume": "2 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Lemonade Kazbegi лимонад саперави 1 л",
+    "cleanTokens": [
+      "лимонад",
+      "саперави"
+    ],
+    "normalizedTokens": [
+      "лимонад",
+      "саперави",
+      "1 л"
+    ],
+    "params": {
+      "volume": "1 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Fanta лимонад виноград, яблоко, лимон 1 л",
+    "cleanTokens": [
+      "лимонад",
+      "виноград",
+      "яблоко",
+      "лимон"
+    ],
+    "normalizedTokens": [
+      "лимонад",
+      "виноград",
+      "яблоко",
+      "лимон",
+      "1 л"
+    ],
+    "params": {
+      "volume": "1 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Waters Service газированный напиток буратино 2 л",
+    "cleanTokens": [
+      "газированный",
+      "напиток"
+    ],
+    "normalizedTokens": [
+      "газированный",
+      "напиток",
+      "2 л"
+    ],
+    "params": {
+      "volume": "2 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Lemonade Kazbegi лимонад лимон 1 л",
+    "cleanTokens": [
+      "лимонад",
+      "лимон"
+    ],
+    "normalizedTokens": [
+      "лимонад",
+      "лимон",
+      "1 л"
+    ],
+    "params": {
+      "volume": "1 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "San Pellegrino газированный напиток апельсин 0.33 л",
+    "cleanTokens": [
+      "газированный",
+      "напиток",
+      "апельсин"
+    ],
+    "normalizedTokens": [
+      "газированный",
+      "напиток",
+      "апельсин",
+      "0.33 л"
+    ],
+    "params": {
+      "volume": "0.33 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Lemonade Kazbegi лимонад тархун 1 л",
+    "cleanTokens": [
+      "лимонад",
+      "тархун"
+    ],
+    "normalizedTokens": [
+      "лимонад",
+      "тархун",
+      "1 л"
+    ],
+    "params": {
+      "volume": "1 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Златояр Лимонад Буратино 0.5 л",
+    "cleanTokens": [
+      "лимонад"
+    ],
+    "normalizedTokens": [
+      "лимонад",
+      "0.5 л"
+    ],
+    "params": {
+      "volume": "0.5 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Holiday лимонад гранат 1 л",
+    "cleanTokens": [
+      "лимонад",
+      "гранат"
+    ],
+    "normalizedTokens": [
+      "лимонад",
+      "гранат",
+      "1 л"
+    ],
+    "params": {
+      "volume": "1 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Sunbel газированный напиток тропический фрэш 1.5 л",
+    "cleanTokens": [
+      "газированный",
+      "напиток",
+      "тропический",
+      "фрэш"
+    ],
+    "normalizedTokens": [
+      "газированный",
+      "напиток",
+      "тропический",
+      "фрэш",
+      "1.5 л"
+    ],
+    "params": {
+      "volume": "1.5 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Sunbel газированный напиток классический лимонад 1.5 л",
+    "cleanTokens": [
+      "газированный",
+      "напиток",
+      "классический",
+      "лимонад"
+    ],
+    "normalizedTokens": [
+      "газированный",
+      "напиток",
+      "классический",
+      "лимонад",
+      "1.5 л"
+    ],
+    "params": {
+      "volume": "1.5 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Sunbel газированный напиток тархун 1.5 л",
+    "cleanTokens": [
+      "газированный",
+      "напиток",
+      "тархун"
+    ],
+    "normalizedTokens": [
+      "газированный",
+      "напиток",
+      "тархун",
+      "1.5 л"
+    ],
+    "params": {
+      "volume": "1.5 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Riks газированный напиток апельсин 0.25 л",
+    "cleanTokens": [
+      "газированный",
+      "напиток",
+      "апельсин"
+    ],
+    "normalizedTokens": [
+      "газированный",
+      "напиток",
+      "апельсин",
+      "0.25 л"
+    ],
+    "params": {
+      "volume": "0.25 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Златояр Лимонад Тархун 0.5 л",
+    "cleanTokens": [
+      "лимонад",
+      "тархун"
+    ],
+    "normalizedTokens": [
+      "лимонад",
+      "тархун",
+      "0.5 л"
+    ],
+    "params": {
+      "volume": "0.5 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Златояр лимонад пряные травы 0.5 л",
+    "cleanTokens": [
+      "лимонад",
+      "пряные",
+      "травы"
+    ],
+    "normalizedTokens": [
+      "лимонад",
+      "пряные",
+      "травы",
+      "0.5 л"
+    ],
+    "params": {
+      "volume": "0.5 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Fest Berry Original 1 л",
+    "cleanTokens": [
+      "original"
+    ],
+    "normalizedTokens": [
+      "original",
+      "1 л"
+    ],
+    "params": {
+      "volume": "1 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "San Pellegrino газированный напиток лимон 0.33 л",
+    "cleanTokens": [
+      "газированный",
+      "напиток",
+      "лимон"
+    ],
+    "normalizedTokens": [
+      "газированный",
+      "напиток",
+      "лимон",
+      "0.33 л"
+    ],
+    "params": {
+      "volume": "0.33 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "San Pellegrino газированный напиток грейпфрут 0.33 л",
+    "cleanTokens": [
+      "газированный",
+      "напиток",
+      "грейпфрут"
+    ],
+    "normalizedTokens": [
+      "газированный",
+      "напиток",
+      "грейпфрут",
+      "0.33 л"
+    ],
+    "params": {
+      "volume": "0.33 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Lemonade Kazbegi Саперави 0.5 л",
+    "cleanTokens": [
+      "саперави"
+    ],
+    "normalizedTokens": [
+      "саперави",
+      "0.5 л"
+    ],
+    "params": {
+      "volume": "0.5 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "AVA газированный напиток оранжело 1 л",
+    "cleanTokens": [
+      "газированный",
+      "напиток",
+      "оранжело"
+    ],
+    "normalizedTokens": [
+      "газированный",
+      "напиток",
+      "оранжело",
+      "1 л"
+    ],
+    "params": {
+      "volume": "1 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Златояр лимонад пряные травы 1 л",
+    "cleanTokens": [
+      "лимонад",
+      "пряные",
+      "травы"
+    ],
+    "normalizedTokens": [
+      "лимонад",
+      "пряные",
+      "травы",
+      "1 л"
+    ],
+    "params": {
+      "volume": "1 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Waters Service газированный напиток дюшес 2 л",
+    "cleanTokens": [
+      "газированный",
+      "напиток",
+      "дюшес"
+    ],
+    "normalizedTokens": [
+      "газированный",
+      "напиток",
+      "дюшес",
+      "2 л"
+    ],
+    "params": {
+      "volume": "2 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Fanta лимонад виноград, яблоко, лимон 0.45 л",
+    "cleanTokens": [
+      "лимонад",
+      "виноград",
+      "яблоко",
+      "лимон"
+    ],
+    "normalizedTokens": [
+      "лимонад",
+      "виноград",
+      "яблоко",
+      "лимон",
+      "0.45 л"
+    ],
+    "params": {
+      "volume": "0.45 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Pepsi газированный напиток кола 0.5 л",
+    "cleanTokens": [
+      "газированный",
+      "напиток",
+      "кола"
+    ],
+    "normalizedTokens": [
+      "газированный",
+      "напиток",
+      "кола",
+      "0.5 л"
+    ],
+    "params": {
+      "volume": "0.5 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Lemonade Kazbegi лимонад фейхоа 0.5 л",
+    "cleanTokens": [
+      "лимонад",
+      "фейхоа"
+    ],
+    "normalizedTokens": [
+      "лимонад",
+      "фейхоа",
+      "0.5 л"
+    ],
+    "params": {
+      "volume": "0.5 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Georgia газированный напиток тархун 0.5 л",
+    "cleanTokens": [
+      "газированный",
+      "напиток",
+      "тархун"
+    ],
+    "normalizedTokens": [
+      "газированный",
+      "напиток",
+      "тархун",
+      "0.5 л"
+    ],
+    "params": {
+      "volume": "0.5 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Lemonade Kazbegi груша 1 л",
+    "cleanTokens": [
+      "груша"
+    ],
+    "normalizedTokens": [
+      "груша",
+      "1 л"
+    ],
+    "params": {
+      "volume": "1 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Lemonade Kazbegi лимонад лимон 0.5 л",
+    "cleanTokens": [
+      "лимонад",
+      "лимон"
+    ],
+    "normalizedTokens": [
+      "лимонад",
+      "лимон",
+      "0.5 л"
+    ],
+    "params": {
+      "volume": "0.5 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Chino лимонад персик 0.45 л",
+    "cleanTokens": [
+      "лимонад",
+      "персик"
+    ],
+    "normalizedTokens": [
+      "лимонад",
+      "персик",
+      "0.45 л"
+    ],
+    "params": {
+      "volume": "0.45 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Perrier газированный напиток ананас, манго 0.25 л",
+    "cleanTokens": [
+      "газированный",
+      "напиток",
+      "ананас",
+      "манго"
+    ],
+    "normalizedTokens": [
+      "газированный",
+      "напиток",
+      "ананас",
+      "манго",
+      "0.25 л"
+    ],
+    "params": {
+      "volume": "0.25 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Shaurma-Food лимонад киви 1 л",
+    "cleanTokens": [
+      "лимонад",
+      "киви"
+    ],
+    "normalizedTokens": [
+      "лимонад",
+      "киви",
+      "1 л"
+    ],
+    "params": {
+      "volume": "1 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "AVA лимонад ситро 1 л",
+    "cleanTokens": [
+      "лимонад",
+      "ситро"
+    ],
+    "normalizedTokens": [
+      "лимонад",
+      "ситро",
+      "1 л"
+    ],
+    "params": {
+      "volume": "1 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Perrier газированный напиток гуава, лимон 0.25 л",
+    "cleanTokens": [
+      "газированный",
+      "напиток",
+      "гуава",
+      "лимон"
+    ],
+    "normalizedTokens": [
+      "газированный",
+      "напиток",
+      "гуава",
+      "лимон",
+      "0.25 л"
+    ],
+    "params": {
+      "volume": "0.25 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Waters Service лимонад ситро 2 л",
+    "cleanTokens": [
+      "лимонад",
+      "ситро"
+    ],
+    "normalizedTokens": [
+      "лимонад",
+      "ситро",
+      "2 л"
+    ],
+    "params": {
+      "volume": "2 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Georgia газированный напиток фейхоа 0.5 л",
+    "cleanTokens": [
+      "газированный",
+      "напиток",
+      "фейхоа"
+    ],
+    "normalizedTokens": [
+      "газированный",
+      "напиток",
+      "фейхоа",
+      "0.5 л"
+    ],
+    "params": {
+      "volume": "0.5 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Sunbel газированный напиток мохито 0.45 л",
+    "cleanTokens": [
+      "газированный",
+      "напиток",
+      "мохито"
+    ],
+    "normalizedTokens": [
+      "газированный",
+      "напиток",
+      "мохито",
+      "0.45 л"
+    ],
+    "params": {
+      "volume": "0.45 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Georgia газированный напиток виноград 0.5 л",
+    "cleanTokens": [
+      "газированный",
+      "напиток",
+      "виноград"
+    ],
+    "normalizedTokens": [
+      "газированный",
+      "напиток",
+      "виноград",
+      "0.5 л"
+    ],
+    "params": {
+      "volume": "0.5 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "RC газированный напиток кола 1 л",
+    "cleanTokens": [
+      "газированный",
+      "напиток",
+      "кола"
+    ],
+    "normalizedTokens": [
+      "газированный",
+      "напиток",
+      "кола",
+      "1 л"
+    ],
+    "params": {
+      "volume": "1 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Chino лимонад гранат 0.45 л",
+    "cleanTokens": [
+      "лимонад",
+      "гранат"
+    ],
+    "normalizedTokens": [
+      "лимонад",
+      "гранат",
+      "0.45 л"
+    ],
+    "params": {
+      "volume": "0.45 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Sunbel газированный напиток гранат 0.45 л",
+    "cleanTokens": [
+      "газированный",
+      "напиток",
+      "гранат"
+    ],
+    "normalizedTokens": [
+      "газированный",
+      "напиток",
+      "гранат",
+      "0.45 л"
+    ],
+    "params": {
+      "volume": "0.45 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Chino лимонад апельсин 0.45 л",
+    "cleanTokens": [
+      "лимонад",
+      "апельсин"
+    ],
+    "normalizedTokens": [
+      "лимонад",
+      "апельсин",
+      "0.45 л"
+    ],
+    "params": {
+      "volume": "0.45 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Shaurma-Food Mirinda газированный напиток апельсин 0.4 л",
+    "cleanTokens": [
+      "mirinda",
+      "газированный",
+      "напиток",
+      "апельсин"
+    ],
+    "normalizedTokens": [
+      "mirinda",
+      "газированный",
+      "напиток",
+      "апельсин",
+      "0.4 л"
+    ],
+    "params": {
+      "volume": "0.4 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Le Gracio газированный напиток гранат 0.45 л",
+    "cleanTokens": [
+      "le",
+      "газированный",
+      "напиток",
+      "гранат"
+    ],
+    "normalizedTokens": [
+      "le",
+      "газированный",
+      "напиток",
+      "гранат",
+      "0.45 л"
+    ],
+    "params": {
+      "volume": "0.45 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Shaurma-Food лимонад ягодный 1 л",
+    "cleanTokens": [
+      "лимонад",
+      "ягодный"
+    ],
+    "normalizedTokens": [
+      "лимонад",
+      "ягодный",
+      "1 л"
+    ],
+    "params": {
+      "volume": "1 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Sunbel газированный напиток тропические фрукты 0.45 л",
+    "cleanTokens": [
+      "газированный",
+      "напиток",
+      "тропические",
+      "фрукты"
+    ],
+    "normalizedTokens": [
+      "газированный",
+      "напиток",
+      "тропические",
+      "фрукты",
+      "0.45 л"
+    ],
+    "params": {
+      "volume": "0.45 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Визит газированный напиток классический лимонад 1 л",
+    "cleanTokens": [
+      "газированный",
+      "напиток",
+      "классический",
+      "лимонад"
+    ],
+    "normalizedTokens": [
+      "газированный",
+      "напиток",
+      "классический",
+      "лимонад",
+      "1 л"
+    ],
+    "params": {
+      "volume": "1 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Georgia газированный напиток груша 0.5 л",
+    "cleanTokens": [
+      "газированный",
+      "напиток",
+      "груша"
+    ],
+    "normalizedTokens": [
+      "газированный",
+      "напиток",
+      "груша",
+      "0.5 л"
+    ],
+    "params": {
+      "volume": "0.5 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "AVA газированный напиток классический лимонад 1.5 л",
+    "cleanTokens": [
+      "газированный",
+      "напиток",
+      "классический",
+      "лимонад"
+    ],
+    "normalizedTokens": [
+      "газированный",
+      "напиток",
+      "классический",
+      "лимонад",
+      "1.5 л"
+    ],
+    "params": {
+      "volume": "1.5 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Lemonade Kazbegi лимонад сливки 1 л",
+    "cleanTokens": [
+      "лимонад",
+      "сливки"
+    ],
+    "normalizedTokens": [
+      "лимонад",
+      "сливки",
+      "1 л"
+    ],
+    "params": {
+      "volume": "1 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Borjomi лимонад тархун 0.5 л",
+    "cleanTokens": [
+      "лимонад",
+      "тархун"
+    ],
+    "normalizedTokens": [
+      "лимонад",
+      "тархун",
+      "0.5 л"
+    ],
+    "params": {
+      "volume": "0.5 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Riks газированный напиток Vitamin C 0.25 л",
+    "cleanTokens": [
+      "газированный",
+      "напиток",
+      "vitamin",
+      "c"
+    ],
+    "normalizedTokens": [
+      "газированный",
+      "напиток",
+      "vitamin",
+      "c",
+      "0.25 л"
+    ],
+    "params": {
+      "volume": "0.25 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Lapochka лимонад груша, имбирь 0.33 л",
+    "cleanTokens": [
+      "лимонад",
+      "груша",
+      "имбирь"
+    ],
+    "normalizedTokens": [
+      "лимонад",
+      "груша",
+      "имбирь",
+      "0.33 л"
+    ],
+    "params": {
+      "volume": "0.33 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Waters Service газированный напиток цитрус 2 л",
+    "cleanTokens": [
+      "газированный",
+      "напиток",
+      "цитрус"
+    ],
+    "normalizedTokens": [
+      "газированный",
+      "напиток",
+      "цитрус",
+      "2 л"
+    ],
+    "params": {
+      "volume": "2 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Shaurma-Food лимонад клубника-маракуйя 1 л",
+    "cleanTokens": [
+      "лимонад",
+      "клубника-маракуйя"
+    ],
+    "normalizedTokens": [
+      "лимонад",
+      "клубника-маракуйя",
+      "1 л"
+    ],
+    "params": {
+      "volume": "1 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Lapochka лимонад дыня, мята 0.33 л",
+    "cleanTokens": [
+      "лимонад",
+      "дыня",
+      "мята"
+    ],
+    "normalizedTokens": [
+      "лимонад",
+      "дыня",
+      "мята",
+      "0.33 л"
+    ],
+    "params": {
+      "volume": "0.33 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "San Pellegrino Clementina мандарин 0.33 л",
+    "cleanTokens": [
+      "clementina",
+      "мандарин"
+    ],
+    "normalizedTokens": [
+      "clementina",
+      "мандарин",
+      "0.33 л"
+    ],
+    "params": {
+      "volume": "0.33 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Lapochka газированный напиток арбуз 0.33 л",
+    "cleanTokens": [
+      "газированный",
+      "напиток",
+      "арбуз"
+    ],
+    "normalizedTokens": [
+      "газированный",
+      "напиток",
+      "арбуз",
+      "0.33 л"
+    ],
+    "params": {
+      "volume": "0.33 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "THOMAS HENRY тоник лимон, хинин 0.2 л",
+    "cleanTokens": [
+      "тоник",
+      "лимон",
+      "хинин"
+    ],
+    "normalizedTokens": [
+      "тоник",
+      "лимон",
+      "хинин",
+      "0.2 л"
+    ],
+    "params": {
+      "volume": "0.2 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "San Pellegrino Chinotto газированный напиток цитрус 0.33 л",
+    "cleanTokens": [
+      "chinotto",
+      "газированный",
+      "напиток",
+      "цитрус"
+    ],
+    "normalizedTokens": [
+      "chinotto",
+      "газированный",
+      "напиток",
+      "цитрус",
+      "0.33 л"
+    ],
+    "params": {
+      "volume": "0.33 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Fever-Tree тоник малина 0.2 л",
+    "cleanTokens": [
+      "тоник",
+      "малина"
+    ],
+    "normalizedTokens": [
+      "тоник",
+      "малина",
+      "0.2 л"
+    ],
+    "params": {
+      "volume": "0.2 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Fever-Tree тоник имбирь 0.2 л",
+    "cleanTokens": [
+      "тоник",
+      "имбирь"
+    ],
+    "normalizedTokens": [
+      "тоник",
+      "имбирь",
+      "0.2 л"
+    ],
+    "params": {
+      "volume": "0.2 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Royale тоник классический 1 л",
+    "cleanTokens": [
+      "тоник",
+      "классический"
+    ],
+    "normalizedTokens": [
+      "тоник",
+      "классический",
+      "1 л"
+    ],
+    "params": {
+      "volume": "1 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Cipriani тоник цитрус 0.2 л",
+    "cleanTokens": [
+      "тоник",
+      "цитрус"
+    ],
+    "normalizedTokens": [
+      "тоник",
+      "цитрус",
+      "0.2 л"
+    ],
+    "params": {
+      "volume": "0.2 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Hysope Elderflower тоник цветы клитории 0.2 л",
+    "cleanTokens": [
+      "elderflower",
+      "тоник",
+      "цветы",
+      "клитории"
+    ],
+    "normalizedTokens": [
+      "elderflower",
+      "тоник",
+      "цветы",
+      "клитории",
+      "0.2 л"
+    ],
+    "params": {
+      "volume": "0.2 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Lapochka лимонад персик 0.33 л",
+    "cleanTokens": [
+      "лимонад",
+      "персик"
+    ],
+    "normalizedTokens": [
+      "лимонад",
+      "персик",
+      "0.33 л"
+    ],
+    "params": {
+      "volume": "0.33 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Hysope тоник классический лимонад 0.2 л",
+    "cleanTokens": [
+      "тоник",
+      "классический",
+      "лимонад"
+    ],
+    "normalizedTokens": [
+      "тоник",
+      "классический",
+      "лимонад",
+      "0.2 л"
+    ],
+    "params": {
+      "volume": "0.2 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Georgia газированный напиток лимон 0.5 л",
+    "cleanTokens": [
+      "газированный",
+      "напиток",
+      "лимон"
+    ],
+    "normalizedTokens": [
+      "газированный",
+      "напиток",
+      "лимон",
+      "0.5 л"
+    ],
+    "params": {
+      "volume": "0.5 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "ZIGI-ZAGI газированный напиток мохито 0.45 л",
+    "cleanTokens": [
+      "газированный",
+      "напиток",
+      "мохито"
+    ],
+    "normalizedTokens": [
+      "газированный",
+      "напиток",
+      "мохито",
+      "0.45 л"
+    ],
+    "params": {
+      "volume": "0.45 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Sangaria лимонад виноград 0.5 л",
+    "cleanTokens": [
+      "лимонад",
+      "виноград"
+    ],
+    "normalizedTokens": [
+      "лимонад",
+      "виноград",
+      "0.5 л"
+    ],
+    "params": {
+      "volume": "0.5 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "AVA газированный напиток груша 0.45 л",
+    "cleanTokens": [
+      "газированный",
+      "напиток",
+      "груша"
+    ],
+    "normalizedTokens": [
+      "газированный",
+      "напиток",
+      "груша",
+      "0.45 л"
+    ],
+    "params": {
+      "volume": "0.45 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Hatakosen Ramune лимонад арбуз с солью 0.2 л",
+    "cleanTokens": [
+      "ramune",
+      "лимонад",
+      "арбуз",
+      "с",
+      "солью"
+    ],
+    "normalizedTokens": [
+      "ramune",
+      "лимонад",
+      "арбуз",
+      "с",
+      "солью",
+      "0.2 л"
+    ],
+    "params": {
+      "volume": "0.2 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Hysope тоник лимон 0.2 л",
+    "cleanTokens": [
+      "тоник",
+      "лимон"
+    ],
+    "normalizedTokens": [
+      "тоник",
+      "лимон",
+      "0.2 л"
+    ],
+    "params": {
+      "volume": "0.2 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "RC газированный напиток яблоко 1 л",
+    "cleanTokens": [
+      "газированный",
+      "напиток",
+      "яблоко"
+    ],
+    "normalizedTokens": [
+      "газированный",
+      "напиток",
+      "яблоко",
+      "1 л"
+    ],
+    "params": {
+      "volume": "1 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Lapochka газированный напиток кола 0.33 л",
+    "cleanTokens": [
+      "газированный",
+      "напиток",
+      "кола"
+    ],
+    "normalizedTokens": [
+      "газированный",
+      "напиток",
+      "кола",
+      "0.33 л"
+    ],
+    "params": {
+      "volume": "0.33 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Melon Soda лимонад дыня 0.5 л",
+    "cleanTokens": [
+      "лимонад",
+      "дыня"
+    ],
+    "normalizedTokens": [
+      "лимонад",
+      "дыня",
+      "0.5 л"
+    ],
+    "params": {
+      "volume": "0.5 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Sangaria лимонад виноград 0.25 л",
+    "cleanTokens": [
+      "лимонад",
+      "виноград"
+    ],
+    "normalizedTokens": [
+      "лимонад",
+      "виноград",
+      "0.25 л"
+    ],
+    "params": {
+      "volume": "0.25 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Fever-Tree тоник хинин 0.2 л",
+    "cleanTokens": [
+      "тоник",
+      "хинин"
+    ],
+    "normalizedTokens": [
+      "тоник",
+      "хинин",
+      "0.2 л"
+    ],
+    "params": {
+      "volume": "0.2 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Hysope Pamplemousse газированный напиток грейпфрут 0.2 л",
+    "cleanTokens": [
+      "pamplemousse",
+      "газированный",
+      "напиток",
+      "грейпфрут"
+    ],
+    "normalizedTokens": [
+      "pamplemousse",
+      "газированный",
+      "напиток",
+      "грейпфрут",
+      "0.2 л"
+    ],
+    "params": {
+      "volume": "0.2 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "7Up газированный напиток лайм, лимон 0.4 л",
+    "cleanTokens": [
+      "газированный",
+      "напиток",
+      "лайм",
+      "лимон"
+    ],
+    "normalizedTokens": [
+      "газированный",
+      "напиток",
+      "лайм",
+      "лимон",
+      "0.4 л"
+    ],
+    "params": {
+      "volume": "0.4 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Lime Time лимонад лайм, мята, лимон 0.5 л",
+    "cleanTokens": [
+      "лимонад",
+      "лайм",
+      "мята",
+      "лимон"
+    ],
+    "normalizedTokens": [
+      "лимонад",
+      "лайм",
+      "мята",
+      "лимон",
+      "0.5 л"
+    ],
+    "params": {
+      "volume": "0.5 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Chupa Chups Апельсин 0.345 л",
+    "cleanTokens": [
+      "апельсин"
+    ],
+    "normalizedTokens": [
+      "апельсин",
+      "0.345 л"
+    ],
+    "params": {
+      "volume": "0.345 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Златояр Лимонад Дюшес 0.5 л",
+    "cleanTokens": [
+      "лимонад",
+      "дюшес"
+    ],
+    "normalizedTokens": [
+      "лимонад",
+      "дюшес",
+      "0.5 л"
+    ],
+    "params": {
+      "volume": "0.5 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Krombacher газированный напиток кола, апельсин 0.33 л",
+    "cleanTokens": [
+      "газированный",
+      "напиток",
+      "кола",
+      "апельсин"
+    ],
+    "normalizedTokens": [
+      "газированный",
+      "напиток",
+      "кола",
+      "апельсин",
+      "0.33 л"
+    ],
+    "params": {
+      "volume": "0.33 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "RC газированный напиток кола 0.33 л",
+    "cleanTokens": [
+      "газированный",
+      "напиток",
+      "кола"
+    ],
+    "normalizedTokens": [
+      "газированный",
+      "напиток",
+      "кола",
+      "0.33 л"
+    ],
+    "params": {
+      "volume": "0.33 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Brain Licker газированный напиток фруктовый 0.33 л",
+    "cleanTokens": [
+      "газированный",
+      "напиток",
+      "фруктовый"
+    ],
+    "normalizedTokens": [
+      "газированный",
+      "напиток",
+      "фруктовый",
+      "0.33 л"
+    ],
+    "params": {
+      "volume": "0.33 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Ilhwa газированный напиток виноград 0.35 л",
+    "cleanTokens": [
+      "газированный",
+      "напиток",
+      "виноград"
+    ],
+    "normalizedTokens": [
+      "газированный",
+      "напиток",
+      "виноград",
+      "0.35 л"
+    ],
+    "params": {
+      "volume": "0.35 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Златояр Лимонад 0.5 л",
+    "cleanTokens": [
+      "лимонад"
+    ],
+    "normalizedTokens": [
+      "лимонад",
+      "0.5 л"
+    ],
+    "params": {
+      "volume": "0.5 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Lapochka газированный напиток гранат, малина, ромашка 0.33 л",
+    "cleanTokens": [
+      "газированный",
+      "напиток",
+      "гранат",
+      "малина",
+      "ромашка"
+    ],
+    "normalizedTokens": [
+      "газированный",
+      "напиток",
+      "гранат",
+      "малина",
+      "ромашка",
+      "0.33 л"
+    ],
+    "params": {
+      "volume": "0.33 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Cipriani тоник персик 0.18 л",
+    "cleanTokens": [
+      "тоник",
+      "персик"
+    ],
+    "normalizedTokens": [
+      "тоник",
+      "персик",
+      "0.18 л"
+    ],
+    "params": {
+      "volume": "0.18 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "ZIGI-ZAGI газированный напиток груша 0.45 л",
+    "cleanTokens": [
+      "газированный",
+      "напиток",
+      "груша"
+    ],
+    "normalizedTokens": [
+      "газированный",
+      "напиток",
+      "груша",
+      "0.45 л"
+    ],
+    "params": {
+      "volume": "0.45 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Lemonade Kazbegi лимонад сливки 0.5 л",
+    "cleanTokens": [
+      "лимонад",
+      "сливки"
+    ],
+    "normalizedTokens": [
+      "лимонад",
+      "сливки",
+      "0.5 л"
+    ],
+    "params": {
+      "volume": "0.5 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Lapochka лимонад грейпфрут, лимон 0.33 л",
+    "cleanTokens": [
+      "лимонад",
+      "грейпфрут",
+      "лимон"
+    ],
+    "normalizedTokens": [
+      "лимонад",
+      "грейпфрут",
+      "лимон",
+      "0.33 л"
+    ],
+    "params": {
+      "volume": "0.33 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Chupa Chups газированный напиток бабл-гам 0.345 л",
+    "cleanTokens": [
+      "газированный",
+      "напиток",
+      "бабл-гам"
+    ],
+    "normalizedTokens": [
+      "газированный",
+      "напиток",
+      "бабл-гам",
+      "0.345 л"
+    ],
+    "params": {
+      "volume": "0.345 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Fanta Lemon 0.33 л",
+    "cleanTokens": [
+      "lemon"
+    ],
+    "normalizedTokens": [
+      "lemon",
+      "0.33 л"
+    ],
+    "params": {
+      "volume": "0.33 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "AZIANO газированный напиток личи 0.35 л",
+    "cleanTokens": [
+      "газированный",
+      "напиток",
+      "личи"
+    ],
+    "normalizedTokens": [
+      "газированный",
+      "напиток",
+      "личи",
+      "0.35 л"
+    ],
+    "params": {
+      "volume": "0.35 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Dr.Pepper 23 0.33 л",
+    "cleanTokens": [
+      "23"
+    ],
+    "normalizedTokens": [
+      "23",
+      "0.33 л"
+    ],
+    "params": {
+      "volume": "0.33 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "AZIANO газированный напиток арбуз 0.35 л",
+    "cleanTokens": [
+      "газированный",
+      "напиток",
+      "арбуз"
+    ],
+    "normalizedTokens": [
+      "газированный",
+      "напиток",
+      "арбуз",
+      "0.35 л"
+    ],
+    "params": {
+      "volume": "0.35 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Coca-Cola Cherry 0.33 л",
+    "cleanTokens": [
+      "cherry"
+    ],
+    "normalizedTokens": [
+      "cherry",
+      "0.33 л"
+    ],
+    "params": {
+      "volume": "0.33 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Lotte газированный напиток дыня 0.25 л",
+    "cleanTokens": [
+      "газированный",
+      "напиток",
+      "дыня"
+    ],
+    "normalizedTokens": [
+      "газированный",
+      "напиток",
+      "дыня",
+      "0.25 л"
+    ],
+    "params": {
+      "volume": "0.25 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "San Pellegrino Tonica OWG 0.2 л",
+    "cleanTokens": [
+      "tonica",
+      "owg"
+    ],
+    "normalizedTokens": [
+      "tonica",
+      "owg",
+      "0.2 л"
+    ],
+    "params": {
+      "volume": "0.2 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "AZIANO газированный напиток мохито 0.35 л",
+    "cleanTokens": [
+      "газированный",
+      "напиток",
+      "мохито"
+    ],
+    "normalizedTokens": [
+      "газированный",
+      "напиток",
+      "мохито",
+      "0.35 л"
+    ],
+    "params": {
+      "volume": "0.35 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Hatakosen лимонад йогурт 0.2 л",
+    "cleanTokens": [
+      "лимонад",
+      "йогурт"
+    ],
+    "normalizedTokens": [
+      "лимонад",
+      "йогурт",
+      "0.2 л"
+    ],
+    "params": {
+      "volume": "0.2 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "AVA лимонад классический лимонад 0.45 л",
+    "cleanTokens": [
+      "лимонад",
+      "классический",
+      "лимонад"
+    ],
+    "normalizedTokens": [
+      "лимонад",
+      "классический",
+      "лимонад",
+      "0.45 л"
+    ],
+    "params": {
+      "volume": "0.45 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Hatakosen лимонад личи 0.2 л",
+    "cleanTokens": [
+      "лимонад",
+      "личи"
+    ],
+    "normalizedTokens": [
+      "лимонад",
+      "личи",
+      "0.2 л"
+    ],
+    "params": {
+      "volume": "0.2 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "AZIANO газированный напиток клубника 0.35 л",
+    "cleanTokens": [
+      "газированный",
+      "напиток",
+      "клубника"
+    ],
+    "normalizedTokens": [
+      "газированный",
+      "напиток",
+      "клубника",
+      "0.35 л"
+    ],
+    "params": {
+      "volume": "0.35 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Lotte газированный напиток банан 0.25 л",
+    "cleanTokens": [
+      "газированный",
+      "напиток",
+      "банан"
+    ],
+    "normalizedTokens": [
+      "газированный",
+      "напиток",
+      "банан",
+      "0.25 л"
+    ],
+    "params": {
+      "volume": "0.25 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "AZIANO газированный напиток киви 0.35 л",
+    "cleanTokens": [
+      "газированный",
+      "напиток",
+      "киви"
+    ],
+    "normalizedTokens": [
+      "газированный",
+      "напиток",
+      "киви",
+      "0.35 л"
+    ],
+    "params": {
+      "volume": "0.35 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "AZIANO газированный напиток мандарин 0.35 л",
+    "cleanTokens": [
+      "газированный",
+      "напиток",
+      "мандарин"
+    ],
+    "normalizedTokens": [
+      "газированный",
+      "напиток",
+      "мандарин",
+      "0.35 л"
+    ],
+    "params": {
+      "volume": "0.35 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Lapochka лимонад гуава, лайм 0.33 л",
+    "cleanTokens": [
+      "лимонад",
+      "гуава",
+      "лайм"
+    ],
+    "normalizedTokens": [
+      "лимонад",
+      "гуава",
+      "лайм",
+      "0.33 л"
+    ],
+    "params": {
+      "volume": "0.33 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Lapochka лимонад ананас, личи 0.33 л",
+    "cleanTokens": [
+      "лимонад",
+      "ананас",
+      "личи"
+    ],
+    "normalizedTokens": [
+      "лимонад",
+      "ананас",
+      "личи",
+      "0.33 л"
+    ],
+    "params": {
+      "volume": "0.33 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "RC газированный напиток кола 0.5 л",
+    "cleanTokens": [
+      "газированный",
+      "напиток",
+      "кола"
+    ],
+    "normalizedTokens": [
+      "газированный",
+      "напиток",
+      "кола",
+      "0.5 л"
+    ],
+    "params": {
+      "volume": "0.5 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "AZIANO газированный напиток малина 0.35 л",
+    "cleanTokens": [
+      "газированный",
+      "напиток",
+      "малина"
+    ],
+    "normalizedTokens": [
+      "газированный",
+      "напиток",
+      "малина",
+      "0.35 л"
+    ],
+    "params": {
+      "volume": "0.35 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Kinza газированный напиток черная смородина 0.32 л",
+    "cleanTokens": [
+      "газированный",
+      "напиток",
+      "черная",
+      "смородина"
+    ],
+    "normalizedTokens": [
+      "газированный",
+      "напиток",
+      "черная",
+      "смородина",
+      "0.32 л"
+    ],
+    "params": {
+      "volume": "0.32 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "AZIANO газированный напиток яблоко 0.35 л",
+    "cleanTokens": [
+      "газированный",
+      "напиток",
+      "яблоко"
+    ],
+    "normalizedTokens": [
+      "газированный",
+      "напиток",
+      "яблоко",
+      "0.35 л"
+    ],
+    "params": {
+      "volume": "0.35 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Hysope тоник имбирный напиток с острым вкусом 0.75 л",
+    "cleanTokens": [
+      "тоник",
+      "имбирный",
+      "напиток",
+      "с",
+      "острым",
+      "вкусом"
+    ],
+    "normalizedTokens": [
+      "тоник",
+      "имбирный",
+      "напиток",
+      "с",
+      "острым",
+      "вкусом",
+      "0.75 л"
+    ],
+    "params": {
+      "volume": "0.75 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Coca-Cola Напиток Cherry (0,330л.) Германия",
+    "cleanTokens": [
+      "напиток",
+      "cherry",
+      "0",
+      "330л.",
+      "германия"
+    ],
+    "normalizedTokens": [
+      "напиток",
+      "cherry",
+      "0",
+      "330л.",
+      "германия"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Coca-Cola газированный напиток кола 0.33 л",
+    "cleanTokens": [
+      "газированный",
+      "напиток",
+      "кола"
+    ],
+    "normalizedTokens": [
+      "газированный",
+      "напиток",
+      "кола",
+      "0.33 л"
+    ],
+    "params": {
+      "volume": "0.33 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Coca-Cola газированный напиток кола 0.33 л",
+    "cleanTokens": [
+      "газированный",
+      "напиток",
+      "кола"
+    ],
+    "normalizedTokens": [
+      "газированный",
+      "напиток",
+      "кола",
+      "0.33 л"
+    ],
+    "params": {
+      "volume": "0.33 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Dr.Pepper газированный напиток вишня 0.33 л",
+    "cleanTokens": [
+      "газированный",
+      "напиток",
+      "вишня"
+    ],
+    "normalizedTokens": [
+      "газированный",
+      "напиток",
+      "вишня",
+      "0.33 л"
+    ],
+    "params": {
+      "volume": "0.33 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Dr.Pepper газированный напиток клубника 0.355 л",
+    "cleanTokens": [
+      "газированный",
+      "напиток",
+      "клубника"
+    ],
+    "normalizedTokens": [
+      "газированный",
+      "напиток",
+      "клубника",
+      "0.355 л"
+    ],
+    "params": {
+      "volume": "0.355 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Chupa Chups газированный напиток виноград 0.345 л",
+    "cleanTokens": [
+      "газированный",
+      "напиток",
+      "виноград"
+    ],
+    "normalizedTokens": [
+      "газированный",
+      "напиток",
+      "виноград",
+      "0.345 л"
+    ],
+    "params": {
+      "volume": "0.345 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Chupa Chups газированный напиток зеленое яблоко 0.345 л",
+    "cleanTokens": [
+      "газированный",
+      "напиток",
+      "зеленое",
+      "яблоко"
+    ],
+    "normalizedTokens": [
+      "газированный",
+      "напиток",
+      "зеленое",
+      "яблоко",
+      "0.345 л"
+    ],
+    "params": {
+      "volume": "0.345 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Lemonade Kazbegi Тархун 0.5 л",
+    "cleanTokens": [
+      "тархун"
+    ],
+    "normalizedTokens": [
+      "тархун",
+      "0.5 л"
+    ],
+    "params": {
+      "volume": "0.5 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Lapochka Виноград, яблоко 0.33",
+    "cleanTokens": [
+      "виноград",
+      "яблоко",
+      "0.33"
+    ],
+    "normalizedTokens": [
+      "виноград",
+      "яблоко",
+      "0.33"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Riks газированный напиток классический лимонад 0.2 л",
+    "cleanTokens": [
+      "газированный",
+      "напиток",
+      "классический",
+      "лимонад"
+    ],
+    "normalizedTokens": [
+      "газированный",
+      "напиток",
+      "классический",
+      "лимонад",
+      "0.2 л"
+    ],
+    "params": {
+      "volume": "0.2 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Chupa Chups газированный напиток черника 0.345 л",
+    "cleanTokens": [
+      "газированный",
+      "напиток",
+      "черника"
+    ],
+    "normalizedTokens": [
+      "газированный",
+      "напиток",
+      "черника",
+      "0.345 л"
+    ],
+    "params": {
+      "volume": "0.345 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Fanta газированный напиток фруктовый 0.33 л",
+    "cleanTokens": [
+      "газированный",
+      "напиток",
+      "фруктовый"
+    ],
+    "normalizedTokens": [
+      "газированный",
+      "напиток",
+      "фруктовый",
+      "0.33 л"
+    ],
+    "params": {
+      "volume": "0.33 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Dr.Pepper Напиток Blackberry (0,355л) США",
+    "cleanTokens": [
+      "напиток",
+      "blackberry",
+      "0",
+      "355л",
+      "сша"
+    ],
+    "normalizedTokens": [
+      "напиток",
+      "blackberry",
+      "0",
+      "355 л",
+      "сша"
+    ],
+    "params": {
+      "volume": "355 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Dr.Pepper Cream Soda 0.355 л",
+    "cleanTokens": [
+      "cream",
+      "soda"
+    ],
+    "normalizedTokens": [
+      "cream",
+      "soda",
+      "0.355 л"
+    ],
+    "params": {
+      "volume": "0.355 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "AZIANO газированный напиток апельсин 0.35 л",
+    "cleanTokens": [
+      "газированный",
+      "напиток",
+      "апельсин"
+    ],
+    "normalizedTokens": [
+      "газированный",
+      "напиток",
+      "апельсин",
+      "0.35 л"
+    ],
+    "params": {
+      "volume": "0.35 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Dr.Pi газированный напиток кола 0.33 л",
+    "cleanTokens": [
+      "газированный",
+      "напиток",
+      "кола"
+    ],
+    "normalizedTokens": [
+      "газированный",
+      "напиток",
+      "кола",
+      "0.33 л"
+    ],
+    "params": {
+      "volume": "0.33 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "AZIANO газированный напиток персик 0.35 л",
+    "cleanTokens": [
+      "газированный",
+      "напиток",
+      "персик"
+    ],
+    "normalizedTokens": [
+      "газированный",
+      "напиток",
+      "персик",
+      "0.35 л"
+    ],
+    "params": {
+      "volume": "0.35 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Fanta Strawberry&Kiwi 0.33 л",
+    "cleanTokens": [
+      "strawberry&kiwi"
+    ],
+    "normalizedTokens": [
+      "strawberry&kiwi",
+      "0.33 л"
+    ],
+    "params": {
+      "volume": "0.33 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Hatakosen Ramune лимонад, клубника 0.2 л",
+    "cleanTokens": [
+      "ramune",
+      "лимонад",
+      "клубника"
+    ],
+    "normalizedTokens": [
+      "ramune",
+      "лимонад",
+      "клубника",
+      "0.2 л"
+    ],
+    "params": {
+      "volume": "0.2 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Вкус Года Лимонад Сливочный 0.6 л",
+    "cleanTokens": [
+      "лимонад",
+      "сливочный"
+    ],
+    "normalizedTokens": [
+      "лимонад",
+      "сливочный",
+      "0.6 л"
+    ],
+    "params": {
+      "volume": "0.6 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Pepsi газированный напиток кола 0.33 л",
+    "cleanTokens": [
+      "газированный",
+      "напиток",
+      "кола"
+    ],
+    "normalizedTokens": [
+      "газированный",
+      "напиток",
+      "кола",
+      "0.33 л"
+    ],
+    "params": {
+      "volume": "0.33 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Fanta Strawberry 0.355 л",
+    "cleanTokens": [
+      "strawberry"
+    ],
+    "normalizedTokens": [
+      "strawberry",
+      "0.355 л"
+    ],
+    "params": {
+      "volume": "0.355 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "AZIANO газированный напиток манго 0.35 л",
+    "cleanTokens": [
+      "газированный",
+      "напиток",
+      "манго"
+    ],
+    "normalizedTokens": [
+      "газированный",
+      "напиток",
+      "манго",
+      "0.35 л"
+    ],
+    "params": {
+      "volume": "0.35 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Dr.Pepper газированный напиток вишня 0.33 л",
+    "cleanTokens": [
+      "газированный",
+      "напиток",
+      "вишня"
+    ],
+    "normalizedTokens": [
+      "газированный",
+      "напиток",
+      "вишня",
+      "0.33 л"
+    ],
+    "params": {
+      "volume": "0.33 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Schweppes Bitter Lemon 0.33 л",
+    "cleanTokens": [
+      "bitter",
+      "lemon"
+    ],
+    "normalizedTokens": [
+      "bitter",
+      "lemon",
+      "0.33 л"
+    ],
+    "params": {
+      "volume": "0.33 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "San Pellegrino газированный напиток лимон, мята 0.33 л",
+    "cleanTokens": [
+      "газированный",
+      "напиток",
+      "лимон",
+      "мята"
+    ],
+    "normalizedTokens": [
+      "газированный",
+      "напиток",
+      "лимон",
+      "мята",
+      "0.33 л"
+    ],
+    "params": {
+      "volume": "0.33 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Dr.Pepper Vanilla Float 0.355 л",
+    "cleanTokens": [
+      "vanilla",
+      "float"
+    ],
+    "normalizedTokens": [
+      "vanilla",
+      "float",
+      "0.355 л"
+    ],
+    "params": {
+      "volume": "0.355 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Lotte газированный напиток виноград 0.25 л",
+    "cleanTokens": [
+      "газированный",
+      "напиток",
+      "виноград"
+    ],
+    "normalizedTokens": [
+      "газированный",
+      "напиток",
+      "виноград",
+      "0.25 л"
+    ],
+    "params": {
+      "volume": "0.25 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Warheads газированный напиток малина 0.355 л",
+    "cleanTokens": [
+      "газированный",
+      "напиток",
+      "малина"
+    ],
+    "normalizedTokens": [
+      "газированный",
+      "напиток",
+      "малина",
+      "0.355 л"
+    ],
+    "params": {
+      "volume": "0.355 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Fanta Лесные Ягоды 0.355 л",
+    "cleanTokens": [
+      "лесные",
+      "ягоды"
+    ],
+    "normalizedTokens": [
+      "лесные",
+      "ягоды",
+      "0.355 л"
+    ],
+    "params": {
+      "volume": "0.355 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Hatakosen Ramune лимонад дыня 0.2 л",
+    "cleanTokens": [
+      "ramune",
+      "лимонад",
+      "дыня"
+    ],
+    "normalizedTokens": [
+      "ramune",
+      "лимонад",
+      "дыня",
+      "0.2 л"
+    ],
+    "params": {
+      "volume": "0.2 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Lotte газированный напиток молочный 0.25 л",
+    "cleanTokens": [
+      "газированный",
+      "напиток",
+      "молочный"
+    ],
+    "normalizedTokens": [
+      "газированный",
+      "напиток",
+      "молочный",
+      "0.25 л"
+    ],
+    "params": {
+      "volume": "0.25 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Arizona газированный напиток вишня, лимон 0.68 л",
+    "cleanTokens": [
+      "газированный",
+      "напиток",
+      "вишня",
+      "лимон"
+    ],
+    "normalizedTokens": [
+      "газированный",
+      "напиток",
+      "вишня",
+      "лимон",
+      "0.68 л"
+    ],
+    "params": {
+      "volume": "0.68 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "QDOL Pokemon газированный напиток лимон 0.33 л",
+    "cleanTokens": [
+      "pokemon",
+      "газированный",
+      "напиток",
+      "лимон"
+    ],
+    "normalizedTokens": [
+      "pokemon",
+      "газированный",
+      "напиток",
+      "лимон",
+      "0.33 л"
+    ],
+    "params": {
+      "volume": "0.33 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "QDOL газированный напиток личи 0.33 л",
+    "cleanTokens": [
+      "газированный",
+      "напиток",
+      "личи"
+    ],
+    "normalizedTokens": [
+      "газированный",
+      "напиток",
+      "личи",
+      "0.33 л"
+    ],
+    "params": {
+      "volume": "0.33 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Warheads газированный напиток арбуз 0.355 л",
+    "cleanTokens": [
+      "газированный",
+      "напиток",
+      "арбуз"
+    ],
+    "normalizedTokens": [
+      "газированный",
+      "напиток",
+      "арбуз",
+      "0.355 л"
+    ],
+    "params": {
+      "volume": "0.355 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Coca-Cola газированный напиток кола 0.33 л",
+    "cleanTokens": [
+      "газированный",
+      "напиток",
+      "кола"
+    ],
+    "normalizedTokens": [
+      "газированный",
+      "напиток",
+      "кола",
+      "0.33 л"
+    ],
+    "params": {
+      "volume": "0.33 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Schweppes газированный напиток мохито 0.33 л",
+    "cleanTokens": [
+      "газированный",
+      "напиток",
+      "мохито"
+    ],
+    "normalizedTokens": [
+      "газированный",
+      "напиток",
+      "мохито",
+      "0.33 л"
+    ],
+    "params": {
+      "volume": "0.33 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Schweppes газированный напиток цитрус 0.33 л",
+    "cleanTokens": [
+      "газированный",
+      "напиток",
+      "цитрус"
+    ],
+    "normalizedTokens": [
+      "газированный",
+      "напиток",
+      "цитрус",
+      "0.33 л"
+    ],
+    "params": {
+      "volume": "0.33 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Schweppes Lemon 0.33 л",
+    "cleanTokens": [
+      "lemon"
+    ],
+    "normalizedTokens": [
+      "lemon",
+      "0.33 л"
+    ],
+    "params": {
+      "volume": "0.33 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "San Pellegrino тоник классический 0.33 л",
+    "cleanTokens": [
+      "тоник",
+      "классический"
+    ],
+    "normalizedTokens": [
+      "тоник",
+      "классический",
+      "0.33 л"
+    ],
+    "params": {
+      "volume": "0.33 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Vinut газированный напиток кешью 0.33 л",
+    "cleanTokens": [
+      "газированный",
+      "напиток",
+      "кешью"
+    ],
+    "normalizedTokens": [
+      "газированный",
+      "напиток",
+      "кешью",
+      "0.33 л"
+    ],
+    "params": {
+      "volume": "0.33 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Vinut газированный напиток саподилла 0.33 л",
+    "cleanTokens": [
+      "газированный",
+      "напиток",
+      "саподилла"
+    ],
+    "normalizedTokens": [
+      "газированный",
+      "напиток",
+      "саподилла",
+      "0.33 л"
+    ],
+    "params": {
+      "volume": "0.33 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Dr.Pi газированный напиток ваниль 0.33 л",
+    "cleanTokens": [
+      "газированный",
+      "напиток",
+      "ваниль"
+    ],
+    "normalizedTokens": [
+      "газированный",
+      "напиток",
+      "ваниль",
+      "0.33 л"
+    ],
+    "params": {
+      "volume": "0.33 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Riks газированный напиток гранат 0.45 л",
+    "cleanTokens": [
+      "газированный",
+      "напиток",
+      "гранат"
+    ],
+    "normalizedTokens": [
+      "газированный",
+      "напиток",
+      "гранат",
+      "0.45 л"
+    ],
+    "params": {
+      "volume": "0.45 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Kinza газированный напиток кола 0.32 л",
+    "cleanTokens": [
+      "газированный",
+      "напиток",
+      "кола"
+    ],
+    "normalizedTokens": [
+      "газированный",
+      "напиток",
+      "кола",
+      "0.32 л"
+    ],
+    "params": {
+      "volume": "0.32 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "AZIANO газированный напиток кола 0.35 л",
+    "cleanTokens": [
+      "газированный",
+      "напиток",
+      "кола"
+    ],
+    "normalizedTokens": [
+      "газированный",
+      "напиток",
+      "кола",
+      "0.35 л"
+    ],
+    "params": {
+      "volume": "0.35 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "QDOL газированный напиток клубника 0.33 л",
+    "cleanTokens": [
+      "газированный",
+      "напиток",
+      "клубника"
+    ],
+    "normalizedTokens": [
+      "газированный",
+      "напиток",
+      "клубника",
+      "0.33 л"
+    ],
+    "params": {
+      "volume": "0.33 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Fanta газированный напиток персик 0.33 л",
+    "cleanTokens": [
+      "газированный",
+      "напиток",
+      "персик"
+    ],
+    "normalizedTokens": [
+      "газированный",
+      "напиток",
+      "персик",
+      "0.33 л"
+    ],
+    "params": {
+      "volume": "0.33 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Fanta Peach 0.355 л",
+    "cleanTokens": [
+      "peach"
+    ],
+    "normalizedTokens": [
+      "peach",
+      "0.355 л"
+    ],
+    "params": {
+      "volume": "0.355 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Fanta Orange 0.33 л",
+    "cleanTokens": [
+      "orange"
+    ],
+    "normalizedTokens": [
+      "orange",
+      "0.33 л"
+    ],
+    "params": {
+      "volume": "0.33 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Vinut Red Orange Juice газированный напиток апельсин 0.33 л",
+    "cleanTokens": [
+      "red",
+      "orange",
+      "juice",
+      "газированный",
+      "напиток",
+      "апельсин"
+    ],
+    "normalizedTokens": [
+      "red",
+      "orange",
+      "juice",
+      "газированный",
+      "напиток",
+      "апельсин",
+      "0.33 л"
+    ],
+    "params": {
+      "volume": "0.33 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Candy Can газированный напиток сахарная вата 0.33 л",
+    "cleanTokens": [
+      "газированный",
+      "напиток",
+      "сахарная",
+      "вата"
+    ],
+    "normalizedTokens": [
+      "газированный",
+      "напиток",
+      "сахарная",
+      "вата",
+      "0.33 л"
+    ],
+    "params": {
+      "volume": "0.33 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Fanta лимонад апельсин 0.33 л",
+    "cleanTokens": [
+      "лимонад",
+      "апельсин"
+    ],
+    "normalizedTokens": [
+      "лимонад",
+      "апельсин",
+      "0.33 л"
+    ],
+    "params": {
+      "volume": "0.33 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "San Pellegrino газированный напиток лимон, мята 0.33 л",
+    "cleanTokens": [
+      "газированный",
+      "напиток",
+      "лимон",
+      "мята"
+    ],
+    "normalizedTokens": [
+      "газированный",
+      "напиток",
+      "лимон",
+      "мята",
+      "0.33 л"
+    ],
+    "params": {
+      "volume": "0.33 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Ilhwa газированный напиток апельсин 0.35 л",
+    "cleanTokens": [
+      "газированный",
+      "напиток",
+      "апельсин"
+    ],
+    "normalizedTokens": [
+      "газированный",
+      "напиток",
+      "апельсин",
+      "0.35 л"
+    ],
+    "params": {
+      "volume": "0.35 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Candy Can газированный напиток бабл-гам 0.33 л",
+    "cleanTokens": [
+      "газированный",
+      "напиток",
+      "бабл-гам"
+    ],
+    "normalizedTokens": [
+      "газированный",
+      "напиток",
+      "бабл-гам",
+      "0.33 л"
+    ],
+    "params": {
+      "volume": "0.33 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Fresh Напиток Pistachio Dubai 330 мл",
+    "cleanTokens": [
+      "напиток",
+      "pistachio",
+      "dubai"
+    ],
+    "normalizedTokens": [
+      "напиток",
+      "pistachio",
+      "dubai",
+      "330 мл"
+    ],
+    "params": {
+      "volume": "330 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Tominaga газированный напиток виноград 0.35 л",
+    "cleanTokens": [
+      "газированный",
+      "напиток",
+      "виноград"
+    ],
+    "normalizedTokens": [
+      "газированный",
+      "напиток",
+      "виноград",
+      "0.35 л"
+    ],
+    "params": {
+      "volume": "0.35 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Vinut газированный напиток гранат 0.33 л",
+    "cleanTokens": [
+      "газированный",
+      "напиток",
+      "гранат"
+    ],
+    "normalizedTokens": [
+      "газированный",
+      "напиток",
+      "гранат",
+      "0.33 л"
+    ],
+    "params": {
+      "volume": "0.33 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Вкус Года Лимонад Ситро 0.6 л",
+    "cleanTokens": [
+      "лимонад",
+      "ситро"
+    ],
+    "normalizedTokens": [
+      "лимонад",
+      "ситро",
+      "0.6 л"
+    ],
+    "params": {
+      "volume": "0.6 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Coca-Cola газированный напиток ваниль 0.355 л",
+    "cleanTokens": [
+      "газированный",
+      "напиток",
+      "ваниль"
+    ],
+    "normalizedTokens": [
+      "газированный",
+      "напиток",
+      "ваниль",
+      "0.355 л"
+    ],
+    "params": {
+      "volume": "0.355 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Brain Licker газированный напиток малина 0.33 л",
+    "cleanTokens": [
+      "газированный",
+      "напиток",
+      "малина"
+    ],
+    "normalizedTokens": [
+      "газированный",
+      "напиток",
+      "малина",
+      "0.33 л"
+    ],
+    "params": {
+      "volume": "0.33 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Ilhwa газированный напиток ананас 0.35 л",
+    "cleanTokens": [
+      "газированный",
+      "напиток",
+      "ананас"
+    ],
+    "normalizedTokens": [
+      "газированный",
+      "напиток",
+      "ананас",
+      "0.35 л"
+    ],
+    "params": {
+      "volume": "0.35 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Coca-Cola газированный напиток классический 0.3 л",
+    "cleanTokens": [
+      "газированный",
+      "напиток",
+      "классический"
+    ],
+    "normalizedTokens": [
+      "газированный",
+      "напиток",
+      "классический",
+      "0.3 л"
+    ],
+    "params": {
+      "volume": "0.3 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Hatakosen лимонад кола 0.2 л",
+    "cleanTokens": [
+      "лимонад",
+      "кола"
+    ],
+    "normalizedTokens": [
+      "лимонад",
+      "кола",
+      "0.2 л"
+    ],
+    "params": {
+      "volume": "0.2 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Вкус Года Лимонад Дюшес 0.6 л",
+    "cleanTokens": [
+      "лимонад",
+      "дюшес"
+    ],
+    "normalizedTokens": [
+      "лимонад",
+      "дюшес",
+      "0.6 л"
+    ],
+    "params": {
+      "volume": "0.6 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Kinza газированный напиток апельсин 0.355 л",
+    "cleanTokens": [
+      "газированный",
+      "напиток",
+      "апельсин"
+    ],
+    "normalizedTokens": [
+      "газированный",
+      "напиток",
+      "апельсин",
+      "0.355 л"
+    ],
+    "params": {
+      "volume": "0.355 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Hatakosen Ramune лимонад со вкусом лимона 0.2 л",
+    "cleanTokens": [
+      "ramune",
+      "лимонад",
+      "со",
+      "вкусом",
+      "лимона"
+    ],
+    "normalizedTokens": [
+      "ramune",
+      "лимонад",
+      "со",
+      "вкусом",
+      "лимона",
+      "0.2 л"
+    ],
+    "params": {
+      "volume": "0.2 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Candy Can газированный напиток фруктовый 0.33 л",
+    "cleanTokens": [
+      "газированный",
+      "напиток",
+      "фруктовый"
+    ],
+    "normalizedTokens": [
+      "газированный",
+      "напиток",
+      "фруктовый",
+      "0.33 л"
+    ],
+    "params": {
+      "volume": "0.33 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Candy Can газированный напиток фруктовый 0.33 л",
+    "cleanTokens": [
+      "газированный",
+      "напиток",
+      "фруктовый"
+    ],
+    "normalizedTokens": [
+      "газированный",
+      "напиток",
+      "фруктовый",
+      "0.33 л"
+    ],
+    "params": {
+      "volume": "0.33 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Aji лимонад лимон 0.25 л",
+    "cleanTokens": [
+      "лимонад",
+      "лимон"
+    ],
+    "normalizedTokens": [
+      "лимонад",
+      "лимон",
+      "0.25 л"
+    ],
+    "params": {
+      "volume": "0.25 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Os Kombucha газированный напиток черный чай 0.5 л",
+    "cleanTokens": [
+      "газированный",
+      "напиток",
+      "черный",
+      "чай"
+    ],
+    "normalizedTokens": [
+      "газированный",
+      "напиток",
+      "черный",
+      "чай",
+      "0.5 л"
+    ],
+    "params": {
+      "volume": "0.5 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Вкус Года лимонад фейхоа 0.6 л",
+    "cleanTokens": [
+      "лимонад",
+      "фейхоа"
+    ],
+    "normalizedTokens": [
+      "лимонад",
+      "фейхоа",
+      "0.6 л"
+    ],
+    "params": {
+      "volume": "0.6 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "QDOL газированный напиток виноград 0.33 л",
+    "cleanTokens": [
+      "газированный",
+      "напиток",
+      "виноград"
+    ],
+    "normalizedTokens": [
+      "газированный",
+      "напиток",
+      "виноград",
+      "0.33 л"
+    ],
+    "params": {
+      "volume": "0.33 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Kinza газированный напиток цитрус 0.32 л",
+    "cleanTokens": [
+      "газированный",
+      "напиток",
+      "цитрус"
+    ],
+    "normalizedTokens": [
+      "газированный",
+      "напиток",
+      "цитрус",
+      "0.32 л"
+    ],
+    "params": {
+      "volume": "0.32 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Fanta газированный напиток ананас, грейпфрут 0.33 л",
+    "cleanTokens": [
+      "газированный",
+      "напиток",
+      "ананас",
+      "грейпфрут"
+    ],
+    "normalizedTokens": [
+      "газированный",
+      "напиток",
+      "ананас",
+      "грейпфрут",
+      "0.33 л"
+    ],
+    "params": {
+      "volume": "0.33 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Aji лимонад персик 0.25 л",
+    "cleanTokens": [
+      "лимонад",
+      "персик"
+    ],
+    "normalizedTokens": [
+      "лимонад",
+      "персик",
+      "0.25 л"
+    ],
+    "params": {
+      "volume": "0.25 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Fanta Ананас 0.355 л",
+    "cleanTokens": [
+      "ананас"
+    ],
+    "normalizedTokens": [
+      "ананас",
+      "0.355 л"
+    ],
+    "params": {
+      "volume": "0.355 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Kinza газированный напиток лимон 0.355 л",
+    "cleanTokens": [
+      "газированный",
+      "напиток",
+      "лимон"
+    ],
+    "normalizedTokens": [
+      "газированный",
+      "напиток",
+      "лимон",
+      "0.355 л"
+    ],
+    "params": {
+      "volume": "0.355 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Kinza газированный напиток гранат 0.32 л",
+    "cleanTokens": [
+      "газированный",
+      "напиток",
+      "гранат"
+    ],
+    "normalizedTokens": [
+      "газированный",
+      "напиток",
+      "гранат",
+      "0.32 л"
+    ],
+    "params": {
+      "volume": "0.32 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Madam Hong газированный напиток маракуйя, личи 0.32 л",
+    "cleanTokens": [
+      "газированный",
+      "напиток",
+      "маракуйя",
+      "личи"
+    ],
+    "normalizedTokens": [
+      "газированный",
+      "напиток",
+      "маракуйя",
+      "личи",
+      "0.32 л"
+    ],
+    "params": {
+      "volume": "0.32 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Warheads газированный напиток яблоко 0.355 л",
+    "cleanTokens": [
+      "газированный",
+      "напиток",
+      "яблоко"
+    ],
+    "normalizedTokens": [
+      "газированный",
+      "напиток",
+      "яблоко",
+      "0.355 л"
+    ],
+    "params": {
+      "volume": "0.355 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Hatakosen Ramune лимонад апельсин 0.2 л",
+    "cleanTokens": [
+      "ramune",
+      "лимонад",
+      "апельсин"
+    ],
+    "normalizedTokens": [
+      "ramune",
+      "лимонад",
+      "апельсин",
+      "0.2 л"
+    ],
+    "params": {
+      "volume": "0.2 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Hysope тоник имбирный напиток с острым вкусом 0.2 л",
+    "cleanTokens": [
+      "тоник",
+      "имбирный",
+      "напиток",
+      "с",
+      "острым",
+      "вкусом"
+    ],
+    "normalizedTokens": [
+      "тоник",
+      "имбирный",
+      "напиток",
+      "с",
+      "острым",
+      "вкусом",
+      "0.2 л"
+    ],
+    "params": {
+      "volume": "0.2 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Coca-Cola Напиток Orange Cream (0,355л.) США",
+    "cleanTokens": [
+      "напиток",
+      "orange",
+      "cream",
+      "0",
+      "355л.",
+      "сша"
+    ],
+    "normalizedTokens": [
+      "напиток",
+      "orange",
+      "cream",
+      "0",
+      "355л.",
+      "сша"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Hatakosen газированный напиток сакура 0.2 л",
+    "cleanTokens": [
+      "газированный",
+      "напиток",
+      "сакура"
+    ],
+    "normalizedTokens": [
+      "газированный",
+      "напиток",
+      "сакура",
+      "0.2 л"
+    ],
+    "params": {
+      "volume": "0.2 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Fanta газированный напиток дыня 0.25 л",
+    "cleanTokens": [
+      "газированный",
+      "напиток",
+      "дыня"
+    ],
+    "normalizedTokens": [
+      "газированный",
+      "напиток",
+      "дыня",
+      "0.25 л"
+    ],
+    "params": {
+      "volume": "0.25 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Candy Can газированный напиток яблоко 0.33 л",
+    "cleanTokens": [
+      "газированный",
+      "напиток",
+      "яблоко"
+    ],
+    "normalizedTokens": [
+      "газированный",
+      "напиток",
+      "яблоко",
+      "0.33 л"
+    ],
+    "params": {
+      "volume": "0.33 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Hatakosen Ramune лимонад цитрус 0.2 л",
+    "cleanTokens": [
+      "ramune",
+      "лимонад",
+      "цитрус"
+    ],
+    "normalizedTokens": [
+      "ramune",
+      "лимонад",
+      "цитрус",
+      "0.2 л"
+    ],
+    "params": {
+      "volume": "0.2 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Hatakosen Ramune лимонад ананас 0.2 л",
+    "cleanTokens": [
+      "ramune",
+      "лимонад",
+      "ананас"
+    ],
+    "normalizedTokens": [
+      "ramune",
+      "лимонад",
+      "ананас",
+      "0.2 л"
+    ],
+    "params": {
+      "volume": "0.2 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Warheads газированный напиток персик 0.355 л",
+    "cleanTokens": [
+      "газированный",
+      "напиток",
+      "персик"
+    ],
+    "normalizedTokens": [
+      "газированный",
+      "напиток",
+      "персик",
+      "0.355 л"
+    ],
+    "params": {
+      "volume": "0.355 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Вкус Года Лимонад Киви 0.6 л",
+    "cleanTokens": [
+      "лимонад",
+      "киви"
+    ],
+    "normalizedTokens": [
+      "лимонад",
+      "киви",
+      "0.6 л"
+    ],
+    "params": {
+      "volume": "0.6 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Вкус Года Лимонад Тархун 600 мл",
+    "cleanTokens": [
+      "лимонад",
+      "тархун"
+    ],
+    "normalizedTokens": [
+      "лимонад",
+      "тархун",
+      "600 мл"
+    ],
+    "params": {
+      "volume": "600 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  }
+]

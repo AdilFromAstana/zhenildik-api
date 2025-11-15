@@ -1,0 +1,8001 @@
+[
+  {
+    "original": "Печенье Яшкино Jaffa Cake клубника 137 г",
+    "cleanTokens": [
+      "jaffa",
+      "cake",
+      "клубника"
+    ],
+    "normalizedTokens": [
+      "jaffa",
+      "cake",
+      "клубника",
+      "137 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "137 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Печенье A-Product чайное 350 г",
+    "cleanTokens": [
+      "чайное"
+    ],
+    "normalizedTokens": [
+      "чайное",
+      "350 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "350 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Печенье Milka Choco Cow шоколадное 200 г",
+    "cleanTokens": [
+      "choco",
+      "cow",
+      "шоколадное"
+    ],
+    "normalizedTokens": [
+      "choco",
+      "cow",
+      "шоколадное",
+      "200 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "200 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Печенье A-Product крекер рыбка 300 г",
+    "cleanTokens": [
+      "крекер",
+      "рыбка"
+    ],
+    "normalizedTokens": [
+      "крекер",
+      "рыбка",
+      "300 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "300 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Печенье ORION Choco Pie Original 360 г",
+    "cleanTokens": [
+      "choco",
+      "pie",
+      "original"
+    ],
+    "normalizedTokens": [
+      "choco",
+      "pie",
+      "original",
+      "360 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "360 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Печенье Яшкино Американское 200 г",
+    "cleanTokens": [
+      "американское"
+    ],
+    "normalizedTokens": [
+      "американское",
+      "200 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "200 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Печенье Konti День и ночь",
+    "cleanTokens": [
+      "день",
+      "ночь"
+    ],
+    "normalizedTokens": [
+      "день",
+      "ночь"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Печенье Albeni Bites в молочном шоколаде с карамелью 72 г",
+    "cleanTokens": [
+      "bites",
+      "в",
+      "молочном",
+      "шоколаде",
+      "с",
+      "карамелью"
+    ],
+    "normalizedTokens": [
+      "bites",
+      "в",
+      "молочном",
+      "шоколаде",
+      "с",
+      "карамелью",
+      "72 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "72 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Печенье Tuc cо вкусом сыра 110 г",
+    "cleanTokens": [
+      "tuc",
+      "cо",
+      "вкусом",
+      "сыра"
+    ],
+    "normalizedTokens": [
+      "tuc",
+      "cо",
+      "вкусом",
+      "сыра",
+      "110 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "110 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Печенье Oreo с какао и клубничной начинкой 228 г",
+    "cleanTokens": [
+      "с",
+      "какао",
+      "клубничной",
+      "начинкой"
+    ],
+    "normalizedTokens": [
+      "с",
+      "какао",
+      "клубничной",
+      "начинкой",
+      "228 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "228 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Печенье Oreo с какао и шоколадной начинкой 228 г",
+    "cleanTokens": [
+      "с",
+      "какао",
+      "шоколадной",
+      "начинкой"
+    ],
+    "normalizedTokens": [
+      "с",
+      "какао",
+      "шоколадной",
+      "начинкой",
+      "228 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "228 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Печенье Nәtige Kurabie с шоколадом 250 г",
+    "cleanTokens": [
+      "kurabie",
+      "с",
+      "шоколадом"
+    ],
+    "normalizedTokens": [
+      "kurabie",
+      "с",
+      "шоколадом",
+      "250 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "250 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Печенье Яшкино Деревенские сливки",
+    "cleanTokens": [
+      "деревенские",
+      "сливки"
+    ],
+    "normalizedTokens": [
+      "деревенские",
+      "сливки"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Печенье Nәtige Kurabie сдобное с шоколадом 500 г",
+    "cleanTokens": [
+      "kurabie",
+      "сдобное",
+      "с",
+      "шоколадом"
+    ],
+    "normalizedTokens": [
+      "kurabie",
+      "сдобное",
+      "с",
+      "шоколадом",
+      "500 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "500 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Печенье A-Product сердечко",
+    "cleanTokens": [
+      "сердечко"
+    ],
+    "normalizedTokens": [
+      "сердечко"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Печенье Султан Petit Beurre c натуральным молоком 400 г",
+    "cleanTokens": [
+      "petit",
+      "beurre",
+      "c",
+      "натуральным",
+      "молоком"
+    ],
+    "normalizedTokens": [
+      "petit",
+      "beurre",
+      "c",
+      "натуральным",
+      "молоком",
+      "400 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "400 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Печенье Tuc со вкусом сыра 100 г",
+    "cleanTokens": [
+      "tuc",
+      "со",
+      "вкусом",
+      "сыра"
+    ],
+    "normalizedTokens": [
+      "tuc",
+      "со",
+      "вкусом",
+      "сыра",
+      "100 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "100 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Печенье Tuc со вкусом сметаны и лука 100 г",
+    "cleanTokens": [
+      "tuc",
+      "со",
+      "вкусом",
+      "сметаны",
+      "лука"
+    ],
+    "normalizedTokens": [
+      "tuc",
+      "со",
+      "вкусом",
+      "сметаны",
+      "лука",
+      "100 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "100 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Печенье Pechenka овсяно-медовое",
+    "cleanTokens": [
+      "овсяно-медовое"
+    ],
+    "normalizedTokens": [
+      "овсяно-медовое"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Печенье McVities Digestives в молочном шоколаде 198 г",
+    "cleanTokens": [
+      "digestives",
+      "в",
+      "молочном",
+      "шоколаде"
+    ],
+    "normalizedTokens": [
+      "digestives",
+      "в",
+      "молочном",
+      "шоколаде",
+      "198 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "198 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Печенье ORION Choco Pie Original 120 г",
+    "cleanTokens": [
+      "choco",
+      "pie",
+      "original"
+    ],
+    "normalizedTokens": [
+      "choco",
+      "pie",
+      "original",
+      "120 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "120 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Печенье Ulker Biskrem с какао-кремом 180 г",
+    "cleanTokens": [
+      "biskrem",
+      "с",
+      "какао-кремом"
+    ],
+    "normalizedTokens": [
+      "biskrem",
+      "с",
+      "какао-кремом",
+      "180 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "180 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Баян Сулу Лимонное",
+    "cleanTokens": [
+      "лимонное"
+    ],
+    "normalizedTokens": [
+      "лимонное"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Печенье БКК Овсяное 500 г",
+    "cleanTokens": [
+      "овсяное"
+    ],
+    "normalizedTokens": [
+      "овсяное",
+      "500 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "500 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Печенье Яшкино Jaffa Cake апельсин 137 г",
+    "cleanTokens": [
+      "jaffa",
+      "cake",
+      "апельсин"
+    ],
+    "normalizedTokens": [
+      "jaffa",
+      "cake",
+      "апельсин",
+      "137 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "137 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Печенье Tuc со вкусом сметаны и лука 110 г",
+    "cleanTokens": [
+      "tuc",
+      "со",
+      "вкусом",
+      "сметаны",
+      "лука"
+    ],
+    "normalizedTokens": [
+      "tuc",
+      "со",
+      "вкусом",
+      "сметаны",
+      "лука",
+      "110 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "110 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Печенье belVita Утреннее с йогуртовой начинкой 253 г",
+    "cleanTokens": [
+      "утреннее",
+      "с",
+      "йогуртовой",
+      "начинкой"
+    ],
+    "normalizedTokens": [
+      "утреннее",
+      "с",
+      "йогуртовой",
+      "начинкой",
+      "253 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "253 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Баян Сулу крокет",
+    "cleanTokens": [
+      "крокет"
+    ],
+    "normalizedTokens": [
+      "крокет"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Печенье Рахат Жетысу",
+    "cleanTokens": [
+      "жетысу"
+    ],
+    "normalizedTokens": [
+      "жетысу"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Печенье Konti Супер-Контик шоколадное 100 г",
+    "cleanTokens": [
+      "супер-контик",
+      "шоколадное"
+    ],
+    "normalizedTokens": [
+      "супер-контик",
+      "шоколадное",
+      "100 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "100 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Печенье Konti Супер-Контик с орехом 100 г",
+    "cleanTokens": [
+      "супер-контик",
+      "с",
+      "орехом"
+    ],
+    "normalizedTokens": [
+      "супер-контик",
+      "с",
+      "орехом",
+      "100 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "100 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Печенье Nәtige Kurabie сливочное 250 г",
+    "cleanTokens": [
+      "kurabie",
+      "сливочное"
+    ],
+    "normalizedTokens": [
+      "kurabie",
+      "сливочное",
+      "250 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "250 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Печенье Султан Вкус с клубничным кремом 80 г",
+    "cleanTokens": [
+      "вкус",
+      "с",
+      "клубничным",
+      "кремом"
+    ],
+    "normalizedTokens": [
+      "вкус",
+      "с",
+      "клубничным",
+      "кремом",
+      "80 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "80 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Печенье Oreo с какао и шоколадной начинкой 95 г",
+    "cleanTokens": [
+      "с",
+      "какао",
+      "шоколадной",
+      "начинкой"
+    ],
+    "normalizedTokens": [
+      "с",
+      "какао",
+      "шоколадной",
+      "начинкой",
+      "95 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "95 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Печенье A-Product Leo 350 г",
+    "cleanTokens": [
+      "leo"
+    ],
+    "normalizedTokens": [
+      "leo",
+      "350 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "350 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Печенье Яшкино Золотая рыбка 350 г",
+    "cleanTokens": [
+      "золотая",
+      "рыбка"
+    ],
+    "normalizedTokens": [
+      "золотая",
+      "рыбка",
+      "350 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "350 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Печенье Султан Сливочный крем",
+    "cleanTokens": [
+      "сливочный",
+      "крем"
+    ],
+    "normalizedTokens": [
+      "сливочный",
+      "крем"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Печенье ORION Choco Pie Original 180 г",
+    "cleanTokens": [
+      "choco",
+      "pie",
+      "original"
+    ],
+    "normalizedTokens": [
+      "choco",
+      "pie",
+      "original",
+      "180 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "180 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Печенье Milka Lila Sticks 112 г",
+    "cleanTokens": [
+      "lila",
+      "sticks"
+    ],
+    "normalizedTokens": [
+      "lila",
+      "sticks",
+      "112 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "112 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Печенье Konti Артемон",
+    "cleanTokens": [
+      "артемон"
+    ],
+    "normalizedTokens": [
+      "артемон"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Печенье McVities Digestives злаковое 198 г",
+    "cleanTokens": [
+      "digestives",
+      "злаковое"
+    ],
+    "normalizedTokens": [
+      "digestives",
+      "злаковое",
+      "198 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "198 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Печенье Яшкино Дженс 180 г",
+    "cleanTokens": [
+      "дженс"
+    ],
+    "normalizedTokens": [
+      "дженс",
+      "180 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "180 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Печенье Yoga bites овсяное с шоколадом 190 г",
+    "cleanTokens": [
+      "овсяное",
+      "с",
+      "шоколадом"
+    ],
+    "normalizedTokens": [
+      "овсяное",
+      "с",
+      "шоколадом",
+      "190 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "190 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Печенье Султан Вкус 80 г",
+    "cleanTokens": [
+      "вкус"
+    ],
+    "normalizedTokens": [
+      "вкус",
+      "80 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "80 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Печенье A-Product Мr. Krex со сметаной и луком 280 г",
+    "cleanTokens": [
+      "мr.",
+      "krex",
+      "со",
+      "сметаной",
+      "луком"
+    ],
+    "normalizedTokens": [
+      "мr.",
+      "krex",
+      "со",
+      "сметаной",
+      "луком",
+      "280 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "280 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Печенье Lotte Pepero в молочном шоколаде с крошками печенья 32 г",
+    "cleanTokens": [
+      "pepero",
+      "в",
+      "молочном",
+      "шоколаде",
+      "с",
+      "крошками",
+      "печенья"
+    ],
+    "normalizedTokens": [
+      "pepero",
+      "в",
+      "молочном",
+      "шоколаде",
+      "с",
+      "крошками",
+      "печенья",
+      "32 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "32 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Печенье A-Product Мария с кремом",
+    "cleanTokens": [
+      "мария",
+      "с",
+      "кремом"
+    ],
+    "normalizedTokens": [
+      "мария",
+      "с",
+      "кремом"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Рахат Арман печенье сахарное",
+    "cleanTokens": [
+      "арман",
+      "сахарное"
+    ],
+    "normalizedTokens": [
+      "арман",
+      "сахарное"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Печенье A-Product Ребятам о зверятах 300 г",
+    "cleanTokens": [
+      "ребятам",
+      "о",
+      "зверятах"
+    ],
+    "normalizedTokens": [
+      "ребятам",
+      "о",
+      "зверятах",
+      "300 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "300 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Печенье Nәtige Kurabie сдобное сливочное 500 г",
+    "cleanTokens": [
+      "kurabie",
+      "сдобное",
+      "сливочное"
+    ],
+    "normalizedTokens": [
+      "kurabie",
+      "сдобное",
+      "сливочное",
+      "500 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "500 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Печенье Konti сахарное",
+    "cleanTokens": [
+      "сахарное"
+    ],
+    "normalizedTokens": [
+      "сахарное"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Печенье Султан Вкус 80 г",
+    "cleanTokens": [
+      "вкус"
+    ],
+    "normalizedTokens": [
+      "вкус",
+      "80 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "80 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Печенье Konti Супер-Контик со сгущенным молоком 100 г",
+    "cleanTokens": [
+      "супер-контик",
+      "со",
+      "сгущенным",
+      "молоком"
+    ],
+    "normalizedTokens": [
+      "супер-контик",
+      "со",
+      "сгущенным",
+      "молоком",
+      "100 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "100 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Печенье Yoga bites овсяное мультизлаковое 190 г",
+    "cleanTokens": [
+      "овсяное",
+      "мультизлаковое"
+    ],
+    "normalizedTokens": [
+      "овсяное",
+      "мультизлаковое",
+      "190 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "190 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Печенье Albeni в молочном шоколаде с карамелью 320 г",
+    "cleanTokens": [
+      "в",
+      "молочном",
+      "шоколаде",
+      "с",
+      "карамелью"
+    ],
+    "normalizedTokens": [
+      "в",
+      "молочном",
+      "шоколаде",
+      "с",
+      "карамелью",
+      "320 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "320 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Печенье A-Product Asia с кунжутом",
+    "cleanTokens": [
+      "asia",
+      "с",
+      "кунжутом"
+    ],
+    "normalizedTokens": [
+      "asia",
+      "с",
+      "кунжутом"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Печенье Albeni в молочном шоколаде с карамельной начинкой 170 г",
+    "cleanTokens": [
+      "в",
+      "молочном",
+      "шоколаде",
+      "с",
+      "карамельной",
+      "начинкой"
+    ],
+    "normalizedTokens": [
+      "в",
+      "молочном",
+      "шоколаде",
+      "с",
+      "карамельной",
+      "начинкой",
+      "170 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "170 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Печенье A-Product соломка с солью 350 г",
+    "cleanTokens": [
+      "соломка",
+      "с",
+      "солью"
+    ],
+    "normalizedTokens": [
+      "соломка",
+      "с",
+      "солью",
+      "350 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "350 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Печенье Ulker Biskrem с какао-кремом 100 г",
+    "cleanTokens": [
+      "biskrem",
+      "с",
+      "какао-кремом"
+    ],
+    "normalizedTokens": [
+      "biskrem",
+      "с",
+      "какао-кремом",
+      "100 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "100 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Печенье Nәtige Kurabie со сладким кунжутом 500 г",
+    "cleanTokens": [
+      "kurabie",
+      "со",
+      "сладким",
+      "кунжутом"
+    ],
+    "normalizedTokens": [
+      "kurabie",
+      "со",
+      "сладким",
+      "кунжутом",
+      "500 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "500 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Печенье Milka Sensations Choco Inside с шоколадной начинкой 156 г",
+    "cleanTokens": [
+      "sensations",
+      "choco",
+      "inside",
+      "с",
+      "шоколадной",
+      "начинкой"
+    ],
+    "normalizedTokens": [
+      "sensations",
+      "choco",
+      "inside",
+      "с",
+      "шоколадной",
+      "начинкой",
+      "156 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "156 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Печенье A-Product рыбки",
+    "cleanTokens": [
+      "рыбки"
+    ],
+    "normalizedTokens": [
+      "рыбки"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Печенье Султан Вкус 80 г",
+    "cleanTokens": [
+      "вкус"
+    ],
+    "normalizedTokens": [
+      "вкус",
+      "80 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "80 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Печенье Pechenka песочное",
+    "cleanTokens": [
+      "песочное"
+    ],
+    "normalizedTokens": [
+      "песочное"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Печенье Султан Какао",
+    "cleanTokens": [
+      "какао"
+    ],
+    "normalizedTokens": [
+      "какао"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Печенье Lotte Chocolate Pie 336 г",
+    "cleanTokens": [
+      "chocolate",
+      "pie"
+    ],
+    "normalizedTokens": [
+      "chocolate",
+      "pie",
+      "336 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "336 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Печенье Lotte Chocolate Pie сacao 336 г",
+    "cleanTokens": [
+      "chocolate",
+      "pie",
+      "сacao"
+    ],
+    "normalizedTokens": [
+      "chocolate",
+      "pie",
+      "сacao",
+      "336 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "336 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Печенье Султан отрубное 550 г",
+    "cleanTokens": [
+      "отрубное"
+    ],
+    "normalizedTokens": [
+      "отрубное",
+      "550 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "550 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Печенье Pechenka кокосовое",
+    "cleanTokens": [
+      "кокосовое"
+    ],
+    "normalizedTokens": [
+      "кокосовое"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Печенье Mulino Bianco Tarallucci из свежих яиц 350 г",
+    "cleanTokens": [
+      "tarallucci",
+      "из",
+      "свежих",
+      "яиц"
+    ],
+    "normalizedTokens": [
+      "tarallucci",
+      "из",
+      "свежих",
+      "яиц",
+      "350 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "350 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Печенье McVities Digestive в молочном шоколаде 33.3 г",
+    "cleanTokens": [
+      "digestive",
+      "в",
+      "молочном",
+      "шоколаде"
+    ],
+    "normalizedTokens": [
+      "digestive",
+      "в",
+      "молочном",
+      "шоколаде",
+      "33.3 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "33.3 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Печенье Lotte Chocolate Pie 168 г",
+    "cleanTokens": [
+      "chocolate",
+      "pie"
+    ],
+    "normalizedTokens": [
+      "chocolate",
+      "pie",
+      "168 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "168 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Печенье Yoga bites овсяное кокосовое 190 г",
+    "cleanTokens": [
+      "овсяное",
+      "кокосовое"
+    ],
+    "normalizedTokens": [
+      "овсяное",
+      "кокосовое",
+      "190 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "190 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Печенье MOKKA Gourmet шоколад 45 г",
+    "cleanTokens": [
+      "шоколад"
+    ],
+    "normalizedTokens": [
+      "шоколад",
+      "45 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "45 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Печенье Lotte Chocolate Pie сacao 168 г",
+    "cleanTokens": [
+      "chocolate",
+      "pie",
+      "сacao"
+    ],
+    "normalizedTokens": [
+      "chocolate",
+      "pie",
+      "сacao",
+      "168 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "168 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Печенье Nәtige Kurabie восточное лимонное 190 г",
+    "cleanTokens": [
+      "kurabie",
+      "восточное",
+      "лимонное"
+    ],
+    "normalizedTokens": [
+      "kurabie",
+      "восточное",
+      "лимонное",
+      "190 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "190 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Печенье Ulker Halley 336 г",
+    "cleanTokens": [
+      "halley"
+    ],
+    "normalizedTokens": [
+      "halley",
+      "336 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "336 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Печенье Ulker Halley 224 г",
+    "cleanTokens": [
+      "halley"
+    ],
+    "normalizedTokens": [
+      "halley",
+      "224 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "224 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Печенье ORION Choco Pie со вкусом малины 360 г",
+    "cleanTokens": [
+      "choco",
+      "pie",
+      "со",
+      "вкусом",
+      "малины"
+    ],
+    "normalizedTokens": [
+      "choco",
+      "pie",
+      "со",
+      "вкусом",
+      "малины",
+      "360 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "360 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Печенье A-Product Leo молочный крем",
+    "cleanTokens": [
+      "leo",
+      "молочный",
+      "крем"
+    ],
+    "normalizedTokens": [
+      "leo",
+      "молочный",
+      "крем"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Печенье A-Product Смайлики",
+    "cleanTokens": [
+      "смайлики"
+    ],
+    "normalizedTokens": [
+      "смайлики"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Печенье Lotte Chocolate Pie Banana 168 г",
+    "cleanTokens": [
+      "chocolate",
+      "pie",
+      "banana"
+    ],
+    "normalizedTokens": [
+      "chocolate",
+      "pie",
+      "banana",
+      "168 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "168 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Печенье Ulker Halley 280 г",
+    "cleanTokens": [
+      "halley"
+    ],
+    "normalizedTokens": [
+      "halley",
+      "280 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "280 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Печенье Mulino Bianco Galletti 350 г",
+    "cleanTokens": [
+      "galletti"
+    ],
+    "normalizedTokens": [
+      "galletti",
+      "350 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "350 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Печенье Ulker Halley 28 г",
+    "cleanTokens": [
+      "halley"
+    ],
+    "normalizedTokens": [
+      "halley",
+      "28 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "28 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Печенье Lotte Chocolate Pie Banana 336 г",
+    "cleanTokens": [
+      "chocolate",
+      "pie",
+      "banana"
+    ],
+    "normalizedTokens": [
+      "chocolate",
+      "pie",
+      "banana",
+      "336 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "336 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Печенье Султан отрубное c корицей 550 г",
+    "cleanTokens": [
+      "отрубное",
+      "c",
+      "корицей"
+    ],
+    "normalizedTokens": [
+      "отрубное",
+      "c",
+      "корицей",
+      "550 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "550 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Печенье A-Product Мария 350 г",
+    "cleanTokens": [
+      "мария"
+    ],
+    "normalizedTokens": [
+      "мария",
+      "350 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "350 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Печенье Nәtige Kurabie лимонное 500 г",
+    "cleanTokens": [
+      "kurabie",
+      "лимонное"
+    ],
+    "normalizedTokens": [
+      "kurabie",
+      "лимонное",
+      "500 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "500 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Печенье Султан Choco Pir с кокосовой зефирной прослойкой 240 г",
+    "cleanTokens": [
+      "choco",
+      "pir",
+      "с",
+      "кокосовой",
+      "зефирной",
+      "прослойкой"
+    ],
+    "normalizedTokens": [
+      "choco",
+      "pir",
+      "с",
+      "кокосовой",
+      "зефирной",
+      "прослойкой",
+      "240 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "240 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Печенье ORION Choco Pie вишня 12 шт по 30 г",
+    "cleanTokens": [
+      "choco",
+      "pie",
+      "вишня",
+      "по"
+    ],
+    "normalizedTokens": [
+      "choco",
+      "pie",
+      "вишня",
+      "12 шт",
+      "по",
+      "30 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "30 г",
+      "count": "12 шт",
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Печенье A-Product Азия с кунжутом 200 г",
+    "cleanTokens": [
+      "азия",
+      "с",
+      "кунжутом"
+    ],
+    "normalizedTokens": [
+      "азия",
+      "с",
+      "кунжутом",
+      "200 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "200 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Печенье Султан Choco Pir с кокосовой зефирной прослойкой 210 г",
+    "cleanTokens": [
+      "choco",
+      "pir",
+      "с",
+      "кокосовой",
+      "зефирной",
+      "прослойкой"
+    ],
+    "normalizedTokens": [
+      "choco",
+      "pir",
+      "с",
+      "кокосовой",
+      "зефирной",
+      "прослойкой",
+      "210 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "210 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Печенье Mulino Bianco Abbracci 350 г",
+    "cleanTokens": [
+      "abbracci"
+    ],
+    "normalizedTokens": [
+      "abbracci",
+      "350 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "350 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Печенье ORION Choco Pie с зефирной прослойкой манго 12 шт по 30 г",
+    "cleanTokens": [
+      "choco",
+      "pie",
+      "с",
+      "зефирной",
+      "прослойкой",
+      "манго",
+      "по"
+    ],
+    "normalizedTokens": [
+      "choco",
+      "pie",
+      "с",
+      "зефирной",
+      "прослойкой",
+      "манго",
+      "12 шт",
+      "по",
+      "30 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "30 г",
+      "count": "12 шт",
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Печенье A-Product Бенье с шоколадной крошкой",
+    "cleanTokens": [
+      "бенье",
+      "с",
+      "шоколадной",
+      "крошкой"
+    ],
+    "normalizedTokens": [
+      "бенье",
+      "с",
+      "шоколадной",
+      "крошкой"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Печенье Рахат Bakery с кусочками арахиса 155 г",
+    "cleanTokens": [
+      "bakery",
+      "с",
+      "кусочками",
+      "арахиса"
+    ],
+    "normalizedTokens": [
+      "bakery",
+      "с",
+      "кусочками",
+      "арахиса",
+      "155 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "155 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Печенье A-Product Мария",
+    "cleanTokens": [
+      "мария"
+    ],
+    "normalizedTokens": [
+      "мария"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Печенье Bite крекеры с кокосом и семенами чиа без сахара 125 г",
+    "cleanTokens": [
+      "bite",
+      "с",
+      "кокосом",
+      "семенами",
+      "чиа",
+      "без",
+      "сахара"
+    ],
+    "normalizedTokens": [
+      "bite",
+      "с",
+      "кокосом",
+      "семенами",
+      "чиа",
+      "без",
+      "сахара",
+      "125 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "125 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Печенье A-Product Мария с кремом 360 г",
+    "cleanTokens": [
+      "мария",
+      "с",
+      "кремом"
+    ],
+    "normalizedTokens": [
+      "мария",
+      "с",
+      "кремом",
+      "360 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "360 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Печенье Mulino Bianco Baiocchi с какао-ореховым кремом 260 г",
+    "cleanTokens": [
+      "baiocchi",
+      "с",
+      "какао-ореховым",
+      "кремом"
+    ],
+    "normalizedTokens": [
+      "baiocchi",
+      "с",
+      "какао-ореховым",
+      "кремом",
+      "260 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "260 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Печенье Nәtige карамельное 500 г",
+    "cleanTokens": [
+      "карамельное"
+    ],
+    "normalizedTokens": [
+      "карамельное",
+      "500 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "500 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Печенье Nәtige Kurabie сдобное с сыром 500 г",
+    "cleanTokens": [
+      "kurabie",
+      "сдобное",
+      "с",
+      "сыром"
+    ],
+    "normalizedTokens": [
+      "kurabie",
+      "сдобное",
+      "с",
+      "сыром",
+      "500 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "500 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Печенье MOKKA Gourmet шоколад 150 г",
+    "cleanTokens": [
+      "шоколад"
+    ],
+    "normalizedTokens": [
+      "шоколад",
+      "150 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "150 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Печенье Nәtige карамельное 190 г",
+    "cleanTokens": [
+      "карамельное"
+    ],
+    "normalizedTokens": [
+      "карамельное",
+      "190 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "190 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Печенье Султан со вкусом карамели 360 г",
+    "cleanTokens": [
+      "со",
+      "вкусом",
+      "карамели"
+    ],
+    "normalizedTokens": [
+      "со",
+      "вкусом",
+      "карамели",
+      "360 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "360 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Печенье A-Product Бенье с шоколадной крошкой 360 г",
+    "cleanTokens": [
+      "бенье",
+      "с",
+      "шоколадной",
+      "крошкой"
+    ],
+    "normalizedTokens": [
+      "бенье",
+      "с",
+      "шоколадной",
+      "крошкой",
+      "360 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "360 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Печенье Pechenka Американер",
+    "cleanTokens": [
+      "американер"
+    ],
+    "normalizedTokens": [
+      "американер"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Печенье Султан Choco Pir с кокосовой зефирной прослойкой 360 г",
+    "cleanTokens": [
+      "choco",
+      "pir",
+      "с",
+      "кокосовой",
+      "зефирной",
+      "прослойкой"
+    ],
+    "normalizedTokens": [
+      "choco",
+      "pir",
+      "с",
+      "кокосовой",
+      "зефирной",
+      "прослойкой",
+      "360 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "360 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Печенье ORION Choco Pie Dark 360 г",
+    "cleanTokens": [
+      "choco",
+      "pie",
+      "dark"
+    ],
+    "normalizedTokens": [
+      "choco",
+      "pie",
+      "dark",
+      "360 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "360 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Печенье Ongshil медовое 90 г",
+    "cleanTokens": [
+      "медовое"
+    ],
+    "normalizedTokens": [
+      "медовое",
+      "90 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "90 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Печенье MOKKA Gourmet овсяное мультизлаковое 45 г",
+    "cleanTokens": [
+      "овсяное",
+      "мультизлаковое"
+    ],
+    "normalizedTokens": [
+      "овсяное",
+      "мультизлаковое",
+      "45 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "45 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Печенье ORION Fresh Pie клубнично-малиновый 300 г",
+    "cleanTokens": [
+      "fresh",
+      "pie",
+      "клубнично-малиновый"
+    ],
+    "normalizedTokens": [
+      "fresh",
+      "pie",
+      "клубнично-малиновый",
+      "300 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "300 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Печенье No Brand с сырной прослойкой 190 г",
+    "cleanTokens": [
+      "с",
+      "сырной",
+      "прослойкой"
+    ],
+    "normalizedTokens": [
+      "с",
+      "сырной",
+      "прослойкой",
+      "190 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "190 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Печенье Bite сливочное безглютеновое Мария 100 г",
+    "cleanTokens": [
+      "bite",
+      "сливочное",
+      "безглютеновое",
+      "мария"
+    ],
+    "normalizedTokens": [
+      "bite",
+      "сливочное",
+      "безглютеновое",
+      "мария",
+      "100 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "100 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Печенье Той Дәмі нежность 500 г",
+    "cleanTokens": [
+      "нежность"
+    ],
+    "normalizedTokens": [
+      "нежность",
+      "500 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "500 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Печенье Той Дәмі Крости 500 г",
+    "cleanTokens": [
+      "крости"
+    ],
+    "normalizedTokens": [
+      "крости",
+      "500 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "500 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Печенье ORION Choco Pie клубника 360 г",
+    "cleanTokens": [
+      "choco",
+      "pie",
+      "клубника"
+    ],
+    "normalizedTokens": [
+      "choco",
+      "pie",
+      "клубника",
+      "360 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "360 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Печенье Яшкино Choco Pie 180 г",
+    "cleanTokens": [
+      "choco",
+      "pie"
+    ],
+    "normalizedTokens": [
+      "choco",
+      "pie",
+      "180 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "180 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Печенье Яшкино Курабье с вишневой начинкой 180 г",
+    "cleanTokens": [
+      "курабье",
+      "с",
+      "вишневой",
+      "начинкой"
+    ],
+    "normalizedTokens": [
+      "курабье",
+      "с",
+      "вишневой",
+      "начинкой",
+      "180 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "180 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Печенье Яшкино Золотая рыбка 180 г",
+    "cleanTokens": [
+      "золотая",
+      "рыбка"
+    ],
+    "normalizedTokens": [
+      "золотая",
+      "рыбка",
+      "180 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "180 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Печенье Leibniz Cocoa Biscuits сливочное с какао 200 г",
+    "cleanTokens": [
+      "cocoa",
+      "biscuits",
+      "сливочное",
+      "с",
+      "какао"
+    ],
+    "normalizedTokens": [
+      "cocoa",
+      "biscuits",
+      "сливочное",
+      "с",
+      "какао",
+      "200 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "200 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Печенье Tondi Choco Pie со сливочным кремом 180 г",
+    "cleanTokens": [
+      "choco",
+      "pie",
+      "со",
+      "сливочным",
+      "кремом"
+    ],
+    "normalizedTokens": [
+      "choco",
+      "pie",
+      "со",
+      "сливочным",
+      "кремом",
+      "180 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "180 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Печенье Tuc со вкусом паприки 100 г",
+    "cleanTokens": [
+      "tuc",
+      "со",
+      "вкусом",
+      "паприки"
+    ],
+    "normalizedTokens": [
+      "tuc",
+      "со",
+      "вкусом",
+      "паприки",
+      "100 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "100 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Печенье Milka Sensations Soft Inside Choco с кусочками шоколада 156 г",
+    "cleanTokens": [
+      "sensations",
+      "soft",
+      "inside",
+      "choco",
+      "с",
+      "кусочками",
+      "шоколада"
+    ],
+    "normalizedTokens": [
+      "sensations",
+      "soft",
+      "inside",
+      "choco",
+      "с",
+      "кусочками",
+      "шоколада",
+      "156 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "156 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Печенье Яшкино Классический крекер 180 г",
+    "cleanTokens": [
+      "классический",
+      "крекер"
+    ],
+    "normalizedTokens": [
+      "классический",
+      "крекер",
+      "180 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "180 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Печенье Яшкино с клубничным кремом 190 г",
+    "cleanTokens": [
+      "с",
+      "клубничным",
+      "кремом"
+    ],
+    "normalizedTokens": [
+      "с",
+      "клубничным",
+      "кремом",
+      "190 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "190 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мини-крекеры Яшкино со вкусом грибов со сметаной 180 г",
+    "cleanTokens": [
+      "мини-крекеры",
+      "со",
+      "вкусом",
+      "грибов",
+      "со",
+      "сметаной"
+    ],
+    "normalizedTokens": [
+      "мини-крекеры",
+      "со",
+      "вкусом",
+      "грибов",
+      "со",
+      "сметаной",
+      "180 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "180 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Печенье Bite крекеры со вкусом ванили и семенами чиа 125 г",
+    "cleanTokens": [
+      "bite",
+      "со",
+      "вкусом",
+      "ванили",
+      "семенами",
+      "чиа"
+    ],
+    "normalizedTokens": [
+      "bite",
+      "со",
+      "вкусом",
+      "ванили",
+      "семенами",
+      "чиа",
+      "125 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "125 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Печенье Яшкино крекер мини картофельный с зеленью 180 г",
+    "cleanTokens": [
+      "крекер",
+      "мини",
+      "картофельный",
+      "с",
+      "зеленью"
+    ],
+    "normalizedTokens": [
+      "крекер",
+      "мини",
+      "картофельный",
+      "с",
+      "зеленью",
+      "180 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "180 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Печенье Яшкино Классический крекер 350 г",
+    "cleanTokens": [
+      "классический",
+      "крекер"
+    ],
+    "normalizedTokens": [
+      "классический",
+      "крекер",
+      "350 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "350 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Печенье Яшкино Молочное 250 г",
+    "cleanTokens": [
+      "молочное"
+    ],
+    "normalizedTokens": [
+      "молочное",
+      "250 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "250 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Печенье I Dolci di Montagna савоярди сахарное 400 г",
+    "cleanTokens": [
+      "савоярди",
+      "сахарное"
+    ],
+    "normalizedTokens": [
+      "савоярди",
+      "сахарное",
+      "400 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "400 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Печенье Яшкино чайное со вкусом топленого молока 350 г",
+    "cleanTokens": [
+      "чайное",
+      "со",
+      "вкусом",
+      "топленого",
+      "молока"
+    ],
+    "normalizedTokens": [
+      "чайное",
+      "со",
+      "вкусом",
+      "топленого",
+      "молока",
+      "350 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "350 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Печенье Яшкино сдобное лимонное 300 г",
+    "cleanTokens": [
+      "сдобное",
+      "лимонное"
+    ],
+    "normalizedTokens": [
+      "сдобное",
+      "лимонное",
+      "300 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "300 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Печенье Султан Choco Pir с кокосовой зефирной прослойкой 360 г",
+    "cleanTokens": [
+      "choco",
+      "pir",
+      "с",
+      "кокосовой",
+      "зефирной",
+      "прослойкой"
+    ],
+    "normalizedTokens": [
+      "choco",
+      "pir",
+      "с",
+      "кокосовой",
+      "зефирной",
+      "прослойкой",
+      "360 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "360 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Печенье Яшкино крекер с сыром 135 г",
+    "cleanTokens": [
+      "крекер",
+      "с",
+      "сыром"
+    ],
+    "normalizedTokens": [
+      "крекер",
+      "с",
+      "сыром",
+      "135 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "135 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Печенье Bitey брокколи 125 г",
+    "cleanTokens": [
+      "брокколи"
+    ],
+    "normalizedTokens": [
+      "брокколи",
+      "125 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "125 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Печенье Milka Choco Minis 150 г",
+    "cleanTokens": [
+      "choco",
+      "minis"
+    ],
+    "normalizedTokens": [
+      "choco",
+      "minis",
+      "150 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "150 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Печенье Tuc со вкусом копченых колбасок 100 г",
+    "cleanTokens": [
+      "tuc",
+      "со",
+      "вкусом",
+      "копченых",
+      "колбасок"
+    ],
+    "normalizedTokens": [
+      "tuc",
+      "со",
+      "вкусом",
+      "копченых",
+      "колбасок",
+      "100 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "100 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Печенье Яшкино Ванильное кольцо 180 г",
+    "cleanTokens": [
+      "ванильное",
+      "кольцо"
+    ],
+    "normalizedTokens": [
+      "ванильное",
+      "кольцо",
+      "180 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "180 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Печенье Lotte Zec Original 100 г",
+    "cleanTokens": [
+      "zec",
+      "original"
+    ],
+    "normalizedTokens": [
+      "zec",
+      "original",
+      "100 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "100 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Печенье Milka Choco Biscuits с шоколадом 150 г",
+    "cleanTokens": [
+      "choco",
+      "biscuits",
+      "с",
+      "шоколадом"
+    ],
+    "normalizedTokens": [
+      "choco",
+      "biscuits",
+      "с",
+      "шоколадом",
+      "150 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "150 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Печенье Яшкино кокосовое 200 г",
+    "cleanTokens": [
+      "кокосовое"
+    ],
+    "normalizedTokens": [
+      "кокосовое",
+      "200 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "200 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Печенье Oreo Mini с клубничным кремом 20.4 г",
+    "cleanTokens": [
+      "mini",
+      "с",
+      "клубничным",
+      "кремом"
+    ],
+    "normalizedTokens": [
+      "mini",
+      "с",
+      "клубничным",
+      "кремом",
+      "20.4 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "20.4 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Печенье Bitey свекла 125 г",
+    "cleanTokens": [
+      "свекла"
+    ],
+    "normalizedTokens": [
+      "свекла",
+      "125 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "125 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Печенье Посиделкино сдобное творожное с апельсиновыми цукатами 250 г",
+    "cleanTokens": [
+      "сдобное",
+      "творожное",
+      "с",
+      "апельсиновыми",
+      "цукатами"
+    ],
+    "normalizedTokens": [
+      "сдобное",
+      "творожное",
+      "с",
+      "апельсиновыми",
+      "цукатами",
+      "250 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "250 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Печенье Bisquini Butter Au Beurre 150 г",
+    "cleanTokens": [
+      "butter",
+      "au",
+      "beurre"
+    ],
+    "normalizedTokens": [
+      "butter",
+      "au",
+      "beurre",
+      "150 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "150 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Печенье Oreo шоколадное корица 80 г",
+    "cleanTokens": [
+      "шоколадное",
+      "корица"
+    ],
+    "normalizedTokens": [
+      "шоколадное",
+      "корица",
+      "80 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "80 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Печенье Bite вишня-шоколад 115 г",
+    "cleanTokens": [
+      "bite",
+      "вишня-шоколад"
+    ],
+    "normalizedTokens": [
+      "bite",
+      "вишня-шоколад",
+      "115 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "115 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Печенье Oreo Mini с шоколадным кремом 20.4 г",
+    "cleanTokens": [
+      "mini",
+      "с",
+      "шоколадным",
+      "кремом"
+    ],
+    "normalizedTokens": [
+      "mini",
+      "с",
+      "шоколадным",
+      "кремом",
+      "20.4 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "20.4 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Печенье Bite банан 125 г",
+    "cleanTokens": [
+      "bite",
+      "банан"
+    ],
+    "normalizedTokens": [
+      "bite",
+      "банан",
+      "125 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "125 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Печенье Bite ваниль-гречишный чай 115 г",
+    "cleanTokens": [
+      "bite",
+      "ваниль-гречишный",
+      "чай"
+    ],
+    "normalizedTokens": [
+      "bite",
+      "ваниль-гречишный",
+      "чай",
+      "115 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "115 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Печенье Oreo Original с какао и начинкой с ванильным вкусом 176 г",
+    "cleanTokens": [
+      "original",
+      "с",
+      "какао",
+      "начинкой",
+      "с",
+      "ванильным",
+      "вкусом"
+    ],
+    "normalizedTokens": [
+      "original",
+      "с",
+      "какао",
+      "начинкой",
+      "с",
+      "ванильным",
+      "вкусом",
+      "176 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "176 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Печенье Pechenka Снежка",
+    "cleanTokens": [
+      "снежка"
+    ],
+    "normalizedTokens": [
+      "снежка"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Печенье Milka Choco Pause 260 г",
+    "cleanTokens": [
+      "choco",
+      "pause"
+    ],
+    "normalizedTokens": [
+      "choco",
+      "pause",
+      "260 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "260 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Печенье Bounty с кокосовой стружкой 132 г",
+    "cleanTokens": [
+      "с",
+      "кокосовой",
+      "стружкой"
+    ],
+    "normalizedTokens": [
+      "с",
+      "кокосовой",
+      "стружкой",
+      "132 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "132 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Печенье Glico Pocky со вкусом зеленого чая 33 г",
+    "cleanTokens": [
+      "со",
+      "вкусом",
+      "зеленого",
+      "чая"
+    ],
+    "normalizedTokens": [
+      "со",
+      "вкусом",
+      "зеленого",
+      "чая",
+      "33 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "33 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Печенье Lotte Pororo Plain с пряностями 65 г",
+    "cleanTokens": [
+      "pororo",
+      "plain",
+      "с",
+      "пряностями"
+    ],
+    "normalizedTokens": [
+      "pororo",
+      "plain",
+      "с",
+      "пряностями",
+      "65 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "65 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Печенье Glico Pocky со вкусом клубники 45 г",
+    "cleanTokens": [
+      "со",
+      "вкусом",
+      "клубники"
+    ],
+    "normalizedTokens": [
+      "со",
+      "вкусом",
+      "клубники",
+      "45 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "45 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Печенье Oreo Choc Milk в молочном шоколаде 246 г",
+    "cleanTokens": [
+      "choc",
+      "milk",
+      "в",
+      "молочном",
+      "шоколаде"
+    ],
+    "normalizedTokens": [
+      "choc",
+      "milk",
+      "в",
+      "молочном",
+      "шоколаде",
+      "246 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "246 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Печенье CW с добавлением имбиря 250 г",
+    "cleanTokens": [
+      "с",
+      "добавлением",
+      "имбиря"
+    ],
+    "normalizedTokens": [
+      "с",
+      "добавлением",
+      "имбиря",
+      "250 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "250 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Печенье CW со сливочным вкусом 60 г",
+    "cleanTokens": [
+      "со",
+      "сливочным",
+      "вкусом"
+    ],
+    "normalizedTokens": [
+      "со",
+      "сливочным",
+      "вкусом",
+      "60 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "60 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Печенье Oreo Choco Brownie со вкусом шоколадного брауни 154 г",
+    "cleanTokens": [
+      "choco",
+      "brownie",
+      "со",
+      "вкусом",
+      "шоколадного",
+      "брауни"
+    ],
+    "normalizedTokens": [
+      "choco",
+      "brownie",
+      "со",
+      "вкусом",
+      "шоколадного",
+      "брауни",
+      "154 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "154 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Печенье Pocky Panda молочный шоколад 35 г",
+    "cleanTokens": [
+      "panda",
+      "молочный",
+      "шоколад"
+    ],
+    "normalizedTokens": [
+      "panda",
+      "молочный",
+      "шоколад",
+      "35 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "35 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Печенье Sima-land С др! с предсказаниями 6 г",
+    "cleanTokens": [
+      "с",
+      "др!",
+      "с",
+      "предсказаниями"
+    ],
+    "normalizedTokens": [
+      "с",
+      "др!",
+      "с",
+      "предсказаниями",
+      "6 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "6 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Печенье Фабрика счастья с предсказанием Любимому папе 6 г",
+    "cleanTokens": [
+      "с",
+      "предсказанием",
+      "любимому",
+      "папе"
+    ],
+    "normalizedTokens": [
+      "с",
+      "предсказанием",
+      "любимому",
+      "папе",
+      "6 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "6 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Печенье CROWN из обжаренного риса Чамсаль нурунджи 216 г",
+    "cleanTokens": [
+      "из",
+      "обжаренного",
+      "риса",
+      "чамсаль",
+      "нурунджи"
+    ],
+    "normalizedTokens": [
+      "из",
+      "обжаренного",
+      "риса",
+      "чамсаль",
+      "нурунджи",
+      "216 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "216 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Печенье Oreo с какао и классической белой кремовой начинкой 100 г",
+    "cleanTokens": [
+      "с",
+      "какао",
+      "классической",
+      "белой",
+      "кремовой",
+      "начинкой"
+    ],
+    "normalizedTokens": [
+      "с",
+      "какао",
+      "классической",
+      "белой",
+      "кремовой",
+      "начинкой",
+      "100 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "100 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Pocky Палочки шоколадные Passion Fruit and Orange 45г",
+    "cleanTokens": [
+      "палочки",
+      "шоколадные",
+      "passion",
+      "fruit",
+      "and",
+      "orange",
+      "45г"
+    ],
+    "normalizedTokens": [
+      "палочки",
+      "шоколадные",
+      "passion",
+      "fruit",
+      "and",
+      "orange",
+      "45г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Печенье Merba с яблоком 225 г",
+    "cleanTokens": [
+      "с",
+      "яблоком"
+    ],
+    "normalizedTokens": [
+      "с",
+      "яблоком",
+      "225 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "225 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Печенье Яшкино со вкусом пломбира 220 г",
+    "cleanTokens": [
+      "со",
+      "вкусом",
+      "пломбира"
+    ],
+    "normalizedTokens": [
+      "со",
+      "вкусом",
+      "пломбира",
+      "220 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "220 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Печенье Jabsons кунжутные подушечки с тростниковым сахаром 200 г",
+    "cleanTokens": [
+      "кунжутные",
+      "подушечки",
+      "с",
+      "тростниковым",
+      "сахаром"
+    ],
+    "normalizedTokens": [
+      "кунжутные",
+      "подушечки",
+      "с",
+      "тростниковым",
+      "сахаром",
+      "200 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "200 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Печенье Reese's Caramel big cup 79 г",
+    "cleanTokens": [
+      "caramel",
+      "big",
+      "cup"
+    ],
+    "normalizedTokens": [
+      "caramel",
+      "big",
+      "cup",
+      "79 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "79 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Печенье Oreo со вкусом ванильного мусса 84 г",
+    "cleanTokens": [
+      "со",
+      "вкусом",
+      "ванильного",
+      "мусса"
+    ],
+    "normalizedTokens": [
+      "со",
+      "вкусом",
+      "ванильного",
+      "мусса",
+      "84 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "84 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Печенье CW с начинкой из клейкого риса 107.5 г",
+    "cleanTokens": [
+      "с",
+      "начинкой",
+      "из",
+      "клейкого",
+      "риса"
+    ],
+    "normalizedTokens": [
+      "с",
+      "начинкой",
+      "из",
+      "клейкого",
+      "риса",
+      "107.5 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "107.5 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Печенье Nina Farina Немецкий бретцель 180 г",
+    "cleanTokens": [
+      "немецкий",
+      "бретцель"
+    ],
+    "normalizedTokens": [
+      "немецкий",
+      "бретцель",
+      "180 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "180 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Печенье Яшкино Английское 300 г",
+    "cleanTokens": [
+      "английское"
+    ],
+    "normalizedTokens": [
+      "английское",
+      "300 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "300 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Печенье Miwang с мягким вкусом Ссалькуаджа 250 г",
+    "cleanTokens": [
+      "с",
+      "мягким",
+      "вкусом",
+      "ссалькуаджа"
+    ],
+    "normalizedTokens": [
+      "с",
+      "мягким",
+      "вкусом",
+      "ссалькуаджа",
+      "250 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "250 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Печенье Яшкино Мини-пай голландский с малиновой начинкой 360 г",
+    "cleanTokens": [
+      "мини-пай",
+      "голландский",
+      "с",
+      "малиновой",
+      "начинкой"
+    ],
+    "normalizedTokens": [
+      "мини-пай",
+      "голландский",
+      "с",
+      "малиновой",
+      "начинкой",
+      "360 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "360 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Печенье Bite Soy Sauce 60 г",
+    "cleanTokens": [
+      "bite",
+      "soy",
+      "sauce"
+    ],
+    "normalizedTokens": [
+      "bite",
+      "soy",
+      "sauce",
+      "60 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "60 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Печенье Яшкино крекер с солью 125 г",
+    "cleanTokens": [
+      "крекер",
+      "с",
+      "солью"
+    ],
+    "normalizedTokens": [
+      "крекер",
+      "с",
+      "солью",
+      "125 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "125 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Печенье Haitai Calorie Balance с сырным вкусом 76 г",
+    "cleanTokens": [
+      "calorie",
+      "balance",
+      "с",
+      "сырным",
+      "вкусом"
+    ],
+    "normalizedTokens": [
+      "calorie",
+      "balance",
+      "с",
+      "сырным",
+      "вкусом",
+      "76 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "76 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Печенье Яшкино Мини-пай голландский с яблочной начинкой 360 г",
+    "cleanTokens": [
+      "мини-пай",
+      "голландский",
+      "с",
+      "яблочной",
+      "начинкой"
+    ],
+    "normalizedTokens": [
+      "мини-пай",
+      "голландский",
+      "с",
+      "яблочной",
+      "начинкой",
+      "360 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "360 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Печенье Яшкино со сливочным кремом 190 г",
+    "cleanTokens": [
+      "со",
+      "сливочным",
+      "кремом"
+    ],
+    "normalizedTokens": [
+      "со",
+      "сливочным",
+      "кремом",
+      "190 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "190 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Печенье Яшкино кунжутное 180 г",
+    "cleanTokens": [
+      "кунжутное"
+    ],
+    "normalizedTokens": [
+      "кунжутное",
+      "180 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "180 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Печенье Oreo шоколадное мята 80 г",
+    "cleanTokens": [
+      "шоколадное",
+      "мята"
+    ],
+    "normalizedTokens": [
+      "шоколадное",
+      "мята",
+      "80 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "80 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Печенье Oreo Mini Original с ванильным кремом 115 г",
+    "cleanTokens": [
+      "mini",
+      "original",
+      "с",
+      "ванильным",
+      "кремом"
+    ],
+    "normalizedTokens": [
+      "mini",
+      "original",
+      "с",
+      "ванильным",
+      "кремом",
+      "115 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "115 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Печенье CROWN Salty Rice 253 г",
+    "cleanTokens": [
+      "salty",
+      "rice"
+    ],
+    "normalizedTokens": [
+      "salty",
+      "rice",
+      "253 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "253 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Печенье Pocky клубника 21 г",
+    "cleanTokens": [
+      "клубника"
+    ],
+    "normalizedTokens": [
+      "клубника",
+      "21 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "21 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Печенье Яшкино с какао и сливочным кремом 220 г",
+    "cleanTokens": [
+      "с",
+      "какао",
+      "сливочным",
+      "кремом"
+    ],
+    "normalizedTokens": [
+      "с",
+      "какао",
+      "сливочным",
+      "кремом",
+      "220 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "220 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Печенье Bisquini Cranberry Canneberge 150 г",
+    "cleanTokens": [
+      "cranberry",
+      "canneberge"
+    ],
+    "normalizedTokens": [
+      "cranberry",
+      "canneberge",
+      "150 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "150 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Печенье Reese's с арахисовой пастой 42 г",
+    "cleanTokens": [
+      "с",
+      "арахисовой",
+      "пастой"
+    ],
+    "normalizedTokens": [
+      "с",
+      "арахисовой",
+      "пастой",
+      "42 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "42 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Печенье Bite Sea Salt 60 г",
+    "cleanTokens": [
+      "bite",
+      "sea",
+      "salt"
+    ],
+    "normalizedTokens": [
+      "bite",
+      "sea",
+      "salt",
+      "60 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "60 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Печенье Kulikov песочное с безе и изюмом 250 г",
+    "cleanTokens": [
+      "песочное",
+      "с",
+      "безе",
+      "изюмом"
+    ],
+    "normalizedTokens": [
+      "песочное",
+      "с",
+      "безе",
+      "изюмом",
+      "250 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "250 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Печенье Bite Protein ваниль 69 г",
+    "cleanTokens": [
+      "bite",
+      "protein",
+      "ваниль"
+    ],
+    "normalizedTokens": [
+      "bite",
+      "protein",
+      "ваниль",
+      "69 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "69 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Печенье Pocky Cookies & Cream палочки шоколадные 20 г",
+    "cleanTokens": [
+      "cookies",
+      "&",
+      "cream",
+      "палочки",
+      "шоколадные"
+    ],
+    "normalizedTokens": [
+      "cookies",
+      "&",
+      "cream",
+      "палочки",
+      "шоколадные",
+      "20 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "20 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Печенье Bite Cheese 60 г",
+    "cleanTokens": [
+      "bite",
+      "cheese"
+    ],
+    "normalizedTokens": [
+      "bite",
+      "cheese",
+      "60 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "60 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Печенье Lotte печенье c шоколадной крошкой без сахара 84 г",
+    "cleanTokens": [
+      "c",
+      "шоколадной",
+      "крошкой",
+      "без",
+      "сахара"
+    ],
+    "normalizedTokens": [
+      "c",
+      "шоколадной",
+      "крошкой",
+      "без",
+      "сахара",
+      "84 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "84 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Печенье Oreo с кремовой начинкой тирамису 84 г",
+    "cleanTokens": [
+      "с",
+      "кремовой",
+      "начинкой",
+      "тирамису"
+    ],
+    "normalizedTokens": [
+      "с",
+      "кремовой",
+      "начинкой",
+      "тирамису",
+      "84 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "84 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Печенье Kulikov песочное с орехом 280 г",
+    "cleanTokens": [
+      "песочное",
+      "с",
+      "орехом"
+    ],
+    "normalizedTokens": [
+      "песочное",
+      "с",
+      "орехом",
+      "280 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "280 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Печенье Bounty с кокосовой стружкой 180 г",
+    "cleanTokens": [
+      "с",
+      "кокосовой",
+      "стружкой"
+    ],
+    "normalizedTokens": [
+      "с",
+      "кокосовой",
+      "стружкой",
+      "180 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "180 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Печенье NUTELLA Бисквитное печенье 304 г",
+    "cleanTokens": [
+      "бисквитное"
+    ],
+    "normalizedTokens": [
+      "бисквитное",
+      "304 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "304 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Печенье ORION Сладкие крекеры с черным кунжутом 100 г",
+    "cleanTokens": [
+      "сладкие",
+      "с",
+      "черным",
+      "кунжутом"
+    ],
+    "normalizedTokens": [
+      "сладкие",
+      "с",
+      "черным",
+      "кунжутом",
+      "100 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "100 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Печенье Binggrae Pororo Cheese 65 г",
+    "cleanTokens": [
+      "pororo",
+      "cheese"
+    ],
+    "normalizedTokens": [
+      "pororo",
+      "cheese",
+      "65 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "65 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Печенье Falcone Cantucci с фисташками и цедрой лимона 180 г",
+    "cleanTokens": [
+      "cantucci",
+      "с",
+      "фисташками",
+      "цедрой",
+      "лимона"
+    ],
+    "normalizedTokens": [
+      "cantucci",
+      "с",
+      "фисташками",
+      "цедрой",
+      "лимона",
+      "180 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "180 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Печенье Oreo с клубничной начинкой 88 г",
+    "cleanTokens": [
+      "с",
+      "клубничной",
+      "начинкой"
+    ],
+    "normalizedTokens": [
+      "с",
+      "клубничной",
+      "начинкой",
+      "88 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "88 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Печенье Oreo Socola-pie с клубникой 6 шт по 30 г",
+    "cleanTokens": [
+      "socola-pie",
+      "с",
+      "клубникой",
+      "по"
+    ],
+    "normalizedTokens": [
+      "socola-pie",
+      "с",
+      "клубникой",
+      "6 шт",
+      "по",
+      "30 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "30 г",
+      "count": "6 шт",
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Печенье Pocky Rabbit клубника 35 г",
+    "cleanTokens": [
+      "rabbit",
+      "клубника"
+    ],
+    "normalizedTokens": [
+      "rabbit",
+      "клубника",
+      "35 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "35 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Печенье Bite Protein фундук 69 г",
+    "cleanTokens": [
+      "bite",
+      "protein",
+      "фундук"
+    ],
+    "normalizedTokens": [
+      "bite",
+      "protein",
+      "фундук",
+      "69 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "69 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Печенье Pocky банановый пудинг 35 г",
+    "cleanTokens": [
+      "банановый",
+      "пудинг"
+    ],
+    "normalizedTokens": [
+      "банановый",
+      "пудинг",
+      "35 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "35 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Печенье Mars Secret Center 132 г",
+    "cleanTokens": [
+      "secret",
+      "center"
+    ],
+    "normalizedTokens": [
+      "secret",
+      "center",
+      "132 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "132 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Печенье CROWN рисовое 115 г",
+    "cleanTokens": [
+      "рисовое"
+    ],
+    "normalizedTokens": [
+      "рисовое",
+      "115 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "115 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Печенье Oreo с какао и клубнично-кремовой начинкой 100 г",
+    "cleanTokens": [
+      "с",
+      "какао",
+      "клубнично-кремовой",
+      "начинкой"
+    ],
+    "normalizedTokens": [
+      "с",
+      "какао",
+      "клубнично-кремовой",
+      "начинкой",
+      "100 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "100 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Печенье Oreo Golden со сливочным кремом 154 г",
+    "cleanTokens": [
+      "golden",
+      "со",
+      "сливочным",
+      "кремом"
+    ],
+    "normalizedTokens": [
+      "golden",
+      "со",
+      "сливочным",
+      "кремом",
+      "154 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "154 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Печенье Lotte шоколадное с кремовой начинкой низкокалорийное 96 г",
+    "cleanTokens": [
+      "шоколадное",
+      "с",
+      "кремовой",
+      "начинкой",
+      "низкокалорийное"
+    ],
+    "normalizedTokens": [
+      "шоколадное",
+      "с",
+      "кремовой",
+      "начинкой",
+      "низкокалорийное",
+      "96 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "96 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Печенье Fundiez бисквитное с ореховой пастой 175 г",
+    "cleanTokens": [
+      "бисквитное",
+      "с",
+      "ореховой",
+      "пастой"
+    ],
+    "normalizedTokens": [
+      "бисквитное",
+      "с",
+      "ореховой",
+      "пастой",
+      "175 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "175 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Печенье Oreo Ice cream со вкусом черничного мороженого 137 г",
+    "cleanTokens": [
+      "ice",
+      "cream",
+      "со",
+      "вкусом",
+      "черничного",
+      "мороженого"
+    ],
+    "normalizedTokens": [
+      "ice",
+      "cream",
+      "со",
+      "вкусом",
+      "черничного",
+      "мороженого",
+      "137 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "137 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Печенье Oreo Double Delight 137 г",
+    "cleanTokens": [
+      "double",
+      "delight"
+    ],
+    "normalizedTokens": [
+      "double",
+      "delight",
+      "137 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "137 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Печенье Milka Sensations Soft Cookies Oreo 156 г",
+    "cleanTokens": [
+      "sensations",
+      "soft",
+      "cookies"
+    ],
+    "normalizedTokens": [
+      "sensations",
+      "soft",
+      "cookies",
+      "156 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "156 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Печенье Фабрика счастья Печенье с предсказаниями на новый год «Чудо случится», 6 г. 6 г",
+    "cleanTokens": [
+      "с",
+      "предсказаниями",
+      "на",
+      "новый",
+      "год",
+      "«чудо",
+      "случится»",
+      "г."
+    ],
+    "normalizedTokens": [
+      "с",
+      "предсказаниями",
+      "на",
+      "новый",
+      "год",
+      "«чудо",
+      "случится»",
+      "6",
+      "г.",
+      "6 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "6 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Печенье Adalai орешки с арахисом 300 г",
+    "cleanTokens": [
+      "орешки",
+      "с",
+      "арахисом"
+    ],
+    "normalizedTokens": [
+      "орешки",
+      "с",
+      "арахисом",
+      "300 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "300 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Печенье Фабрика счастья Очумительного Нового года 6 г",
+    "cleanTokens": [
+      "очумительного",
+      "нового",
+      "года"
+    ],
+    "normalizedTokens": [
+      "очумительного",
+      "нового",
+      "года",
+      "6 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "6 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Печенье Фабрика счастья Печенье с предсказанием 6 г",
+    "cleanTokens": [
+      "с",
+      "предсказанием"
+    ],
+    "normalizedTokens": [
+      "с",
+      "предсказанием",
+      "6 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "6 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Печенье Фабрика счастья С Новым годом! 6 г",
+    "cleanTokens": [
+      "с",
+      "новым",
+      "годом!"
+    ],
+    "normalizedTokens": [
+      "с",
+      "новым",
+      "годом!",
+      "6 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "6 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Печенье Lotte Baked cookie 12 шт по 176 г",
+    "cleanTokens": [
+      "baked",
+      "cookie",
+      "по"
+    ],
+    "normalizedTokens": [
+      "baked",
+      "cookie",
+      "12 шт",
+      "по",
+      "176 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "176 г",
+      "count": "12 шт",
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Печенье Lotte Margaret 176 г",
+    "cleanTokens": [
+      "margaret"
+    ],
+    "normalizedTokens": [
+      "margaret",
+      "176 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "176 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Печенье Lovint палочки шоколадные с кусочками печенья 54 г",
+    "cleanTokens": [
+      "палочки",
+      "шоколадные",
+      "с",
+      "кусочками",
+      "печенья"
+    ],
+    "normalizedTokens": [
+      "палочки",
+      "шоколадные",
+      "с",
+      "кусочками",
+      "печенья",
+      "54 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "54 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Печенье NA! Nature Addicts sweet chili 85 г",
+    "cleanTokens": [
+      "sweet",
+      "chili"
+    ],
+    "normalizedTokens": [
+      "sweet",
+      "chili",
+      "85 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "85 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Печенье Oreo Оriginal 154 г",
+    "cleanTokens": [
+      "оriginal"
+    ],
+    "normalizedTokens": [
+      "оriginal",
+      "154 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "154 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Печенье Корпорация удачи с предсказанием цветной микс 90 г 15 шт",
+    "cleanTokens": [
+      "с",
+      "предсказанием",
+      "цветной",
+      "микс"
+    ],
+    "normalizedTokens": [
+      "с",
+      "предсказанием",
+      "цветной",
+      "микс",
+      "90 г",
+      "15 шт"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "90 г",
+      "count": "15 шт",
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Печенье Фабрика счастья Любимой сестре с предсказанием 6 г",
+    "cleanTokens": [
+      "любимой",
+      "сестре",
+      "с",
+      "предсказанием"
+    ],
+    "normalizedTokens": [
+      "любимой",
+      "сестре",
+      "с",
+      "предсказанием",
+      "6 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "6 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Печенье Фабрика счастья Предсказания от снегурочки 6 г",
+    "cleanTokens": [
+      "предсказания",
+      "от",
+      "снегурочки"
+    ],
+    "normalizedTokens": [
+      "предсказания",
+      "от",
+      "снегурочки",
+      "6 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "6 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Печенье CROWN Salty Rice Biscuit 10 упаковок по 253 г",
+    "cleanTokens": [
+      "salty",
+      "rice",
+      "biscuit",
+      "10",
+      "упаковок",
+      "по"
+    ],
+    "normalizedTokens": [
+      "salty",
+      "rice",
+      "biscuit",
+      "10",
+      "упаковок",
+      "по",
+      "253 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "253 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Печенье Binggrae Pororo Plain Biscuit 20 шт по 65 г",
+    "cleanTokens": [
+      "pororo",
+      "plain",
+      "biscuit",
+      "по"
+    ],
+    "normalizedTokens": [
+      "pororo",
+      "plain",
+      "biscuit",
+      "20 шт",
+      "по",
+      "65 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "65 г",
+      "count": "20 шт",
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Печенье Фабрика счастья Тому, у кого обязательно сбудется 6 г",
+    "cleanTokens": [
+      "тому",
+      "у",
+      "кого",
+      "обязательно",
+      "сбудется"
+    ],
+    "normalizedTokens": [
+      "тому",
+      "у",
+      "кого",
+      "обязательно",
+      "сбудется",
+      "6 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "6 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Печенье Корпорация удачи с предсказанием цветной микс 30 шт 180 г",
+    "cleanTokens": [
+      "с",
+      "предсказанием",
+      "цветной",
+      "микс"
+    ],
+    "normalizedTokens": [
+      "с",
+      "предсказанием",
+      "цветной",
+      "микс",
+      "30 шт",
+      "180 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "180 г",
+      "count": "30 шт",
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Печенье Bateel Assorted Mahmoul Tin Can Slamm 285 г",
+    "cleanTokens": [
+      "assorted",
+      "mahmoul",
+      "tin",
+      "can",
+      "slamm"
+    ],
+    "normalizedTokens": [
+      "assorted",
+      "mahmoul",
+      "tin",
+      "can",
+      "slamm",
+      "285 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "285 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Печенье Lotte Margaret Baked cookie 264 г",
+    "cleanTokens": [
+      "margaret",
+      "baked",
+      "cookie"
+    ],
+    "normalizedTokens": [
+      "margaret",
+      "baked",
+      "cookie",
+      "264 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "264 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Печенье Pocky палочки шоколадные со вкусом черники 38 г",
+    "cleanTokens": [
+      "палочки",
+      "шоколадные",
+      "со",
+      "вкусом",
+      "черники"
+    ],
+    "normalizedTokens": [
+      "палочки",
+      "шоколадные",
+      "со",
+      "вкусом",
+      "черники",
+      "38 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "38 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Печенье Lovint палочки шоколадные 54 г",
+    "cleanTokens": [
+      "палочки",
+      "шоколадные"
+    ],
+    "normalizedTokens": [
+      "палочки",
+      "шоколадные",
+      "54 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "54 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Печенье Корпорация удачи с предсказанием цветной микс 60 г 10 шт",
+    "cleanTokens": [
+      "с",
+      "предсказанием",
+      "цветной",
+      "микс"
+    ],
+    "normalizedTokens": [
+      "с",
+      "предсказанием",
+      "цветной",
+      "микс",
+      "60 г",
+      "10 шт"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "60 г",
+      "count": "10 шт",
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Печенье Pocky Pocky со вкусом шоколада 47 г",
+    "cleanTokens": [
+      "со",
+      "вкусом",
+      "шоколада"
+    ],
+    "normalizedTokens": [
+      "со",
+      "вкусом",
+      "шоколада",
+      "47 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "47 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Печенье Фабрика счастья Новогоднее печенье с предсказанием \"С Новым годом!\", 1 шт 6 г",
+    "cleanTokens": [
+      "новогоднее",
+      "с",
+      "предсказанием",
+      "с",
+      "новым",
+      "годом!"
+    ],
+    "normalizedTokens": [
+      "новогоднее",
+      "с",
+      "предсказанием",
+      "с",
+      "новым",
+      "годом!",
+      "1 шт",
+      "6 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "6 г",
+      "count": "1 шт",
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Печенье Фабрика счастья Новогоднее печенье с предсказанием \"Печенька безудержного веселья\", 1 шт 6 г",
+    "cleanTokens": [
+      "новогоднее",
+      "с",
+      "предсказанием",
+      "печенька",
+      "безудержного",
+      "веселья"
+    ],
+    "normalizedTokens": [
+      "новогоднее",
+      "с",
+      "предсказанием",
+      "печенька",
+      "безудержного",
+      "веселья",
+      "1 шт",
+      "6 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "6 г",
+      "count": "1 шт",
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Печенье Фабрика счастья «Сумочка настоящей леди» 18 г",
+    "cleanTokens": [
+      "«сумочка",
+      "настоящей",
+      "леди»"
+    ],
+    "normalizedTokens": [
+      "«сумочка",
+      "настоящей",
+      "леди»",
+      "18 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "18 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Печенье Lotte Mini Cacao Cake 8 шт по 100 г",
+    "cleanTokens": [
+      "mini",
+      "cacao",
+      "cake",
+      "по"
+    ],
+    "normalizedTokens": [
+      "mini",
+      "cacao",
+      "cake",
+      "8 шт",
+      "по",
+      "100 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "100 г",
+      "count": "8 шт",
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Печенье CW со вкусом сыра 60 г",
+    "cleanTokens": [
+      "со",
+      "вкусом",
+      "сыра"
+    ],
+    "normalizedTokens": [
+      "со",
+      "вкусом",
+      "сыра",
+      "60 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "60 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Печенье Bite клубника-кокос 115 г",
+    "cleanTokens": [
+      "bite",
+      "клубника-кокос"
+    ],
+    "normalizedTokens": [
+      "bite",
+      "клубника-кокос",
+      "115 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "115 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Печенье NA! Nature Addicts cheese 85 г",
+    "cleanTokens": [
+      "cheese"
+    ],
+    "normalizedTokens": [
+      "cheese",
+      "85 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "85 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Печенье Glico Pocky со вкусом манго 25 г",
+    "cleanTokens": [
+      "со",
+      "вкусом",
+      "манго"
+    ],
+    "normalizedTokens": [
+      "со",
+      "вкусом",
+      "манго",
+      "25 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "25 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Печенье Фабрика счастья Безудержного веселья 6 г",
+    "cleanTokens": [
+      "безудержного",
+      "веселья"
+    ],
+    "normalizedTokens": [
+      "безудержного",
+      "веселья",
+      "6 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "6 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Печенье Фабрика счастья С НГ, Змеиного года 6 г",
+    "cleanTokens": [
+      "с",
+      "нг",
+      "змеиного",
+      "года"
+    ],
+    "normalizedTokens": [
+      "с",
+      "нг",
+      "змеиного",
+      "года",
+      "6 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "6 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Печенье Фабрика счастья Новогоднее печенье с предсказанием \"С НГ\", 1 шт 6 г",
+    "cleanTokens": [
+      "новогоднее",
+      "с",
+      "предсказанием",
+      "с",
+      "нг"
+    ],
+    "normalizedTokens": [
+      "новогоднее",
+      "с",
+      "предсказанием",
+      "с",
+      "нг",
+      "1 шт",
+      "6 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "6 г",
+      "count": "1 шт",
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Печенье JOUY&CO Cravingz Spongiez chocolate 40 г",
+    "cleanTokens": [
+      "cravingz",
+      "spongiez",
+      "chocolate"
+    ],
+    "normalizedTokens": [
+      "cravingz",
+      "spongiez",
+      "chocolate",
+      "40 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "40 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Печенье Twix Soft Centres 144 г",
+    "cleanTokens": [
+      "soft",
+      "centres"
+    ],
+    "normalizedTokens": [
+      "soft",
+      "centres",
+      "144 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "144 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Печенье Фабрика счастья Для тех, кто плохо себя вел 6 г",
+    "cleanTokens": [
+      "для",
+      "тех",
+      "кто",
+      "плохо",
+      "себя",
+      "вел"
+    ],
+    "normalizedTokens": [
+      "для",
+      "тех",
+      "кто",
+      "плохо",
+      "себя",
+      "вел",
+      "6 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "6 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Печенье Фабрика счастья печенье с предсказанием 6 г",
+    "cleanTokens": [
+      "с",
+      "предсказанием"
+    ],
+    "normalizedTokens": [
+      "с",
+      "предсказанием",
+      "6 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "6 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Печенье Фабрика счастья Печенье с предсказанием 18 г",
+    "cleanTokens": [
+      "с",
+      "предсказанием"
+    ],
+    "normalizedTokens": [
+      "с",
+      "предсказанием",
+      "18 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "18 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Печенье Фабрика счастья Мой подарок от всего сердца 6 г",
+    "cleanTokens": [
+      "мой",
+      "подарок",
+      "от",
+      "всего",
+      "сердца"
+    ],
+    "normalizedTokens": [
+      "мой",
+      "подарок",
+      "от",
+      "всего",
+      "сердца",
+      "6 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "6 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Печенье Корпорация удачи с предсказанием цветной микс 210 г 35 шт",
+    "cleanTokens": [
+      "с",
+      "предсказанием",
+      "цветной",
+      "микс"
+    ],
+    "normalizedTokens": [
+      "с",
+      "предсказанием",
+      "цветной",
+      "микс",
+      "210 г",
+      "35 шт"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "210 г",
+      "count": "35 шт",
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Печенье Корпорация удачи Нежность с предсказаниями 35 г",
+    "cleanTokens": [
+      "нежность",
+      "с",
+      "предсказаниями"
+    ],
+    "normalizedTokens": [
+      "нежность",
+      "с",
+      "предсказаниями",
+      "35 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "35 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Печенье Фабрика счастья У нас есть герой-папа с предсказаниями 6 г",
+    "cleanTokens": [
+      "у",
+      "нас",
+      "есть",
+      "герой-папа",
+      "с",
+      "предсказаниями"
+    ],
+    "normalizedTokens": [
+      "у",
+      "нас",
+      "есть",
+      "герой-папа",
+      "с",
+      "предсказаниями",
+      "6 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "6 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Печенье Фабрика счастья Печенье с предсказанием 6 г",
+    "cleanTokens": [
+      "с",
+      "предсказанием"
+    ],
+    "normalizedTokens": [
+      "с",
+      "предсказанием",
+      "6 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "6 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Печенье Bisquini Danish Butter Cookies 200 г",
+    "cleanTokens": [
+      "danish",
+      "butter",
+      "cookies"
+    ],
+    "normalizedTokens": [
+      "danish",
+      "butter",
+      "cookies",
+      "200 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "200 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Печенье Корпорация удачи с предсказанием цветной микс 270 г 45 шт",
+    "cleanTokens": [
+      "с",
+      "предсказанием",
+      "цветной",
+      "микс"
+    ],
+    "normalizedTokens": [
+      "с",
+      "предсказанием",
+      "цветной",
+      "микс",
+      "270 г",
+      "45 шт"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "270 г",
+      "count": "45 шт",
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Печенье Фабрика счастья с предсказаниями С 8 Марта 36 г",
+    "cleanTokens": [
+      "с",
+      "предсказаниями",
+      "с",
+      "8",
+      "марта"
+    ],
+    "normalizedTokens": [
+      "с",
+      "предсказаниями",
+      "с",
+      "8",
+      "марта",
+      "36 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "36 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Печенье Фабрика счастья с предсказанием Даже эта печенька знает больше, чем ты 6 г",
+    "cleanTokens": [
+      "с",
+      "предсказанием",
+      "даже",
+      "эта",
+      "печенька",
+      "знает",
+      "больше",
+      "чем",
+      "ты"
+    ],
+    "normalizedTokens": [
+      "с",
+      "предсказанием",
+      "даже",
+      "эта",
+      "печенька",
+      "знает",
+      "больше",
+      "чем",
+      "ты",
+      "6 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "6 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Печенье Pocky Cloud Cheese Cake 48 г",
+    "cleanTokens": [
+      "cloud",
+      "cheese",
+      "cake"
+    ],
+    "normalizedTokens": [
+      "cloud",
+      "cheese",
+      "cake",
+      "48 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "48 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Печенье Фабрика счастья Печенье с предсказанием 6 г",
+    "cleanTokens": [
+      "с",
+      "предсказанием"
+    ],
+    "normalizedTokens": [
+      "с",
+      "предсказанием",
+      "6 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "6 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Печенье Фабрика счастья Новогоднее проклятие 6 г",
+    "cleanTokens": [
+      "новогоднее",
+      "проклятие"
+    ],
+    "normalizedTokens": [
+      "новогоднее",
+      "проклятие",
+      "6 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "6 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Печенье Hershey’s Dipped Pretzels в белом шоколаде 120 г",
+    "cleanTokens": [
+      "dipped",
+      "pretzels",
+      "в",
+      "белом",
+      "шоколаде"
+    ],
+    "normalizedTokens": [
+      "dipped",
+      "pretzels",
+      "в",
+      "белом",
+      "шоколаде",
+      "120 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "120 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Печенье Adalai орешки со сгущенкой 300 г",
+    "cleanTokens": [
+      "орешки",
+      "со",
+      "сгущенкой"
+    ],
+    "normalizedTokens": [
+      "орешки",
+      "со",
+      "сгущенкой",
+      "300 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "300 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Печенье Фабрика счастья Предсказания от деда мороза 11 г",
+    "cleanTokens": [
+      "предсказания",
+      "от",
+      "деда",
+      "мороза"
+    ],
+    "normalizedTokens": [
+      "предсказания",
+      "от",
+      "деда",
+      "мороза",
+      "11 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "11 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Печенье Pocky Cloud Matcha Ice creme 48 г",
+    "cleanTokens": [
+      "cloud",
+      "matcha",
+      "ice",
+      "creme"
+    ],
+    "normalizedTokens": [
+      "cloud",
+      "matcha",
+      "ice",
+      "creme",
+      "48 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "48 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Печенье Фабрика счастья для сурового мужика с предсказанием 6 г",
+    "cleanTokens": [
+      "для",
+      "сурового",
+      "мужика",
+      "с",
+      "предсказанием"
+    ],
+    "normalizedTokens": [
+      "для",
+      "сурового",
+      "мужика",
+      "с",
+      "предсказанием",
+      "6 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "6 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Печенье SP с предсказаниями без добавок 18 г",
+    "cleanTokens": [
+      "sp",
+      "с",
+      "предсказаниями",
+      "без",
+      "добавок"
+    ],
+    "normalizedTokens": [
+      "sp",
+      "с",
+      "предсказаниями",
+      "без",
+      "добавок",
+      "18 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "18 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Печенье Фабрика счастья Печенье с предсказанием 6 г",
+    "cleanTokens": [
+      "с",
+      "предсказанием"
+    ],
+    "normalizedTokens": [
+      "с",
+      "предсказанием",
+      "6 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "6 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Печенье Фабрика счастья Сладостей много не бывает 18 г",
+    "cleanTokens": [
+      "сладостей",
+      "много",
+      "не",
+      "бывает"
+    ],
+    "normalizedTokens": [
+      "сладостей",
+      "много",
+      "не",
+      "бывает",
+      "18 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "18 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Печенье Фабрика счастья с предсказанием моей маме 6 г",
+    "cleanTokens": [
+      "с",
+      "предсказанием",
+      "моей",
+      "маме"
+    ],
+    "normalizedTokens": [
+      "с",
+      "предсказанием",
+      "моей",
+      "маме",
+      "6 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "6 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Печенье КондиМир Для сурового мужика с предсказаниями 6 г",
+    "cleanTokens": [
+      "для",
+      "сурового",
+      "мужика",
+      "с",
+      "предсказаниями"
+    ],
+    "normalizedTokens": [
+      "для",
+      "сурового",
+      "мужика",
+      "с",
+      "предсказаниями",
+      "6 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "6 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Печенье CROWN Sweet Rice 128 г",
+    "cleanTokens": [
+      "sweet",
+      "rice"
+    ],
+    "normalizedTokens": [
+      "sweet",
+      "rice",
+      "128 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "128 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Печенье Glico Pocky со вкусом банана в шоколаде 25 г",
+    "cleanTokens": [
+      "со",
+      "вкусом",
+      "банана",
+      "в",
+      "шоколаде"
+    ],
+    "normalizedTokens": [
+      "со",
+      "вкусом",
+      "банана",
+      "в",
+      "шоколаде",
+      "25 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "25 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Печенье Glico Pocky Double Choco 47 г",
+    "cleanTokens": [
+      "double",
+      "choco"
+    ],
+    "normalizedTokens": [
+      "double",
+      "choco",
+      "47 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "47 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Печенье Фабрика счастья Узнай, что тебя ждет в новом году 6 г",
+    "cleanTokens": [
+      "узнай",
+      "что",
+      "тебя",
+      "ждет",
+      "в",
+      "новом",
+      "году"
+    ],
+    "normalizedTokens": [
+      "узнай",
+      "что",
+      "тебя",
+      "ждет",
+      "в",
+      "новом",
+      "году",
+      "6 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "6 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Печенье Фабрика счастья Печенье с предсказанием 6 г",
+    "cleanTokens": [
+      "с",
+      "предсказанием"
+    ],
+    "normalizedTokens": [
+      "с",
+      "предсказанием",
+      "6 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "6 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Печенье Фабрика счастья Печенье с предсказанием на новый год «Елочные игрушки», 1 шт х 6 г 6 г",
+    "cleanTokens": [
+      "с",
+      "предсказанием",
+      "на",
+      "новый",
+      "год",
+      "«елочные",
+      "игрушки»",
+      "х"
+    ],
+    "normalizedTokens": [
+      "с",
+      "предсказанием",
+      "на",
+      "новый",
+      "год",
+      "«елочные",
+      "игрушки»",
+      "1 шт",
+      "х",
+      "6 г",
+      "6 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "6 г",
+      "count": "1 шт",
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Печенье Фабрика счастья Печенье с предсказанием 18 г",
+    "cleanTokens": [
+      "с",
+      "предсказанием"
+    ],
+    "normalizedTokens": [
+      "с",
+      "предсказанием",
+      "18 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "18 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Печенье Фабрика счастья с предсказанием 8 Марта 6 г",
+    "cleanTokens": [
+      "с",
+      "предсказанием",
+      "8",
+      "марта"
+    ],
+    "normalizedTokens": [
+      "с",
+      "предсказанием",
+      "8",
+      "марта",
+      "6 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "6 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Печенье Happy Mallow Сладкий сэндвич с маршмеллоу 180 г",
+    "cleanTokens": [
+      "сладкий",
+      "сэндвич",
+      "с",
+      "маршмеллоу"
+    ],
+    "normalizedTokens": [
+      "сладкий",
+      "сэндвич",
+      "с",
+      "маршмеллоу",
+      "180 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "180 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Печенье Fundiez Choco Biscuit 150 г",
+    "cleanTokens": [
+      "choco",
+      "biscuit"
+    ],
+    "normalizedTokens": [
+      "choco",
+      "biscuit",
+      "150 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "150 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Печенье Bite с кокосом и семенами чиа 125 г",
+    "cleanTokens": [
+      "bite",
+      "с",
+      "кокосом",
+      "семенами",
+      "чиа"
+    ],
+    "normalizedTokens": [
+      "bite",
+      "с",
+      "кокосом",
+      "семенами",
+      "чиа",
+      "125 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "125 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Печенье Корпорация удачи Мама ты прекрасна с предсказаниями 35 г",
+    "cleanTokens": [
+      "мама",
+      "ты",
+      "прекрасна",
+      "с",
+      "предсказаниями"
+    ],
+    "normalizedTokens": [
+      "мама",
+      "ты",
+      "прекрасна",
+      "с",
+      "предсказаниями",
+      "35 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "35 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Печенье Фабрика счастья Печенье с предсказанием 6 г",
+    "cleanTokens": [
+      "с",
+      "предсказанием"
+    ],
+    "normalizedTokens": [
+      "с",
+      "предсказанием",
+      "6 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "6 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Печенье Фабрика счастья Исполнение желаний 6 г",
+    "cleanTokens": [
+      "исполнение",
+      "желаний"
+    ],
+    "normalizedTokens": [
+      "исполнение",
+      "желаний",
+      "6 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "6 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Печенье Фабрика счастья Печенье с предсказанием 6 г",
+    "cleanTokens": [
+      "с",
+      "предсказанием"
+    ],
+    "normalizedTokens": [
+      "с",
+      "предсказанием",
+      "6 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "6 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Печенье NA! Nature Addicts Paprica 85 г",
+    "cleanTokens": [
+      "paprica"
+    ],
+    "normalizedTokens": [
+      "paprica",
+      "85 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "85 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Печенье Корпорация удачи с предсказанием цветной микс 300 г 50 шт",
+    "cleanTokens": [
+      "с",
+      "предсказанием",
+      "цветной",
+      "микс"
+    ],
+    "normalizedTokens": [
+      "с",
+      "предсказанием",
+      "цветной",
+      "микс",
+      "300 г",
+      "50 шт"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "300 г",
+      "count": "50 шт",
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Печенье Фабрика счастья С новым годом 6 г",
+    "cleanTokens": [
+      "с",
+      "новым",
+      "годом"
+    ],
+    "normalizedTokens": [
+      "с",
+      "новым",
+      "годом",
+      "6 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "6 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Печенье Фабрика счастья с предсказанием 8 Марта 24 г",
+    "cleanTokens": [
+      "с",
+      "предсказанием",
+      "8",
+      "марта"
+    ],
+    "normalizedTokens": [
+      "с",
+      "предсказанием",
+      "8",
+      "марта",
+      "24 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "24 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Печенье Корпорация удачи Это любовь с предсказаниями 35 г",
+    "cleanTokens": [
+      "это",
+      "любовь",
+      "с",
+      "предсказаниями"
+    ],
+    "normalizedTokens": [
+      "это",
+      "любовь",
+      "с",
+      "предсказаниями",
+      "35 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "35 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Печенье Фабрика счастья печенье с предсказанием 6 г",
+    "cleanTokens": [
+      "с",
+      "предсказанием"
+    ],
+    "normalizedTokens": [
+      "с",
+      "предсказанием",
+      "6 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "6 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Печенье Bateel Assorted Biscuts Tin Can Small финиковое 350 г",
+    "cleanTokens": [
+      "assorted",
+      "biscuts",
+      "tin",
+      "can",
+      "small",
+      "финиковое"
+    ],
+    "normalizedTokens": [
+      "assorted",
+      "biscuts",
+      "tin",
+      "can",
+      "small",
+      "финиковое",
+      "350 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "350 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Печенье Glico Pocky Cookies&Cream 42 г",
+    "cleanTokens": [
+      "cookies&cream"
+    ],
+    "normalizedTokens": [
+      "cookies&cream",
+      "42 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "42 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Печенье Корпорация удачи Кот счастья с предсказаниями 35 г",
+    "cleanTokens": [
+      "кот",
+      "счастья",
+      "с",
+      "предсказаниями"
+    ],
+    "normalizedTokens": [
+      "кот",
+      "счастья",
+      "с",
+      "предсказаниями",
+      "35 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "35 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Печенье SP с предсказаниями без добавок 24 г",
+    "cleanTokens": [
+      "sp",
+      "с",
+      "предсказаниями",
+      "без",
+      "добавок"
+    ],
+    "normalizedTokens": [
+      "sp",
+      "с",
+      "предсказаниями",
+      "без",
+      "добавок",
+      "24 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "24 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Печенье Фабрика счастья Моей печеньке с предсказаниями 6 г",
+    "cleanTokens": [
+      "моей",
+      "печеньке",
+      "с",
+      "предсказаниями"
+    ],
+    "normalizedTokens": [
+      "моей",
+      "печеньке",
+      "с",
+      "предсказаниями",
+      "6 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "6 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Печенье Фабрика счастья С новым годом - мужской 6 г",
+    "cleanTokens": [
+      "с",
+      "новым",
+      "годом",
+      "-",
+      "мужской"
+    ],
+    "normalizedTokens": [
+      "с",
+      "новым",
+      "годом",
+      "-",
+      "мужской",
+      "6 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "6 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Печенье Falcone Felice Mattino 500 г",
+    "cleanTokens": [
+      "felice",
+      "mattino"
+    ],
+    "normalizedTokens": [
+      "felice",
+      "mattino",
+      "500 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "500 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Печенье Корпорация удачи Кот любви с предсказаниями 35 г",
+    "cleanTokens": [
+      "кот",
+      "любви",
+      "с",
+      "предсказаниями"
+    ],
+    "normalizedTokens": [
+      "кот",
+      "любви",
+      "с",
+      "предсказаниями",
+      "35 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "35 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Печенье Фабрика счастья Самому крутому в мире на 23 февраля 18 г",
+    "cleanTokens": [
+      "самому",
+      "крутому",
+      "в",
+      "мире",
+      "на",
+      "23",
+      "февраля"
+    ],
+    "normalizedTokens": [
+      "самому",
+      "крутому",
+      "в",
+      "мире",
+      "на",
+      "23",
+      "февраля",
+      "18 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "18 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Печенье Milka Melo Сakes 100 г",
+    "cleanTokens": [
+      "melo",
+      "сakes"
+    ],
+    "normalizedTokens": [
+      "melo",
+      "сakes",
+      "100 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "100 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Печенье Фабрика счастья Волшебства в новом году 6 г",
+    "cleanTokens": [
+      "волшебства",
+      "в",
+      "новом",
+      "году"
+    ],
+    "normalizedTokens": [
+      "волшебства",
+      "в",
+      "новом",
+      "году",
+      "6 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "6 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Печенье Фабрика счастья Везу гору счастья с предсказаниями 6 г",
+    "cleanTokens": [
+      "везу",
+      "гору",
+      "счастья",
+      "с",
+      "предсказаниями"
+    ],
+    "normalizedTokens": [
+      "везу",
+      "гору",
+      "счастья",
+      "с",
+      "предсказаниями",
+      "6 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "6 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Печенье Фабрика счастья Любимой Маме 6 г",
+    "cleanTokens": [
+      "любимой",
+      "маме"
+    ],
+    "normalizedTokens": [
+      "любимой",
+      "маме",
+      "6 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "6 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Печенье Фабрика счастья печенье с предсказанием 6 г",
+    "cleanTokens": [
+      "с",
+      "предсказанием"
+    ],
+    "normalizedTokens": [
+      "с",
+      "предсказанием",
+      "6 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "6 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Печенье Adalai орешки со сгущенкой и грецким орехом 300 г",
+    "cleanTokens": [
+      "орешки",
+      "со",
+      "сгущенкой",
+      "грецким",
+      "орехом"
+    ],
+    "normalizedTokens": [
+      "орешки",
+      "со",
+      "сгущенкой",
+      "грецким",
+      "орехом",
+      "300 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "300 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Печенье Oreo Crunchy Bites Dippe в молочном шоколаде 110 г",
+    "cleanTokens": [
+      "crunchy",
+      "bites",
+      "dippe",
+      "в",
+      "молочном",
+      "шоколаде"
+    ],
+    "normalizedTokens": [
+      "crunchy",
+      "bites",
+      "dippe",
+      "в",
+      "молочном",
+      "шоколаде",
+      "110 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "110 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Печенье Ongshil медовое якгуа мини Оджиногейм тальгона мини яккуа 90 г",
+    "cleanTokens": [
+      "медовое",
+      "якгуа",
+      "мини",
+      "оджиногейм",
+      "тальгона",
+      "мини",
+      "яккуа"
+    ],
+    "normalizedTokens": [
+      "медовое",
+      "якгуа",
+      "мини",
+      "оджиногейм",
+      "тальгона",
+      "мини",
+      "яккуа",
+      "90 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "90 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Печенье Glico Pocky со вкусом шоколада 21 г",
+    "cleanTokens": [
+      "со",
+      "вкусом",
+      "шоколада"
+    ],
+    "normalizedTokens": [
+      "со",
+      "вкусом",
+      "шоколада",
+      "21 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "21 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Печенье Oreo Strawberry Cheesecake 154 г",
+    "cleanTokens": [
+      "strawberry",
+      "cheesecake"
+    ],
+    "normalizedTokens": [
+      "strawberry",
+      "cheesecake",
+      "154 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "154 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Печенье Корпорация удачи с предсказанием цветной микс 150 г 25 шт",
+    "cleanTokens": [
+      "с",
+      "предсказанием",
+      "цветной",
+      "микс"
+    ],
+    "normalizedTokens": [
+      "с",
+      "предсказанием",
+      "цветной",
+      "микс",
+      "150 г",
+      "25 шт"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "150 г",
+      "count": "25 шт",
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Печенье Фабрика счастья Снеговик 6 г",
+    "cleanTokens": [
+      "снеговик"
+    ],
+    "normalizedTokens": [
+      "снеговик",
+      "6 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "6 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Печенье Pocky палочки шоколадные со вкусом персика и клубники 38 г",
+    "cleanTokens": [
+      "палочки",
+      "шоколадные",
+      "со",
+      "вкусом",
+      "персика",
+      "клубники"
+    ],
+    "normalizedTokens": [
+      "палочки",
+      "шоколадные",
+      "со",
+      "вкусом",
+      "персика",
+      "клубники",
+      "38 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "38 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Печенье LOTTE E&M Vegetable Crackers 30 шт по 83 г",
+    "cleanTokens": [
+      "vegetable",
+      "crackers",
+      "по"
+    ],
+    "normalizedTokens": [
+      "vegetable",
+      "crackers",
+      "30 шт",
+      "по",
+      "83 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "83 г",
+      "count": "30 шт",
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Печенье Корпорация удачи с предсказанием цветной микс 30 г 5 шт",
+    "cleanTokens": [
+      "с",
+      "предсказанием",
+      "цветной",
+      "микс"
+    ],
+    "normalizedTokens": [
+      "с",
+      "предсказанием",
+      "цветной",
+      "микс",
+      "30 г",
+      "5 шт"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "30 г",
+      "count": "5 шт",
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Печенье Oreo Socola-pie с маршмеллоу 6 шт по 30 г",
+    "cleanTokens": [
+      "socola-pie",
+      "с",
+      "маршмеллоу",
+      "по"
+    ],
+    "normalizedTokens": [
+      "socola-pie",
+      "с",
+      "маршмеллоу",
+      "6 шт",
+      "по",
+      "30 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "30 г",
+      "count": "6 шт",
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Печенье Binggrae Pororo Cheese 20 шт по 65 г",
+    "cleanTokens": [
+      "pororo",
+      "cheese",
+      "по"
+    ],
+    "normalizedTokens": [
+      "pororo",
+      "cheese",
+      "20 шт",
+      "по",
+      "65 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "65 г",
+      "count": "20 шт",
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Печенье M&Ms Minis 180 г",
+    "cleanTokens": [
+      "minis"
+    ],
+    "normalizedTokens": [
+      "minis",
+      "180 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "180 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Печенье Milky Way с шоколадной начинкой 108 г",
+    "cleanTokens": [
+      "с",
+      "шоколадной",
+      "начинкой"
+    ],
+    "normalizedTokens": [
+      "с",
+      "шоколадной",
+      "начинкой",
+      "108 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "108 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Печенье Сауле чизи изи 300 г",
+    "cleanTokens": [
+      "чизи",
+      "изи"
+    ],
+    "normalizedTokens": [
+      "чизи",
+      "изи",
+      "300 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "300 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Печенье Корпорация удачи с предсказанием цветной микс 120 г 20 шт",
+    "cleanTokens": [
+      "с",
+      "предсказанием",
+      "цветной",
+      "микс"
+    ],
+    "normalizedTokens": [
+      "с",
+      "предсказанием",
+      "цветной",
+      "микс",
+      "120 г",
+      "20 шт"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "120 г",
+      "count": "20 шт",
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Печенье Фабрика счастья С Новым годом! 6 г",
+    "cleanTokens": [
+      "с",
+      "новым",
+      "годом!"
+    ],
+    "normalizedTokens": [
+      "с",
+      "новым",
+      "годом!",
+      "6 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "6 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Печенье Oreo Choc White в белом шоколаде 246 г",
+    "cleanTokens": [
+      "choc",
+      "white",
+      "в",
+      "белом",
+      "шоколаде"
+    ],
+    "normalizedTokens": [
+      "choc",
+      "white",
+      "в",
+      "белом",
+      "шоколаде",
+      "246 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "246 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Печенье Oreo Strawberry mini pouch 61.3 г",
+    "cleanTokens": [
+      "strawberry",
+      "mini",
+      "pouch"
+    ],
+    "normalizedTokens": [
+      "strawberry",
+      "mini",
+      "pouch",
+      "61.3 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "61.3 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Печенье Reese's Dipped Pretzels c шоколадом 120 г",
+    "cleanTokens": [
+      "dipped",
+      "pretzels",
+      "c",
+      "шоколадом"
+    ],
+    "normalizedTokens": [
+      "dipped",
+      "pretzels",
+      "c",
+      "шоколадом",
+      "120 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "120 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Печенье Miskets Carnival с молочным шоколадом 80 г",
+    "cleanTokens": [
+      "carnival",
+      "с",
+      "молочным",
+      "шоколадом"
+    ],
+    "normalizedTokens": [
+      "carnival",
+      "с",
+      "молочным",
+      "шоколадом",
+      "80 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "80 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Печенье NA! Nature Addicts black pepper 85 г",
+    "cleanTokens": [
+      "black",
+      "pepper"
+    ],
+    "normalizedTokens": [
+      "black",
+      "pepper",
+      "85 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "85 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Печенье Корпорация удачи с предсказанием цветной микс 240 г 40 шт",
+    "cleanTokens": [
+      "с",
+      "предсказанием",
+      "цветной",
+      "микс"
+    ],
+    "normalizedTokens": [
+      "с",
+      "предсказанием",
+      "цветной",
+      "микс",
+      "240 г",
+      "40 шт"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "240 г",
+      "count": "40 шт",
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Печенье Фабрика счастья 8 марта 6 г",
+    "cleanTokens": [
+      "8",
+      "марта"
+    ],
+    "normalizedTokens": [
+      "8",
+      "марта",
+      "6 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "6 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  }
+]

@@ -1,0 +1,844 @@
+[
+  {
+    "original": "Hortex Смесь VIP 400 г",
+    "cleanTokens": [
+      "смесь",
+      "vip"
+    ],
+    "normalizedTokens": [
+      "смесь",
+      "vip",
+      "400 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "400 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Hortex Весенние овощи 400 г",
+    "cleanTokens": [
+      "весенние"
+    ],
+    "normalizedTokens": [
+      "весенние",
+      "400 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "400 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мираторг Итальянская смесь 400 г",
+    "cleanTokens": [
+      "итальянская",
+      "смесь"
+    ],
+    "normalizedTokens": [
+      "итальянская",
+      "смесь",
+      "400 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "400 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Bauer Брюссельская капуста 400 г",
+    "cleanTokens": [
+      "брюссельская",
+      "капуста"
+    ],
+    "normalizedTokens": [
+      "брюссельская",
+      "капуста",
+      "400 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "400 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мираторг Шампиньоны резаные 400 г",
+    "cleanTokens": [
+      "шампиньоны",
+      "резаные"
+    ],
+    "normalizedTokens": [
+      "шампиньоны",
+      "резаные",
+      "400 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "400 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мираторг Брокколи 400 г",
+    "cleanTokens": [
+      "брокколи"
+    ],
+    "normalizedTokens": [
+      "брокколи",
+      "400 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "400 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Vici Фасоль стручковая резаная 400 г",
+    "cleanTokens": [
+      "фасоль",
+      "стручковая",
+      "резаная"
+    ],
+    "normalizedTokens": [
+      "фасоль",
+      "стручковая",
+      "резаная",
+      "400 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "400 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Bauer Зеленый горошек 400 г",
+    "cleanTokens": [
+      "зеленый",
+      "горошек"
+    ],
+    "normalizedTokens": [
+      "зеленый",
+      "горошек",
+      "400 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "400 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мираторг картофель фри 500 г",
+    "cleanTokens": [
+      "картофель",
+      "фри"
+    ],
+    "normalizedTokens": [
+      "картофель",
+      "фри",
+      "500 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "500 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мираторг Овощи-гриль с итальянскими травами 400 г",
+    "cleanTokens": [
+      "овощи-гриль",
+      "с",
+      "итальянскими",
+      "травами"
+    ],
+    "normalizedTokens": [
+      "овощи-гриль",
+      "с",
+      "итальянскими",
+      "травами",
+      "400 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "400 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Hortex Овощи для жарки итальянские 400 г",
+    "cleanTokens": [
+      "для",
+      "жарки",
+      "итальянские"
+    ],
+    "normalizedTokens": [
+      "для",
+      "жарки",
+      "итальянские",
+      "400 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "400 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Hortex Шпинат листовой 450 г",
+    "cleanTokens": [
+      "шпинат",
+      "листовой"
+    ],
+    "normalizedTokens": [
+      "шпинат",
+      "листовой",
+      "450 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "450 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Hortex Овощи для жарки 400 г",
+    "cleanTokens": [
+      "для",
+      "жарки"
+    ],
+    "normalizedTokens": [
+      "для",
+      "жарки",
+      "400 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "400 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Hortex Брокколи 400 г",
+    "cleanTokens": [
+      "брокколи"
+    ],
+    "normalizedTokens": [
+      "брокколи",
+      "400 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "400 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Vici Брокколи 400 г",
+    "cleanTokens": [
+      "брокколи"
+    ],
+    "normalizedTokens": [
+      "брокколи",
+      "400 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "400 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Bonduelle Тажин нут с овощами по-маррокански 400 г",
+    "cleanTokens": [
+      "тажин",
+      "нут",
+      "с",
+      "овощами",
+      "по-маррокански"
+    ],
+    "normalizedTokens": [
+      "тажин",
+      "нут",
+      "с",
+      "овощами",
+      "по-маррокански",
+      "400 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "400 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Bauer Смесь Евро-Микс 400 г",
+    "cleanTokens": [
+      "смесь",
+      "евро-микс"
+    ],
+    "normalizedTokens": [
+      "смесь",
+      "евро-микс",
+      "400 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "400 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Bonduelle Смесь овощная мексиканский микс 400 г",
+    "cleanTokens": [
+      "смесь",
+      "овощная",
+      "мексиканский",
+      "микс"
+    ],
+    "normalizedTokens": [
+      "смесь",
+      "овощная",
+      "мексиканский",
+      "микс",
+      "400 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "400 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Bauer Шпинат измельченный 400 г",
+    "cleanTokens": [
+      "шпинат",
+      "измельченный"
+    ],
+    "normalizedTokens": [
+      "шпинат",
+      "измельченный",
+      "400 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "400 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Bonduelle крем-суп с цветной капустой 350 г",
+    "cleanTokens": [
+      "крем-суп",
+      "с",
+      "цветной",
+      "капустой"
+    ],
+    "normalizedTokens": [
+      "крем-суп",
+      "с",
+      "цветной",
+      "капустой",
+      "350 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "350 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Bauer Easy Wok 400 г",
+    "cleanTokens": [
+      "easy",
+      "wok"
+    ],
+    "normalizedTokens": [
+      "easy",
+      "wok",
+      "400 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "400 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Bauer Царский салат 400 г",
+    "cleanTokens": [
+      "царский",
+      "салат"
+    ],
+    "normalizedTokens": [
+      "царский",
+      "салат",
+      "400 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "400 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Bonduelle Вок 400 г",
+    "cleanTokens": [
+      "вок"
+    ],
+    "normalizedTokens": [
+      "вок",
+      "400 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "400 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Bonduelle мунг с овощами по-китайски 400 г",
+    "cleanTokens": [
+      "мунг",
+      "с",
+      "овощами",
+      "по-китайски"
+    ],
+    "normalizedTokens": [
+      "мунг",
+      "с",
+      "овощами",
+      "по-китайски",
+      "400 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "400 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Bauer Брокколи 400 г",
+    "cleanTokens": [
+      "брокколи"
+    ],
+    "normalizedTokens": [
+      "брокколи",
+      "400 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "400 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Bonduelle Фасулье 400 г",
+    "cleanTokens": [
+      "фасулье"
+    ],
+    "normalizedTokens": [
+      "фасулье",
+      "400 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "400 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Vici Овощи по-итальянски 400 г",
+    "cleanTokens": [
+      "по-итальянски"
+    ],
+    "normalizedTokens": [
+      "по-итальянски",
+      "400 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "400 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Bonduelle Овощи с рисом Гавайский микс 400 г",
+    "cleanTokens": [
+      "с",
+      "рисом",
+      "гавайский",
+      "микс"
+    ],
+    "normalizedTokens": [
+      "с",
+      "рисом",
+      "гавайский",
+      "микс",
+      "400 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "400 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Bonduelle Овощные галеты Зеленый букет 300 г",
+    "cleanTokens": [
+      "овощные",
+      "галеты",
+      "зеленый",
+      "букет"
+    ],
+    "normalizedTokens": [
+      "овощные",
+      "галеты",
+      "зеленый",
+      "букет",
+      "300 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "300 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Bonduelle Овощные галеты Кантри 300 г",
+    "cleanTokens": [
+      "овощные",
+      "галеты",
+      "кантри"
+    ],
+    "normalizedTokens": [
+      "овощные",
+      "галеты",
+      "кантри",
+      "300 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "300 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Bonduelle Рататуй 400 г",
+    "cleanTokens": [
+      "рататуй"
+    ],
+    "normalizedTokens": [
+      "рататуй",
+      "400 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "400 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Hortex Овощи для жарки греческие 400 г",
+    "cleanTokens": [
+      "для",
+      "жарки",
+      "греческие"
+    ],
+    "normalizedTokens": [
+      "для",
+      "жарки",
+      "греческие",
+      "400 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "400 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Bonduelle орзотто с овощами по-итальянски 400 г",
+    "cleanTokens": [
+      "орзотто",
+      "с",
+      "овощами",
+      "по-итальянски"
+    ],
+    "normalizedTokens": [
+      "орзотто",
+      "с",
+      "овощами",
+      "по-итальянски",
+      "400 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "400 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мираторг карри с баклажанами и рисом 400 г",
+    "cleanTokens": [
+      "карри",
+      "с",
+      "баклажанами",
+      "и",
+      "рисом"
+    ],
+    "normalizedTokens": [
+      "карри",
+      "с",
+      "баклажанами",
+      "и",
+      "рисом",
+      "400 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "400 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мираторг смесь по-мексикански 400 г",
+    "cleanTokens": [
+      "смесь",
+      "по-мексикански"
+    ],
+    "normalizedTokens": [
+      "смесь",
+      "по-мексикански",
+      "400 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "400 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мираторг смесь азиатский жареный рис с курицей 400 г",
+    "cleanTokens": [
+      "смесь",
+      "азиатский",
+      "жареный",
+      "рис",
+      "с",
+      "курицей"
+    ],
+    "normalizedTokens": [
+      "смесь",
+      "азиатский",
+      "жареный",
+      "рис",
+      "с",
+      "курицей",
+      "400 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "400 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мираторг смесь лапша вок по-азиатски 400 г",
+    "cleanTokens": [
+      "смесь",
+      "лапша",
+      "вок",
+      "по-азиатски"
+    ],
+    "normalizedTokens": [
+      "смесь",
+      "лапша",
+      "вок",
+      "по-азиатски",
+      "400 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "400 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мираторг смесь феттучини арабьята 400 г",
+    "cleanTokens": [
+      "смесь",
+      "феттучини",
+      "арабьята"
+    ],
+    "normalizedTokens": [
+      "смесь",
+      "феттучини",
+      "арабьята",
+      "400 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "400 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  }
+]

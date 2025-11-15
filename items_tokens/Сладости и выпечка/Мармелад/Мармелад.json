@@ -1,0 +1,7642 @@
+[
+  {
+    "original": "Мармелад Fruit-tella Яблоко Клубника Малина фруктово-ягодный 36 г",
+    "cleanTokens": [
+      "яблоко",
+      "клубника",
+      "малина",
+      "фруктово-ягодный"
+    ],
+    "normalizedTokens": [
+      "яблоко",
+      "клубника",
+      "малина",
+      "фруктово-ягодный",
+      "36 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "36 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мармелад Рахат Любимый желейно-фруктовый 250 г",
+    "cleanTokens": [
+      "любимый",
+      "желейно-фруктовый"
+    ],
+    "normalizedTokens": [
+      "любимый",
+      "желейно-фруктовый",
+      "250 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "250 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мармелад Haribo Happy Cherries жевательный 80 г",
+    "cleanTokens": [
+      "happy",
+      "cherries",
+      "жевательный"
+    ],
+    "normalizedTokens": [
+      "happy",
+      "cherries",
+      "жевательный",
+      "80 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "80 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мармелад Fruit-tella Звери Mix с фруктовым соком жевательный 70 г",
+    "cleanTokens": [
+      "звери",
+      "mix",
+      "с",
+      "фруктовым",
+      "соком",
+      "жевательный"
+    ],
+    "normalizedTokens": [
+      "звери",
+      "mix",
+      "с",
+      "фруктовым",
+      "соком",
+      "жевательный",
+      "70 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "70 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мармелад Chupa Chups Роллсы жевательный 100 г",
+    "cleanTokens": [
+      "роллсы",
+      "жевательный"
+    ],
+    "normalizedTokens": [
+      "роллсы",
+      "жевательный",
+      "100 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "100 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мармелад Haribo Happy Cola Zourr жевательный 80 г",
+    "cleanTokens": [
+      "happy",
+      "cola",
+      "zourr",
+      "жевательный"
+    ],
+    "normalizedTokens": [
+      "happy",
+      "cola",
+      "zourr",
+      "жевательный",
+      "80 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "80 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мармелад Haribo Worms жевательный 80 г",
+    "cleanTokens": [
+      "worms",
+      "жевательный"
+    ],
+    "normalizedTokens": [
+      "worms",
+      "жевательный",
+      "80 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "80 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мармелад Рахат В шоколаде желейно-фруктовый 200 г",
+    "cleanTokens": [
+      "в",
+      "шоколаде",
+      "желейно-фруктовый"
+    ],
+    "normalizedTokens": [
+      "в",
+      "шоколаде",
+      "желейно-фруктовый",
+      "200 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "200 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мармелад Fruit-tella Крутой микс с фруктовым соком жевательный 150 г",
+    "cleanTokens": [
+      "крутой",
+      "микс",
+      "с",
+      "фруктовым",
+      "соком",
+      "жевательный"
+    ],
+    "normalizedTokens": [
+      "крутой",
+      "микс",
+      "с",
+      "фруктовым",
+      "соком",
+      "жевательный",
+      "150 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "150 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мармелад Haribo Goldbears жевательный 160 г",
+    "cleanTokens": [
+      "goldbears",
+      "жевательный"
+    ],
+    "normalizedTokens": [
+      "goldbears",
+      "жевательный",
+      "160 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "160 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мармелад Fruit-tella Медвежата с фруктовым соком жевательный 150 г",
+    "cleanTokens": [
+      "медвежата",
+      "с",
+      "фруктовым",
+      "соком",
+      "жевательный"
+    ],
+    "normalizedTokens": [
+      "медвежата",
+      "с",
+      "фруктовым",
+      "соком",
+      "жевательный",
+      "150 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "150 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мармелад Mamba Фрумеладки фруктовый Микс жевательный 72 г",
+    "cleanTokens": [
+      "фрумеладки",
+      "фруктовый",
+      "микс",
+      "жевательный"
+    ],
+    "normalizedTokens": [
+      "фрумеладки",
+      "фруктовый",
+      "микс",
+      "жевательный",
+      "72 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "72 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мармелад Mamba Фрумеладки сочный центр жевательный 70 г",
+    "cleanTokens": [
+      "фрумеладки",
+      "сочный",
+      "центр",
+      "жевательный"
+    ],
+    "normalizedTokens": [
+      "фрумеладки",
+      "сочный",
+      "центр",
+      "жевательный",
+      "70 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "70 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мармелад Бон Пари Веселые кошмарики жевательный 75 г",
+    "cleanTokens": [
+      "веселые",
+      "кошмарики",
+      "жевательный"
+    ],
+    "normalizedTokens": [
+      "веселые",
+      "кошмарики",
+      "жевательный",
+      "75 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "75 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мармелад Fruit-tella Звери Mix с фруктовым соком жевательный 150 г",
+    "cleanTokens": [
+      "звери",
+      "mix",
+      "с",
+      "фруктовым",
+      "соком",
+      "жевательный"
+    ],
+    "normalizedTokens": [
+      "звери",
+      "mix",
+      "с",
+      "фруктовым",
+      "соком",
+      "жевательный",
+      "150 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "150 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мармелад Mamba Фрумеладки Команда пиратов жевательный 70 г",
+    "cleanTokens": [
+      "фрумеладки",
+      "команда",
+      "пиратов",
+      "жевательный"
+    ],
+    "normalizedTokens": [
+      "фрумеладки",
+      "команда",
+      "пиратов",
+      "жевательный",
+      "70 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "70 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мармелад Махеевъ Цитрусовый микс фруктово-ягодный 250 г",
+    "cleanTokens": [
+      "цитрусовый",
+      "микс",
+      "фруктово-ягодный"
+    ],
+    "normalizedTokens": [
+      "цитрусовый",
+      "микс",
+      "фруктово-ягодный",
+      "250 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "250 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мармелад Бон Пари Страна Единорогов желейно-фруктовый 100 г",
+    "cleanTokens": [
+      "страна",
+      "единорогов",
+      "желейно-фруктовый"
+    ],
+    "normalizedTokens": [
+      "страна",
+      "единорогов",
+      "желейно-фруктовый",
+      "100 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "100 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мармелад Фрукт Продукт Яблочный микс жевательный, фруктово-ягодный 100 г",
+    "cleanTokens": [
+      "яблочный",
+      "микс",
+      "жевательный",
+      "фруктово-ягодный"
+    ],
+    "normalizedTokens": [
+      "яблочный",
+      "микс",
+      "жевательный",
+      "фруктово-ягодный",
+      "100 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "100 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мармелад Бон Пари Кислые змейки жевательный 120 г",
+    "cleanTokens": [
+      "кислые",
+      "змейки",
+      "жевательный"
+    ],
+    "normalizedTokens": [
+      "кислые",
+      "змейки",
+      "жевательный",
+      "120 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "120 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мармелад Haribo Happy Cola жевательный 160 г",
+    "cleanTokens": [
+      "happy",
+      "cola",
+      "жевательный"
+    ],
+    "normalizedTokens": [
+      "happy",
+      "cola",
+      "жевательный",
+      "160 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "160 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мармелад Mayama Со вкусом ананаса, яблока, клубники жевательный 70 г",
+    "cleanTokens": [
+      "со",
+      "вкусом",
+      "ананаса",
+      "яблока",
+      "клубники",
+      "жевательный"
+    ],
+    "normalizedTokens": [
+      "со",
+      "вкусом",
+      "ананаса",
+      "яблока",
+      "клубники",
+      "жевательный",
+      "70 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "70 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мармелад Fruit-tella Супер бутылочки жевательный 100 г",
+    "cleanTokens": [
+      "супер",
+      "бутылочки",
+      "жевательный"
+    ],
+    "normalizedTokens": [
+      "супер",
+      "бутылочки",
+      "жевательный",
+      "100 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "100 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мармелад YumEarth Organic gummy bears с гранатовым вкусом жевательный 50 г",
+    "cleanTokens": [
+      "organic",
+      "gummy",
+      "bears",
+      "с",
+      "гранатовым",
+      "вкусом",
+      "жевательный"
+    ],
+    "normalizedTokens": [
+      "organic",
+      "gummy",
+      "bears",
+      "с",
+      "гранатовым",
+      "вкусом",
+      "жевательный",
+      "50 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "50 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мармелад Mamba Фрумеладки сочный центр жевательный 140 г",
+    "cleanTokens": [
+      "фрумеладки",
+      "сочный",
+      "центр",
+      "жевательный"
+    ],
+    "normalizedTokens": [
+      "фрумеладки",
+      "сочный",
+      "центр",
+      "жевательный",
+      "140 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "140 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мармелад Chupa Chups Фансы кислые жевательный 150 г",
+    "cleanTokens": [
+      "фансы",
+      "кислые",
+      "жевательный"
+    ],
+    "normalizedTokens": [
+      "фансы",
+      "кислые",
+      "жевательный",
+      "150 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "150 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мармелад Chupa Chups Роллсы кислые жевательный 150 г",
+    "cleanTokens": [
+      "роллсы",
+      "кислые",
+      "жевательный"
+    ],
+    "normalizedTokens": [
+      "роллсы",
+      "кислые",
+      "жевательный",
+      "150 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "150 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мармелад yumearth фруктовые закуски органические 4 вкуса 50 гр",
+    "cleanTokens": [
+      "фруктовые",
+      "закуски",
+      "органические",
+      "4",
+      "вкуса"
+    ],
+    "normalizedTokens": [
+      "фруктовые",
+      "закуски",
+      "органические",
+      "4",
+      "вкуса",
+      "50 гр"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "50 гр",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мармелад Mamba Фрумеладки фрукты и йогурт жевательный 72 г",
+    "cleanTokens": [
+      "фрумеладки",
+      "фрукты",
+      "йогурт",
+      "жевательный"
+    ],
+    "normalizedTokens": [
+      "фрумеладки",
+      "фрукты",
+      "йогурт",
+      "жевательный",
+      "72 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "72 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мармелад Chupa Chups Роллсы жевательный 70 г",
+    "cleanTokens": [
+      "роллсы",
+      "жевательный"
+    ],
+    "normalizedTokens": [
+      "роллсы",
+      "жевательный",
+      "70 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "70 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мармелад TokiToki манго фруктово-ягодный 100 г",
+    "cleanTokens": [
+      "манго",
+      "фруктово-ягодный"
+    ],
+    "normalizedTokens": [
+      "манго",
+      "фруктово-ягодный",
+      "100 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "100 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мармелад TokiToki дыня фруктовый 100 г",
+    "cleanTokens": [
+      "дыня",
+      "фруктовый"
+    ],
+    "normalizedTokens": [
+      "дыня",
+      "фруктовый",
+      "100 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "100 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мармелад Бегемотик Бонди С соком ягод и фруктов жевательный 100 г",
+    "cleanTokens": [
+      "с",
+      "соком",
+      "ягод",
+      "фруктов",
+      "жевательный"
+    ],
+    "normalizedTokens": [
+      "с",
+      "соком",
+      "ягод",
+      "фруктов",
+      "жевательный",
+      "100 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "100 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мармелад TokiToki виноград фруктово-ягодный 100 г",
+    "cleanTokens": [
+      "виноград",
+      "фруктово-ягодный"
+    ],
+    "normalizedTokens": [
+      "виноград",
+      "фруктово-ягодный",
+      "100 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "100 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мармелад Haitai со вкусом сливы фруктово-ягодный 64 г",
+    "cleanTokens": [
+      "со",
+      "вкусом",
+      "сливы",
+      "фруктово-ягодный"
+    ],
+    "normalizedTokens": [
+      "со",
+      "вкусом",
+      "сливы",
+      "фруктово-ягодный",
+      "64 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "64 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мармелад Фрукт Продукт Клюква фруктово-ягодный 100 г",
+    "cleanTokens": [
+      "клюква",
+      "фруктово-ягодный"
+    ],
+    "normalizedTokens": [
+      "клюква",
+      "фруктово-ягодный",
+      "100 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "100 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мармелад TokiToki виноград фруктово-ягодный 875 г",
+    "cleanTokens": [
+      "виноград",
+      "фруктово-ягодный"
+    ],
+    "normalizedTokens": [
+      "виноград",
+      "фруктово-ягодный",
+      "875 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "875 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мармелад Крут Фрут колечки со вкусом персика жевательный 500 г",
+    "cleanTokens": [
+      "колечки",
+      "со",
+      "вкусом",
+      "персика",
+      "жевательный"
+    ],
+    "normalizedTokens": [
+      "колечки",
+      "со",
+      "вкусом",
+      "персика",
+      "жевательный",
+      "500 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "500 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мармелад Haribo Stamix жевательный 250 г",
+    "cleanTokens": [
+      "stamix",
+      "жевательный"
+    ],
+    "normalizedTokens": [
+      "stamix",
+      "жевательный",
+      "250 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "250 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мармелад Mamba Фрумеладки Кислые звёздочки жевательный 70 г",
+    "cleanTokens": [
+      "фрумеладки",
+      "кислые",
+      "звездочки",
+      "жевательный"
+    ],
+    "normalizedTokens": [
+      "фрумеладки",
+      "кислые",
+      "звездочки",
+      "жевательный",
+      "70 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "70 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мармелад Крут Фрут Морские звезды жевательный 500 г",
+    "cleanTokens": [
+      "морские",
+      "звезды",
+      "жевательный"
+    ],
+    "normalizedTokens": [
+      "морские",
+      "звезды",
+      "жевательный",
+      "500 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "500 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мармелад Vidal Dulcitar жевательный 90 г",
+    "cleanTokens": [
+      "dulcitar",
+      "жевательный"
+    ],
+    "normalizedTokens": [
+      "dulcitar",
+      "жевательный",
+      "90 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "90 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мармелад Vidal Sour Belts жевательный 90 г",
+    "cleanTokens": [
+      "sour",
+      "belts",
+      "жевательный"
+    ],
+    "normalizedTokens": [
+      "sour",
+      "belts",
+      "жевательный",
+      "90 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "90 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мармелад Haribo Roulette жевательный 250 г",
+    "cleanTokens": [
+      "roulette",
+      "жевательный"
+    ],
+    "normalizedTokens": [
+      "roulette",
+      "жевательный",
+      "250 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "250 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мармелад Vidal Laces жевательный 85 г",
+    "cleanTokens": [
+      "laces",
+      "жевательный"
+    ],
+    "normalizedTokens": [
+      "laces",
+      "жевательный",
+      "85 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "85 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мармелад Сибирский кедр ягодень клубничный с семечками чиа желейно-фруктовый 140 г",
+    "cleanTokens": [
+      "ягодень",
+      "клубничный",
+      "с",
+      "семечками",
+      "чиа",
+      "желейно-фруктовый"
+    ],
+    "normalizedTokens": [
+      "ягодень",
+      "клубничный",
+      "с",
+      "семечками",
+      "чиа",
+      "желейно-фруктовый",
+      "140 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "140 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мармелад Крут Фрут Змейки фруктово-ягодный 500 г",
+    "cleanTokens": [
+      "змейки",
+      "фруктово-ягодный"
+    ],
+    "normalizedTokens": [
+      "змейки",
+      "фруктово-ягодный",
+      "500 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "500 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мармелад Крут Фрут Звездочки со вкусом персика и апельсина жевательный 500 г",
+    "cleanTokens": [
+      "звездочки",
+      "со",
+      "вкусом",
+      "персика",
+      "апельсина",
+      "жевательный"
+    ],
+    "normalizedTokens": [
+      "звездочки",
+      "со",
+      "вкусом",
+      "персика",
+      "апельсина",
+      "жевательный",
+      "500 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "500 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мармелад FINI Yogurt Jellies жевательный 90 г",
+    "cleanTokens": [
+      "yogurt",
+      "jellies",
+      "жевательный"
+    ],
+    "normalizedTokens": [
+      "yogurt",
+      "jellies",
+      "жевательный",
+      "90 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "90 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мармелад Vidal tutti frutti bottles жевательный 90 г",
+    "cleanTokens": [
+      "tutti",
+      "frutti",
+      "bottles",
+      "жевательный"
+    ],
+    "normalizedTokens": [
+      "tutti",
+      "frutti",
+      "bottles",
+      "жевательный",
+      "90 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "90 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мармелад TokiToki дыня фруктово-ягодный 875 г",
+    "cleanTokens": [
+      "дыня",
+      "фруктово-ягодный"
+    ],
+    "normalizedTokens": [
+      "дыня",
+      "фруктово-ягодный",
+      "875 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "875 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мармелад TokiToki манго фруктово-ягодный 875 г",
+    "cleanTokens": [
+      "манго",
+      "фруктово-ягодный"
+    ],
+    "normalizedTokens": [
+      "манго",
+      "фруктово-ягодный",
+      "875 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "875 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мармелад Vidal Brains желейно-фруктовый 90 г",
+    "cleanTokens": [
+      "brains",
+      "желейно-фруктовый"
+    ],
+    "normalizedTokens": [
+      "brains",
+      "желейно-фруктовый",
+      "90 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "90 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мармелад Vidal watermelon slices жевательный 90 г",
+    "cleanTokens": [
+      "watermelon",
+      "slices",
+      "жевательный"
+    ],
+    "normalizedTokens": [
+      "watermelon",
+      "slices",
+      "жевательный",
+      "90 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "90 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мармелад FINI Galaxy Mix жевательный 90 г",
+    "cleanTokens": [
+      "galaxy",
+      "mix",
+      "жевательный"
+    ],
+    "normalizedTokens": [
+      "galaxy",
+      "mix",
+      "жевательный",
+      "90 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "90 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мармелад Vidal Sour cola bottles жевательный 90 г",
+    "cleanTokens": [
+      "sour",
+      "cola",
+      "bottles",
+      "жевательный"
+    ],
+    "normalizedTokens": [
+      "sour",
+      "cola",
+      "bottles",
+      "жевательный",
+      "90 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "90 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мармелад Сибирский кедр ягодень малина желейно-фруктовый 165 г",
+    "cleanTokens": [
+      "ягодень",
+      "малина",
+      "желейно-фруктовый"
+    ],
+    "normalizedTokens": [
+      "ягодень",
+      "малина",
+      "желейно-фруктовый",
+      "165 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "165 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мармелад Vidal Stixxxs жевательный 90 г",
+    "cleanTokens": [
+      "stixxxs",
+      "жевательный"
+    ],
+    "normalizedTokens": [
+      "stixxxs",
+      "жевательный",
+      "90 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "90 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мармелад FINI Oursons жевательный 90 г",
+    "cleanTokens": [
+      "oursons",
+      "жевательный"
+    ],
+    "normalizedTokens": [
+      "oursons",
+      "жевательный",
+      "90 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "90 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мармелад Vidal Змейка жевательный 66 г",
+    "cleanTokens": [
+      "змейка",
+      "жевательный"
+    ],
+    "normalizedTokens": [
+      "змейка",
+      "жевательный",
+      "66 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "66 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мармелад Vidal Stixxxs strawberry cream жевательный 90 г",
+    "cleanTokens": [
+      "stixxxs",
+      "strawberry",
+      "cream",
+      "жевательный"
+    ],
+    "normalizedTokens": [
+      "stixxxs",
+      "strawberry",
+      "cream",
+      "жевательный",
+      "90 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "90 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мармелад Vidal strawberry and cream drops жевательный 90 г",
+    "cleanTokens": [
+      "strawberry",
+      "and",
+      "cream",
+      "drops",
+      "жевательный"
+    ],
+    "normalizedTokens": [
+      "strawberry",
+      "and",
+      "cream",
+      "drops",
+      "жевательный",
+      "90 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "90 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мармелад Сибирский кедр глинтвейн бруснично-вишнёвый фруктово-ягодный 165 г",
+    "cleanTokens": [
+      "глинтвейн",
+      "бруснично-вишневый",
+      "фруктово-ягодный"
+    ],
+    "normalizedTokens": [
+      "глинтвейн",
+      "бруснично-вишневый",
+      "фруктово-ягодный",
+      "165 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "165 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мармелад Фру-фру карандаши клубника жевательный 80 г",
+    "cleanTokens": [
+      "карандаши",
+      "клубника",
+      "жевательный"
+    ],
+    "normalizedTokens": [
+      "карандаши",
+      "клубника",
+      "жевательный",
+      "80 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "80 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мармелад Крут Фрут Динозаврики жевательный 70 г",
+    "cleanTokens": [
+      "динозаврики",
+      "жевательный"
+    ],
+    "normalizedTokens": [
+      "динозаврики",
+      "жевательный",
+      "70 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "70 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мармелад Крут Фрут Змейки жевательный, фруктово-ягодный 70 г",
+    "cleanTokens": [
+      "змейки",
+      "жевательный",
+      "фруктово-ягодный"
+    ],
+    "normalizedTokens": [
+      "змейки",
+      "жевательный",
+      "фруктово-ягодный",
+      "70 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "70 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мармелад Крут Фрут Апельсин, груша, лимон, манго, яблоко жевательный 70 г",
+    "cleanTokens": [
+      "апельсин",
+      "груша",
+      "лимон",
+      "манго",
+      "яблоко",
+      "жевательный"
+    ],
+    "normalizedTokens": [
+      "апельсин",
+      "груша",
+      "лимон",
+      "манго",
+      "яблоко",
+      "жевательный",
+      "70 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "70 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мармелад Крут Фрут Змейка в кислой посыпке жевательный, фруктово-ягодный 70 г",
+    "cleanTokens": [
+      "змейка",
+      "в",
+      "кислой",
+      "посыпке",
+      "жевательный",
+      "фруктово-ягодный"
+    ],
+    "normalizedTokens": [
+      "змейка",
+      "в",
+      "кислой",
+      "посыпке",
+      "жевательный",
+      "фруктово-ягодный",
+      "70 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "70 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мармелад Крут Фрут Perfect Match жевательный 70 г",
+    "cleanTokens": [
+      "perfect",
+      "match",
+      "жевательный"
+    ],
+    "normalizedTokens": [
+      "perfect",
+      "match",
+      "жевательный",
+      "70 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "70 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мармелад Крут Фрут Ассорти жевательный 70 г",
+    "cleanTokens": [
+      "ассорти",
+      "жевательный"
+    ],
+    "normalizedTokens": [
+      "ассорти",
+      "жевательный",
+      "70 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "70 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мармелад Фрукт Продукт Апельсин фруктово-ягодный 100 г",
+    "cleanTokens": [
+      "апельсин",
+      "фруктово-ягодный"
+    ],
+    "normalizedTokens": [
+      "апельсин",
+      "фруктово-ягодный",
+      "100 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "100 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мармелад FINI Holiday Яичница жевательный 100 г",
+    "cleanTokens": [
+      "holiday",
+      "яичница",
+      "жевательный"
+    ],
+    "normalizedTokens": [
+      "holiday",
+      "яичница",
+      "жевательный",
+      "100 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "100 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мармелад Lotte Jellycious со вкусом колы желейно-фруктовый 50 г",
+    "cleanTokens": [
+      "jellycious",
+      "со",
+      "вкусом",
+      "колы",
+      "желейно-фруктовый"
+    ],
+    "normalizedTokens": [
+      "jellycious",
+      "со",
+      "вкусом",
+      "колы",
+      "желейно-фруктовый",
+      "50 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "50 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мармелад FINI Tropical Mix Тропические фрукты жевательный 90 г",
+    "cleanTokens": [
+      "tropical",
+      "mix",
+      "тропические",
+      "фрукты",
+      "жевательный"
+    ],
+    "normalizedTokens": [
+      "tropical",
+      "mix",
+      "тропические",
+      "фрукты",
+      "жевательный",
+      "90 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "90 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мармелад Фру-фру Ягодки жевательный 30 г",
+    "cleanTokens": [
+      "ягодки",
+      "жевательный"
+    ],
+    "normalizedTokens": [
+      "ягодки",
+      "жевательный",
+      "30 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "30 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мармелад Vidal Peach Hearts фруктово-ягодный 90 г",
+    "cleanTokens": [
+      "peach",
+      "hearts",
+      "фруктово-ягодный"
+    ],
+    "normalizedTokens": [
+      "peach",
+      "hearts",
+      "фруктово-ягодный",
+      "90 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "90 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мармелад Крут Фрут Морские животные жевательный, фруктово-ягодный 70 г",
+    "cleanTokens": [
+      "морские",
+      "животные",
+      "жевательный",
+      "фруктово-ягодный"
+    ],
+    "normalizedTokens": [
+      "морские",
+      "животные",
+      "жевательный",
+      "фруктово-ягодный",
+      "70 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "70 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мармелад Крут Фрут Мозг жевательный 70 г",
+    "cleanTokens": [
+      "мозг",
+      "жевательный"
+    ],
+    "normalizedTokens": [
+      "мозг",
+      "жевательный",
+      "70 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "70 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мармелад Lotte Jellycious со вкусом арбуза жевательный 56 г",
+    "cleanTokens": [
+      "jellycious",
+      "со",
+      "вкусом",
+      "арбуза",
+      "жевательный"
+    ],
+    "normalizedTokens": [
+      "jellycious",
+      "со",
+      "вкусом",
+      "арбуза",
+      "жевательный",
+      "56 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "56 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мармелад Крут Фрут Абрикос, клубника, манго, ананас жевательный 100 г",
+    "cleanTokens": [
+      "абрикос",
+      "клубника",
+      "манго",
+      "ананас",
+      "жевательный"
+    ],
+    "normalizedTokens": [
+      "абрикос",
+      "клубника",
+      "манго",
+      "ананас",
+      "жевательный",
+      "100 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "100 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мармелад Белёвский продукт Фрутэллки микс жевательный 300 г",
+    "cleanTokens": [
+      "фрутэллки",
+      "микс",
+      "жевательный"
+    ],
+    "normalizedTokens": [
+      "фрутэллки",
+      "микс",
+      "жевательный",
+      "300 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "300 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мармелад Крут Фрут Сороконожки жевательный, фруктово-ягодный 70 г",
+    "cleanTokens": [
+      "сороконожки",
+      "жевательный",
+      "фруктово-ягодный"
+    ],
+    "normalizedTokens": [
+      "сороконожки",
+      "жевательный",
+      "фруктово-ягодный",
+      "70 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "70 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мармелад Trolli Strawberry Kiss фруктово-ягодный 100 г",
+    "cleanTokens": [
+      "strawberry",
+      "kiss",
+      "фруктово-ягодный"
+    ],
+    "normalizedTokens": [
+      "strawberry",
+      "kiss",
+      "фруктово-ягодный",
+      "100 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "100 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мармелад Pokemon Drawing Candy желейно-фруктовый 18.5 г",
+    "cleanTokens": [
+      "drawing",
+      "candy",
+      "желейно-фруктовый"
+    ],
+    "normalizedTokens": [
+      "drawing",
+      "candy",
+      "желейно-фруктовый",
+      "18.5 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "18.5 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мармелад Mayama Со вкусом малины и черники со сливками жевательный 70 г",
+    "cleanTokens": [
+      "со",
+      "вкусом",
+      "малины",
+      "черники",
+      "со",
+      "сливками",
+      "жевательный"
+    ],
+    "normalizedTokens": [
+      "со",
+      "вкусом",
+      "малины",
+      "черники",
+      "со",
+      "сливками",
+      "жевательный",
+      "70 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "70 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мармелад Haitai Виноград жевательный 24 г",
+    "cleanTokens": [
+      "виноград",
+      "жевательный"
+    ],
+    "normalizedTokens": [
+      "виноград",
+      "жевательный",
+      "24 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "24 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мармелад Фрукт Продукт Клубника жевательный, фруктово-ягодный 70 г",
+    "cleanTokens": [
+      "клубника",
+      "жевательный",
+      "фруктово-ягодный"
+    ],
+    "normalizedTokens": [
+      "клубника",
+      "жевательный",
+      "фруктово-ягодный",
+      "70 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "70 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мармелад FINI Galaxy Mix Галактический микс жевательный 90 г",
+    "cleanTokens": [
+      "galaxy",
+      "mix",
+      "галактический",
+      "микс",
+      "жевательный"
+    ],
+    "normalizedTokens": [
+      "galaxy",
+      "mix",
+      "галактический",
+      "микс",
+      "жевательный",
+      "90 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "90 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мармелад FINI Holiday жевательный 90 г",
+    "cleanTokens": [
+      "holiday",
+      "жевательный"
+    ],
+    "normalizedTokens": [
+      "holiday",
+      "жевательный",
+      "90 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "90 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мармелад FINI Roller Клубника жевательный 20 г",
+    "cleanTokens": [
+      "roller",
+      "клубника",
+      "жевательный"
+    ],
+    "normalizedTokens": [
+      "roller",
+      "клубника",
+      "жевательный",
+      "20 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "20 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мармелад Lotte Jellycious фруктово-ягодный 70 г",
+    "cleanTokens": [
+      "jellycious",
+      "фруктово-ягодный"
+    ],
+    "normalizedTokens": [
+      "jellycious",
+      "фруктово-ягодный",
+      "70 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "70 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мармелад Lotte Jellycious со вкусом зеленого винограда жевательный 72 г",
+    "cleanTokens": [
+      "jellycious",
+      "со",
+      "вкусом",
+      "зеленого",
+      "винограда",
+      "жевательный"
+    ],
+    "normalizedTokens": [
+      "jellycious",
+      "со",
+      "вкусом",
+      "зеленого",
+      "винограда",
+      "жевательный",
+      "72 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "72 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мармелад Крут Фрут Динозаврики жевательный 70 г",
+    "cleanTokens": [
+      "динозаврики",
+      "жевательный"
+    ],
+    "normalizedTokens": [
+      "динозаврики",
+      "жевательный",
+      "70 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "70 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мармелад Сибирский кедр Ягодень черника, смородина, малина фруктово-ягодный 165 г",
+    "cleanTokens": [
+      "ягодень",
+      "черника",
+      "смородина",
+      "малина",
+      "фруктово-ягодный"
+    ],
+    "normalizedTokens": [
+      "ягодень",
+      "черника",
+      "смородина",
+      "малина",
+      "фруктово-ягодный",
+      "165 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "165 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мармелад FINI Jelly Bananas Бананы фруктовый 90 г",
+    "cleanTokens": [
+      "jelly",
+      "bananas",
+      "бананы",
+      "фруктовый"
+    ],
+    "normalizedTokens": [
+      "jelly",
+      "bananas",
+      "бананы",
+      "фруктовый",
+      "90 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "90 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мармелад Крут Фрут Лягушки жевательный 100 г",
+    "cleanTokens": [
+      "лягушки",
+      "жевательный"
+    ],
+    "normalizedTokens": [
+      "лягушки",
+      "жевательный",
+      "100 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "100 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мармелад Haitai Клубника фруктово-ягодный 24 г",
+    "cleanTokens": [
+      "клубника",
+      "фруктово-ягодный"
+    ],
+    "normalizedTokens": [
+      "клубника",
+      "фруктово-ягодный",
+      "24 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "24 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мармелад FINI Sour Tongues жевательный 90 г",
+    "cleanTokens": [
+      "sour",
+      "tongues",
+      "жевательный"
+    ],
+    "normalizedTokens": [
+      "sour",
+      "tongues",
+      "жевательный",
+      "90 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "90 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мармелад FINI Roller Роллер фантазия жевательный 20 г",
+    "cleanTokens": [
+      "roller",
+      "роллер",
+      "фантазия",
+      "жевательный"
+    ],
+    "normalizedTokens": [
+      "roller",
+      "роллер",
+      "фантазия",
+      "жевательный",
+      "20 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "20 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мармелад FINI Roller Арбуз жевательный 20 г",
+    "cleanTokens": [
+      "roller",
+      "арбуз",
+      "жевательный"
+    ],
+    "normalizedTokens": [
+      "roller",
+      "арбуз",
+      "жевательный",
+      "20 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "20 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мармелад YumEarth мармелад фруктово-ягодный 198 г",
+    "cleanTokens": [
+      "фруктово-ягодный"
+    ],
+    "normalizedTokens": [
+      "фруктово-ягодный",
+      "198 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "198 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мармелад Mamba Фрумеладки фруктовый микс жевательный 139 г",
+    "cleanTokens": [
+      "фрумеладки",
+      "фруктовый",
+      "микс",
+      "жевательный"
+    ],
+    "normalizedTokens": [
+      "фрумеладки",
+      "фруктовый",
+      "микс",
+      "жевательный",
+      "139 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "139 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мармелад Крут Фрут Осьминожки жевательный 100 г",
+    "cleanTokens": [
+      "осьминожки",
+      "жевательный"
+    ],
+    "normalizedTokens": [
+      "осьминожки",
+      "жевательный",
+      "100 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "100 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мармелад Крут Фрут Веселая бутылочка жевательный 70 г",
+    "cleanTokens": [
+      "веселая",
+      "бутылочка",
+      "жевательный"
+    ],
+    "normalizedTokens": [
+      "веселая",
+      "бутылочка",
+      "жевательный",
+      "70 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "70 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мармелад Sweet Box Щенячий патруль с игрушкой жевательный 5 г",
+    "cleanTokens": [
+      "щенячий",
+      "патруль",
+      "с",
+      "игрушкой",
+      "жевательный"
+    ],
+    "normalizedTokens": [
+      "щенячий",
+      "патруль",
+      "с",
+      "игрушкой",
+      "жевательный",
+      "5 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "5 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мармелад Крут Фрут Мышки жевательный 100 г",
+    "cleanTokens": [
+      "мышки",
+      "жевательный"
+    ],
+    "normalizedTokens": [
+      "мышки",
+      "жевательный",
+      "100 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "100 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мармелад Not Guilty мишки со вкусом фруктов жевательный 100 г",
+    "cleanTokens": [
+      "мишки",
+      "со",
+      "вкусом",
+      "фруктов",
+      "жевательный"
+    ],
+    "normalizedTokens": [
+      "мишки",
+      "со",
+      "вкусом",
+      "фруктов",
+      "жевательный",
+      "100 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "100 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мармелад FINI Jelly Teeth жевательный 90 г",
+    "cleanTokens": [
+      "jelly",
+      "teeth",
+      "жевательный"
+    ],
+    "normalizedTokens": [
+      "jelly",
+      "teeth",
+      "жевательный",
+      "90 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "90 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мармелад FINI jelly octopus жевательный 90 г",
+    "cleanTokens": [
+      "jelly",
+      "octopus",
+      "жевательный"
+    ],
+    "normalizedTokens": [
+      "jelly",
+      "octopus",
+      "жевательный",
+      "90 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "90 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мармелад YumEarth Organic gummy bears с гранатовым вкусом жевательный 12 упаковок по 50 грамм",
+    "cleanTokens": [
+      "organic",
+      "gummy",
+      "bears",
+      "с",
+      "гранатовым",
+      "вкусом",
+      "жевательный",
+      "12",
+      "упаковок",
+      "по",
+      "50",
+      "грамм"
+    ],
+    "normalizedTokens": [
+      "organic",
+      "gummy",
+      "bears",
+      "с",
+      "гранатовым",
+      "вкусом",
+      "жевательный",
+      "12",
+      "упаковок",
+      "по",
+      "50",
+      "грамм"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мармелад Крут Фрут Бабочки жевательный, фруктово-ягодный 70 г",
+    "cleanTokens": [
+      "бабочки",
+      "жевательный",
+      "фруктово-ягодный"
+    ],
+    "normalizedTokens": [
+      "бабочки",
+      "жевательный",
+      "фруктово-ягодный",
+      "70 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "70 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мармелад Sweet Box Турбдзавры с игрушкой жевательный 10 г",
+    "cleanTokens": [
+      "турбдзавры",
+      "с",
+      "игрушкой",
+      "жевательный"
+    ],
+    "normalizedTokens": [
+      "турбдзавры",
+      "с",
+      "игрушкой",
+      "жевательный",
+      "10 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "10 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мармелад Trolli Candy Bananas жевательный 100 г",
+    "cleanTokens": [
+      "candy",
+      "bananas",
+      "жевательный"
+    ],
+    "normalizedTokens": [
+      "candy",
+      "bananas",
+      "жевательный",
+      "100 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "100 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мармелад Крут Фрут Динозаврики желейно-фруктовый 100 г",
+    "cleanTokens": [
+      "динозаврики",
+      "желейно-фруктовый"
+    ],
+    "normalizedTokens": [
+      "динозаврики",
+      "желейно-фруктовый",
+      "100 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "100 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мармелад Сибирский кедр таёжный с сиропом из сосновых шишек фруктово-ягодный 124 г",
+    "cleanTokens": [
+      "таежный",
+      "с",
+      "сиропом",
+      "из",
+      "сосновых",
+      "шишек",
+      "фруктово-ягодный"
+    ],
+    "normalizedTokens": [
+      "таежный",
+      "с",
+      "сиропом",
+      "из",
+      "сосновых",
+      "шишек",
+      "фруктово-ягодный",
+      "124 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "124 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мармелад Lotte Jellycious со вкусом винограда желейно-фруктовый 60 г",
+    "cleanTokens": [
+      "jellycious",
+      "со",
+      "вкусом",
+      "винограда",
+      "желейно-фруктовый"
+    ],
+    "normalizedTokens": [
+      "jellycious",
+      "со",
+      "вкусом",
+      "винограда",
+      "желейно-фруктовый",
+      "60 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "60 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мармелад Haitai Яблоко фруктово-ягодный 24 г",
+    "cleanTokens": [
+      "яблоко",
+      "фруктово-ягодный"
+    ],
+    "normalizedTokens": [
+      "яблоко",
+      "фруктово-ягодный",
+      "24 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "24 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мармелад Фрукт Продукт Клубника жевательный, фруктово-ягодный 100 г",
+    "cleanTokens": [
+      "клубника",
+      "жевательный",
+      "фруктово-ягодный"
+    ],
+    "normalizedTokens": [
+      "клубника",
+      "жевательный",
+      "фруктово-ягодный",
+      "100 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "100 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мармелад FINI Jelly Sharks Акулы жевательный 90 г",
+    "cleanTokens": [
+      "jelly",
+      "sharks",
+      "акулы",
+      "жевательный"
+    ],
+    "normalizedTokens": [
+      "jelly",
+      "sharks",
+      "акулы",
+      "жевательный",
+      "90 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "90 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мармелад Vidal Unicorns жевательный 90 г",
+    "cleanTokens": [
+      "unicorns",
+      "жевательный"
+    ],
+    "normalizedTokens": [
+      "unicorns",
+      "жевательный",
+      "90 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "90 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мармелад Sweet Box Чебурашка с игрушкой жевательный 10 г",
+    "cleanTokens": [
+      "чебурашка",
+      "с",
+      "игрушкой",
+      "жевательный"
+    ],
+    "normalizedTokens": [
+      "чебурашка",
+      "с",
+      "игрушкой",
+      "жевательный",
+      "10 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "10 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мармелад Сибирский кедр без сахара ягодень с натуральными соками: облепихи, брусники, черноплодной рябины желейно-фруктовый 165 г",
+    "cleanTokens": [
+      "без",
+      "сахара",
+      "ягодень",
+      "с",
+      "натуральными",
+      "соками:",
+      "облепихи",
+      "брусники",
+      "черноплодной",
+      "рябины",
+      "желейно-фруктовый"
+    ],
+    "normalizedTokens": [
+      "без",
+      "сахара",
+      "ягодень",
+      "с",
+      "натуральными",
+      "соками:",
+      "облепихи",
+      "брусники",
+      "черноплодной",
+      "рябины",
+      "желейно-фруктовый",
+      "165 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "165 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мармелад Bitey Чувис Малина жевательный 20 г",
+    "cleanTokens": [
+      "чувис",
+      "малина",
+      "жевательный"
+    ],
+    "normalizedTokens": [
+      "чувис",
+      "малина",
+      "жевательный",
+      "20 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "20 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мармелад Фрукт Продукт Апельсин жевательный, фруктово-ягодный 70 г",
+    "cleanTokens": [
+      "апельсин",
+      "жевательный",
+      "фруктово-ягодный"
+    ],
+    "normalizedTokens": [
+      "апельсин",
+      "жевательный",
+      "фруктово-ягодный",
+      "70 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "70 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мармелад Plusha Capy Jelly Love жевательный 45 г",
+    "cleanTokens": [
+      "capy",
+      "jelly",
+      "love",
+      "жевательный"
+    ],
+    "normalizedTokens": [
+      "capy",
+      "jelly",
+      "love",
+      "жевательный",
+      "45 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "45 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мармелад Фрукт Продукт апельсин, гранат, клубника, малина, яблоко жевательный, фруктово-ягодный 5 пачек по 70 г",
+    "cleanTokens": [
+      "апельсин",
+      "гранат",
+      "клубника",
+      "малина",
+      "яблоко",
+      "жевательный",
+      "фруктово-ягодный",
+      "5",
+      "пачек",
+      "по"
+    ],
+    "normalizedTokens": [
+      "апельсин",
+      "гранат",
+      "клубника",
+      "малина",
+      "яблоко",
+      "жевательный",
+      "фруктово-ягодный",
+      "5",
+      "пачек",
+      "по",
+      "70 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "70 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мармелад Фрукт Продукт Натуральный клюква фруктово-ягодный, желейно-фруктовый 40 г",
+    "cleanTokens": [
+      "натуральный",
+      "клюква",
+      "фруктово-ягодный",
+      "желейно-фруктовый"
+    ],
+    "normalizedTokens": [
+      "натуральный",
+      "клюква",
+      "фруктово-ягодный",
+      "желейно-фруктовый",
+      "40 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "40 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мармелад Mayama Со вкусом яблока, лимона, клубники, манго, вишни жевательный 70 г",
+    "cleanTokens": [
+      "со",
+      "вкусом",
+      "яблока",
+      "лимона",
+      "клубники",
+      "манго",
+      "вишни",
+      "жевательный"
+    ],
+    "normalizedTokens": [
+      "со",
+      "вкусом",
+      "яблока",
+      "лимона",
+      "клубники",
+      "манго",
+      "вишни",
+      "жевательный",
+      "70 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "70 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мармелад FINI Sour Tropical Mix жевательный 90 г",
+    "cleanTokens": [
+      "sour",
+      "tropical",
+      "mix",
+      "жевательный"
+    ],
+    "normalizedTokens": [
+      "sour",
+      "tropical",
+      "mix",
+      "жевательный",
+      "90 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "90 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мармелад FINI jelly cola жевательный 90 г",
+    "cleanTokens": [
+      "jelly",
+      "cola",
+      "жевательный"
+    ],
+    "normalizedTokens": [
+      "jelly",
+      "cola",
+      "жевательный",
+      "90 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "90 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мармелад ORION кисло-сладкий со вкусом лимона и лайма жевательный, фруктовый 72 г",
+    "cleanTokens": [
+      "кисло-сладкий",
+      "со",
+      "вкусом",
+      "лимона",
+      "лайма",
+      "жевательный",
+      "фруктовый"
+    ],
+    "normalizedTokens": [
+      "кисло-сладкий",
+      "со",
+      "вкусом",
+      "лимона",
+      "лайма",
+      "жевательный",
+      "фруктовый",
+      "72 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "72 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мармелад Not Guilty Milly the Star звездочки жевательный 100 г",
+    "cleanTokens": [
+      "milly",
+      "the",
+      "star",
+      "звездочки",
+      "жевательный"
+    ],
+    "normalizedTokens": [
+      "milly",
+      "the",
+      "star",
+      "звездочки",
+      "жевательный",
+      "100 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "100 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мармелад Lotte со вкусом колы желейно-фруктовый 29 г",
+    "cleanTokens": [
+      "со",
+      "вкусом",
+      "колы",
+      "желейно-фруктовый"
+    ],
+    "normalizedTokens": [
+      "со",
+      "вкусом",
+      "колы",
+      "желейно-фруктовый",
+      "29 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "29 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мармелад Plusha Capy Jelly pop желейно-фруктовый 16 г",
+    "cleanTokens": [
+      "capy",
+      "jelly",
+      "pop",
+      "желейно-фруктовый"
+    ],
+    "normalizedTokens": [
+      "capy",
+      "jelly",
+      "pop",
+      "желейно-фруктовый",
+      "16 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "16 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мармелад ORION Виноград фруктово-ягодный 66 г",
+    "cleanTokens": [
+      "виноград",
+      "фруктово-ягодный"
+    ],
+    "normalizedTokens": [
+      "виноград",
+      "фруктово-ягодный",
+      "66 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "66 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мармелад FINI Jelly Bananas Бананы жевательный 90 г",
+    "cleanTokens": [
+      "jelly",
+      "bananas",
+      "бананы",
+      "жевательный"
+    ],
+    "normalizedTokens": [
+      "jelly",
+      "bananas",
+      "бананы",
+      "жевательный",
+      "90 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "90 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мармелад Trolli Молочные коровки жевательный 150 г",
+    "cleanTokens": [
+      "молочные",
+      "коровки",
+      "жевательный"
+    ],
+    "normalizedTokens": [
+      "молочные",
+      "коровки",
+      "жевательный",
+      "150 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "150 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мармелад Фрукт Продукт фруктово-ягодный апельсин 480 г",
+    "cleanTokens": [
+      "фруктово-ягодный",
+      "апельсин"
+    ],
+    "normalizedTokens": [
+      "фруктово-ягодный",
+      "апельсин",
+      "480 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "480 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мармелад CHI-WA-WA Spaghetti манго и чили фруктово-ягодный 90 г",
+    "cleanTokens": [
+      "spaghetti",
+      "манго",
+      "чили",
+      "фруктово-ягодный"
+    ],
+    "normalizedTokens": [
+      "spaghetti",
+      "манго",
+      "чили",
+      "фруктово-ягодный",
+      "90 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "90 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мармелад Кожурок Банан двуслойный с витамином С жевательный 20 г",
+    "cleanTokens": [
+      "банан",
+      "двуслойный",
+      "с",
+      "витамином",
+      "с",
+      "жевательный"
+    ],
+    "normalizedTokens": [
+      "банан",
+      "двуслойный",
+      "с",
+      "витамином",
+      "с",
+      "жевательный",
+      "20 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "20 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мармелад FINI Jelly Berries жевательный 90 г",
+    "cleanTokens": [
+      "jelly",
+      "berries",
+      "жевательный"
+    ],
+    "normalizedTokens": [
+      "jelly",
+      "berries",
+      "жевательный",
+      "90 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "90 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мармелад Plusha аквамелад от Акси желейно-фруктовый 110 г",
+    "cleanTokens": [
+      "аквамелад",
+      "от",
+      "акси",
+      "желейно-фруктовый"
+    ],
+    "normalizedTokens": [
+      "аквамелад",
+      "от",
+      "акси",
+      "желейно-фруктовый",
+      "110 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "110 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мармелад FINI Little Mix кислинка жевательный 100 г",
+    "cleanTokens": [
+      "little",
+      "mix",
+      "кислинка",
+      "жевательный"
+    ],
+    "normalizedTokens": [
+      "little",
+      "mix",
+      "кислинка",
+      "жевательный",
+      "100 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "100 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мармелад Lotte Zero sugar free Yuja jelly жевательный 40 г",
+    "cleanTokens": [
+      "zero",
+      "sugar",
+      "free",
+      "yuja",
+      "jelly",
+      "жевательный"
+    ],
+    "normalizedTokens": [
+      "zero",
+      "sugar",
+      "free",
+      "yuja",
+      "jelly",
+      "жевательный",
+      "40 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "40 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мармелад Конфитрейд Sweet Box ВЛАD Бумага с подарком жевательный 10 г",
+    "cleanTokens": [
+      "влаd",
+      "бумага",
+      "с",
+      "подарком",
+      "жевательный"
+    ],
+    "normalizedTokens": [
+      "влаd",
+      "бумага",
+      "с",
+      "подарком",
+      "жевательный",
+      "10 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "10 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мармелад Haribo Starmix жевательный 80 г",
+    "cleanTokens": [
+      "starmix",
+      "жевательный"
+    ],
+    "normalizedTokens": [
+      "starmix",
+      "жевательный",
+      "80 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "80 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мармелад FINI Strawberry Pencils Клубничные карандаши фруктово-ягодный 90 г",
+    "cleanTokens": [
+      "strawberry",
+      "pencils",
+      "клубничные",
+      "карандаши",
+      "фруктово-ягодный"
+    ],
+    "normalizedTokens": [
+      "strawberry",
+      "pencils",
+      "клубничные",
+      "карандаши",
+      "фруктово-ягодный",
+      "90 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "90 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мармелад Chupa Chups Роллсы кислые жевательный 70 г",
+    "cleanTokens": [
+      "роллсы",
+      "кислые",
+      "жевательный"
+    ],
+    "normalizedTokens": [
+      "роллсы",
+      "кислые",
+      "жевательный",
+      "70 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "70 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мармелад Haribo Starmix жевательный 160 г",
+    "cleanTokens": [
+      "starmix",
+      "жевательный"
+    ],
+    "normalizedTokens": [
+      "starmix",
+      "жевательный",
+      "160 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "160 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мармелад FINI Wild Strawberries клубника жевательный 100 г",
+    "cleanTokens": [
+      "wild",
+      "strawberries",
+      "клубника",
+      "жевательный"
+    ],
+    "normalizedTokens": [
+      "wild",
+      "strawberries",
+      "клубника",
+      "жевательный",
+      "100 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "100 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мармелад Mamba Фрумеладки Молочные приведения жевательный 90 г",
+    "cleanTokens": [
+      "фрумеладки",
+      "молочные",
+      "приведения",
+      "жевательный"
+    ],
+    "normalizedTokens": [
+      "фрумеладки",
+      "молочные",
+      "приведения",
+      "жевательный",
+      "90 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "90 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мармелад Fruzzz фруктовые спагетти вишня в кислой обсыпке жевательный 80 г",
+    "cleanTokens": [
+      "фруктовые",
+      "спагетти",
+      "вишня",
+      "в",
+      "кислой",
+      "обсыпке",
+      "жевательный"
+    ],
+    "normalizedTokens": [
+      "фруктовые",
+      "спагетти",
+      "вишня",
+      "в",
+      "кислой",
+      "обсыпке",
+      "жевательный",
+      "80 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "80 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мармелад ORION со вкусом щербета жевательный 72 г",
+    "cleanTokens": [
+      "со",
+      "вкусом",
+      "щербета",
+      "жевательный"
+    ],
+    "normalizedTokens": [
+      "со",
+      "вкусом",
+      "щербета",
+      "жевательный",
+      "72 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "72 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мармелад Trolli Glotzer глаза жевательный 75 г",
+    "cleanTokens": [
+      "glotzer",
+      "глаза",
+      "жевательный"
+    ],
+    "normalizedTokens": [
+      "glotzer",
+      "глаза",
+      "жевательный",
+      "75 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "75 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мармелад Sweet Box Детектив Финник жевательный 10 г",
+    "cleanTokens": [
+      "детектив",
+      "финник",
+      "жевательный"
+    ],
+    "normalizedTokens": [
+      "детектив",
+      "финник",
+      "жевательный",
+      "10 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "10 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мармелад Бегемотик Бонди С соком ягод и фруктов жевательный 70 г",
+    "cleanTokens": [
+      "с",
+      "соком",
+      "ягод",
+      "фруктов",
+      "жевательный"
+    ],
+    "normalizedTokens": [
+      "с",
+      "соком",
+      "ягод",
+      "фруктов",
+      "жевательный",
+      "70 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "70 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мармелад FINI Bisous Fraise жевательный 90 г",
+    "cleanTokens": [
+      "bisous",
+      "fraise",
+      "жевательный"
+    ],
+    "normalizedTokens": [
+      "bisous",
+      "fraise",
+      "жевательный",
+      "90 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "90 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мармелад ORION со вкусом белого и желтого персика желейно-фруктовый 79 г",
+    "cleanTokens": [
+      "со",
+      "вкусом",
+      "белого",
+      "желтого",
+      "персика",
+      "желейно-фруктовый"
+    ],
+    "normalizedTokens": [
+      "со",
+      "вкусом",
+      "белого",
+      "желтого",
+      "персика",
+      "желейно-фруктовый",
+      "79 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "79 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мармелад FINI Tubes Sour жевательный 90 г",
+    "cleanTokens": [
+      "tubes",
+      "sour",
+      "жевательный"
+    ],
+    "normalizedTokens": [
+      "tubes",
+      "sour",
+      "жевательный",
+      "90 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "90 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мармелад CHI-WA-WA Spaghetti кола и лайм жевательный 90 г",
+    "cleanTokens": [
+      "spaghetti",
+      "кола",
+      "лайм",
+      "жевательный"
+    ],
+    "normalizedTokens": [
+      "spaghetti",
+      "кола",
+      "лайм",
+      "жевательный",
+      "90 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "90 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мармелад Sweet Box Baby Shark с игрушкой жевательный 10 г",
+    "cleanTokens": [
+      "baby",
+      "shark",
+      "с",
+      "игрушкой",
+      "жевательный"
+    ],
+    "normalizedTokens": [
+      "baby",
+      "shark",
+      "с",
+      "игрушкой",
+      "жевательный",
+      "10 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "10 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мармелад Trolli Осьминоги фруктово-ягодный 100 г",
+    "cleanTokens": [
+      "осьминоги",
+      "фруктово-ягодный"
+    ],
+    "normalizedTokens": [
+      "осьминоги",
+      "фруктово-ягодный",
+      "100 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "100 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мармелад Sweet Box Роблоксеры жевательный 10 г",
+    "cleanTokens": [
+      "роблоксеры",
+      "жевательный"
+    ],
+    "normalizedTokens": [
+      "роблоксеры",
+      "жевательный",
+      "10 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "10 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мармелад Sweet Box Сказочный патруль с игрушкой жевательный 10 г",
+    "cleanTokens": [
+      "сказочный",
+      "патруль",
+      "с",
+      "игрушкой",
+      "жевательный"
+    ],
+    "normalizedTokens": [
+      "сказочный",
+      "патруль",
+      "с",
+      "игрушкой",
+      "жевательный",
+      "10 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "10 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мармелад FINI Magic Carpets Волшебные ковры жевательный 90 г",
+    "cleanTokens": [
+      "magic",
+      "carpets",
+      "волшебные",
+      "ковры",
+      "жевательный"
+    ],
+    "normalizedTokens": [
+      "magic",
+      "carpets",
+      "волшебные",
+      "ковры",
+      "жевательный",
+      "90 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "90 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мармелад FINI Jelly Worms Червячки жевательный 90 г",
+    "cleanTokens": [
+      "jelly",
+      "worms",
+      "червячки",
+      "жевательный"
+    ],
+    "normalizedTokens": [
+      "jelly",
+      "worms",
+      "червячки",
+      "жевательный",
+      "90 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "90 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мармелад FINI Bricks Ladrillos Брусочки жевательный 100 г",
+    "cleanTokens": [
+      "bricks",
+      "ladrillos",
+      "брусочки",
+      "жевательный"
+    ],
+    "normalizedTokens": [
+      "bricks",
+      "ladrillos",
+      "брусочки",
+      "жевательный",
+      "100 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "100 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мармелад Trolli Осьминог желейно-фруктовый 100 г",
+    "cleanTokens": [
+      "осьминог",
+      "желейно-фруктовый"
+    ],
+    "normalizedTokens": [
+      "осьминог",
+      "желейно-фруктовый",
+      "100 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "100 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мармелад YumEarth Organic fruit snacks фруктово-ягодный 198 г",
+    "cleanTokens": [
+      "organic",
+      "fruit",
+      "snacks",
+      "фруктово-ягодный"
+    ],
+    "normalizedTokens": [
+      "organic",
+      "fruit",
+      "snacks",
+      "фруктово-ягодный",
+      "198 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "198 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мармелад Sweet Box Синий трактор жевательный 10 г",
+    "cleanTokens": [
+      "синий",
+      "трактор",
+      "жевательный"
+    ],
+    "normalizedTokens": [
+      "синий",
+      "трактор",
+      "жевательный",
+      "10 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "10 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мармелад Lotte Jellycious в форме акулы желейно-фруктовый 70 г",
+    "cleanTokens": [
+      "jellycious",
+      "в",
+      "форме",
+      "акулы",
+      "желейно-фруктовый"
+    ],
+    "normalizedTokens": [
+      "jellycious",
+      "в",
+      "форме",
+      "акулы",
+      "желейно-фруктовый",
+      "70 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "70 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мармелад Sweet Box Капибара жевательный 10 г",
+    "cleanTokens": [
+      "капибара",
+      "жевательный"
+    ],
+    "normalizedTokens": [
+      "капибара",
+      "жевательный",
+      "10 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "10 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мармелад FINI strips sour клубника жевательный 90 г",
+    "cleanTokens": [
+      "strips",
+      "sour",
+      "клубника",
+      "жевательный"
+    ],
+    "normalizedTokens": [
+      "strips",
+      "sour",
+      "клубника",
+      "жевательный",
+      "90 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "90 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мармелад FINI Beans Бобы жевательный 85 г",
+    "cleanTokens": [
+      "beans",
+      "бобы",
+      "жевательный"
+    ],
+    "normalizedTokens": [
+      "beans",
+      "бобы",
+      "жевательный",
+      "85 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "85 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мармелад FINI Peach Rings Персиковые колечки жевательный 90 г",
+    "cleanTokens": [
+      "peach",
+      "rings",
+      "персиковые",
+      "колечки",
+      "жевательный"
+    ],
+    "normalizedTokens": [
+      "peach",
+      "rings",
+      "персиковые",
+      "колечки",
+      "жевательный",
+      "90 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "90 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мармелад Sweet Box Molang жевательный 10 г",
+    "cleanTokens": [
+      "molang",
+      "жевательный"
+    ],
+    "normalizedTokens": [
+      "molang",
+      "жевательный",
+      "10 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "10 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мармелад FINI Strips sour жевательный 90 г",
+    "cleanTokens": [
+      "strips",
+      "sour",
+      "жевательный"
+    ],
+    "normalizedTokens": [
+      "strips",
+      "sour",
+      "жевательный",
+      "90 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "90 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мармелад FINI Rainbow Pencils Палочки разноцветные жевательный 90 г",
+    "cleanTokens": [
+      "rainbow",
+      "pencils",
+      "палочки",
+      "разноцветные",
+      "жевательный"
+    ],
+    "normalizedTokens": [
+      "rainbow",
+      "pencils",
+      "палочки",
+      "разноцветные",
+      "жевательный",
+      "90 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "90 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мармелад FINI Clear Little Mini Мини микс жевательный 90 г",
+    "cleanTokens": [
+      "clear",
+      "little",
+      "mini",
+      "мини",
+      "микс",
+      "жевательный"
+    ],
+    "normalizedTokens": [
+      "clear",
+      "little",
+      "mini",
+      "мини",
+      "микс",
+      "жевательный",
+      "90 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "90 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мармелад FINI Mini Tubes Клубничные мини жевательный 100 г",
+    "cleanTokens": [
+      "mini",
+      "tubes",
+      "клубничные",
+      "мини",
+      "жевательный"
+    ],
+    "normalizedTokens": [
+      "mini",
+      "tubes",
+      "клубничные",
+      "мини",
+      "жевательный",
+      "100 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "100 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мармелад Фру-фру Зубки жевательные жевательный 30 г",
+    "cleanTokens": [
+      "зубки",
+      "жевательные",
+      "жевательный"
+    ],
+    "normalizedTokens": [
+      "зубки",
+      "жевательные",
+      "жевательный",
+      "30 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "30 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мармелад Sweet Box Пони с игрушкой жевательный 10 г",
+    "cleanTokens": [
+      "пони",
+      "с",
+      "игрушкой",
+      "жевательный"
+    ],
+    "normalizedTokens": [
+      "пони",
+      "с",
+      "игрушкой",
+      "жевательный",
+      "10 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "10 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мармелад Haribo Worms Zourr жевательный 80 г",
+    "cleanTokens": [
+      "worms",
+      "zourr",
+      "жевательный"
+    ],
+    "normalizedTokens": [
+      "worms",
+      "zourr",
+      "жевательный",
+      "80 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "80 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мармелад Trolli Кислый светлячок жевательный 100 г",
+    "cleanTokens": [
+      "кислый",
+      "светлячок",
+      "жевательный"
+    ],
+    "normalizedTokens": [
+      "кислый",
+      "светлячок",
+      "жевательный",
+      "100 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "100 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мармелад ORIHIRO Желе КОННЯКУ с натуральным соком ПЕРСИК + Коллаген желейно-фруктовый 96 г",
+    "cleanTokens": [
+      "желе",
+      "конняку",
+      "с",
+      "натуральным",
+      "соком",
+      "персик",
+      "+",
+      "коллаген",
+      "желейно-фруктовый"
+    ],
+    "normalizedTokens": [
+      "желе",
+      "конняку",
+      "с",
+      "натуральным",
+      "соком",
+      "персик",
+      "+",
+      "коллаген",
+      "желейно-фруктовый",
+      "96 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "96 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мармелад Beauty Sweeties Зайчики фруктовый без сахара жевательный 125 г",
+    "cleanTokens": [
+      "зайчики",
+      "фруктовый",
+      "без",
+      "сахара",
+      "жевательный"
+    ],
+    "normalizedTokens": [
+      "зайчики",
+      "фруктовый",
+      "без",
+      "сахара",
+      "жевательный",
+      "125 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "125 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мармелад Trolli The Original Hits фруктово-ягодный 200 г",
+    "cleanTokens": [
+      "the",
+      "original",
+      "hits",
+      "фруктово-ягодный"
+    ],
+    "normalizedTokens": [
+      "the",
+      "original",
+      "hits",
+      "фруктово-ягодный",
+      "200 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "200 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мармелад FINI jelly kisses жевательный 90 г",
+    "cleanTokens": [
+      "jelly",
+      "kisses",
+      "жевательный"
+    ],
+    "normalizedTokens": [
+      "jelly",
+      "kisses",
+      "жевательный",
+      "90 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "90 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мармелад Sweet Box Enchantimals с игрушкой жевательный 10 г",
+    "cleanTokens": [
+      "enchantimals",
+      "с",
+      "игрушкой",
+      "жевательный"
+    ],
+    "normalizedTokens": [
+      "enchantimals",
+      "с",
+      "игрушкой",
+      "жевательный",
+      "10 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "10 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мармелад Sweet Box Monster Trucks с игрушкой жевательный 5 г",
+    "cleanTokens": [
+      "monster",
+      "trucks",
+      "с",
+      "игрушкой",
+      "жевательный"
+    ],
+    "normalizedTokens": [
+      "monster",
+      "trucks",
+      "с",
+      "игрушкой",
+      "жевательный",
+      "5 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "5 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мармелад FINI Tubes Mini black жевательный 90 г",
+    "cleanTokens": [
+      "tubes",
+      "mini",
+      "black",
+      "жевательный"
+    ],
+    "normalizedTokens": [
+      "tubes",
+      "mini",
+      "black",
+      "жевательный",
+      "90 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "90 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мармелад Lotte Jellycious со вкусом разных фруктов желейно-фруктовый 51 г",
+    "cleanTokens": [
+      "jellycious",
+      "со",
+      "вкусом",
+      "разных",
+      "фруктов",
+      "желейно-фруктовый"
+    ],
+    "normalizedTokens": [
+      "jellycious",
+      "со",
+      "вкусом",
+      "разных",
+      "фруктов",
+      "желейно-фруктовый",
+      "51 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "51 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мармелад FINI Jelly Kisses Клубничный поцелуй жевательный 100 г",
+    "cleanTokens": [
+      "jelly",
+      "kisses",
+      "клубничный",
+      "поцелуй",
+      "жевательный"
+    ],
+    "normalizedTokens": [
+      "jelly",
+      "kisses",
+      "клубничный",
+      "поцелуй",
+      "жевательный",
+      "100 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "100 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мармелад YumEarth Organic gummy bears жевательный 3 шт по 50 г",
+    "cleanTokens": [
+      "organic",
+      "gummy",
+      "bears",
+      "жевательный",
+      "по"
+    ],
+    "normalizedTokens": [
+      "organic",
+      "gummy",
+      "bears",
+      "жевательный",
+      "3 шт",
+      "по",
+      "50 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "50 г",
+      "count": "3 шт",
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мармелад Xing Gi Ba Пудинг Клубника фруктовый 40 г",
+    "cleanTokens": [
+      "пудинг",
+      "клубника",
+      "фруктовый"
+    ],
+    "normalizedTokens": [
+      "пудинг",
+      "клубника",
+      "фруктовый",
+      "40 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "40 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мармелад Lotte со вкусом зеленого винограда желейно-фруктовый 29 г",
+    "cleanTokens": [
+      "со",
+      "вкусом",
+      "зеленого",
+      "винограда",
+      "желейно-фруктовый"
+    ],
+    "normalizedTokens": [
+      "со",
+      "вкусом",
+      "зеленого",
+      "винограда",
+      "желейно-фруктовый",
+      "29 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "29 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мармелад Sweet Box Волшебник Изумрудного города жевательный 10 г",
+    "cleanTokens": [
+      "волшебник",
+      "изумрудного",
+      "города",
+      "жевательный"
+    ],
+    "normalizedTokens": [
+      "волшебник",
+      "изумрудного",
+      "города",
+      "жевательный",
+      "10 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "10 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мармелад Haribo Goldbears жевательный 175 г",
+    "cleanTokens": [
+      "goldbears",
+      "жевательный"
+    ],
+    "normalizedTokens": [
+      "goldbears",
+      "жевательный",
+      "175 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "175 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мармелад FINI Watermelon Slicer Арбузные дольки жевательный 90 г",
+    "cleanTokens": [
+      "watermelon",
+      "slicer",
+      "арбузные",
+      "дольки",
+      "жевательный"
+    ],
+    "normalizedTokens": [
+      "watermelon",
+      "slicer",
+      "арбузные",
+      "дольки",
+      "жевательный",
+      "90 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "90 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мармелад Фрукт Продукт апельсин, клубника, клюква, яблоко жевательный, фруктово-ягодный 6 пачек по 100 г",
+    "cleanTokens": [
+      "апельсин",
+      "клубника",
+      "клюква",
+      "яблоко",
+      "жевательный",
+      "фруктово-ягодный",
+      "6",
+      "пачек",
+      "по"
+    ],
+    "normalizedTokens": [
+      "апельсин",
+      "клубника",
+      "клюква",
+      "яблоко",
+      "жевательный",
+      "фруктово-ягодный",
+      "6",
+      "пачек",
+      "по",
+      "100 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "100 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мармелад Bitey Чувис Черная Смородина жевательный 20 г",
+    "cleanTokens": [
+      "чувис",
+      "черная",
+      "смородина",
+      "жевательный"
+    ],
+    "normalizedTokens": [
+      "чувис",
+      "черная",
+      "смородина",
+      "жевательный",
+      "20 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "20 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мармелад ORIHIRO Yukiguni манго желейно-фруктовый 96 г",
+    "cleanTokens": [
+      "yukiguni",
+      "манго",
+      "желейно-фруктовый"
+    ],
+    "normalizedTokens": [
+      "yukiguni",
+      "манго",
+      "желейно-фруктовый",
+      "96 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "96 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мармелад ORIHIRO Yukiguni мандарин желейно-фруктовый 96 г",
+    "cleanTokens": [
+      "yukiguni",
+      "мандарин",
+      "желейно-фруктовый"
+    ],
+    "normalizedTokens": [
+      "yukiguni",
+      "мандарин",
+      "желейно-фруктовый",
+      "96 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "96 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мармелад ORIHIRO Yukiguni мускатный орех, виноград желейно-фруктовый 96 г",
+    "cleanTokens": [
+      "yukiguni",
+      "мускатный",
+      "орех",
+      "виноград",
+      "желейно-фруктовый"
+    ],
+    "normalizedTokens": [
+      "yukiguni",
+      "мускатный",
+      "орех",
+      "виноград",
+      "желейно-фруктовый",
+      "96 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "96 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мармелад ORIHIRO Yukiguni виноград желейно-фруктовый 96 г",
+    "cleanTokens": [
+      "yukiguni",
+      "виноград",
+      "желейно-фруктовый"
+    ],
+    "normalizedTokens": [
+      "yukiguni",
+      "виноград",
+      "желейно-фруктовый",
+      "96 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "96 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мармелад ORIHIRO Yukiguni грейпфрут желейно-фруктовый 96 г",
+    "cleanTokens": [
+      "yukiguni",
+      "грейпфрут",
+      "желейно-фруктовый"
+    ],
+    "normalizedTokens": [
+      "yukiguni",
+      "грейпфрут",
+      "желейно-фруктовый",
+      "96 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "96 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мармелад FINI Holiday Кола бутылочка жевательный 90 г",
+    "cleanTokens": [
+      "holiday",
+      "кола",
+      "бутылочка",
+      "жевательный"
+    ],
+    "normalizedTokens": [
+      "holiday",
+      "кола",
+      "бутылочка",
+      "жевательный",
+      "90 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "90 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мармелад Plusha Вкусняшки от Акси жевательный 45 г",
+    "cleanTokens": [
+      "вкусняшки",
+      "от",
+      "акси",
+      "жевательный"
+    ],
+    "normalizedTokens": [
+      "вкусняшки",
+      "от",
+      "акси",
+      "жевательный",
+      "45 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "45 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мармелад Haribo Starmix жевательный 175 г",
+    "cleanTokens": [
+      "starmix",
+      "жевательный"
+    ],
+    "normalizedTokens": [
+      "starmix",
+      "жевательный",
+      "175 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "175 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мармелад Sweet Box X:IN с игрушкой жевательный 10 г",
+    "cleanTokens": [
+      "x:in",
+      "с",
+      "игрушкой",
+      "жевательный"
+    ],
+    "normalizedTokens": [
+      "x:in",
+      "с",
+      "игрушкой",
+      "жевательный",
+      "10 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "10 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мармелад Sweet Box Умка жевательный 10 г",
+    "cleanTokens": [
+      "умка",
+      "жевательный"
+    ],
+    "normalizedTokens": [
+      "умка",
+      "жевательный",
+      "10 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "10 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мармелад NA! Nature Addicts Fruit Sticks фруктово-ягодный 35 г",
+    "cleanTokens": [
+      "fruit",
+      "sticks",
+      "фруктово-ягодный"
+    ],
+    "normalizedTokens": [
+      "fruit",
+      "sticks",
+      "фруктово-ягодный",
+      "35 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "35 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мармелад Trolli Happy Bears Day жевательный 100 г",
+    "cleanTokens": [
+      "happy",
+      "bears",
+      "day",
+      "жевательный"
+    ],
+    "normalizedTokens": [
+      "happy",
+      "bears",
+      "day",
+      "жевательный",
+      "100 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "100 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мармелад Vidal Sour Pencils фруктово-ягодный 90 г",
+    "cleanTokens": [
+      "sour",
+      "pencils",
+      "фруктово-ягодный"
+    ],
+    "normalizedTokens": [
+      "sour",
+      "pencils",
+      "фруктово-ягодный",
+      "90 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "90 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мармелад FINI Jelly Сola жевательный 90 г",
+    "cleanTokens": [
+      "jelly",
+      "сola",
+      "жевательный"
+    ],
+    "normalizedTokens": [
+      "jelly",
+      "сola",
+      "жевательный",
+      "90 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "90 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мармелад FINI Sour Pencils Кислые карандаши жевательный 100 г",
+    "cleanTokens": [
+      "sour",
+      "pencils",
+      "кислые",
+      "карандаши",
+      "жевательный"
+    ],
+    "normalizedTokens": [
+      "sour",
+      "pencils",
+      "кислые",
+      "карандаши",
+      "жевательный",
+      "100 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "100 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мармелад FINI Rainbow pencils жевательный 90 г",
+    "cleanTokens": [
+      "rainbow",
+      "pencils",
+      "жевательный"
+    ],
+    "normalizedTokens": [
+      "rainbow",
+      "pencils",
+      "жевательный",
+      "90 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "90 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мармелад Haribo Worms жевательный 80 г",
+    "cleanTokens": [
+      "worms",
+      "жевательный"
+    ],
+    "normalizedTokens": [
+      "worms",
+      "жевательный",
+      "80 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "80 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мармелад Chupa Chups Кислые фансы жевательный 100 г",
+    "cleanTokens": [
+      "кислые",
+      "фансы",
+      "жевательный"
+    ],
+    "normalizedTokens": [
+      "кислые",
+      "фансы",
+      "жевательный",
+      "100 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "100 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мармелад FINI XXL Strawberry Гигантская палочка жевательный 30 г",
+    "cleanTokens": [
+      "xxl",
+      "strawberry",
+      "гигантская",
+      "палочка",
+      "жевательный"
+    ],
+    "normalizedTokens": [
+      "xxl",
+      "strawberry",
+      "гигантская",
+      "палочка",
+      "жевательный",
+      "30 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "30 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мармелад Fruit-tella Покори льды Ассорти клубника-вишня-апельсин фруктово-ягодный 100 г",
+    "cleanTokens": [
+      "покори",
+      "льды",
+      "ассорти",
+      "клубника-вишня-апельсин",
+      "фруктово-ягодный"
+    ],
+    "normalizedTokens": [
+      "покори",
+      "льды",
+      "ассорти",
+      "клубника-вишня-апельсин",
+      "фруктово-ягодный",
+      "100 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "100 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мармелад FINI Jelly Frogs Лягушки жевательный 90 г",
+    "cleanTokens": [
+      "jelly",
+      "frogs",
+      "лягушки",
+      "жевательный"
+    ],
+    "normalizedTokens": [
+      "jelly",
+      "frogs",
+      "лягушки",
+      "жевательный",
+      "90 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "90 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мармелад Sweet Box L.O.L.с игрушкой жевательный 10 г",
+    "cleanTokens": [
+      "l.o.l.с",
+      "игрушкой",
+      "жевательный"
+    ],
+    "normalizedTokens": [
+      "l.o.l.с",
+      "игрушкой",
+      "жевательный",
+      "10 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "10 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мармелад FINI Watermelon Slices Арбузные дольки жевательный 90 г",
+    "cleanTokens": [
+      "watermelon",
+      "slices",
+      "арбузные",
+      "дольки",
+      "жевательный"
+    ],
+    "normalizedTokens": [
+      "watermelon",
+      "slices",
+      "арбузные",
+      "дольки",
+      "жевательный",
+      "90 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "90 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мармелад Yammiez Хот-дог жевательный 50 г",
+    "cleanTokens": [
+      "хот-дог",
+      "жевательный"
+    ],
+    "normalizedTokens": [
+      "хот-дог",
+      "жевательный",
+      "50 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "50 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мармелад FINI Holiday вишня жевательный 90 г",
+    "cleanTokens": [
+      "holiday",
+      "вишня",
+      "жевательный"
+    ],
+    "normalizedTokens": [
+      "holiday",
+      "вишня",
+      "жевательный",
+      "90 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "90 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мармелад Plusha Jelly pop Uglybubu со вкусом юдзу желейно-фруктовый 16 г",
+    "cleanTokens": [
+      "jelly",
+      "pop",
+      "uglybubu",
+      "со",
+      "вкусом",
+      "юдзу",
+      "желейно-фруктовый"
+    ],
+    "normalizedTokens": [
+      "jelly",
+      "pop",
+      "uglybubu",
+      "со",
+      "вкусом",
+      "юдзу",
+      "желейно-фруктовый",
+      "16 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "16 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мармелад LOTTE E&M Zero sugar free jelly желейно-фруктовый 8 упаковок по 52 г",
+    "cleanTokens": [
+      "zero",
+      "sugar",
+      "free",
+      "jelly",
+      "желейно-фруктовый",
+      "8",
+      "упаковок",
+      "по"
+    ],
+    "normalizedTokens": [
+      "zero",
+      "sugar",
+      "free",
+      "jelly",
+      "желейно-фруктовый",
+      "8",
+      "упаковок",
+      "по",
+      "52 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "52 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мармелад Plusha Ассорти желейно-фруктовый 48 г",
+    "cleanTokens": [
+      "ассорти",
+      "желейно-фруктовый"
+    ],
+    "normalizedTokens": [
+      "ассорти",
+      "желейно-фруктовый",
+      "48 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "48 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мармелад Trolli Saure Glühwürmchen minis жевательный 200 г",
+    "cleanTokens": [
+      "saure",
+      "glühwürmchen",
+      "minis",
+      "жевательный"
+    ],
+    "normalizedTokens": [
+      "saure",
+      "glühwürmchen",
+      "minis",
+      "жевательный",
+      "200 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "200 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мармелад Xingqiba пульки жевательный 40 г",
+    "cleanTokens": [
+      "пульки",
+      "жевательный"
+    ],
+    "normalizedTokens": [
+      "пульки",
+      "жевательный",
+      "40 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "40 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мармелад Not Guilty со вкусом кока-колы жевательный 100 г",
+    "cleanTokens": [
+      "со",
+      "вкусом",
+      "кока-колы",
+      "жевательный"
+    ],
+    "normalizedTokens": [
+      "со",
+      "вкусом",
+      "кока-колы",
+      "жевательный",
+      "100 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "100 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мармелад Plusha Бабл гам желейно-фруктовый 50 г",
+    "cleanTokens": [
+      "бабл",
+      "гам",
+      "желейно-фруктовый"
+    ],
+    "normalizedTokens": [
+      "бабл",
+      "гам",
+      "желейно-фруктовый",
+      "50 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "50 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мармелад Вкусная помощь Полная банка Звездюлей жевательный 250 г",
+    "cleanTokens": [
+      "полная",
+      "банка",
+      "звездюлей",
+      "жевательный"
+    ],
+    "normalizedTokens": [
+      "полная",
+      "банка",
+      "звездюлей",
+      "жевательный",
+      "250 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "250 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мармелад Vidal Jelly Beans фруктово-ягодный 85 г",
+    "cleanTokens": [
+      "jelly",
+      "beans",
+      "фруктово-ягодный"
+    ],
+    "normalizedTokens": [
+      "jelly",
+      "beans",
+      "фруктово-ягодный",
+      "85 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "85 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мармелад Plusha bubble gum желейно-фруктовый 16 г",
+    "cleanTokens": [
+      "bubble",
+      "gum",
+      "желейно-фруктовый"
+    ],
+    "normalizedTokens": [
+      "bubble",
+      "gum",
+      "желейно-фруктовый",
+      "16 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "16 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мармелад Trolli Gummi Burger бургер жевательный 50 г",
+    "cleanTokens": [
+      "gummi",
+      "burger",
+      "бургер",
+      "жевательный"
+    ],
+    "normalizedTokens": [
+      "gummi",
+      "burger",
+      "бургер",
+      "жевательный",
+      "50 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "50 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мармелад CHI-WA-WA палочки малина фруктово-ягодный 200 г",
+    "cleanTokens": [
+      "палочки",
+      "малина",
+      "фруктово-ягодный"
+    ],
+    "normalizedTokens": [
+      "палочки",
+      "малина",
+      "фруктово-ягодный",
+      "200 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "200 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мармелад NA! Nature Addicts Fruit Sticks фруктово-ягодный 35 г",
+    "cleanTokens": [
+      "fruit",
+      "sticks",
+      "фруктово-ягодный"
+    ],
+    "normalizedTokens": [
+      "fruit",
+      "sticks",
+      "фруктово-ягодный",
+      "35 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "35 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мармелад Not Guilty Be my Love со вкусом граната жевательный 100 г",
+    "cleanTokens": [
+      "be",
+      "my",
+      "love",
+      "со",
+      "вкусом",
+      "граната",
+      "жевательный"
+    ],
+    "normalizedTokens": [
+      "be",
+      "my",
+      "love",
+      "со",
+      "вкусом",
+      "граната",
+      "жевательный",
+      "100 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "100 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мармелад FINI Neon Bears Неоновые мишки жевательный 100 г",
+    "cleanTokens": [
+      "neon",
+      "bears",
+      "неоновые",
+      "мишки",
+      "жевательный"
+    ],
+    "normalizedTokens": [
+      "neon",
+      "bears",
+      "неоновые",
+      "мишки",
+      "жевательный",
+      "100 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "100 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мармелад Beauty Sweeties Sweeties Кошечки кисло-сладкий жевательный 125 г",
+    "cleanTokens": [
+      "sweeties",
+      "кошечки",
+      "кисло-сладкий",
+      "жевательный"
+    ],
+    "normalizedTokens": [
+      "sweeties",
+      "кошечки",
+      "кисло-сладкий",
+      "жевательный",
+      "125 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "125 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мармелад Beauty Sweeties Короны фруктовый жевательный 125 г",
+    "cleanTokens": [
+      "короны",
+      "фруктовый",
+      "жевательный"
+    ],
+    "normalizedTokens": [
+      "короны",
+      "фруктовый",
+      "жевательный",
+      "125 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "125 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мармелад FINI Jelly Crocodiles Крокодилы жевательный 90 г",
+    "cleanTokens": [
+      "jelly",
+      "crocodiles",
+      "крокодилы",
+      "жевательный"
+    ],
+    "normalizedTokens": [
+      "jelly",
+      "crocodiles",
+      "крокодилы",
+      "жевательный",
+      "90 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "90 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мармелад Danli Котики с игрушкой жевательный 15 г",
+    "cleanTokens": [
+      "котики",
+      "с",
+      "игрушкой",
+      "жевательный"
+    ],
+    "normalizedTokens": [
+      "котики",
+      "с",
+      "игрушкой",
+      "жевательный",
+      "15 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "15 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мармелад Sweet Box Cave Club с игрушкой жевательный 10 г",
+    "cleanTokens": [
+      "cave",
+      "club",
+      "с",
+      "игрушкой",
+      "жевательный"
+    ],
+    "normalizedTokens": [
+      "cave",
+      "club",
+      "с",
+      "игрушкой",
+      "жевательный",
+      "10 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "10 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мармелад Фрукт Продукт апельсин, гранат, клубника, малина, яблоко жевательный, фруктово-ягодный 10 пачек по 70 г",
+    "cleanTokens": [
+      "апельсин",
+      "гранат",
+      "клубника",
+      "малина",
+      "яблоко",
+      "жевательный",
+      "фруктово-ягодный",
+      "10",
+      "пачек",
+      "по"
+    ],
+    "normalizedTokens": [
+      "апельсин",
+      "гранат",
+      "клубника",
+      "малина",
+      "яблоко",
+      "жевательный",
+      "фруктово-ягодный",
+      "10",
+      "пачек",
+      "по",
+      "70 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "70 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мармелад Фрукт Продукт С любовью клубника фруктово-ягодный 6 пакетов по 100 г",
+    "cleanTokens": [
+      "с",
+      "любовью",
+      "клубника",
+      "фруктово-ягодный",
+      "6",
+      "пакетов",
+      "по"
+    ],
+    "normalizedTokens": [
+      "с",
+      "любовью",
+      "клубника",
+      "фруктово-ягодный",
+      "6",
+      "пакетов",
+      "по",
+      "100 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "100 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мармелад Bitey Чувис Клубника жевательный 20 г",
+    "cleanTokens": [
+      "чувис",
+      "клубника",
+      "жевательный"
+    ],
+    "normalizedTokens": [
+      "чувис",
+      "клубника",
+      "жевательный",
+      "20 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "20 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мармелад Фру-фру бургеры жевательный 80 г",
+    "cleanTokens": [
+      "бургеры",
+      "жевательный"
+    ],
+    "normalizedTokens": [
+      "бургеры",
+      "жевательный",
+      "80 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "80 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мармелад Beauty Sweeties Сладкие Короны жевательный, фруктово-ягодный, желейно-фруктовый 375 г",
+    "cleanTokens": [
+      "сладкие",
+      "короны",
+      "жевательный",
+      "фруктово-ягодный",
+      "желейно-фруктовый"
+    ],
+    "normalizedTokens": [
+      "сладкие",
+      "короны",
+      "жевательный",
+      "фруктово-ягодный",
+      "желейно-фруктовый",
+      "375 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "375 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мармелад Фру-фру трубочка с яблочным соком жевательный 35 г",
+    "cleanTokens": [
+      "трубочка",
+      "с",
+      "яблочным",
+      "соком",
+      "жевательный"
+    ],
+    "normalizedTokens": [
+      "трубочка",
+      "с",
+      "яблочным",
+      "соком",
+      "жевательный",
+      "35 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "35 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мармелад FINI Sour Pencils кислые клубничные жевательный 90 г",
+    "cleanTokens": [
+      "sour",
+      "pencils",
+      "кислые",
+      "клубничные",
+      "жевательный"
+    ],
+    "normalizedTokens": [
+      "sour",
+      "pencils",
+      "кислые",
+      "клубничные",
+      "жевательный",
+      "90 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "90 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мармелад FINI Sour Boom Mix жевательный 90 г",
+    "cleanTokens": [
+      "sour",
+      "boom",
+      "mix",
+      "жевательный"
+    ],
+    "normalizedTokens": [
+      "sour",
+      "boom",
+      "mix",
+      "жевательный",
+      "90 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "90 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мармелад FINI Fruit Attack Фруктовая атака жевательный 100 г",
+    "cleanTokens": [
+      "fruit",
+      "attack",
+      "фруктовая",
+      "атака",
+      "жевательный"
+    ],
+    "normalizedTokens": [
+      "fruit",
+      "attack",
+      "фруктовая",
+      "атака",
+      "жевательный",
+      "100 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "100 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мармелад FINI Strawberry & Cream жевательный 90 г",
+    "cleanTokens": [
+      "strawberry",
+      "&",
+      "cream",
+      "жевательный"
+    ],
+    "normalizedTokens": [
+      "strawberry",
+      "&",
+      "cream",
+      "жевательный",
+      "90 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "90 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мармелад Xingqiba кислый жевательный 38 г",
+    "cleanTokens": [
+      "кислый",
+      "жевательный"
+    ],
+    "normalizedTokens": [
+      "кислый",
+      "жевательный",
+      "38 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "38 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мармелад Sweet Box Kuromi жевательный 10 г",
+    "cleanTokens": [
+      "kuromi",
+      "жевательный"
+    ],
+    "normalizedTokens": [
+      "kuromi",
+      "жевательный",
+      "10 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "10 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мармелад Plusha Лимон желейно-фруктовый 50 г",
+    "cleanTokens": [
+      "лимон",
+      "желейно-фруктовый"
+    ],
+    "normalizedTokens": [
+      "лимон",
+      "желейно-фруктовый",
+      "50 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "50 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мармелад Trolli Classic Bears жевательный 100 г",
+    "cleanTokens": [
+      "classic",
+      "bears",
+      "жевательный"
+    ],
+    "normalizedTokens": [
+      "classic",
+      "bears",
+      "жевательный",
+      "100 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "100 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мармелад Xingqiba Швейцарский вкус жевательный 35 г",
+    "cleanTokens": [
+      "швейцарский",
+      "вкус",
+      "жевательный"
+    ],
+    "normalizedTokens": [
+      "швейцарский",
+      "вкус",
+      "жевательный",
+      "35 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "35 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мармелад Фрукт Продукт фруктово-ягодный клюква 480 г",
+    "cleanTokens": [
+      "фруктово-ягодный",
+      "клюква"
+    ],
+    "normalizedTokens": [
+      "фруктово-ягодный",
+      "клюква",
+      "480 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "480 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мармелад NA! Nature Addicts Ti Fruits клубничный перекус фруктово-ягодный 35 г",
+    "cleanTokens": [
+      "ti",
+      "fruits",
+      "клубничный",
+      "перекус",
+      "фруктово-ягодный"
+    ],
+    "normalizedTokens": [
+      "ti",
+      "fruits",
+      "клубничный",
+      "перекус",
+      "фруктово-ягодный",
+      "35 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "35 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мармелад FINI Little Mix жевательный 90 г",
+    "cleanTokens": [
+      "little",
+      "mix",
+      "жевательный"
+    ],
+    "normalizedTokens": [
+      "little",
+      "mix",
+      "жевательный",
+      "90 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "90 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мармелад Plusha Uglybubu Cute Energyy жевательный 45 г",
+    "cleanTokens": [
+      "uglybubu",
+      "cute",
+      "energyy",
+      "жевательный"
+    ],
+    "normalizedTokens": [
+      "uglybubu",
+      "cute",
+      "energyy",
+      "жевательный",
+      "45 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "45 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мармелад FINI Jelly Worms Червячки в сахаре жевательный 90 г",
+    "cleanTokens": [
+      "jelly",
+      "worms",
+      "червячки",
+      "в",
+      "сахаре",
+      "жевательный"
+    ],
+    "normalizedTokens": [
+      "jelly",
+      "worms",
+      "червячки",
+      "в",
+      "сахаре",
+      "жевательный",
+      "90 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "90 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мармелад NA! Nature Addicts Fruit Sticks фруктово-ягодный 35 г",
+    "cleanTokens": [
+      "fruit",
+      "sticks",
+      "фруктово-ягодный"
+    ],
+    "normalizedTokens": [
+      "fruit",
+      "sticks",
+      "фруктово-ягодный",
+      "35 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "35 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мармелад FINI Jungle Ropes жевательный 100 г",
+    "cleanTokens": [
+      "jungle",
+      "ropes",
+      "жевательный"
+    ],
+    "normalizedTokens": [
+      "jungle",
+      "ropes",
+      "жевательный",
+      "100 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "100 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мармелад Yammiez Бургер жевательный 50 г",
+    "cleanTokens": [
+      "бургер",
+      "жевательный"
+    ],
+    "normalizedTokens": [
+      "бургер",
+      "жевательный",
+      "50 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "50 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мармелад Фрукт Продукт Апельсин жевательный 100 г",
+    "cleanTokens": [
+      "апельсин",
+      "жевательный"
+    ],
+    "normalizedTokens": [
+      "апельсин",
+      "жевательный",
+      "100 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "100 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мармелад Фрукт Продукт С любовью клубника фруктово-ягодный 100 г",
+    "cleanTokens": [
+      "с",
+      "любовью",
+      "клубника",
+      "фруктово-ягодный"
+    ],
+    "normalizedTokens": [
+      "с",
+      "любовью",
+      "клубника",
+      "фруктово-ягодный",
+      "100 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "100 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мармелад NA! Nature Addicts Funnyfruits фруктовый 16 г",
+    "cleanTokens": [
+      "funnyfruits",
+      "фруктовый"
+    ],
+    "normalizedTokens": [
+      "funnyfruits",
+      "фруктовый",
+      "16 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "16 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мармелад YumEarth Organic fruit snacks жевательный 4 пакетика по 50 г",
+    "cleanTokens": [
+      "organic",
+      "fruit",
+      "snacks",
+      "жевательный",
+      "4",
+      "пакетика",
+      "по"
+    ],
+    "normalizedTokens": [
+      "organic",
+      "fruit",
+      "snacks",
+      "жевательный",
+      "4",
+      "пакетика",
+      "по",
+      "50 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "50 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мармелад Plusha жидкий со вкусом бабл-гам желейно-фруктовый 50 г",
+    "cleanTokens": [
+      "жидкий",
+      "со",
+      "вкусом",
+      "бабл-гам",
+      "желейно-фруктовый"
+    ],
+    "normalizedTokens": [
+      "жидкий",
+      "со",
+      "вкусом",
+      "бабл-гам",
+      "желейно-фруктовый",
+      "50 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "50 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мармелад FINI Magic Carpets Пластинки кислые жевательный 90 г",
+    "cleanTokens": [
+      "magic",
+      "carpets",
+      "пластинки",
+      "кислые",
+      "жевательный"
+    ],
+    "normalizedTokens": [
+      "magic",
+      "carpets",
+      "пластинки",
+      "кислые",
+      "жевательный",
+      "90 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "90 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мармелад IN JOY Бесишь жевательный 200 г",
+    "cleanTokens": [
+      "бесишь",
+      "жевательный"
+    ],
+    "normalizedTokens": [
+      "бесишь",
+      "жевательный",
+      "200 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "200 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мармелад Plusha Jelly pop желейно-фруктовый 16 г",
+    "cleanTokens": [
+      "jelly",
+      "pop",
+      "желейно-фруктовый"
+    ],
+    "normalizedTokens": [
+      "jelly",
+      "pop",
+      "желейно-фруктовый",
+      "16 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "16 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мармелад Sweet Box Милана Хаметова жевательный 10 г",
+    "cleanTokens": [
+      "милана",
+      "хаметова",
+      "жевательный"
+    ],
+    "normalizedTokens": [
+      "милана",
+      "хаметова",
+      "жевательный",
+      "10 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "10 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мармелад Not Guilty Hug me Please кислый со вкусом личи и лайма жевательный 100 г",
+    "cleanTokens": [
+      "hug",
+      "me",
+      "please",
+      "кислый",
+      "со",
+      "вкусом",
+      "личи",
+      "лайма",
+      "жевательный"
+    ],
+    "normalizedTokens": [
+      "hug",
+      "me",
+      "please",
+      "кислый",
+      "со",
+      "вкусом",
+      "личи",
+      "лайма",
+      "жевательный",
+      "100 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "100 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мармелад Vidal Mega Sweet Mix фруктово-ягодный 90 г",
+    "cleanTokens": [
+      "mega",
+      "sweet",
+      "mix",
+      "фруктово-ягодный"
+    ],
+    "normalizedTokens": [
+      "mega",
+      "sweet",
+      "mix",
+      "фруктово-ягодный",
+      "90 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "90 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мармелад Beauty Sweeties Мишки фруктовый жевательный 125 г",
+    "cleanTokens": [
+      "мишки",
+      "фруктовый",
+      "жевательный"
+    ],
+    "normalizedTokens": [
+      "мишки",
+      "фруктовый",
+      "жевательный",
+      "125 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "125 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мармелад FINI Galaxy Mix Галактический микс жевательный 100 г",
+    "cleanTokens": [
+      "galaxy",
+      "mix",
+      "галактический",
+      "микс",
+      "жевательный"
+    ],
+    "normalizedTokens": [
+      "galaxy",
+      "mix",
+      "галактический",
+      "микс",
+      "жевательный",
+      "100 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "100 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мармелад Vidal Filled Strawberries фруктово-ягодный 90 г",
+    "cleanTokens": [
+      "filled",
+      "strawberries",
+      "фруктово-ягодный"
+    ],
+    "normalizedTokens": [
+      "filled",
+      "strawberries",
+      "фруктово-ягодный",
+      "90 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "90 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мармелад Sweet Box Atomic Heart с игрушкой жевательный 10 г",
+    "cleanTokens": [
+      "atomic",
+      "heart",
+      "с",
+      "игрушкой",
+      "жевательный"
+    ],
+    "normalizedTokens": [
+      "atomic",
+      "heart",
+      "с",
+      "игрушкой",
+      "жевательный",
+      "10 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "10 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мармелад ORION зеленый виноград желейно-фруктовый 66 г",
+    "cleanTokens": [
+      "зеленый",
+      "виноград",
+      "желейно-фруктовый"
+    ],
+    "normalizedTokens": [
+      "зеленый",
+      "виноград",
+      "желейно-фруктовый",
+      "66 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "66 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мармелад NA! Nature Addicts Ti Fruits малиновый перекус фруктово-ягодный 35 г",
+    "cleanTokens": [
+      "ti",
+      "fruits",
+      "малиновый",
+      "перекус",
+      "фруктово-ягодный"
+    ],
+    "normalizedTokens": [
+      "ti",
+      "fruits",
+      "малиновый",
+      "перекус",
+      "фруктово-ягодный",
+      "35 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "35 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мармелад FINI Poulpes Осьминоги жевательный, фруктово-ягодный 90 г",
+    "cleanTokens": [
+      "poulpes",
+      "осьминоги",
+      "жевательный",
+      "фруктово-ягодный"
+    ],
+    "normalizedTokens": [
+      "poulpes",
+      "осьминоги",
+      "жевательный",
+      "фруктово-ягодный",
+      "90 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "90 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мармелад ORIHIRO Yukiguni с натуральным соком юдзу желейно-фруктовый 116 г",
+    "cleanTokens": [
+      "yukiguni",
+      "с",
+      "натуральным",
+      "соком",
+      "юдзу",
+      "желейно-фруктовый"
+    ],
+    "normalizedTokens": [
+      "yukiguni",
+      "с",
+      "натуральным",
+      "соком",
+      "юдзу",
+      "желейно-фруктовый",
+      "116 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "116 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мармелад Vidal Jelly mix фруктово-ягодный 90 г",
+    "cleanTokens": [
+      "jelly",
+      "mix",
+      "фруктово-ягодный"
+    ],
+    "normalizedTokens": [
+      "jelly",
+      "mix",
+      "фруктово-ягодный",
+      "90 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "90 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мармелад Фру-фру Машинки жевательный 30 г",
+    "cleanTokens": [
+      "машинки",
+      "жевательный"
+    ],
+    "normalizedTokens": [
+      "машинки",
+      "жевательный",
+      "30 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "30 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мармелад Not Guilty Kiss Me Softly Sours кислый со вкусом малины и грейпфрута жевательный 100 г",
+    "cleanTokens": [
+      "kiss",
+      "me",
+      "softly",
+      "sours",
+      "кислый",
+      "со",
+      "вкусом",
+      "малины",
+      "грейпфрута",
+      "жевательный"
+    ],
+    "normalizedTokens": [
+      "kiss",
+      "me",
+      "softly",
+      "sours",
+      "кислый",
+      "со",
+      "вкусом",
+      "малины",
+      "грейпфрута",
+      "жевательный",
+      "100 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "100 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мармелад Фру-фру Мозги зомбический вкус жевательный 80 г",
+    "cleanTokens": [
+      "мозги",
+      "зомбический",
+      "вкус",
+      "жевательный"
+    ],
+    "normalizedTokens": [
+      "мозги",
+      "зомбический",
+      "вкус",
+      "жевательный",
+      "80 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "80 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мармелад Haribo Happy Cherries жевательный 160 г",
+    "cleanTokens": [
+      "happy",
+      "cherries",
+      "жевательный"
+    ],
+    "normalizedTokens": [
+      "happy",
+      "cherries",
+      "жевательный",
+      "160 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "160 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мармелад Beauty Sweeties Бабочки жевательный 125 г",
+    "cleanTokens": [
+      "бабочки",
+      "жевательный"
+    ],
+    "normalizedTokens": [
+      "бабочки",
+      "жевательный",
+      "125 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "125 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мармелад Sweet Box Cry Babies с игрушкой жевательный 10 г",
+    "cleanTokens": [
+      "cry",
+      "babies",
+      "с",
+      "игрушкой",
+      "жевательный"
+    ],
+    "normalizedTokens": [
+      "cry",
+      "babies",
+      "с",
+      "игрушкой",
+      "жевательный",
+      "10 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "10 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мармелад Beauty Sweeties Мишки фруктовый жевательный 125 г",
+    "cleanTokens": [
+      "мишки",
+      "фруктовый",
+      "жевательный"
+    ],
+    "normalizedTokens": [
+      "мишки",
+      "фруктовый",
+      "жевательный",
+      "125 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "125 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мармелад Sweet Box Ждун жевательный 10 г",
+    "cleanTokens": [
+      "ждун",
+      "жевательный"
+    ],
+    "normalizedTokens": [
+      "ждун",
+      "жевательный",
+      "10 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "10 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мармелад CHI-WA-WA палочки кола жевательный 200 г",
+    "cleanTokens": [
+      "палочки",
+      "кола",
+      "жевательный"
+    ],
+    "normalizedTokens": [
+      "палочки",
+      "кола",
+      "жевательный",
+      "200 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "200 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мармелад Фрукт Продукт апельсин фруктово-ягодный 6 пакетов по 100 г",
+    "cleanTokens": [
+      "апельсин",
+      "фруктово-ягодный",
+      "6",
+      "пакетов",
+      "по"
+    ],
+    "normalizedTokens": [
+      "апельсин",
+      "фруктово-ягодный",
+      "6",
+      "пакетов",
+      "по",
+      "100 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "100 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мармелад Фру-фру Медвежата мармелад жевательный 80 г",
+    "cleanTokens": [
+      "медвежата",
+      "жевательный"
+    ],
+    "normalizedTokens": [
+      "медвежата",
+      "жевательный",
+      "80 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "80 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мармелад Plusha Jelly Love жевательный 45 г",
+    "cleanTokens": [
+      "jelly",
+      "love",
+      "жевательный"
+    ],
+    "normalizedTokens": [
+      "jelly",
+      "love",
+      "жевательный",
+      "45 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "45 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мармелад Фру-фру кола жевательный 80 г",
+    "cleanTokens": [
+      "кола",
+      "жевательный"
+    ],
+    "normalizedTokens": [
+      "кола",
+      "жевательный",
+      "80 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "80 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мармелад FINI Party Mix жевательный, фруктово-ягодный 90 г",
+    "cleanTokens": [
+      "party",
+      "mix",
+      "жевательный",
+      "фруктово-ягодный"
+    ],
+    "normalizedTokens": [
+      "party",
+      "mix",
+      "жевательный",
+      "фруктово-ягодный",
+      "90 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "90 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мармелад FINI Filled Mix Regaliz жевательный 100 г",
+    "cleanTokens": [
+      "filled",
+      "mix",
+      "regaliz",
+      "жевательный"
+    ],
+    "normalizedTokens": [
+      "filled",
+      "mix",
+      "regaliz",
+      "жевательный",
+      "100 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "100 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мармелад FINI Little Mix Ассорти жевательный 90 г",
+    "cleanTokens": [
+      "little",
+      "mix",
+      "ассорти",
+      "жевательный"
+    ],
+    "normalizedTokens": [
+      "little",
+      "mix",
+      "ассорти",
+      "жевательный",
+      "90 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "90 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мармелад Фрукт Продукт апельсин, гранат, клубника, малина, яблоко жевательный, фруктово-ягодный 50 пачек по 70 г",
+    "cleanTokens": [
+      "апельсин",
+      "гранат",
+      "клубника",
+      "малина",
+      "яблоко",
+      "жевательный",
+      "фруктово-ягодный",
+      "50",
+      "пачек",
+      "по"
+    ],
+    "normalizedTokens": [
+      "апельсин",
+      "гранат",
+      "клубника",
+      "малина",
+      "яблоко",
+      "жевательный",
+      "фруктово-ягодный",
+      "50",
+      "пачек",
+      "по",
+      "70 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "70 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мармелад Фру-фру кислые колечки жевательный 80 г",
+    "cleanTokens": [
+      "кислые",
+      "колечки",
+      "жевательный"
+    ],
+    "normalizedTokens": [
+      "кислые",
+      "колечки",
+      "жевательный",
+      "80 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "80 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мармелад FINI Lucioles жевательный 90 г",
+    "cleanTokens": [
+      "lucioles",
+      "жевательный"
+    ],
+    "normalizedTokens": [
+      "lucioles",
+      "жевательный",
+      "90 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "90 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мармелад Plusha Uglybubu со вкусом кока-колы жевательный 55 г",
+    "cleanTokens": [
+      "uglybubu",
+      "со",
+      "вкусом",
+      "кока-колы",
+      "жевательный"
+    ],
+    "normalizedTokens": [
+      "uglybubu",
+      "со",
+      "вкусом",
+      "кока-колы",
+      "жевательный",
+      "55 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "55 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мармелад Фру-фру Тропические фрукты жевательный, фигурный 30 г",
+    "cleanTokens": [
+      "тропические",
+      "фрукты",
+      "жевательный",
+      "фигурный"
+    ],
+    "normalizedTokens": [
+      "тропические",
+      "фрукты",
+      "жевательный",
+      "фигурный",
+      "30 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "30 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  }
+]

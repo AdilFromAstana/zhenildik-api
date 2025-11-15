@@ -1,0 +1,2506 @@
+[
+  {
+    "original": "Dr.Bakers разрыхлитель 16 г",
+    "cleanTokens": [
+      "разрыхлитель"
+    ],
+    "normalizedTokens": [
+      "разрыхлитель",
+      "16 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "16 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "DR.OETKER дрожжи 7 г",
+    "cleanTokens": [
+      "дрожжи"
+    ],
+    "normalizedTokens": [
+      "дрожжи",
+      "7 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "7 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Dr.Bakers крахмал кукурузный 100 г",
+    "cleanTokens": [
+      "крахмал",
+      "кукурузный"
+    ],
+    "normalizedTokens": [
+      "крахмал",
+      "кукурузный",
+      "100 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "100 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Омега специи лимонная кислота 50 г",
+    "cleanTokens": [
+      "лимонная",
+      "кислота"
+    ],
+    "normalizedTokens": [
+      "лимонная",
+      "кислота",
+      "50 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "50 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Приправыч Разрыхлитель 10 г",
+    "cleanTokens": [
+      "разрыхлитель"
+    ],
+    "normalizedTokens": [
+      "разрыхлитель",
+      "10 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "10 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "NUR&N REFLEX ванилин 2 г",
+    "cleanTokens": [
+      "ванилин"
+    ],
+    "normalizedTokens": [
+      "ванилин",
+      "2 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "2 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Омега специи Дрожжи сухие быстродействующие 50 г",
+    "cleanTokens": [
+      "дрожжи",
+      "сухие",
+      "быстродействующие"
+    ],
+    "normalizedTokens": [
+      "дрожжи",
+      "сухие",
+      "быстродействующие",
+      "50 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "50 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "NUR&N REFLEX корица молотая 15 г",
+    "cleanTokens": [
+      "корица",
+      "молотая"
+    ],
+    "normalizedTokens": [
+      "корица",
+      "молотая",
+      "15 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "15 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Dr.Bakers ванильный сахар 40 г",
+    "cleanTokens": [
+      "ванильный",
+      "сахар"
+    ],
+    "normalizedTokens": [
+      "ванильный",
+      "сахар",
+      "40 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "40 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "NUR&N REFLEX семена кунжута 150 г",
+    "cleanTokens": [
+      "семена",
+      "кунжута"
+    ],
+    "normalizedTokens": [
+      "семена",
+      "кунжута",
+      "150 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "150 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Dr.Bakers корица 8 г",
+    "cleanTokens": [
+      "корица"
+    ],
+    "normalizedTokens": [
+      "корица",
+      "8 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "8 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Омега специи Крахмал 50 г",
+    "cleanTokens": [
+      "крахмал"
+    ],
+    "normalizedTokens": [
+      "крахмал",
+      "50 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "50 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Выбор шефа крахмал 150 г",
+    "cleanTokens": [
+      "крахмал"
+    ],
+    "normalizedTokens": [
+      "крахмал",
+      "150 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "150 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "PODRAVKA дрожжи 80 г",
+    "cleanTokens": [
+      "дрожжи"
+    ],
+    "normalizedTokens": [
+      "дрожжи",
+      "80 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "80 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Приправыч дрожжи 10 г",
+    "cleanTokens": [
+      "дрожжи"
+    ],
+    "normalizedTokens": [
+      "дрожжи",
+      "10 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "10 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Dr.Bakers разрыхлитель 25 г",
+    "cleanTokens": [
+      "разрыхлитель"
+    ],
+    "normalizedTokens": [
+      "разрыхлитель",
+      "25 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "25 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Приправыч ванилин кристаллический 1 г",
+    "cleanTokens": [
+      "ванилин",
+      "кристаллический"
+    ],
+    "normalizedTokens": [
+      "ванилин",
+      "кристаллический",
+      "1 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "1 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "NUR&N REFLEX разрыхлитель 10 г",
+    "cleanTokens": [
+      "разрыхлитель"
+    ],
+    "normalizedTokens": [
+      "разрыхлитель",
+      "10 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "10 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "NUR&N REFLEX желатин 15 г",
+    "cleanTokens": [
+      "желатин"
+    ],
+    "normalizedTokens": [
+      "желатин",
+      "15 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "15 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Приправыч желатин 20 г",
+    "cleanTokens": [
+      "желатин"
+    ],
+    "normalizedTokens": [
+      "желатин",
+      "20 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "20 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Dr.Bakers сода 5 г",
+    "cleanTokens": [
+      "сода"
+    ],
+    "normalizedTokens": [
+      "сода",
+      "5 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "5 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Приправыч лимонная кислота 10 г",
+    "cleanTokens": [
+      "лимонная",
+      "кислота"
+    ],
+    "normalizedTokens": [
+      "лимонная",
+      "кислота",
+      "10 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "10 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Выбор шефа дрожжи 50 г",
+    "cleanTokens": [
+      "дрожжи"
+    ],
+    "normalizedTokens": [
+      "дрожжи",
+      "50 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "50 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "PODRAVKA ванильный сахар 8 г",
+    "cleanTokens": [
+      "ванильный",
+      "сахар"
+    ],
+    "normalizedTokens": [
+      "ванильный",
+      "сахар",
+      "8 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "8 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "PODRAVKA разрыхлитель 10 г",
+    "cleanTokens": [
+      "разрыхлитель"
+    ],
+    "normalizedTokens": [
+      "разрыхлитель",
+      "10 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "10 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Приправыч корица молотая 10 г",
+    "cleanTokens": [
+      "корица",
+      "молотая"
+    ],
+    "normalizedTokens": [
+      "корица",
+      "молотая",
+      "10 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "10 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Приправыч корица палочками 15 г",
+    "cleanTokens": [
+      "корица",
+      "палочками"
+    ],
+    "normalizedTokens": [
+      "корица",
+      "палочками",
+      "15 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "15 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Омега специи мускатный орех 10 г",
+    "cleanTokens": [
+      "мускатный",
+      "орех"
+    ],
+    "normalizedTokens": [
+      "мускатный",
+      "орех",
+      "10 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "10 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Выбор шефа лимонная кислота 15 г",
+    "cleanTokens": [
+      "лимонная",
+      "кислота"
+    ],
+    "normalizedTokens": [
+      "лимонная",
+      "кислота",
+      "15 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "15 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Приправыч мускатный орех дробленый 10 г",
+    "cleanTokens": [
+      "мускатный",
+      "орех",
+      "дробленый"
+    ],
+    "normalizedTokens": [
+      "мускатный",
+      "орех",
+      "дробленый",
+      "10 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "10 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Выбор шефа ванилин 3 г",
+    "cleanTokens": [
+      "ванилин"
+    ],
+    "normalizedTokens": [
+      "ванилин",
+      "3 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "3 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Приправыч Агар-агар 7 г",
+    "cleanTokens": [
+      "агар-агар"
+    ],
+    "normalizedTokens": [
+      "агар-агар",
+      "7 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "7 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "DR.BAKERS загуститель для сливок 8 г",
+    "cleanTokens": [
+      "загуститель",
+      "сливок"
+    ],
+    "normalizedTokens": [
+      "загуститель",
+      "сливок",
+      "8 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "8 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Dr.Bakers загуститель 16 г",
+    "cleanTokens": [
+      "загуститель"
+    ],
+    "normalizedTokens": [
+      "загуститель",
+      "16 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "16 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Русский Аппетит кунжут 10 г",
+    "cleanTokens": [
+      "кунжут"
+    ],
+    "normalizedTokens": [
+      "кунжут",
+      "10 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "10 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "DR.OETKER желатин 10 г",
+    "cleanTokens": [
+      "желатин"
+    ],
+    "normalizedTokens": [
+      "желатин",
+      "10 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "10 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Приправыч сода 20 г",
+    "cleanTokens": [
+      "сода"
+    ],
+    "normalizedTokens": [
+      "сода",
+      "20 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "20 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Dr.Bakers лимонная кислота 50 г",
+    "cleanTokens": [
+      "лимонная",
+      "кислота"
+    ],
+    "normalizedTokens": [
+      "лимонная",
+      "кислота",
+      "50 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "50 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Dr.Bakers желатин 30 г",
+    "cleanTokens": [
+      "желатин"
+    ],
+    "normalizedTokens": [
+      "желатин",
+      "30 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "30 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Приправыч лимонная кислота 50 г",
+    "cleanTokens": [
+      "лимонная",
+      "кислота"
+    ],
+    "normalizedTokens": [
+      "лимонная",
+      "кислота",
+      "50 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "50 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Русский Аппетит разрыхлитель 13 г",
+    "cleanTokens": [
+      "разрыхлитель"
+    ],
+    "normalizedTokens": [
+      "разрыхлитель",
+      "13 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "13 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Русский Аппетит корица 10 г",
+    "cleanTokens": [
+      "корица"
+    ],
+    "normalizedTokens": [
+      "корица",
+      "10 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "10 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Русский Аппетит лимонная кислота 50 г",
+    "cleanTokens": [
+      "лимонная",
+      "кислота"
+    ],
+    "normalizedTokens": [
+      "лимонная",
+      "кислота",
+      "50 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "50 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Dr.Bakers желатин 20 г",
+    "cleanTokens": [
+      "желатин"
+    ],
+    "normalizedTokens": [
+      "желатин",
+      "20 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "20 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Выбор шефа разрыхлитель 15 г",
+    "cleanTokens": [
+      "разрыхлитель"
+    ],
+    "normalizedTokens": [
+      "разрыхлитель",
+      "15 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "15 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Выбор шефа крахмал 200 г",
+    "cleanTokens": [
+      "крахмал"
+    ],
+    "normalizedTokens": [
+      "крахмал",
+      "200 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "200 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Dr.Bakers агар-агар 7 г",
+    "cleanTokens": [
+      "агар-агар"
+    ],
+    "normalizedTokens": [
+      "агар-агар",
+      "7 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "7 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Русский Аппетит крахмал 200 г",
+    "cleanTokens": [
+      "крахмал"
+    ],
+    "normalizedTokens": [
+      "крахмал",
+      "200 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "200 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Konditerka.kz лимонная кислота 1000 г",
+    "cleanTokens": [
+      "лимонная",
+      "кислота"
+    ],
+    "normalizedTokens": [
+      "лимонная",
+      "кислота",
+      "1000 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "1000 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "NUR&N REFLEX желатин 150 г",
+    "cleanTokens": [
+      "желатин"
+    ],
+    "normalizedTokens": [
+      "желатин",
+      "150 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "150 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Reflex корица 150 г",
+    "cleanTokens": [
+      "корица"
+    ],
+    "normalizedTokens": [
+      "корица",
+      "150 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "150 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Русский Аппетит мак 50 г",
+    "cleanTokens": [
+      "мак"
+    ],
+    "normalizedTokens": [
+      "мак",
+      "50 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "50 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "TopLife семена кунжута белые 200 г",
+    "cleanTokens": [
+      "семена",
+      "кунжута",
+      "белые"
+    ],
+    "normalizedTokens": [
+      "семена",
+      "кунжута",
+      "белые",
+      "200 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "200 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Kuraga.kz кунжут 200 г",
+    "cleanTokens": [
+      "кунжут"
+    ],
+    "normalizedTokens": [
+      "кунжут",
+      "200 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "200 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Русский Аппетит ванилин 1.5 г",
+    "cleanTokens": [
+      "ванилин"
+    ],
+    "normalizedTokens": [
+      "ванилин",
+      "1.5 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "1.5 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Konditerka.kz крахмал кукурузный 700 г",
+    "cleanTokens": [
+      "крахмал",
+      "кукурузный"
+    ],
+    "normalizedTokens": [
+      "крахмал",
+      "кукурузный",
+      "700 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "700 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Konditerka.kz ксантановая камедь 700 г",
+    "cleanTokens": [
+      "ксантановая",
+      "камедь"
+    ],
+    "normalizedTokens": [
+      "ксантановая",
+      "камедь",
+      "700 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "700 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Fit Parad семена черного кунжута 150 г",
+    "cleanTokens": [
+      "семена",
+      "черного",
+      "кунжута"
+    ],
+    "normalizedTokens": [
+      "семена",
+      "черного",
+      "кунжута",
+      "150 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "150 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Fit Feel агар-агар 25 г",
+    "cleanTokens": [
+      "агар-агар"
+    ],
+    "normalizedTokens": [
+      "агар-агар",
+      "25 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "25 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Konditerka.kz яичный порошок 1000 г",
+    "cleanTokens": [
+      "яичный",
+      "порошок"
+    ],
+    "normalizedTokens": [
+      "яичный",
+      "порошок",
+      "1000 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "1000 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Konditerka.kz желатин 1000 г",
+    "cleanTokens": [
+      "желатин"
+    ],
+    "normalizedTokens": [
+      "желатин",
+      "1000 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "1000 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Konditerka.kz желатин говяжий 500 г",
+    "cleanTokens": [
+      "желатин",
+      "говяжий"
+    ],
+    "normalizedTokens": [
+      "желатин",
+      "говяжий",
+      "500 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "500 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Polezium корица 30 г",
+    "cleanTokens": [
+      "корица"
+    ],
+    "normalizedTokens": [
+      "корица",
+      "30 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "30 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Konditerka.kz гуаровая камедь 1000 г",
+    "cleanTokens": [
+      "гуаровая",
+      "камедь"
+    ],
+    "normalizedTokens": [
+      "гуаровая",
+      "камедь",
+      "1000 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "1000 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Kotanyi корица целая 17 г",
+    "cleanTokens": [
+      "kotanyi",
+      "корица",
+      "целая"
+    ],
+    "normalizedTokens": [
+      "kotanyi",
+      "корица",
+      "целая",
+      "17 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "17 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Konditerka.kz пектин цитрусовый 1000 г",
+    "cleanTokens": [
+      "пектин",
+      "цитрусовый"
+    ],
+    "normalizedTokens": [
+      "пектин",
+      "цитрусовый",
+      "1000 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "1000 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "TopLife дрожжи пищевые неактивные 70 г",
+    "cleanTokens": [
+      "дрожжи",
+      "пищевые",
+      "неактивные"
+    ],
+    "normalizedTokens": [
+      "дрожжи",
+      "пищевые",
+      "неактивные",
+      "70 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "70 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Konditerka.kz агар-агар 1000 г",
+    "cleanTokens": [
+      "агар-агар"
+    ],
+    "normalizedTokens": [
+      "агар-агар",
+      "1000 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "1000 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "GUZMAN ароматизатор пищевой Крем-Брюле 15 г",
+    "cleanTokens": [
+      "ароматизатор",
+      "пищевой",
+      "крем-брюле"
+    ],
+    "normalizedTokens": [
+      "ароматизатор",
+      "пищевой",
+      "крем-брюле",
+      "15 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "15 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "GUZMAN ароматизатор пищевой Груша 15 г",
+    "cleanTokens": [
+      "ароматизатор",
+      "пищевой",
+      "груша"
+    ],
+    "normalizedTokens": [
+      "ароматизатор",
+      "пищевой",
+      "груша",
+      "15 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "15 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "GUZMAN ароматизатор пищевой Кокос 15 г",
+    "cleanTokens": [
+      "ароматизатор",
+      "пищевой",
+      "кокос"
+    ],
+    "normalizedTokens": [
+      "ароматизатор",
+      "пищевой",
+      "кокос",
+      "15 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "15 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Konditerka.kz загуститель карбоксиметилцеллюлоза 1000 г",
+    "cleanTokens": [
+      "загуститель",
+      "карбоксиметилцеллюлоза"
+    ],
+    "normalizedTokens": [
+      "загуститель",
+      "карбоксиметилцеллюлоза",
+      "1000 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "1000 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Колибри вафельная крошка глазированная 500 г",
+    "cleanTokens": [
+      "вафельная",
+      "крошка",
+      "глазированная"
+    ],
+    "normalizedTokens": [
+      "вафельная",
+      "крошка",
+      "глазированная",
+      "500 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "500 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Konditerka.kz ингрезан стабилизатор-эмульгатор 1000 г",
+    "cleanTokens": [
+      "ингрезан",
+      "стабилизатор-эмульгатор"
+    ],
+    "normalizedTokens": [
+      "ингрезан",
+      "стабилизатор-эмульгатор",
+      "1000 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "1000 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Casa Luker Какао тертое натуральное в дисках 500 г",
+    "cleanTokens": [
+      "какао",
+      "тертое",
+      "натуральное",
+      "в",
+      "дисках"
+    ],
+    "normalizedTokens": [
+      "какао",
+      "тертое",
+      "натуральное",
+      "в",
+      "дисках",
+      "500 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "500 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Konditerka.kz загуститель Каррагинан полурафинированный 1000 г",
+    "cleanTokens": [
+      "загуститель",
+      "каррагинан",
+      "полурафинированный"
+    ],
+    "normalizedTokens": [
+      "загуститель",
+      "каррагинан",
+      "полурафинированный",
+      "1000 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "1000 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "GUZMAN пищевой краситель голубой небесный 15 мл",
+    "cleanTokens": [
+      "пищевой",
+      "краситель",
+      "голубой",
+      "небесный"
+    ],
+    "normalizedTokens": [
+      "пищевой",
+      "краситель",
+      "голубой",
+      "небесный",
+      "15 мл"
+    ],
+    "params": {
+      "volume": "15 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Fit Parad кунжут белый 150 г",
+    "cleanTokens": [
+      "кунжут",
+      "белый"
+    ],
+    "normalizedTokens": [
+      "кунжут",
+      "белый",
+      "150 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "150 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "GUZMAN ароматизатор пищевой Клубника 15 г",
+    "cleanTokens": [
+      "ароматизатор",
+      "пищевой",
+      "клубника"
+    ],
+    "normalizedTokens": [
+      "ароматизатор",
+      "пищевой",
+      "клубника",
+      "15 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "15 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "GUZMAN ароматизатор пищевой Ваниль 15 г",
+    "cleanTokens": [
+      "ароматизатор",
+      "пищевой",
+      "ваниль"
+    ],
+    "normalizedTokens": [
+      "ароматизатор",
+      "пищевой",
+      "ваниль",
+      "15 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "15 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "GUZMAN пектин для мармелада 25 г",
+    "cleanTokens": [
+      "пектин",
+      "мармелада"
+    ],
+    "normalizedTokens": [
+      "пектин",
+      "мармелада",
+      "25 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "25 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "GUZMAN пищевой краситель желтый яичный 15 мл",
+    "cleanTokens": [
+      "пищевой",
+      "краситель",
+      "желтый",
+      "яичный"
+    ],
+    "normalizedTokens": [
+      "пищевой",
+      "краситель",
+      "желтый",
+      "яичный",
+      "15 мл"
+    ],
+    "params": {
+      "volume": "15 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "GUZMAN ароматизатор пищевой Апельсин 15 г",
+    "cleanTokens": [
+      "ароматизатор",
+      "пищевой",
+      "апельсин"
+    ],
+    "normalizedTokens": [
+      "ароматизатор",
+      "пищевой",
+      "апельсин",
+      "15 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "15 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "GUZMAN ароматизатор пищевой Малина 15 г",
+    "cleanTokens": [
+      "ароматизатор",
+      "пищевой",
+      "малина"
+    ],
+    "normalizedTokens": [
+      "ароматизатор",
+      "пищевой",
+      "малина",
+      "15 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "15 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "GUZMAN агар-агар 250 г",
+    "cleanTokens": [
+      "агар-агар"
+    ],
+    "normalizedTokens": [
+      "агар-агар",
+      "250 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "250 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "GUZMAN пектин NH Plus 100 г",
+    "cleanTokens": [
+      "пектин",
+      "nh",
+      "plus"
+    ],
+    "normalizedTokens": [
+      "пектин",
+      "nh",
+      "plus",
+      "100 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "100 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Kotanyi корица молотая 25 г",
+    "cleanTokens": [
+      "kotanyi",
+      "корица",
+      "молотая"
+    ],
+    "normalizedTokens": [
+      "kotanyi",
+      "корица",
+      "молотая",
+      "25 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "25 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Это полезно кунжут 200 г",
+    "cleanTokens": [
+      "кунжут"
+    ],
+    "normalizedTokens": [
+      "кунжут",
+      "200 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "200 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "GUZMAN ароматизатор пищевой Крем Карамель 15 г",
+    "cleanTokens": [
+      "ароматизатор",
+      "пищевой",
+      "крем",
+      "карамель"
+    ],
+    "normalizedTokens": [
+      "ароматизатор",
+      "пищевой",
+      "крем",
+      "карамель",
+      "15 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "15 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "GUZMAN ароматизатор пищевой Тутти-Фрутти 15 г",
+    "cleanTokens": [
+      "ароматизатор",
+      "пищевой",
+      "тутти-фрутти"
+    ],
+    "normalizedTokens": [
+      "ароматизатор",
+      "пищевой",
+      "тутти-фрутти",
+      "15 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "15 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "GUZMAN пищевая добавка ванильная паста bourbone 125 г",
+    "cleanTokens": [
+      "пищевая",
+      "добавка",
+      "ванильная",
+      "паста",
+      "bourbone"
+    ],
+    "normalizedTokens": [
+      "пищевая",
+      "добавка",
+      "ванильная",
+      "паста",
+      "bourbone",
+      "125 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "125 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "GUZMAN пектин для мармелада 100 г",
+    "cleanTokens": [
+      "пектин",
+      "мармелада"
+    ],
+    "normalizedTokens": [
+      "пектин",
+      "мармелада",
+      "100 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "100 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "GUZMAN ароматизатор пищевой Пломбир 15 г",
+    "cleanTokens": [
+      "ароматизатор",
+      "пищевой",
+      "пломбир"
+    ],
+    "normalizedTokens": [
+      "ароматизатор",
+      "пищевой",
+      "пломбир",
+      "15 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "15 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "GUZMAN пищевой краситель розовый лед 15 мл",
+    "cleanTokens": [
+      "пищевой",
+      "краситель",
+      "розовый",
+      "лед"
+    ],
+    "normalizedTokens": [
+      "пищевой",
+      "краситель",
+      "розовый",
+      "лед",
+      "15 мл"
+    ],
+    "params": {
+      "volume": "15 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "GUZMAN ароматизатор пищевой Персик 15 г",
+    "cleanTokens": [
+      "ароматизатор",
+      "пищевой",
+      "персик"
+    ],
+    "normalizedTokens": [
+      "ароматизатор",
+      "пищевой",
+      "персик",
+      "15 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "15 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "GUZMAN ароматизатор пищевой Банан 15 г",
+    "cleanTokens": [
+      "ароматизатор",
+      "пищевой",
+      "банан"
+    ],
+    "normalizedTokens": [
+      "ароматизатор",
+      "пищевой",
+      "банан",
+      "15 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "15 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "GUZMAN ароматизатор пищевой Ананас 15 г",
+    "cleanTokens": [
+      "ароматизатор",
+      "пищевой",
+      "ананас"
+    ],
+    "normalizedTokens": [
+      "ароматизатор",
+      "пищевой",
+      "ананас",
+      "15 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "15 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Pro-Shokolad пищевая добавка 250 г",
+    "cleanTokens": [
+      "пищевая",
+      "добавка"
+    ],
+    "normalizedTokens": [
+      "пищевая",
+      "добавка",
+      "250 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "250 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "GUZMAN ароматизатор пищевой Яблоко 15 г",
+    "cleanTokens": [
+      "ароматизатор",
+      "пищевой",
+      "яблоко"
+    ],
+    "normalizedTokens": [
+      "ароматизатор",
+      "пищевой",
+      "яблоко",
+      "15 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "15 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "GUZMAN ароматизатор пищевой Дыня 15 г",
+    "cleanTokens": [
+      "ароматизатор",
+      "пищевой",
+      "дыня"
+    ],
+    "normalizedTokens": [
+      "ароматизатор",
+      "пищевой",
+      "дыня",
+      "15 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "15 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "GUZMAN пищевой краситель коралл 15 мл",
+    "cleanTokens": [
+      "пищевой",
+      "краситель",
+      "коралл"
+    ],
+    "normalizedTokens": [
+      "пищевой",
+      "краситель",
+      "коралл",
+      "15 мл"
+    ],
+    "params": {
+      "volume": "15 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Это полезно кунжут 200 г",
+    "cleanTokens": [
+      "кунжут"
+    ],
+    "normalizedTokens": [
+      "кунжут",
+      "200 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "200 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "GUZMAN начинка взрывная карамель 3000 г",
+    "cleanTokens": [
+      "начинка",
+      "взрывная",
+      "карамель"
+    ],
+    "normalizedTokens": [
+      "начинка",
+      "взрывная",
+      "карамель",
+      "3000 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "3000 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "GUZMAN пищевой краситель трава 15 мл",
+    "cleanTokens": [
+      "пищевой",
+      "краситель",
+      "трава"
+    ],
+    "normalizedTokens": [
+      "пищевой",
+      "краситель",
+      "трава",
+      "15 мл"
+    ],
+    "params": {
+      "volume": "15 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "GUZMAN взрывная карамель 100 г",
+    "cleanTokens": [
+      "взрывная",
+      "карамель"
+    ],
+    "normalizedTokens": [
+      "взрывная",
+      "карамель",
+      "100 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "100 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "GUZMAN пищевой краситель белый 15 мл",
+    "cleanTokens": [
+      "пищевой",
+      "краситель",
+      "белый"
+    ],
+    "normalizedTokens": [
+      "пищевой",
+      "краситель",
+      "белый",
+      "15 мл"
+    ],
+    "params": {
+      "volume": "15 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "GUZMAN пищевой краситель лаванда 15 мл",
+    "cleanTokens": [
+      "пищевой",
+      "краситель",
+      "лаванда"
+    ],
+    "normalizedTokens": [
+      "пищевой",
+      "краситель",
+      "лаванда",
+      "15 мл"
+    ],
+    "params": {
+      "volume": "15 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "GUZMAN пищевой краситель бургунди 15 мл",
+    "cleanTokens": [
+      "пищевой",
+      "краситель",
+      "бургунди"
+    ],
+    "normalizedTokens": [
+      "пищевой",
+      "краситель",
+      "бургунди",
+      "15 мл"
+    ],
+    "params": {
+      "volume": "15 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "GUZMAN ароматизатор пищевой Миндаль 15 г",
+    "cleanTokens": [
+      "ароматизатор",
+      "пищевой",
+      "миндаль"
+    ],
+    "normalizedTokens": [
+      "ароматизатор",
+      "пищевой",
+      "миндаль",
+      "15 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "15 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "GUZMAN ароматизатор пищевой Мятная паста 125 г",
+    "cleanTokens": [
+      "ароматизатор",
+      "пищевой",
+      "мятная",
+      "паста"
+    ],
+    "normalizedTokens": [
+      "ароматизатор",
+      "пищевой",
+      "мятная",
+      "паста",
+      "125 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "125 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "GUZMAN пищевой краситель бирюзовый 15 мл",
+    "cleanTokens": [
+      "пищевой",
+      "краситель",
+      "бирюзовый"
+    ],
+    "normalizedTokens": [
+      "пищевой",
+      "краситель",
+      "бирюзовый",
+      "15 мл"
+    ],
+    "params": {
+      "volume": "15 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "GUZMAN пищевой краситель персик 15 мл",
+    "cleanTokens": [
+      "пищевой",
+      "краситель",
+      "персик"
+    ],
+    "normalizedTokens": [
+      "пищевой",
+      "краситель",
+      "персик",
+      "15 мл"
+    ],
+    "params": {
+      "volume": "15 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "GUZMAN ароматизатор пищевой Фиалка 15 г",
+    "cleanTokens": [
+      "ароматизатор",
+      "пищевой",
+      "фиалка"
+    ],
+    "normalizedTokens": [
+      "ароматизатор",
+      "пищевой",
+      "фиалка",
+      "15 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "15 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "GUZMAN ароматизатор пищевой Вишня 15 г",
+    "cleanTokens": [
+      "ароматизатор",
+      "пищевой",
+      "вишня"
+    ],
+    "normalizedTokens": [
+      "ароматизатор",
+      "пищевой",
+      "вишня",
+      "15 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "15 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "GUZMAN ароматизатор пищевой Манго 15 г",
+    "cleanTokens": [
+      "ароматизатор",
+      "пищевой",
+      "манго"
+    ],
+    "normalizedTokens": [
+      "ароматизатор",
+      "пищевой",
+      "манго",
+      "15 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "15 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "GUZMAN ароматизатор пищевой Чизкейк 15 г",
+    "cleanTokens": [
+      "ароматизатор",
+      "пищевой",
+      "чизкейк"
+    ],
+    "normalizedTokens": [
+      "ароматизатор",
+      "пищевой",
+      "чизкейк",
+      "15 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "15 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "GUZMAN ароматизатор пищевой Земляника 15 г",
+    "cleanTokens": [
+      "ароматизатор",
+      "пищевой",
+      "земляника"
+    ],
+    "normalizedTokens": [
+      "ароматизатор",
+      "пищевой",
+      "земляника",
+      "15 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "15 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "GUZMAN пищевой краситель темно-синий 15 мл",
+    "cleanTokens": [
+      "пищевой",
+      "краситель",
+      "темно-синий"
+    ],
+    "normalizedTokens": [
+      "пищевой",
+      "краситель",
+      "темно-синий",
+      "15 мл"
+    ],
+    "params": {
+      "volume": "15 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  }
+]

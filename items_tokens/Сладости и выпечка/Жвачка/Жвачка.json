@@ -1,0 +1,3194 @@
+[
+  {
+    "original": "Жевательная резинка Orbit White XXL сочное яблоко 15 шт",
+    "cleanTokens": [
+      "жевательная",
+      "резинка",
+      "white",
+      "xxl",
+      "сочное",
+      "яблоко"
+    ],
+    "normalizedTokens": [
+      "жевательная",
+      "резинка",
+      "white",
+      "xxl",
+      "сочное",
+      "яблоко",
+      "15 шт"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": "15 шт",
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Жевательная резинка Mentos Pure White клубника 8 шт",
+    "cleanTokens": [
+      "жевательная",
+      "резинка",
+      "pure",
+      "white",
+      "клубника"
+    ],
+    "normalizedTokens": [
+      "жевательная",
+      "резинка",
+      "pure",
+      "white",
+      "клубника",
+      "8 шт"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": "8 шт",
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Жевательная резинка Orbit White Классический 10 шт",
+    "cleanTokens": [
+      "жевательная",
+      "резинка",
+      "white",
+      "классический"
+    ],
+    "normalizedTokens": [
+      "жевательная",
+      "резинка",
+      "white",
+      "классический",
+      "10 шт"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": "10 шт",
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Жевательная резинка Mentos Pure Fresh арбуз 10 шт",
+    "cleanTokens": [
+      "жевательная",
+      "резинка",
+      "pure",
+      "fresh",
+      "арбуз"
+    ],
+    "normalizedTokens": [
+      "жевательная",
+      "резинка",
+      "pure",
+      "fresh",
+      "арбуз",
+      "10 шт"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": "10 шт",
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Жевательная резинка Eclipse Ледяная Свежесть 10 шт",
+    "cleanTokens": [
+      "жевательная",
+      "резинка",
+      "ледяная",
+      "свежесть"
+    ],
+    "normalizedTokens": [
+      "жевательная",
+      "резинка",
+      "ледяная",
+      "свежесть",
+      "10 шт"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": "10 шт",
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Жевательная резинка Orbit White нежная мята 10 шт",
+    "cleanTokens": [
+      "жевательная",
+      "резинка",
+      "white",
+      "нежная",
+      "мята"
+    ],
+    "normalizedTokens": [
+      "жевательная",
+      "резинка",
+      "white",
+      "нежная",
+      "мята",
+      "10 шт"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": "10 шт",
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Жевательная резинка Orbit Mini классический 6 шт",
+    "cleanTokens": [
+      "жевательная",
+      "резинка",
+      "mini",
+      "классический"
+    ],
+    "normalizedTokens": [
+      "жевательная",
+      "резинка",
+      "mini",
+      "классический",
+      "6 шт"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": "6 шт",
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Жевательная резинка Mentos Pure White нежная мята 8 шт",
+    "cleanTokens": [
+      "жевательная",
+      "резинка",
+      "pure",
+      "white",
+      "нежная",
+      "мята"
+    ],
+    "normalizedTokens": [
+      "жевательная",
+      "резинка",
+      "pure",
+      "white",
+      "нежная",
+      "мята",
+      "8 шт"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": "8 шт",
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Жевательная резинка Chupa Chups Chupa Chups strawberry flavour 5 шт",
+    "cleanTokens": [
+      "жевательная",
+      "резинка",
+      "strawberry",
+      "flavour"
+    ],
+    "normalizedTokens": [
+      "жевательная",
+      "резинка",
+      "strawberry",
+      "flavour",
+      "5 шт"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": "5 шт",
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Жевательная резинка Orbit Клубника-Банан 10 шт",
+    "cleanTokens": [
+      "жевательная",
+      "резинка",
+      "клубника-банан"
+    ],
+    "normalizedTokens": [
+      "жевательная",
+      "резинка",
+      "клубника-банан",
+      "10 шт"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": "10 шт",
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Жевательная резинка Orbit Сладкая мята 50 шт",
+    "cleanTokens": [
+      "жевательная",
+      "резинка",
+      "сладкая",
+      "мята"
+    ],
+    "normalizedTokens": [
+      "жевательная",
+      "резинка",
+      "сладкая",
+      "мята",
+      "50 шт"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": "50 шт",
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Жевательная резинка Orbit White гранат-малина 10 шт",
+    "cleanTokens": [
+      "жевательная",
+      "резинка",
+      "white",
+      "гранат-малина"
+    ],
+    "normalizedTokens": [
+      "жевательная",
+      "резинка",
+      "white",
+      "гранат-малина",
+      "10 шт"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": "10 шт",
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Жевательная резинка Dirol XXL Ассорти фруктовых вкусов 14 шт",
+    "cleanTokens": [
+      "жевательная",
+      "резинка",
+      "xxl",
+      "ассорти",
+      "фруктовых",
+      "вкусов"
+    ],
+    "normalizedTokens": [
+      "жевательная",
+      "резинка",
+      "xxl",
+      "ассорти",
+      "фруктовых",
+      "вкусов",
+      "14 шт"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": "14 шт",
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Жевательная резинка Orbit Refreshers тропический микс 7 шт",
+    "cleanTokens": [
+      "жевательная",
+      "резинка",
+      "refreshers",
+      "тропический",
+      "микс"
+    ],
+    "normalizedTokens": [
+      "жевательная",
+      "резинка",
+      "refreshers",
+      "тропический",
+      "микс",
+      "7 шт"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": "7 шт",
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Жевательная резинка Orbit Winter Fresh мята 10 шт",
+    "cleanTokens": [
+      "жевательная",
+      "резинка",
+      "winter",
+      "fresh",
+      "мята"
+    ],
+    "normalizedTokens": [
+      "жевательная",
+      "резинка",
+      "winter",
+      "fresh",
+      "мята",
+      "10 шт"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": "10 шт",
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Жевательная резинка Chupa Chups Chupa chups banana flavour 5 шт",
+    "cleanTokens": [
+      "жевательная",
+      "резинка",
+      "banana",
+      "flavour"
+    ],
+    "normalizedTokens": [
+      "жевательная",
+      "резинка",
+      "banana",
+      "flavour",
+      "5 шт"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": "5 шт",
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Жевательная резинка Mentos Pure Fresh тутти-фрутти 28 шт",
+    "cleanTokens": [
+      "жевательная",
+      "резинка",
+      "pure",
+      "fresh",
+      "тутти-фрутти"
+    ],
+    "normalizedTokens": [
+      "жевательная",
+      "резинка",
+      "pure",
+      "fresh",
+      "тутти-фрутти",
+      "28 шт"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": "28 шт",
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Жевательная резинка Dirol Арбузная свежесть 10 шт",
+    "cleanTokens": [
+      "жевательная",
+      "резинка",
+      "арбузная",
+      "свежесть"
+    ],
+    "normalizedTokens": [
+      "жевательная",
+      "резинка",
+      "арбузная",
+      "свежесть",
+      "10 шт"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": "10 шт",
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Жевательная резинка Orbit White Освежающая Мята 10 шт",
+    "cleanTokens": [
+      "жевательная",
+      "резинка",
+      "white",
+      "освежающая",
+      "мята"
+    ],
+    "normalizedTokens": [
+      "жевательная",
+      "резинка",
+      "white",
+      "освежающая",
+      "мята",
+      "10 шт"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": "10 шт",
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Жевательная резинка Dirol Арбузно-дынный коктейль без сахара 10 шт",
+    "cleanTokens": [
+      "жевательная",
+      "резинка",
+      "арбузно-дынный",
+      "коктейль",
+      "без",
+      "сахара"
+    ],
+    "normalizedTokens": [
+      "жевательная",
+      "резинка",
+      "арбузно-дынный",
+      "коктейль",
+      "без",
+      "сахара",
+      "10 шт"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": "10 шт",
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Жевательная резинка Dirol Мята 10 шт",
+    "cleanTokens": [
+      "жевательная",
+      "резинка",
+      "мята"
+    ],
+    "normalizedTokens": [
+      "жевательная",
+      "резинка",
+      "мята",
+      "10 шт"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": "10 шт",
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Жевательная резинка Orbit Ягодный Микс 10 шт",
+    "cleanTokens": [
+      "жевательная",
+      "резинка",
+      "ягодный",
+      "микс"
+    ],
+    "normalizedTokens": [
+      "жевательная",
+      "резинка",
+      "ягодный",
+      "микс",
+      "10 шт"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": "10 шт",
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Жевательная резинка Dirol Морозная мята 10 шт",
+    "cleanTokens": [
+      "жевательная",
+      "резинка",
+      "морозная",
+      "мята"
+    ],
+    "normalizedTokens": [
+      "жевательная",
+      "резинка",
+      "морозная",
+      "мята",
+      "10 шт"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": "10 шт",
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Жевательная резинка Orbit Мята без сахара 10 шт",
+    "cleanTokens": [
+      "жевательная",
+      "резинка",
+      "мята",
+      "без",
+      "сахара"
+    ],
+    "normalizedTokens": [
+      "жевательная",
+      "резинка",
+      "мята",
+      "без",
+      "сахара",
+      "10 шт"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": "10 шт",
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Жевательная резинка Mentos Pure White нежная мята 28 шт",
+    "cleanTokens": [
+      "жевательная",
+      "резинка",
+      "pure",
+      "white",
+      "нежная",
+      "мята"
+    ],
+    "normalizedTokens": [
+      "жевательная",
+      "резинка",
+      "pure",
+      "white",
+      "нежная",
+      "мята",
+      "28 шт"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": "28 шт",
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Жевательная резинка Mentos Pure Fresh арбуз 36 шт",
+    "cleanTokens": [
+      "жевательная",
+      "резинка",
+      "pure",
+      "fresh",
+      "арбуз"
+    ],
+    "normalizedTokens": [
+      "жевательная",
+      "резинка",
+      "pure",
+      "fresh",
+      "арбуз",
+      "36 шт"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": "36 шт",
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Жевательная резинка Mentos Pure Fresh свежая мята с экстрактом зеленого чая 50 шт",
+    "cleanTokens": [
+      "жевательная",
+      "резинка",
+      "pure",
+      "fresh",
+      "свежая",
+      "мята",
+      "с",
+      "экстрактом",
+      "зеленого",
+      "чая"
+    ],
+    "normalizedTokens": [
+      "жевательная",
+      "резинка",
+      "pure",
+      "fresh",
+      "свежая",
+      "мята",
+      "с",
+      "экстрактом",
+      "зеленого",
+      "чая",
+      "50 шт"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": "50 шт",
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Жевательная резинка Wrigley’s Five сочный арбуз 6 шт",
+    "cleanTokens": [
+      "жевательная",
+      "резинка",
+      "сочный",
+      "арбуз"
+    ],
+    "normalizedTokens": [
+      "жевательная",
+      "резинка",
+      "сочный",
+      "арбуз",
+      "6 шт"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": "6 шт",
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Жевательная резинка Mentos вишня 36 шт",
+    "cleanTokens": [
+      "жевательная",
+      "резинка",
+      "вишня"
+    ],
+    "normalizedTokens": [
+      "жевательная",
+      "резинка",
+      "вишня",
+      "36 шт"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": "36 шт",
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Жевательная резинка Mentos Pure Fresh виноград 28 шт",
+    "cleanTokens": [
+      "жевательная",
+      "резинка",
+      "pure",
+      "fresh",
+      "виноград"
+    ],
+    "normalizedTokens": [
+      "жевательная",
+      "резинка",
+      "pure",
+      "fresh",
+      "виноград",
+      "28 шт"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": "28 шт",
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Жевательная резинка Wrigley’s Five сладкие ягоды 6 шт",
+    "cleanTokens": [
+      "жевательная",
+      "резинка",
+      "сладкие",
+      "ягоды"
+    ],
+    "normalizedTokens": [
+      "жевательная",
+      "резинка",
+      "сладкие",
+      "ягоды",
+      "6 шт"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": "6 шт",
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Жевательная резинка Wrigley’s Five свежая мята 6 шт",
+    "cleanTokens": [
+      "жевательная",
+      "резинка",
+      "свежая",
+      "мята"
+    ],
+    "normalizedTokens": [
+      "жевательная",
+      "резинка",
+      "свежая",
+      "мята",
+      "6 шт"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": "6 шт",
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Жевательная резинка Orbit Refreshers мята 7 шт",
+    "cleanTokens": [
+      "жевательная",
+      "резинка",
+      "refreshers",
+      "мята"
+    ],
+    "normalizedTokens": [
+      "жевательная",
+      "резинка",
+      "refreshers",
+      "мята",
+      "7 шт"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": "7 шт",
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Жевательная резинка Mentos Pure White клубника 25 шт",
+    "cleanTokens": [
+      "жевательная",
+      "резинка",
+      "pure",
+      "white",
+      "клубника"
+    ],
+    "normalizedTokens": [
+      "жевательная",
+      "резинка",
+      "pure",
+      "white",
+      "клубника",
+      "25 шт"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": "25 шт",
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Жевательная резинка Wrigley's Hubba Bubba Микс 3 шт",
+    "cleanTokens": [
+      "жевательная",
+      "резинка",
+      "микс"
+    ],
+    "normalizedTokens": [
+      "жевательная",
+      "резинка",
+      "микс",
+      "3 шт"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": "3 шт",
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Жевательная резинка Dirol White со вкусом мяты 10 шт",
+    "cleanTokens": [
+      "жевательная",
+      "резинка",
+      "white",
+      "со",
+      "вкусом",
+      "мяты"
+    ],
+    "normalizedTokens": [
+      "жевательная",
+      "резинка",
+      "white",
+      "со",
+      "вкусом",
+      "мяты",
+      "10 шт"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": "10 шт",
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Жевательная резинка 7STICK Bubble gum tropical 7 шт",
+    "cleanTokens": [
+      "жевательная",
+      "резинка",
+      "bubble",
+      "gum",
+      "tropical"
+    ],
+    "normalizedTokens": [
+      "жевательная",
+      "резинка",
+      "bubble",
+      "gum",
+      "tropical",
+      "7 шт"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": "7 шт",
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Жевательная резинка Miradent Xylitol cranberry 30 шт",
+    "cleanTokens": [
+      "жевательная",
+      "резинка",
+      "xylitol",
+      "cranberry"
+    ],
+    "normalizedTokens": [
+      "жевательная",
+      "резинка",
+      "xylitol",
+      "cranberry",
+      "30 шт"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": "30 шт",
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Жевательная резинка 7STICK Melon 7 шт",
+    "cleanTokens": [
+      "жевательная",
+      "резинка",
+      "melon"
+    ],
+    "normalizedTokens": [
+      "жевательная",
+      "резинка",
+      "melon",
+      "7 шт"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": "7 шт",
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Жевательная резинка 7STICK Bubble gum strawberry 7 шт",
+    "cleanTokens": [
+      "жевательная",
+      "резинка",
+      "bubble",
+      "gum",
+      "strawberry"
+    ],
+    "normalizedTokens": [
+      "жевательная",
+      "резинка",
+      "bubble",
+      "gum",
+      "strawberry",
+      "7 шт"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": "7 шт",
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Жевательная резинка 7STICK Bubble gum watermelon 7 шт",
+    "cleanTokens": [
+      "жевательная",
+      "резинка",
+      "bubble",
+      "gum",
+      "watermelon"
+    ],
+    "normalizedTokens": [
+      "жевательная",
+      "резинка",
+      "bubble",
+      "gum",
+      "watermelon",
+      "7 шт"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": "7 шт",
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Жевательная резинка Love is Микс мозайка фруктовый 25 шт",
+    "cleanTokens": [
+      "жевательная",
+      "резинка",
+      "микс",
+      "мозайка",
+      "фруктовый"
+    ],
+    "normalizedTokens": [
+      "жевательная",
+      "резинка",
+      "микс",
+      "мозайка",
+      "фруктовый",
+      "25 шт"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": "25 шт",
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Жевательная резинка Love is Клубника-банан 100 шт",
+    "cleanTokens": [
+      "жевательная",
+      "резинка",
+      "клубника-банан"
+    ],
+    "normalizedTokens": [
+      "жевательная",
+      "резинка",
+      "клубника-банан",
+      "100 шт"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": "100 шт",
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Жевательная резинка ORION Chewinggum Waou 5 шт",
+    "cleanTokens": [
+      "жевательная",
+      "резинка",
+      "chewinggum",
+      "waou"
+    ],
+    "normalizedTokens": [
+      "жевательная",
+      "резинка",
+      "chewinggum",
+      "waou",
+      "5 шт"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": "5 шт",
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Жевательная резинка Impact Mints Xylitol Gym soda&mint 15 шт",
+    "cleanTokens": [
+      "жевательная",
+      "резинка",
+      "xylitol",
+      "gym",
+      "soda&mint"
+    ],
+    "normalizedTokens": [
+      "жевательная",
+      "резинка",
+      "xylitol",
+      "gym",
+      "soda&mint",
+      "15 шт"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": "15 шт",
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Жевательная резинка ORION со вкусом колы 5 шт",
+    "cleanTokens": [
+      "жевательная",
+      "резинка",
+      "со",
+      "вкусом",
+      "колы"
+    ],
+    "normalizedTokens": [
+      "жевательная",
+      "резинка",
+      "со",
+      "вкусом",
+      "колы",
+      "5 шт"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": "5 шт",
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Жевательная резинка 7STICK Watermelon 7 шт",
+    "cleanTokens": [
+      "жевательная",
+      "резинка",
+      "watermelon"
+    ],
+    "normalizedTokens": [
+      "жевательная",
+      "резинка",
+      "watermelon",
+      "7 шт"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": "7 шт",
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Жевательная резинка Wrigley's Hubba Bubba Mega Long тройной микс 1 шт",
+    "cleanTokens": [
+      "жевательная",
+      "резинка",
+      "mega",
+      "long",
+      "тройной",
+      "микс"
+    ],
+    "normalizedTokens": [
+      "жевательная",
+      "резинка",
+      "mega",
+      "long",
+      "тройной",
+      "микс",
+      "1 шт"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": "1 шт",
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Жевательная резинка 7STICK Bubble gum banana flavoured 7 шт",
+    "cleanTokens": [
+      "жевательная",
+      "резинка",
+      "bubble",
+      "gum",
+      "banana",
+      "flavoured"
+    ],
+    "normalizedTokens": [
+      "жевательная",
+      "резинка",
+      "bubble",
+      "gum",
+      "banana",
+      "flavoured",
+      "7 шт"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": "7 шт",
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Жевательная резинка Dirol Нежность мяты 10 шт",
+    "cleanTokens": [
+      "жевательная",
+      "резинка",
+      "нежность",
+      "мяты"
+    ],
+    "normalizedTokens": [
+      "жевательная",
+      "резинка",
+      "нежность",
+      "мяты",
+      "10 шт"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": "10 шт",
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Жевательная резинка Chupa Chups Balonowa Colors 6 шт",
+    "cleanTokens": [
+      "жевательная",
+      "резинка",
+      "balonowa",
+      "colors"
+    ],
+    "normalizedTokens": [
+      "жевательная",
+      "резинка",
+      "balonowa",
+      "colors",
+      "6 шт"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": "6 шт",
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Жевательная резинка MARUKAWA Orange 4 шт",
+    "cleanTokens": [
+      "жевательная",
+      "резинка",
+      "orange"
+    ],
+    "normalizedTokens": [
+      "жевательная",
+      "резинка",
+      "orange",
+      "4 шт"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": "4 шт",
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Жевательная резинка MARUKAWA Джокер 5 шт",
+    "cleanTokens": [
+      "жевательная",
+      "резинка",
+      "джокер"
+    ],
+    "normalizedTokens": [
+      "жевательная",
+      "резинка",
+      "джокер",
+      "5 шт"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": "5 шт",
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Жевательная резинка Coris Фруктовый 3 шт",
+    "cleanTokens": [
+      "жевательная",
+      "резинка",
+      "фруктовый"
+    ],
+    "normalizedTokens": [
+      "жевательная",
+      "резинка",
+      "фруктовый",
+      "3 шт"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": "3 шт",
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Жевательная резинка Wrigley's Hubba Bubba Яблоко 5 шт",
+    "cleanTokens": [
+      "жевательная",
+      "резинка",
+      "яблоко"
+    ],
+    "normalizedTokens": [
+      "жевательная",
+      "резинка",
+      "яблоко",
+      "5 шт"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": "5 шт",
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Жевательная резинка Impact Mints Xylitol Gym lemon and mint 15 шт",
+    "cleanTokens": [
+      "жевательная",
+      "резинка",
+      "xylitol",
+      "gym",
+      "lemon",
+      "and",
+      "mint"
+    ],
+    "normalizedTokens": [
+      "жевательная",
+      "резинка",
+      "xylitol",
+      "gym",
+      "lemon",
+      "and",
+      "mint",
+      "15 шт"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": "15 шт",
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Жевательная резинка Dirol Bubble Fresh 10 шт",
+    "cleanTokens": [
+      "жевательная",
+      "резинка",
+      "bubble",
+      "fresh"
+    ],
+    "normalizedTokens": [
+      "жевательная",
+      "резинка",
+      "bubble",
+      "fresh",
+      "10 шт"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": "10 шт",
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Жевательная резинка Love is Мини MIX 5 шт",
+    "cleanTokens": [
+      "жевательная",
+      "резинка",
+      "мини",
+      "mix"
+    ],
+    "normalizedTokens": [
+      "жевательная",
+      "резинка",
+      "мини",
+      "mix",
+      "5 шт"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": "5 шт",
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Жевательная резинка Love is Микс Ангелочки 25 шт",
+    "cleanTokens": [
+      "жевательная",
+      "резинка",
+      "микс",
+      "ангелочки"
+    ],
+    "normalizedTokens": [
+      "жевательная",
+      "резинка",
+      "микс",
+      "ангелочки",
+      "25 шт"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": "25 шт",
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Жевательная резинка Love is Ассорти 100 шт",
+    "cleanTokens": [
+      "жевательная",
+      "резинка",
+      "ассорти"
+    ],
+    "normalizedTokens": [
+      "жевательная",
+      "резинка",
+      "ассорти",
+      "100 шт"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": "100 шт",
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Жевательная резинка Love is Вишня-лимон 100 шт",
+    "cleanTokens": [
+      "жевательная",
+      "резинка",
+      "вишня-лимон"
+    ],
+    "normalizedTokens": [
+      "жевательная",
+      "резинка",
+      "вишня-лимон",
+      "100 шт"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": "100 шт",
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Жевательная резинка Lotte Fusen no mi голубика 10 шт",
+    "cleanTokens": [
+      "жевательная",
+      "резинка",
+      "fusen",
+      "no",
+      "mi",
+      "голубика"
+    ],
+    "normalizedTokens": [
+      "жевательная",
+      "резинка",
+      "fusen",
+      "no",
+      "mi",
+      "голубика",
+      "10 шт"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": "10 шт",
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Жевательная резинка Love is Ананас-апельсин 100 шт",
+    "cleanTokens": [
+      "жевательная",
+      "резинка",
+      "ананас-апельсин"
+    ],
+    "normalizedTokens": [
+      "жевательная",
+      "резинка",
+      "ананас-апельсин",
+      "100 шт"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": "100 шт",
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Жевательная резинка ORION Уау кул сода ком 15 шт",
+    "cleanTokens": [
+      "жевательная",
+      "резинка",
+      "уау",
+      "кул",
+      "сода",
+      "ком"
+    ],
+    "normalizedTokens": [
+      "жевательная",
+      "резинка",
+      "уау",
+      "кул",
+      "сода",
+      "ком",
+      "15 шт"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": "15 шт",
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Жевательная резинка Love is яблоко-лимон 100 шт",
+    "cleanTokens": [
+      "жевательная",
+      "резинка",
+      "яблоко-лимон"
+    ],
+    "normalizedTokens": [
+      "жевательная",
+      "резинка",
+      "яблоко-лимон",
+      "100 шт"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": "100 шт",
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Жевательная резинка Chupa Chups Balonowa 18 шт",
+    "cleanTokens": [
+      "жевательная",
+      "резинка",
+      "balonowa"
+    ],
+    "normalizedTokens": [
+      "жевательная",
+      "резинка",
+      "balonowa",
+      "18 шт"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": "18 шт",
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Жевательная резинка Mentos Pure Fresh Клубника 30 шт",
+    "cleanTokens": [
+      "жевательная",
+      "резинка",
+      "pure",
+      "fresh",
+      "клубника"
+    ],
+    "normalizedTokens": [
+      "жевательная",
+      "резинка",
+      "pure",
+      "fresh",
+      "клубника",
+      "30 шт"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": "30 шт",
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Жевательная резинка Impact Mints Xylitol Gym blueberry&mint 15 шт",
+    "cleanTokens": [
+      "жевательная",
+      "резинка",
+      "xylitol",
+      "gym",
+      "blueberry&mint"
+    ],
+    "normalizedTokens": [
+      "жевательная",
+      "резинка",
+      "xylitol",
+      "gym",
+      "blueberry&mint",
+      "15 шт"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": "15 шт",
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Жевательная резинка Wrigley's Hubba Bubba Mega Lang 1 шт",
+    "cleanTokens": [
+      "жевательная",
+      "резинка",
+      "mega",
+      "lang"
+    ],
+    "normalizedTokens": [
+      "жевательная",
+      "резинка",
+      "mega",
+      "lang",
+      "1 шт"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": "1 шт",
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Жевательная резинка Lotte Small Glas Gum cola, lemon 15 шт",
+    "cleanTokens": [
+      "жевательная",
+      "резинка",
+      "small",
+      "glas",
+      "gum",
+      "cola",
+      "lemon"
+    ],
+    "normalizedTokens": [
+      "жевательная",
+      "резинка",
+      "small",
+      "glas",
+      "gum",
+      "cola",
+      "lemon",
+      "15 шт"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": "15 шт",
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Жевательная резинка Miradent Aquamed Dry Mouth Gum 30 шт",
+    "cleanTokens": [
+      "жевательная",
+      "резинка",
+      "aquamed",
+      "dry",
+      "mouth",
+      "gum"
+    ],
+    "normalizedTokens": [
+      "жевательная",
+      "резинка",
+      "aquamed",
+      "dry",
+      "mouth",
+      "gum",
+      "30 шт"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": "30 шт",
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Жевательная резинка MARUKAWA Monsters Dracula 8 шт",
+    "cleanTokens": [
+      "жевательная",
+      "резинка",
+      "monsters",
+      "dracula"
+    ],
+    "normalizedTokens": [
+      "жевательная",
+      "резинка",
+      "monsters",
+      "dracula",
+      "8 шт"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": "8 шт",
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Жевательная резинка MARUKAWA Йогурт 1 шт",
+    "cleanTokens": [
+      "жевательная",
+      "резинка",
+      "йогурт"
+    ],
+    "normalizedTokens": [
+      "жевательная",
+      "резинка",
+      "йогурт",
+      "1 шт"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": "1 шт",
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Жевательная резинка Love is Кокос-ананас 100 шт",
+    "cleanTokens": [
+      "жевательная",
+      "резинка",
+      "кокос-ананас"
+    ],
+    "normalizedTokens": [
+      "жевательная",
+      "резинка",
+      "кокос-ананас",
+      "100 шт"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": "100 шт",
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Жевательная резинка Impact Mints Xylitol Gym lime and mint 15 шт",
+    "cleanTokens": [
+      "жевательная",
+      "резинка",
+      "xylitol",
+      "gym",
+      "lime",
+      "and",
+      "mint"
+    ],
+    "normalizedTokens": [
+      "жевательная",
+      "резинка",
+      "xylitol",
+      "gym",
+      "lime",
+      "and",
+      "mint",
+      "15 шт"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": "15 шт",
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Жевательная резинка Wrigley's Hubba Bubba Mega Long клубника 1 шт",
+    "cleanTokens": [
+      "жевательная",
+      "резинка",
+      "mega",
+      "long",
+      "клубника"
+    ],
+    "normalizedTokens": [
+      "жевательная",
+      "резинка",
+      "mega",
+      "long",
+      "клубника",
+      "1 шт"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": "1 шт",
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Жевательная резинка Wrigley's Hubba Bubba Mega Long Cola 1 шт",
+    "cleanTokens": [
+      "жевательная",
+      "резинка",
+      "mega",
+      "long",
+      "cola"
+    ],
+    "normalizedTokens": [
+      "жевательная",
+      "резинка",
+      "mega",
+      "long",
+      "cola",
+      "1 шт"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": "1 шт",
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Жевательная резинка Chupa Chups Unicorn Eggs 18 шт",
+    "cleanTokens": [
+      "жевательная",
+      "резинка",
+      "unicorn",
+      "eggs"
+    ],
+    "normalizedTokens": [
+      "жевательная",
+      "резинка",
+      "unicorn",
+      "eggs",
+      "18 шт"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": "18 шт",
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Жевательная резинка Lutti Tubble Gum Tutti Frutti 1 шт",
+    "cleanTokens": [
+      "жевательная",
+      "резинка",
+      "tubble",
+      "gum",
+      "tutti",
+      "frutti"
+    ],
+    "normalizedTokens": [
+      "жевательная",
+      "резинка",
+      "tubble",
+      "gum",
+      "tutti",
+      "frutti",
+      "1 шт"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": "1 шт",
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Жевательная резинка Lotte Мята, редбул 24 шт",
+    "cleanTokens": [
+      "жевательная",
+      "резинка",
+      "мята",
+      "редбул"
+    ],
+    "normalizedTokens": [
+      "жевательная",
+      "резинка",
+      "мята",
+      "редбул",
+      "24 шт"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": "24 шт",
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Жевательная резинка Dirol X-Fresh клубника, лайм 10 шт",
+    "cleanTokens": [
+      "жевательная",
+      "резинка",
+      "x-fresh",
+      "клубника",
+      "лайм"
+    ],
+    "normalizedTokens": [
+      "жевательная",
+      "резинка",
+      "x-fresh",
+      "клубника",
+      "лайм",
+      "10 шт"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": "10 шт",
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Жевательная резинка Wrigley's Hubba Bubba Strawberry 5 шт",
+    "cleanTokens": [
+      "жевательная",
+      "резинка",
+      "strawberry"
+    ],
+    "normalizedTokens": [
+      "жевательная",
+      "резинка",
+      "strawberry",
+      "5 шт"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": "5 шт",
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Жевательная резинка Lutti Tubble Gum Color Raspberry 1 шт",
+    "cleanTokens": [
+      "жевательная",
+      "резинка",
+      "tubble",
+      "gum",
+      "color",
+      "raspberry"
+    ],
+    "normalizedTokens": [
+      "жевательная",
+      "резинка",
+      "tubble",
+      "gum",
+      "color",
+      "raspberry",
+      "1 шт"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": "1 шт",
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Жевательная резинка 7STICK Bubble gum tutti frutti 7 шт",
+    "cleanTokens": [
+      "жевательная",
+      "резинка",
+      "bubble",
+      "gum",
+      "tutti",
+      "frutti"
+    ],
+    "normalizedTokens": [
+      "жевательная",
+      "резинка",
+      "bubble",
+      "gum",
+      "tutti",
+      "frutti",
+      "7 шт"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": "7 шт",
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Жевательная резинка Wrigley's Hubba Bubba Original 5 шт",
+    "cleanTokens": [
+      "жевательная",
+      "резинка",
+      "original"
+    ],
+    "normalizedTokens": [
+      "жевательная",
+      "резинка",
+      "original",
+      "5 шт"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": "5 шт",
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Жевательная резинка Chupa Chups Magic Cubes 86 г",
+    "cleanTokens": [
+      "жевательная",
+      "резинка",
+      "magic",
+      "cubes"
+    ],
+    "normalizedTokens": [
+      "жевательная",
+      "резинка",
+      "magic",
+      "cubes",
+      "86 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "86 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Жевательная резинка Mentos Fresh 30 шт",
+    "cleanTokens": [
+      "жевательная",
+      "резинка",
+      "fresh"
+    ],
+    "normalizedTokens": [
+      "жевательная",
+      "резинка",
+      "fresh",
+      "30 шт"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": "30 шт",
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Жевательная резинка Mentos Fresh клубника 30 шт",
+    "cleanTokens": [
+      "жевательная",
+      "резинка",
+      "fresh",
+      "клубника"
+    ],
+    "normalizedTokens": [
+      "жевательная",
+      "резинка",
+      "fresh",
+      "клубника",
+      "30 шт"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": "30 шт",
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Жевательная резинка Wrigley's Hubba Bubba Max blue raspberry sour 5 шт",
+    "cleanTokens": [
+      "жевательная",
+      "резинка",
+      "max",
+      "blue",
+      "raspberry",
+      "sour"
+    ],
+    "normalizedTokens": [
+      "жевательная",
+      "резинка",
+      "max",
+      "blue",
+      "raspberry",
+      "sour",
+      "5 шт"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": "5 шт",
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Жевательная резинка Fundiez Gumball Machine 504 шт",
+    "cleanTokens": [
+      "жевательная",
+      "резинка",
+      "gumball",
+      "machine"
+    ],
+    "normalizedTokens": [
+      "жевательная",
+      "резинка",
+      "gumball",
+      "machine",
+      "504 шт"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": "504 шт",
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Жевательная резинка Chupa Chups Play Tennis 18 шт",
+    "cleanTokens": [
+      "жевательная",
+      "резинка",
+      "play",
+      "tennis"
+    ],
+    "normalizedTokens": [
+      "жевательная",
+      "резинка",
+      "play",
+      "tennis",
+      "18 шт"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": "18 шт",
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Жевательная резинка Wrigley's Hubba Bubba Max Strawberry Watermelon Gum арбуз, клубника 5 шт",
+    "cleanTokens": [
+      "жевательная",
+      "резинка",
+      "max",
+      "strawberry",
+      "watermelon",
+      "gum",
+      "арбуз",
+      "клубника"
+    ],
+    "normalizedTokens": [
+      "жевательная",
+      "резинка",
+      "max",
+      "strawberry",
+      "watermelon",
+      "gum",
+      "арбуз",
+      "клубника",
+      "5 шт"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": "5 шт",
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Жевательная резинка Coris Horror sticker tattoo and gum 1 шт",
+    "cleanTokens": [
+      "жевательная",
+      "резинка",
+      "horror",
+      "sticker",
+      "tattoo",
+      "and",
+      "gum"
+    ],
+    "normalizedTokens": [
+      "жевательная",
+      "резинка",
+      "horror",
+      "sticker",
+      "tattoo",
+      "and",
+      "gum",
+      "1 шт"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": "1 шт",
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Жевательная резинка Lutti Tubble Gum Cherry 1 шт",
+    "cleanTokens": [
+      "жевательная",
+      "резинка",
+      "tubble",
+      "gum",
+      "cherry"
+    ],
+    "normalizedTokens": [
+      "жевательная",
+      "резинка",
+      "tubble",
+      "gum",
+      "cherry",
+      "1 шт"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": "1 шт",
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Жевательная резинка MARUKAWA Black Extra Sour кислый лимон 2 шт",
+    "cleanTokens": [
+      "жевательная",
+      "резинка",
+      "black",
+      "extra",
+      "sour",
+      "кислый",
+      "лимон"
+    ],
+    "normalizedTokens": [
+      "жевательная",
+      "резинка",
+      "black",
+      "extra",
+      "sour",
+      "кислый",
+      "лимон",
+      "2 шт"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": "2 шт",
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Жевательная резинка Coris Soda gum 1 шт",
+    "cleanTokens": [
+      "жевательная",
+      "резинка",
+      "soda",
+      "gum"
+    ],
+    "normalizedTokens": [
+      "жевательная",
+      "резинка",
+      "soda",
+      "gum",
+      "1 шт"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": "1 шт",
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Жевательная резинка Фруша 10 фруктовых радостей 10 шт",
+    "cleanTokens": [
+      "жевательная",
+      "резинка",
+      "фруктовых",
+      "радостей"
+    ],
+    "normalizedTokens": [
+      "жевательная",
+      "резинка",
+      "10",
+      "фруктовых",
+      "радостей",
+      "10 шт"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": "10 шт",
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Жевательная резинка Lotte Small Glass Lemon & Lime 25 шт",
+    "cleanTokens": [
+      "жевательная",
+      "резинка",
+      "small",
+      "glass",
+      "lemon",
+      "&",
+      "lime"
+    ],
+    "normalizedTokens": [
+      "жевательная",
+      "резинка",
+      "small",
+      "glass",
+      "lemon",
+      "&",
+      "lime",
+      "25 шт"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": "25 шт",
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Жевательная резинка Dirol White Клубничная поляна 10 шт",
+    "cleanTokens": [
+      "жевательная",
+      "резинка",
+      "white",
+      "клубничная",
+      "поляна"
+    ],
+    "normalizedTokens": [
+      "жевательная",
+      "резинка",
+      "white",
+      "клубничная",
+      "поляна",
+      "10 шт"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": "10 шт",
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Жевательная резинка MARUKAWA Strawberry bubble gum 4 шт",
+    "cleanTokens": [
+      "жевательная",
+      "резинка",
+      "strawberry",
+      "bubble",
+      "gum"
+    ],
+    "normalizedTokens": [
+      "жевательная",
+      "резинка",
+      "strawberry",
+      "bubble",
+      "gum",
+      "4 шт"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": "4 шт",
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Жевательная резинка MARUKAWA Содовая 6 шт",
+    "cleanTokens": [
+      "жевательная",
+      "резинка",
+      "содовая"
+    ],
+    "normalizedTokens": [
+      "жевательная",
+      "резинка",
+      "содовая",
+      "6 шт"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": "6 шт",
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Жевательная резинка MARUKAWA Orange 6 шт",
+    "cleanTokens": [
+      "жевательная",
+      "резинка",
+      "orange"
+    ],
+    "normalizedTokens": [
+      "жевательная",
+      "резинка",
+      "orange",
+      "6 шт"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": "6 шт",
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Жевательная резинка Mentos Fresh тропик 30 шт",
+    "cleanTokens": [
+      "жевательная",
+      "резинка",
+      "fresh",
+      "тропик"
+    ],
+    "normalizedTokens": [
+      "жевательная",
+      "резинка",
+      "fresh",
+      "тропик",
+      "30 шт"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": "30 шт",
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Жевательная резинка Lutti Roll-up Tutti Frutti 1 шт",
+    "cleanTokens": [
+      "жевательная",
+      "резинка",
+      "roll-up",
+      "tutti",
+      "frutti"
+    ],
+    "normalizedTokens": [
+      "жевательная",
+      "резинка",
+      "roll-up",
+      "tutti",
+      "frutti",
+      "1 шт"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": "1 шт",
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Жевательная резинка Jelly Belly Very cherry 12 шт",
+    "cleanTokens": [
+      "жевательная",
+      "резинка",
+      "very",
+      "cherry"
+    ],
+    "normalizedTokens": [
+      "жевательная",
+      "резинка",
+      "very",
+      "cherry",
+      "12 шт"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": "12 шт",
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Жевательная резинка Lutti Roll-up Strawberry 1 шт",
+    "cleanTokens": [
+      "жевательная",
+      "резинка",
+      "roll-up",
+      "strawberry"
+    ],
+    "normalizedTokens": [
+      "жевательная",
+      "резинка",
+      "roll-up",
+      "strawberry",
+      "1 шт"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": "1 шт",
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Жевательная резинка MARUKAWA Слива 1 шт",
+    "cleanTokens": [
+      "жевательная",
+      "резинка",
+      "слива"
+    ],
+    "normalizedTokens": [
+      "жевательная",
+      "резинка",
+      "слива",
+      "1 шт"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": "1 шт",
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Жевательная резинка Lotte Doraemon 25 шт",
+    "cleanTokens": [
+      "жевательная",
+      "резинка",
+      "doraemon"
+    ],
+    "normalizedTokens": [
+      "жевательная",
+      "резинка",
+      "doraemon",
+      "25 шт"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": "25 шт",
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Жевательная резинка MARUKAWA Monsters Franken 8 шт",
+    "cleanTokens": [
+      "жевательная",
+      "резинка",
+      "monsters",
+      "franken"
+    ],
+    "normalizedTokens": [
+      "жевательная",
+      "резинка",
+      "monsters",
+      "franken",
+      "8 шт"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": "8 шт",
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Жевательная резинка MARUKAWA Следователь Конан 10 шт",
+    "cleanTokens": [
+      "жевательная",
+      "резинка",
+      "следователь",
+      "конан"
+    ],
+    "normalizedTokens": [
+      "жевательная",
+      "резинка",
+      "следователь",
+      "конан",
+      "10 шт"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": "10 шт",
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Жевательная резинка ORION Chewinggum Waou Cola 15 шт",
+    "cleanTokens": [
+      "жевательная",
+      "резинка",
+      "chewinggum",
+      "waou",
+      "cola"
+    ],
+    "normalizedTokens": [
+      "жевательная",
+      "резинка",
+      "chewinggum",
+      "waou",
+      "cola",
+      "15 шт"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": "15 шт",
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Жевательная резинка ORION Уау кул сода ком 15 шт",
+    "cleanTokens": [
+      "жевательная",
+      "резинка",
+      "уау",
+      "кул",
+      "сода",
+      "ком"
+    ],
+    "normalizedTokens": [
+      "жевательная",
+      "резинка",
+      "уау",
+      "кул",
+      "сода",
+      "ком",
+      "15 шт"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": "15 шт",
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Жевательная резинка TOYBOX Apple&Blue raspberry 2 in 1 1 шт",
+    "cleanTokens": [
+      "жевательная",
+      "резинка",
+      "apple&blue",
+      "raspberry",
+      "2",
+      "in"
+    ],
+    "normalizedTokens": [
+      "жевательная",
+      "резинка",
+      "apple&blue",
+      "raspberry",
+      "2",
+      "in",
+      "1",
+      "1 шт"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": "1 шт",
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Жевательная резинка Mentos Pure Fresh Spearmint мята 1 шт",
+    "cleanTokens": [
+      "жевательная",
+      "резинка",
+      "pure",
+      "fresh",
+      "spearmint",
+      "мята"
+    ],
+    "normalizedTokens": [
+      "жевательная",
+      "резинка",
+      "pure",
+      "fresh",
+      "spearmint",
+      "мята",
+      "1 шт"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": "1 шт",
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Жевательная резинка MARUKAWA Monsters Zombie 8 шт",
+    "cleanTokens": [
+      "жевательная",
+      "резинка",
+      "monsters",
+      "zombie"
+    ],
+    "normalizedTokens": [
+      "жевательная",
+      "резинка",
+      "monsters",
+      "zombie",
+      "8 шт"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": "8 шт",
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Жевательная резинка Mentos Pure Fresh pure breath 50 шт",
+    "cleanTokens": [
+      "жевательная",
+      "резинка",
+      "pure",
+      "fresh",
+      "pure",
+      "breath"
+    ],
+    "normalizedTokens": [
+      "жевательная",
+      "резинка",
+      "pure",
+      "fresh",
+      "pure",
+      "breath",
+      "50 шт"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": "50 шт",
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Жевательная резинка MARUKAWA Akabee + Kurobee 2 шт",
+    "cleanTokens": [
+      "жевательная",
+      "резинка",
+      "akabee",
+      "+",
+      "kurobee"
+    ],
+    "normalizedTokens": [
+      "жевательная",
+      "резинка",
+      "akabee",
+      "+",
+      "kurobee",
+      "2 шт"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": "2 шт",
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Жевательная резинка Mentos Pure Fresh Тутти Фрутти 1 шт",
+    "cleanTokens": [
+      "жевательная",
+      "резинка",
+      "pure",
+      "fresh",
+      "тутти",
+      "фрутти"
+    ],
+    "normalizedTokens": [
+      "жевательная",
+      "резинка",
+      "pure",
+      "fresh",
+      "тутти",
+      "фрутти",
+      "1 шт"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": "1 шт",
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Жевательная резинка FINI Melon 10 шт",
+    "cleanTokens": [
+      "жевательная",
+      "резинка",
+      "melon"
+    ],
+    "normalizedTokens": [
+      "жевательная",
+      "резинка",
+      "melon",
+      "10 шт"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": "10 шт",
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Жевательная резинка MARUKAWA Виноград 4 шт",
+    "cleanTokens": [
+      "жевательная",
+      "резинка",
+      "виноград"
+    ],
+    "normalizedTokens": [
+      "жевательная",
+      "резинка",
+      "виноград",
+      "4 шт"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": "4 шт",
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Жевательная резинка Канди Клаб Gum Челлендж 1 шт",
+    "cleanTokens": [
+      "жевательная",
+      "резинка",
+      "gum",
+      "челлендж"
+    ],
+    "normalizedTokens": [
+      "жевательная",
+      "резинка",
+      "gum",
+      "челлендж",
+      "1 шт"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": "1 шт",
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Жевательная резинка Big babol Mega Draje арбуз 12 шт",
+    "cleanTokens": [
+      "жевательная",
+      "резинка",
+      "mega",
+      "draje",
+      "арбуз"
+    ],
+    "normalizedTokens": [
+      "жевательная",
+      "резинка",
+      "mega",
+      "draje",
+      "арбуз",
+      "12 шт"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": "12 шт",
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  }
+]

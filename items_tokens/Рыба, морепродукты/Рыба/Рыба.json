@@ -1,0 +1,401 @@
+[
+  {
+    "original": "AC тушка сельдь тихоокеанская слабосоленая",
+    "cleanTokens": [
+      "тушка",
+      "сельдь",
+      "тихоокеанская",
+      "слабосоленая"
+    ],
+    "normalizedTokens": [
+      "тушка",
+      "сельдь",
+      "тихоокеанская",
+      "слабосоленая"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Radovnya тушка скумбрия свежемороженая",
+    "cleanTokens": [
+      "тушка",
+      "скумбрия",
+      "свежемороженая"
+    ],
+    "normalizedTokens": [
+      "тушка",
+      "скумбрия",
+      "свежемороженая"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "MAGNUM сельдь атлантическая соленая",
+    "cleanTokens": [
+      "сельдь",
+      "атлантическая",
+      "соленая"
+    ],
+    "normalizedTokens": [
+      "сельдь",
+      "атлантическая",
+      "соленая"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "AC филе форель подкопченная 200 г",
+    "cleanTokens": [
+      "филе",
+      "форель",
+      "подкопченная"
+    ],
+    "normalizedTokens": [
+      "филе",
+      "форель",
+      "подкопченная",
+      "200 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "200 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "MAGNUM стейк из кеты свежемороженый ",
+    "cleanTokens": [
+      "стейк",
+      "из",
+      "кеты",
+      "свежемороженый"
+    ],
+    "normalizedTokens": [
+      "стейк",
+      "из",
+      "кеты",
+      "свежемороженый"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "AC стейк форель свежемороженый 350 г",
+    "cleanTokens": [
+      "стейк",
+      "форель",
+      "свежемороженый"
+    ],
+    "normalizedTokens": [
+      "стейк",
+      "форель",
+      "свежемороженый",
+      "350 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "350 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "AC филе форель свежемороженый 500 г",
+    "cleanTokens": [
+      "филе",
+      "форель",
+      "свежемороженый"
+    ],
+    "normalizedTokens": [
+      "филе",
+      "форель",
+      "свежемороженый",
+      "500 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "500 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Fishco филе судак свежемороженый",
+    "cleanTokens": [
+      "филе",
+      "судак",
+      "свежемороженый"
+    ],
+    "normalizedTokens": [
+      "филе",
+      "судак",
+      "свежемороженый"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "MAGNUM тушка сибас свежемороженый",
+    "cleanTokens": [
+      "тушка",
+      "сибас",
+      "свежемороженый"
+    ],
+    "normalizedTokens": [
+      "тушка",
+      "сибас",
+      "свежемороженый"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Borealis филе треска свежемороженая 600 г",
+    "cleanTokens": [
+      "филе",
+      "треска",
+      "свежемороженая"
+    ],
+    "normalizedTokens": [
+      "филе",
+      "треска",
+      "свежемороженая",
+      "600 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "600 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "AC стейк форель свежемороженый в соусе гриль микс 350 г",
+    "cleanTokens": [
+      "стейк",
+      "форель",
+      "свежемороженый",
+      "в",
+      "соусе",
+      "гриль",
+      "микс"
+    ],
+    "normalizedTokens": [
+      "стейк",
+      "форель",
+      "свежемороженый",
+      "в",
+      "соусе",
+      "гриль",
+      "микс",
+      "350 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "350 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "AC стейк форель засоленный 350 г",
+    "cleanTokens": [
+      "стейк",
+      "форель",
+      "засоленный"
+    ],
+    "normalizedTokens": [
+      "стейк",
+      "форель",
+      "засоленный",
+      "350 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "350 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "MAGNUM порционная нарезка семга свежемороженая суп набор",
+    "cleanTokens": [
+      "порционная",
+      "нарезка",
+      "семга",
+      "свежемороженая",
+      "суп",
+      "набор"
+    ],
+    "normalizedTokens": [
+      "порционная",
+      "нарезка",
+      "семга",
+      "свежемороженая",
+      "суп",
+      "набор"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "MAGNUM тушка дорадо свежемороженый",
+    "cleanTokens": [
+      "тушка",
+      "дорадо",
+      "свежемороженый"
+    ],
+    "normalizedTokens": [
+      "тушка",
+      "дорадо",
+      "свежемороженый"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "MAGNUM тушка скумбрия свежемороженая",
+    "cleanTokens": [
+      "тушка",
+      "скумбрия",
+      "свежемороженая"
+    ],
+    "normalizedTokens": [
+      "тушка",
+      "скумбрия",
+      "свежемороженая"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Fishco стейк семги свежемороженый",
+    "cleanTokens": [
+      "стейк",
+      "семги",
+      "свежемороженый"
+    ],
+    "normalizedTokens": [
+      "стейк",
+      "семги",
+      "свежемороженый"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Vici филе тунец свежемороженый 400 г",
+    "cleanTokens": [
+      "филе",
+      "тунец",
+      "свежемороженый"
+    ],
+    "normalizedTokens": [
+      "филе",
+      "тунец",
+      "свежемороженый",
+      "400 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "400 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  }
+]

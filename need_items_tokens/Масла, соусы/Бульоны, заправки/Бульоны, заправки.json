@@ -1,0 +1,242 @@
+[
+  {
+    "original": "Приправыч суп Куриный с вермишелью 60 г",
+    "cleanTokens": [
+      "суп",
+      "куриный",
+      "с",
+      "вермишелью"
+    ],
+    "normalizedTokens": [
+      "суп",
+      "куриный",
+      "с",
+      "вермишелью",
+      "60 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "60 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Приправыч заправка звездочка 60 г",
+    "cleanTokens": [
+      "заправка",
+      "звездочка"
+    ],
+    "normalizedTokens": [
+      "заправка",
+      "звездочка",
+      "60 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "60 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Maggi заправка для солянки 180 г",
+    "cleanTokens": [
+      "заправка",
+      "для",
+      "солянки"
+    ],
+    "normalizedTokens": [
+      "заправка",
+      "для",
+      "солянки",
+      "180 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "180 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Sen Soy основа для супа Том ям 80 г",
+    "cleanTokens": [
+      "основа",
+      "для",
+      "супа",
+      "том",
+      "ям"
+    ],
+    "normalizedTokens": [
+      "основа",
+      "для",
+      "супа",
+      "том",
+      "ям",
+      "80 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "80 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Приправыч суп Борщ 60 г",
+    "cleanTokens": [
+      "суп",
+      "борщ"
+    ],
+    "normalizedTokens": [
+      "суп",
+      "борщ",
+      "60 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "60 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Knorr Professional бульон мясной 5 кг",
+    "cleanTokens": [
+      "бульон",
+      "мясной"
+    ],
+    "normalizedTokens": [
+      "бульон",
+      "мясной",
+      "5 кг"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "5 кг",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Приправыч заправка для борща 60 г",
+    "cleanTokens": [
+      "заправка",
+      "для",
+      "борща"
+    ],
+    "normalizedTokens": [
+      "заправка",
+      "для",
+      "борща",
+      "60 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "60 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Sen Soy основа для супа Мисо 80 г",
+    "cleanTokens": [
+      "основа",
+      "для",
+      "супа",
+      "мисо"
+    ],
+    "normalizedTokens": [
+      "основа",
+      "для",
+      "супа",
+      "мисо",
+      "80 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "80 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "ROI THAI основа для супа Том ям с кокосовым молоком 250 г",
+    "cleanTokens": [
+      "основа",
+      "для",
+      "супа",
+      "том",
+      "ям",
+      "с",
+      "кокосовым",
+      "молоком"
+    ],
+    "normalizedTokens": [
+      "основа",
+      "для",
+      "супа",
+      "том",
+      "ям",
+      "с",
+      "кокосовым",
+      "молоком",
+      "250 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "250 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Asyl spice center бульон куриный 100 г",
+    "cleanTokens": [
+      "бульон",
+      "куриный"
+    ],
+    "normalizedTokens": [
+      "бульон",
+      "куриный",
+      "100 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "100 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  }
+]

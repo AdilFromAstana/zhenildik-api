@@ -1,0 +1,970 @@
+[
+  {
+    "original": "Shirin Rokh нават на палочке 17 г",
+    "cleanTokens": [
+      "нават",
+      "на",
+      "палочке"
+    ],
+    "normalizedTokens": [
+      "нават",
+      "на",
+      "палочке",
+      "17 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "17 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Chocogo Дубайский с фисташковой начинкой 180 г",
+    "cleanTokens": [
+      "дубайский",
+      "с",
+      "фисташковой",
+      "начинкой"
+    ],
+    "normalizedTokens": [
+      "дубайский",
+      "с",
+      "фисташковой",
+      "начинкой",
+      "180 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "180 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Pashaoglu рахат-лукум с вишней 150 г",
+    "cleanTokens": [
+      "рахат-лукум",
+      "с",
+      "вишней"
+    ],
+    "normalizedTokens": [
+      "рахат-лукум",
+      "с",
+      "вишней",
+      "150 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "150 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Pashaoglu с грецким орехом со вкусом капучино 150 г",
+    "cleanTokens": [
+      "с",
+      "грецким",
+      "орехом",
+      "со",
+      "вкусом",
+      "капучино"
+    ],
+    "normalizedTokens": [
+      "с",
+      "грецким",
+      "орехом",
+      "со",
+      "вкусом",
+      "капучино",
+      "150 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "150 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Pashaoglu рахат-лукум с малиной 150 г",
+    "cleanTokens": [
+      "рахат-лукум",
+      "с",
+      "малиной"
+    ],
+    "normalizedTokens": [
+      "рахат-лукум",
+      "с",
+      "малиной",
+      "150 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "150 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Pashaoglu рахат-лукум со вкусом клюква-сливки 150 г",
+    "cleanTokens": [
+      "рахат-лукум",
+      "со",
+      "вкусом",
+      "клюква-сливки"
+    ],
+    "normalizedTokens": [
+      "рахат-лукум",
+      "со",
+      "вкусом",
+      "клюква-сливки",
+      "150 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "150 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "KOSKA турецкая халва с фисташками 500 г",
+    "cleanTokens": [
+      "турецкая",
+      "халва",
+      "с",
+      "фисташками"
+    ],
+    "normalizedTokens": [
+      "турецкая",
+      "халва",
+      "с",
+      "фисташками",
+      "500 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "500 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Kulikov Чак-Чак 200 г",
+    "cleanTokens": [
+      "чак-чак"
+    ],
+    "normalizedTokens": [
+      "чак-чак",
+      "200 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "200 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Kulikov Мютаки с орехами 300 г",
+    "cleanTokens": [
+      "мютаки",
+      "с",
+      "орехами"
+    ],
+    "normalizedTokens": [
+      "мютаки",
+      "с",
+      "орехами",
+      "300 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "300 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Meshur Safranbolu Lokumcusu рахат-лукум фруктовый микс 400 г",
+    "cleanTokens": [
+      "рахат-лукум",
+      "фруктовый",
+      "микс"
+    ],
+    "normalizedTokens": [
+      "рахат-лукум",
+      "фруктовый",
+      "микс",
+      "400 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "400 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Sultanshop рахат-лукум с орехами 200 г",
+    "cleanTokens": [
+      "рахат-лукум",
+      "с",
+      "орехами"
+    ],
+    "normalizedTokens": [
+      "рахат-лукум",
+      "с",
+      "орехами",
+      "200 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "200 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Sultanshop рахат-лукум с орехами 200 г",
+    "cleanTokens": [
+      "рахат-лукум",
+      "с",
+      "орехами"
+    ],
+    "normalizedTokens": [
+      "рахат-лукум",
+      "с",
+      "орехами",
+      "200 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "200 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Jabsons рулетики с кунжутом, кешью и арахисом 175 г",
+    "cleanTokens": [
+      "рулетики",
+      "с",
+      "кунжутом",
+      "кешью",
+      "арахисом"
+    ],
+    "normalizedTokens": [
+      "рулетики",
+      "с",
+      "кунжутом",
+      "кешью",
+      "арахисом",
+      "175 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "175 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Pashaoglu Рахат-лукум ананас 150 г",
+    "cleanTokens": [
+      "рахат-лукум",
+      "ананас"
+    ],
+    "normalizedTokens": [
+      "рахат-лукум",
+      "ананас",
+      "150 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "150 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Ugurlu пишмание со вкусом граната с добавлением фисташек 220 г",
+    "cleanTokens": [
+      "пишмание",
+      "со",
+      "вкусом",
+      "граната",
+      "с",
+      "добавлением",
+      "фисташек"
+    ],
+    "normalizedTokens": [
+      "пишмание",
+      "со",
+      "вкусом",
+      "граната",
+      "с",
+      "добавлением",
+      "фисташек",
+      "220 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "220 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Рахат-лукум Pashaoglu манго-семена чиа 150 г",
+    "cleanTokens": [
+      "рахат-лукум",
+      "манго-семена",
+      "чиа"
+    ],
+    "normalizedTokens": [
+      "рахат-лукум",
+      "манго-семена",
+      "чиа",
+      "150 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "150 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Kuraga.kz нават желтый 250 г",
+    "cleanTokens": [
+      "нават",
+      "желтый"
+    ],
+    "normalizedTokens": [
+      "нават",
+      "желтый",
+      "250 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "250 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Pashaoglu рахат-лукум гранат-барбарис 150 г",
+    "cleanTokens": [
+      "рахат-лукум",
+      "гранат-барбарис"
+    ],
+    "normalizedTokens": [
+      "рахат-лукум",
+      "гранат-барбарис",
+      "150 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "150 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Pashaoglu рахат-лукум апельсин 150 г",
+    "cleanTokens": [
+      "рахат-лукум",
+      "апельсин"
+    ],
+    "normalizedTokens": [
+      "рахат-лукум",
+      "апельсин",
+      "150 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "150 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Meshur Safranbolu Lokumcusu фруктовое ассорти 600 г",
+    "cleanTokens": [
+      "фруктовое",
+      "ассорти"
+    ],
+    "normalizedTokens": [
+      "фруктовое",
+      "ассорти",
+      "600 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "600 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Pashaoglu арахисовая халва с фисташками 250 г",
+    "cleanTokens": [
+      "арахисовая",
+      "халва",
+      "с",
+      "фисташками"
+    ],
+    "normalizedTokens": [
+      "арахисовая",
+      "халва",
+      "с",
+      "фисташками",
+      "250 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "250 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Эко Дом-Павлодар халва молочная с грецким орехом и фисташками 250 г",
+    "cleanTokens": [
+      "халва",
+      "молочная",
+      "с",
+      "грецким",
+      "орехом",
+      "фисташками"
+    ],
+    "normalizedTokens": [
+      "халва",
+      "молочная",
+      "с",
+      "грецким",
+      "орехом",
+      "фисташками",
+      "250 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "250 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Сибирский кедр халва с кедровыми орешками 200 г",
+    "cleanTokens": [
+      "халва",
+      "с",
+      "кедровыми",
+      "орешками"
+    ],
+    "normalizedTokens": [
+      "халва",
+      "с",
+      "кедровыми",
+      "орешками",
+      "200 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "200 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Pashaoglu рахат-лукум лепестки розы 150 г",
+    "cleanTokens": [
+      "рахат-лукум",
+      "лепестки",
+      "розы"
+    ],
+    "normalizedTokens": [
+      "рахат-лукум",
+      "лепестки",
+      "розы",
+      "150 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "150 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Рахат-лукум Pashaoglu лимон-имбирь 150 г",
+    "cleanTokens": [
+      "рахат-лукум",
+      "лимон-имбирь"
+    ],
+    "normalizedTokens": [
+      "рахат-лукум",
+      "лимон-имбирь",
+      "150 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "150 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Эко Дом-Павлодар халва молочная с грецким орехом и фисташками 250 г",
+    "cleanTokens": [
+      "халва",
+      "молочная",
+      "с",
+      "грецким",
+      "орехом",
+      "фисташками"
+    ],
+    "normalizedTokens": [
+      "халва",
+      "молочная",
+      "с",
+      "грецким",
+      "орехом",
+      "фисташками",
+      "250 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "250 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Эко Дом-Павлодар халва молочная с грецким орехом и фисташками 150 г",
+    "cleanTokens": [
+      "халва",
+      "молочная",
+      "с",
+      "грецким",
+      "орехом",
+      "фисташками"
+    ],
+    "normalizedTokens": [
+      "халва",
+      "молочная",
+      "с",
+      "грецким",
+      "орехом",
+      "фисташками",
+      "150 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "150 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Гранатовый лукум с фисташкой (Pomegranate Flavored Turkish Delight with Pistachio) 200 грамм",
+    "cleanTokens": [
+      "гранатовый",
+      "лукум",
+      "с",
+      "фисташкой",
+      "pomegranate",
+      "flavored",
+      "turkish",
+      "delight",
+      "with",
+      "pistachio",
+      "200",
+      "грамм"
+    ],
+    "normalizedTokens": [
+      "гранатовый",
+      "лукум",
+      "с",
+      "фисташкой",
+      "pomegranate",
+      "flavored",
+      "turkish",
+      "delight",
+      "with",
+      "pistachio",
+      "200",
+      "грамм"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Chupa Chups сахарная вата без Bubble gum 11 г",
+    "cleanTokens": [
+      "сахарная",
+      "вата",
+      "без",
+      "bubble",
+      "gum"
+    ],
+    "normalizedTokens": [
+      "сахарная",
+      "вата",
+      "без",
+      "bubble",
+      "gum",
+      "11 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "11 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Pashaoglu арахисовая халва со вкусом дыни 250 г",
+    "cleanTokens": [
+      "арахисовая",
+      "халва",
+      "со",
+      "вкусом",
+      "дыни"
+    ],
+    "normalizedTokens": [
+      "арахисовая",
+      "халва",
+      "со",
+      "вкусом",
+      "дыни",
+      "250 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "250 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Pashaoglu арахисовая халва с какао 250 г",
+    "cleanTokens": [
+      "арахисовая",
+      "халва",
+      "с",
+      "какао"
+    ],
+    "normalizedTokens": [
+      "арахисовая",
+      "халва",
+      "с",
+      "какао",
+      "250 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "250 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Pashaoglu арахисовая халва с фисташками в шоколадной глазури 250 г",
+    "cleanTokens": [
+      "арахисовая",
+      "халва",
+      "с",
+      "фисташками",
+      "в",
+      "шоколадной",
+      "глазури"
+    ],
+    "normalizedTokens": [
+      "арахисовая",
+      "халва",
+      "с",
+      "фисташками",
+      "в",
+      "шоколадной",
+      "глазури",
+      "250 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "250 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Meshur Safranbolu Lokumcusu рахат-лукум с кунжутом, орехами и ягодами 600 г",
+    "cleanTokens": [
+      "рахат-лукум",
+      "с",
+      "кунжутом",
+      "орехами",
+      "ягодами"
+    ],
+    "normalizedTokens": [
+      "рахат-лукум",
+      "с",
+      "кунжутом",
+      "орехами",
+      "ягодами",
+      "600 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "600 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Pashaoglu арахисовая халва со вкусом граната 250 г",
+    "cleanTokens": [
+      "арахисовая",
+      "халва",
+      "со",
+      "вкусом",
+      "граната"
+    ],
+    "normalizedTokens": [
+      "арахисовая",
+      "халва",
+      "со",
+      "вкусом",
+      "граната",
+      "250 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "250 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Рахат-лукум Pashaoglu ментол-мята 150 г",
+    "cleanTokens": [
+      "рахат-лукум",
+      "ментол-мята"
+    ],
+    "normalizedTokens": [
+      "рахат-лукум",
+      "ментол-мята",
+      "150 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "150 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Рахат-лукум Pashaoglu инжир 150 г",
+    "cleanTokens": [
+      "рахат-лукум",
+      "инжир"
+    ],
+    "normalizedTokens": [
+      "рахат-лукум",
+      "инжир",
+      "150 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "150 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Pashaoglu арахисовая халва классическая 250 г",
+    "cleanTokens": [
+      "арахисовая",
+      "халва",
+      "классическая"
+    ],
+    "normalizedTokens": [
+      "арахисовая",
+      "халва",
+      "классическая",
+      "250 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "250 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Zauresh нуга с орехами 240 г",
+    "cleanTokens": [
+      "нуга",
+      "с",
+      "орехами"
+    ],
+    "normalizedTokens": [
+      "нуга",
+      "с",
+      "орехами",
+      "240 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "240 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Pashaoglu арахисовая халва с орехами 250 г",
+    "cleanTokens": [
+      "арахисовая",
+      "халва",
+      "с",
+      "орехами"
+    ],
+    "normalizedTokens": [
+      "арахисовая",
+      "халва",
+      "с",
+      "орехами",
+      "250 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "250 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  }
+]

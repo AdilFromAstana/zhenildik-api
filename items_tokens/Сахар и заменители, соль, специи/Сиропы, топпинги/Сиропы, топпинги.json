@@ -1,0 +1,4388 @@
+[
+  {
+    "original": "Barbados сироп Соленая Карамель 1000 мл",
+    "cleanTokens": [
+      "сироп",
+      "соленая",
+      "карамель"
+    ],
+    "normalizedTokens": [
+      "сироп",
+      "соленая",
+      "карамель",
+      "1000 мл"
+    ],
+    "params": {
+      "volume": "1000 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Barbados сироп Манго-Маракуйя 1000 мл",
+    "cleanTokens": [
+      "сироп",
+      "манго-маракуйя"
+    ],
+    "normalizedTokens": [
+      "сироп",
+      "манго-маракуйя",
+      "1000 мл"
+    ],
+    "params": {
+      "volume": "1000 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Barbados сироп Мохито 1000 мл",
+    "cleanTokens": [
+      "сироп",
+      "мохито"
+    ],
+    "normalizedTokens": [
+      "сироп",
+      "мохито",
+      "1000 мл"
+    ],
+    "params": {
+      "volume": "1000 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "BarBar сироп Соленая карамель 1000 мл",
+    "cleanTokens": [
+      "barbar",
+      "сироп",
+      "соленая",
+      "карамель"
+    ],
+    "normalizedTokens": [
+      "barbar",
+      "сироп",
+      "соленая",
+      "карамель",
+      "1000 мл"
+    ],
+    "params": {
+      "volume": "1000 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Barbados сироп Лесной орех 1000 мл",
+    "cleanTokens": [
+      "сироп",
+      "лесной",
+      "орех"
+    ],
+    "normalizedTokens": [
+      "сироп",
+      "лесной",
+      "орех",
+      "1000 мл"
+    ],
+    "params": {
+      "volume": "1000 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "BarBar сироп Карамель 1000 мл",
+    "cleanTokens": [
+      "barbar",
+      "сироп",
+      "карамель"
+    ],
+    "normalizedTokens": [
+      "barbar",
+      "сироп",
+      "карамель",
+      "1000 мл"
+    ],
+    "params": {
+      "volume": "1000 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Barbados сироп лесной орех, орех 250 мл",
+    "cleanTokens": [
+      "сироп",
+      "лесной",
+      "орех",
+      "орех"
+    ],
+    "normalizedTokens": [
+      "сироп",
+      "лесной",
+      "орех",
+      "орех",
+      "250 мл"
+    ],
+    "params": {
+      "volume": "250 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Esko Bar сироп лесные ягоды 350 мл",
+    "cleanTokens": [
+      "сироп",
+      "лесные",
+      "ягоды"
+    ],
+    "normalizedTokens": [
+      "сироп",
+      "лесные",
+      "ягоды",
+      "350 мл"
+    ],
+    "params": {
+      "volume": "350 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Barbados сироп карамель 250 мл",
+    "cleanTokens": [
+      "сироп",
+      "карамель"
+    ],
+    "normalizedTokens": [
+      "сироп",
+      "карамель",
+      "250 мл"
+    ],
+    "params": {
+      "volume": "250 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Esko Bar топпинг шоколад 920 мл",
+    "cleanTokens": [
+      "топпинг",
+      "шоколад"
+    ],
+    "normalizedTokens": [
+      "топпинг",
+      "шоколад",
+      "920 мл"
+    ],
+    "params": {
+      "volume": "920 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Barbados сироп Киви-лайм 1 л",
+    "cleanTokens": [
+      "сироп",
+      "киви-лайм"
+    ],
+    "normalizedTokens": [
+      "сироп",
+      "киви-лайм",
+      "1 л"
+    ],
+    "params": {
+      "volume": "1 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Master Coffee сироп карамель 1000 мл",
+    "cleanTokens": [
+      "сироп",
+      "карамель"
+    ],
+    "normalizedTokens": [
+      "сироп",
+      "карамель",
+      "1000 мл"
+    ],
+    "params": {
+      "volume": "1000 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Barbados сироп шоколад 250 мл",
+    "cleanTokens": [
+      "сироп",
+      "шоколад"
+    ],
+    "normalizedTokens": [
+      "сироп",
+      "шоколад",
+      "250 мл"
+    ],
+    "params": {
+      "volume": "250 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Махеевъ топпинг Молочный шоколад с какао 300 мл",
+    "cleanTokens": [
+      "топпинг",
+      "молочный",
+      "шоколад",
+      "с",
+      "какао"
+    ],
+    "normalizedTokens": [
+      "топпинг",
+      "молочный",
+      "шоколад",
+      "с",
+      "какао",
+      "300 мл"
+    ],
+    "params": {
+      "volume": "300 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Barbados сироп клубника 250 мл",
+    "cleanTokens": [
+      "сироп",
+      "клубника"
+    ],
+    "normalizedTokens": [
+      "сироп",
+      "клубника",
+      "250 мл"
+    ],
+    "params": {
+      "volume": "250 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Master Coffee сироп соленая карамель 1000 мл",
+    "cleanTokens": [
+      "сироп",
+      "соленая",
+      "карамель"
+    ],
+    "normalizedTokens": [
+      "сироп",
+      "соленая",
+      "карамель",
+      "1000 мл"
+    ],
+    "params": {
+      "volume": "1000 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Barbados сироп Шоколад 1 л",
+    "cleanTokens": [
+      "сироп",
+      "шоколад"
+    ],
+    "normalizedTokens": [
+      "сироп",
+      "шоколад",
+      "1 л"
+    ],
+    "params": {
+      "volume": "1 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "BarBar сироп Лесной Орех 1000 мл",
+    "cleanTokens": [
+      "barbar",
+      "сироп",
+      "лесной",
+      "орех"
+    ],
+    "normalizedTokens": [
+      "barbar",
+      "сироп",
+      "лесной",
+      "орех",
+      "1000 мл"
+    ],
+    "params": {
+      "volume": "1000 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Barbados сироп Ваниль 1000 мл",
+    "cleanTokens": [
+      "сироп",
+      "ваниль"
+    ],
+    "normalizedTokens": [
+      "сироп",
+      "ваниль",
+      "1000 мл"
+    ],
+    "params": {
+      "volume": "1000 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Barbados сироп кокос 250 мл",
+    "cleanTokens": [
+      "сироп",
+      "кокос"
+    ],
+    "normalizedTokens": [
+      "сироп",
+      "кокос",
+      "250 мл"
+    ],
+    "params": {
+      "volume": "250 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "BarBar сироп Шоколад 1000 мл",
+    "cleanTokens": [
+      "barbar",
+      "сироп",
+      "шоколад"
+    ],
+    "normalizedTokens": [
+      "barbar",
+      "сироп",
+      "шоколад",
+      "1000 мл"
+    ],
+    "params": {
+      "volume": "1000 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "BarBar сироп Ваниль 1000 мл",
+    "cleanTokens": [
+      "barbar",
+      "сироп",
+      "ваниль"
+    ],
+    "normalizedTokens": [
+      "barbar",
+      "сироп",
+      "ваниль",
+      "1000 мл"
+    ],
+    "params": {
+      "volume": "1000 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Barbados сироп Поп-Корн 1000 мл",
+    "cleanTokens": [
+      "сироп",
+      "поп-корн"
+    ],
+    "normalizedTokens": [
+      "сироп",
+      "поп-корн",
+      "1000 мл"
+    ],
+    "params": {
+      "volume": "1000 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Barbados сироп Ягодный твист 1000 мл",
+    "cleanTokens": [
+      "сироп",
+      "ягодный",
+      "твист"
+    ],
+    "normalizedTokens": [
+      "сироп",
+      "ягодный",
+      "твист",
+      "1000 мл"
+    ],
+    "params": {
+      "volume": "1000 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Barbados сироп Облепиха 1000 мл",
+    "cleanTokens": [
+      "сироп",
+      "облепиха"
+    ],
+    "normalizedTokens": [
+      "сироп",
+      "облепиха",
+      "1000 мл"
+    ],
+    "params": {
+      "volume": "1000 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Barbados сироп мохито 250 мл",
+    "cleanTokens": [
+      "сироп",
+      "мохито"
+    ],
+    "normalizedTokens": [
+      "сироп",
+      "мохито",
+      "250 мл"
+    ],
+    "params": {
+      "volume": "250 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Barbados сироп Ананас 1000 мл",
+    "cleanTokens": [
+      "сироп",
+      "ананас"
+    ],
+    "normalizedTokens": [
+      "сироп",
+      "ананас",
+      "1000 мл"
+    ],
+    "params": {
+      "volume": "1000 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Barbados сироп Кокос 1000 мл",
+    "cleanTokens": [
+      "сироп",
+      "кокос"
+    ],
+    "normalizedTokens": [
+      "сироп",
+      "кокос",
+      "1000 мл"
+    ],
+    "params": {
+      "volume": "1000 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "BarBar сироп Кокос 1000 мл",
+    "cleanTokens": [
+      "barbar",
+      "сироп",
+      "кокос"
+    ],
+    "normalizedTokens": [
+      "barbar",
+      "сироп",
+      "кокос",
+      "1000 мл"
+    ],
+    "params": {
+      "volume": "1000 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Barbados сироп Гренадин 1000 мл",
+    "cleanTokens": [
+      "сироп",
+      "гренадин"
+    ],
+    "normalizedTokens": [
+      "сироп",
+      "гренадин",
+      "1000 мл"
+    ],
+    "params": {
+      "volume": "1000 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Barbados сироп Вишня-Кола 1000 мл",
+    "cleanTokens": [
+      "сироп",
+      "вишня-кола"
+    ],
+    "normalizedTokens": [
+      "сироп",
+      "вишня-кола",
+      "1000 мл"
+    ],
+    "params": {
+      "volume": "1000 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Barbados сироп Малина 1000 мл",
+    "cleanTokens": [
+      "сироп",
+      "малина"
+    ],
+    "normalizedTokens": [
+      "сироп",
+      "малина",
+      "1000 мл"
+    ],
+    "params": {
+      "volume": "1000 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Barbados сироп маракуйя 250 мл",
+    "cleanTokens": [
+      "сироп",
+      "маракуйя"
+    ],
+    "normalizedTokens": [
+      "сироп",
+      "маракуйя",
+      "250 мл"
+    ],
+    "params": {
+      "volume": "250 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Barbados сироп Амаретто 1000 мл",
+    "cleanTokens": [
+      "сироп",
+      "амаретто"
+    ],
+    "normalizedTokens": [
+      "сироп",
+      "амаретто",
+      "1000 мл"
+    ],
+    "params": {
+      "volume": "1000 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Barbados сироп Вишня 1000 мл",
+    "cleanTokens": [
+      "сироп",
+      "вишня"
+    ],
+    "normalizedTokens": [
+      "сироп",
+      "вишня",
+      "1000 мл"
+    ],
+    "params": {
+      "volume": "1000 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Master Coffee сироп ваниль 1000 мл",
+    "cleanTokens": [
+      "сироп",
+      "ваниль"
+    ],
+    "normalizedTokens": [
+      "сироп",
+      "ваниль",
+      "1000 мл"
+    ],
+    "params": {
+      "volume": "1000 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "BarBar сироп Клубника 1000 мл",
+    "cleanTokens": [
+      "barbar",
+      "сироп",
+      "клубника"
+    ],
+    "normalizedTokens": [
+      "barbar",
+      "сироп",
+      "клубника",
+      "1000 мл"
+    ],
+    "params": {
+      "volume": "1000 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Barbados сироп Лимон 1000 мл",
+    "cleanTokens": [
+      "сироп",
+      "лимон"
+    ],
+    "normalizedTokens": [
+      "сироп",
+      "лимон",
+      "1000 мл"
+    ],
+    "params": {
+      "volume": "1000 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Barbados сироп Фисташка 1000 мл",
+    "cleanTokens": [
+      "сироп",
+      "фисташка"
+    ],
+    "normalizedTokens": [
+      "сироп",
+      "фисташка",
+      "1000 мл"
+    ],
+    "params": {
+      "volume": "1000 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Barbados сироп фисташка 250 мл",
+    "cleanTokens": [
+      "сироп",
+      "фисташка"
+    ],
+    "normalizedTokens": [
+      "сироп",
+      "фисташка",
+      "250 мл"
+    ],
+    "params": {
+      "volume": "250 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Barbados сироп Манго 1000 мл",
+    "cleanTokens": [
+      "сироп",
+      "манго"
+    ],
+    "normalizedTokens": [
+      "сироп",
+      "манго",
+      "1000 мл"
+    ],
+    "params": {
+      "volume": "1000 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Barbados сироп Тархун 1000 мл",
+    "cleanTokens": [
+      "сироп",
+      "тархун"
+    ],
+    "normalizedTokens": [
+      "сироп",
+      "тархун",
+      "1000 мл"
+    ],
+    "params": {
+      "volume": "1000 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Esko Bar сироп мохито 1000 мл",
+    "cleanTokens": [
+      "сироп",
+      "мохито"
+    ],
+    "normalizedTokens": [
+      "сироп",
+      "мохито",
+      "1000 мл"
+    ],
+    "params": {
+      "volume": "1000 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Barbados сироп Тутти Фрутти 1000 мл",
+    "cleanTokens": [
+      "сироп",
+      "тутти",
+      "фрутти"
+    ],
+    "normalizedTokens": [
+      "сироп",
+      "тутти",
+      "фрутти",
+      "1000 мл"
+    ],
+    "params": {
+      "volume": "1000 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Master Coffee сироп шоколад 1000 мл",
+    "cleanTokens": [
+      "сироп",
+      "шоколад"
+    ],
+    "normalizedTokens": [
+      "сироп",
+      "шоколад",
+      "1000 мл"
+    ],
+    "params": {
+      "volume": "1000 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "BarBar сироп Миндаль 1000 мл",
+    "cleanTokens": [
+      "barbar",
+      "сироп",
+      "миндаль"
+    ],
+    "normalizedTokens": [
+      "barbar",
+      "сироп",
+      "миндаль",
+      "1000 мл"
+    ],
+    "params": {
+      "volume": "1000 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Barbados сироп Смородина 1000 мл",
+    "cleanTokens": [
+      "сироп",
+      "смородина"
+    ],
+    "normalizedTokens": [
+      "сироп",
+      "смородина",
+      "1000 мл"
+    ],
+    "params": {
+      "volume": "1000 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Barbados сироп Арбуз 1000 мл",
+    "cleanTokens": [
+      "сироп",
+      "арбуз"
+    ],
+    "normalizedTokens": [
+      "сироп",
+      "арбуз",
+      "1000 мл"
+    ],
+    "params": {
+      "volume": "1000 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Barbados сироп Гранат 1000 мл",
+    "cleanTokens": [
+      "сироп",
+      "гранат"
+    ],
+    "normalizedTokens": [
+      "сироп",
+      "гранат",
+      "1000 мл"
+    ],
+    "params": {
+      "volume": "1000 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "1883 Maison Routin Лесной орех 1000 мл",
+    "cleanTokens": [
+      "лесной",
+      "орех"
+    ],
+    "normalizedTokens": [
+      "лесной",
+      "орех",
+      "1000 мл"
+    ],
+    "params": {
+      "volume": "1000 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Barbados сироп Мята 1000 мл",
+    "cleanTokens": [
+      "сироп",
+      "мята"
+    ],
+    "normalizedTokens": [
+      "сироп",
+      "мята",
+      "1000 мл"
+    ],
+    "params": {
+      "volume": "1000 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Barbados сироп Зеленое Яблоко 1000 мл",
+    "cleanTokens": [
+      "сироп",
+      "зеленое",
+      "яблоко"
+    ],
+    "normalizedTokens": [
+      "сироп",
+      "зеленое",
+      "яблоко",
+      "1000 мл"
+    ],
+    "params": {
+      "volume": "1000 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Barbados сироп Барбарис 1000 мл",
+    "cleanTokens": [
+      "сироп",
+      "барбарис"
+    ],
+    "normalizedTokens": [
+      "сироп",
+      "барбарис",
+      "1000 мл"
+    ],
+    "params": {
+      "volume": "1000 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Esko Bar сироп соленая карамель 350 мл",
+    "cleanTokens": [
+      "сироп",
+      "соленая",
+      "карамель"
+    ],
+    "normalizedTokens": [
+      "сироп",
+      "соленая",
+      "карамель",
+      "350 мл"
+    ],
+    "params": {
+      "volume": "350 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Fit Parad топпинг пломбир 200 мл",
+    "cleanTokens": [
+      "топпинг",
+      "пломбир"
+    ],
+    "normalizedTokens": [
+      "топпинг",
+      "пломбир",
+      "200 мл"
+    ],
+    "params": {
+      "volume": "200 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Barbados сироп Миндаль 1000 мл",
+    "cleanTokens": [
+      "сироп",
+      "миндаль"
+    ],
+    "normalizedTokens": [
+      "сироп",
+      "миндаль",
+      "1000 мл"
+    ],
+    "params": {
+      "volume": "1000 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Barbados сироп Персик 1000 мл",
+    "cleanTokens": [
+      "сироп",
+      "персик"
+    ],
+    "normalizedTokens": [
+      "сироп",
+      "персик",
+      "1000 мл"
+    ],
+    "params": {
+      "volume": "1000 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Add Sweety сироп ваниль 1000 мл",
+    "cleanTokens": [
+      "сироп",
+      "ваниль"
+    ],
+    "normalizedTokens": [
+      "сироп",
+      "ваниль",
+      "1000 мл"
+    ],
+    "params": {
+      "volume": "1000 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Barbados сироп Шоколадное печенье 1000 мл",
+    "cleanTokens": [
+      "сироп",
+      "шоколадное",
+      "печенье"
+    ],
+    "normalizedTokens": [
+      "сироп",
+      "шоколадное",
+      "печенье",
+      "1000 мл"
+    ],
+    "params": {
+      "volume": "1000 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "BarBar сироп Персик 1000 мл",
+    "cleanTokens": [
+      "barbar",
+      "сироп",
+      "персик"
+    ],
+    "normalizedTokens": [
+      "barbar",
+      "сироп",
+      "персик",
+      "1000 мл"
+    ],
+    "params": {
+      "volume": "1000 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "BarBar сироп Апельсин 1000 мл",
+    "cleanTokens": [
+      "barbar",
+      "сироп",
+      "апельсин"
+    ],
+    "normalizedTokens": [
+      "barbar",
+      "сироп",
+      "апельсин",
+      "1000 мл"
+    ],
+    "params": {
+      "volume": "1000 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "BarBar сироп Клюква 1000 мл",
+    "cleanTokens": [
+      "barbar",
+      "сироп",
+      "клюква"
+    ],
+    "normalizedTokens": [
+      "barbar",
+      "сироп",
+      "клюква",
+      "1000 мл"
+    ],
+    "params": {
+      "volume": "1000 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "BarBar сироп Манго 1000 мл",
+    "cleanTokens": [
+      "barbar",
+      "сироп",
+      "манго"
+    ],
+    "normalizedTokens": [
+      "barbar",
+      "сироп",
+      "манго",
+      "1000 мл"
+    ],
+    "params": {
+      "volume": "1000 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Barbados сироп Имбирный Пряник 1000 мл",
+    "cleanTokens": [
+      "сироп",
+      "имбирный",
+      "пряник"
+    ],
+    "normalizedTokens": [
+      "сироп",
+      "имбирный",
+      "пряник",
+      "1000 мл"
+    ],
+    "params": {
+      "volume": "1000 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Barbados сироп Апельсин 1000 мл",
+    "cleanTokens": [
+      "сироп",
+      "апельсин"
+    ],
+    "normalizedTokens": [
+      "сироп",
+      "апельсин",
+      "1000 мл"
+    ],
+    "params": {
+      "volume": "1000 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "BarBar сироп Вишня 1000 мл",
+    "cleanTokens": [
+      "barbar",
+      "сироп",
+      "вишня"
+    ],
+    "normalizedTokens": [
+      "barbar",
+      "сироп",
+      "вишня",
+      "1000 мл"
+    ],
+    "params": {
+      "volume": "1000 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "BarBar сироп Фисташка 1000 мл",
+    "cleanTokens": [
+      "barbar",
+      "сироп",
+      "фисташка"
+    ],
+    "normalizedTokens": [
+      "barbar",
+      "сироп",
+      "фисташка",
+      "1000 мл"
+    ],
+    "params": {
+      "volume": "1000 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "BarBar сироп Маракуйя 1000 мл",
+    "cleanTokens": [
+      "barbar",
+      "сироп",
+      "маракуйя"
+    ],
+    "normalizedTokens": [
+      "barbar",
+      "сироп",
+      "маракуйя",
+      "1000 мл"
+    ],
+    "params": {
+      "volume": "1000 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Barbados сироп Клубника 1000 мл",
+    "cleanTokens": [
+      "сироп",
+      "клубника"
+    ],
+    "normalizedTokens": [
+      "сироп",
+      "клубника",
+      "1000 мл"
+    ],
+    "params": {
+      "volume": "1000 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Barbados сироп Голубая лагуна, Блю Курасао 1000 мл",
+    "cleanTokens": [
+      "сироп",
+      "голубая",
+      "лагуна",
+      "блю",
+      "курасао"
+    ],
+    "normalizedTokens": [
+      "сироп",
+      "голубая",
+      "лагуна",
+      "блю",
+      "курасао",
+      "1000 мл"
+    ],
+    "params": {
+      "volume": "1000 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Barbados сироп Розовый Грейпфрут 1000 мл",
+    "cleanTokens": [
+      "сироп",
+      "розовый",
+      "грейпфрут"
+    ],
+    "normalizedTokens": [
+      "сироп",
+      "розовый",
+      "грейпфрут",
+      "1000 мл"
+    ],
+    "params": {
+      "volume": "1000 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Домашний погребок Топинамбур 650 мл",
+    "cleanTokens": [
+      "топинамбур"
+    ],
+    "normalizedTokens": [
+      "топинамбур",
+      "650 мл"
+    ],
+    "params": {
+      "volume": "650 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Barbados сироп киви 250 мл",
+    "cleanTokens": [
+      "сироп",
+      "киви"
+    ],
+    "normalizedTokens": [
+      "сироп",
+      "киви",
+      "250 мл"
+    ],
+    "params": {
+      "volume": "250 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Barbados сироп Зеленая Мята 1000 мл",
+    "cleanTokens": [
+      "сироп",
+      "зеленая",
+      "мята"
+    ],
+    "normalizedTokens": [
+      "сироп",
+      "зеленая",
+      "мята",
+      "1000 мл"
+    ],
+    "params": {
+      "volume": "1000 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Barbados сироп Черника 1000 мл",
+    "cleanTokens": [
+      "сироп",
+      "черника"
+    ],
+    "normalizedTokens": [
+      "сироп",
+      "черника",
+      "1000 мл"
+    ],
+    "params": {
+      "volume": "1000 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Barbados сироп Корица 1000 мл",
+    "cleanTokens": [
+      "сироп",
+      "корица"
+    ],
+    "normalizedTokens": [
+      "сироп",
+      "корица",
+      "1000 мл"
+    ],
+    "params": {
+      "volume": "1000 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Barbados сироп Тирамису 1000 мл",
+    "cleanTokens": [
+      "сироп",
+      "тирамису"
+    ],
+    "normalizedTokens": [
+      "сироп",
+      "тирамису",
+      "1000 мл"
+    ],
+    "params": {
+      "volume": "1000 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Barbados сироп Киви 1000 мл",
+    "cleanTokens": [
+      "сироп",
+      "киви"
+    ],
+    "normalizedTokens": [
+      "сироп",
+      "киви",
+      "1000 мл"
+    ],
+    "params": {
+      "volume": "1000 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "BarBar сироп Черная Смородина 1000 мл",
+    "cleanTokens": [
+      "barbar",
+      "сироп",
+      "черная",
+      "смородина"
+    ],
+    "normalizedTokens": [
+      "barbar",
+      "сироп",
+      "черная",
+      "смородина",
+      "1000 мл"
+    ],
+    "params": {
+      "volume": "1000 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Barbados сироп Лесные Ягоды для чая 1000 мл",
+    "cleanTokens": [
+      "сироп",
+      "лесные",
+      "ягоды",
+      "для",
+      "чая"
+    ],
+    "normalizedTokens": [
+      "сироп",
+      "лесные",
+      "ягоды",
+      "для",
+      "чая",
+      "1000 мл"
+    ],
+    "params": {
+      "volume": "1000 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Barbados сироп Груша 1000 мл",
+    "cleanTokens": [
+      "сироп",
+      "груша"
+    ],
+    "normalizedTokens": [
+      "сироп",
+      "груша",
+      "1000 мл"
+    ],
+    "params": {
+      "volume": "1000 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Barbados сироп Лаванда 1000 мл",
+    "cleanTokens": [
+      "сироп",
+      "лаванда"
+    ],
+    "normalizedTokens": [
+      "сироп",
+      "лаванда",
+      "1000 мл"
+    ],
+    "params": {
+      "volume": "1000 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "BarBar сироп Малина 1000 мл",
+    "cleanTokens": [
+      "barbar",
+      "сироп",
+      "малина"
+    ],
+    "normalizedTokens": [
+      "barbar",
+      "сироп",
+      "малина",
+      "1000 мл"
+    ],
+    "params": {
+      "volume": "1000 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "1883 Maison Routin Карамель 1000 мл",
+    "cleanTokens": [
+      "карамель"
+    ],
+    "normalizedTokens": [
+      "карамель",
+      "1000 мл"
+    ],
+    "params": {
+      "volume": "1000 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "BarBar сироп Лимон 1000 мл",
+    "cleanTokens": [
+      "barbar",
+      "сироп",
+      "лимон"
+    ],
+    "normalizedTokens": [
+      "barbar",
+      "сироп",
+      "лимон",
+      "1000 мл"
+    ],
+    "params": {
+      "volume": "1000 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Barbados сироп Руби Краш 1 литр",
+    "cleanTokens": [
+      "сироп",
+      "руби",
+      "краш",
+      "1",
+      "литр"
+    ],
+    "normalizedTokens": [
+      "сироп",
+      "руби",
+      "краш",
+      "1",
+      "литр"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Barbados сироп малина 250 мл",
+    "cleanTokens": [
+      "сироп",
+      "малина"
+    ],
+    "normalizedTokens": [
+      "сироп",
+      "малина",
+      "250 мл"
+    ],
+    "params": {
+      "volume": "250 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "1883 Maison Routin сироп соленая карамель 1000 мл",
+    "cleanTokens": [
+      "сироп",
+      "соленая",
+      "карамель"
+    ],
+    "normalizedTokens": [
+      "сироп",
+      "соленая",
+      "карамель",
+      "1000 мл"
+    ],
+    "params": {
+      "volume": "1000 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Barbados сироп Клюква 1000 мл",
+    "cleanTokens": [
+      "сироп",
+      "клюква"
+    ],
+    "normalizedTokens": [
+      "сироп",
+      "клюква",
+      "1000 мл"
+    ],
+    "params": {
+      "volume": "1000 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "BarBar сироп Груша 1000 мл",
+    "cleanTokens": [
+      "barbar",
+      "сироп",
+      "груша"
+    ],
+    "normalizedTokens": [
+      "barbar",
+      "сироп",
+      "груша",
+      "1000 мл"
+    ],
+    "params": {
+      "volume": "1000 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "BarBar сироп Тархун 1000 мл",
+    "cleanTokens": [
+      "barbar",
+      "сироп",
+      "тархун"
+    ],
+    "normalizedTokens": [
+      "barbar",
+      "сироп",
+      "тархун",
+      "1000 мл"
+    ],
+    "params": {
+      "volume": "1000 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Barbados сироп Банан 1000 мл",
+    "cleanTokens": [
+      "сироп",
+      "банан"
+    ],
+    "normalizedTokens": [
+      "сироп",
+      "банан",
+      "1000 мл"
+    ],
+    "params": {
+      "volume": "1000 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Barline Ваниль 375 мл",
+    "cleanTokens": [
+      "ваниль"
+    ],
+    "normalizedTokens": [
+      "ваниль",
+      "375 мл"
+    ],
+    "params": {
+      "volume": "375 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "BarBar сироп Киви 1000 мл",
+    "cleanTokens": [
+      "barbar",
+      "сироп",
+      "киви"
+    ],
+    "normalizedTokens": [
+      "barbar",
+      "сироп",
+      "киви",
+      "1000 мл"
+    ],
+    "params": {
+      "volume": "1000 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "BarBar сироп Дыня 1000 мл",
+    "cleanTokens": [
+      "barbar",
+      "сироп",
+      "дыня"
+    ],
+    "normalizedTokens": [
+      "barbar",
+      "сироп",
+      "дыня",
+      "1000 мл"
+    ],
+    "params": {
+      "volume": "1000 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "BarBar сироп Гранат 1000 мл",
+    "cleanTokens": [
+      "barbar",
+      "сироп",
+      "гранат"
+    ],
+    "normalizedTokens": [
+      "barbar",
+      "сироп",
+      "гранат",
+      "1000 мл"
+    ],
+    "params": {
+      "volume": "1000 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "BarBar сироп Банан 1000 мл",
+    "cleanTokens": [
+      "barbar",
+      "сироп",
+      "банан"
+    ],
+    "normalizedTokens": [
+      "barbar",
+      "сироп",
+      "банан",
+      "1000 мл"
+    ],
+    "params": {
+      "volume": "1000 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Siroppi топпинг шоколад 900 г",
+    "cleanTokens": [
+      "топпинг",
+      "шоколад"
+    ],
+    "normalizedTokens": [
+      "топпинг",
+      "шоколад",
+      "900 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "900 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Barbados сироп Лайм 1000 мл",
+    "cleanTokens": [
+      "сироп",
+      "лайм"
+    ],
+    "normalizedTokens": [
+      "сироп",
+      "лайм",
+      "1000 мл"
+    ],
+    "params": {
+      "volume": "1000 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Barbados сироп Земляника 1000 мл",
+    "cleanTokens": [
+      "сироп",
+      "земляника"
+    ],
+    "normalizedTokens": [
+      "сироп",
+      "земляника",
+      "1000 мл"
+    ],
+    "params": {
+      "volume": "1000 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Barbados сироп Пина-Колада 1000 мл",
+    "cleanTokens": [
+      "сироп",
+      "пина-колада"
+    ],
+    "normalizedTokens": [
+      "сироп",
+      "пина-колада",
+      "1000 мл"
+    ],
+    "params": {
+      "volume": "1000 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Barbados сироп Роза 1000 мл",
+    "cleanTokens": [
+      "сироп",
+      "роза"
+    ],
+    "normalizedTokens": [
+      "сироп",
+      "роза",
+      "1000 мл"
+    ],
+    "params": {
+      "volume": "1000 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Barbados сироп Бабл гам 1000 мл",
+    "cleanTokens": [
+      "сироп",
+      "бабл",
+      "гам"
+    ],
+    "normalizedTokens": [
+      "сироп",
+      "бабл",
+      "гам",
+      "1000 мл"
+    ],
+    "params": {
+      "volume": "1000 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Barbados сироп Мандарин 1000 мл",
+    "cleanTokens": [
+      "сироп",
+      "мандарин"
+    ],
+    "normalizedTokens": [
+      "сироп",
+      "мандарин",
+      "1000 мл"
+    ],
+    "params": {
+      "volume": "1000 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "1883 Maison Routin Ваниль 1000 мл",
+    "cleanTokens": [
+      "ваниль"
+    ],
+    "normalizedTokens": [
+      "ваниль",
+      "1000 мл"
+    ],
+    "params": {
+      "volume": "1000 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Barbados сироп Имбирь 1000 мл",
+    "cleanTokens": [
+      "сироп",
+      "имбирь"
+    ],
+    "normalizedTokens": [
+      "сироп",
+      "имбирь",
+      "1000 мл"
+    ],
+    "params": {
+      "volume": "1000 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "BarBar сироп Мята 1000 мл",
+    "cleanTokens": [
+      "barbar",
+      "сироп",
+      "мята"
+    ],
+    "normalizedTokens": [
+      "barbar",
+      "сироп",
+      "мята",
+      "1000 мл"
+    ],
+    "params": {
+      "volume": "1000 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Nectari сироп лесной орех 1000 мл",
+    "cleanTokens": [
+      "сироп",
+      "лесной",
+      "орех"
+    ],
+    "normalizedTokens": [
+      "сироп",
+      "лесной",
+      "орех",
+      "1000 мл"
+    ],
+    "params": {
+      "volume": "1000 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "BarBar сироп Арбуз 1000 мл",
+    "cleanTokens": [
+      "barbar",
+      "сироп",
+      "арбуз"
+    ],
+    "normalizedTokens": [
+      "barbar",
+      "сироп",
+      "арбуз",
+      "1000 мл"
+    ],
+    "params": {
+      "volume": "1000 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Barbados сироп Яблочный Пирог 1000 мл",
+    "cleanTokens": [
+      "сироп",
+      "яблочный",
+      "пирог"
+    ],
+    "normalizedTokens": [
+      "сироп",
+      "яблочный",
+      "пирог",
+      "1000 мл"
+    ],
+    "params": {
+      "volume": "1000 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "BarBar сироп Ананас 1000 мл",
+    "cleanTokens": [
+      "barbar",
+      "сироп",
+      "ананас"
+    ],
+    "normalizedTokens": [
+      "barbar",
+      "сироп",
+      "ананас",
+      "1000 мл"
+    ],
+    "params": {
+      "volume": "1000 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Nectari сироп соленая карамель 1000 мл",
+    "cleanTokens": [
+      "сироп",
+      "соленая",
+      "карамель"
+    ],
+    "normalizedTokens": [
+      "сироп",
+      "соленая",
+      "карамель",
+      "1000 мл"
+    ],
+    "params": {
+      "volume": "1000 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "BarBar сироп Гренадин 1000 мл",
+    "cleanTokens": [
+      "barbar",
+      "сироп",
+      "гренадин"
+    ],
+    "normalizedTokens": [
+      "barbar",
+      "сироп",
+      "гренадин",
+      "1000 мл"
+    ],
+    "params": {
+      "volume": "1000 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Barline Карамель 375 мл",
+    "cleanTokens": [
+      "карамель"
+    ],
+    "normalizedTokens": [
+      "карамель",
+      "375 мл"
+    ],
+    "params": {
+      "volume": "375 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Siroppi топпинг клубника 900 мл",
+    "cleanTokens": [
+      "топпинг",
+      "клубника"
+    ],
+    "normalizedTokens": [
+      "топпинг",
+      "клубника",
+      "900 мл"
+    ],
+    "params": {
+      "volume": "900 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Fit Parad топпинг карамель 200 мл",
+    "cleanTokens": [
+      "топпинг",
+      "карамель"
+    ],
+    "normalizedTokens": [
+      "топпинг",
+      "карамель",
+      "200 мл"
+    ],
+    "params": {
+      "volume": "200 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "BarBar сироп Мохито 1000 мл",
+    "cleanTokens": [
+      "barbar",
+      "сироп",
+      "мохито"
+    ],
+    "normalizedTokens": [
+      "barbar",
+      "сироп",
+      "мохито",
+      "1000 мл"
+    ],
+    "params": {
+      "volume": "1000 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Barbados сироп Слива 1000 мл",
+    "cleanTokens": [
+      "сироп",
+      "слива"
+    ],
+    "normalizedTokens": [
+      "сироп",
+      "слива",
+      "1000 мл"
+    ],
+    "params": {
+      "volume": "1000 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Barbados сироп Дыня 1000 мл",
+    "cleanTokens": [
+      "сироп",
+      "дыня"
+    ],
+    "normalizedTokens": [
+      "сироп",
+      "дыня",
+      "1000 мл"
+    ],
+    "params": {
+      "volume": "1000 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Barbados сироп Ирландский крем 1000 мл",
+    "cleanTokens": [
+      "сироп",
+      "ирландский",
+      "крем"
+    ],
+    "normalizedTokens": [
+      "сироп",
+      "ирландский",
+      "крем",
+      "1000 мл"
+    ],
+    "params": {
+      "volume": "1000 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Barbados сироп Маракуйя 1000 мл",
+    "cleanTokens": [
+      "сироп",
+      "маракуйя"
+    ],
+    "normalizedTokens": [
+      "сироп",
+      "маракуйя",
+      "1000 мл"
+    ],
+    "params": {
+      "volume": "1000 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Siroppi топпинг карамель 900 мл",
+    "cleanTokens": [
+      "топпинг",
+      "карамель"
+    ],
+    "normalizedTokens": [
+      "топпинг",
+      "карамель",
+      "900 мл"
+    ],
+    "params": {
+      "volume": "900 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "1883 Maison Routin Шоколад 1000 мл",
+    "cleanTokens": [
+      "шоколад"
+    ],
+    "normalizedTokens": [
+      "шоколад",
+      "1000 мл"
+    ],
+    "params": {
+      "volume": "1000 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Esko Bar топпинг карамель 920 мл",
+    "cleanTokens": [
+      "топпинг",
+      "карамель"
+    ],
+    "normalizedTokens": [
+      "топпинг",
+      "карамель",
+      "920 мл"
+    ],
+    "params": {
+      "volume": "920 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "BarBar сироп Лайм 1000 мл",
+    "cleanTokens": [
+      "barbar",
+      "сироп",
+      "лайм"
+    ],
+    "normalizedTokens": [
+      "barbar",
+      "сироп",
+      "лайм",
+      "1000 мл"
+    ],
+    "params": {
+      "volume": "1000 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "BarBar сироп Зеленое Яблоко 1000 мл",
+    "cleanTokens": [
+      "barbar",
+      "сироп",
+      "зеленое",
+      "яблоко"
+    ],
+    "normalizedTokens": [
+      "barbar",
+      "сироп",
+      "зеленое",
+      "яблоко",
+      "1000 мл"
+    ],
+    "params": {
+      "volume": "1000 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Master Coffee сироп поп-корн 1000 мл",
+    "cleanTokens": [
+      "сироп",
+      "поп-корн"
+    ],
+    "normalizedTokens": [
+      "сироп",
+      "поп-корн",
+      "1000 мл"
+    ],
+    "params": {
+      "volume": "1000 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Barbados сироп Малина для чая 1000 мл",
+    "cleanTokens": [
+      "сироп",
+      "малина",
+      "для",
+      "чая"
+    ],
+    "normalizedTokens": [
+      "сироп",
+      "малина",
+      "для",
+      "чая",
+      "1000 мл"
+    ],
+    "params": {
+      "volume": "1000 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Barbados сироп Мед 1000 мл",
+    "cleanTokens": [
+      "сироп",
+      "мед"
+    ],
+    "normalizedTokens": [
+      "сироп",
+      "мед",
+      "1000 мл"
+    ],
+    "params": {
+      "volume": "1000 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Barline Фундук 375 мл",
+    "cleanTokens": [
+      "фундук"
+    ],
+    "normalizedTokens": [
+      "фундук",
+      "375 мл"
+    ],
+    "params": {
+      "volume": "375 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Barline Кокос 375 мл",
+    "cleanTokens": [
+      "кокос"
+    ],
+    "normalizedTokens": [
+      "кокос",
+      "375 мл"
+    ],
+    "params": {
+      "volume": "375 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Master Coffee сироп кокос 1000 мл",
+    "cleanTokens": [
+      "сироп",
+      "кокос"
+    ],
+    "normalizedTokens": [
+      "сироп",
+      "кокос",
+      "1000 мл"
+    ],
+    "params": {
+      "volume": "1000 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "1883 Maison Routin сироп поп-корн 1000 мл",
+    "cleanTokens": [
+      "сироп",
+      "поп-корн"
+    ],
+    "normalizedTokens": [
+      "сироп",
+      "поп-корн",
+      "1000 мл"
+    ],
+    "params": {
+      "volume": "1000 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Master Coffee сироп ирландский крем 1000 мл",
+    "cleanTokens": [
+      "сироп",
+      "ирландский",
+      "крем"
+    ],
+    "normalizedTokens": [
+      "сироп",
+      "ирландский",
+      "крем",
+      "1000 мл"
+    ],
+    "params": {
+      "volume": "1000 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Master Coffee сироп апельсин 1000 мл",
+    "cleanTokens": [
+      "сироп",
+      "апельсин"
+    ],
+    "normalizedTokens": [
+      "сироп",
+      "апельсин",
+      "1000 мл"
+    ],
+    "params": {
+      "volume": "1000 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Barbados сироп Кленовый 1000 мл",
+    "cleanTokens": [
+      "сироп",
+      "кленовый"
+    ],
+    "normalizedTokens": [
+      "сироп",
+      "кленовый",
+      "1000 мл"
+    ],
+    "params": {
+      "volume": "1000 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "BarBar сироп Бабл гам 1000 мл",
+    "cleanTokens": [
+      "barbar",
+      "сироп",
+      "бабл",
+      "гам"
+    ],
+    "normalizedTokens": [
+      "barbar",
+      "сироп",
+      "бабл",
+      "гам",
+      "1000 мл"
+    ],
+    "params": {
+      "volume": "1000 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "1883 Maison Routin сироп кокос 1000 мл",
+    "cleanTokens": [
+      "сироп",
+      "кокос"
+    ],
+    "normalizedTokens": [
+      "сироп",
+      "кокос",
+      "1000 мл"
+    ],
+    "params": {
+      "volume": "1000 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Master Coffee сироп миндаль 1000 мл",
+    "cleanTokens": [
+      "сироп",
+      "миндаль"
+    ],
+    "normalizedTokens": [
+      "сироп",
+      "миндаль",
+      "1000 мл"
+    ],
+    "params": {
+      "volume": "1000 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Master Coffee сироп цитрус 1000 мл",
+    "cleanTokens": [
+      "сироп",
+      "цитрус"
+    ],
+    "normalizedTokens": [
+      "сироп",
+      "цитрус",
+      "1000 мл"
+    ],
+    "params": {
+      "volume": "1000 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "ShopRite сироп к блинам 709 мл",
+    "cleanTokens": [
+      "сироп",
+      "к",
+      "блинам"
+    ],
+    "normalizedTokens": [
+      "сироп",
+      "к",
+      "блинам",
+      "709 мл"
+    ],
+    "params": {
+      "volume": "709 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Barline Шоколад 375 мл",
+    "cleanTokens": [
+      "шоколад"
+    ],
+    "normalizedTokens": [
+      "шоколад",
+      "375 мл"
+    ],
+    "params": {
+      "volume": "375 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Master Coffee сироп гренадин 1000 мл",
+    "cleanTokens": [
+      "сироп",
+      "гренадин"
+    ],
+    "normalizedTokens": [
+      "сироп",
+      "гренадин",
+      "1000 мл"
+    ],
+    "params": {
+      "volume": "1000 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Nesquik сироп клубничный 623 г",
+    "cleanTokens": [
+      "сироп",
+      "клубничный"
+    ],
+    "normalizedTokens": [
+      "сироп",
+      "клубничный",
+      "623 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "623 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Bowl & Basket сироп натуральный 709 мл",
+    "cleanTokens": [
+      "сироп",
+      "натуральный"
+    ],
+    "normalizedTokens": [
+      "сироп",
+      "натуральный",
+      "709 мл"
+    ],
+    "params": {
+      "volume": "709 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "1883 Maison Routin Ирландский крем 1000 мл",
+    "cleanTokens": [
+      "ирландский",
+      "крем"
+    ],
+    "normalizedTokens": [
+      "ирландский",
+      "крем",
+      "1000 мл"
+    ],
+    "params": {
+      "volume": "1000 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Nectari сироп мохито 1000 мл",
+    "cleanTokens": [
+      "сироп",
+      "мохито"
+    ],
+    "normalizedTokens": [
+      "сироп",
+      "мохито",
+      "1000 мл"
+    ],
+    "params": {
+      "volume": "1000 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Nectari сироп груша 1000 мл",
+    "cleanTokens": [
+      "сироп",
+      "груша"
+    ],
+    "normalizedTokens": [
+      "сироп",
+      "груша",
+      "1000 мл"
+    ],
+    "params": {
+      "volume": "1000 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Master Coffee сироп манго 1000 мл",
+    "cleanTokens": [
+      "сироп",
+      "манго"
+    ],
+    "normalizedTokens": [
+      "сироп",
+      "манго",
+      "1000 мл"
+    ],
+    "params": {
+      "volume": "1000 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "BarBar сироп Мандарин 1000 мл",
+    "cleanTokens": [
+      "barbar",
+      "сироп",
+      "мандарин"
+    ],
+    "normalizedTokens": [
+      "barbar",
+      "сироп",
+      "мандарин",
+      "1000 мл"
+    ],
+    "params": {
+      "volume": "1000 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Nectari сироп барбарис 1000 мл",
+    "cleanTokens": [
+      "сироп",
+      "барбарис"
+    ],
+    "normalizedTokens": [
+      "сироп",
+      "барбарис",
+      "1000 мл"
+    ],
+    "params": {
+      "volume": "1000 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Barbados сироп Ежевика 1000 мл",
+    "cleanTokens": [
+      "сироп",
+      "ежевика"
+    ],
+    "normalizedTokens": [
+      "сироп",
+      "ежевика",
+      "1000 мл"
+    ],
+    "params": {
+      "volume": "1000 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Nectari сироп клубника 1000 мл",
+    "cleanTokens": [
+      "сироп",
+      "клубника"
+    ],
+    "normalizedTokens": [
+      "сироп",
+      "клубника",
+      "1000 мл"
+    ],
+    "params": {
+      "volume": "1000 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Barbados сироп Персик для чая 1000 мл",
+    "cleanTokens": [
+      "сироп",
+      "персик",
+      "для",
+      "чая"
+    ],
+    "normalizedTokens": [
+      "сироп",
+      "персик",
+      "для",
+      "чая",
+      "1000 мл"
+    ],
+    "params": {
+      "volume": "1000 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Nectari сироп арбуз 1000 мл",
+    "cleanTokens": [
+      "сироп",
+      "арбуз"
+    ],
+    "normalizedTokens": [
+      "сироп",
+      "арбуз",
+      "1000 мл"
+    ],
+    "params": {
+      "volume": "1000 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Master Coffee сироп маракуйя 1000 мл",
+    "cleanTokens": [
+      "сироп",
+      "маракуйя"
+    ],
+    "normalizedTokens": [
+      "сироп",
+      "маракуйя",
+      "1000 мл"
+    ],
+    "params": {
+      "volume": "1000 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Barbados сироп Лимон для приготовления холодного чая 1000 мл",
+    "cleanTokens": [
+      "сироп",
+      "лимон",
+      "для",
+      "приготовления",
+      "холодного",
+      "чая"
+    ],
+    "normalizedTokens": [
+      "сироп",
+      "лимон",
+      "для",
+      "приготовления",
+      "холодного",
+      "чая",
+      "1000 мл"
+    ],
+    "params": {
+      "volume": "1000 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Esko Bar топпинг клубника 920 мл",
+    "cleanTokens": [
+      "топпинг",
+      "клубника"
+    ],
+    "normalizedTokens": [
+      "топпинг",
+      "клубника",
+      "920 мл"
+    ],
+    "params": {
+      "volume": "920 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Nectari сироп апельсин 1000 мл",
+    "cleanTokens": [
+      "сироп",
+      "апельсин"
+    ],
+    "normalizedTokens": [
+      "сироп",
+      "апельсин",
+      "1000 мл"
+    ],
+    "params": {
+      "volume": "1000 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Nectari сироп миндаль 1000 мл",
+    "cleanTokens": [
+      "сироп",
+      "миндаль"
+    ],
+    "normalizedTokens": [
+      "сироп",
+      "миндаль",
+      "1000 мл"
+    ],
+    "params": {
+      "volume": "1000 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Nectari сироп манго 1000 мл",
+    "cleanTokens": [
+      "сироп",
+      "манго"
+    ],
+    "normalizedTokens": [
+      "сироп",
+      "манго",
+      "1000 мл"
+    ],
+    "params": {
+      "volume": "1000 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Barline Амаретто 375 мл",
+    "cleanTokens": [
+      "амаретто"
+    ],
+    "normalizedTokens": [
+      "амаретто",
+      "375 мл"
+    ],
+    "params": {
+      "volume": "375 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Nectari сироп кокос 1000 мл",
+    "cleanTokens": [
+      "сироп",
+      "кокос"
+    ],
+    "normalizedTokens": [
+      "сироп",
+      "кокос",
+      "1000 мл"
+    ],
+    "params": {
+      "volume": "1000 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "BarBar сироп Розовый Грейпфрут 1000 мл",
+    "cleanTokens": [
+      "barbar",
+      "сироп",
+      "розовый",
+      "грейпфрут"
+    ],
+    "normalizedTokens": [
+      "barbar",
+      "сироп",
+      "розовый",
+      "грейпфрут",
+      "1000 мл"
+    ],
+    "params": {
+      "volume": "1000 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Barbados сироп Базилик 1000 мл",
+    "cleanTokens": [
+      "сироп",
+      "базилик"
+    ],
+    "normalizedTokens": [
+      "сироп",
+      "базилик",
+      "1000 мл"
+    ],
+    "params": {
+      "volume": "1000 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Barbados сироп Белый Виноград 1000 мл",
+    "cleanTokens": [
+      "сироп",
+      "белый",
+      "виноград"
+    ],
+    "normalizedTokens": [
+      "сироп",
+      "белый",
+      "виноград",
+      "1000 мл"
+    ],
+    "params": {
+      "volume": "1000 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Barbados сироп Тоффи 1000 мл",
+    "cleanTokens": [
+      "сироп",
+      "тоффи"
+    ],
+    "normalizedTokens": [
+      "сироп",
+      "тоффи",
+      "1000 мл"
+    ],
+    "params": {
+      "volume": "1000 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Nectari сироп ананас 1000 мл",
+    "cleanTokens": [
+      "сироп",
+      "ананас"
+    ],
+    "normalizedTokens": [
+      "сироп",
+      "ананас",
+      "1000 мл"
+    ],
+    "params": {
+      "volume": "1000 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Nectari сироп ваниль 1000 мл",
+    "cleanTokens": [
+      "сироп",
+      "ваниль"
+    ],
+    "normalizedTokens": [
+      "сироп",
+      "ваниль",
+      "1000 мл"
+    ],
+    "params": {
+      "volume": "1000 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Barbados сироп Абрикос 1000 мл",
+    "cleanTokens": [
+      "сироп",
+      "абрикос"
+    ],
+    "normalizedTokens": [
+      "сироп",
+      "абрикос",
+      "1000 мл"
+    ],
+    "params": {
+      "volume": "1000 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Barbados сироп Просекко, шампанское 1000 мл",
+    "cleanTokens": [
+      "сироп",
+      "просекко",
+      "шампанское"
+    ],
+    "normalizedTokens": [
+      "сироп",
+      "просекко",
+      "шампанское",
+      "1000 мл"
+    ],
+    "params": {
+      "volume": "1000 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Nectari сироп маракуйя 1000 мл",
+    "cleanTokens": [
+      "сироп",
+      "маракуйя"
+    ],
+    "normalizedTokens": [
+      "сироп",
+      "маракуйя",
+      "1000 мл"
+    ],
+    "params": {
+      "volume": "1000 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Nectari сироп дыня 1000 мл",
+    "cleanTokens": [
+      "сироп",
+      "дыня"
+    ],
+    "normalizedTokens": [
+      "сироп",
+      "дыня",
+      "1000 мл"
+    ],
+    "params": {
+      "volume": "1000 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Barbados сироп Манго для чая 1000 мл",
+    "cleanTokens": [
+      "сироп",
+      "манго",
+      "для",
+      "чая"
+    ],
+    "normalizedTokens": [
+      "сироп",
+      "манго",
+      "для",
+      "чая",
+      "1000 мл"
+    ],
+    "params": {
+      "volume": "1000 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Esko Bar сироп натуральный 1000 мл",
+    "cleanTokens": [
+      "сироп",
+      "натуральный"
+    ],
+    "normalizedTokens": [
+      "сироп",
+      "натуральный",
+      "1000 мл"
+    ],
+    "params": {
+      "volume": "1000 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Barbados сироп Юзу 1000 мл",
+    "cleanTokens": [
+      "сироп",
+      "юзу"
+    ],
+    "normalizedTokens": [
+      "сироп",
+      "юзу",
+      "1000 мл"
+    ],
+    "params": {
+      "volume": "1000 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Fit Feel сироп финиковый 280 мл",
+    "cleanTokens": [
+      "сироп",
+      "финиковый"
+    ],
+    "normalizedTokens": [
+      "сироп",
+      "финиковый",
+      "280 мл"
+    ],
+    "params": {
+      "volume": "280 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Hershey’s Шоколадный 680 г",
+    "cleanTokens": [
+      "шоколадный"
+    ],
+    "normalizedTokens": [
+      "шоколадный",
+      "680 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "680 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Barbados сироп Личи 1000 мл",
+    "cleanTokens": [
+      "сироп",
+      "личи"
+    ],
+    "normalizedTokens": [
+      "сироп",
+      "личи",
+      "1000 мл"
+    ],
+    "params": {
+      "volume": "1000 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Barbados сироп Гуава 1000 мл",
+    "cleanTokens": [
+      "сироп",
+      "гуава"
+    ],
+    "normalizedTokens": [
+      "сироп",
+      "гуава",
+      "1000 мл"
+    ],
+    "params": {
+      "volume": "1000 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Barbados сироп Серебряный лед 1000 мл",
+    "cleanTokens": [
+      "сироп",
+      "серебряный",
+      "лед"
+    ],
+    "normalizedTokens": [
+      "сироп",
+      "серебряный",
+      "лед",
+      "1000 мл"
+    ],
+    "params": {
+      "volume": "1000 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Nectari сироп шоколад 1000 мл",
+    "cleanTokens": [
+      "сироп",
+      "шоколад"
+    ],
+    "normalizedTokens": [
+      "сироп",
+      "шоколад",
+      "1000 мл"
+    ],
+    "params": {
+      "volume": "1000 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Nectari сироп клюква 1000 мл",
+    "cleanTokens": [
+      "сироп",
+      "клюква"
+    ],
+    "normalizedTokens": [
+      "сироп",
+      "клюква",
+      "1000 мл"
+    ],
+    "params": {
+      "volume": "1000 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Nectari сироп карамель 1000 мл",
+    "cleanTokens": [
+      "сироп",
+      "карамель"
+    ],
+    "normalizedTokens": [
+      "сироп",
+      "карамель",
+      "1000 мл"
+    ],
+    "params": {
+      "volume": "1000 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Nectari сироп лесные ягоды 1000 мл",
+    "cleanTokens": [
+      "сироп",
+      "лесные",
+      "ягоды"
+    ],
+    "normalizedTokens": [
+      "сироп",
+      "лесные",
+      "ягоды",
+      "1000 мл"
+    ],
+    "params": {
+      "volume": "1000 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Nectari сироп гренадин 1000 мл",
+    "cleanTokens": [
+      "сироп",
+      "гренадин"
+    ],
+    "normalizedTokens": [
+      "сироп",
+      "гренадин",
+      "1000 мл"
+    ],
+    "params": {
+      "volume": "1000 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "BarBar сироп Имбирь 1000 мл",
+    "cleanTokens": [
+      "barbar",
+      "сироп",
+      "имбирь"
+    ],
+    "normalizedTokens": [
+      "barbar",
+      "сироп",
+      "имбирь",
+      "1000 мл"
+    ],
+    "params": {
+      "volume": "1000 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Nectari сироп ирис 1000 мл",
+    "cleanTokens": [
+      "сироп",
+      "ирис"
+    ],
+    "normalizedTokens": [
+      "сироп",
+      "ирис",
+      "1000 мл"
+    ],
+    "params": {
+      "volume": "1000 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Hershey's Карамельный 623 мл",
+    "cleanTokens": [
+      "hershey's",
+      "карамельный"
+    ],
+    "normalizedTokens": [
+      "hershey's",
+      "карамельный",
+      "623 мл"
+    ],
+    "params": {
+      "volume": "623 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Nectari сироп лайм 1000 мл",
+    "cleanTokens": [
+      "сироп",
+      "лайм"
+    ],
+    "normalizedTokens": [
+      "сироп",
+      "лайм",
+      "1000 мл"
+    ],
+    "params": {
+      "volume": "1000 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Barbados сироп Красный Виноград 1000 мл",
+    "cleanTokens": [
+      "сироп",
+      "красный",
+      "виноград"
+    ],
+    "normalizedTokens": [
+      "сироп",
+      "красный",
+      "виноград",
+      "1000 мл"
+    ],
+    "params": {
+      "volume": "1000 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Barbados сироп Корни Тайги 1000 мл",
+    "cleanTokens": [
+      "сироп",
+      "корни",
+      "тайги"
+    ],
+    "normalizedTokens": [
+      "сироп",
+      "корни",
+      "тайги",
+      "1000 мл"
+    ],
+    "params": {
+      "volume": "1000 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "BarBar сироп Ежевика 1000 мл",
+    "cleanTokens": [
+      "barbar",
+      "сироп",
+      "ежевика"
+    ],
+    "normalizedTokens": [
+      "barbar",
+      "сироп",
+      "ежевика",
+      "1000 мл"
+    ],
+    "params": {
+      "volume": "1000 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Nectari сироп яблоко 1000 мл",
+    "cleanTokens": [
+      "сироп",
+      "яблоко"
+    ],
+    "normalizedTokens": [
+      "сироп",
+      "яблоко",
+      "1000 мл"
+    ],
+    "params": {
+      "volume": "1000 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Barbados сироп Цветки Бузины 1000 мл",
+    "cleanTokens": [
+      "сироп",
+      "цветки",
+      "бузины"
+    ],
+    "normalizedTokens": [
+      "сироп",
+      "цветки",
+      "бузины",
+      "1000 мл"
+    ],
+    "params": {
+      "volume": "1000 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Hershey's Клубничный 623 мл",
+    "cleanTokens": [
+      "hershey's",
+      "клубничный"
+    ],
+    "normalizedTokens": [
+      "hershey's",
+      "клубничный",
+      "623 мл"
+    ],
+    "params": {
+      "volume": "623 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Nectari сироп киви 1000 мл",
+    "cleanTokens": [
+      "сироп",
+      "киви"
+    ],
+    "normalizedTokens": [
+      "сироп",
+      "киви",
+      "1000 мл"
+    ],
+    "params": {
+      "volume": "1000 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Barbados сироп Огурец 1000 мл",
+    "cleanTokens": [
+      "сироп",
+      "огурец"
+    ],
+    "normalizedTokens": [
+      "сироп",
+      "огурец",
+      "1000 мл"
+    ],
+    "params": {
+      "volume": "1000 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Barbados сироп Красное золото 1000 мл",
+    "cleanTokens": [
+      "сироп",
+      "красное",
+      "золото"
+    ],
+    "normalizedTokens": [
+      "сироп",
+      "красное",
+      "золото",
+      "1000 мл"
+    ],
+    "params": {
+      "volume": "1000 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Nectari сироп вишня 1000 мл",
+    "cleanTokens": [
+      "сироп",
+      "вишня"
+    ],
+    "normalizedTokens": [
+      "сироп",
+      "вишня",
+      "1000 мл"
+    ],
+    "params": {
+      "volume": "1000 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Nectari сироп малина 1000 мл",
+    "cleanTokens": [
+      "сироп",
+      "малина"
+    ],
+    "normalizedTokens": [
+      "сироп",
+      "малина",
+      "1000 мл"
+    ],
+    "params": {
+      "volume": "1000 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  }
+]

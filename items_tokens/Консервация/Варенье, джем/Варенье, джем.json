@@ -1,0 +1,680 @@
+[
+  {
+    "original": "Махеевъ джем апельсин 400 г",
+    "cleanTokens": [
+      "апельсин"
+    ],
+    "normalizedTokens": [
+      "апельсин",
+      "400 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "400 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Primario варенье малина 420 г",
+    "cleanTokens": [
+      "малина"
+    ],
+    "normalizedTokens": [
+      "малина",
+      "420 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "420 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Махеевъ Джем персик манго 400 г",
+    "cleanTokens": [
+      "персик",
+      "манго"
+    ],
+    "normalizedTokens": [
+      "персик",
+      "манго",
+      "400 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "400 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Primario варенье абрикос 420 г",
+    "cleanTokens": [
+      "абрикос"
+    ],
+    "normalizedTokens": [
+      "абрикос",
+      "420 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "420 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Махеевъ джем лесные ягоды 400 г",
+    "cleanTokens": [
+      "лесные",
+      "ягоды"
+    ],
+    "normalizedTokens": [
+      "лесные",
+      "ягоды",
+      "400 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "400 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Вкуснэль варенье клубничное 900 г",
+    "cleanTokens": [
+      "клубничное"
+    ],
+    "normalizedTokens": [
+      "клубничное",
+      "900 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "900 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Вкуснэль варенье смородиновое 900 г",
+    "cleanTokens": [
+      "смородиновое"
+    ],
+    "normalizedTokens": [
+      "смородиновое",
+      "900 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "900 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Primario варенье вишня 420 г",
+    "cleanTokens": [
+      "вишня"
+    ],
+    "normalizedTokens": [
+      "вишня",
+      "420 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "420 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Fit Parad джем манго 200 г",
+    "cleanTokens": [
+      "манго"
+    ],
+    "normalizedTokens": [
+      "манго",
+      "200 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "200 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Fit Active джем земляника 200 г",
+    "cleanTokens": [
+      "земляника"
+    ],
+    "normalizedTokens": [
+      "земляника",
+      "200 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "200 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Fit Active джем черника 200 г 4650204932070",
+    "cleanTokens": [
+      "черника",
+      "4650204932070"
+    ],
+    "normalizedTokens": [
+      "черника",
+      "200 г",
+      "4650204932070"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "200 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Fit Parad джем абрикос 200 г",
+    "cleanTokens": [
+      "абрикос"
+    ],
+    "normalizedTokens": [
+      "абрикос",
+      "200 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "200 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Сибирская Ягода протертая ягода киви, крыжовник 250 г",
+    "cleanTokens": [
+      "протертая",
+      "ягода",
+      "киви",
+      "крыжовник"
+    ],
+    "normalizedTokens": [
+      "протертая",
+      "ягода",
+      "киви",
+      "крыжовник",
+      "250 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "250 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Вкуснэль варенье малиновое 900 г",
+    "cleanTokens": [
+      "малиновое"
+    ],
+    "normalizedTokens": [
+      "малиновое",
+      "900 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "900 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Сибирская Ягода протертая ягода земляника, клюква, яблоко 250 г",
+    "cleanTokens": [
+      "протертая",
+      "ягода",
+      "земляника",
+      "клюква",
+      "яблоко"
+    ],
+    "normalizedTokens": [
+      "протертая",
+      "ягода",
+      "земляника",
+      "клюква",
+      "яблоко",
+      "250 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "250 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Сибирская Ягода протертая ягода вишня, яблоко 250 г",
+    "cleanTokens": [
+      "протертая",
+      "ягода",
+      "вишня",
+      "яблоко"
+    ],
+    "normalizedTokens": [
+      "протертая",
+      "ягода",
+      "вишня",
+      "яблоко",
+      "250 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "250 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Goodtraditions варенье сосновые шишки 120 г",
+    "cleanTokens": [
+      "сосновые",
+      "шишки"
+    ],
+    "normalizedTokens": [
+      "сосновые",
+      "шишки",
+      "120 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "120 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Goodtraditions варенье зеленый грецкий орех 375 г",
+    "cleanTokens": [
+      "зеленый",
+      "грецкий",
+      "орех"
+    ],
+    "normalizedTokens": [
+      "зеленый",
+      "грецкий",
+      "орех",
+      "375 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "375 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Goodtraditions варенье ананас, груша 120 г",
+    "cleanTokens": [
+      "ананас",
+      "груша"
+    ],
+    "normalizedTokens": [
+      "ананас",
+      "груша",
+      "120 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "120 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Goodtraditions варенье имбирь, манго 120 г",
+    "cleanTokens": [
+      "имбирь",
+      "манго"
+    ],
+    "normalizedTokens": [
+      "имбирь",
+      "манго",
+      "120 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "120 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Сибирская Ягода протертая ягода малина, жимолость 250 г",
+    "cleanTokens": [
+      "протертая",
+      "ягода",
+      "малина",
+      "жимолость"
+    ],
+    "normalizedTokens": [
+      "протертая",
+      "ягода",
+      "малина",
+      "жимолость",
+      "250 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "250 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Fit Active джем абрикос 200 г",
+    "cleanTokens": [
+      "абрикос"
+    ],
+    "normalizedTokens": [
+      "абрикос",
+      "200 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "200 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Goodtraditions джем Тропический пунш с ромом 125 г",
+    "cleanTokens": [
+      "тропический",
+      "пунш",
+      "с",
+      "ромом"
+    ],
+    "normalizedTokens": [
+      "тропический",
+      "пунш",
+      "с",
+      "ромом",
+      "125 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "125 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Goodtraditions варенье кизил 375 г",
+    "cleanTokens": [
+      "кизил"
+    ],
+    "normalizedTokens": [
+      "кизил",
+      "375 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "375 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Goodtraditions варенье гранат 295 г",
+    "cleanTokens": [
+      "гранат"
+    ],
+    "normalizedTokens": [
+      "гранат",
+      "295 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "295 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Goodtraditions джем Клубничка с шампанским 125 г",
+    "cleanTokens": [
+      "клубничка",
+      "с",
+      "шампанским"
+    ],
+    "normalizedTokens": [
+      "клубничка",
+      "с",
+      "шампанским",
+      "125 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "125 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Goodtraditions варенье мандарин 120 г",
+    "cleanTokens": [
+      "мандарин"
+    ],
+    "normalizedTokens": [
+      "мандарин",
+      "120 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "120 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Goodtraditions варенье роза 120 г",
+    "cleanTokens": [
+      "роза"
+    ],
+    "normalizedTokens": [
+      "роза",
+      "120 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "120 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Goodtraditions варенье имбирь 120 г",
+    "cleanTokens": [
+      "имбирь"
+    ],
+    "normalizedTokens": [
+      "имбирь",
+      "120 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "120 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Goodtraditions варенье перец чили 120 г",
+    "cleanTokens": [
+      "перец",
+      "чили"
+    ],
+    "normalizedTokens": [
+      "перец",
+      "чили",
+      "120 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "120 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Goodtraditions варенье кедровый орех в сосновом сиропе 120 г",
+    "cleanTokens": [
+      "кедровый",
+      "орех",
+      "в",
+      "сосновом",
+      "сиропе"
+    ],
+    "normalizedTokens": [
+      "кедровый",
+      "орех",
+      "в",
+      "сосновом",
+      "сиропе",
+      "120 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "120 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Goodtraditions джем Вишня в шоколаде с коньяком 125 г",
+    "cleanTokens": [
+      "вишня",
+      "в",
+      "шоколаде",
+      "с",
+      "коньяком"
+    ],
+    "normalizedTokens": [
+      "вишня",
+      "в",
+      "шоколаде",
+      "с",
+      "коньяком",
+      "125 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "125 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  }
+]

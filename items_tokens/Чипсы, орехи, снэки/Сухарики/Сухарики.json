@@ -1,0 +1,558 @@
+[
+  {
+    "original": "Сухарики Flint краб 100 г",
+    "cleanTokens": [
+      "краб"
+    ],
+    "normalizedTokens": [
+      "краб",
+      "100 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "100 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Сухарики Flint Grenki томат спайси 100 г",
+    "cleanTokens": [
+      "grenki",
+      "томат",
+      "спайси"
+    ],
+    "normalizedTokens": [
+      "grenki",
+      "томат",
+      "спайси",
+      "100 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "100 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Сухарики Flint шашлык 100 г",
+    "cleanTokens": [
+      "шашлык"
+    ],
+    "normalizedTokens": [
+      "шашлык",
+      "100 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "100 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Сухарики Flint Grenki телятина с аджикой 100 г",
+    "cleanTokens": [
+      "grenki",
+      "телятина",
+      "с",
+      "аджикой"
+    ],
+    "normalizedTokens": [
+      "grenki",
+      "телятина",
+      "с",
+      "аджикой",
+      "100 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "100 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Сухарики Хрусteam багет томат и зелень 60 г",
+    "cleanTokens": [
+      "багет",
+      "томат",
+      "и",
+      "зелень"
+    ],
+    "normalizedTokens": [
+      "багет",
+      "томат",
+      "и",
+      "зелень",
+      "60 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "60 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Сухарики Кириешки со вкусом курицы 40 г",
+    "cleanTokens": [
+      "со",
+      "вкусом",
+      "курицы"
+    ],
+    "normalizedTokens": [
+      "со",
+      "вкусом",
+      "курицы",
+      "40 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "40 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Сухарики Хрусteam сыр 100 г",
+    "cleanTokens": [
+      "сыр"
+    ],
+    "normalizedTokens": [
+      "сыр",
+      "100 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "100 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Сухарики Flint краб 190 г",
+    "cleanTokens": [
+      "краб"
+    ],
+    "normalizedTokens": [
+      "краб",
+      "190 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "190 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Сухарики Flint сыр 190 г",
+    "cleanTokens": [
+      "сыр"
+    ],
+    "normalizedTokens": [
+      "сыр",
+      "190 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "190 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Сухарики Flint Grenki гарлики телятина с аджикой 90 г",
+    "cleanTokens": [
+      "grenki",
+      "гарлики",
+      "телятина",
+      "с",
+      "аджикой"
+    ],
+    "normalizedTokens": [
+      "grenki",
+      "гарлики",
+      "телятина",
+      "с",
+      "аджикой",
+      "90 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "90 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Сухарики Flint Grenki гарлики томат спайси 90 г",
+    "cleanTokens": [
+      "grenki",
+      "гарлики",
+      "томат",
+      "спайси"
+    ],
+    "normalizedTokens": [
+      "grenki",
+      "гарлики",
+      "томат",
+      "спайси",
+      "90 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "90 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Сухарики Кириешки Light ветчина с сыром 80 г",
+    "cleanTokens": [
+      "light",
+      "ветчина",
+      "с",
+      "сыром"
+    ],
+    "normalizedTokens": [
+      "light",
+      "ветчина",
+      "с",
+      "сыром",
+      "80 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "80 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Сухарики Flint шашлык 190 г",
+    "cleanTokens": [
+      "шашлык"
+    ],
+    "normalizedTokens": [
+      "шашлык",
+      "190 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "190 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Сухарики Трапеза ржано-пшеничные 350 г",
+    "cleanTokens": [
+      "ржано-пшеничные"
+    ],
+    "normalizedTokens": [
+      "ржано-пшеничные",
+      "350 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "350 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Сухарики Flint сметана с зеленью 190 г",
+    "cleanTokens": [
+      "сметана",
+      "с",
+      "зеленью"
+    ],
+    "normalizedTokens": [
+      "сметана",
+      "с",
+      "зеленью",
+      "190 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "190 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Сухарики Хрусteam Барная коллекция стейк и черный перец 140 г",
+    "cleanTokens": [
+      "барная",
+      "коллекция",
+      "стейк",
+      "и",
+      "черный",
+      "перец"
+    ],
+    "normalizedTokens": [
+      "барная",
+      "коллекция",
+      "стейк",
+      "и",
+      "черный",
+      "перец",
+      "140 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "140 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Сухарики Flint Grenki Гарлики чеснок 90 г",
+    "cleanTokens": [
+      "grenki",
+      "гарлики",
+      "чеснок"
+    ],
+    "normalizedTokens": [
+      "grenki",
+      "гарлики",
+      "чеснок",
+      "90 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "90 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Сухарики Flint Багет королевские грибы 100 г",
+    "cleanTokens": [
+      "багет",
+      "королевские",
+      "грибы"
+    ],
+    "normalizedTokens": [
+      "багет",
+      "королевские",
+      "грибы",
+      "100 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "100 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Сухарики Хрусteam Барная коллекция сырные палочки 140 г",
+    "cleanTokens": [
+      "барная",
+      "коллекция",
+      "сырные",
+      "палочки"
+    ],
+    "normalizedTokens": [
+      "барная",
+      "коллекция",
+      "сырные",
+      "палочки",
+      "140 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "140 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Сухарики Flint Grenki Гарлики курт 90 г",
+    "cleanTokens": [
+      "grenki",
+      "гарлики",
+      "курт"
+    ],
+    "normalizedTokens": [
+      "grenki",
+      "гарлики",
+      "курт",
+      "90 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "90 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Сухарики Flint колбаски гриль 100 г",
+    "cleanTokens": [
+      "колбаски",
+      "гриль"
+    ],
+    "normalizedTokens": [
+      "колбаски",
+      "гриль",
+      "100 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "100 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Сухарики А4 ПРИВЕТ, БАГЕТ! сметана и зелень 40 г",
+    "cleanTokens": [
+      "привет",
+      "багет!",
+      "сметана",
+      "и",
+      "зелень"
+    ],
+    "normalizedTokens": [
+      "привет",
+      "багет!",
+      "сметана",
+      "и",
+      "зелень",
+      "40 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "40 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Сухарики А4 ПРИВЕТ, БАГЕТ! со вкусом сыра 40 г",
+    "cleanTokens": [
+      "привет",
+      "багет!",
+      "со",
+      "вкусом",
+      "сыра"
+    ],
+    "normalizedTokens": [
+      "привет",
+      "багет!",
+      "со",
+      "вкусом",
+      "сыра",
+      "40 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "40 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Сухарики А4 ПРИВЕТ, БАГЕТ! со вкусом копченой колбаски 40 г",
+    "cleanTokens": [
+      "привет",
+      "багет!",
+      "со",
+      "вкусом",
+      "копченой",
+      "колбаски"
+    ],
+    "normalizedTokens": [
+      "привет",
+      "багет!",
+      "со",
+      "вкусом",
+      "копченой",
+      "колбаски",
+      "40 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "40 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  }
+]

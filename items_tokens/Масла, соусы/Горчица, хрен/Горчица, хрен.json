@@ -1,0 +1,115 @@
+[
+  {
+    "original": "Bowl & Basket горчица дижонская Stone ground mustard 340 г",
+    "cleanTokens": [
+      "дижонская",
+      "stone",
+      "ground",
+      "mustard"
+    ],
+    "normalizedTokens": [
+      "дижонская",
+      "stone",
+      "ground",
+      "mustard",
+      "340 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "340 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Bowl & Basket горчица классическая желтая 227 г",
+    "cleanTokens": [
+      "классическая",
+      "желтая"
+    ],
+    "normalizedTokens": [
+      "классическая",
+      "желтая",
+      "227 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "227 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Sen Soy васаби классический 43 г",
+    "cleanTokens": [
+      "васаби",
+      "классический"
+    ],
+    "normalizedTokens": [
+      "васаби",
+      "классический",
+      "43 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "43 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "ShopRite горчица классическая Горчица Yellow Mustard 227 г",
+    "cleanTokens": [
+      "классическая",
+      "yellow",
+      "mustard"
+    ],
+    "normalizedTokens": [
+      "классическая",
+      "yellow",
+      "mustard",
+      "227 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "227 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Truffle Chef горчица столовая Truffle honey 210 г",
+    "cleanTokens": [
+      "столовая",
+      "truffle",
+      "honey"
+    ],
+    "normalizedTokens": [
+      "столовая",
+      "truffle",
+      "honey",
+      "210 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "210 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  }
+]

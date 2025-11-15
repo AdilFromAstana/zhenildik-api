@@ -1,0 +1,897 @@
+[
+  {
+    "original": "Shaurma-Food Босо лагман на сое 574 г",
+    "cleanTokens": [
+      "босо",
+      "лагман",
+      "на",
+      "сое"
+    ],
+    "normalizedTokens": [
+      "босо",
+      "лагман",
+      "на",
+      "сое",
+      "574 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "574 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Shaurma-Food Жаренные манты с мясом 325 г",
+    "cleanTokens": [
+      "жаренные",
+      "манты",
+      "с",
+      "мясом"
+    ],
+    "normalizedTokens": [
+      "жаренные",
+      "манты",
+      "с",
+      "мясом",
+      "325 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "325 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Shaurma-Food Паста Альфредо с курицей 350 г",
+    "cleanTokens": [
+      "паста",
+      "альфредо",
+      "с",
+      "курицей"
+    ],
+    "normalizedTokens": [
+      "паста",
+      "альфредо",
+      "с",
+      "курицей",
+      "350 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "350 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Shaurma-Food Курица в сливочном соусе с грибами и рисом 400 г",
+    "cleanTokens": [
+      "курица",
+      "в",
+      "сливочном",
+      "соусе",
+      "с",
+      "грибами",
+      "и",
+      "рисом"
+    ],
+    "normalizedTokens": [
+      "курица",
+      "в",
+      "сливочном",
+      "соусе",
+      "с",
+      "грибами",
+      "и",
+      "рисом",
+      "400 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "400 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Shaurma-Food Суйру лагман 628 г",
+    "cleanTokens": [
+      "суйру",
+      "лагман"
+    ],
+    "normalizedTokens": [
+      "суйру",
+      "лагман",
+      "628 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "628 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Shaurma-Food Гуйру лагман 613 г",
+    "cleanTokens": [
+      "гуйру",
+      "лагман"
+    ],
+    "normalizedTokens": [
+      "гуйру",
+      "лагман",
+      "613 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "613 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Shaurma-Food Манты с мясом 335 г",
+    "cleanTokens": [
+      "манты",
+      "с",
+      "мясом"
+    ],
+    "normalizedTokens": [
+      "манты",
+      "с",
+      "мясом",
+      "335 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "335 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Shaurma-Food Жаренные манты с тыквой и мясом 325 г",
+    "cleanTokens": [
+      "жаренные",
+      "манты",
+      "с",
+      "тыквой",
+      "и",
+      "мясом"
+    ],
+    "normalizedTokens": [
+      "жаренные",
+      "манты",
+      "с",
+      "тыквой",
+      "и",
+      "мясом",
+      "325 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "325 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Shaurma-Food Вареники с картошкой 374 г",
+    "cleanTokens": [
+      "вареники",
+      "с",
+      "картошкой"
+    ],
+    "normalizedTokens": [
+      "вареники",
+      "с",
+      "картошкой",
+      "374 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "374 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Shaurma-Food Мясо по-тайски 470 г",
+    "cleanTokens": [
+      "мясо",
+      "по-тайски"
+    ],
+    "normalizedTokens": [
+      "мясо",
+      "по-тайски",
+      "470 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "470 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Shaurma-Food Ханский плов с казы 460 г",
+    "cleanTokens": [
+      "ханский",
+      "плов",
+      "с",
+      "казы"
+    ],
+    "normalizedTokens": [
+      "ханский",
+      "плов",
+      "с",
+      "казы",
+      "460 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "460 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Shaurma-Food Картофельные дольки 150 г",
+    "cleanTokens": [
+      "картофельные",
+      "дольки"
+    ],
+    "normalizedTokens": [
+      "картофельные",
+      "дольки",
+      "150 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "150 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Shaurma-Food Удон с мясом 190 г",
+    "cleanTokens": [
+      "удон",
+      "с",
+      "мясом"
+    ],
+    "normalizedTokens": [
+      "удон",
+      "с",
+      "мясом",
+      "190 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "190 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Shaurma-Food Колбаски бараньи на гриле 200 г",
+    "cleanTokens": [
+      "колбаски",
+      "бараньи",
+      "на",
+      "гриле"
+    ],
+    "normalizedTokens": [
+      "колбаски",
+      "бараньи",
+      "на",
+      "гриле",
+      "200 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "200 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Shaurma-Food Манты с мясом и тыквой 340 г",
+    "cleanTokens": [
+      "манты",
+      "с",
+      "мясом",
+      "и",
+      "тыквой"
+    ],
+    "normalizedTokens": [
+      "манты",
+      "с",
+      "мясом",
+      "и",
+      "тыквой",
+      "340 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "340 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Shaurma-Food стейк тибон 366 г",
+    "cleanTokens": [
+      "стейк",
+      "тибон"
+    ],
+    "normalizedTokens": [
+      "стейк",
+      "тибон",
+      "366 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "366 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Shaurma-Food Рис 200 г",
+    "cleanTokens": [
+      "рис"
+    ],
+    "normalizedTokens": [
+      "рис",
+      "200 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "200 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Shaurma-Food Удон с курицей 190 г",
+    "cleanTokens": [
+      "удон",
+      "с",
+      "курицей"
+    ],
+    "normalizedTokens": [
+      "удон",
+      "с",
+      "курицей",
+      "190 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "190 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Shaurma-Food мини стрипсы 165 г",
+    "cleanTokens": [
+      "мини",
+      "стрипсы"
+    ],
+    "normalizedTokens": [
+      "мини",
+      "стрипсы",
+      "165 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "165 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Shaurma-Food Крылышки неострые 470 г",
+    "cleanTokens": [
+      "крылышки",
+      "неострые"
+    ],
+    "normalizedTokens": [
+      "крылышки",
+      "неострые",
+      "470 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "470 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Shaurma-Food Стейк Лосось 398 г",
+    "cleanTokens": [
+      "стейк",
+      "лосось"
+    ],
+    "normalizedTokens": [
+      "стейк",
+      "лосось",
+      "398 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "398 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Shaurma-Food Халопеньо чикен-бокс 250 г",
+    "cleanTokens": [
+      "халопеньо",
+      "чикен-бокс"
+    ],
+    "normalizedTokens": [
+      "халопеньо",
+      "чикен-бокс",
+      "250 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "250 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Shaurma-Food Пеперонни чикен-бокс 260 г",
+    "cleanTokens": [
+      "пеперонни",
+      "чикен-бокс"
+    ],
+    "normalizedTokens": [
+      "пеперонни",
+      "чикен-бокс",
+      "260 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "260 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Shaurma-Food Паста Фетучини с грибами 400 г",
+    "cleanTokens": [
+      "паста",
+      "фетучини",
+      "с",
+      "грибами"
+    ],
+    "normalizedTokens": [
+      "паста",
+      "фетучини",
+      "с",
+      "грибами",
+      "400 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "400 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Shaurma-Food Манты с мясом 3 порции 215 г",
+    "cleanTokens": [
+      "манты",
+      "с",
+      "мясом",
+      "3",
+      "порции"
+    ],
+    "normalizedTokens": [
+      "манты",
+      "с",
+      "мясом",
+      "3",
+      "порции",
+      "215 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "215 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Shaurma-Food Кавказская нарезка 560 г",
+    "cleanTokens": [
+      "кавказская",
+      "нарезка"
+    ],
+    "normalizedTokens": [
+      "кавказская",
+      "нарезка",
+      "560 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "560 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Shaurma-Food Лагман 620 г",
+    "cleanTokens": [
+      "лагман"
+    ],
+    "normalizedTokens": [
+      "лагман",
+      "620 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "620 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Shaurma-Food шаурма на тарелке курица 442 г",
+    "cleanTokens": [
+      "шаурма",
+      "на",
+      "тарелке",
+      "курица"
+    ],
+    "normalizedTokens": [
+      "шаурма",
+      "на",
+      "тарелке",
+      "курица",
+      "442 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "442 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Shaurma-Food Поке-боул с креветками 376 г",
+    "cleanTokens": [
+      "поке-боул",
+      "с",
+      "креветками"
+    ],
+    "normalizedTokens": [
+      "поке-боул",
+      "с",
+      "креветками",
+      "376 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "376 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Shaurma-Food Жаренные манты с тыквой и мясом 3 порции 210 г",
+    "cleanTokens": [
+      "жаренные",
+      "манты",
+      "с",
+      "тыквой",
+      "и",
+      "мясом",
+      "3",
+      "порции"
+    ],
+    "normalizedTokens": [
+      "жаренные",
+      "манты",
+      "с",
+      "тыквой",
+      "и",
+      "мясом",
+      "3",
+      "порции",
+      "210 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "210 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Shaurma-Food шаурма на тарелке говядина 440 г",
+    "cleanTokens": [
+      "шаурма",
+      "на",
+      "тарелке",
+      "говядина"
+    ],
+    "normalizedTokens": [
+      "шаурма",
+      "на",
+      "тарелке",
+      "говядина",
+      "440 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "440 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Shaurma-Food Поке-боул с курицей 250 г",
+    "cleanTokens": [
+      "поке-боул",
+      "с",
+      "курицей"
+    ],
+    "normalizedTokens": [
+      "поке-боул",
+      "с",
+      "курицей",
+      "250 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "250 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Shaurma-Food Паста карбонара с копченой индейкой 330 г",
+    "cleanTokens": [
+      "паста",
+      "карбонара",
+      "с",
+      "копченой",
+      "индейкой"
+    ],
+    "normalizedTokens": [
+      "паста",
+      "карбонара",
+      "с",
+      "копченой",
+      "индейкой",
+      "330 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "330 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Shaurma-Food Манты с мясом и тыквой 3 порции 215 г",
+    "cleanTokens": [
+      "манты",
+      "с",
+      "мясом",
+      "и",
+      "тыквой",
+      "3",
+      "порции"
+    ],
+    "normalizedTokens": [
+      "манты",
+      "с",
+      "мясом",
+      "и",
+      "тыквой",
+      "3",
+      "порции",
+      "215 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "215 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Shaurma-Food Семга в кисло-сладком соусе с рисом 410 г",
+    "cleanTokens": [
+      "семга",
+      "в",
+      "кисло-сладком",
+      "соусе",
+      "с",
+      "рисом"
+    ],
+    "normalizedTokens": [
+      "семга",
+      "в",
+      "кисло-сладком",
+      "соусе",
+      "с",
+      "рисом",
+      "410 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "410 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Shaurma-Food Поке-боул с семгой 250 г",
+    "cleanTokens": [
+      "поке-боул",
+      "с",
+      "семгой"
+    ],
+    "normalizedTokens": [
+      "поке-боул",
+      "с",
+      "семгой",
+      "250 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "250 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Shaurma-Food Жаренные манты с мясом 3 порции 210 г",
+    "cleanTokens": [
+      "жаренные",
+      "манты",
+      "с",
+      "мясом",
+      "3",
+      "порции"
+    ],
+    "normalizedTokens": [
+      "жаренные",
+      "манты",
+      "с",
+      "мясом",
+      "3",
+      "порции",
+      "210 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "210 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  }
+]

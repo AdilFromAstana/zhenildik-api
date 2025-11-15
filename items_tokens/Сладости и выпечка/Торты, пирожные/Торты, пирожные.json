@@ -1,0 +1,957 @@
+[
+  {
+    "original": "Mone пирожное Шу с малиновой начинкой 89 г",
+    "cleanTokens": [
+      "пирожное",
+      "шу",
+      "с",
+      "малиновой",
+      "начинкой"
+    ],
+    "normalizedTokens": [
+      "пирожное",
+      "шу",
+      "с",
+      "малиновой",
+      "начинкой",
+      "89 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "89 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Dolce Vita торт Наполеон 1500 г",
+    "cleanTokens": [
+      "торт",
+      "наполеон"
+    ],
+    "normalizedTokens": [
+      "торт",
+      "наполеон",
+      "1500 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "1500 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Mone пирожное Шу 130 г",
+    "cleanTokens": [
+      "пирожное",
+      "шу"
+    ],
+    "normalizedTokens": [
+      "пирожное",
+      "шу",
+      "130 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "130 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Dolce Vita торт Орео 1700 г",
+    "cleanTokens": [
+      "торт",
+      "орео"
+    ],
+    "normalizedTokens": [
+      "торт",
+      "орео",
+      "1700 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "1700 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Mone пирожное Пари Брест 70 г",
+    "cleanTokens": [
+      "пирожное",
+      "пари",
+      "брест"
+    ],
+    "normalizedTokens": [
+      "пирожное",
+      "пари",
+      "брест",
+      "70 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "70 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Dolce Vita торт Фисташка-малина 1700 г",
+    "cleanTokens": [
+      "торт",
+      "фисташка-малина"
+    ],
+    "normalizedTokens": [
+      "торт",
+      "фисташка-малина",
+      "1700 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "1700 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Mone пирожное Павлова 55 г",
+    "cleanTokens": [
+      "пирожное",
+      "павлова"
+    ],
+    "normalizedTokens": [
+      "пирожное",
+      "павлова",
+      "55 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "55 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Dolce Vita торт Шоколад-пломбир 1000 г",
+    "cleanTokens": [
+      "торт",
+      "шоколад-пломбир"
+    ],
+    "normalizedTokens": [
+      "торт",
+      "шоколад-пломбир",
+      "1000 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "1000 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "MAGNUM macarons сицилийская фисташка, соленая карамель, ванильный пломбир 48 г",
+    "cleanTokens": [
+      "macarons",
+      "сицилийская",
+      "фисташка",
+      "соленая",
+      "карамель",
+      "ванильный",
+      "пломбир"
+    ],
+    "normalizedTokens": [
+      "macarons",
+      "сицилийская",
+      "фисташка",
+      "соленая",
+      "карамель",
+      "ванильный",
+      "пломбир",
+      "48 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "48 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Dolce Vita торт Медовик 1000 г",
+    "cleanTokens": [
+      "торт",
+      "медовик"
+    ],
+    "normalizedTokens": [
+      "торт",
+      "медовик",
+      "1000 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "1000 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Dolce Vita торт Вупи-пай 1300 г",
+    "cleanTokens": [
+      "торт",
+      "вупи-пай"
+    ],
+    "normalizedTokens": [
+      "торт",
+      "вупи-пай",
+      "1300 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "1300 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Dolce Vita торт Сникерс 2000 г",
+    "cleanTokens": [
+      "торт",
+      "сникерс"
+    ],
+    "normalizedTokens": [
+      "торт",
+      "сникерс",
+      "2000 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "2000 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Mone капкейк Шоколадный 80 г",
+    "cleanTokens": [
+      "капкейк",
+      "шоколадный"
+    ],
+    "normalizedTokens": [
+      "капкейк",
+      "шоколадный",
+      "80 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "80 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Dolce Vita профитроли со сливочным кремом 1000 г",
+    "cleanTokens": [
+      "профитроли",
+      "со",
+      "сливочным",
+      "кремом"
+    ],
+    "normalizedTokens": [
+      "профитроли",
+      "со",
+      "сливочным",
+      "кремом",
+      "1000 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "1000 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Dolce Vita торт Три шоколада 1300 г",
+    "cleanTokens": [
+      "торт",
+      "три",
+      "шоколада"
+    ],
+    "normalizedTokens": [
+      "торт",
+      "три",
+      "шоколада",
+      "1300 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "1300 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Mone пирожное Эскимо картошка 125 г",
+    "cleanTokens": [
+      "пирожное",
+      "эскимо",
+      "картошка"
+    ],
+    "normalizedTokens": [
+      "пирожное",
+      "эскимо",
+      "картошка",
+      "125 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "125 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Dolce Vita пирожное Муфточки 1000 г",
+    "cleanTokens": [
+      "пирожное",
+      "муфточки"
+    ],
+    "normalizedTokens": [
+      "пирожное",
+      "муфточки",
+      "1000 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "1000 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Dolce Vita торт С заварным кремом 1300 г",
+    "cleanTokens": [
+      "торт",
+      "с",
+      "заварным",
+      "кремом"
+    ],
+    "normalizedTokens": [
+      "торт",
+      "с",
+      "заварным",
+      "кремом",
+      "1300 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "1300 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Bamboo House пирожное Моти с клубникой 140 г",
+    "cleanTokens": [
+      "пирожное",
+      "моти",
+      "с",
+      "клубникой"
+    ],
+    "normalizedTokens": [
+      "пирожное",
+      "моти",
+      "с",
+      "клубникой",
+      "140 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "140 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Mone кейк-попс Картошка 35 г",
+    "cleanTokens": [
+      "кейк-попс",
+      "картошка"
+    ],
+    "normalizedTokens": [
+      "кейк-попс",
+      "картошка",
+      "35 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "35 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Mone пирожное Медовик 108 г",
+    "cleanTokens": [
+      "пирожное",
+      "медовик"
+    ],
+    "normalizedTokens": [
+      "пирожное",
+      "медовик",
+      "108 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "108 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "MAGNUM macarons манго, банан, сникерс 48 г",
+    "cleanTokens": [
+      "macarons",
+      "манго",
+      "банан",
+      "сникерс"
+    ],
+    "normalizedTokens": [
+      "macarons",
+      "манго",
+      "банан",
+      "сникерс",
+      "48 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "48 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "MAGNUM macarons ассорти 144 г",
+    "cleanTokens": [
+      "macarons",
+      "ассорти"
+    ],
+    "normalizedTokens": [
+      "macarons",
+      "ассорти",
+      "144 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "144 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Mone пирожное Кусочек торта Молочная девочка 107 г",
+    "cleanTokens": [
+      "пирожное",
+      "кусочек",
+      "торта",
+      "молочная",
+      "девочка"
+    ],
+    "normalizedTokens": [
+      "пирожное",
+      "кусочек",
+      "торта",
+      "молочная",
+      "девочка",
+      "107 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "107 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Mone пирожное Кусочек торта Вупи пай 129 г",
+    "cleanTokens": [
+      "пирожное",
+      "кусочек",
+      "торта",
+      "вупи",
+      "пай"
+    ],
+    "normalizedTokens": [
+      "пирожное",
+      "кусочек",
+      "торта",
+      "вупи",
+      "пай",
+      "129 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "129 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Bamboo House пирожное Моти с клубникой 180 г",
+    "cleanTokens": [
+      "пирожное",
+      "моти",
+      "с",
+      "клубникой"
+    ],
+    "normalizedTokens": [
+      "пирожное",
+      "моти",
+      "с",
+      "клубникой",
+      "180 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "180 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Bamboo House пирожное Моти матча чай 210 г",
+    "cleanTokens": [
+      "пирожное",
+      "моти",
+      "матча",
+      "чай"
+    ],
+    "normalizedTokens": [
+      "пирожное",
+      "моти",
+      "матча",
+      "чай",
+      "210 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "210 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Bamboo House пирожное Моти с начинкой из молочного пудинга и манго 180 г",
+    "cleanTokens": [
+      "пирожное",
+      "моти",
+      "с",
+      "начинкой",
+      "из",
+      "молочного",
+      "пудинга",
+      "манго"
+    ],
+    "normalizedTokens": [
+      "пирожное",
+      "моти",
+      "с",
+      "начинкой",
+      "из",
+      "молочного",
+      "пудинга",
+      "манго",
+      "180 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "180 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Bamboo House пирожное Моти с манго 180 г",
+    "cleanTokens": [
+      "пирожное",
+      "моти",
+      "с",
+      "манго"
+    ],
+    "normalizedTokens": [
+      "пирожное",
+      "моти",
+      "с",
+      "манго",
+      "180 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "180 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Bamboo House пирожное Моти Шоколад-Манго 120 г",
+    "cleanTokens": [
+      "пирожное",
+      "моти",
+      "шоколад-манго"
+    ],
+    "normalizedTokens": [
+      "пирожное",
+      "моти",
+      "шоколад-манго",
+      "120 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "120 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Bamboo House пирожное Моти манго 140 г",
+    "cleanTokens": [
+      "пирожное",
+      "моти",
+      "манго"
+    ],
+    "normalizedTokens": [
+      "пирожное",
+      "моти",
+      "манго",
+      "140 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "140 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Bamboo House пирожное Fruit Mochi 140 г",
+    "cleanTokens": [
+      "пирожное",
+      "fruit",
+      "mochi"
+    ],
+    "normalizedTokens": [
+      "пирожное",
+      "fruit",
+      "mochi",
+      "140 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "140 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Bamboo House пирожное Моти шоколадное 120 г",
+    "cleanTokens": [
+      "пирожное",
+      "моти",
+      "шоколадное"
+    ],
+    "normalizedTokens": [
+      "пирожное",
+      "моти",
+      "шоколадное",
+      "120 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "120 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Bamboo House пирожное Моти с начинкой из молочного пудинга и банана 180 г",
+    "cleanTokens": [
+      "пирожное",
+      "моти",
+      "с",
+      "начинкой",
+      "из",
+      "молочного",
+      "пудинга",
+      "банана"
+    ],
+    "normalizedTokens": [
+      "пирожное",
+      "моти",
+      "с",
+      "начинкой",
+      "из",
+      "молочного",
+      "пудинга",
+      "банана",
+      "180 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "180 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Bamboo House пирожное Моти с голубикой 180 г",
+    "cleanTokens": [
+      "пирожное",
+      "моти",
+      "с",
+      "голубикой"
+    ],
+    "normalizedTokens": [
+      "пирожное",
+      "моти",
+      "с",
+      "голубикой",
+      "180 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "180 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Bamboo House пирожное Моти с начинкой из молочного пудинга и земляники 180 г",
+    "cleanTokens": [
+      "пирожное",
+      "моти",
+      "с",
+      "начинкой",
+      "из",
+      "молочного",
+      "пудинга",
+      "земляники"
+    ],
+    "normalizedTokens": [
+      "пирожное",
+      "моти",
+      "с",
+      "начинкой",
+      "из",
+      "молочного",
+      "пудинга",
+      "земляники",
+      "180 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "180 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Bamboo House пирожное Моти с начинкой из молочного пудинга и дыни 180 г",
+    "cleanTokens": [
+      "пирожное",
+      "моти",
+      "с",
+      "начинкой",
+      "из",
+      "молочного",
+      "пудинга",
+      "дыни"
+    ],
+    "normalizedTokens": [
+      "пирожное",
+      "моти",
+      "с",
+      "начинкой",
+      "из",
+      "молочного",
+      "пудинга",
+      "дыни",
+      "180 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "180 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Bamboo House пирожное Моти Шоколад-Клубника 120 г",
+    "cleanTokens": [
+      "пирожное",
+      "моти",
+      "шоколад-клубника"
+    ],
+    "normalizedTokens": [
+      "пирожное",
+      "моти",
+      "шоколад-клубника",
+      "120 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "120 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Bamboo House пирожное Моти с начинкой из молочного пудинга и голубики 180 г",
+    "cleanTokens": [
+      "пирожное",
+      "моти",
+      "с",
+      "начинкой",
+      "из",
+      "молочного",
+      "пудинга",
+      "голубики"
+    ],
+    "normalizedTokens": [
+      "пирожное",
+      "моти",
+      "с",
+      "начинкой",
+      "из",
+      "молочного",
+      "пудинга",
+      "голубики",
+      "180 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "180 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  }
+]

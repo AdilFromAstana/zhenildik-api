@@ -1,0 +1,1126 @@
+[
+  {
+    "category": [
+      "Мясо и птица",
+      "Фарш"
+    ],
+    "brand": "Курочка Ряба",
+    "canonicalName": "brand:курочка ряба||weight_g:1000||name:1000 г замороженный мусульманский постный",
+    "params": {
+      "volume": null,
+      "weight": "1000 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    },
+    "shops": {
+      "kaspi": [
+        {
+          "id": "142311301",
+          "title": "Фарш Курочка Ряба мусульманский постный замороженный 1000 г",
+          "price": 1549,
+          "link": "/p/farsh-kurochka-rjaba-musul-manskii-postnyi-zamorozhennyi-1000-g-142311301/?c=710000000",
+          "raw": {
+            "id": "142311301",
+            "configSku": "142311301",
+            "title": "Фарш Курочка Ряба мусульманский постный замороженный 1000 г",
+            "brand": "Курочка Ряба",
+            "categoryId": "07217",
+            "hasVariants": false,
+            "loanAvailable": false,
+            "shopLink": "/p/farsh-kurochka-rjaba-musul-manskii-postnyi-zamorozhennyi-1000-g-142311301/?c=710000000",
+            "unitPrice": 1549,
+            "unitSalePrice": 1549,
+            "priceFormatted": "1 549 ₸",
+            "createdTime": "2025-07-04T12:24:38.102Z",
+            "stickers": [
+              "magnum_offer_available"
+            ],
+            "previewImages": [
+              {
+                "small": "https://resources.cdn-kaspi.kz/img/m/p/p03/pea/65563115.png?format=preview-small",
+                "medium": "https://resources.cdn-kaspi.kz/img/m/p/p03/pea/65563115.png?format=preview-medium",
+                "large": "https://resources.cdn-kaspi.kz/img/m/p/p03/pea/65563115.png?format=preview-large"
+              },
+              {
+                "small": "https://resources.cdn-kaspi.kz/img/m/p/pf2/p9b/52322736.jpg?format=preview-small",
+                "medium": "https://resources.cdn-kaspi.kz/img/m/p/pf2/p9b/52322736.jpg?format=preview-medium",
+                "large": "https://resources.cdn-kaspi.kz/img/m/p/pf2/p9b/52322736.jpg?format=preview-large"
+              }
+            ],
+            "teasers": [],
+            "creditMonthlyPrice": 517,
+            "monthlyInstallment": {
+              "id": 3,
+              "installment": true,
+              "formattedPerMonth": "517 ₸"
+            },
+            "reviewsLink": "/p/farsh-kurochka-rjaba-musul-manskii-postnyi-zamorozhennyi-1000-g-142311301/?c=710000000&tab=reviews",
+            "weight": 0,
+            "unit": {
+              "type": "PIECES",
+              "increment": 1,
+              "measurementLiteral": "шт",
+              "countingLiteral": "шт"
+            },
+            "rating": 4.7,
+            "reviewsQuantity": 1,
+            "stock": 1,
+            "currency": "KZT",
+            "mods": "",
+            "deliveryDuration": "TODAY",
+            "shortNameText": "",
+            "category": [
+              "Продукты питания",
+              "Мясо и птица",
+              "Фарш"
+            ],
+            "categoryRu": [
+              "Продукты питания",
+              "Мясо и птица",
+              "Фарш"
+            ],
+            "categoryCodes": [
+              "Ground meat",
+              "Meat and poultry",
+              "Food",
+              "Categories"
+            ],
+            "promo": [
+              {
+                "code": "magnum 0012",
+                "text": null,
+                "type": "LOAN",
+                "priority": 12,
+                "owner": "KASPI",
+                "bonusType": "",
+                "img": {
+                  "alt": null,
+                  "medium": {
+                    "src": "https://resources.cdn-kaspi.kz/yml/static/assets/badges/l12.svg?v=1",
+                    "width": 40,
+                    "height": 22
+                  },
+                  "large": {
+                    "src": "https://resources.cdn-kaspi.kz/yml/static/assets/badges/l12.svg?v=1",
+                    "width": 55,
+                    "height": 31
+                  },
+                  "small": {
+                    "src": "https://resources.cdn-kaspi.kz/yml/static/assets/badges/l12.svg?v=1",
+                    "width": 40,
+                    "height": 22
+                  }
+                }
+              }
+            ],
+            "majorMerchants": [
+              "Magnum"
+            ],
+            "deliveryZones": [
+              "magnum_f_zone",
+              "Magnum_ZONE3",
+              "Magnum_ZONE5"
+            ]
+          }
+        }
+      ]
+    }
+  },
+  {
+    "category": [
+      "Мясо и птица",
+      "Фарш"
+    ],
+    "brand": "Meat to Eat",
+    "canonicalName": "brand:meat to eat||weight_g:500||name:500 г говяжий замороженный постный",
+    "params": {
+      "volume": null,
+      "weight": "500 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    },
+    "shops": {
+      "kaspi": [
+        {
+          "id": "146013246",
+          "title": "Фарш Meat to Eat говяжий постный замороженный 500 г",
+          "price": 4143,
+          "link": "/p/farsh-meat-to-eat-govjazhii-postnyi-zamorozhennyi-500-g-146013246/?c=710000000",
+          "raw": {
+            "id": "146013246",
+            "configSku": "146013246",
+            "title": "Фарш Meat to Eat говяжий постный замороженный 500 г",
+            "brand": "Meat to Eat",
+            "categoryId": "07217",
+            "hasVariants": false,
+            "loanAvailable": false,
+            "shopLink": "/p/farsh-meat-to-eat-govjazhii-postnyi-zamorozhennyi-500-g-146013246/?c=710000000",
+            "unitPrice": 4143,
+            "unitSalePrice": 4143,
+            "priceFormatted": "4 143 ₸",
+            "createdTime": "2025-09-18T11:51:40.754Z",
+            "stickers": [
+              "magnum_offer_available"
+            ],
+            "previewImages": [
+              {
+                "small": "https://resources.cdn-kaspi.kz/img/m/p/p7d/pe4/66028395.jpg?format=preview-small",
+                "medium": "https://resources.cdn-kaspi.kz/img/m/p/p7d/pe4/66028395.jpg?format=preview-medium",
+                "large": "https://resources.cdn-kaspi.kz/img/m/p/p7d/pe4/66028395.jpg?format=preview-large"
+              },
+              {
+                "small": "https://resources.cdn-kaspi.kz/img/m/p/p99/pe4/66028396.jpg?format=preview-small",
+                "medium": "https://resources.cdn-kaspi.kz/img/m/p/p99/pe4/66028396.jpg?format=preview-medium",
+                "large": "https://resources.cdn-kaspi.kz/img/m/p/p99/pe4/66028396.jpg?format=preview-large"
+              }
+            ],
+            "teasers": [],
+            "creditMonthlyPrice": 1381,
+            "monthlyInstallment": {
+              "id": 3,
+              "installment": true,
+              "formattedPerMonth": "1 381 ₸"
+            },
+            "reviewsLink": "/p/farsh-meat-to-eat-govjazhii-postnyi-zamorozhennyi-500-g-146013246/?c=710000000&tab=reviews",
+            "weight": 0,
+            "unit": {
+              "type": "PIECES",
+              "increment": 1,
+              "measurementLiteral": "шт",
+              "countingLiteral": "шт"
+            },
+            "rating": 5,
+            "reviewsQuantity": 2,
+            "stock": 1,
+            "currency": "KZT",
+            "mods": "",
+            "deliveryDuration": "TODAY",
+            "category": [
+              "Продукты питания",
+              "Мясо и птица",
+              "Фарш"
+            ],
+            "categoryRu": [
+              "Продукты питания",
+              "Мясо и птица",
+              "Фарш"
+            ],
+            "categoryCodes": [
+              "Ground meat",
+              "Meat and poultry",
+              "Food",
+              "Categories"
+            ],
+            "groups": [],
+            "promo": [
+              {
+                "code": "magnum 0012",
+                "text": null,
+                "type": "LOAN",
+                "priority": 12,
+                "owner": "KASPI",
+                "bonusType": "",
+                "img": {
+                  "alt": null,
+                  "medium": {
+                    "src": "https://resources.cdn-kaspi.kz/yml/static/assets/badges/l12.svg?v=1",
+                    "width": 40,
+                    "height": 22
+                  },
+                  "large": {
+                    "src": "https://resources.cdn-kaspi.kz/yml/static/assets/badges/l12.svg?v=1",
+                    "width": 55,
+                    "height": 31
+                  },
+                  "small": {
+                    "src": "https://resources.cdn-kaspi.kz/yml/static/assets/badges/l12.svg?v=1",
+                    "width": 40,
+                    "height": 22
+                  }
+                }
+              }
+            ],
+            "majorMerchants": [
+              "Magnum"
+            ],
+            "deliveryZones": [
+              "magnum_f_zone",
+              "Magnum_ZONE3",
+              "Magnum_ZONE5"
+            ]
+          }
+        }
+      ]
+    }
+  },
+  {
+    "category": [
+      "Мясо и птица",
+      "Фарш"
+    ],
+    "brand": "Boszhan",
+    "canonicalName": "brand:boszhan||weight_g:700||name:700 г говядины замороженный из",
+    "params": {
+      "volume": null,
+      "weight": "700 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    },
+    "shops": {
+      "kaspi": [
+        {
+          "id": "101304096",
+          "title": "Фарш Boszhan из говядины замороженный 700 г",
+          "price": 4075,
+          "link": "/p/farsh-boszhan-iz-govjadiny-zamorozhennyi-700-g-101304096/?c=710000000",
+          "raw": {
+            "id": "101304096",
+            "configSku": "101304096",
+            "title": "Фарш Boszhan из говядины замороженный 700 г",
+            "brand": "Boszhan",
+            "categoryId": "07217",
+            "hasVariants": false,
+            "loanAvailable": false,
+            "shopLink": "/p/farsh-boszhan-iz-govjadiny-zamorozhennyi-700-g-101304096/?c=710000000",
+            "unitPrice": 4075,
+            "unitSalePrice": 4075,
+            "priceFormatted": "4 075 ₸",
+            "createdTime": "2021-04-15T04:59:19.571Z",
+            "stickers": [
+              "magnum_offer_available"
+            ],
+            "previewImages": [
+              {
+                "small": "https://resources.cdn-kaspi.kz/img/m/p/p74/p2e/68434105.jpg?format=preview-small",
+                "medium": "https://resources.cdn-kaspi.kz/img/m/p/p74/p2e/68434105.jpg?format=preview-medium",
+                "large": "https://resources.cdn-kaspi.kz/img/m/p/p74/p2e/68434105.jpg?format=preview-large"
+              },
+              {
+                "small": "https://resources.cdn-kaspi.kz/img/m/p/h0c/h53/87023316303902.jpg?format=preview-small",
+                "medium": "https://resources.cdn-kaspi.kz/img/m/p/h0c/h53/87023316303902.jpg?format=preview-medium",
+                "large": "https://resources.cdn-kaspi.kz/img/m/p/h0c/h53/87023316303902.jpg?format=preview-large"
+              },
+              {
+                "small": "https://resources.cdn-kaspi.kz/img/m/p/h61/h87/87023316369438.jpg?format=preview-small",
+                "medium": "https://resources.cdn-kaspi.kz/img/m/p/h61/h87/87023316369438.jpg?format=preview-medium",
+                "large": "https://resources.cdn-kaspi.kz/img/m/p/h61/h87/87023316369438.jpg?format=preview-large"
+              },
+              {
+                "small": "https://resources.cdn-kaspi.kz/img/m/p/h00/h09/87023316434974.jpg?format=preview-small",
+                "medium": "https://resources.cdn-kaspi.kz/img/m/p/h00/h09/87023316434974.jpg?format=preview-medium",
+                "large": "https://resources.cdn-kaspi.kz/img/m/p/h00/h09/87023316434974.jpg?format=preview-large"
+              },
+              {
+                "small": "https://resources.cdn-kaspi.kz/img/m/p/h2e/h95/87023316500510.jpg?format=preview-small",
+                "medium": "https://resources.cdn-kaspi.kz/img/m/p/h2e/h95/87023316500510.jpg?format=preview-medium",
+                "large": "https://resources.cdn-kaspi.kz/img/m/p/h2e/h95/87023316500510.jpg?format=preview-large"
+              }
+            ],
+            "teasers": [],
+            "creditMonthlyPrice": 1359,
+            "monthlyInstallment": {
+              "id": 3,
+              "installment": true,
+              "formattedPerMonth": "1 359 ₸"
+            },
+            "reviewsLink": "/p/farsh-boszhan-iz-govjadiny-zamorozhennyi-700-g-101304096/?c=710000000&tab=reviews",
+            "weight": 0.72,
+            "unit": {
+              "type": "PIECES",
+              "increment": 1,
+              "measurementLiteral": "шт",
+              "countingLiteral": "шт"
+            },
+            "rating": 5,
+            "reviewsQuantity": 1,
+            "stock": 1,
+            "currency": "KZT",
+            "mods": "",
+            "deliveryDuration": "TODAY",
+            "shortNameText": "",
+            "category": [
+              "Продукты питания",
+              "Мясо и птица",
+              "Фарш"
+            ],
+            "categoryRu": [
+              "Продукты питания",
+              "Мясо и птица",
+              "Фарш"
+            ],
+            "categoryCodes": [
+              "Ground meat",
+              "Meat and poultry",
+              "Food",
+              "Categories"
+            ],
+            "groups": [],
+            "promo": [
+              {
+                "code": "magnum 0012",
+                "text": null,
+                "type": "LOAN",
+                "priority": 12,
+                "owner": "KASPI",
+                "bonusType": "",
+                "img": {
+                  "alt": null,
+                  "medium": {
+                    "src": "https://resources.cdn-kaspi.kz/yml/static/assets/badges/l12.svg?v=1",
+                    "width": 40,
+                    "height": 22
+                  },
+                  "large": {
+                    "src": "https://resources.cdn-kaspi.kz/yml/static/assets/badges/l12.svg?v=1",
+                    "width": 55,
+                    "height": 31
+                  },
+                  "small": {
+                    "src": "https://resources.cdn-kaspi.kz/yml/static/assets/badges/l12.svg?v=1",
+                    "width": 40,
+                    "height": 22
+                  }
+                }
+              }
+            ],
+            "majorMerchants": [
+              "Magnum"
+            ],
+            "deliveryZones": [
+              "magnum_f_zone",
+              "Magnum_ZONE3",
+              "Magnum_ZONE5"
+            ]
+          }
+        }
+      ]
+    }
+  },
+  {
+    "category": [
+      "Мясо и птица",
+      "Фарш"
+    ],
+    "brand": "Boszhan",
+    "canonicalName": "brand:boszhan||weight_g:700||name:700 г баранины замороженный из",
+    "params": {
+      "volume": null,
+      "weight": "700 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    },
+    "shops": {
+      "kaspi": [
+        {
+          "id": "101304106",
+          "title": "Фарш Boszhan из баранины замороженный 700 г",
+          "price": 4365,
+          "link": "/p/farsh-boszhan-iz-baraniny-zamorozhennyi-700-g-101304106/?c=710000000",
+          "raw": {
+            "id": "101304106",
+            "configSku": "101304106",
+            "title": "Фарш Boszhan из баранины замороженный 700 г",
+            "brand": "Boszhan",
+            "categoryId": "07217",
+            "hasVariants": false,
+            "loanAvailable": false,
+            "shopLink": "/p/farsh-boszhan-iz-baraniny-zamorozhennyi-700-g-101304106/?c=710000000",
+            "unitPrice": 4365,
+            "unitSalePrice": 4365,
+            "priceFormatted": "4 365 ₸",
+            "createdTime": "2021-04-15T04:59:19.843Z",
+            "stickers": [
+              "magnum_offer_available"
+            ],
+            "previewImages": [
+              {
+                "small": "https://resources.cdn-kaspi.kz/img/m/p/p06/p21/68434143.jpg?format=preview-small",
+                "medium": "https://resources.cdn-kaspi.kz/img/m/p/p06/p21/68434143.jpg?format=preview-medium",
+                "large": "https://resources.cdn-kaspi.kz/img/m/p/p06/p21/68434143.jpg?format=preview-large"
+              },
+              {
+                "small": "https://resources.cdn-kaspi.kz/img/m/p/hb4/h68/64348429713438.jpg?format=preview-small",
+                "medium": "https://resources.cdn-kaspi.kz/img/m/p/hb4/h68/64348429713438.jpg?format=preview-medium",
+                "large": "https://resources.cdn-kaspi.kz/img/m/p/hb4/h68/64348429713438.jpg?format=preview-large"
+              }
+            ],
+            "teasers": [],
+            "creditMonthlyPrice": 1455,
+            "monthlyInstallment": {
+              "id": 3,
+              "installment": true,
+              "formattedPerMonth": "1 455 ₸"
+            },
+            "reviewsLink": "/p/farsh-boszhan-iz-baraniny-zamorozhennyi-700-g-101304106/?c=710000000&tab=reviews",
+            "weight": 0.72,
+            "unit": {
+              "type": "PIECES",
+              "increment": 1,
+              "measurementLiteral": "шт",
+              "countingLiteral": "шт"
+            },
+            "rating": 0,
+            "reviewsQuantity": 0,
+            "stock": 1,
+            "currency": "KZT",
+            "mods": "",
+            "deliveryDuration": "TODAY",
+            "shortNameText": "",
+            "category": [
+              "Продукты питания",
+              "Мясо и птица",
+              "Фарш"
+            ],
+            "categoryRu": [
+              "Продукты питания",
+              "Мясо и птица",
+              "Фарш"
+            ],
+            "categoryCodes": [
+              "Ground meat",
+              "Meat and poultry",
+              "Food",
+              "Categories"
+            ],
+            "groups": [],
+            "promo": [
+              {
+                "code": "magnum 0012",
+                "text": null,
+                "type": "LOAN",
+                "priority": 12,
+                "owner": "KASPI",
+                "bonusType": "",
+                "img": {
+                  "alt": null,
+                  "medium": {
+                    "src": "https://resources.cdn-kaspi.kz/yml/static/assets/badges/l12.svg?v=1",
+                    "width": 40,
+                    "height": 22
+                  },
+                  "large": {
+                    "src": "https://resources.cdn-kaspi.kz/yml/static/assets/badges/l12.svg?v=1",
+                    "width": 55,
+                    "height": 31
+                  },
+                  "small": {
+                    "src": "https://resources.cdn-kaspi.kz/yml/static/assets/badges/l12.svg?v=1",
+                    "width": 40,
+                    "height": 22
+                  }
+                }
+              }
+            ],
+            "majorMerchants": [
+              "Magnum"
+            ],
+            "deliveryZones": [
+              "magnum_f_zone",
+              "Magnum_ZONE3",
+              "Magnum_ZONE5"
+            ]
+          }
+        }
+      ]
+    }
+  },
+  {
+    "category": [
+      "Мясо и птица",
+      "Фарш"
+    ],
+    "brand": "ADAL FOOD",
+    "canonicalName": "brand:adal food||weight_g:500||name:500 г замороженный куриный постный",
+    "params": {
+      "volume": null,
+      "weight": "500 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    },
+    "shops": {
+      "kaspi": [
+        {
+          "id": "144964557",
+          "title": "Фарш ADAL FOOD куриный постный замороженный 500 г",
+          "price": 2059,
+          "link": "/p/farsh-adal-food-kurinyi-postnyi-zamorozhennyi-500-g-144964557/?c=710000000",
+          "raw": {
+            "id": "144964557",
+            "configSku": "144964557",
+            "title": "Фарш ADAL FOOD куриный постный замороженный 500 г",
+            "brand": "ADAL FOOD",
+            "categoryId": "07217",
+            "hasVariants": false,
+            "loanAvailable": false,
+            "shopLink": "/p/farsh-adal-food-kurinyi-postnyi-zamorozhennyi-500-g-144964557/?c=710000000",
+            "unitPrice": 2059,
+            "unitSalePrice": 2059,
+            "priceFormatted": "2 059 ₸",
+            "createdTime": "2025-08-29T10:16:35.785Z",
+            "stickers": [
+              "magnum_offer_available"
+            ],
+            "previewImages": [
+              {
+                "small": "https://resources.cdn-kaspi.kz/img/m/p/p22/pd7/61888714.jpg?format=preview-small",
+                "medium": "https://resources.cdn-kaspi.kz/img/m/p/p22/pd7/61888714.jpg?format=preview-medium",
+                "large": "https://resources.cdn-kaspi.kz/img/m/p/p22/pd7/61888714.jpg?format=preview-large"
+              },
+              {
+                "small": "https://resources.cdn-kaspi.kz/img/m/p/p5b/pd7/61888716.jpg?format=preview-small",
+                "medium": "https://resources.cdn-kaspi.kz/img/m/p/p5b/pd7/61888716.jpg?format=preview-medium",
+                "large": "https://resources.cdn-kaspi.kz/img/m/p/p5b/pd7/61888716.jpg?format=preview-large"
+              },
+              {
+                "small": "https://resources.cdn-kaspi.kz/img/m/p/p93/pd7/61888718.jpg?format=preview-small",
+                "medium": "https://resources.cdn-kaspi.kz/img/m/p/p93/pd7/61888718.jpg?format=preview-medium",
+                "large": "https://resources.cdn-kaspi.kz/img/m/p/p93/pd7/61888718.jpg?format=preview-large"
+              }
+            ],
+            "teasers": [],
+            "creditMonthlyPrice": 687,
+            "monthlyInstallment": {
+              "id": 3,
+              "installment": true,
+              "formattedPerMonth": "687 ₸"
+            },
+            "reviewsLink": "/p/farsh-adal-food-kurinyi-postnyi-zamorozhennyi-500-g-144964557/?c=710000000&tab=reviews",
+            "weight": 0,
+            "unit": {
+              "type": "PIECES",
+              "increment": 1,
+              "measurementLiteral": "шт",
+              "countingLiteral": "шт"
+            },
+            "rating": 5,
+            "reviewsQuantity": 1,
+            "stock": 1,
+            "currency": "KZT",
+            "mods": "",
+            "deliveryDuration": "TODAY",
+            "category": [
+              "Продукты питания",
+              "Мясо и птица",
+              "Фарш"
+            ],
+            "categoryRu": [
+              "Продукты питания",
+              "Мясо и птица",
+              "Фарш"
+            ],
+            "categoryCodes": [
+              "Ground meat",
+              "Meat and poultry",
+              "Food",
+              "Categories"
+            ],
+            "groups": [],
+            "promo": [
+              {
+                "code": "magnum 0012",
+                "text": null,
+                "type": "LOAN",
+                "priority": 12,
+                "owner": "KASPI",
+                "bonusType": "",
+                "img": {
+                  "alt": null,
+                  "medium": {
+                    "src": "https://resources.cdn-kaspi.kz/yml/static/assets/badges/l12.svg?v=1",
+                    "width": 40,
+                    "height": 22
+                  },
+                  "large": {
+                    "src": "https://resources.cdn-kaspi.kz/yml/static/assets/badges/l12.svg?v=1",
+                    "width": 55,
+                    "height": 31
+                  },
+                  "small": {
+                    "src": "https://resources.cdn-kaspi.kz/yml/static/assets/badges/l12.svg?v=1",
+                    "width": 40,
+                    "height": 22
+                  }
+                }
+              }
+            ],
+            "majorMerchants": [
+              "Magnum"
+            ],
+            "deliveryZones": [
+              "magnum_f_zone",
+              "Magnum_ZONE3",
+              "Magnum_ZONE5"
+            ]
+          }
+        }
+      ]
+    }
+  },
+  {
+    "category": [
+      "Мясо и птица",
+      "Фарш"
+    ],
+    "brand": null,
+    "canonicalName": "weight_g:1000||name:1 кг boszhan говяжий домашний",
+    "params": {
+      "volume": null,
+      "weight": "1 кг",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    },
+    "shops": {
+      "wolt": [
+        {
+          "id": "d9663b00c3b241efa870a4d9",
+          "title": "Фарш Говяжий Домашний Boszhan, 1 Кг",
+          "price": 384000,
+          "link": null,
+          "raw": {
+            "id": "d9663b00c3b241efa870a4d9",
+            "advertising_info": null,
+            "alcohol_permille": 0,
+            "allowed_delivery_methods": [
+              "homedelivery",
+              "takeaway",
+              "eatin"
+            ],
+            "available_times": [
+              {
+                "days": [
+                  1,
+                  2,
+                  3,
+                  4,
+                  5,
+                  6,
+                  7
+                ],
+                "start_time": 0,
+                "end_time": 86400000
+              }
+            ],
+            "barcode_gtin": "04870206557723",
+            "caffeine_info": null,
+            "can_be_promoted": {
+              "basket": true,
+              "venue": true,
+              "credits": true
+            },
+            "checksum": "1cb941059ae66dfd40c213f4827bfcf8",
+            "description": "80/20 (мяясо/жир), подходит к таким блюдам, как котлеты,пельмени (сочный)",
+            "deposit": null,
+            "dietary_preferences": [],
+            "disabled_info": null,
+            "fulfillment_lead_time": null,
+            "has_extra_info": true,
+            "images": [
+              {
+                "url": "https://imageproxy.wolt.com/assets/688b9ab7b2b18bf1da535e2b",
+                "blurhash": "LdS6JTj[_Nj@t7j[RjWBt8fPRij["
+              }
+            ],
+            "is_cutlery": false,
+            "is_no_contact_delivery_allowed": true,
+            "is_wolt_plus_only": false,
+            "lowest_price": null,
+            "lowest_price_v2": null,
+            "max_quantity_per_purchase": null,
+            "min_quantity_per_purchase": null,
+            "name": "Фарш Говяжий Домашний Boszhan, 1 Кг",
+            "options": [],
+            "original_price": null,
+            "item_price_discount_validity_period": null,
+            "price": 384000,
+            "product_hierarchy_tags": [
+              "UNKNOWN"
+            ],
+            "purchasable_balance": 3,
+            "restrictions": [],
+            "return_policy": null,
+            "sell_by_weight_config": null,
+            "should_display_purchasable_balance": true,
+            "tags": [],
+            "unit_info": "1 кг",
+            "unit_price": {
+              "base": 1,
+              "original_price": null,
+              "price": 384000,
+              "unit": "kilogram"
+            },
+            "variant": null,
+            "vat_category_code": null,
+            "vat_percentage": 12,
+            "vat_percentage_decimal": "12.0",
+            "external_compliance_link": null,
+            "consent_info": {
+              "ask_consent": false,
+              "blur_image": false
+            },
+            "categories": [
+              "Мясо и птица",
+              "Фарш"
+            ]
+          }
+        }
+      ]
+    }
+  },
+  {
+    "category": [
+      "Мясо и птица",
+      "Фарш"
+    ],
+    "brand": null,
+    "canonicalName": "weight_g:1000||name:1 кг 80/20 kazbeef говядины заморож из мраморной",
+    "params": {
+      "volume": null,
+      "weight": "1 кг",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    },
+    "shops": {
+      "wolt": [
+        {
+          "id": "af9e52efdb7f7b1e92078d59",
+          "title": "Kazbeef Фарш Из Мраморной Говядины 80/20 Заморож 1 Кг",
+          "price": 562000,
+          "link": null,
+          "raw": {
+            "id": "af9e52efdb7f7b1e92078d59",
+            "advertising_info": null,
+            "alcohol_permille": 0,
+            "allowed_delivery_methods": [
+              "homedelivery",
+              "takeaway",
+              "eatin"
+            ],
+            "available_times": [
+              {
+                "days": [
+                  1,
+                  2,
+                  3,
+                  4,
+                  5,
+                  6,
+                  7
+                ],
+                "start_time": 0,
+                "end_time": 86400000
+              }
+            ],
+            "barcode_gtin": "04870239990115",
+            "caffeine_info": null,
+            "can_be_promoted": {
+              "basket": true,
+              "venue": true,
+              "credits": true
+            },
+            "checksum": "d6647c7d9fd004e656cb2a37a2389dc0",
+            "description": "Идеальное решеиие для приготовлениярвзноообразныхмясных блюд. Сочный и ароматный фарш удобен в хранении и сохраняет свежесть и качество мяса багодаря вакуумной упковке. Используете его для приготовления котлет, бургеров, мясных соусов.",
+            "deposit": null,
+            "dietary_preferences": [],
+            "disabled_info": null,
+            "fulfillment_lead_time": null,
+            "has_extra_info": true,
+            "images": [
+              {
+                "url": "https://imageproxy.wolt.com/assets/6888c4b4a3eb62eeb956c7c2",
+                "blurhash": "LcR{iOWV?^s:ofofaeV@?voLD$Wo"
+              }
+            ],
+            "is_cutlery": false,
+            "is_no_contact_delivery_allowed": true,
+            "is_wolt_plus_only": false,
+            "lowest_price": null,
+            "lowest_price_v2": null,
+            "max_quantity_per_purchase": null,
+            "min_quantity_per_purchase": null,
+            "name": "Kazbeef Фарш Из Мраморной Говядины 80/20 Заморож 1 Кг",
+            "options": [],
+            "original_price": null,
+            "item_price_discount_validity_period": null,
+            "price": 562000,
+            "product_hierarchy_tags": [
+              "UNKNOWN"
+            ],
+            "purchasable_balance": 8,
+            "restrictions": [],
+            "return_policy": null,
+            "sell_by_weight_config": null,
+            "should_display_purchasable_balance": false,
+            "tags": [],
+            "unit_info": "1 кг",
+            "unit_price": {
+              "base": 1,
+              "original_price": null,
+              "price": 562000,
+              "unit": "kilogram"
+            },
+            "variant": null,
+            "vat_category_code": null,
+            "vat_percentage": 12,
+            "vat_percentage_decimal": "12.0",
+            "external_compliance_link": null,
+            "consent_info": {
+              "ask_consent": false,
+              "blur_image": false
+            },
+            "categories": [
+              "Мясо и птица",
+              "Фарш"
+            ]
+          }
+        }
+      ]
+    }
+  },
+  {
+    "category": [
+      "Мясо и птица",
+      "Фарш"
+    ],
+    "brand": null,
+    "canonicalName": "weight_g:1000||name:1 кг 70/30 kazbeef говядины заморож из мраморной",
+    "params": {
+      "volume": null,
+      "weight": "1 кг",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    },
+    "shops": {
+      "wolt": [
+        {
+          "id": "2262e7f60db4f91b8a6182af",
+          "title": "Kazbeef Фарш Из Мраморной Говядины 70/30 Заморож 1 Кг",
+          "price": 537000,
+          "link": null,
+          "raw": {
+            "id": "2262e7f60db4f91b8a6182af",
+            "advertising_info": null,
+            "alcohol_permille": 0,
+            "allowed_delivery_methods": [
+              "homedelivery",
+              "takeaway",
+              "eatin"
+            ],
+            "available_times": [
+              {
+                "days": [
+                  1,
+                  2,
+                  3,
+                  4,
+                  5,
+                  6,
+                  7
+                ],
+                "start_time": 0,
+                "end_time": 86400000
+              }
+            ],
+            "barcode_gtin": "04870239990122",
+            "caffeine_info": null,
+            "can_be_promoted": {
+              "basket": true,
+              "venue": true,
+              "credits": true
+            },
+            "checksum": "839a6c49e22da6dc81b5f69f1f3c2c6c",
+            "description": "высококачественное мясное сырье соптимальным соотношением мяса и жира.Удобно упакованный в вакууме,этот фарш готов к использованию в любое время.Он идеально подходит  для создания разнообразных блюд,от котлет и фрикаделек до мясных соусов и фаршированных блюд.",
+            "deposit": null,
+            "dietary_preferences": [],
+            "disabled_info": null,
+            "fulfillment_lead_time": null,
+            "has_extra_info": true,
+            "images": [
+              {
+                "url": "https://imageproxy.wolt.com/assets/688b9ca023fa16f725afb1d1",
+                "blurhash": "LZR:7[WV_Nt7t7ofWBRj?vj[DiW;"
+              }
+            ],
+            "is_cutlery": false,
+            "is_no_contact_delivery_allowed": true,
+            "is_wolt_plus_only": false,
+            "lowest_price": null,
+            "lowest_price_v2": null,
+            "max_quantity_per_purchase": null,
+            "min_quantity_per_purchase": null,
+            "name": "Kazbeef Фарш Из Мраморной Говядины 70/30 Заморож 1 Кг",
+            "options": [],
+            "original_price": null,
+            "item_price_discount_validity_period": null,
+            "price": 537000,
+            "product_hierarchy_tags": [
+              "UNKNOWN"
+            ],
+            "purchasable_balance": 7,
+            "restrictions": [],
+            "return_policy": null,
+            "sell_by_weight_config": null,
+            "should_display_purchasable_balance": true,
+            "tags": [],
+            "unit_info": "1 кг",
+            "unit_price": {
+              "base": 1,
+              "original_price": null,
+              "price": 537000,
+              "unit": "kilogram"
+            },
+            "variant": null,
+            "vat_category_code": null,
+            "vat_percentage": 12,
+            "vat_percentage_decimal": "12.0",
+            "external_compliance_link": null,
+            "consent_info": {
+              "ask_consent": false,
+              "blur_image": false
+            },
+            "categories": [
+              "Мясо и птица",
+              "Фарш"
+            ]
+          }
+        }
+      ]
+    }
+  },
+  {
+    "category": [
+      "Мясо и птица",
+      "Фарш"
+    ],
+    "brand": null,
+    "canonicalName": "weight_g:700||name:70/30 700 г kazbeef говядины из мраморной охл",
+    "params": {
+      "volume": null,
+      "weight": "700 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    },
+    "shops": {
+      "wolt": [
+        {
+          "id": "f28be678c9aa3c9f018abe47",
+          "title": "Kazbeef Фарш Из Мраморной Говядины 70/30  Охл 700 Г",
+          "price": 423000,
+          "link": null,
+          "raw": {
+            "id": "f28be678c9aa3c9f018abe47",
+            "advertising_info": null,
+            "alcohol_permille": 0,
+            "allowed_delivery_methods": [
+              "homedelivery",
+              "takeaway",
+              "eatin"
+            ],
+            "available_times": [
+              {
+                "days": [
+                  1,
+                  2,
+                  3,
+                  4,
+                  5,
+                  6,
+                  7
+                ],
+                "start_time": 0,
+                "end_time": 86400000
+              }
+            ],
+            "barcode_gtin": "04870239990061",
+            "caffeine_info": null,
+            "can_be_promoted": {
+              "basket": true,
+              "venue": true,
+              "credits": true
+            },
+            "checksum": "7219e8a2f38e2b8f0ef7468d5cbeeba2",
+            "description": "Высококачественное мясное сырье с\nидеальным соотношением мяса и жира:\n70% мяса и 30% жира. Упакованный в\nмодифицированной газовой среде для\nувеличения срока годности, этот фарш\nсохраняет свежесть и вкус продукта\nдлительное время. Благодаря удобной\nупаковке и продленному сроку годности,\nвы можете наслаждаться свежим и\nвкусным мясом в любое время.",
+            "deposit": null,
+            "dietary_preferences": [],
+            "disabled_info": null,
+            "fulfillment_lead_time": null,
+            "has_extra_info": true,
+            "images": [
+              {
+                "url": "https://imageproxy.wolt.com/assets/688b9ca023fa16f725afb1eb",
+                "blurhash": "L,P6p$ay_NaeV@aeozkC%gjZRObb"
+              }
+            ],
+            "is_cutlery": false,
+            "is_no_contact_delivery_allowed": true,
+            "is_wolt_plus_only": false,
+            "lowest_price": null,
+            "lowest_price_v2": null,
+            "max_quantity_per_purchase": null,
+            "min_quantity_per_purchase": null,
+            "name": "Kazbeef Фарш Из Мраморной Говядины 70/30  Охл 700 Г",
+            "options": [],
+            "original_price": null,
+            "item_price_discount_validity_period": null,
+            "price": 423000,
+            "product_hierarchy_tags": [
+              "PERISHABLE"
+            ],
+            "purchasable_balance": 8,
+            "restrictions": [],
+            "return_policy": null,
+            "sell_by_weight_config": null,
+            "should_display_purchasable_balance": false,
+            "tags": [],
+            "unit_info": "700 г",
+            "unit_price": {
+              "base": 1,
+              "original_price": null,
+              "price": 604286,
+              "unit": "kilogram"
+            },
+            "variant": null,
+            "vat_category_code": null,
+            "vat_percentage": 12,
+            "vat_percentage_decimal": "12.0",
+            "external_compliance_link": null,
+            "consent_info": {
+              "ask_consent": false,
+              "blur_image": false
+            },
+            "categories": [
+              "Мясо и птица",
+              "Фарш"
+            ]
+          }
+        }
+      ]
+    }
+  }
+]

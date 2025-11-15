@@ -1,0 +1,4240 @@
+[
+  {
+    "original": "Коньяк BACCHUS Асанали 5 звезд 40% 0.5 л",
+    "cleanTokens": [
+      "асанали"
+    ],
+    "normalizedTokens": [
+      "асанали",
+      "5 звезд",
+      "40%",
+      "0.5 л"
+    ],
+    "params": {
+      "volume": "0.5 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "40%",
+      "age": null,
+      "stars": "5 звезд"
+    }
+  },
+  {
+    "original": "Коньяк BACCHUS 3 звезды 40% 0.5 л",
+    "cleanTokens": [],
+    "normalizedTokens": [
+      "3 звезды",
+      "40%",
+      "0.5 л"
+    ],
+    "params": {
+      "volume": "0.5 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "40%",
+      "age": null,
+      "stars": "3 звезды"
+    }
+  },
+  {
+    "original": "Коньяк Grand Yerevan Армянский 5 звезд 40% 0.5 л",
+    "cleanTokens": [
+      "армянский"
+    ],
+    "normalizedTokens": [
+      "армянский",
+      "5 звезд",
+      "40%",
+      "0.5 л"
+    ],
+    "params": {
+      "volume": "0.5 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "40%",
+      "age": null,
+      "stars": "5 звезд"
+    }
+  },
+  {
+    "original": "Коньяк Sarajishvili 5 звезд 40% 0.5 л",
+    "cleanTokens": [],
+    "normalizedTokens": [
+      "5 звезд",
+      "40%",
+      "0.5 л"
+    ],
+    "params": {
+      "volume": "0.5 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "40%",
+      "age": null,
+      "stars": "5 звезд"
+    }
+  },
+  {
+    "original": "Коньяк Wine Master 3 звезды 40% 0.5 л",
+    "cleanTokens": [],
+    "normalizedTokens": [
+      "3 звезды",
+      "40%",
+      "0.5 л"
+    ],
+    "params": {
+      "volume": "0.5 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "40%",
+      "age": null,
+      "stars": "3 звезды"
+    }
+  },
+  {
+    "original": "Коньяк Грузинский 3 звезды 40% 0.5 л",
+    "cleanTokens": [],
+    "normalizedTokens": [
+      "3 звезды",
+      "40%",
+      "0.5 л"
+    ],
+    "params": {
+      "volume": "0.5 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "40%",
+      "age": null,
+      "stars": "3 звезды"
+    }
+  },
+  {
+    "original": "Коньяк Wine Master Казахстанский Vs 40% 0.5 л",
+    "cleanTokens": [
+      "казахстанский",
+      "vs"
+    ],
+    "normalizedTokens": [
+      "казахстанский",
+      "vs",
+      "40%",
+      "0.5 л"
+    ],
+    "params": {
+      "volume": "0.5 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "40%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Коньяк Арарат 5 лет 5 звезд 40% 0.7 л",
+    "cleanTokens": [],
+    "normalizedTokens": [
+      "5 лет",
+      "5 звезд",
+      "40%",
+      "0.7 л"
+    ],
+    "params": {
+      "volume": "0.7 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "40%",
+      "age": "5 лет",
+      "stars": "5 звезд"
+    }
+  },
+  {
+    "original": "Коньяк BACCHUS 5 звезд 40% 0.5 л",
+    "cleanTokens": [],
+    "normalizedTokens": [
+      "5 звезд",
+      "40%",
+      "0.5 л"
+    ],
+    "params": {
+      "volume": "0.5 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "40%",
+      "age": null,
+      "stars": "5 звезд"
+    }
+  },
+  {
+    "original": "Коньяк Арарат 3 звезды 40% 700 мл",
+    "cleanTokens": [],
+    "normalizedTokens": [
+      "3 звезды",
+      "40%",
+      "700 мл"
+    ],
+    "params": {
+      "volume": "700 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "40%",
+      "age": null,
+      "stars": "3 звезды"
+    }
+  },
+  {
+    "original": "Коньяк BACCHUS 3 звезды 40% 0.5 л",
+    "cleanTokens": [],
+    "normalizedTokens": [
+      "3 звезды",
+      "40%",
+      "0.5 л"
+    ],
+    "params": {
+      "volume": "0.5 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "40%",
+      "age": null,
+      "stars": "3 звезды"
+    }
+  },
+  {
+    "original": "Коньяк Ararat Apricot extra 30% 0.5 л",
+    "cleanTokens": [
+      "apricot",
+      "extra"
+    ],
+    "normalizedTokens": [
+      "apricot",
+      "extra",
+      "30%",
+      "0.5 л"
+    ],
+    "params": {
+      "volume": "0.5 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "30%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Коньяк Арарат 3 звезды 40% 0.5 л",
+    "cleanTokens": [],
+    "normalizedTokens": [
+      "3 звезды",
+      "40%",
+      "0.5 л"
+    ],
+    "params": {
+      "volume": "0.5 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "40%",
+      "age": null,
+      "stars": "3 звезды"
+    }
+  },
+  {
+    "original": "Коньяк Global Wine Almaty 5 звезд 40% 0.5 л",
+    "cleanTokens": [
+      "almaty"
+    ],
+    "normalizedTokens": [
+      "almaty",
+      "5 звезд",
+      "40%",
+      "0.5 л"
+    ],
+    "params": {
+      "volume": "0.5 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "40%",
+      "age": null,
+      "stars": "5 звезд"
+    }
+  },
+  {
+    "original": "Коньяк BACCHUS Export 3 звезды 40% 0.5 л",
+    "cleanTokens": [
+      "export"
+    ],
+    "normalizedTokens": [
+      "export",
+      "3 звезды",
+      "40%",
+      "0.5 л"
+    ],
+    "params": {
+      "volume": "0.5 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "40%",
+      "age": null,
+      "stars": "3 звезды"
+    }
+  },
+  {
+    "original": "Коньяк BACCHUS 3 звезды 40% 0.7 л",
+    "cleanTokens": [],
+    "normalizedTokens": [
+      "3 звезды",
+      "40%",
+      "0.7 л"
+    ],
+    "params": {
+      "volume": "0.7 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "40%",
+      "age": null,
+      "stars": "3 звезды"
+    }
+  },
+  {
+    "original": "Коньяк Арарат АНИ 7 звезд 40% 0.5 л",
+    "cleanTokens": [
+      "ани"
+    ],
+    "normalizedTokens": [
+      "ани",
+      "7 звезд",
+      "40%",
+      "0.5 л"
+    ],
+    "params": {
+      "volume": "0.5 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "40%",
+      "age": null,
+      "stars": "7 звезд"
+    }
+  },
+  {
+    "original": "Коньяк Арарат reserve 30% 0.5 л",
+    "cleanTokens": [
+      "reserve"
+    ],
+    "normalizedTokens": [
+      "reserve",
+      "30%",
+      "0.5 л"
+    ],
+    "params": {
+      "volume": "0.5 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "30%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Коньяк BACCHUS Vintage France tres 40% 0.5 л",
+    "cleanTokens": [
+      "vintage",
+      "france",
+      "tres"
+    ],
+    "normalizedTokens": [
+      "vintage",
+      "france",
+      "tres",
+      "40%",
+      "0.5 л"
+    ],
+    "params": {
+      "volume": "0.5 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "40%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Коньяк Martell VS Single Distillery 40% 0.7 л",
+    "cleanTokens": [
+      "vs",
+      "single",
+      "distillery"
+    ],
+    "normalizedTokens": [
+      "vs",
+      "single",
+      "distillery",
+      "40%",
+      "0.7 л"
+    ],
+    "params": {
+      "volume": "0.7 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "40%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Коньяк Арарат Ахтамар 10 лет Xo 40% 0.5 л",
+    "cleanTokens": [
+      "ахтамар",
+      "xo"
+    ],
+    "normalizedTokens": [
+      "ахтамар",
+      "10 лет",
+      "xo",
+      "40%",
+      "0.5 л"
+    ],
+    "params": {
+      "volume": "0.5 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "40%",
+      "age": "10 лет",
+      "stars": null
+    }
+  },
+  {
+    "original": "Коньяк Украины марочный выдержанный Чайка в сувенирной упаковке 40% 0.5 л",
+    "cleanTokens": [
+      "украины",
+      "марочный",
+      "выдержанный",
+      "чайка",
+      "в",
+      "сувенирной",
+      "упаковке"
+    ],
+    "normalizedTokens": [
+      "украины",
+      "марочный",
+      "выдержанный",
+      "чайка",
+      "в",
+      "сувенирной",
+      "упаковке",
+      "40%",
+      "0.5 л"
+    ],
+    "params": {
+      "volume": "0.5 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "40%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Коньяк Ararat Cherry reserve 30% 0.5 л",
+    "cleanTokens": [
+      "cherry",
+      "reserve"
+    ],
+    "normalizedTokens": [
+      "cherry",
+      "reserve",
+      "30%",
+      "0.5 л"
+    ],
+    "params": {
+      "volume": "0.5 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "30%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Коньяк Арарат Ахтамар 10 лет reserve 40% 0.7 л",
+    "cleanTokens": [
+      "ахтамар",
+      "reserve"
+    ],
+    "normalizedTokens": [
+      "ахтамар",
+      "10 лет",
+      "reserve",
+      "40%",
+      "0.7 л"
+    ],
+    "params": {
+      "volume": "0.7 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "40%",
+      "age": "10 лет",
+      "stars": null
+    }
+  },
+  {
+    "original": "Коньяк трехлетний Старая Армения 40% 0.5 л",
+    "cleanTokens": [
+      "трехлетний"
+    ],
+    "normalizedTokens": [
+      "трехлетний",
+      "40%",
+      "0.5 л"
+    ],
+    "params": {
+      "volume": "0.5 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "40%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Бренди JP. CHENET Xo 38% 0.5 л",
+    "cleanTokens": [
+      "xo"
+    ],
+    "normalizedTokens": [
+      "xo",
+      "38%",
+      "0.5 л"
+    ],
+    "params": {
+      "volume": "0.5 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "38%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Коньяк Hennessy Vs 40% 0.7 л",
+    "cleanTokens": [
+      "vs"
+    ],
+    "normalizedTokens": [
+      "vs",
+      "40%",
+      "0.7 л"
+    ],
+    "params": {
+      "volume": "0.7 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "40%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Коньяк Украины марочный выдержанный Чайка 40% 0.5 л",
+    "cleanTokens": [
+      "украины",
+      "марочный",
+      "выдержанный",
+      "чайка"
+    ],
+    "normalizedTokens": [
+      "украины",
+      "марочный",
+      "выдержанный",
+      "чайка",
+      "40%",
+      "0.5 л"
+    ],
+    "params": {
+      "volume": "0.5 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "40%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Коньяк Арарат Aни reserve 40% 0.7 л",
+    "cleanTokens": [
+      "aни",
+      "reserve"
+    ],
+    "normalizedTokens": [
+      "aни",
+      "reserve",
+      "40%",
+      "0.7 л"
+    ],
+    "params": {
+      "volume": "0.7 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "40%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Коньяк Silk Alley Vsop 40% 0.5 л",
+    "cleanTokens": [
+      "vsop"
+    ],
+    "normalizedTokens": [
+      "vsop",
+      "40%",
+      "0.5 л"
+    ],
+    "params": {
+      "volume": "0.5 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "40%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Коньяк BACCHUS 3 звезды 40% 0.375 л",
+    "cleanTokens": [],
+    "normalizedTokens": [
+      "3 звезды",
+      "40%",
+      "0.375 л"
+    ],
+    "params": {
+      "volume": "0.375 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "40%",
+      "age": null,
+      "stars": "3 звезды"
+    }
+  },
+  {
+    "original": "Коньяк Martell Vs 40% 0.05 л",
+    "cleanTokens": [
+      "vs"
+    ],
+    "normalizedTokens": [
+      "vs",
+      "40%",
+      "0.05 л"
+    ],
+    "params": {
+      "volume": "0.05 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "40%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Коньяк Украины марочный выдержанный Аркадия в сувенирной упаковке 40% 0.5 л",
+    "cleanTokens": [
+      "украины",
+      "марочный",
+      "выдержанный",
+      "аркадия",
+      "в",
+      "сувенирной",
+      "упаковке"
+    ],
+    "normalizedTokens": [
+      "украины",
+      "марочный",
+      "выдержанный",
+      "аркадия",
+      "в",
+      "сувенирной",
+      "упаковке",
+      "40%",
+      "0.5 л"
+    ],
+    "params": {
+      "volume": "0.5 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "40%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Коньяк Hennessy Vs 40% 1 л",
+    "cleanTokens": [
+      "vs"
+    ],
+    "normalizedTokens": [
+      "vs",
+      "40%",
+      "1 л"
+    ],
+    "params": {
+      "volume": "1 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "40%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Коньяк Kahaрман Xo 40% 0.7 л",
+    "cleanTokens": [
+      "xo"
+    ],
+    "normalizedTokens": [
+      "xo",
+      "40%",
+      "0.7 л"
+    ],
+    "params": {
+      "volume": "0.7 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "40%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Бренди Napoleon Vsop 36% 1 л",
+    "cleanTokens": [
+      "vsop"
+    ],
+    "normalizedTokens": [
+      "vsop",
+      "36%",
+      "1 л"
+    ],
+    "params": {
+      "volume": "1 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "36%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Коньяк Hennessy Vs 40 % 0.35 л",
+    "cleanTokens": [
+      "vs",
+      "40",
+      "%"
+    ],
+    "normalizedTokens": [
+      "vs",
+      "40",
+      "%",
+      "0.35 л"
+    ],
+    "params": {
+      "volume": "0.35 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Коньяк Арарат 5 звезд 40% 0.05 л",
+    "cleanTokens": [],
+    "normalizedTokens": [
+      "5 звезд",
+      "40%",
+      "0.05 л"
+    ],
+    "params": {
+      "volume": "0.05 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "40%",
+      "age": null,
+      "stars": "5 звезд"
+    }
+  },
+  {
+    "original": "Коньяк Silk Alley Vs 40% 0.5 л",
+    "cleanTokens": [
+      "vs"
+    ],
+    "normalizedTokens": [
+      "vs",
+      "40%",
+      "0.5 л"
+    ],
+    "params": {
+      "volume": "0.5 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "40%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Коньяк BACCHUS 1948 reserve 40% 0.5 л",
+    "cleanTokens": [
+      "1948",
+      "reserve"
+    ],
+    "normalizedTokens": [
+      "1948",
+      "reserve",
+      "40%",
+      "0.5 л"
+    ],
+    "params": {
+      "volume": "0.5 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "40%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Коньяк Hennessy Vs 3 YO 40% 0.5 л",
+    "cleanTokens": [
+      "vs"
+    ],
+    "normalizedTokens": [
+      "vs",
+      "3 YO",
+      "40%",
+      "0.5 л"
+    ],
+    "params": {
+      "volume": "0.5 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "40%",
+      "age": "3 YO",
+      "stars": null
+    }
+  },
+  {
+    "original": "Коньяк Remy Martin Vsop 40% 1 л",
+    "cleanTokens": [
+      "vsop"
+    ],
+    "normalizedTokens": [
+      "vsop",
+      "40%",
+      "1 л"
+    ],
+    "params": {
+      "volume": "1 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "40%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Коньяк Courvoisier Vs 40% 700 мл",
+    "cleanTokens": [
+      "vs"
+    ],
+    "normalizedTokens": [
+      "vs",
+      "40%",
+      "700 мл"
+    ],
+    "params": {
+      "volume": "700 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "40%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Коньяк BACCHUS Батыр КВВК Xo 40% 0.75 л",
+    "cleanTokens": [
+      "батыр",
+      "кввк",
+      "xo"
+    ],
+    "normalizedTokens": [
+      "батыр",
+      "кввк",
+      "xo",
+      "40%",
+      "0.75 л"
+    ],
+    "params": {
+      "volume": "0.75 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "40%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Коньяк Castarede Vs 40% 0.7 л",
+    "cleanTokens": [
+      "vs"
+    ],
+    "normalizedTokens": [
+      "vs",
+      "40%",
+      "0.7 л"
+    ],
+    "params": {
+      "volume": "0.7 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "40%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Коньяк Легенда Армении 5 звезд 40% 0.5 л",
+    "cleanTokens": [],
+    "normalizedTokens": [
+      "5 звезд",
+      "40%",
+      "0.5 л"
+    ],
+    "params": {
+      "volume": "0.5 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "40%",
+      "age": null,
+      "stars": "5 звезд"
+    }
+  },
+  {
+    "original": "Коньяк BACCHUS Казахстанский Vs 40% 0.375 л",
+    "cleanTokens": [
+      "казахстанский",
+      "vs"
+    ],
+    "normalizedTokens": [
+      "казахстанский",
+      "vs",
+      "40%",
+      "0.375 л"
+    ],
+    "params": {
+      "volume": "0.375 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "40%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Коньяк Hennessy Vs 40% 0.5 л",
+    "cleanTokens": [
+      "vs"
+    ],
+    "normalizedTokens": [
+      "vs",
+      "40%",
+      "0.5 л"
+    ],
+    "params": {
+      "volume": "0.5 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "40%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Коньяк BACCHUS Vintage Moldova 3 звезды 40% 0.5 л",
+    "cleanTokens": [
+      "vintage",
+      "moldova"
+    ],
+    "normalizedTokens": [
+      "vintage",
+      "moldova",
+      "3 звезды",
+      "40%",
+      "0.5 л"
+    ],
+    "params": {
+      "volume": "0.5 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "40%",
+      "age": null,
+      "stars": "3 звезды"
+    }
+  },
+  {
+    "original": "Коньяк Torres 10 YO Xo 38% 0.7 л",
+    "cleanTokens": [
+      "xo"
+    ],
+    "normalizedTokens": [
+      "10 YO",
+      "xo",
+      "38%",
+      "0.7 л"
+    ],
+    "params": {
+      "volume": "0.7 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "38%",
+      "age": "10 YO",
+      "stars": null
+    }
+  },
+  {
+    "original": "Коньяк LHERAUD Vsop 40% 0.7 л",
+    "cleanTokens": [
+      "vsop"
+    ],
+    "normalizedTokens": [
+      "vsop",
+      "40%",
+      "0.7 л"
+    ],
+    "params": {
+      "volume": "0.7 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "40%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Коньяк Hennessy Very Special Vs 40% 0.5 л",
+    "cleanTokens": [
+      "very",
+      "special",
+      "vs"
+    ],
+    "normalizedTokens": [
+      "very",
+      "special",
+      "vs",
+      "40%",
+      "0.5 л"
+    ],
+    "params": {
+      "volume": "0.5 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "40%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Коньяк Ararat 5 звезд 40% 0.05 л",
+    "cleanTokens": [],
+    "normalizedTokens": [
+      "5 звезд",
+      "40%",
+      "0.05 л"
+    ],
+    "params": {
+      "volume": "0.05 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "40%",
+      "age": null,
+      "stars": "5 звезд"
+    }
+  },
+  {
+    "original": "Коньяк Courvoisier Xo 40% 0.7 л",
+    "cleanTokens": [
+      "xo"
+    ],
+    "normalizedTokens": [
+      "xo",
+      "40%",
+      "0.7 л"
+    ],
+    "params": {
+      "volume": "0.7 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "40%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Коньяк SHABO 3 звезды 40% 0.5 л",
+    "cleanTokens": [],
+    "normalizedTokens": [
+      "3 звезды",
+      "40%",
+      "0.5 л"
+    ],
+    "params": {
+      "volume": "0.5 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "40%",
+      "age": null,
+      "stars": "3 звезды"
+    }
+  },
+  {
+    "original": "Коньяк Ararat 5YO 40% 0.5 л",
+    "cleanTokens": [],
+    "normalizedTokens": [
+      "5 YO",
+      "40%",
+      "0.5 л"
+    ],
+    "params": {
+      "volume": "0.5 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "40%",
+      "age": "5 YO",
+      "stars": null
+    }
+  },
+  {
+    "original": "Бренди Torres виноград 5 лет 38% 0.5 л",
+    "cleanTokens": [
+      "виноград"
+    ],
+    "normalizedTokens": [
+      "виноград",
+      "5 лет",
+      "38%",
+      "0.5 л"
+    ],
+    "params": {
+      "volume": "0.5 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "38%",
+      "age": "5 лет",
+      "stars": null
+    }
+  },
+  {
+    "original": "Коньяк Ararat Отборный 7 звезд 40% 0.5 л",
+    "cleanTokens": [
+      "отборный"
+    ],
+    "normalizedTokens": [
+      "отборный",
+      "7 звезд",
+      "40%",
+      "0.5 л"
+    ],
+    "params": {
+      "volume": "0.5 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "40%",
+      "age": null,
+      "stars": "7 звезд"
+    }
+  },
+  {
+    "original": "Коньяк Camus Vsop 40% 1 л",
+    "cleanTokens": [
+      "vsop"
+    ],
+    "normalizedTokens": [
+      "vsop",
+      "40%",
+      "1 л"
+    ],
+    "params": {
+      "volume": "1 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "40%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Коньяк Remy Martin Louis ХIII tres 40% 0.7 л",
+    "cleanTokens": [
+      "louis",
+      "хiii",
+      "tres"
+    ],
+    "normalizedTokens": [
+      "louis",
+      "хiii",
+      "tres",
+      "40%",
+      "0.7 л"
+    ],
+    "params": {
+      "volume": "0.7 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "40%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Коньяк Castarede Xo 40% 0.7 л",
+    "cleanTokens": [
+      "xo"
+    ],
+    "normalizedTokens": [
+      "xo",
+      "40%",
+      "0.7 л"
+    ],
+    "params": {
+      "volume": "0.7 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "40%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Коньяк АЙВАЗОВСКИЙ Vs 3 года 40% 0.5 л",
+    "cleanTokens": [
+      "vs"
+    ],
+    "normalizedTokens": [
+      "vs",
+      "3 года",
+      "40%",
+      "0.5 л"
+    ],
+    "params": {
+      "volume": "0.5 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "40%",
+      "age": "3 года",
+      "stars": null
+    }
+  },
+  {
+    "original": "Коньяк Ара Джан 3 звезды 40% 0.5 л",
+    "cleanTokens": [],
+    "normalizedTokens": [
+      "3 звезды",
+      "40%",
+      "0.5 л"
+    ],
+    "params": {
+      "volume": "0.5 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "40%",
+      "age": null,
+      "stars": "3 звезды"
+    }
+  },
+  {
+    "original": "Коньяк Niko Pirosmani Грузинский Vs 40% 0.5 л",
+    "cleanTokens": [
+      "vs"
+    ],
+    "normalizedTokens": [
+      "vs",
+      "40%",
+      "0.5 л"
+    ],
+    "params": {
+      "volume": "0.5 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "40%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Коньяк Global Wine Казахстан классический особый 5 звезд 42% 0.5 л",
+    "cleanTokens": [
+      "казахстан",
+      "классический",
+      "особый"
+    ],
+    "normalizedTokens": [
+      "казахстан",
+      "классический",
+      "особый",
+      "5 звезд",
+      "42%",
+      "0.5 л"
+    ],
+    "params": {
+      "volume": "0.5 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "42%",
+      "age": null,
+      "stars": "5 звезд"
+    }
+  },
+  {
+    "original": "Коньяк Camus Vs 40% 1 л",
+    "cleanTokens": [
+      "vs"
+    ],
+    "normalizedTokens": [
+      "vs",
+      "40%",
+      "1 л"
+    ],
+    "params": {
+      "volume": "1 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "40%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Коньяк SHUSTOFF 5 звезд 40% 0.5 л",
+    "cleanTokens": [],
+    "normalizedTokens": [
+      "5 звезд",
+      "40%",
+      "0.5 л"
+    ],
+    "params": {
+      "volume": "0.5 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "40%",
+      "age": null,
+      "stars": "5 звезд"
+    }
+  },
+  {
+    "original": "Коньяк LHERAUD Xo 40% 0.7 л",
+    "cleanTokens": [
+      "xo"
+    ],
+    "normalizedTokens": [
+      "xo",
+      "40%",
+      "0.7 л"
+    ],
+    "params": {
+      "volume": "0.7 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "40%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Коньяк Dionis Winery Kazakhstan 3 звезды 40% 0.5 л",
+    "cleanTokens": [
+      "kazakhstan"
+    ],
+    "normalizedTokens": [
+      "kazakhstan",
+      "3 звезды",
+      "40%",
+      "0.5 л"
+    ],
+    "params": {
+      "volume": "0.5 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "40%",
+      "age": null,
+      "stars": "3 звезды"
+    }
+  },
+  {
+    "original": "Коньяк LHERAUD Bons Bois 1967 extra 46% 0.7 л",
+    "cleanTokens": [
+      "bons",
+      "bois",
+      "1967",
+      "extra"
+    ],
+    "normalizedTokens": [
+      "bons",
+      "bois",
+      "1967",
+      "extra",
+      "46%",
+      "0.7 л"
+    ],
+    "params": {
+      "volume": "0.7 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "46%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Бренди Metaxa виноград 12 лет 40% 0.7 л",
+    "cleanTokens": [
+      "виноград"
+    ],
+    "normalizedTokens": [
+      "виноград",
+      "12 лет",
+      "40%",
+      "0.7 л"
+    ],
+    "params": {
+      "volume": "0.7 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "40%",
+      "age": "12 лет",
+      "stars": null
+    }
+  },
+  {
+    "original": "Коньяк LHERAUD Grande Champagne 1983 extra 46% 0.7 л",
+    "cleanTokens": [
+      "grande",
+      "champagne",
+      "1983",
+      "extra"
+    ],
+    "normalizedTokens": [
+      "grande",
+      "champagne",
+      "1983",
+      "extra",
+      "46%",
+      "0.7 л"
+    ],
+    "params": {
+      "volume": "0.7 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "46%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Коньяк Арарат Эребуни reserve 40% 0.7 л",
+    "cleanTokens": [
+      "эребуни",
+      "reserve"
+    ],
+    "normalizedTokens": [
+      "эребуни",
+      "reserve",
+      "40%",
+      "0.7 л"
+    ],
+    "params": {
+      "volume": "0.7 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "40%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Бренди COLUSVIN Белый Аист виноград 5 лет 40% 0.5 л",
+    "cleanTokens": [
+      "белый",
+      "аист",
+      "виноград"
+    ],
+    "normalizedTokens": [
+      "белый",
+      "аист",
+      "виноград",
+      "5 лет",
+      "40%",
+      "0.5 л"
+    ],
+    "params": {
+      "volume": "0.5 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "40%",
+      "age": "5 лет",
+      "stars": null
+    }
+  },
+  {
+    "original": "Коньяк Прошянский Коньячный Завод Поздравительный 3 звезды 40% 0.5 л",
+    "cleanTokens": [
+      "поздравительный"
+    ],
+    "normalizedTokens": [
+      "поздравительный",
+      "3 звезды",
+      "40%",
+      "0.5 л"
+    ],
+    "params": {
+      "volume": "0.5 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "40%",
+      "age": null,
+      "stars": "3 звезды"
+    }
+  },
+  {
+    "original": "Коньяк Deau Xo 10 YO 40% 1 л",
+    "cleanTokens": [
+      "xo"
+    ],
+    "normalizedTokens": [
+      "xo",
+      "10 YO",
+      "40%",
+      "1 л"
+    ],
+    "params": {
+      "volume": "1 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "40%",
+      "age": "10 YO",
+      "stars": null
+    }
+  },
+  {
+    "original": "Коньяк Шахназарян Армянский 5 звезд 40% 0.5 л",
+    "cleanTokens": [
+      "армянский"
+    ],
+    "normalizedTokens": [
+      "армянский",
+      "5 звезд",
+      "40%",
+      "0.5 л"
+    ],
+    "params": {
+      "volume": "0.5 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "40%",
+      "age": null,
+      "stars": "5 звезд"
+    }
+  },
+  {
+    "original": "Коньяк АЙВАЗОВСКИЙ Vsop 6 лет 40% 0.5 л",
+    "cleanTokens": [
+      "vsop"
+    ],
+    "normalizedTokens": [
+      "vsop",
+      "6 лет",
+      "40%",
+      "0.5 л"
+    ],
+    "params": {
+      "volume": "0.5 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "40%",
+      "age": "6 лет",
+      "stars": null
+    }
+  },
+  {
+    "original": "Коньяк Camus Xo 40% 0.7 л",
+    "cleanTokens": [
+      "xo"
+    ],
+    "normalizedTokens": [
+      "xo",
+      "40%",
+      "0.7 л"
+    ],
+    "params": {
+      "volume": "0.7 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "40%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Коньяк Sarajishvili 3 звезды 40% 0.5 л",
+    "cleanTokens": [],
+    "normalizedTokens": [
+      "3 звезды",
+      "40%",
+      "0.5 л"
+    ],
+    "params": {
+      "volume": "0.5 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "40%",
+      "age": null,
+      "stars": "3 звезды"
+    }
+  },
+  {
+    "original": "Коньяк VerStrom&Co 3 звезды 40% 0.7 л",
+    "cleanTokens": [],
+    "normalizedTokens": [
+      "3 звезды",
+      "40%",
+      "0.7 л"
+    ],
+    "params": {
+      "volume": "0.7 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "40%",
+      "age": null,
+      "stars": "3 звезды"
+    }
+  },
+  {
+    "original": "Коньяк Castarede Annie 1992 Xo 40% 0.7 л",
+    "cleanTokens": [
+      "annie",
+      "1992",
+      "xo"
+    ],
+    "normalizedTokens": [
+      "annie",
+      "1992",
+      "xo",
+      "40%",
+      "0.7 л"
+    ],
+    "params": {
+      "volume": "0.7 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "40%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Коньяк Martell Xo 40% 0.35 л",
+    "cleanTokens": [
+      "xo"
+    ],
+    "normalizedTokens": [
+      "xo",
+      "40%",
+      "0.35 л"
+    ],
+    "params": {
+      "volume": "0.35 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "40%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Коньяк LHERAUD Petite Champagne 1975 extra 47% 0.7 л",
+    "cleanTokens": [
+      "petite",
+      "champagne",
+      "1975",
+      "extra"
+    ],
+    "normalizedTokens": [
+      "petite",
+      "champagne",
+      "1975",
+      "extra",
+      "47%",
+      "0.7 л"
+    ],
+    "params": {
+      "volume": "0.7 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "47%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Коньяк Мердзаванский Коньячный Завод Vsop 40% 0.5 л",
+    "cleanTokens": [
+      "vsop"
+    ],
+    "normalizedTokens": [
+      "vsop",
+      "40%",
+      "0.5 л"
+    ],
+    "params": {
+      "volume": "0.5 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "40%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Коньяк Telavi 3 звезды 40% 0.5 л",
+    "cleanTokens": [],
+    "normalizedTokens": [
+      "3 звезды",
+      "40%",
+      "0.5 л"
+    ],
+    "params": {
+      "volume": "0.5 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "40%",
+      "age": null,
+      "stars": "3 звезды"
+    }
+  },
+  {
+    "original": "Коньяк Dionis Winery Reserve 3 звезды 38% 0.5 л",
+    "cleanTokens": [
+      "reserve"
+    ],
+    "normalizedTokens": [
+      "reserve",
+      "3 звезды",
+      "38%",
+      "0.5 л"
+    ],
+    "params": {
+      "volume": "0.5 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "38%",
+      "age": null,
+      "stars": "3 звезды"
+    }
+  },
+  {
+    "original": "Коньяк Dionis Winery Turkestan 3 звезды 40% 0.5 л",
+    "cleanTokens": [
+      "turkestan"
+    ],
+    "normalizedTokens": [
+      "turkestan",
+      "3 звезды",
+      "40%",
+      "0.5 л"
+    ],
+    "params": {
+      "volume": "0.5 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "40%",
+      "age": null,
+      "stars": "3 звезды"
+    }
+  },
+  {
+    "original": "Коньяк Global Wine Казахстан Premium 3 звезды 40% 0.5 л",
+    "cleanTokens": [
+      "казахстан",
+      "premium"
+    ],
+    "normalizedTokens": [
+      "казахстан",
+      "premium",
+      "3 звезды",
+      "40%",
+      "0.5 л"
+    ],
+    "params": {
+      "volume": "0.5 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "40%",
+      "age": null,
+      "stars": "3 звезды"
+    }
+  },
+  {
+    "original": "Коньяк Niko Pirosmani Грузинский 4 звезды 40% 0.5 л",
+    "cleanTokens": [],
+    "normalizedTokens": [
+      "4 звезды",
+      "40%",
+      "0.5 л"
+    ],
+    "params": {
+      "volume": "0.5 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "40%",
+      "age": null,
+      "stars": "4 звезды"
+    }
+  },
+  {
+    "original": "Коньяк Global Wine Astana 5 звезд 40% 0.5 л",
+    "cleanTokens": [
+      "astana"
+    ],
+    "normalizedTokens": [
+      "astana",
+      "5 звезд",
+      "40%",
+      "0.5 л"
+    ],
+    "params": {
+      "volume": "0.5 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "40%",
+      "age": null,
+      "stars": "5 звезд"
+    }
+  },
+  {
+    "original": "Коньяк Courvoisier Vsop 40% 1 л",
+    "cleanTokens": [
+      "vsop"
+    ],
+    "normalizedTokens": [
+      "vsop",
+      "40%",
+      "1 л"
+    ],
+    "params": {
+      "volume": "1 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "40%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Коньяк Martell Chanteloap XXO 40% 0.7 л",
+    "cleanTokens": [
+      "chanteloap",
+      "xxo"
+    ],
+    "normalizedTokens": [
+      "chanteloap",
+      "xxo",
+      "40%",
+      "0.7 л"
+    ],
+    "params": {
+      "volume": "0.7 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "40%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Коньяк Castarede Annie 1962 Xo 40% 0.7 л",
+    "cleanTokens": [
+      "annie",
+      "1962",
+      "xo"
+    ],
+    "normalizedTokens": [
+      "annie",
+      "1962",
+      "xo",
+      "40%",
+      "0.7 л"
+    ],
+    "params": {
+      "volume": "0.7 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "40%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Коньяк LHERAUD Obusto Xo 42% 0.7 л",
+    "cleanTokens": [
+      "obusto",
+      "xo"
+    ],
+    "normalizedTokens": [
+      "obusto",
+      "xo",
+      "42%",
+      "0.7 л"
+    ],
+    "params": {
+      "volume": "0.7 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "42%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Коньяк Courvoisier Vs 40% 1 л",
+    "cleanTokens": [
+      "vs"
+    ],
+    "normalizedTokens": [
+      "vs",
+      "40%",
+      "1 л"
+    ],
+    "params": {
+      "volume": "1 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "40%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Коньяк Айвазовский Vs 40% 0.5 л",
+    "cleanTokens": [
+      "vs"
+    ],
+    "normalizedTokens": [
+      "vs",
+      "40%",
+      "0.5 л"
+    ],
+    "params": {
+      "volume": "0.5 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "40%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Коньяк Niko Pirosmani 3 звезды 40% 0.5 л",
+    "cleanTokens": [],
+    "normalizedTokens": [
+      "3 звезды",
+      "40%",
+      "0.5 л"
+    ],
+    "params": {
+      "volume": "0.5 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "40%",
+      "age": null,
+      "stars": "3 звезды"
+    }
+  },
+  {
+    "original": "Коньяк Bisquit & Dubouche Vsop 40% 0.7 л",
+    "cleanTokens": [
+      "vsop"
+    ],
+    "normalizedTokens": [
+      "vsop",
+      "40%",
+      "0.7 л"
+    ],
+    "params": {
+      "volume": "0.7 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "40%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Коньяк Global Wine Georgia 5 звезд 40% 0.5 л",
+    "cleanTokens": [
+      "georgia"
+    ],
+    "normalizedTokens": [
+      "georgia",
+      "5 звезд",
+      "40%",
+      "0.5 л"
+    ],
+    "params": {
+      "volume": "0.5 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "40%",
+      "age": null,
+      "stars": "5 звезд"
+    }
+  },
+  {
+    "original": "Коньяк Шато Кахети Грузинский 5 звезд 40% 0.5 л",
+    "cleanTokens": [],
+    "normalizedTokens": [
+      "5 звезд",
+      "40%",
+      "0.5 л"
+    ],
+    "params": {
+      "volume": "0.5 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "40%",
+      "age": null,
+      "stars": "5 звезд"
+    }
+  },
+  {
+    "original": "Коньяк Шато Кахети 3 звезды 40% 0.5 л",
+    "cleanTokens": [],
+    "normalizedTokens": [
+      "3 звезды",
+      "40%",
+      "0.5 л"
+    ],
+    "params": {
+      "volume": "0.5 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "40%",
+      "age": null,
+      "stars": "3 звезды"
+    }
+  },
+  {
+    "original": "Коньяк LHERAUD Fins Bois 197 extra 48% 0.7 л",
+    "cleanTokens": [
+      "fins",
+      "bois",
+      "197",
+      "extra"
+    ],
+    "normalizedTokens": [
+      "fins",
+      "bois",
+      "197",
+      "extra",
+      "48%",
+      "0.7 л"
+    ],
+    "params": {
+      "volume": "0.7 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "48%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Коньяк АЙВАЗОВСКИЙ 5 звезд 40% 0.5 л",
+    "cleanTokens": [],
+    "normalizedTokens": [
+      "5 звезд",
+      "40%",
+      "0.5 л"
+    ],
+    "params": {
+      "volume": "0.5 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "40%",
+      "age": null,
+      "stars": "5 звезд"
+    }
+  },
+  {
+    "original": "Коньяк Sarajishvili 3 звезды 40% 0.7 л",
+    "cleanTokens": [],
+    "normalizedTokens": [
+      "3 звезды",
+      "40%",
+      "0.7 л"
+    ],
+    "params": {
+      "volume": "0.7 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "40%",
+      "age": null,
+      "stars": "3 звезды"
+    }
+  },
+  {
+    "original": "Коньяк Ararat 3 звезды 40% 0.7 л",
+    "cleanTokens": [],
+    "normalizedTokens": [
+      "3 звезды",
+      "40%",
+      "0.7 л"
+    ],
+    "params": {
+      "volume": "0.7 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "40%",
+      "age": null,
+      "stars": "3 звезды"
+    }
+  },
+  {
+    "original": "Коньяк Meukow Vsop 40% 1 л",
+    "cleanTokens": [
+      "vsop"
+    ],
+    "normalizedTokens": [
+      "vsop",
+      "40%",
+      "1 л"
+    ],
+    "params": {
+      "volume": "1 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "40%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Бренди St. Remy Authentic XO фруктово-ягодный без выдержки 40% 0.5 л",
+    "cleanTokens": [
+      "authentic",
+      "xo",
+      "фруктово-ягодный",
+      "без",
+      "выдержки"
+    ],
+    "normalizedTokens": [
+      "authentic",
+      "xo",
+      "фруктово-ягодный",
+      "без",
+      "выдержки",
+      "40%",
+      "0.5 л"
+    ],
+    "params": {
+      "volume": "0.5 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "40%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Коньяк Castarede Annie 1994 Xo 40% 0.7 л",
+    "cleanTokens": [
+      "annie",
+      "1994",
+      "xo"
+    ],
+    "normalizedTokens": [
+      "annie",
+      "1994",
+      "xo",
+      "40%",
+      "0.7 л"
+    ],
+    "params": {
+      "volume": "0.7 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "40%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Коньяк Niko Pirosmani Xo 40% 0.5 л",
+    "cleanTokens": [
+      "xo"
+    ],
+    "normalizedTokens": [
+      "xo",
+      "40%",
+      "0.5 л"
+    ],
+    "params": {
+      "volume": "0.5 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "40%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Коньяк Castarede Annie 1986 Xo 40% 0.7 л",
+    "cleanTokens": [
+      "annie",
+      "1986",
+      "xo"
+    ],
+    "normalizedTokens": [
+      "annie",
+      "1986",
+      "xo",
+      "40%",
+      "0.7 л"
+    ],
+    "params": {
+      "volume": "0.7 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "40%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Коньяк Old Armenian Vs 40% 0.5 л",
+    "cleanTokens": [
+      "vs"
+    ],
+    "normalizedTokens": [
+      "vs",
+      "40%",
+      "0.5 л"
+    ],
+    "params": {
+      "volume": "0.5 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "40%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Коньяк Шахназарян 3 звезды 40% 0.5 л",
+    "cleanTokens": [],
+    "normalizedTokens": [
+      "3 звезды",
+      "40%",
+      "0.5 л"
+    ],
+    "params": {
+      "volume": "0.5 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "40%",
+      "age": null,
+      "stars": "3 звезды"
+    }
+  },
+  {
+    "original": "Коньяк SHUSTOFF 3 звезды 40% 500 мл",
+    "cleanTokens": [],
+    "normalizedTokens": [
+      "3 звезды",
+      "40%",
+      "500 мл"
+    ],
+    "params": {
+      "volume": "500 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "40%",
+      "age": null,
+      "stars": "3 звезды"
+    }
+  },
+  {
+    "original": "Коньяк Castarede Vsop 40% 0.7 л",
+    "cleanTokens": [
+      "vsop"
+    ],
+    "normalizedTokens": [
+      "vsop",
+      "40%",
+      "0.7 л"
+    ],
+    "params": {
+      "volume": "0.7 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "40%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Коньяк Castarede Annie 1971 Xo 40% 0.7 л",
+    "cleanTokens": [
+      "annie",
+      "1971",
+      "xo"
+    ],
+    "normalizedTokens": [
+      "annie",
+      "1971",
+      "xo",
+      "40%",
+      "0.7 л"
+    ],
+    "params": {
+      "volume": "0.7 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "40%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Коньяк Meukow Vs 40% 1 л",
+    "cleanTokens": [
+      "vs"
+    ],
+    "normalizedTokens": [
+      "vs",
+      "40%",
+      "1 л"
+    ],
+    "params": {
+      "volume": "1 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "40%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Коньяк Global Wine Classic 3 звезды 40% 0.5 л",
+    "cleanTokens": [
+      "classic"
+    ],
+    "normalizedTokens": [
+      "classic",
+      "3 звезды",
+      "40%",
+      "0.5 л"
+    ],
+    "params": {
+      "volume": "0.5 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "40%",
+      "age": null,
+      "stars": "3 звезды"
+    }
+  },
+  {
+    "original": "Бренди Gran Duque De Alba reserve 40% 0.7 л",
+    "cleanTokens": [
+      "reserve"
+    ],
+    "normalizedTokens": [
+      "reserve",
+      "40%",
+      "0.7 л"
+    ],
+    "params": {
+      "volume": "0.7 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "40%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Коньяк Иссык-Куль 3 звезды 40% 0.5 л",
+    "cleanTokens": [],
+    "normalizedTokens": [
+      "3 звезды",
+      "40%",
+      "0.5 л"
+    ],
+    "params": {
+      "volume": "0.5 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "40%",
+      "age": null,
+      "stars": "3 звезды"
+    }
+  },
+  {
+    "original": "Коньяк Proshyan Армянский Поздравительный Vsop 40% 0.5 л",
+    "cleanTokens": [
+      "армянский",
+      "поздравительный",
+      "vsop"
+    ],
+    "normalizedTokens": [
+      "армянский",
+      "поздравительный",
+      "vsop",
+      "40%",
+      "0.5 л"
+    ],
+    "params": {
+      "volume": "0.5 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "40%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Коньяк Советская Армения 3 звезды 40% 0.5 л",
+    "cleanTokens": [],
+    "normalizedTokens": [
+      "3 звезды",
+      "40%",
+      "0.5 л"
+    ],
+    "params": {
+      "volume": "0.5 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "40%",
+      "age": null,
+      "stars": "3 звезды"
+    }
+  },
+  {
+    "original": "Коньяк BACCHUS TENGRI 40% 0.75 л",
+    "cleanTokens": [
+      "tengri"
+    ],
+    "normalizedTokens": [
+      "tengri",
+      "40%",
+      "0.75 л"
+    ],
+    "params": {
+      "volume": "0.75 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "40%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Коньяк SHUSTOFF Chocolatier extra 30% 0.5 л",
+    "cleanTokens": [
+      "chocolatier",
+      "extra"
+    ],
+    "normalizedTokens": [
+      "chocolatier",
+      "extra",
+      "30%",
+      "0.5 л"
+    ],
+    "params": {
+      "volume": "0.5 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "30%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Коньяк BACCHUS Казахстан 5 звезд 40% 0.5 л",
+    "cleanTokens": [
+      "казахстан"
+    ],
+    "normalizedTokens": [
+      "казахстан",
+      "5 звезд",
+      "40%",
+      "0.5 л"
+    ],
+    "params": {
+      "volume": "0.5 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "40%",
+      "age": null,
+      "stars": "5 звезд"
+    }
+  },
+  {
+    "original": "Коньяк Арарат Наири 20 лет reserve 40% 0.7 л",
+    "cleanTokens": [
+      "наири",
+      "reserve"
+    ],
+    "normalizedTokens": [
+      "наири",
+      "20 лет",
+      "reserve",
+      "40%",
+      "0.7 л"
+    ],
+    "params": {
+      "volume": "0.7 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "40%",
+      "age": "20 лет",
+      "stars": null
+    }
+  },
+  {
+    "original": "Коньяк Легенда Армении 5 звезд 40% 0.7 л",
+    "cleanTokens": [],
+    "normalizedTokens": [
+      "5 звезд",
+      "40%",
+      "0.7 л"
+    ],
+    "params": {
+      "volume": "0.7 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "40%",
+      "age": null,
+      "stars": "5 звезд"
+    }
+  },
+  {
+    "original": "Коньяк Hennessy Vs 40% 0.5 л",
+    "cleanTokens": [
+      "vs"
+    ],
+    "normalizedTokens": [
+      "vs",
+      "40%",
+      "0.5 л"
+    ],
+    "params": {
+      "volume": "0.5 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "40%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Коньяк Martell Vsop 40% 0.7 л",
+    "cleanTokens": [
+      "vsop"
+    ],
+    "normalizedTokens": [
+      "vsop",
+      "40%",
+      "0.7 л"
+    ],
+    "params": {
+      "volume": "0.7 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "40%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Коньяк BACCHUS Женiс 6 YO Vsop 40% 0.7 л",
+    "cleanTokens": [
+      "женiс",
+      "vsop"
+    ],
+    "normalizedTokens": [
+      "женiс",
+      "6 YO",
+      "vsop",
+      "40%",
+      "0.7 л"
+    ],
+    "params": {
+      "volume": "0.7 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "40%",
+      "age": "6 YO",
+      "stars": null
+    }
+  },
+  {
+    "original": "Коньяк Грузинский 5 звезд 40% 0.7 л",
+    "cleanTokens": [],
+    "normalizedTokens": [
+      "5 звезд",
+      "40%",
+      "0.7 л"
+    ],
+    "params": {
+      "volume": "0.7 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "40%",
+      "age": null,
+      "stars": "5 звезд"
+    }
+  },
+  {
+    "original": "Коньяк Hennessy Vsop 40% 0.7 л",
+    "cleanTokens": [
+      "vsop"
+    ],
+    "normalizedTokens": [
+      "vsop",
+      "40%",
+      "0.7 л"
+    ],
+    "params": {
+      "volume": "0.7 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "40%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Коньяк Арарат 5 лет 5 звезд 40% 0.5 л",
+    "cleanTokens": [],
+    "normalizedTokens": [
+      "5 лет",
+      "5 звезд",
+      "40%",
+      "0.5 л"
+    ],
+    "params": {
+      "volume": "0.5 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "40%",
+      "age": "5 лет",
+      "stars": "5 звезд"
+    }
+  },
+  {
+    "original": "Коньяк Askaneli 3 звезды 40% 0.5 л",
+    "cleanTokens": [],
+    "normalizedTokens": [
+      "3 звезды",
+      "40%",
+      "0.5 л"
+    ],
+    "params": {
+      "volume": "0.5 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "40%",
+      "age": null,
+      "stars": "3 звезды"
+    }
+  },
+  {
+    "original": "Коньяк Metaxa Spirit 5 звезд 38% 0.5 л",
+    "cleanTokens": [
+      "spirit"
+    ],
+    "normalizedTokens": [
+      "spirit",
+      "5 звезд",
+      "38%",
+      "0.5 л"
+    ],
+    "params": {
+      "volume": "0.5 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "38%",
+      "age": null,
+      "stars": "5 звезд"
+    }
+  },
+  {
+    "original": "Коньяк BACCHUS Казахстанский 3 звезды 40% 0.75 л",
+    "cleanTokens": [
+      "казахстанский"
+    ],
+    "normalizedTokens": [
+      "казахстанский",
+      "3 звезды",
+      "40%",
+      "0.75 л"
+    ],
+    "params": {
+      "volume": "0.75 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "40%",
+      "age": null,
+      "stars": "3 звезды"
+    }
+  },
+  {
+    "original": "Коньяк Hennessy Vsop 40% 0.7 л",
+    "cleanTokens": [
+      "vsop"
+    ],
+    "normalizedTokens": [
+      "vsop",
+      "40%",
+      "0.7 л"
+    ],
+    "params": {
+      "volume": "0.7 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "40%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Бренди Torres виноград 10 лет 38% 0.5 л",
+    "cleanTokens": [
+      "виноград"
+    ],
+    "normalizedTokens": [
+      "виноград",
+      "10 лет",
+      "38%",
+      "0.5 л"
+    ],
+    "params": {
+      "volume": "0.5 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "38%",
+      "age": "10 лет",
+      "stars": null
+    }
+  },
+  {
+    "original": "Коньяк Courvoisier Vsop 40% 0.5 л",
+    "cleanTokens": [
+      "vsop"
+    ],
+    "normalizedTokens": [
+      "vsop",
+      "40%",
+      "0.5 л"
+    ],
+    "params": {
+      "volume": "0.5 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "40%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Коньяк Арцруни 3 звезды 40% 0.5 л",
+    "cleanTokens": [],
+    "normalizedTokens": [
+      "3 звезды",
+      "40%",
+      "0.5 л"
+    ],
+    "params": {
+      "volume": "0.5 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "40%",
+      "age": null,
+      "stars": "3 звезды"
+    }
+  },
+  {
+    "original": "Коньяк BACCHUS Казахстанский Vs 40% 0.5 л",
+    "cleanTokens": [
+      "казахстанский",
+      "vs"
+    ],
+    "normalizedTokens": [
+      "казахстанский",
+      "vs",
+      "40%",
+      "0.5 л"
+    ],
+    "params": {
+      "volume": "0.5 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "40%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Бренди Torres Smoked 10 Barrel Xo 38% 0.7 л",
+    "cleanTokens": [
+      "smoked",
+      "10",
+      "barrel",
+      "xo"
+    ],
+    "normalizedTokens": [
+      "smoked",
+      "10",
+      "barrel",
+      "xo",
+      "38%",
+      "0.7 л"
+    ],
+    "params": {
+      "volume": "0.7 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "38%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Коньяк Hennessy X.O. 40% 0.7 л",
+    "cleanTokens": [
+      "x.o."
+    ],
+    "normalizedTokens": [
+      "x.o.",
+      "40%",
+      "0.7 л"
+    ],
+    "params": {
+      "volume": "0.7 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "40%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Коньяк BACCHUS 5 звезд 40% 0.5 л",
+    "cleanTokens": [],
+    "normalizedTokens": [
+      "5 звезд",
+      "40%",
+      "0.5 л"
+    ],
+    "params": {
+      "volume": "0.5 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "40%",
+      "age": null,
+      "stars": "5 звезд"
+    }
+  },
+  {
+    "original": "Коньяк BACCHUS Астана 4 звезды 40% 0.5 л",
+    "cleanTokens": [
+      "астана"
+    ],
+    "normalizedTokens": [
+      "астана",
+      "4 звезды",
+      "40%",
+      "0.5 л"
+    ],
+    "params": {
+      "volume": "0.5 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "40%",
+      "age": null,
+      "stars": "4 звезды"
+    }
+  },
+  {
+    "original": "Коньяк BACCHUS Дармен Vs 38% 0.5 л",
+    "cleanTokens": [
+      "дармен",
+      "vs"
+    ],
+    "normalizedTokens": [
+      "дармен",
+      "vs",
+      "38%",
+      "0.5 л"
+    ],
+    "params": {
+      "volume": "0.5 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "38%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Коньяк Арарат Васпуракан reserve 40% 0.5 л",
+    "cleanTokens": [
+      "васпуракан",
+      "reserve"
+    ],
+    "normalizedTokens": [
+      "васпуракан",
+      "reserve",
+      "40%",
+      "0.5 л"
+    ],
+    "params": {
+      "volume": "0.5 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "40%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Коньяк Ararat 3YO 40% 0.5 л",
+    "cleanTokens": [],
+    "normalizedTokens": [
+      "3 YO",
+      "40%",
+      "0.5 л"
+    ],
+    "params": {
+      "volume": "0.5 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "40%",
+      "age": "3 YO",
+      "stars": null
+    }
+  },
+  {
+    "original": "Коньяк Courvoisier Vsop 40% 0.7 л",
+    "cleanTokens": [
+      "vsop"
+    ],
+    "normalizedTokens": [
+      "vsop",
+      "40%",
+      "0.7 л"
+    ],
+    "params": {
+      "volume": "0.7 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "40%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Коньяк Sarajishvili 5 звезд 40% 0.7 л",
+    "cleanTokens": [],
+    "normalizedTokens": [
+      "5 звезд",
+      "40%",
+      "0.7 л"
+    ],
+    "params": {
+      "volume": "0.7 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "40%",
+      "age": null,
+      "stars": "5 звезд"
+    }
+  },
+  {
+    "original": "Коньяк Castarede Bas Armagnac 1979 Xo 40% 0.7 л",
+    "cleanTokens": [
+      "bas",
+      "armagnac",
+      "1979",
+      "xo"
+    ],
+    "normalizedTokens": [
+      "bas",
+      "armagnac",
+      "1979",
+      "xo",
+      "40%",
+      "0.7 л"
+    ],
+    "params": {
+      "volume": "0.7 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "40%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Бренди Christian Drouin XO фруктово-ягодный без выдержки 40% 0.7 л",
+    "cleanTokens": [
+      "xo",
+      "фруктово-ягодный",
+      "без",
+      "выдержки"
+    ],
+    "normalizedTokens": [
+      "xo",
+      "фруктово-ягодный",
+      "без",
+      "выдержки",
+      "40%",
+      "0.7 л"
+    ],
+    "params": {
+      "volume": "0.7 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "40%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Коньяк HINE Cigar Reserve A.C.C Xo 40% 0.7 л",
+    "cleanTokens": [
+      "cigar",
+      "reserve",
+      "a.c.c",
+      "xo"
+    ],
+    "normalizedTokens": [
+      "cigar",
+      "reserve",
+      "a.c.c",
+      "xo",
+      "40%",
+      "0.7 л"
+    ],
+    "params": {
+      "volume": "0.7 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "40%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Коньяк Советская Армения 5 звезд 40% 0.5 л",
+    "cleanTokens": [],
+    "normalizedTokens": [
+      "5 звезд",
+      "40%",
+      "0.5 л"
+    ],
+    "params": {
+      "volume": "0.5 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "40%",
+      "age": null,
+      "stars": "5 звезд"
+    }
+  },
+  {
+    "original": "Коньяк Metaxa АС Spirit drink 5 звезд 38% 0.7 л",
+    "cleanTokens": [
+      "ас",
+      "spirit",
+      "drink"
+    ],
+    "normalizedTokens": [
+      "ас",
+      "spirit",
+      "drink",
+      "5 звезд",
+      "38%",
+      "0.7 л"
+    ],
+    "params": {
+      "volume": "0.7 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "38%",
+      "age": null,
+      "stars": "5 звезд"
+    }
+  },
+  {
+    "original": "Коньяк BACCHUS Xo 50% 0.75 л",
+    "cleanTokens": [
+      "xo"
+    ],
+    "normalizedTokens": [
+      "xo",
+      "50%",
+      "0.75 л"
+    ],
+    "params": {
+      "volume": "0.75 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "50%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Коньяк Арарат reserve 50% 0.7 л",
+    "cleanTokens": [
+      "reserve"
+    ],
+    "normalizedTokens": [
+      "reserve",
+      "50%",
+      "0.7 л"
+    ],
+    "params": {
+      "volume": "0.7 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "50%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Коньяк Askaneli 5 звезд 40% 0.5 л",
+    "cleanTokens": [],
+    "normalizedTokens": [
+      "5 звезд",
+      "40%",
+      "0.5 л"
+    ],
+    "params": {
+      "volume": "0.5 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "40%",
+      "age": null,
+      "stars": "5 звезд"
+    }
+  },
+  {
+    "original": "Бренди Askaneli Кввк 40% 0.5 л",
+    "cleanTokens": [
+      "кввк"
+    ],
+    "normalizedTokens": [
+      "кввк",
+      "40%",
+      "0.5 л"
+    ],
+    "params": {
+      "volume": "0.5 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "40%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Коньяк Martell Xo 40% 0.7 л",
+    "cleanTokens": [
+      "xo"
+    ],
+    "normalizedTokens": [
+      "xo",
+      "40%",
+      "0.7 л"
+    ],
+    "params": {
+      "volume": "0.7 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "40%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Коньяк Hennessy Vsop 12 YO 40% 0.7 л",
+    "cleanTokens": [
+      "vsop"
+    ],
+    "normalizedTokens": [
+      "vsop",
+      "12 YO",
+      "40%",
+      "0.7 л"
+    ],
+    "params": {
+      "volume": "0.7 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "40%",
+      "age": "12 YO",
+      "stars": null
+    }
+  },
+  {
+    "original": "Портвейн Torres 5 Years сухой красный 40% 0.7 л",
+    "cleanTokens": [
+      "портвейн",
+      "сухой",
+      "красный"
+    ],
+    "normalizedTokens": [
+      "портвейн",
+      "5 years",
+      "сухой",
+      "красный",
+      "40%",
+      "0.7 л"
+    ],
+    "params": {
+      "volume": "0.7 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "40%",
+      "age": "5 years",
+      "stars": null
+    }
+  },
+  {
+    "original": "Коньяк MARTELL BLUE SWIFT Vsop 40% 0.7 л",
+    "cleanTokens": [
+      "blue",
+      "swift",
+      "vsop"
+    ],
+    "normalizedTokens": [
+      "blue",
+      "swift",
+      "vsop",
+      "40%",
+      "0.7 л"
+    ],
+    "params": {
+      "volume": "0.7 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "40%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Коньяк Арарат reserve Васпуракан 40% 0.7 л",
+    "cleanTokens": [
+      "reserve",
+      "васпуракан"
+    ],
+    "normalizedTokens": [
+      "reserve",
+      "васпуракан",
+      "40%",
+      "0.7 л"
+    ],
+    "params": {
+      "volume": "0.7 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "40%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Коньяк БАХУС Женiс 5 звезд 40% 0.7 л",
+    "cleanTokens": [
+      "бахус",
+      "женiс"
+    ],
+    "normalizedTokens": [
+      "бахус",
+      "женiс",
+      "5 звезд",
+      "40%",
+      "0.7 л"
+    ],
+    "params": {
+      "volume": "0.7 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "40%",
+      "age": null,
+      "stars": "5 звезд"
+    }
+  },
+  {
+    "original": "Бренди Metaxa Private Reserve виноград 30 лет 40% 0.7 л",
+    "cleanTokens": [
+      "private",
+      "reserve",
+      "виноград"
+    ],
+    "normalizedTokens": [
+      "private",
+      "reserve",
+      "виноград",
+      "30 лет",
+      "40%",
+      "0.7 л"
+    ],
+    "params": {
+      "volume": "0.7 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "40%",
+      "age": "30 лет",
+      "stars": null
+    }
+  },
+  {
+    "original": "Коньяк BACCHUS Казахстан 3 звезды 40% 0.2 л",
+    "cleanTokens": [
+      "казахстан"
+    ],
+    "normalizedTokens": [
+      "казахстан",
+      "3 звезды",
+      "40%",
+      "0.2 л"
+    ],
+    "params": {
+      "volume": "0.2 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "40%",
+      "age": null,
+      "stars": "3 звезды"
+    }
+  },
+  {
+    "original": "Коньяк Martell Cordon Bleu 5 звезд 40% 0.7 л",
+    "cleanTokens": [
+      "cordon",
+      "bleu"
+    ],
+    "normalizedTokens": [
+      "cordon",
+      "bleu",
+      "5 звезд",
+      "40%",
+      "0.7 л"
+    ],
+    "params": {
+      "volume": "0.7 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "40%",
+      "age": null,
+      "stars": "5 звезд"
+    }
+  },
+  {
+    "original": "Коньяк Courvoisier Xo 40% 0.7 л",
+    "cleanTokens": [
+      "xo"
+    ],
+    "normalizedTokens": [
+      "xo",
+      "40%",
+      "0.7 л"
+    ],
+    "params": {
+      "volume": "0.7 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "40%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Коньяк Шато Темрюк 3 звезды 40% 0.5 л",
+    "cleanTokens": [],
+    "normalizedTokens": [
+      "3 звезды",
+      "40%",
+      "0.5 л"
+    ],
+    "params": {
+      "volume": "0.5 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "40%",
+      "age": null,
+      "stars": "3 звезды"
+    }
+  },
+  {
+    "original": "Коньяк LHERAUD Xo Eugenie 43% 0.7 л",
+    "cleanTokens": [
+      "xo",
+      "eugenie"
+    ],
+    "normalizedTokens": [
+      "xo",
+      "eugenie",
+      "43%",
+      "0.7 л"
+    ],
+    "params": {
+      "volume": "0.7 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "43%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Коньяк Martell Vsop 40% 1 л",
+    "cleanTokens": [
+      "vsop"
+    ],
+    "normalizedTokens": [
+      "vsop",
+      "40%",
+      "1 л"
+    ],
+    "params": {
+      "volume": "1 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "40%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Коньяк BACCHUS XO Батыр 40% 0.75 л",
+    "cleanTokens": [
+      "xo",
+      "батыр"
+    ],
+    "normalizedTokens": [
+      "xo",
+      "батыр",
+      "40%",
+      "0.75 л"
+    ],
+    "params": {
+      "volume": "0.75 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "40%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Бренди Torres фрукты 15 лет 38% 0.7 л",
+    "cleanTokens": [
+      "фрукты"
+    ],
+    "normalizedTokens": [
+      "фрукты",
+      "15 лет",
+      "38%",
+      "0.7 л"
+    ],
+    "params": {
+      "volume": "0.7 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "38%",
+      "age": "15 лет",
+      "stars": null
+    }
+  },
+  {
+    "original": "Коньяк Арарат Ахтамар 10 лет Xo 40% 0.055 л",
+    "cleanTokens": [
+      "ахтамар",
+      "xo"
+    ],
+    "normalizedTokens": [
+      "ахтамар",
+      "10 лет",
+      "xo",
+      "40%",
+      "0.055 л"
+    ],
+    "params": {
+      "volume": "0.055 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "40%",
+      "age": "10 лет",
+      "stars": null
+    }
+  },
+  {
+    "original": "Коньяк Ararat Charles Aznavour 25 лет 40% 0.7 л",
+    "cleanTokens": [
+      "charles",
+      "aznavour"
+    ],
+    "normalizedTokens": [
+      "charles",
+      "aznavour",
+      "25 лет",
+      "40%",
+      "0.7 л"
+    ],
+    "params": {
+      "volume": "0.7 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "40%",
+      "age": "25 лет",
+      "stars": null
+    }
+  },
+  {
+    "original": "Коньяк Hennessy Vsop 40% 1 л",
+    "cleanTokens": [
+      "vsop"
+    ],
+    "normalizedTokens": [
+      "vsop",
+      "40%",
+      "1 л"
+    ],
+    "params": {
+      "volume": "1 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "40%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Коньяк BACCHUS Baiterek 5 звезд 40% 0.5 л",
+    "cleanTokens": [
+      "baiterek"
+    ],
+    "normalizedTokens": [
+      "baiterek",
+      "5 звезд",
+      "40%",
+      "0.5 л"
+    ],
+    "params": {
+      "volume": "0.5 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "40%",
+      "age": null,
+      "stars": "5 звезд"
+    }
+  },
+  {
+    "original": "Коньяк Hennessy Xo 40% 1 л",
+    "cleanTokens": [
+      "xo"
+    ],
+    "normalizedTokens": [
+      "xo",
+      "40%",
+      "1 л"
+    ],
+    "params": {
+      "volume": "1 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "40%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Коньяк Hennessy Vs 40% 1 л",
+    "cleanTokens": [
+      "vs"
+    ],
+    "normalizedTokens": [
+      "vs",
+      "40%",
+      "1 л"
+    ],
+    "params": {
+      "volume": "1 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "40%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Коньяк HINE Antique XO Grand Champagne Xo 40% 0.7 л",
+    "cleanTokens": [
+      "antique",
+      "xo",
+      "grand",
+      "champagne",
+      "xo"
+    ],
+    "normalizedTokens": [
+      "antique",
+      "xo",
+      "grand",
+      "champagne",
+      "xo",
+      "40%",
+      "0.7 л"
+    ],
+    "params": {
+      "volume": "0.7 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "40%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Коньяк Ararat Еребуни 50 лет reserve 40% 0.75 л",
+    "cleanTokens": [
+      "еребуни",
+      "reserve"
+    ],
+    "normalizedTokens": [
+      "еребуни",
+      "50 лет",
+      "reserve",
+      "40%",
+      "0.75 л"
+    ],
+    "params": {
+      "volume": "0.75 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "40%",
+      "age": "50 лет",
+      "stars": null
+    }
+  },
+  {
+    "original": "Коньяк Ararat 3 звезды 40% 0.5 л",
+    "cleanTokens": [],
+    "normalizedTokens": [
+      "3 звезды",
+      "40%",
+      "0.5 л"
+    ],
+    "params": {
+      "volume": "0.5 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "40%",
+      "age": null,
+      "stars": "3 звезды"
+    }
+  },
+  {
+    "original": "Бренди BACCHUS Туркестан виноград 38% 0.5 л",
+    "cleanTokens": [
+      "туркестан",
+      "виноград"
+    ],
+    "normalizedTokens": [
+      "туркестан",
+      "виноград",
+      "38%",
+      "0.5 л"
+    ],
+    "params": {
+      "volume": "0.5 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "38%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Коньяк Арарат extra 40% 0.75 л",
+    "cleanTokens": [
+      "extra"
+    ],
+    "normalizedTokens": [
+      "extra",
+      "40%",
+      "0.75 л"
+    ],
+    "params": {
+      "volume": "0.75 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "40%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Коньяк Sarajishvili Vs 40% 0.05 л",
+    "cleanTokens": [
+      "vs"
+    ],
+    "normalizedTokens": [
+      "vs",
+      "40%",
+      "0.05 л"
+    ],
+    "params": {
+      "volume": "0.05 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "40%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Коньяк Remy Martin Xo 40% 0.7 л",
+    "cleanTokens": [
+      "xo"
+    ],
+    "normalizedTokens": [
+      "xo",
+      "40%",
+      "0.7 л"
+    ],
+    "params": {
+      "volume": "0.7 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "40%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Коньяк Hennessy Vs 40% 0.05 л",
+    "cleanTokens": [
+      "vs"
+    ],
+    "normalizedTokens": [
+      "vs",
+      "40%",
+      "0.05 л"
+    ],
+    "params": {
+      "volume": "0.05 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "40%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Коньяк Hennessy Vsop 40% 0.5 л",
+    "cleanTokens": [
+      "vsop"
+    ],
+    "normalizedTokens": [
+      "vsop",
+      "40%",
+      "0.5 л"
+    ],
+    "params": {
+      "volume": "0.5 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "40%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Коньяк BACCHUS Женiс Vsop 40% 0.7 л",
+    "cleanTokens": [
+      "женiс",
+      "vsop"
+    ],
+    "normalizedTokens": [
+      "женiс",
+      "vsop",
+      "40%",
+      "0.7 л"
+    ],
+    "params": {
+      "volume": "0.7 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "40%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Коньяк Шато Темрюк 5 звезд 40% 500 мл",
+    "cleanTokens": [],
+    "normalizedTokens": [
+      "5 звезд",
+      "40%",
+      "500 мл"
+    ],
+    "params": {
+      "volume": "500 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "40%",
+      "age": null,
+      "stars": "5 звезд"
+    }
+  },
+  {
+    "original": "Коньяк Martell Vsop 40% 0.7 л",
+    "cleanTokens": [
+      "vsop"
+    ],
+    "normalizedTokens": [
+      "vsop",
+      "40%",
+      "0.7 л"
+    ],
+    "params": {
+      "volume": "0.7 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "40%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Коньяк Hennessy Vs 40% 0.7 л",
+    "cleanTokens": [
+      "vs"
+    ],
+    "normalizedTokens": [
+      "vs",
+      "40%",
+      "0.7 л"
+    ],
+    "params": {
+      "volume": "0.7 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "40%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Коньяк LHERAUD Petite Champagne Lot №0949 extra 42.3% 0.7 л",
+    "cleanTokens": [
+      "petite",
+      "champagne",
+      "lot",
+      "№0949",
+      "extra"
+    ],
+    "normalizedTokens": [
+      "petite",
+      "champagne",
+      "lot",
+      "№0949",
+      "extra",
+      "42.3%",
+      "0.7 л"
+    ],
+    "params": {
+      "volume": "0.7 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "42.3%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Коньяк АЙВАЗОВСКИЙ 5 звезд 40% 0.5 л",
+    "cleanTokens": [],
+    "normalizedTokens": [
+      "5 звезд",
+      "40%",
+      "0.5 л"
+    ],
+    "params": {
+      "volume": "0.5 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "40%",
+      "age": null,
+      "stars": "5 звезд"
+    }
+  },
+  {
+    "original": "Коньяк Martell extra 40% 700 мл",
+    "cleanTokens": [
+      "extra"
+    ],
+    "normalizedTokens": [
+      "extra",
+      "40%",
+      "700 мл"
+    ],
+    "params": {
+      "volume": "700 мл",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "40%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Коньяк Hennessy Vsop 12 YO 40% 0.35 л",
+    "cleanTokens": [
+      "vsop"
+    ],
+    "normalizedTokens": [
+      "vsop",
+      "12 YO",
+      "40%",
+      "0.35 л"
+    ],
+    "params": {
+      "volume": "0.35 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "40%",
+      "age": "12 YO",
+      "stars": null
+    }
+  },
+  {
+    "original": "Коньяк LHERAUD Cuvee 20 Renaissance extra 43% 0.7 л",
+    "cleanTokens": [
+      "cuvee",
+      "20",
+      "renaissance",
+      "extra"
+    ],
+    "normalizedTokens": [
+      "cuvee",
+      "20",
+      "renaissance",
+      "extra",
+      "43%",
+      "0.7 л"
+    ],
+    "params": {
+      "volume": "0.7 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "43%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Коньяк LHERAUD Vs 40% 0.7 л",
+    "cleanTokens": [
+      "vs"
+    ],
+    "normalizedTokens": [
+      "vs",
+      "40%",
+      "0.7 л"
+    ],
+    "params": {
+      "volume": "0.7 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "40%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Коньяк Bisquit & Dubouche Xo 40% 0.7 л",
+    "cleanTokens": [
+      "xo"
+    ],
+    "normalizedTokens": [
+      "xo",
+      "40%",
+      "0.7 л"
+    ],
+    "params": {
+      "volume": "0.7 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "40%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Коньяк Martell Single Distillery Vs 40% 0.7 л",
+    "cleanTokens": [
+      "single",
+      "distillery",
+      "vs"
+    ],
+    "normalizedTokens": [
+      "single",
+      "distillery",
+      "vs",
+      "40%",
+      "0.7 л"
+    ],
+    "params": {
+      "volume": "0.7 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "40%",
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Коньяк Courvoisier Vsop 40% 0.5 л",
+    "cleanTokens": [
+      "vsop"
+    ],
+    "normalizedTokens": [
+      "vsop",
+      "40%",
+      "0.5 л"
+    ],
+    "params": {
+      "volume": "0.5 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": "40%",
+      "age": null,
+      "stars": null
+    }
+  }
+]

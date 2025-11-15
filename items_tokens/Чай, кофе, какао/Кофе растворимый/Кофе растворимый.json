@@ -1,0 +1,8081 @@
+[
+  {
+    "original": "Кофе растворимый Jacobs Original 3 в 1 порошковый 12 г",
+    "cleanTokens": [
+      "original",
+      "3",
+      "в",
+      "1",
+      "порошковый"
+    ],
+    "normalizedTokens": [
+      "original",
+      "3",
+      "в",
+      "1",
+      "порошковый",
+      "12 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "12 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Кофе растворимый NESCAFE 3 в 1 саше порошковый 14.5 г",
+    "cleanTokens": [
+      "3",
+      "в",
+      "1",
+      "саше",
+      "порошковый"
+    ],
+    "normalizedTokens": [
+      "3",
+      "в",
+      "1",
+      "саше",
+      "порошковый",
+      "14.5 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "14.5 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Кофе растворимый Jacobs Monarch сублимированный 400 г",
+    "cleanTokens": [
+      "monarch",
+      "сублимированный"
+    ],
+    "normalizedTokens": [
+      "monarch",
+      "сублимированный",
+      "400 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "400 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Кофе растворимый NESCAFE Classic Crema порошковый 95 г",
+    "cleanTokens": [
+      "classic",
+      "crema",
+      "порошковый"
+    ],
+    "normalizedTokens": [
+      "classic",
+      "crema",
+      "порошковый",
+      "95 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "95 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Кофе растворимый Jacobs Monarch сублимированный 95 г",
+    "cleanTokens": [
+      "monarch",
+      "сублимированный"
+    ],
+    "normalizedTokens": [
+      "monarch",
+      "сублимированный",
+      "95 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "95 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Кофе растворимый Jacobs Gold сублимированный 95 г",
+    "cleanTokens": [
+      "gold",
+      "сублимированный"
+    ],
+    "normalizedTokens": [
+      "gold",
+      "сублимированный",
+      "95 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "95 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Кофе растворимый MacCoffee Latte al caramello порошковый 22 г",
+    "cleanTokens": [
+      "latte",
+      "al",
+      "caramello",
+      "порошковый"
+    ],
+    "normalizedTokens": [
+      "latte",
+      "al",
+      "caramello",
+      "порошковый",
+      "22 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "22 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Кофе растворимый NESCAFE Gold Crema порошковый 85 г",
+    "cleanTokens": [
+      "gold",
+      "crema",
+      "порошковый"
+    ],
+    "normalizedTokens": [
+      "gold",
+      "crema",
+      "порошковый",
+      "85 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "85 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Кофе растворимый Beta Caffito Original порошковый 25 шт по 20 г",
+    "cleanTokens": [
+      "original",
+      "порошковый",
+      "по"
+    ],
+    "normalizedTokens": [
+      "original",
+      "порошковый",
+      "25 шт",
+      "по",
+      "20 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "20 г",
+      "count": "25 шт",
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Кофе растворимый Carte Noire Instinct гранулированный 1.8 г",
+    "cleanTokens": [
+      "instinct",
+      "гранулированный"
+    ],
+    "normalizedTokens": [
+      "instinct",
+      "гранулированный",
+      "1.8 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "1.8 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Кофе растворимый Jacobs Cappuccino 3 в 1 порошковый 12.5 г",
+    "cleanTokens": [
+      "cappuccino",
+      "3",
+      "в",
+      "1",
+      "порошковый"
+    ],
+    "normalizedTokens": [
+      "cappuccino",
+      "3",
+      "в",
+      "1",
+      "порошковый",
+      "12.5 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "12.5 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Кофе растворимый MacCoffee Gold сублимированный 30 г",
+    "cleanTokens": [
+      "gold",
+      "сублимированный"
+    ],
+    "normalizedTokens": [
+      "gold",
+      "сублимированный",
+      "30 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "30 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Кофе растворимый Fes Aroma Instant 3 в 1 порошковый 18 г",
+    "cleanTokens": [
+      "instant",
+      "3",
+      "в",
+      "1",
+      "порошковый"
+    ],
+    "normalizedTokens": [
+      "instant",
+      "3",
+      "в",
+      "1",
+      "порошковый",
+      "18 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "18 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Кофе растворимый Jacobs Latte 3 в 1 порошковый 13 г",
+    "cleanTokens": [
+      "latte",
+      "3",
+      "в",
+      "1",
+      "порошковый"
+    ],
+    "normalizedTokens": [
+      "latte",
+      "3",
+      "в",
+      "1",
+      "порошковый",
+      "13 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "13 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Кофе растворимый Jacobs Monarch сублимированный 33 г",
+    "cleanTokens": [
+      "monarch",
+      "сублимированный"
+    ],
+    "normalizedTokens": [
+      "monarch",
+      "сублимированный",
+      "33 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "33 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Кофе растворимый NESCAFE classic cappuccino сублимированный 18 г",
+    "cleanTokens": [
+      "classic",
+      "cappuccino",
+      "сублимированный"
+    ],
+    "normalizedTokens": [
+      "classic",
+      "cappuccino",
+      "сублимированный",
+      "18 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "18 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Кофе растворимый NESCAFE Gold Aroma Intenso сублимированный 85 г",
+    "cleanTokens": [
+      "gold",
+      "aroma",
+      "intenso",
+      "сублимированный"
+    ],
+    "normalizedTokens": [
+      "gold",
+      "aroma",
+      "intenso",
+      "сублимированный",
+      "85 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "85 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Кофе растворимый NESCAFE strong порошковый 14.5 г",
+    "cleanTokens": [
+      "strong",
+      "порошковый"
+    ],
+    "normalizedTokens": [
+      "strong",
+      "порошковый",
+      "14.5 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "14.5 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Кофе растворимый Maxwell House Rich Blend сублимированный 250 г",
+    "cleanTokens": [
+      "rich",
+      "blend",
+      "сублимированный"
+    ],
+    "normalizedTokens": [
+      "rich",
+      "blend",
+      "сублимированный",
+      "250 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "250 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Кофе растворимый MacCoffee 3 в 1 Классик порошковый 16 г",
+    "cleanTokens": [
+      "3",
+      "в",
+      "1",
+      "классик",
+      "порошковый"
+    ],
+    "normalizedTokens": [
+      "3",
+      "в",
+      "1",
+      "классик",
+      "порошковый",
+      "16 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "16 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Кофе растворимый Jacobs Brazilian Selection сублимированный 90 г",
+    "cleanTokens": [
+      "brazilian",
+      "selection",
+      "сублимированный"
+    ],
+    "normalizedTokens": [
+      "brazilian",
+      "selection",
+      "сублимированный",
+      "90 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "90 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Кофе растворимый MacCoffee Gold гранулированный 90 г",
+    "cleanTokens": [
+      "gold",
+      "гранулированный"
+    ],
+    "normalizedTokens": [
+      "gold",
+      "гранулированный",
+      "90 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "90 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Кофе растворимый NESCAFE Classic Latte саше порошковый 18 г",
+    "cleanTokens": [
+      "classic",
+      "latte",
+      "саше",
+      "порошковый"
+    ],
+    "normalizedTokens": [
+      "classic",
+      "latte",
+      "саше",
+      "порошковый",
+      "18 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "18 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Кофе растворимый Jacobs Monarch сублимированный 50 г",
+    "cleanTokens": [
+      "monarch",
+      "сублимированный"
+    ],
+    "normalizedTokens": [
+      "monarch",
+      "сублимированный",
+      "50 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "50 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Кофе растворимый MacCoffee Light порошковый 12 г",
+    "cleanTokens": [
+      "light",
+      "порошковый"
+    ],
+    "normalizedTokens": [
+      "light",
+      "порошковый",
+      "12 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "12 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Кофе растворимый Carte Noire Промо сублимированный 200 г",
+    "cleanTokens": [
+      "промо",
+      "сублимированный"
+    ],
+    "normalizedTokens": [
+      "промо",
+      "сублимированный",
+      "200 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "200 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Кофе растворимый MacCoffee Americano Creme 3 в 1 порошковый 18 г",
+    "cleanTokens": [
+      "americano",
+      "creme",
+      "3",
+      "в",
+      "1",
+      "порошковый"
+    ],
+    "normalizedTokens": [
+      "americano",
+      "creme",
+      "3",
+      "в",
+      "1",
+      "порошковый",
+      "18 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "18 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Кофе растворимый Jardin Gold №4 сублимированный 95 г",
+    "cleanTokens": [
+      "gold",
+      "№4",
+      "сублимированный"
+    ],
+    "normalizedTokens": [
+      "gold",
+      "№4",
+      "сублимированный",
+      "95 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "95 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Кофе растворимый NESCAFE мягкий 3 в 1 саше порошковый 14.5 г",
+    "cleanTokens": [
+      "мягкий",
+      "3",
+      "в",
+      "1",
+      "саше",
+      "порошковый"
+    ],
+    "normalizedTokens": [
+      "мягкий",
+      "3",
+      "в",
+      "1",
+      "саше",
+      "порошковый",
+      "14.5 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "14.5 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Кофе растворимый MacCoffee Arabica сублимированный 40 г",
+    "cleanTokens": [
+      "arabica",
+      "сублимированный"
+    ],
+    "normalizedTokens": [
+      "arabica",
+      "сублимированный",
+      "40 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "40 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Кофе растворимый NESCAFE Gold сублимированный 47.5 г",
+    "cleanTokens": [
+      "gold",
+      "сублимированный"
+    ],
+    "normalizedTokens": [
+      "gold",
+      "сублимированный",
+      "47.5 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "47.5 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Кофе растворимый NESCAFE Gold сублимированный 130 г",
+    "cleanTokens": [
+      "gold",
+      "сублимированный"
+    ],
+    "normalizedTokens": [
+      "gold",
+      "сублимированный",
+      "130 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "130 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Кофе растворимый MacCoffee Arabica сублимированный 90 г",
+    "cleanTokens": [
+      "arabica",
+      "сублимированный"
+    ],
+    "normalizedTokens": [
+      "arabica",
+      "сублимированный",
+      "90 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "90 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Кофе растворимый NESCAFE Gold Barista сублимированный 75 г",
+    "cleanTokens": [
+      "gold",
+      "barista",
+      "сублимированный"
+    ],
+    "normalizedTokens": [
+      "gold",
+      "barista",
+      "сублимированный",
+      "75 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "75 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Кофе растворимый Carte Noire Original сублимированный 190 г",
+    "cleanTokens": [
+      "original",
+      "сублимированный"
+    ],
+    "normalizedTokens": [
+      "original",
+      "сублимированный",
+      "190 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "190 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Кофе растворимый NESCAFE classic сублимированный 130 г",
+    "cleanTokens": [
+      "classic",
+      "сублимированный"
+    ],
+    "normalizedTokens": [
+      "classic",
+      "сублимированный",
+      "130 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "130 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Кофе растворимый MacCoffee 3 в 1 Крепкий порошковый 16 г",
+    "cleanTokens": [
+      "3",
+      "в",
+      "1",
+      "крепкий",
+      "порошковый"
+    ],
+    "normalizedTokens": [
+      "3",
+      "в",
+      "1",
+      "крепкий",
+      "порошковый",
+      "16 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "16 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Кофе растворимый NESCAFE Plombir Latte порошковый 15 г",
+    "cleanTokens": [
+      "plombir",
+      "latte",
+      "порошковый"
+    ],
+    "normalizedTokens": [
+      "plombir",
+      "latte",
+      "порошковый",
+      "15 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "15 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Кофе растворимый Carte Noire White Coffee сублимированный 17.4 г",
+    "cleanTokens": [
+      "white",
+      "coffee",
+      "сублимированный"
+    ],
+    "normalizedTokens": [
+      "white",
+      "coffee",
+      "сублимированный",
+      "17.4 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "17.4 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Кофе растворимый NESCAFE Gold сублимированный 190 г",
+    "cleanTokens": [
+      "gold",
+      "сублимированный"
+    ],
+    "normalizedTokens": [
+      "gold",
+      "сублимированный",
+      "190 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "190 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Кофе растворимый Jardin Colombia Medellin сублимированный 95 г",
+    "cleanTokens": [
+      "colombia",
+      "medellin",
+      "сублимированный"
+    ],
+    "normalizedTokens": [
+      "colombia",
+      "medellin",
+      "сублимированный",
+      "95 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "95 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Кофе растворимый MacCoffee Gold сублимированный 75 г",
+    "cleanTokens": [
+      "gold",
+      "сублимированный"
+    ],
+    "normalizedTokens": [
+      "gold",
+      "сублимированный",
+      "75 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "75 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Кофе растворимый NESCAFE Gold сублимированный 40 г",
+    "cleanTokens": [
+      "gold",
+      "сублимированный"
+    ],
+    "normalizedTokens": [
+      "gold",
+      "сублимированный",
+      "40 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "40 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Кофе растворимый Carte Noire Elegant сублимированный 95 г",
+    "cleanTokens": [
+      "elegant",
+      "сублимированный"
+    ],
+    "normalizedTokens": [
+      "elegant",
+      "сублимированный",
+      "95 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "95 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Кофе растворимый MacCoffee Gold Latte сублимированный 16 г",
+    "cleanTokens": [
+      "gold",
+      "latte",
+      "сублимированный"
+    ],
+    "normalizedTokens": [
+      "gold",
+      "latte",
+      "сублимированный",
+      "16 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "16 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Кофе растворимый MacCoffee Strong 3 в 1 порошковый 20 г",
+    "cleanTokens": [
+      "strong",
+      "3",
+      "в",
+      "1",
+      "порошковый"
+    ],
+    "normalizedTokens": [
+      "strong",
+      "3",
+      "в",
+      "1",
+      "порошковый",
+      "20 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "20 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Кофе растворимый Jacobs Caramel Latte порошковый 24 шт по 12.3 г",
+    "cleanTokens": [
+      "caramel",
+      "latte",
+      "порошковый",
+      "по"
+    ],
+    "normalizedTokens": [
+      "caramel",
+      "latte",
+      "порошковый",
+      "24 шт",
+      "по",
+      "12.3 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "12.3 г",
+      "count": "24 шт",
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Кофе растворимый NESCAFE Gold сублимированный 500 г",
+    "cleanTokens": [
+      "gold",
+      "сублимированный"
+    ],
+    "normalizedTokens": [
+      "gold",
+      "сублимированный",
+      "500 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "500 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Кофе растворимый MacCoffee Arabica сублимированный 75 г",
+    "cleanTokens": [
+      "arabica",
+      "сублимированный"
+    ],
+    "normalizedTokens": [
+      "arabica",
+      "сублимированный",
+      "75 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "75 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Кофе растворимый Jardin Deep Dark сублимированный 95 г",
+    "cleanTokens": [
+      "deep",
+      "dark",
+      "сублимированный"
+    ],
+    "normalizedTokens": [
+      "deep",
+      "dark",
+      "сублимированный",
+      "95 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "95 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Кофе растворимый Jacobs Original порошковый 24 шт по 12 г",
+    "cleanTokens": [
+      "original",
+      "порошковый",
+      "по"
+    ],
+    "normalizedTokens": [
+      "original",
+      "порошковый",
+      "24 шт",
+      "по",
+      "12 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "12 г",
+      "count": "24 шт",
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Кофе растворимый Carte Noire Original сублимированный 75 г",
+    "cleanTokens": [
+      "original",
+      "сублимированный"
+    ],
+    "normalizedTokens": [
+      "original",
+      "сублимированный",
+      "75 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "75 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Кофе растворимый NESCAFE Classic порошковый 320 г",
+    "cleanTokens": [
+      "classic",
+      "порошковый"
+    ],
+    "normalizedTokens": [
+      "classic",
+      "порошковый",
+      "320 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "320 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Кофе растворимый Jacobs Latte порошковый 24 шт по 13 г",
+    "cleanTokens": [
+      "latte",
+      "порошковый",
+      "по"
+    ],
+    "normalizedTokens": [
+      "latte",
+      "порошковый",
+      "24 шт",
+      "по",
+      "13 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "13 г",
+      "count": "24 шт",
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Кофе растворимый NESCAFE Classic порошковый 190 г",
+    "cleanTokens": [
+      "classic",
+      "порошковый"
+    ],
+    "normalizedTokens": [
+      "classic",
+      "порошковый",
+      "190 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "190 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Кофе растворимый NESCAFE Classic порошковый 47.5 г",
+    "cleanTokens": [
+      "classic",
+      "порошковый"
+    ],
+    "normalizedTokens": [
+      "classic",
+      "порошковый",
+      "47.5 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "47.5 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Кофе растворимый Jacobs Velvet сублимированный 95 г",
+    "cleanTokens": [
+      "velvet",
+      "сублимированный"
+    ],
+    "normalizedTokens": [
+      "velvet",
+      "сублимированный",
+      "95 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "95 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Кофе растворимый NESCAFE Gold порошковый 75 г",
+    "cleanTokens": [
+      "gold",
+      "порошковый"
+    ],
+    "normalizedTokens": [
+      "gold",
+      "порошковый",
+      "75 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "75 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Кофе растворимый NESCAFE Classic сублимированный 60 г",
+    "cleanTokens": [
+      "classic",
+      "сублимированный"
+    ],
+    "normalizedTokens": [
+      "classic",
+      "сублимированный",
+      "60 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "60 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Кофе растворимый NESCAFE Classic crema сублимированный 120 г",
+    "cleanTokens": [
+      "classic",
+      "crema",
+      "сублимированный"
+    ],
+    "normalizedTokens": [
+      "classic",
+      "crema",
+      "сублимированный",
+      "120 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "120 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Кофе растворимый BUSHIDO Original сублимированный 100 г",
+    "cleanTokens": [
+      "original",
+      "сублимированный"
+    ],
+    "normalizedTokens": [
+      "original",
+      "сублимированный",
+      "100 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "100 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Кофе растворимый Jacobs 3 в 1 соленая карамель порошковый 21.3 г",
+    "cleanTokens": [
+      "3",
+      "в",
+      "1",
+      "соленая",
+      "карамель",
+      "порошковый"
+    ],
+    "normalizedTokens": [
+      "3",
+      "в",
+      "1",
+      "соленая",
+      "карамель",
+      "порошковый",
+      "21.3 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "21.3 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Кофе растворимый NESCAFE Classic сублимированный 95 г",
+    "cleanTokens": [
+      "classic",
+      "сублимированный"
+    ],
+    "normalizedTokens": [
+      "classic",
+      "сублимированный",
+      "95 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "95 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Кофе растворимый Carte Noire Original сублимированный 33 г",
+    "cleanTokens": [
+      "original",
+      "сублимированный"
+    ],
+    "normalizedTokens": [
+      "original",
+      "сублимированный",
+      "33 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "33 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Кофе растворимый Jacobs Monarch сублимированный 190 г",
+    "cleanTokens": [
+      "monarch",
+      "сублимированный"
+    ],
+    "normalizedTokens": [
+      "monarch",
+      "сублимированный",
+      "190 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "190 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Кофе растворимый Coffeelogia Brazil сублимированный 500 г",
+    "cleanTokens": [
+      "brazil",
+      "сублимированный"
+    ],
+    "normalizedTokens": [
+      "brazil",
+      "сублимированный",
+      "500 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "500 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Кофе растворимый Today Pure Arabica сублимированный 150 г",
+    "cleanTokens": [
+      "pure",
+      "arabica",
+      "сублимированный"
+    ],
+    "normalizedTokens": [
+      "pure",
+      "arabica",
+      "сублимированный",
+      "150 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "150 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Кофе растворимый Jacobs Hazelnut 3 в 1 24 шт порошковый 24 шт 15 г",
+    "cleanTokens": [
+      "hazelnut",
+      "3",
+      "в",
+      "1",
+      "порошковый"
+    ],
+    "normalizedTokens": [
+      "hazelnut",
+      "3",
+      "в",
+      "1",
+      "24 шт",
+      "порошковый",
+      "24 шт",
+      "15 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "15 г",
+      "count": "24 шт",
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Кофе растворимый Jacobs Monarch гранулированный 130 г",
+    "cleanTokens": [
+      "monarch",
+      "гранулированный"
+    ],
+    "normalizedTokens": [
+      "monarch",
+      "гранулированный",
+      "130 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "130 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Кофе растворимый Jacobs latte original 3 в 1 порошковый 21 г",
+    "cleanTokens": [
+      "latte",
+      "original",
+      "3",
+      "в",
+      "1",
+      "порошковый"
+    ],
+    "normalizedTokens": [
+      "latte",
+      "original",
+      "3",
+      "в",
+      "1",
+      "порошковый",
+      "21 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "21 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Кофе растворимый Jacobs Monarch сублимированный 190 г",
+    "cleanTokens": [
+      "monarch",
+      "сублимированный"
+    ],
+    "normalizedTokens": [
+      "monarch",
+      "сублимированный",
+      "190 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "190 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Кофе растворимый Jacobs Cappuccino порошковый 24 шт по 12.5 г",
+    "cleanTokens": [
+      "cappuccino",
+      "порошковый",
+      "по"
+    ],
+    "normalizedTokens": [
+      "cappuccino",
+      "порошковый",
+      "24 шт",
+      "по",
+      "12.5 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "12.5 г",
+      "count": "24 шт",
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Кофе растворимый Maxim Mocha Gold сублимированный 20 пакетиков",
+    "cleanTokens": [
+      "mocha",
+      "gold",
+      "сублимированный",
+      "20",
+      "пакетиков"
+    ],
+    "normalizedTokens": [
+      "mocha",
+      "gold",
+      "сублимированный",
+      "20",
+      "пакетиков"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Кофе растворимый Jacobs Caramel сублимированный 3 шт",
+    "cleanTokens": [
+      "caramel",
+      "сублимированный"
+    ],
+    "normalizedTokens": [
+      "caramel",
+      "сублимированный",
+      "3 шт"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": "3 шт",
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Кофе растворимый NESCAFE Gold гранулированный 190 г",
+    "cleanTokens": [
+      "gold",
+      "гранулированный"
+    ],
+    "normalizedTokens": [
+      "gold",
+      "гранулированный",
+      "190 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "190 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Кофе растворимый Jacobs Monarch сублимированный 220 г",
+    "cleanTokens": [
+      "monarch",
+      "сублимированный"
+    ],
+    "normalizedTokens": [
+      "monarch",
+      "сублимированный",
+      "220 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "220 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Кофе растворимый Jacobs Intense порошковый 24 шт по 12 г",
+    "cleanTokens": [
+      "intense",
+      "порошковый",
+      "по"
+    ],
+    "normalizedTokens": [
+      "intense",
+      "порошковый",
+      "24 шт",
+      "по",
+      "12 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "12 г",
+      "count": "24 шт",
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Кофе растворимый MOKATE Brown Sugar порошковый 17 г",
+    "cleanTokens": [
+      "brown",
+      "sugar",
+      "порошковый"
+    ],
+    "normalizedTokens": [
+      "brown",
+      "sugar",
+      "порошковый",
+      "17 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "17 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Кофе растворимый Jacobs Cappuccino Choco порошковый 500 г",
+    "cleanTokens": [
+      "cappuccino",
+      "choco",
+      "порошковый"
+    ],
+    "normalizedTokens": [
+      "cappuccino",
+      "choco",
+      "порошковый",
+      "500 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "500 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Кофе растворимый Maxim Supreme Gold Cofee Mix сублимированный 20 стиков",
+    "cleanTokens": [
+      "supreme",
+      "gold",
+      "cofee",
+      "mix",
+      "сублимированный",
+      "20",
+      "стиков"
+    ],
+    "normalizedTokens": [
+      "supreme",
+      "gold",
+      "cofee",
+      "mix",
+      "сублимированный",
+      "20",
+      "стиков"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Кофе растворимый Jacobs Monarch 3 в 1 сублимированный 24 шт",
+    "cleanTokens": [
+      "monarch",
+      "3",
+      "в",
+      "1",
+      "сублимированный"
+    ],
+    "normalizedTokens": [
+      "monarch",
+      "3",
+      "в",
+      "1",
+      "сублимированный",
+      "24 шт"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": "24 шт",
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Кофе растворимый Здоровье Ячменный гранулированный 75 г",
+    "cleanTokens": [
+      "ячменный",
+      "гранулированный"
+    ],
+    "normalizedTokens": [
+      "ячменный",
+      "гранулированный",
+      "75 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "75 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Кофе растворимый Jacobs Velvet сублимированный 3 банки по 95 г",
+    "cleanTokens": [
+      "velvet",
+      "сублимированный",
+      "3",
+      "банки",
+      "по"
+    ],
+    "normalizedTokens": [
+      "velvet",
+      "сублимированный",
+      "3",
+      "банки",
+      "по",
+      "95 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "95 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Кофе растворимый Jacobs Cappuccino classic порошковый 20 пакетиков",
+    "cleanTokens": [
+      "cappuccino",
+      "classic",
+      "порошковый",
+      "20",
+      "пакетиков"
+    ],
+    "normalizedTokens": [
+      "cappuccino",
+      "classic",
+      "порошковый",
+      "20",
+      "пакетиков"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Кофе растворимый Maxim Original сублимированный 500 г",
+    "cleanTokens": [
+      "original",
+      "сублимированный"
+    ],
+    "normalizedTokens": [
+      "original",
+      "сублимированный",
+      "500 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "500 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Кофе растворимый Maxim Mocha Gold сублимированный 100 пакетиков",
+    "cleanTokens": [
+      "mocha",
+      "gold",
+      "сублимированный",
+      "100",
+      "пакетиков"
+    ],
+    "normalizedTokens": [
+      "mocha",
+      "gold",
+      "сублимированный",
+      "100",
+      "пакетиков"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Кофе растворимый EGOISTE Special сублимированный 100 г",
+    "cleanTokens": [
+      "special",
+      "сублимированный"
+    ],
+    "normalizedTokens": [
+      "special",
+      "сублимированный",
+      "100 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "100 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Кофе растворимый Maxim White Gold сублимированный 20 пакетиков",
+    "cleanTokens": [
+      "white",
+      "gold",
+      "сублимированный",
+      "20",
+      "пакетиков"
+    ],
+    "normalizedTokens": [
+      "white",
+      "gold",
+      "сублимированный",
+      "20",
+      "пакетиков"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Кофе растворимый EGOISTE Noir сублимированный 100 г",
+    "cleanTokens": [
+      "noir",
+      "сублимированный"
+    ],
+    "normalizedTokens": [
+      "noir",
+      "сублимированный",
+      "100 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "100 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Кофе растворимый Jacobs Monarch гранулированный 230 г",
+    "cleanTokens": [
+      "monarch",
+      "гранулированный"
+    ],
+    "normalizedTokens": [
+      "monarch",
+      "гранулированный",
+      "230 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "230 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Кофе растворимый Maxim Original сублимированный 20 пакетиков",
+    "cleanTokens": [
+      "original",
+      "сублимированный",
+      "20",
+      "пакетиков"
+    ],
+    "normalizedTokens": [
+      "original",
+      "сублимированный",
+      "20",
+      "пакетиков"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Кофе растворимый Jacobs Caramel гранулированный 24 шт по 15 г",
+    "cleanTokens": [
+      "caramel",
+      "гранулированный",
+      "по"
+    ],
+    "normalizedTokens": [
+      "caramel",
+      "гранулированный",
+      "24 шт",
+      "по",
+      "15 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "15 г",
+      "count": "24 шт",
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Кофе растворимый ЯРКО раф ванильновый порошковый 30 г 1 саше",
+    "cleanTokens": [
+      "раф",
+      "ванильновый",
+      "порошковый",
+      "1",
+      "саше"
+    ],
+    "normalizedTokens": [
+      "раф",
+      "ванильновый",
+      "порошковый",
+      "30 г",
+      "1",
+      "саше"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "30 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Кофе растворимый Maxwell House The Original порошковый 25 шт 450 г",
+    "cleanTokens": [
+      "the",
+      "original",
+      "порошковый"
+    ],
+    "normalizedTokens": [
+      "the",
+      "original",
+      "порошковый",
+      "25 шт",
+      "450 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "450 г",
+      "count": "25 шт",
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Кофе растворимый BUSHIDO KODO сублимированный 95 г",
+    "cleanTokens": [
+      "kodo",
+      "сублимированный"
+    ],
+    "normalizedTokens": [
+      "kodo",
+      "сублимированный",
+      "95 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "95 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Кофе растворимый Carte Noire Original сублимированный 150 г",
+    "cleanTokens": [
+      "original",
+      "сублимированный"
+    ],
+    "normalizedTokens": [
+      "original",
+      "сублимированный",
+      "150 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "150 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Кофе растворимый Jacobs Cappuccino порошковый 400 г",
+    "cleanTokens": [
+      "cappuccino",
+      "порошковый"
+    ],
+    "normalizedTokens": [
+      "cappuccino",
+      "порошковый",
+      "400 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "400 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Кофе растворимый Jacobs Caramel Latte порошковый 20 пакетиков",
+    "cleanTokens": [
+      "caramel",
+      "latte",
+      "порошковый",
+      "20",
+      "пакетиков"
+    ],
+    "normalizedTokens": [
+      "caramel",
+      "latte",
+      "порошковый",
+      "20",
+      "пакетиков"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Кофе растворимый СИБЕРЕКО Кедрокофе тропический порошковый 125 г",
+    "cleanTokens": [
+      "кедрокофе",
+      "тропический",
+      "порошковый"
+    ],
+    "normalizedTokens": [
+      "кедрокофе",
+      "тропический",
+      "порошковый",
+      "125 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "125 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Кофе растворимый NESCAFE Gold Aroma Intenso сублимированный 170 г",
+    "cleanTokens": [
+      "gold",
+      "aroma",
+      "intenso",
+      "сублимированный"
+    ],
+    "normalizedTokens": [
+      "gold",
+      "aroma",
+      "intenso",
+      "сублимированный",
+      "170 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "170 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Кофе растворимый NESCAFE Classic с молотой арабикой порошковый 1000 г",
+    "cleanTokens": [
+      "classic",
+      "с",
+      "молотой",
+      "арабикой",
+      "порошковый"
+    ],
+    "normalizedTokens": [
+      "classic",
+      "с",
+      "молотой",
+      "арабикой",
+      "порошковый",
+      "1000 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "1000 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Кофе растворимый Московская кофейня на паяхъ Арабика сублимированный 50 г",
+    "cleanTokens": [
+      "арабика",
+      "сублимированный"
+    ],
+    "normalizedTokens": [
+      "арабика",
+      "сублимированный",
+      "50 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "50 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Кофе растворимый DES Капучино с ирландским кремом порошковый 20 стиков",
+    "cleanTokens": [
+      "капучино",
+      "с",
+      "ирландским",
+      "кремом",
+      "порошковый",
+      "20",
+      "стиков"
+    ],
+    "normalizedTokens": [
+      "капучино",
+      "с",
+      "ирландским",
+      "кремом",
+      "порошковый",
+      "20",
+      "стиков"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Кофе растворимый Жокей Триумф сублимированный 150 г",
+    "cleanTokens": [
+      "триумф",
+      "сублимированный"
+    ],
+    "normalizedTokens": [
+      "триумф",
+      "сублимированный",
+      "150 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "150 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Кофе растворимый Jardin Gourmet Coffee Collection сублимированный 150 г",
+    "cleanTokens": [
+      "gourmet",
+      "coffee",
+      "collection",
+      "сублимированный"
+    ],
+    "normalizedTokens": [
+      "gourmet",
+      "coffee",
+      "collection",
+      "сублимированный",
+      "150 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "150 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Кофе растворимый ЯРКО латте пломбирновое порошковый 30 г 1 саше",
+    "cleanTokens": [
+      "латте",
+      "пломбирновое",
+      "порошковый",
+      "1",
+      "саше"
+    ],
+    "normalizedTokens": [
+      "латте",
+      "пломбирновое",
+      "порошковый",
+      "30 г",
+      "1",
+      "саше"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "30 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Кофе растворимый ЯРКО раф сырновый порошковый 30 г 1 саше",
+    "cleanTokens": [
+      "раф",
+      "сырновый",
+      "порошковый",
+      "1",
+      "саше"
+    ],
+    "normalizedTokens": [
+      "раф",
+      "сырновый",
+      "порошковый",
+      "30 г",
+      "1",
+      "саше"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "30 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Кофе растворимый Московская кофейня на паяхъ Суаре сублимированный 50 г",
+    "cleanTokens": [
+      "суаре",
+      "сублимированный"
+    ],
+    "normalizedTokens": [
+      "суаре",
+      "сублимированный",
+      "50 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "50 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Кофе растворимый СИБЕРЕКО Кедрокофе классический порошковый 125 г",
+    "cleanTokens": [
+      "кедрокофе",
+      "классический",
+      "порошковый"
+    ],
+    "normalizedTokens": [
+      "кедрокофе",
+      "классический",
+      "порошковый",
+      "125 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "125 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Кофе растворимый EGOISTE V.S. сублимированный 100 г",
+    "cleanTokens": [
+      "v.s.",
+      "сублимированный"
+    ],
+    "normalizedTokens": [
+      "v.s.",
+      "сублимированный",
+      "100 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "100 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Кофе растворимый DES латте фисташка порошковый",
+    "cleanTokens": [
+      "латте",
+      "фисташка",
+      "порошковый"
+    ],
+    "normalizedTokens": [
+      "латте",
+      "фисташка",
+      "порошковый"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Кофе растворимый Jacobs Caramel Latte порошковый 450 г",
+    "cleanTokens": [
+      "caramel",
+      "latte",
+      "порошковый"
+    ],
+    "normalizedTokens": [
+      "caramel",
+      "latte",
+      "порошковый",
+      "450 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "450 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Кофе растворимый Coffeelogia Brazil сублимированный 100 г",
+    "cleanTokens": [
+      "brazil",
+      "сублимированный"
+    ],
+    "normalizedTokens": [
+      "brazil",
+      "сублимированный",
+      "100 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "100 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Кофе растворимый Bourbon coffee Grand Cru сублимированный 100 г",
+    "cleanTokens": [
+      "grand",
+      "cru",
+      "сублимированный"
+    ],
+    "normalizedTokens": [
+      "grand",
+      "cru",
+      "сублимированный",
+      "100 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "100 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Кофе растворимый Today Espresso сублимированный 150 г",
+    "cleanTokens": [
+      "espresso",
+      "сублимированный"
+    ],
+    "normalizedTokens": [
+      "espresso",
+      "сублимированный",
+      "150 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "150 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Кофе растворимый А.П. Селиванов купеческий гранулированный 90 г",
+    "cleanTokens": [
+      "купеческий",
+      "гранулированный"
+    ],
+    "normalizedTokens": [
+      "купеческий",
+      "гранулированный",
+      "90 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "90 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Кофе растворимый Maximus Gold Collection сублимированный 95 г",
+    "cleanTokens": [
+      "gold",
+      "collection",
+      "сублимированный"
+    ],
+    "normalizedTokens": [
+      "gold",
+      "collection",
+      "сублимированный",
+      "95 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "95 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Кофе растворимый DeMarco 3 в 1 порошковый 1000 г",
+    "cleanTokens": [
+      "3",
+      "в",
+      "1",
+      "порошковый"
+    ],
+    "normalizedTokens": [
+      "3",
+      "в",
+      "1",
+      "порошковый",
+      "1000 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "1000 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Кофе растворимый Московская кофейня на паяхъ Коломбо сублимированный 50 г",
+    "cleanTokens": [
+      "коломбо",
+      "сублимированный"
+    ],
+    "normalizedTokens": [
+      "коломбо",
+      "сублимированный",
+      "50 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "50 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Кофе растворимый DeMarco капучино с ароматом французская ваниль гранулированный 1000 г",
+    "cleanTokens": [
+      "капучино",
+      "с",
+      "ароматом",
+      "французская",
+      "ваниль",
+      "гранулированный"
+    ],
+    "normalizedTokens": [
+      "капучино",
+      "с",
+      "ароматом",
+      "французская",
+      "ваниль",
+      "гранулированный",
+      "1000 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "1000 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Кофе растворимый Maximus Columbian сублимированный 95 г",
+    "cleanTokens": [
+      "columbian",
+      "сублимированный"
+    ],
+    "normalizedTokens": [
+      "columbian",
+      "сублимированный",
+      "95 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "95 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Кофе растворимый DeMarco РАФ со вкусом и ароматом банана гранулированный 1000 г",
+    "cleanTokens": [
+      "раф",
+      "со",
+      "вкусом",
+      "и",
+      "ароматом",
+      "банана",
+      "гранулированный"
+    ],
+    "normalizedTokens": [
+      "раф",
+      "со",
+      "вкусом",
+      "и",
+      "ароматом",
+      "банана",
+      "гранулированный",
+      "1000 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "1000 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Кофе растворимый DeMarco капучино с ароматом французская ваниль гранулированный 1000 г",
+    "cleanTokens": [
+      "капучино",
+      "с",
+      "ароматом",
+      "французская",
+      "ваниль",
+      "гранулированный"
+    ],
+    "normalizedTokens": [
+      "капучино",
+      "с",
+      "ароматом",
+      "французская",
+      "ваниль",
+      "гранулированный",
+      "1000 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "1000 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Кофе растворимый DES Капучино Классик порошковый 20 стиков",
+    "cleanTokens": [
+      "капучино",
+      "классик",
+      "порошковый",
+      "20",
+      "стиков"
+    ],
+    "normalizedTokens": [
+      "капучино",
+      "классик",
+      "порошковый",
+      "20",
+      "стиков"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Кофе растворимый Здоровье боярышник гранулированный 90 г",
+    "cleanTokens": [
+      "боярышник",
+      "гранулированный"
+    ],
+    "normalizedTokens": [
+      "боярышник",
+      "гранулированный",
+      "90 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "90 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Кофе растворимый СИБЕРЕКО Кедрокофе с цикорием порошковый 125 г",
+    "cleanTokens": [
+      "кедрокофе",
+      "с",
+      "цикорием",
+      "порошковый"
+    ],
+    "normalizedTokens": [
+      "кедрокофе",
+      "с",
+      "цикорием",
+      "порошковый",
+      "125 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "125 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Кофе растворимый BUSHIDO Black Katana сублимированный 100 г",
+    "cleanTokens": [
+      "black",
+      "katana",
+      "сублимированный"
+    ],
+    "normalizedTokens": [
+      "black",
+      "katana",
+      "сублимированный",
+      "100 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "100 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Кофе растворимый Bushido Red Katana сублимированный 100 г",
+    "cleanTokens": [
+      "red",
+      "katana",
+      "сублимированный"
+    ],
+    "normalizedTokens": [
+      "red",
+      "katana",
+      "сублимированный",
+      "100 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "100 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Кофе растворимый DES латте пломбир порошковый 20 стиков",
+    "cleanTokens": [
+      "латте",
+      "пломбир",
+      "порошковый",
+      "20",
+      "стиков"
+    ],
+    "normalizedTokens": [
+      "латте",
+      "пломбир",
+      "порошковый",
+      "20",
+      "стиков"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Кофе растворимый Jacobs Iced Latte Original порошковый 215 г",
+    "cleanTokens": [
+      "iced",
+      "latte",
+      "original",
+      "порошковый"
+    ],
+    "normalizedTokens": [
+      "iced",
+      "latte",
+      "original",
+      "порошковый",
+      "215 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "215 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Кофе растворимый Jacobs Barista Americano гранулированный 130 г",
+    "cleanTokens": [
+      "barista",
+      "americano",
+      "гранулированный"
+    ],
+    "normalizedTokens": [
+      "barista",
+      "americano",
+      "гранулированный",
+      "130 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "130 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Кофе растворимый ЯРКО латте мангоновое порошковый 30 г 1 саше",
+    "cleanTokens": [
+      "латте",
+      "мангоновое",
+      "порошковый",
+      "1",
+      "саше"
+    ],
+    "normalizedTokens": [
+      "латте",
+      "мангоновое",
+      "порошковый",
+      "30 г",
+      "1",
+      "саше"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "30 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Кофе растворимый ЯРКО латте виноградновое порошковый 30 г 1 саше",
+    "cleanTokens": [
+      "латте",
+      "виноградновое",
+      "порошковый",
+      "1",
+      "саше"
+    ],
+    "normalizedTokens": [
+      "латте",
+      "виноградновое",
+      "порошковый",
+      "30 г",
+      "1",
+      "саше"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "30 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Кофе растворимый Impresso Ristretto сублимированный 100 г",
+    "cleanTokens": [
+      "ristretto",
+      "сублимированный"
+    ],
+    "normalizedTokens": [
+      "ristretto",
+      "сублимированный",
+      "100 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "100 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Кофе растворимый Coffeelogia Brazil сублимированный 250 г",
+    "cleanTokens": [
+      "brazil",
+      "сублимированный"
+    ],
+    "normalizedTokens": [
+      "brazil",
+      "сублимированный",
+      "250 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "250 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Кофе растворимый Jardin Guatemala Atitlan сублимированный 75 г",
+    "cleanTokens": [
+      "guatemala",
+      "atitlan",
+      "сублимированный"
+    ],
+    "normalizedTokens": [
+      "guatemala",
+      "atitlan",
+      "сублимированный",
+      "75 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "75 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Кофе растворимый Maxim Mocha Gold сублимированный 170 г",
+    "cleanTokens": [
+      "mocha",
+      "gold",
+      "сублимированный"
+    ],
+    "normalizedTokens": [
+      "mocha",
+      "gold",
+      "сублимированный",
+      "170 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "170 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Кофе растворимый Maxim Mocha Gold сублимированный 100 г",
+    "cleanTokens": [
+      "mocha",
+      "gold",
+      "сублимированный"
+    ],
+    "normalizedTokens": [
+      "mocha",
+      "gold",
+      "сублимированный",
+      "100 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "100 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Кофе растворимый EGOISTE Platinum сублимированный 100 г",
+    "cleanTokens": [
+      "platinum",
+      "сублимированный"
+    ],
+    "normalizedTokens": [
+      "platinum",
+      "сублимированный",
+      "100 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "100 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Кофе растворимый Jacobs Monarch сублимированный 300 г",
+    "cleanTokens": [
+      "monarch",
+      "сублимированный"
+    ],
+    "normalizedTokens": [
+      "monarch",
+      "сублимированный",
+      "300 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "300 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Кофе растворимый Maxim Supreme Gold Cofee Mix сублимированный 100 стиков",
+    "cleanTokens": [
+      "supreme",
+      "gold",
+      "cofee",
+      "mix",
+      "сублимированный",
+      "100",
+      "стиков"
+    ],
+    "normalizedTokens": [
+      "supreme",
+      "gold",
+      "cofee",
+      "mix",
+      "сублимированный",
+      "100",
+      "стиков"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Кофе растворимый Jardin Colombia Medellin сублимированный 75 г",
+    "cleanTokens": [
+      "colombia",
+      "medellin",
+      "сублимированный"
+    ],
+    "normalizedTokens": [
+      "colombia",
+      "medellin",
+      "сублимированный",
+      "75 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "75 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Кофе растворимый Jardin Guatemala Atitlan сублимированный 95 г",
+    "cleanTokens": [
+      "guatemala",
+      "atitlan",
+      "сублимированный"
+    ],
+    "normalizedTokens": [
+      "guatemala",
+      "atitlan",
+      "сублимированный",
+      "95 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "95 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Кофе растворимый Maxim Decaffeinated сублимированный 20 пакетиков",
+    "cleanTokens": [
+      "decaffeinated",
+      "сублимированный",
+      "20",
+      "пакетиков"
+    ],
+    "normalizedTokens": [
+      "decaffeinated",
+      "сублимированный",
+      "20",
+      "пакетиков"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Кофе растворимый Jacobs 3 in 1 гранулированный 10 шт по 18 г",
+    "cleanTokens": [
+      "3",
+      "in",
+      "1",
+      "гранулированный",
+      "по"
+    ],
+    "normalizedTokens": [
+      "3",
+      "in",
+      "1",
+      "гранулированный",
+      "10 шт",
+      "по",
+      "18 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "18 г",
+      "count": "10 шт",
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Кофе растворимый EGOISTE Special сублимированный 100 г",
+    "cleanTokens": [
+      "special",
+      "сублимированный"
+    ],
+    "normalizedTokens": [
+      "special",
+      "сублимированный",
+      "100 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "100 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Кофе растворимый EGOISTE X.O. сублимированный 100 г",
+    "cleanTokens": [
+      "x.o.",
+      "сублимированный"
+    ],
+    "normalizedTokens": [
+      "x.o.",
+      "сублимированный",
+      "100 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "100 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Кофе растворимый MOKATE Strong порошковый 17 г",
+    "cleanTokens": [
+      "strong",
+      "порошковый"
+    ],
+    "normalizedTokens": [
+      "strong",
+      "порошковый",
+      "17 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "17 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Кофе растворимый Jacobs Коллекция кофейных напитков 3в1 сублимированный 1663 г",
+    "cleanTokens": [
+      "коллекция",
+      "кофейных",
+      "напитков",
+      "3в1",
+      "сублимированный"
+    ],
+    "normalizedTokens": [
+      "коллекция",
+      "кофейных",
+      "напитков",
+      "3в1",
+      "сублимированный",
+      "1663 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "1663 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Кофе растворимый Bushido Red Katana сублимированный 75 г",
+    "cleanTokens": [
+      "red",
+      "katana",
+      "сублимированный"
+    ],
+    "normalizedTokens": [
+      "red",
+      "katana",
+      "сублимированный",
+      "75 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "75 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Кофе растворимый EGOISTE Double Espresso сублимированный 100 г",
+    "cleanTokens": [
+      "double",
+      "espresso",
+      "сублимированный"
+    ],
+    "normalizedTokens": [
+      "double",
+      "espresso",
+      "сублимированный",
+      "100 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "100 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Кофе растворимый Today Pure Arabica сублимированный 95 г",
+    "cleanTokens": [
+      "pure",
+      "arabica",
+      "сублимированный"
+    ],
+    "normalizedTokens": [
+      "pure",
+      "arabica",
+      "сублимированный",
+      "95 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "95 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Кофе растворимый Jacobs Dubai Chocolate Style порошковый 10 пакетиков",
+    "cleanTokens": [
+      "dubai",
+      "chocolate",
+      "style",
+      "порошковый",
+      "10",
+      "пакетиков"
+    ],
+    "normalizedTokens": [
+      "dubai",
+      "chocolate",
+      "style",
+      "порошковый",
+      "10",
+      "пакетиков"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Кофе растворимый BUSHIDO Light Katana сублимированный 100 г",
+    "cleanTokens": [
+      "light",
+      "katana",
+      "сублимированный"
+    ],
+    "normalizedTokens": [
+      "light",
+      "katana",
+      "сублимированный",
+      "100 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "100 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Кофе растворимый EGOISTE Truffle гранулированный 95 г",
+    "cleanTokens": [
+      "truffle",
+      "гранулированный"
+    ],
+    "normalizedTokens": [
+      "truffle",
+      "гранулированный",
+      "95 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "95 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Кофе растворимый ЯРКО латте миндальновое порошковый 30 г 1 саше",
+    "cleanTokens": [
+      "латте",
+      "миндальновое",
+      "порошковый",
+      "1",
+      "саше"
+    ],
+    "normalizedTokens": [
+      "латте",
+      "миндальновое",
+      "порошковый",
+      "30 г",
+      "1",
+      "саше"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "30 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Кофе растворимый Jacobs ICED LATTE SALTED CARAMEL 3 в 1 порошковый 10 шт",
+    "cleanTokens": [
+      "iced",
+      "latte",
+      "salted",
+      "caramel",
+      "3",
+      "в",
+      "1",
+      "порошковый"
+    ],
+    "normalizedTokens": [
+      "iced",
+      "latte",
+      "salted",
+      "caramel",
+      "3",
+      "в",
+      "1",
+      "порошковый",
+      "10 шт"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": "10 шт",
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Кофе растворимый Bourbon coffee Original сублимированный 100 г",
+    "cleanTokens": [
+      "original",
+      "сублимированный"
+    ],
+    "normalizedTokens": [
+      "original",
+      "сублимированный",
+      "100 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "100 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Кофе растворимый ЯРКО латте арбузновое порошковый 30 г 1 саше",
+    "cleanTokens": [
+      "латте",
+      "арбузновое",
+      "порошковый",
+      "1",
+      "саше"
+    ],
+    "normalizedTokens": [
+      "латте",
+      "арбузновое",
+      "порошковый",
+      "30 г",
+      "1",
+      "саше"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "30 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Кофе растворимый Italica Prodotto Italliano сублимированный 100 г",
+    "cleanTokens": [
+      "prodotto",
+      "italliano",
+      "сублимированный"
+    ],
+    "normalizedTokens": [
+      "prodotto",
+      "italliano",
+      "сублимированный",
+      "100 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "100 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Кофе растворимый DeMarco Gold сублимированный 500 г",
+    "cleanTokens": [
+      "gold",
+      "сублимированный"
+    ],
+    "normalizedTokens": [
+      "gold",
+      "сублимированный",
+      "500 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "500 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Кофе растворимый DeMarco Classic сублимированный 500 г",
+    "cleanTokens": [
+      "classic",
+      "сублимированный"
+    ],
+    "normalizedTokens": [
+      "classic",
+      "сублимированный",
+      "500 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "500 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Кофе растворимый Tosside Grano Extremo гранулированный 100 г",
+    "cleanTokens": [
+      "grano",
+      "extremo",
+      "гранулированный"
+    ],
+    "normalizedTokens": [
+      "grano",
+      "extremo",
+      "гранулированный",
+      "100 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "100 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Кофе растворимый NESCAFE Ice порошковый 276 г",
+    "cleanTokens": [
+      "ice",
+      "порошковый"
+    ],
+    "normalizedTokens": [
+      "ice",
+      "порошковый",
+      "276 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "276 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Кофе растворимый Maxim Original сублимированный 170 г",
+    "cleanTokens": [
+      "original",
+      "сублимированный"
+    ],
+    "normalizedTokens": [
+      "original",
+      "сублимированный",
+      "170 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "170 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Кофе растворимый Bushido Original сублимированный 75 г",
+    "cleanTokens": [
+      "original",
+      "сублимированный"
+    ],
+    "normalizedTokens": [
+      "original",
+      "сублимированный",
+      "75 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "75 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Кофе растворимый Carte Noire Voyage au bresil сублимированный 90 г",
+    "cleanTokens": [
+      "voyage",
+      "au",
+      "bresil",
+      "сублимированный"
+    ],
+    "normalizedTokens": [
+      "voyage",
+      "au",
+      "bresil",
+      "сублимированный",
+      "90 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "90 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Кофе растворимый Jardin Colombia Medellin сублимированный 150 г",
+    "cleanTokens": [
+      "colombia",
+      "medellin",
+      "сублимированный"
+    ],
+    "normalizedTokens": [
+      "colombia",
+      "medellin",
+      "сублимированный",
+      "150 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "150 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Кофе растворимый Maxim Mocha Gold сублимированный 500 г",
+    "cleanTokens": [
+      "mocha",
+      "gold",
+      "сублимированный"
+    ],
+    "normalizedTokens": [
+      "mocha",
+      "gold",
+      "сублимированный",
+      "500 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "500 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Кофе растворимый Jardin Kenya Kilimanjaro гранулированный 75 г",
+    "cleanTokens": [
+      "kenya",
+      "kilimanjaro",
+      "гранулированный"
+    ],
+    "normalizedTokens": [
+      "kenya",
+      "kilimanjaro",
+      "гранулированный",
+      "75 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "75 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Кофе растворимый Der-Franz Instant espresso сублимированный 200 г",
+    "cleanTokens": [
+      "instant",
+      "espresso",
+      "сублимированный"
+    ],
+    "normalizedTokens": [
+      "instant",
+      "espresso",
+      "сублимированный",
+      "200 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "200 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Кофе растворимый San D'or Extra арабика сублимированный 95 г",
+    "cleanTokens": [
+      "extra",
+      "арабика",
+      "сублимированный"
+    ],
+    "normalizedTokens": [
+      "extra",
+      "арабика",
+      "сублимированный",
+      "95 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "95 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Кофе растворимый Movenpick Gold Original сублимированный 200 г",
+    "cleanTokens": [
+      "gold",
+      "original",
+      "сублимированный"
+    ],
+    "normalizedTokens": [
+      "gold",
+      "original",
+      "сублимированный",
+      "200 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "200 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Кофе растворимый Carte Noire Privilege сублимированный 95 г",
+    "cleanTokens": [
+      "privilege",
+      "сублимированный"
+    ],
+    "normalizedTokens": [
+      "privilege",
+      "сублимированный",
+      "95 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "95 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Кофе растворимый DES Латте Сгущенное молоко порошковый",
+    "cleanTokens": [
+      "латте",
+      "сгущенное",
+      "молоко",
+      "порошковый"
+    ],
+    "normalizedTokens": [
+      "латте",
+      "сгущенное",
+      "молоко",
+      "порошковый"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Кофе растворимый ЯРКО латте банановое порошковый 30 г 1 саше",
+    "cleanTokens": [
+      "латте",
+      "банановое",
+      "порошковый",
+      "1",
+      "саше"
+    ],
+    "normalizedTokens": [
+      "латте",
+      "банановое",
+      "порошковый",
+      "30 г",
+      "1",
+      "саше"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "30 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Кофе растворимый Жокей арабика гранулированный 95 г",
+    "cleanTokens": [
+      "арабика",
+      "гранулированный"
+    ],
+    "normalizedTokens": [
+      "арабика",
+      "гранулированный",
+      "95 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "95 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Кофе растворимый Der-Franz Instant crema сублимированный 200 г",
+    "cleanTokens": [
+      "instant",
+      "crema",
+      "сублимированный"
+    ],
+    "normalizedTokens": [
+      "instant",
+      "crema",
+      "сублимированный",
+      "200 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "200 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Кофе растворимый MOKATE Mix 3 in 1 порошковый 17 г",
+    "cleanTokens": [
+      "mix",
+      "3",
+      "in",
+      "1",
+      "порошковый"
+    ],
+    "normalizedTokens": [
+      "mix",
+      "3",
+      "in",
+      "1",
+      "порошковый",
+      "17 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "17 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Кофе растворимый DES капучино солёная карамель порошковый 20 стиков",
+    "cleanTokens": [
+      "капучино",
+      "соленая",
+      "карамель",
+      "порошковый",
+      "20",
+      "стиков"
+    ],
+    "normalizedTokens": [
+      "капучино",
+      "соленая",
+      "карамель",
+      "порошковый",
+      "20",
+      "стиков"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Кофе растворимый Jacobs Asian Selection сублимированный 90 г",
+    "cleanTokens": [
+      "asian",
+      "selection",
+      "сублимированный"
+    ],
+    "normalizedTokens": [
+      "asian",
+      "selection",
+      "сублимированный",
+      "90 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "90 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Кофе растворимый Impresso Negro сублимированный 100 г",
+    "cleanTokens": [
+      "negro",
+      "сублимированный"
+    ],
+    "normalizedTokens": [
+      "negro",
+      "сублимированный",
+      "100 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "100 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Кофе растворимый Maxwell House Rich Blend сублимированный 150 г",
+    "cleanTokens": [
+      "rich",
+      "blend",
+      "сублимированный"
+    ],
+    "normalizedTokens": [
+      "rich",
+      "blend",
+      "сублимированный",
+      "150 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "150 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Кофе растворимый Jacobs Dubai Chocolate Style порошковый 19.5 г",
+    "cleanTokens": [
+      "dubai",
+      "chocolate",
+      "style",
+      "порошковый"
+    ],
+    "normalizedTokens": [
+      "dubai",
+      "chocolate",
+      "style",
+      "порошковый",
+      "19.5 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "19.5 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Кофе растворимый EGOISTE Private сублимированный 100 г",
+    "cleanTokens": [
+      "private",
+      "сублимированный"
+    ],
+    "normalizedTokens": [
+      "private",
+      "сублимированный",
+      "100 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "100 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Кофе растворимый Fresco Arabica Solo сублимированный 75 г",
+    "cleanTokens": [
+      "arabica",
+      "solo",
+      "сублимированный"
+    ],
+    "normalizedTokens": [
+      "arabica",
+      "solo",
+      "сублимированный",
+      "75 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "75 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Кофе растворимый MOKATE Cappuccino Salted Caramel порошковый 110 г",
+    "cleanTokens": [
+      "cappuccino",
+      "salted",
+      "caramel",
+      "порошковый"
+    ],
+    "normalizedTokens": [
+      "cappuccino",
+      "salted",
+      "caramel",
+      "порошковый",
+      "110 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "110 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Кофе растворимый Carte Noire White Coffee сублимированный 20 шт",
+    "cleanTokens": [
+      "white",
+      "coffee",
+      "сублимированный"
+    ],
+    "normalizedTokens": [
+      "white",
+      "coffee",
+      "сублимированный",
+      "20 шт"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": "20 шт",
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Кофе растворимый LEBO Coffee Choco Brownie сублимированный 70 г",
+    "cleanTokens": [
+      "choco",
+      "brownie",
+      "сублимированный"
+    ],
+    "normalizedTokens": [
+      "choco",
+      "brownie",
+      "сублимированный",
+      "70 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "70 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Кофе растворимый Jacobs Barista Edition гранулированный 30 шт по 1.8 г",
+    "cleanTokens": [
+      "barista",
+      "edition",
+      "гранулированный",
+      "по"
+    ],
+    "normalizedTokens": [
+      "barista",
+      "edition",
+      "гранулированный",
+      "30 шт",
+      "по",
+      "1.8 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "1.8 г",
+      "count": "30 шт",
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Кофе растворимый Carte Noire Voyage Au Japan гранулированный 90 г",
+    "cleanTokens": [
+      "voyage",
+      "au",
+      "japan",
+      "гранулированный"
+    ],
+    "normalizedTokens": [
+      "voyage",
+      "au",
+      "japan",
+      "гранулированный",
+      "90 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "90 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Кофе растворимый Torabika Cappuccino порошковый 510 г",
+    "cleanTokens": [
+      "cappuccino",
+      "порошковый"
+    ],
+    "normalizedTokens": [
+      "cappuccino",
+      "порошковый",
+      "510 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "510 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Кофе растворимый EGOISTE Velvet сублимированный 95 г",
+    "cleanTokens": [
+      "velvet",
+      "сублимированный"
+    ],
+    "normalizedTokens": [
+      "velvet",
+      "сублимированный",
+      "95 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "95 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Кофе растворимый Московская кофейня на паяхъ арабика гранулированный 95 г",
+    "cleanTokens": [
+      "арабика",
+      "гранулированный"
+    ],
+    "normalizedTokens": [
+      "арабика",
+      "гранулированный",
+      "95 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "95 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Кофе растворимый Today espresso сублимированный 150 г",
+    "cleanTokens": [
+      "espresso",
+      "сублимированный"
+    ],
+    "normalizedTokens": [
+      "espresso",
+      "сублимированный",
+      "150 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "150 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Кофе растворимый MacCoffee Cappuccino Di Torino с шоколадной крошкой порошковый 20 пакетиков",
+    "cleanTokens": [
+      "cappuccino",
+      "di",
+      "torino",
+      "с",
+      "шоколадной",
+      "крошкой",
+      "порошковый",
+      "20",
+      "пакетиков"
+    ],
+    "normalizedTokens": [
+      "cappuccino",
+      "di",
+      "torino",
+      "с",
+      "шоколадной",
+      "крошкой",
+      "порошковый",
+      "20",
+      "пакетиков"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Кофе растворимый Maxim Mocha Gold Zero Sugar сублимированный 20 пакетиков",
+    "cleanTokens": [
+      "mocha",
+      "gold",
+      "zero",
+      "sugar",
+      "сублимированный",
+      "20",
+      "пакетиков"
+    ],
+    "normalizedTokens": [
+      "mocha",
+      "gold",
+      "zero",
+      "sugar",
+      "сублимированный",
+      "20",
+      "пакетиков"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Кофе растворимый Bridge Coffee Капучино порошковый 20 г",
+    "cleanTokens": [
+      "капучино",
+      "порошковый"
+    ],
+    "normalizedTokens": [
+      "капучино",
+      "порошковый",
+      "20 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "20 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Кофе растворимый Ucc The Blend 114 гранулированный 90 г",
+    "cleanTokens": [
+      "the",
+      "blend",
+      "114",
+      "гранулированный"
+    ],
+    "normalizedTokens": [
+      "the",
+      "blend",
+      "114",
+      "гранулированный",
+      "90 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "90 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Кофе растворимый EGOISTE Grand Cru гранулированный 95 г",
+    "cleanTokens": [
+      "grand",
+      "cru",
+      "гранулированный"
+    ],
+    "normalizedTokens": [
+      "grand",
+      "cru",
+      "гранулированный",
+      "95 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "95 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Кофе растворимый Maxim Original сублимированный 100 г",
+    "cleanTokens": [
+      "original",
+      "сублимированный"
+    ],
+    "normalizedTokens": [
+      "original",
+      "сублимированный",
+      "100 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "100 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Кофе растворимый Eilles Kaffee Gourmet гранулированный 100 г",
+    "cleanTokens": [
+      "gourmet",
+      "гранулированный"
+    ],
+    "normalizedTokens": [
+      "gourmet",
+      "гранулированный",
+      "100 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "100 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Кофе растворимый Cafe Creme Product of brazil сублимированный 45 г",
+    "cleanTokens": [
+      "product",
+      "of",
+      "brazil",
+      "сублимированный"
+    ],
+    "normalizedTokens": [
+      "product",
+      "of",
+      "brazil",
+      "сублимированный",
+      "45 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "45 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Кофе растворимый Carte Noire Original гранулированный 30 шт по 1.8 г",
+    "cleanTokens": [
+      "original",
+      "гранулированный",
+      "по"
+    ],
+    "normalizedTokens": [
+      "original",
+      "гранулированный",
+      "30 шт",
+      "по",
+      "1.8 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "1.8 г",
+      "count": "30 шт",
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Кофе растворимый Helmut Sachers Kaffee Espresso сублимированный 90 г",
+    "cleanTokens": [
+      "espresso",
+      "сублимированный"
+    ],
+    "normalizedTokens": [
+      "espresso",
+      "сублимированный",
+      "90 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "90 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Кофе растворимый San D'or Mocca сублимированный 95 г",
+    "cleanTokens": [
+      "mocca",
+      "сублимированный"
+    ],
+    "normalizedTokens": [
+      "mocca",
+      "сублимированный",
+      "95 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "95 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Кофе растворимый Maxim White Gold сублимированный 170 пакетиков",
+    "cleanTokens": [
+      "white",
+      "gold",
+      "сублимированный",
+      "170",
+      "пакетиков"
+    ],
+    "normalizedTokens": [
+      "white",
+      "gold",
+      "сублимированный",
+      "170",
+      "пакетиков"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Кофе растворимый Bourbon coffee Arabica Gold сублимированный 100 г",
+    "cleanTokens": [
+      "arabica",
+      "gold",
+      "сублимированный"
+    ],
+    "normalizedTokens": [
+      "arabica",
+      "gold",
+      "сублимированный",
+      "100 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "100 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Кофе растворимый SENATOR Americano сублимированный 75 г",
+    "cleanTokens": [
+      "americano",
+      "сублимированный"
+    ],
+    "normalizedTokens": [
+      "americano",
+      "сублимированный",
+      "75 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "75 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Кофе растворимый Maxim Mocha Gold сублимированный 250 пакетиков",
+    "cleanTokens": [
+      "mocha",
+      "gold",
+      "сублимированный",
+      "250",
+      "пакетиков"
+    ],
+    "normalizedTokens": [
+      "mocha",
+      "gold",
+      "сублимированный",
+      "250",
+      "пакетиков"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Кофе растворимый MOKATE Caramel порошковый 17 г",
+    "cleanTokens": [
+      "caramel",
+      "порошковый"
+    ],
+    "normalizedTokens": [
+      "caramel",
+      "порошковый",
+      "17 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "17 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Кофе растворимый Bridge Coffee 3 в 1 классический порошковый 20 г",
+    "cleanTokens": [
+      "3",
+      "в",
+      "1",
+      "классический",
+      "порошковый"
+    ],
+    "normalizedTokens": [
+      "3",
+      "в",
+      "1",
+      "классический",
+      "порошковый",
+      "20 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "20 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Кофе растворимый Maxwell House Rich Blend сублимированный 200 г",
+    "cleanTokens": [
+      "rich",
+      "blend",
+      "сублимированный"
+    ],
+    "normalizedTokens": [
+      "rich",
+      "blend",
+      "сублимированный",
+      "200 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "200 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Кофе растворимый Fresco Arabica Solo порошковый 250 г",
+    "cleanTokens": [
+      "arabica",
+      "solo",
+      "порошковый"
+    ],
+    "normalizedTokens": [
+      "arabica",
+      "solo",
+      "порошковый",
+      "250 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "250 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Кофе растворимый Maximus Gold гранулированный 70 г",
+    "cleanTokens": [
+      "gold",
+      "гранулированный"
+    ],
+    "normalizedTokens": [
+      "gold",
+      "гранулированный",
+      "70 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "70 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Кофе растворимый MOKATE Cappuccino Vanilla порошковый 110 г",
+    "cleanTokens": [
+      "cappuccino",
+      "vanilla",
+      "порошковый"
+    ],
+    "normalizedTokens": [
+      "cappuccino",
+      "vanilla",
+      "порошковый",
+      "110 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "110 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Кофе растворимый Helmut Sachers Kaffee Wiener Mischung сублимированный 90 г",
+    "cleanTokens": [
+      "wiener",
+      "mischung",
+      "сублимированный"
+    ],
+    "normalizedTokens": [
+      "wiener",
+      "mischung",
+      "сублимированный",
+      "90 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "90 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Кофе растворимый Jacobs Monarch порошковый 30 шт по 1.8 г",
+    "cleanTokens": [
+      "monarch",
+      "порошковый",
+      "по"
+    ],
+    "normalizedTokens": [
+      "monarch",
+      "порошковый",
+      "30 шт",
+      "по",
+      "1.8 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "1.8 г",
+      "count": "30 шт",
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Кофе растворимый Helmut Sachers Kaffee Crema сублимированный 90 г",
+    "cleanTokens": [
+      "crema",
+      "сублимированный"
+    ],
+    "normalizedTokens": [
+      "crema",
+      "сублимированный",
+      "90 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "90 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Кофе растворимый DES капучино амаретто порошковый 30 г",
+    "cleanTokens": [
+      "капучино",
+      "амаретто",
+      "порошковый"
+    ],
+    "normalizedTokens": [
+      "капучино",
+      "амаретто",
+      "порошковый",
+      "30 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "30 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Кофе растворимый Movenpick Gold Intense сублимированный 200 г",
+    "cleanTokens": [
+      "gold",
+      "intense",
+      "сублимированный"
+    ],
+    "normalizedTokens": [
+      "gold",
+      "intense",
+      "сублимированный",
+      "200 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "200 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Кофе растворимый Impresso Delicato гранулированный 100 г",
+    "cleanTokens": [
+      "delicato",
+      "гранулированный"
+    ],
+    "normalizedTokens": [
+      "delicato",
+      "гранулированный",
+      "100 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "100 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Кофе растворимый Black in Black Pure Arabica сублимированный 85 г",
+    "cleanTokens": [
+      "pure",
+      "arabica",
+      "сублимированный"
+    ],
+    "normalizedTokens": [
+      "pure",
+      "arabica",
+      "сублимированный",
+      "85 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "85 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Кофе растворимый MOKATE Cappuccino Belgian Chocolate порошковый 110 г",
+    "cleanTokens": [
+      "cappuccino",
+      "belgian",
+      "chocolate",
+      "порошковый"
+    ],
+    "normalizedTokens": [
+      "cappuccino",
+      "belgian",
+      "chocolate",
+      "порошковый",
+      "110 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "110 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Кофе растворимый Cafe Creme Brazil сублимированный 75 г",
+    "cleanTokens": [
+      "brazil",
+      "сублимированный"
+    ],
+    "normalizedTokens": [
+      "brazil",
+      "сублимированный",
+      "75 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "75 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Кофе растворимый ЯРКО латте дынновое порошковый 30 г 1 саше",
+    "cleanTokens": [
+      "латте",
+      "дынновое",
+      "порошковый",
+      "1",
+      "саше"
+    ],
+    "normalizedTokens": [
+      "латте",
+      "дынновое",
+      "порошковый",
+      "30 г",
+      "1",
+      "саше"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "30 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Кофе растворимый DES латте классик порошковый",
+    "cleanTokens": [
+      "латте",
+      "классик",
+      "порошковый"
+    ],
+    "normalizedTokens": [
+      "латте",
+      "классик",
+      "порошковый"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Кофе растворимый Maximus Original гранулированный 70 г",
+    "cleanTokens": [
+      "original",
+      "гранулированный"
+    ],
+    "normalizedTokens": [
+      "original",
+      "гранулированный",
+      "70 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "70 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Кофе растворимый MOKATE Cappuccino Classic порошковый 110 г",
+    "cleanTokens": [
+      "cappuccino",
+      "classic",
+      "порошковый"
+    ],
+    "normalizedTokens": [
+      "cappuccino",
+      "classic",
+      "порошковый",
+      "110 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "110 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Кофе растворимый MacCoffee Латте порошковый 20 г",
+    "cleanTokens": [
+      "латте",
+      "порошковый"
+    ],
+    "normalizedTokens": [
+      "латте",
+      "порошковый",
+      "20 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "20 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Кофе растворимый MOKATE Cappuccino French Macaroons порошковый 110 г",
+    "cleanTokens": [
+      "cappuccino",
+      "french",
+      "macaroons",
+      "порошковый"
+    ],
+    "normalizedTokens": [
+      "cappuccino",
+      "french",
+      "macaroons",
+      "порошковый",
+      "110 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "110 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Кофе растворимый DES Латте Банановое мороженое порошковый",
+    "cleanTokens": [
+      "латте",
+      "банановое",
+      "мороженое",
+      "порошковый"
+    ],
+    "normalizedTokens": [
+      "латте",
+      "банановое",
+      "мороженое",
+      "порошковый"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Кофе растворимый DES капучино лесной орех порошковый 20 стиков",
+    "cleanTokens": [
+      "капучино",
+      "лесной",
+      "орех",
+      "порошковый",
+      "20",
+      "стиков"
+    ],
+    "normalizedTokens": [
+      "капучино",
+      "лесной",
+      "орех",
+      "порошковый",
+      "20",
+      "стиков"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Кофе растворимый Mocca Jack Obsession сублимированный 200 г",
+    "cleanTokens": [
+      "obsession",
+      "сублимированный"
+    ],
+    "normalizedTokens": [
+      "obsession",
+      "сублимированный",
+      "200 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "200 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Кофе растворимый DES капучино пряный апельсин порошковый",
+    "cleanTokens": [
+      "капучино",
+      "пряный",
+      "апельсин",
+      "порошковый"
+    ],
+    "normalizedTokens": [
+      "капучино",
+      "пряный",
+      "апельсин",
+      "порошковый"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Кофе растворимый See's в стакане Milk Cafe Latte сублимированный 25 г",
+    "cleanTokens": [
+      "see's",
+      "в",
+      "стакане",
+      "milk",
+      "cafe",
+      "latte",
+      "сублимированный"
+    ],
+    "normalizedTokens": [
+      "see's",
+      "в",
+      "стакане",
+      "milk",
+      "cafe",
+      "latte",
+      "сублимированный",
+      "25 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "25 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Кофе растворимый Impresso Negro сублимированный 100 г",
+    "cleanTokens": [
+      "negro",
+      "сублимированный"
+    ],
+    "normalizedTokens": [
+      "negro",
+      "сублимированный",
+      "100 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "100 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Кофе растворимый Bridge Coffee Моккачино порошковый 20 г",
+    "cleanTokens": [
+      "моккачино",
+      "порошковый"
+    ],
+    "normalizedTokens": [
+      "моккачино",
+      "порошковый",
+      "20 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "20 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Кофе растворимый Mocca Jack Classic гранулированный 200 г",
+    "cleanTokens": [
+      "classic",
+      "гранулированный"
+    ],
+    "normalizedTokens": [
+      "classic",
+      "гранулированный",
+      "200 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "200 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Кофе растворимый MOKATE Mix 3 in 1 порошковый 408 г",
+    "cleanTokens": [
+      "mix",
+      "3",
+      "in",
+      "1",
+      "порошковый"
+    ],
+    "normalizedTokens": [
+      "mix",
+      "3",
+      "in",
+      "1",
+      "порошковый",
+      "408 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "408 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Кофе растворимый IDEE KAFFEE Gold Express гранулированный 100 г",
+    "cleanTokens": [
+      "gold",
+      "express",
+      "гранулированный"
+    ],
+    "normalizedTokens": [
+      "gold",
+      "express",
+      "гранулированный",
+      "100 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "100 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Кофе растворимый MOKATE Brown Sugar XXL порошковый 408 г",
+    "cleanTokens": [
+      "brown",
+      "sugar",
+      "xxl",
+      "порошковый"
+    ],
+    "normalizedTokens": [
+      "brown",
+      "sugar",
+      "xxl",
+      "порошковый",
+      "408 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "408 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Кофе растворимый French Cafe с обезжиренным сухим молоком сублимированный 160 пакетиков",
+    "cleanTokens": [
+      "с",
+      "обезжиренным",
+      "сухим",
+      "молоком",
+      "сублимированный",
+      "160",
+      "пакетиков"
+    ],
+    "normalizedTokens": [
+      "с",
+      "обезжиренным",
+      "сухим",
+      "молоком",
+      "сублимированный",
+      "160",
+      "пакетиков"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Кофе растворимый Goldbach Espresso порошковый 200 г",
+    "cleanTokens": [
+      "espresso",
+      "порошковый"
+    ],
+    "normalizedTokens": [
+      "espresso",
+      "порошковый",
+      "200 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "200 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Кофе растворимый Жокей Триумф сублимированный 450 г",
+    "cleanTokens": [
+      "триумф",
+      "сублимированный"
+    ],
+    "normalizedTokens": [
+      "триумф",
+      "сублимированный",
+      "450 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "450 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Кофе растворимый Mocca Jack Desire сублимированный 200 г",
+    "cleanTokens": [
+      "desire",
+      "сублимированный"
+    ],
+    "normalizedTokens": [
+      "desire",
+      "сублимированный",
+      "200 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "200 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Кофе растворимый DES латте малина порошковый",
+    "cleanTokens": [
+      "латте",
+      "малина",
+      "порошковый"
+    ],
+    "normalizedTokens": [
+      "латте",
+      "малина",
+      "порошковый"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Кофе растворимый MOKATE Strong порошковый 270 г",
+    "cleanTokens": [
+      "strong",
+      "порошковый"
+    ],
+    "normalizedTokens": [
+      "strong",
+      "порошковый",
+      "270 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "270 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Кофе растворимый See's Coffee в стакане Blueberry Cappuccino сублимированный 30 г",
+    "cleanTokens": [
+      "в",
+      "стакане",
+      "blueberry",
+      "cappuccino",
+      "сублимированный"
+    ],
+    "normalizedTokens": [
+      "в",
+      "стакане",
+      "blueberry",
+      "cappuccino",
+      "сублимированный",
+      "30 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "30 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Кофе растворимый EGOISTE Double Espresso сублимированный 70 г",
+    "cleanTokens": [
+      "double",
+      "espresso",
+      "сублимированный"
+    ],
+    "normalizedTokens": [
+      "double",
+      "espresso",
+      "сублимированный",
+      "70 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "70 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Кофе растворимый Fresco Arabica Blend сублимированный 75 г",
+    "cleanTokens": [
+      "arabica",
+      "blend",
+      "сублимированный"
+    ],
+    "normalizedTokens": [
+      "arabica",
+      "blend",
+      "сублимированный",
+      "75 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "75 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Кофе растворимый Italica de Luxe сублимированный 100 г",
+    "cleanTokens": [
+      "de",
+      "luxe",
+      "сублимированный"
+    ],
+    "normalizedTokens": [
+      "de",
+      "luxe",
+      "сублимированный",
+      "100 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "100 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Кофе растворимый San D'or Crema порошковый 75 г",
+    "cleanTokens": [
+      "crema",
+      "порошковый"
+    ],
+    "normalizedTokens": [
+      "crema",
+      "порошковый",
+      "75 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "75 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Кофе растворимый NESCAFE Classic порошковый 190 г",
+    "cleanTokens": [
+      "classic",
+      "порошковый"
+    ],
+    "normalizedTokens": [
+      "classic",
+      "порошковый",
+      "190 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "190 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Кофе растворимый ЯРКО латте вишневое порошковый 30 г 1 саше",
+    "cleanTokens": [
+      "латте",
+      "вишневое",
+      "порошковый",
+      "1",
+      "саше"
+    ],
+    "normalizedTokens": [
+      "латте",
+      "вишневое",
+      "порошковый",
+      "30 г",
+      "1",
+      "саше"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "30 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Кофе растворимый DES латте сливочная карамель порошковый",
+    "cleanTokens": [
+      "латте",
+      "сливочная",
+      "карамель",
+      "порошковый"
+    ],
+    "normalizedTokens": [
+      "латте",
+      "сливочная",
+      "карамель",
+      "порошковый"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Кофе растворимый LEBO Coffee Classic сублимированный 100 г",
+    "cleanTokens": [
+      "classic",
+      "сублимированный"
+    ],
+    "normalizedTokens": [
+      "classic",
+      "сублимированный",
+      "100 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "100 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Кофе растворимый Московская кофейня на паяхъ Суаре гранулированный 95 г",
+    "cleanTokens": [
+      "суаре",
+      "гранулированный"
+    ],
+    "normalizedTokens": [
+      "суаре",
+      "гранулированный",
+      "95 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "95 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Кофе растворимый PARLIAMENT Espresso сублимированный 100 г",
+    "cleanTokens": [
+      "espresso",
+      "сублимированный"
+    ],
+    "normalizedTokens": [
+      "espresso",
+      "сублимированный",
+      "100 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "100 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Кофе растворимый Trung Nguyen G7 порошковый 200 г",
+    "cleanTokens": [
+      "g7",
+      "порошковый"
+    ],
+    "normalizedTokens": [
+      "g7",
+      "порошковый",
+      "200 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "200 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Кофе растворимый Tosside Black Cherry с ароматом вишни гранулированный 95 г",
+    "cleanTokens": [
+      "black",
+      "cherry",
+      "с",
+      "ароматом",
+      "вишни",
+      "гранулированный"
+    ],
+    "normalizedTokens": [
+      "black",
+      "cherry",
+      "с",
+      "ароматом",
+      "вишни",
+      "гранулированный",
+      "95 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "95 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Кофе растворимый DES латте кокос порошковый 30 г",
+    "cleanTokens": [
+      "латте",
+      "кокос",
+      "порошковый"
+    ],
+    "normalizedTokens": [
+      "латте",
+      "кокос",
+      "порошковый",
+      "30 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "30 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Кофе растворимый NESCAFE Raf Style порошковый 340 г",
+    "cleanTokens": [
+      "raf",
+      "style",
+      "порошковый"
+    ],
+    "normalizedTokens": [
+      "raf",
+      "style",
+      "порошковый",
+      "340 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "340 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Кофе растворимый Jacobs Gold сублимированный 130 г",
+    "cleanTokens": [
+      "gold",
+      "сублимированный"
+    ],
+    "normalizedTokens": [
+      "gold",
+      "сублимированный",
+      "130 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "130 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Кофе растворимый Dong Suh Maxim Decaffeinated сублимированный 1180 г",
+    "cleanTokens": [
+      "decaffeinated",
+      "сублимированный"
+    ],
+    "normalizedTokens": [
+      "decaffeinated",
+      "сублимированный",
+      "1180 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "1180 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Кофе растворимый Jacobs Barista Americano сублимированный 95 г",
+    "cleanTokens": [
+      "barista",
+      "americano",
+      "сублимированный"
+    ],
+    "normalizedTokens": [
+      "barista",
+      "americano",
+      "сублимированный",
+      "95 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "95 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Кофе растворимый Jacobs Monarch Find Your Wonderful + кружка с лого сублимированный 190 г",
+    "cleanTokens": [
+      "monarch",
+      "find",
+      "your",
+      "wonderful",
+      "+",
+      "кружка",
+      "с",
+      "лого",
+      "сублимированный"
+    ],
+    "normalizedTokens": [
+      "monarch",
+      "find",
+      "your",
+      "wonderful",
+      "+",
+      "кружка",
+      "с",
+      "лого",
+      "сублимированный",
+      "190 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "190 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Кофе растворимый MOKATE Caramel XXL порошковый 408 г",
+    "cleanTokens": [
+      "caramel",
+      "xxl",
+      "порошковый"
+    ],
+    "normalizedTokens": [
+      "caramel",
+      "xxl",
+      "порошковый",
+      "408 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "408 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Кофе растворимый Fresco Arabica Solo сублимированный 190 г",
+    "cleanTokens": [
+      "arabica",
+      "solo",
+      "сублимированный"
+    ],
+    "normalizedTokens": [
+      "arabica",
+      "solo",
+      "сублимированный",
+      "190 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "190 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Кофе растворимый Carte Noire Elegant сублимированный 30 шт",
+    "cleanTokens": [
+      "elegant",
+      "сублимированный"
+    ],
+    "normalizedTokens": [
+      "elegant",
+      "сублимированный",
+      "30 шт"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": "30 шт",
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Кофе растворимый MOKABA халяль порошковый 80 г",
+    "cleanTokens": [
+      "халяль",
+      "порошковый"
+    ],
+    "normalizedTokens": [
+      "халяль",
+      "порошковый",
+      "80 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "80 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Кофе растворимый DES Капучино Молочный Шоколад порошковый",
+    "cleanTokens": [
+      "капучино",
+      "молочный",
+      "шоколад",
+      "порошковый"
+    ],
+    "normalizedTokens": [
+      "капучино",
+      "молочный",
+      "шоколад",
+      "порошковый"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Кофе растворимый Coffesso Cappuccino порошковый 300 г",
+    "cleanTokens": [
+      "cappuccino",
+      "порошковый"
+    ],
+    "normalizedTokens": [
+      "cappuccino",
+      "порошковый",
+      "300 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "300 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Кофе растворимый Jacobs Monarch гранулированный 30 пакетиков",
+    "cleanTokens": [
+      "monarch",
+      "гранулированный",
+      "30",
+      "пакетиков"
+    ],
+    "normalizedTokens": [
+      "monarch",
+      "гранулированный",
+      "30",
+      "пакетиков"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Кофе растворимый AGF Blendy гранулированный 80 г",
+    "cleanTokens": [
+      "blendy",
+      "гранулированный"
+    ],
+    "normalizedTokens": [
+      "blendy",
+      "гранулированный",
+      "80 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "80 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Кофе растворимый SternKaffee Wiener Crema порошковый 75 г",
+    "cleanTokens": [
+      "wiener",
+      "crema",
+      "порошковый"
+    ],
+    "normalizedTokens": [
+      "wiener",
+      "crema",
+      "порошковый",
+      "75 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "75 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Кофе растворимый Tosside Dubai Chocolate с ароматом фисташки и шоколада гранулированный 95 г",
+    "cleanTokens": [
+      "dubai",
+      "chocolate",
+      "с",
+      "ароматом",
+      "фисташки",
+      "и",
+      "шоколада",
+      "гранулированный"
+    ],
+    "normalizedTokens": [
+      "dubai",
+      "chocolate",
+      "с",
+      "ароматом",
+      "фисташки",
+      "и",
+      "шоколада",
+      "гранулированный",
+      "95 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "95 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Кофе растворимый ЯРКО раф лавандовый порошковый 30 г 1 саше",
+    "cleanTokens": [
+      "раф",
+      "лавандовый",
+      "порошковый",
+      "1",
+      "саше"
+    ],
+    "normalizedTokens": [
+      "раф",
+      "лавандовый",
+      "порошковый",
+      "30 г",
+      "1",
+      "саше"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "30 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Кофе растворимый ЯРКО латте малиновое порошковый 30 г 1 саше",
+    "cleanTokens": [
+      "латте",
+      "малиновое",
+      "порошковый",
+      "1",
+      "саше"
+    ],
+    "normalizedTokens": [
+      "латте",
+      "малиновое",
+      "порошковый",
+      "30 г",
+      "1",
+      "саше"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "30 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Кофе растворимый Ambassador Platinum сублимированный 75 г",
+    "cleanTokens": [
+      "platinum",
+      "сублимированный"
+    ],
+    "normalizedTokens": [
+      "platinum",
+      "сублимированный",
+      "75 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "75 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Кофе растворимый Fresco Arabica Black сублимированный 90 г",
+    "cleanTokens": [
+      "arabica",
+      "black",
+      "сублимированный"
+    ],
+    "normalizedTokens": [
+      "arabica",
+      "black",
+      "сублимированный",
+      "90 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "90 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Кофе растворимый Bourbon coffee Cafe Creme сублимированный 100 г",
+    "cleanTokens": [
+      "сублимированный"
+    ],
+    "normalizedTokens": [
+      "сублимированный",
+      "100 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "100 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Кофе растворимый Maxim White Gold сублимированный 1170 г",
+    "cleanTokens": [
+      "white",
+      "gold",
+      "сублимированный"
+    ],
+    "normalizedTokens": [
+      "white",
+      "gold",
+      "сублимированный",
+      "1170 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "1170 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Кофе растворимый Bourbon coffee Espresso сублимированный 100 г",
+    "cleanTokens": [
+      "espresso",
+      "сублимированный"
+    ],
+    "normalizedTokens": [
+      "espresso",
+      "сублимированный",
+      "100 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "100 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Кофе растворимый А.П. Селиванов Ячменный гранулированный 75 г",
+    "cleanTokens": [
+      "ячменный",
+      "гранулированный"
+    ],
+    "normalizedTokens": [
+      "ячменный",
+      "гранулированный",
+      "75 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "75 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Кофе растворимый ЯРКО латте дюшесновое порошковый 30 г 1 саше",
+    "cleanTokens": [
+      "латте",
+      "дюшесновое",
+      "порошковый",
+      "1",
+      "саше"
+    ],
+    "normalizedTokens": [
+      "латте",
+      "дюшесновое",
+      "порошковый",
+      "30 г",
+      "1",
+      "саше"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "30 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Кофе растворимый Today Espresso сублимированный 95 г",
+    "cleanTokens": [
+      "espresso",
+      "сублимированный"
+    ],
+    "normalizedTokens": [
+      "espresso",
+      "сублимированный",
+      "95 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "95 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Кофе растворимый Carte Noire + кружка с логотипом сублимированный 690 г",
+    "cleanTokens": [
+      "+",
+      "кружка",
+      "с",
+      "логотипом",
+      "сублимированный"
+    ],
+    "normalizedTokens": [
+      "+",
+      "кружка",
+      "с",
+      "логотипом",
+      "сублимированный",
+      "690 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "690 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Кофе растворимый SENATOR Barista сублимированный 100 г",
+    "cleanTokens": [
+      "barista",
+      "сублимированный"
+    ],
+    "normalizedTokens": [
+      "barista",
+      "сублимированный",
+      "100 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "100 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Кофе растворимый PRESIDENT Classico сублимированный 100 г",
+    "cleanTokens": [
+      "classico",
+      "сублимированный"
+    ],
+    "normalizedTokens": [
+      "classico",
+      "сублимированный",
+      "100 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "100 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Кофе растворимый Carte Noire Original сублимированный 95 г + кружка",
+    "cleanTokens": [
+      "original",
+      "сублимированный",
+      "+",
+      "кружка"
+    ],
+    "normalizedTokens": [
+      "original",
+      "сублимированный",
+      "95 г",
+      "+",
+      "кружка"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "95 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Кофе растворимый Bridge Coffee с ароматом лесного ореха порошковый 20 г",
+    "cleanTokens": [
+      "с",
+      "ароматом",
+      "лесного",
+      "ореха",
+      "порошковый"
+    ],
+    "normalizedTokens": [
+      "с",
+      "ароматом",
+      "лесного",
+      "ореха",
+      "порошковый",
+      "20 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "20 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Кофе растворимый Maximus D'oro гранулированный 70 г",
+    "cleanTokens": [
+      "d'oro",
+      "гранулированный"
+    ],
+    "normalizedTokens": [
+      "d'oro",
+      "гранулированный",
+      "70 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "70 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Кофе растворимый SENATOR Kilimanjaro сублимированный 85 г",
+    "cleanTokens": [
+      "kilimanjaro",
+      "сублимированный"
+    ],
+    "normalizedTokens": [
+      "kilimanjaro",
+      "сублимированный",
+      "85 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "85 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Кофе растворимый Torabika Caramelo Latte 3 в 1 порошковый 100 г",
+    "cleanTokens": [
+      "caramelo",
+      "latte",
+      "3",
+      "в",
+      "1",
+      "порошковый"
+    ],
+    "normalizedTokens": [
+      "caramelo",
+      "latte",
+      "3",
+      "в",
+      "1",
+      "порошковый",
+      "100 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "100 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Кофе растворимый Jacobs + кружка с логотипом сублимированный 1175 г",
+    "cleanTokens": [
+      "+",
+      "кружка",
+      "с",
+      "логотипом",
+      "сублимированный"
+    ],
+    "normalizedTokens": [
+      "+",
+      "кружка",
+      "с",
+      "логотипом",
+      "сублимированный",
+      "1175 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "1175 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Кофе растворимый Жокей Империал сублимированный 95 г",
+    "cleanTokens": [
+      "империал",
+      "сублимированный"
+    ],
+    "normalizedTokens": [
+      "империал",
+      "сублимированный",
+      "95 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "95 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Кофе растворимый Fresco Arabica Gusto сублимированный 95 г",
+    "cleanTokens": [
+      "arabica",
+      "gusto",
+      "сублимированный"
+    ],
+    "normalizedTokens": [
+      "arabica",
+      "gusto",
+      "сублимированный",
+      "95 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "95 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Кофе растворимый Московская кофейня на паяхъ Espresso гранулированный 95 г",
+    "cleanTokens": [
+      "espresso",
+      "гранулированный"
+    ],
+    "normalizedTokens": [
+      "espresso",
+      "гранулированный",
+      "95 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "95 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Кофе растворимый Maximus Columbian в стеклянной кружке гранулированный 70 г",
+    "cleanTokens": [
+      "columbian",
+      "в",
+      "стеклянной",
+      "кружке",
+      "гранулированный"
+    ],
+    "normalizedTokens": [
+      "columbian",
+      "в",
+      "стеклянной",
+      "кружке",
+      "гранулированный",
+      "70 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "70 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Кофе растворимый Maxim Original сублимированный 170 пакетиков",
+    "cleanTokens": [
+      "original",
+      "сублимированный",
+      "170",
+      "пакетиков"
+    ],
+    "normalizedTokens": [
+      "original",
+      "сублимированный",
+      "170",
+      "пакетиков"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Кофе растворимый Ucc The Blend 117 гранулированный 90 г",
+    "cleanTokens": [
+      "the",
+      "blend",
+      "117",
+      "гранулированный"
+    ],
+    "normalizedTokens": [
+      "the",
+      "blend",
+      "117",
+      "гранулированный",
+      "90 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "90 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Кофе растворимый French Cafe 3 в 1 с обезжиренным сухим молоком сублимированный 1100 г",
+    "cleanTokens": [
+      "3",
+      "в",
+      "1",
+      "с",
+      "обезжиренным",
+      "сухим",
+      "молоком",
+      "сублимированный"
+    ],
+    "normalizedTokens": [
+      "3",
+      "в",
+      "1",
+      "с",
+      "обезжиренным",
+      "сухим",
+      "молоком",
+      "сублимированный",
+      "1100 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "1100 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Кофе растворимый PARLIAMENT Arabica сублимированный 100 г",
+    "cleanTokens": [
+      "arabica",
+      "сублимированный"
+    ],
+    "normalizedTokens": [
+      "arabica",
+      "сублимированный",
+      "100 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "100 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Кофе растворимый SternKaffee Wiener Rostung сублимированный 100 г",
+    "cleanTokens": [
+      "wiener",
+      "rostung",
+      "сублимированный"
+    ],
+    "normalizedTokens": [
+      "wiener",
+      "rostung",
+      "сублимированный",
+      "100 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "100 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Кофе растворимый LEBO Coffee Exclusive сублимированный 100 г",
+    "cleanTokens": [
+      "exclusive",
+      "сублимированный"
+    ],
+    "normalizedTokens": [
+      "exclusive",
+      "сублимированный",
+      "100 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "100 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Кофе растворимый Maximus Columbian сублимированный 70 г",
+    "cleanTokens": [
+      "columbian",
+      "сублимированный"
+    ],
+    "normalizedTokens": [
+      "columbian",
+      "сублимированный",
+      "70 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "70 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Кофе растворимый Fresco Platti сублимированный 95 г",
+    "cleanTokens": [
+      "platti",
+      "сублимированный"
+    ],
+    "normalizedTokens": [
+      "platti",
+      "сублимированный",
+      "95 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "95 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Кофе растворимый SENATOR Jamaica Blue сублимированный 90 г",
+    "cleanTokens": [
+      "jamaica",
+      "blue",
+      "сублимированный"
+    ],
+    "normalizedTokens": [
+      "jamaica",
+      "blue",
+      "сублимированный",
+      "90 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "90 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Кофе растворимый San D'or Classic сублимированный 95 г",
+    "cleanTokens": [
+      "classic",
+      "сублимированный"
+    ],
+    "normalizedTokens": [
+      "classic",
+      "сублимированный",
+      "95 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "95 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Кофе растворимый SENATOR Jamaica Blue сублимированный 90 г",
+    "cleanTokens": [
+      "jamaica",
+      "blue",
+      "сублимированный"
+    ],
+    "normalizedTokens": [
+      "jamaica",
+      "blue",
+      "сублимированный",
+      "90 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "90 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Кофе растворимый LEBO Coffee Original сублимированный 100 г",
+    "cleanTokens": [
+      "original",
+      "сублимированный"
+    ],
+    "normalizedTokens": [
+      "original",
+      "сублимированный",
+      "100 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "100 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Кофе растворимый San D'or Blend сублимированный 95 г",
+    "cleanTokens": [
+      "blend",
+      "сублимированный"
+    ],
+    "normalizedTokens": [
+      "blend",
+      "сублимированный",
+      "95 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "95 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Кофе растворимый Tosside Grand Monier с ароматом апельсина и шоколада гранулированный 95 г",
+    "cleanTokens": [
+      "grand",
+      "monier",
+      "с",
+      "ароматом",
+      "апельсина",
+      "и",
+      "шоколада",
+      "гранулированный"
+    ],
+    "normalizedTokens": [
+      "grand",
+      "monier",
+      "с",
+      "ароматом",
+      "апельсина",
+      "и",
+      "шоколада",
+      "гранулированный",
+      "95 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "95 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Кофе растворимый SENATOR Collector's Coffee гранулированный 90 г",
+    "cleanTokens": [
+      "collector's",
+      "coffee",
+      "гранулированный"
+    ],
+    "normalizedTokens": [
+      "collector's",
+      "coffee",
+      "гранулированный",
+      "90 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "90 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Кофе растворимый LEBO Coffee Gold сублимированный 100 г",
+    "cleanTokens": [
+      "gold",
+      "сублимированный"
+    ],
+    "normalizedTokens": [
+      "gold",
+      "сублимированный",
+      "100 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "100 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Кофе растворимый SternKaffee Wienter Ristretto сублимированный 100 г",
+    "cleanTokens": [
+      "wienter",
+      "ristretto",
+      "сублимированный"
+    ],
+    "normalizedTokens": [
+      "wienter",
+      "ristretto",
+      "сублимированный",
+      "100 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "100 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Кофе растворимый San D'or Aroma сублимированный 95 г",
+    "cleanTokens": [
+      "aroma",
+      "сублимированный"
+    ],
+    "normalizedTokens": [
+      "aroma",
+      "сублимированный",
+      "95 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "95 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Кофе растворимый Der-Franz Hazelnut cappuccino instant порошковый 500 г",
+    "cleanTokens": [
+      "hazelnut",
+      "cappuccino",
+      "instant",
+      "порошковый"
+    ],
+    "normalizedTokens": [
+      "hazelnut",
+      "cappuccino",
+      "instant",
+      "порошковый",
+      "500 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "500 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Кофе растворимый Maximus Nero сублимированный 70 г",
+    "cleanTokens": [
+      "nero",
+      "сублимированный"
+    ],
+    "normalizedTokens": [
+      "nero",
+      "сублимированный",
+      "70 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "70 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Кофе растворимый Maximus D'Oro сублимированный 70 г",
+    "cleanTokens": [
+      "d'oro",
+      "сублимированный"
+    ],
+    "normalizedTokens": [
+      "d'oro",
+      "сублимированный",
+      "70 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "70 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Кофе растворимый MacCoffee с карамелью порошковый 20 г",
+    "cleanTokens": [
+      "с",
+      "карамелью",
+      "порошковый"
+    ],
+    "normalizedTokens": [
+      "с",
+      "карамелью",
+      "порошковый",
+      "20 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "20 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Кофе растворимый Maximus Nero гранулированный 70 г",
+    "cleanTokens": [
+      "nero",
+      "гранулированный"
+    ],
+    "normalizedTokens": [
+      "nero",
+      "гранулированный",
+      "70 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "70 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Кофе растворимый Maximus Columbia сублимированный 70 г",
+    "cleanTokens": [
+      "columbia",
+      "сублимированный"
+    ],
+    "normalizedTokens": [
+      "columbia",
+      "сублимированный",
+      "70 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "70 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Кофе растворимый 1WIN коллаген с кофе без сахара гранулированный 15 стиков",
+    "cleanTokens": [
+      "коллаген",
+      "с",
+      "без",
+      "сахара",
+      "гранулированный",
+      "15",
+      "стиков"
+    ],
+    "normalizedTokens": [
+      "коллаген",
+      "с",
+      "без",
+      "сахара",
+      "гранулированный",
+      "15",
+      "стиков"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Кофе растворимый Maximus Mexico сублимированный 70 г",
+    "cleanTokens": [
+      "mexico",
+      "сублимированный"
+    ],
+    "normalizedTokens": [
+      "mexico",
+      "сублимированный",
+      "70 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "70 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Кофе растворимый ALMAFOOD Premium Espresso Italiano сублимированный 500 г",
+    "cleanTokens": [
+      "premium",
+      "espresso",
+      "italiano",
+      "сублимированный"
+    ],
+    "normalizedTokens": [
+      "premium",
+      "espresso",
+      "italiano",
+      "сублимированный",
+      "500 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "500 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Кофе растворимый Maxim Freeze Dried гранулированный 120 г",
+    "cleanTokens": [
+      "freeze",
+      "dried",
+      "гранулированный"
+    ],
+    "normalizedTokens": [
+      "freeze",
+      "dried",
+      "гранулированный",
+      "120 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "120 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Кофе растворимый Maximus Columbian сублимированный 140 г",
+    "cleanTokens": [
+      "columbian",
+      "сублимированный"
+    ],
+    "normalizedTokens": [
+      "columbian",
+      "сублимированный",
+      "140 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "140 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Кофе растворимый Tosside Italiano Classic гранулированный 95 г",
+    "cleanTokens": [
+      "italiano",
+      "classic",
+      "гранулированный"
+    ],
+    "normalizedTokens": [
+      "italiano",
+      "classic",
+      "гранулированный",
+      "95 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "95 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Кофе растворимый Torabika Brown Coffee 3 в 1 порошковый 100 г",
+    "cleanTokens": [
+      "brown",
+      "coffee",
+      "3",
+      "в",
+      "1",
+      "порошковый"
+    ],
+    "normalizedTokens": [
+      "brown",
+      "coffee",
+      "3",
+      "в",
+      "1",
+      "порошковый",
+      "100 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "100 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Кофе растворимый LEBO Coffee Extra сублимированный 100 г",
+    "cleanTokens": [
+      "extra",
+      "сублимированный"
+    ],
+    "normalizedTokens": [
+      "extra",
+      "сублимированный",
+      "100 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "100 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Кофе растворимый Maximus Gold сублимированный 140 г",
+    "cleanTokens": [
+      "gold",
+      "сублимированный"
+    ],
+    "normalizedTokens": [
+      "gold",
+      "сублимированный",
+      "140 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "140 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Кофе растворимый Fresco Blend сублимированный 100 г",
+    "cleanTokens": [
+      "blend",
+      "сублимированный"
+    ],
+    "normalizedTokens": [
+      "blend",
+      "сублимированный",
+      "100 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "100 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Кофе растворимый San D'or Delicate сублимированный 95 г",
+    "cleanTokens": [
+      "delicate",
+      "сублимированный"
+    ],
+    "normalizedTokens": [
+      "delicate",
+      "сублимированный",
+      "95 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "95 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Кофе растворимый AGF Zeitaky гранулированный 120 г",
+    "cleanTokens": [
+      "zeitaky",
+      "гранулированный"
+    ],
+    "normalizedTokens": [
+      "zeitaky",
+      "гранулированный",
+      "120 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "120 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Кофе растворимый Maximus Gold Collection гранулированный 135 г",
+    "cleanTokens": [
+      "gold",
+      "collection",
+      "гранулированный"
+    ],
+    "normalizedTokens": [
+      "gold",
+      "collection",
+      "гранулированный",
+      "135 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "135 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Кофе растворимый Maximus Columbian гранулированный 135 г",
+    "cleanTokens": [
+      "columbian",
+      "гранулированный"
+    ],
+    "normalizedTokens": [
+      "columbian",
+      "гранулированный",
+      "135 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "135 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Кофе растворимый Maxim Freeze Dried гранулированный 170 г",
+    "cleanTokens": [
+      "freeze",
+      "dried",
+      "гранулированный"
+    ],
+    "normalizedTokens": [
+      "freeze",
+      "dried",
+      "гранулированный",
+      "170 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "170 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Кофе растворимый Maxim Mocha Gold Zero Sugar сублимированный 100 пакетиков",
+    "cleanTokens": [
+      "mocha",
+      "gold",
+      "zero",
+      "sugar",
+      "сублимированный",
+      "100",
+      "пакетиков"
+    ],
+    "normalizedTokens": [
+      "mocha",
+      "gold",
+      "zero",
+      "sugar",
+      "сублимированный",
+      "100",
+      "пакетиков"
+    ],
+    "params": {
+      "volume": null,
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Кофе растворимый Golden Life Coffee в стакане Coffee Beans Latte сублимированный 25 г",
+    "cleanTokens": [
+      "в",
+      "стакане",
+      "coffee",
+      "beans",
+      "latte",
+      "сублимированный"
+    ],
+    "normalizedTokens": [
+      "в",
+      "стакане",
+      "coffee",
+      "beans",
+      "latte",
+      "сублимированный",
+      "25 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "25 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Кофе растворимый See's Coffee в стакане Caramel Macchiato сублимированный 30 г",
+    "cleanTokens": [
+      "в",
+      "стакане",
+      "caramel",
+      "macchiato",
+      "сублимированный"
+    ],
+    "normalizedTokens": [
+      "в",
+      "стакане",
+      "caramel",
+      "macchiato",
+      "сублимированный",
+      "30 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "30 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Кофе растворимый Fresco Greco сублимированный 95 г",
+    "cleanTokens": [
+      "greco",
+      "сублимированный"
+    ],
+    "normalizedTokens": [
+      "greco",
+      "сублимированный",
+      "95 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "95 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Кофе растворимый Maximus Gold Collection сублимированный 70 г",
+    "cleanTokens": [
+      "gold",
+      "collection",
+      "сублимированный"
+    ],
+    "normalizedTokens": [
+      "gold",
+      "collection",
+      "сублимированный",
+      "70 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "70 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Кофе растворимый San D'or Gold сублимированный 95 г",
+    "cleanTokens": [
+      "gold",
+      "сублимированный"
+    ],
+    "normalizedTokens": [
+      "gold",
+      "сублимированный",
+      "95 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "95 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  }
+]

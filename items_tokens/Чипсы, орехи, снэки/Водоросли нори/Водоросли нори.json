@@ -1,0 +1,37 @@
+[
+  {
+    "original": "Sen Soy нори 4.5 г",
+    "cleanTokens": [],
+    "normalizedTokens": [
+      "4.5 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "4.5 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Sen Soy нори Wasabi 4.5 г",
+    "cleanTokens": [
+      "wasabi"
+    ],
+    "normalizedTokens": [
+      "wasabi",
+      "4.5 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "4.5 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  }
+]

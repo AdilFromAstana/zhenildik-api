@@ -1,0 +1,402 @@
+[
+  {
+    "original": "Приправыч сухой маринад к мясу и птице 35 г",
+    "cleanTokens": [
+      "сухой",
+      "маринад",
+      "к",
+      "мясу",
+      "и",
+      "птице"
+    ],
+    "normalizedTokens": [
+      "сухой",
+      "маринад",
+      "к",
+      "мясу",
+      "и",
+      "птице",
+      "35 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "35 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Костровок маринад чесночный 80 г",
+    "cleanTokens": [
+      "маринад",
+      "чесночный"
+    ],
+    "normalizedTokens": [
+      "маринад",
+      "чесночный",
+      "80 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "80 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Костровок Жидкий дым классический 0.33 л",
+    "cleanTokens": [
+      "жидкий",
+      "дым",
+      "классический"
+    ],
+    "normalizedTokens": [
+      "жидкий",
+      "дым",
+      "классический",
+      "0.33 л"
+    ],
+    "params": {
+      "volume": "0.33 л",
+      "weight": null,
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Аджика Дядя Ваня домашняя с чесноком универсальное 460 г",
+    "cleanTokens": [
+      "домашняя",
+      "с",
+      "чесноком",
+      "универсальное"
+    ],
+    "normalizedTokens": [
+      "домашняя",
+      "с",
+      "чесноком",
+      "универсальное",
+      "460 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "460 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Костровок с белым вином 80 г",
+    "cleanTokens": [
+      "с",
+      "белым",
+      "вином"
+    ],
+    "normalizedTokens": [
+      "с",
+      "белым",
+      "вином",
+      "80 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "80 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Daesang Marinade for Beef Ribs маринад 840 г",
+    "cleanTokens": [
+      "marinade",
+      "for",
+      "beef",
+      "ribs",
+      "маринад"
+    ],
+    "normalizedTokens": [
+      "marinade",
+      "for",
+      "beef",
+      "ribs",
+      "маринад",
+      "840 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "840 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Костровок маринад домашний Кавказский 80 г",
+    "cleanTokens": [
+      "маринад",
+      "домашний",
+      "кавказский"
+    ],
+    "normalizedTokens": [
+      "маринад",
+      "домашний",
+      "кавказский",
+      "80 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "80 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Daesang Pork Bulgogi маринад для свинины 280 г",
+    "cleanTokens": [
+      "pork",
+      "bulgogi",
+      "маринад",
+      "для",
+      "свинины"
+    ],
+    "normalizedTokens": [
+      "pork",
+      "bulgogi",
+      "маринад",
+      "для",
+      "свинины",
+      "280 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "280 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Солёныч соус аджика острый 200 г",
+    "cleanTokens": [
+      "соус",
+      "острый"
+    ],
+    "normalizedTokens": [
+      "соус",
+      "острый",
+      "200 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "200 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Костровок маринад для барбекю 300 г",
+    "cleanTokens": [
+      "маринад",
+      "для",
+      "барбекю"
+    ],
+    "normalizedTokens": [
+      "маринад",
+      "для",
+      "барбекю",
+      "300 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "300 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Костровок соус для мяса мед и горчица 270 г",
+    "cleanTokens": [
+      "соус",
+      "для",
+      "мяса",
+      "мед",
+      "и",
+      "горчица"
+    ],
+    "normalizedTokens": [
+      "соус",
+      "для",
+      "мяса",
+      "мед",
+      "и",
+      "горчица",
+      "270 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "270 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Маринад Daesang Marinade for Beef Ribs 280 г",
+    "cleanTokens": [
+      "маринад",
+      "marinade",
+      "for",
+      "beef",
+      "ribs"
+    ],
+    "normalizedTokens": [
+      "маринад",
+      "marinade",
+      "for",
+      "beef",
+      "ribs",
+      "280 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "280 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Daesang Marinade for Beef маринад для говядины 280 г",
+    "cleanTokens": [
+      "marinade",
+      "for",
+      "beef",
+      "маринад",
+      "для",
+      "говядины"
+    ],
+    "normalizedTokens": [
+      "marinade",
+      "for",
+      "beef",
+      "маринад",
+      "для",
+      "говядины",
+      "280 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "280 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Daesang for beef ribs маринад 500 г",
+    "cleanTokens": [
+      "for",
+      "beef",
+      "ribs",
+      "маринад"
+    ],
+    "normalizedTokens": [
+      "for",
+      "beef",
+      "ribs",
+      "маринад",
+      "500 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "500 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Daesang маринад for Pork Ribs 840 г",
+    "cleanTokens": [
+      "маринад",
+      "for",
+      "pork",
+      "ribs"
+    ],
+    "normalizedTokens": [
+      "маринад",
+      "for",
+      "pork",
+      "ribs",
+      "840 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "840 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Маринад Daesang для мяса 500 г",
+    "cleanTokens": [
+      "маринад",
+      "для",
+      "мяса"
+    ],
+    "normalizedTokens": [
+      "маринад",
+      "для",
+      "мяса",
+      "500 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "500 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  }
+]

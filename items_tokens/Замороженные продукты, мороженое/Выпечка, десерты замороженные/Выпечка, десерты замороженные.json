@@ -1,0 +1,207 @@
+[
+  {
+    "original": "Dooti Donuts пончик с маршмеллоу 65 г",
+    "cleanTokens": [
+      "пончик",
+      "с",
+      "маршмеллоу"
+    ],
+    "normalizedTokens": [
+      "пончик",
+      "с",
+      "маршмеллоу",
+      "65 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "65 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "YUFKA сигара-борек с картофелем 500 г",
+    "cleanTokens": [
+      "сигара-борек",
+      "с",
+      "картофелем"
+    ],
+    "normalizedTokens": [
+      "сигара-борек",
+      "с",
+      "картофелем",
+      "500 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "500 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Мираторг сырники творог 280 г",
+    "cleanTokens": [
+      "сырники",
+      "творог"
+    ],
+    "normalizedTokens": [
+      "сырники",
+      "творог",
+      "280 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "280 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "YasMi сырники с творогом 500 г",
+    "cleanTokens": [
+      "сырники",
+      "с",
+      "творогом"
+    ],
+    "normalizedTokens": [
+      "сырники",
+      "с",
+      "творогом",
+      "500 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "500 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "YUFKA сигара-борек с брынзой 500 г",
+    "cleanTokens": [
+      "сигара-борек",
+      "с",
+      "брынзой"
+    ],
+    "normalizedTokens": [
+      "сигара-борек",
+      "с",
+      "брынзой",
+      "500 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "500 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "ҰЛЫТАУ Ет-сүт самса говядина 500 г",
+    "cleanTokens": [
+      "самса",
+      "говядина"
+    ],
+    "normalizedTokens": [
+      "самса",
+      "говядина",
+      "500 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "500 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "YUFKA сигара-борек с говядиной 500 г",
+    "cleanTokens": [
+      "сигара-борек",
+      "с",
+      "говядиной"
+    ],
+    "normalizedTokens": [
+      "сигара-борек",
+      "с",
+      "говядиной",
+      "500 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "500 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "YUFKA мини самса с курицей 500 г",
+    "cleanTokens": [
+      "мини",
+      "самса",
+      "с",
+      "курицей"
+    ],
+    "normalizedTokens": [
+      "мини",
+      "самса",
+      "с",
+      "курицей",
+      "500 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "500 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "YUFKA самса с сыром 500 г",
+    "cleanTokens": [
+      "самса",
+      "с",
+      "сыром"
+    ],
+    "normalizedTokens": [
+      "самса",
+      "с",
+      "сыром",
+      "500 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "500 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  }
+]

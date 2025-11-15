@@ -1,0 +1,226 @@
+[
+  {
+    "original": "Lunn поваренная соль пустыни зимний сбор йодированная помол средний 500 г",
+    "cleanTokens": [
+      "поваренная",
+      "пустыни",
+      "зимний",
+      "сбор",
+      "йодированная",
+      "помол",
+      "средний"
+    ],
+    "normalizedTokens": [
+      "поваренная",
+      "пустыни",
+      "зимний",
+      "сбор",
+      "йодированная",
+      "помол",
+      "средний",
+      "500 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "500 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Lunn морская соль гималайская помол крупный 120 г",
+    "cleanTokens": [
+      "морская",
+      "гималайская",
+      "помол",
+      "крупный"
+    ],
+    "normalizedTokens": [
+      "морская",
+      "гималайская",
+      "помол",
+      "крупный",
+      "120 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "120 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Sangam Herbals поваренная соль каменная помол мелкий 120 г",
+    "cleanTokens": [
+      "поваренная",
+      "каменная",
+      "помол",
+      "мелкий"
+    ],
+    "normalizedTokens": [
+      "поваренная",
+      "каменная",
+      "помол",
+      "мелкий",
+      "120 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "120 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Cape Herb & Spice морская соль atlantic sea salt садочная помол крупный 360 г",
+    "cleanTokens": [
+      "морская",
+      "atlantic",
+      "sea",
+      "salt",
+      "садочная",
+      "помол",
+      "крупный"
+    ],
+    "normalizedTokens": [
+      "морская",
+      "atlantic",
+      "sea",
+      "salt",
+      "садочная",
+      "помол",
+      "крупный",
+      "360 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "360 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Lunn морская соль гималайская черная помол крупный 120 г",
+    "cleanTokens": [
+      "морская",
+      "гималайская",
+      "черная",
+      "помол",
+      "крупный"
+    ],
+    "normalizedTokens": [
+      "морская",
+      "гималайская",
+      "черная",
+      "помол",
+      "крупный",
+      "120 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "120 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Lunn морская соль соль пустыни зимний сбор гималайская помол крупный 100 г",
+    "cleanTokens": [
+      "морская",
+      "пустыни",
+      "зимний",
+      "сбор",
+      "гималайская",
+      "помол",
+      "крупный"
+    ],
+    "normalizedTokens": [
+      "морская",
+      "пустыни",
+      "зимний",
+      "сбор",
+      "гималайская",
+      "помол",
+      "крупный",
+      "100 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "100 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Cape Herb & Spice поваренная соль pink salt гималайская помол крупный 110 г",
+    "cleanTokens": [
+      "поваренная",
+      "pink",
+      "salt",
+      "гималайская",
+      "помол",
+      "крупный"
+    ],
+    "normalizedTokens": [
+      "поваренная",
+      "pink",
+      "salt",
+      "гималайская",
+      "помол",
+      "крупный",
+      "110 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "110 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  },
+  {
+    "original": "Cape Herb & Spice морская соль садочная помол крупный 110 г",
+    "cleanTokens": [
+      "морская",
+      "садочная",
+      "помол",
+      "крупный"
+    ],
+    "normalizedTokens": [
+      "морская",
+      "садочная",
+      "помол",
+      "крупный",
+      "110 г"
+    ],
+    "params": {
+      "volume": null,
+      "weight": "110 г",
+      "count": null,
+      "pack": null,
+      "percent": null,
+      "age": null,
+      "stars": null
+    }
+  }
+]
